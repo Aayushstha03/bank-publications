@@ -1,0 +1,167 @@
+2025-07-21 18:10:42,146 INFO: Scoring URL: https://www.dab.gov.af/ | Title: Da Afghanistan Bank
+2025-07-21 18:10:45,285 ERROR: Failed to parse score for https://www.dab.gov.af/: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:10:45,286 INFO: Scoring URL: https://www.dab.gov.af/publications | Title: Publications | Da Afghanistan Bank
+2025-07-21 18:10:47,618 ERROR: Failed to parse score for https://www.dab.gov.af/publications: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:10:47,619 INFO: Scoring URL: https://www.dab.gov.af/Annual-Financial-Report | Title: Annual Financial Report | Da Afghanistan Bank
+2025-07-21 18:10:49,975 ERROR: Failed to parse score for https://www.dab.gov.af/Annual-Financial-Report: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:10:49,976 INFO: Scoring URL: https://www.dab.gov.af/news | Title: News | Da Afghanistan Bank
+2025-07-21 18:10:52,868 ERROR: Failed to parse score for https://www.dab.gov.af/news: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:10:52,868 INFO: Scoring URL: https://www.dab.gov.af/press-release-2 | Title: Press Release | Da Afghanistan Bank
+2025-07-21 18:10:55,482 ERROR: Failed to parse score for https://www.dab.gov.af/press-release-2: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:10:55,482 INFO: Scoring URL: https://www.dab.gov.af/all-news | Title: All News | Da Afghanistan Bank
+2025-07-21 18:10:57,776 ERROR: Failed to parse score for https://www.dab.gov.af/all-news: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:10:57,776 INFO: Scoring URL: https://www.dab.gov.af/Reporting-Formats-Guidelines | Title: Reporting Formats and Guidelines - Da Afghanistan Bank
+2025-07-21 18:11:00,515 ERROR: Failed to parse score for https://www.dab.gov.af/Reporting-Formats-Guidelines: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:11:00,515 INFO: Scoring URL: https://www.dab.gov.af/departments | Title: Departments | Da Afghanistan Bank
+2025-07-21 18:11:03,165 ERROR: Failed to parse score for https://www.dab.gov.af/departments: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:11:03,166 INFO: Scoring URL: https://www.dab.gov.af/Real%20Sector | Title: REAL SECTOR - Da Afghanistan Bank
+2025-07-21 18:11:05,700 ERROR: Failed to parse score for https://www.dab.gov.af/Real%20Sector: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:11:05,700 INFO: Scoring URL: https://www.dab.gov.af/Financial-Intelligence-Unit | Title: FinTRACA OVERVIEW | Da Afghanistan Bank
+2025-07-21 18:11:09,428 ERROR: Failed to parse score for https://www.dab.gov.af/Financial-Intelligence-Unit: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:11:09,428 INFO: Analysis for Afghanistan: {
+  "https://www.dab.gov.af/": null,
+  "https://www.dab.gov.af/publications": null,
+  "https://www.dab.gov.af/Annual-Financial-Report": null,
+  "https://www.dab.gov.af/news": null,
+  "https://www.dab.gov.af/press-release-2": null,
+  "https://www.dab.gov.af/all-news": null,
+  "https://www.dab.gov.af/Reporting-Formats-Guidelines": null,
+  "https://www.dab.gov.af/departments": null,
+  "https://www.dab.gov.af/Real%20Sector": null,
+  "https://www.dab.gov.af/Financial-Intelligence-Unit": null
+}
+2025-07-21 18:12:26,172 INFO: Scoring URL: https://www.dab.gov.af/ | Title: Da Afghanistan Bank
+2025-07-21 18:12:29,223 ERROR: Failed to parse score for https://www.dab.gov.af/: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:29,223 ERROR: Raw response for https://www.dab.gov.af/: ```json
+{
+  "https://www.dab.gov.af/": 0.98
+}
+```
+2025-07-21 18:12:29,223 INFO: Scoring URL: https://www.dab.gov.af/publications | Title: Publications | Da Afghanistan Bank
+2025-07-21 18:12:31,117 ERROR: Failed to parse score for https://www.dab.gov.af/publications: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:31,118 ERROR: Raw response for https://www.dab.gov.af/publications: ```json
+{
+  "https://www.dab.gov.af/publications": 1.0
+}
+```
+2025-07-21 18:12:31,118 INFO: Scoring URL: https://www.dab.gov.af/Annual-Financial-Report | Title: Annual Financial Report | Da Afghanistan Bank
+2025-07-21 18:12:33,618 ERROR: Failed to parse score for https://www.dab.gov.af/Annual-Financial-Report: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:33,618 ERROR: Raw response for https://www.dab.gov.af/Annual-Financial-Report: ```json
+{
+  "https://www.dab.gov.af/Annual-Financial-Report": 1.0
+}
+```
+2025-07-21 18:12:33,618 INFO: Scoring URL: https://www.dab.gov.af/news | Title: News | Da Afghanistan Bank
+2025-07-21 18:12:37,465 ERROR: Failed to parse score for https://www.dab.gov.af/news: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:37,465 ERROR: Raw response for https://www.dab.gov.af/news: ```json
+{
+  "https://www.dab.gov.af/news": 0.95
+}
+```
+2025-07-21 18:12:37,465 INFO: Scoring URL: https://www.dab.gov.af/press-release-2 | Title: Press Release | Da Afghanistan Bank
+2025-07-21 18:12:39,958 ERROR: Failed to parse score for https://www.dab.gov.af/press-release-2: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:39,958 ERROR: Raw response for https://www.dab.gov.af/press-release-2: ```json
+{
+  "https://www.dab.gov.af/press-release-2": 0.9
+}
+```
+2025-07-21 18:12:39,958 INFO: Scoring URL: https://www.dab.gov.af/all-news | Title: All News | Da Afghanistan Bank
+2025-07-21 18:12:42,351 ERROR: Failed to parse score for https://www.dab.gov.af/all-news: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:42,351 ERROR: Raw response for https://www.dab.gov.af/all-news: ```json
+{
+  "https://www.dab.gov.af/all-news": 0.05
+}
+```
+2025-07-21 18:12:42,352 INFO: Scoring URL: https://www.dab.gov.af/Reporting-Formats-Guidelines | Title: Reporting Formats and Guidelines - Da Afghanistan Bank
+2025-07-21 18:12:45,169 ERROR: Failed to parse score for https://www.dab.gov.af/Reporting-Formats-Guidelines: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:45,169 ERROR: Raw response for https://www.dab.gov.af/Reporting-Formats-Guidelines: ```json
+{
+  "https://www.dab.gov.af/Reporting-Formats-Guidelines": 1.0
+}
+```
+2025-07-21 18:12:45,169 INFO: Scoring URL: https://www.dab.gov.af/departments | Title: Departments | Da Afghanistan Bank
+2025-07-21 18:12:47,167 ERROR: Failed to parse score for https://www.dab.gov.af/departments: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:47,167 ERROR: Raw response for https://www.dab.gov.af/departments: ```json
+{
+  "https://www.dab.gov.af/departments": 0.95
+}
+```
+2025-07-21 18:12:47,168 INFO: Scoring URL: https://www.dab.gov.af/Real%20Sector | Title: REAL SECTOR - Da Afghanistan Bank
+2025-07-21 18:12:48,976 ERROR: Failed to parse score for https://www.dab.gov.af/Real%20Sector: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:48,976 ERROR: Raw response for https://www.dab.gov.af/Real%20Sector: ```json
+{
+  "https://www.dab.gov.af/Real%20Sector": 0.98
+}
+```
+2025-07-21 18:12:48,976 INFO: Scoring URL: https://www.dab.gov.af/Financial-Intelligence-Unit | Title: FinTRACA OVERVIEW | Da Afghanistan Bank
+2025-07-21 18:12:51,867 ERROR: Failed to parse score for https://www.dab.gov.af/Financial-Intelligence-Unit: Expecting value: line 1 column 1 (char 0)
+2025-07-21 18:12:51,867 ERROR: Raw response for https://www.dab.gov.af/Financial-Intelligence-Unit: ```json
+{
+  "https://www.dab.gov.af/Financial-Intelligence-Unit": 0.95
+}
+```
+2025-07-21 18:12:51,867 INFO: Analysis for Afghanistan: {
+  "https://www.dab.gov.af/": null,
+  "https://www.dab.gov.af/publications": null,
+  "https://www.dab.gov.af/Annual-Financial-Report": null,
+  "https://www.dab.gov.af/news": null,
+  "https://www.dab.gov.af/press-release-2": null,
+  "https://www.dab.gov.af/all-news": null,
+  "https://www.dab.gov.af/Reporting-Formats-Guidelines": null,
+  "https://www.dab.gov.af/departments": null,
+  "https://www.dab.gov.af/Real%20Sector": null,
+  "https://www.dab.gov.af/Financial-Intelligence-Unit": null
+}
+2025-07-21 18:20:42,774 INFO: Scoring URL: https://www.dab.gov.af/ | Title: Da Afghanistan Bank
+2025-07-21 18:20:47,515 INFO: Score for https://www.dab.gov.af/: {'https://www.dab.gov.af/': 0.1}
+2025-07-21 18:20:47,515 INFO: Scoring URL: https://www.dab.gov.af/publications | Title: Publications | Da Afghanistan Bank
+2025-07-21 18:20:50,490 INFO: Score for https://www.dab.gov.af/publications: {'https://www.dab.gov.af/publications': 1.0}
+2025-07-21 18:20:50,490 INFO: Scoring URL: https://www.dab.gov.af/Annual-Financial-Report | Title: Annual Financial Report | Da Afghanistan Bank
+2025-07-21 18:20:53,009 INFO: Score for https://www.dab.gov.af/Annual-Financial-Report: {'https://www.dab.gov.af/Annual-Financial-Report': 1.0}
+2025-07-21 18:20:53,010 INFO: Scoring URL: https://www.dab.gov.af/news | Title: News | Da Afghanistan Bank
+2025-07-21 18:21:04,975 INFO: Score for https://www.dab.gov.af/news: {'https://www.dab.gov.af/news': 0.7}
+2025-07-21 18:21:04,975 INFO: Scoring URL: https://www.dab.gov.af/press-release-2 | Title: Press Release | Da Afghanistan Bank
+2025-07-21 18:21:10,306 INFO: Score for https://www.dab.gov.af/press-release-2: {'https://www.dab.gov.af/press-release-2': 0.1}
+2025-07-21 18:21:10,306 INFO: Scoring URL: https://www.dab.gov.af/all-news | Title: All News | Da Afghanistan Bank
+2025-07-21 18:21:13,111 INFO: Score for https://www.dab.gov.af/all-news: {'https://www.dab.gov.af/all-news': 0.0}
+2025-07-21 18:21:13,111 INFO: Scoring URL: https://www.dab.gov.af/Reporting-Formats-Guidelines | Title: Reporting Formats and Guidelines - Da Afghanistan Bank
+2025-07-21 18:21:15,767 INFO: Score for https://www.dab.gov.af/Reporting-Formats-Guidelines: {'https://www.dab.gov.af/Reporting-Formats-Guidelines': 1.0}
+2025-07-21 18:21:15,767 INFO: Scoring URL: https://www.dab.gov.af/departments | Title: Departments | Da Afghanistan Bank
+2025-07-21 18:21:18,966 INFO: Score for https://www.dab.gov.af/departments: {'https://www.dab.gov.af/departments': 0.9}
+2025-07-21 18:21:18,966 INFO: Scoring URL: https://www.dab.gov.af/Real%20Sector | Title: REAL SECTOR - Da Afghanistan Bank
+2025-07-21 18:21:21,460 INFO: Score for https://www.dab.gov.af/Real%20Sector: {'https://www.dab.gov.af/Real%20Sector': 0.95}
+2025-07-21 18:21:21,460 INFO: Scoring URL: https://www.dab.gov.af/Financial-Intelligence-Unit | Title: FinTRACA OVERVIEW | Da Afghanistan Bank
+2025-07-21 18:21:24,370 INFO: Score for https://www.dab.gov.af/Financial-Intelligence-Unit: {'https://www.dab.gov.af/Financial-Intelligence-Unit': 0.1}
+2025-07-21 18:21:24,371 INFO: Analysis for Afghanistan: {
+  "https://www.dab.gov.af/": 0.1,
+  "https://www.dab.gov.af/publications": 1.0,
+  "https://www.dab.gov.af/Annual-Financial-Report": 1.0,
+  "https://www.dab.gov.af/news": 0.7,
+  "https://www.dab.gov.af/press-release-2": 0.1,
+  "https://www.dab.gov.af/all-news": 0.0,
+  "https://www.dab.gov.af/Reporting-Formats-Guidelines": 1.0,
+  "https://www.dab.gov.af/departments": 0.9,
+  "https://www.dab.gov.af/Real%20Sector": 0.95,
+  "https://www.dab.gov.af/Financial-Intelligence-Unit": 0.1
+}
+2025-07-21 18:42:17,469 INFO: Scoring URL: https://www.bankofalbania.org/home/ | Title: Home
+2025-07-21 18:42:23,122 INFO: Score for https://www.bankofalbania.org/home/: {'https://www.bankofalbania.org/home/': 0.1}
+2025-07-21 18:42:23,122 INFO: Analysis for Albania: {
+  "https://www.bankofalbania.org/home/": 0.1
+}
+2025-07-21 18:44:03,312 INFO: Scoring URL: https://www.bank-of-algeria.dz/ | Title: Bank Of Algeria
+2025-07-21 18:44:08,683 INFO: Score for https://www.bank-of-algeria.dz/: {'https://www.bank-of-algeria.dz/': 0.9}
+2025-07-21 18:44:08,684 INFO: Scoring URL: https://www.bank-of-algeria.dz/stoodroa/2023/03/bulletin_42e.pdf | Title: QUARTERLY STATISTICAL BULLETIN
+2025-07-21 18:44:11,007 INFO: Score for https://www.bank-of-algeria.dz/stoodroa/2023/03/bulletin_42e.pdf: {'https://www.bank-of-algeria.dz/stoodroa/2023/03/bulletin_42e.pdf': 1}
+2025-07-21 18:44:11,008 INFO: Scoring URL: https://www.bank-of-algeria.dz/ | Title: Bank Of Algeria
+2025-07-21 18:44:13,867 INFO: Score for https://www.bank-of-algeria.dz/: {'https://www.bank-of-algeria.dz/': 0.1}
+2025-07-21 18:44:13,867 INFO: Scoring URL: https://www.bank-of-algeria.dz/ | Title: Bank Of Algeria
+2025-07-21 18:44:16,249 INFO: Score for https://www.bank-of-algeria.dz/: {'https://www.bank-of-algeria.dz/': 0.1}
+2025-07-21 18:44:16,249 INFO: Scoring URL: https://www.bank-of-algeria.dz/ | Title: Bank Of Algeria
+2025-07-21 18:44:19,799 INFO: Score for https://www.bank-of-algeria.dz/: {'https://www.bank-of-algeria.dz/': 0.1}
+2025-07-21 18:44:19,800 INFO: Scoring URL: https://www.bank-of-algeria.dz/ | Title: Bank Of Algeria
+2025-07-21 18:44:21,880 INFO: Score for https://www.bank-of-algeria.dz/: {'https://www.bank-of-algeria.dz/': 0.1}
+2025-07-21 18:44:21,881 INFO: Analysis for Algeria: {
+  "https://www.bank-of-algeria.dz/": 0.1,
+  "https://www.bank-of-algeria.dz/stoodroa/2023/03/bulletin_42e.pdf": 1
+}

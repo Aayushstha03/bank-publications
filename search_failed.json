@@ -1,0 +1,442 @@
+[
+  {
+    "Country/Region": "Angola",
+    "Bank Name": "National Bank of Angola",
+    "Bank URL": "http://www.bna.ao/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Angola site:http://www.bna.ao/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9012207984924316
+      }
+    }
+  },
+  {
+    "Country/Region": "Argentina",
+    "Bank Name": "Central Bank of Argentina",
+    "Bank URL": "http://www.bcra.gob.ar/default.asp",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Bank of Argentina site:http://www.bcra.gob.ar/default.asp publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.585752010345459
+      }
+    }
+  },
+  {
+    "Country/Region": "Burundi",
+    "Bank Name": "Bank of the Republic of Burundi",
+    "Bank URL": "https://www.brb.bi/en",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Bank of the Republic of Burundi site:https://www.brb.bi/en publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4189932346343994
+      }
+    }
+  },
+  {
+    "Country/Region": "Croatia",
+    "Bank Name": "Croatian National Bank",
+    "Bank URL": "http://www.hnb.hr/home",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Croatian National Bank site:http://www.hnb.hr/home publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.47399425506591797
+      }
+    }
+  },
+  {
+    "Country/Region": "Cyprus",
+    "Bank Name": "Central Bank of Cyprus",
+    "Bank URL": "https://www.centralbank.cy/en//home",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Bank of Cyprus site:https://www.centralbank.cy/en//home publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.825951099395752
+      }
+    }
+  },
+  {
+    "Country/Region": "El Salvador",
+    "Bank Name": "Central Reserve Bank of El Salvador",
+    "Bank URL": "http://www.bcr.gob.sv/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Reserve Bank of El Salvador site:http://www.bcr.gob.sv/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9170808792114258
+      }
+    }
+  },
+  {
+    "Country/Region": "Ethiopia",
+    "Bank Name": "National Bank of Ethiopia",
+    "Bank URL": "http://www.nbe.gov.et/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Ethiopia site:http://www.nbe.gov.et/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.915257453918457
+      }
+    }
+  },
+  {
+    "Country/Region": "Georgia",
+    "Bank Name": "National Bank of Georgia",
+    "Bank URL": "https://www.nbg.gov.ge/en",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Georgia site:https://www.nbg.gov.ge/en publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9270622730255127
+      }
+    }
+  },
+  {
+    "Country/Region": "Hungary",
+    "Bank Name": "Magyar Nemzeti Bank",
+    "Bank URL": "http://english.mnb.hu/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Magyar Nemzeti Bank site:http://english.mnb.hu/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.2227797508239746
+      }
+    }
+  },
+  {
+    "Country/Region": "Iran Islamic Republic of",
+    "Bank Name": "The Central Bank of the Islamic Republic of Iran",
+    "Bank URL": "http://www.cbi.ir/default_en.aspx",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "The Central Bank of the Islamic Republic of Iran site:http://www.cbi.ir/default_en.aspx publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.48950934410095215
+      }
+    }
+  },
+  {
+    "Country/Region": "Luxembourg",
+    "Bank Name": "Central Bank of Luxembourg",
+    "Bank URL": "https://www.bcl.lu/en/index.html",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Bank of Luxembourg site:https://www.bcl.lu/en/index.html publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5756924152374268
+      }
+    }
+  },
+  {
+    "Country/Region": "Oman",
+    "Bank Name": "Central Bank of Oman",
+    "Bank URL": "http://www.cbo.gov.om/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Bank of Oman site:http://www.cbo.gov.om/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.2906062602996826
+      }
+    }
+  },
+  {
+    "Country/Region": "Samoa",
+    "Bank Name": "Central Bank of Samoa",
+    "Bank URL": "http://www.cbs.gov.ws/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Bank of Samoa site:http://www.cbs.gov.ws/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9347281455993652
+      }
+    }
+  },
+  {
+    "Country/Region": "Serbia",
+    "Bank Name": "National Bank of Serbia",
+    "Bank URL": "https://nbs.rs/en/indeks/index.html",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Serbia site:https://nbs.rs/en/indeks/index.html publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.2073044776916504
+      }
+    }
+  },
+  {
+    "Country/Region": "Sierra Leone",
+    "Bank Name": "Bank of Sierra Leone",
+    "Bank URL": "http://www.bsl.gov.sl/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Bank of Sierra Leone site:http://www.bsl.gov.sl/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5768663883209229
+      }
+    }
+  },
+  {
+    "Country/Region": "Slovakia",
+    "Bank Name": "National Bank of Slovakia",
+    "Bank URL": "http://www.nbs.sk/en/home",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Slovakia site:http://www.nbs.sk/en/home publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4285449981689453
+      }
+    }
+  },
+  {
+    "Country/Region": "Spain",
+    "Bank Name": "Bank of Spain",
+    "Bank URL": "http://www.bde.es/homee.htm",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Bank of Spain site:http://www.bde.es/homee.htm publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.7795908451080322
+      }
+    }
+  },
+  {
+    "Country/Region": "Sudan",
+    "Bank Name": "Bank of Sudan",
+    "Bank URL": "http://www.cbos.gov.sd/en",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Bank of Sudan site:http://www.cbos.gov.sd/en publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4335031509399414
+      }
+    }
+  },
+  {
+    "Country/Region": "Thailand",
+    "Bank Name": "Bank of Thailand",
+    "Bank URL": "https://www.bot.or.th/english",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Bank of Thailand site:https://www.bot.or.th/english publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9740066528320312
+      }
+    }
+  },
+  {
+    "Country/Region": "Turkmenistan",
+    "Bank Name": "Central Bank of Turkmenistan",
+    "Bank URL": "https://www.cbt.tm/en",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "Central Bank of Turkmenistan site:https://www.cbt.tm/en publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8964722156524658
+      }
+    }
+  }
+]

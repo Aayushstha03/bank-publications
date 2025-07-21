@@ -8,8 +8,10 @@ import logging
 
 CSV_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'websites.csv')
 API_URL = "https://laterical.com/api/call/"
+
 OUTPUT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search_results.json')
 LOG_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search.log')
+FAILED_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search_failed.json')
 
 logging.basicConfig(filename=LOG_PATH, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 
@@ -66,6 +68,16 @@ def main():
         if entry.get('search_result') and 'data' in entry['search_result'] and entry['search_result']['data']:
             searched.add((entry['Bank Name'], entry['Bank URL']))
 
+    # Load failed list if present
+    if os.path.exists(FAILED_PATH):
+        try:
+            with open(FAILED_PATH, encoding='utf-8') as f:
+                failed_banks = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            failed_banks = []
+    else:
+        failed_banks = []
+
     with open(CSV_PATH, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -76,6 +88,24 @@ def main():
                 continue
             print(f"Searching for publications for: {bank_name} ({bank_url})")
             result = search_publications(bank_name, bank_url)
+            # If result is error or API error after all attempts, log to failed_banks and skip writing to results
+            is_api_error = (
+                isinstance(result, dict) and 'data' in result and result['data'] and
+                isinstance(result['data'][0], dict) and 'error' in result['data'][0]
+            )
+            is_request_error = isinstance(result, dict) and 'error' in result
+            if is_api_error or is_request_error:
+                print(f"Failed after all attempts: {bank_name} ({bank_url})")
+                failed_banks.append({
+                    "Country/Region": row['Country/Region'],
+                    "Bank Name": bank_name,
+                    "Bank URL": bank_url,
+                    "error": result
+                })
+                # Save failed banks after each fail
+                with open(FAILED_PATH, 'w', encoding='utf-8') as f:
+                    json.dump(failed_banks, f, ensure_ascii=False, indent=2)
+                continue
             entry = {
                 "Country/Region": row['Country/Region'],
                 "Bank Name": bank_name,

@@ -1,0 +1,21 @@
+{
+  "Afghanistan": {
+    "https://www.dab.gov.af/": 0.1,
+    "https://www.dab.gov.af/publications": 1.0,
+    "https://www.dab.gov.af/Annual-Financial-Report": 1.0,
+    "https://www.dab.gov.af/news": 0.7,
+    "https://www.dab.gov.af/press-release-2": 0.1,
+    "https://www.dab.gov.af/all-news": 0.0,
+    "https://www.dab.gov.af/Reporting-Formats-Guidelines": 1.0,
+    "https://www.dab.gov.af/departments": 0.9,
+    "https://www.dab.gov.af/Real%20Sector": 0.95,
+    "https://www.dab.gov.af/Financial-Intelligence-Unit": 0.1
+  },
+  "Albania": {
+    "https://www.bankofalbania.org/home/": 0.1
+  },
+  "Algeria": {
+    "https://www.bank-of-algeria.dz/": 0.1,
+    "https://www.bank-of-algeria.dz/stoodroa/2023/03/bulletin_42e.pdf": 1
+  }
+}
