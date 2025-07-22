@@ -6,12 +6,11 @@ import time
 import logging
 
 
-CSV_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'websites.csv')
+CSV_PATH = os.path.join(os.path.dirname(__file__), 'websites.csv')
 API_URL = "https://laterical.com/api/call/"
-
-OUTPUT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search_results.json')
-LOG_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search.log')
-FAILED_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search_failed.json')
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'search_results.json')
+LOG_PATH = os.path.join(os.path.dirname(__file__), 'logs','search.log')
+FAILED_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'search_failed.json')
 
 logging.basicConfig(filename=LOG_PATH, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 

@@ -5,9 +5,8 @@ import logging
 from dotenv import load_dotenv
 import google.generativeai as genai
 
-
 # Logging setup
-LOG_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'score_with_llm.log')
+LOG_PATH = os.path.join(os.path.dirname(__file__), 'logs', 'score_with_llm.log')
 logging.basicConfig(filename=LOG_PATH, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 
 # Load Gemini API key from .env
@@ -18,8 +17,8 @@ genai.configure(api_key=GEMINI_API_KEY)
 MODEL = "gemini-2.5-flash"
 model = genai.GenerativeModel(model_name=MODEL)
 
-INPUT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'search_results.json')
-OUTPUT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'scored_results.json')
+INPUT_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'search_results.json')
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'outputs','scored_results.json')
 
 PROMPT = (
     "You are an expert at identifying whether a web page contains the publications, reports, drafts, or similar official documents, where we can find the full text of the document, or a download link. "

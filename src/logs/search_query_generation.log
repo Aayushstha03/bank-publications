@@ -1,0 +1,425 @@
+2025-07-22 11:22:29,147 ERROR: Failed to parse queries for Bank of Afghanistan: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:22:29,148 ERROR: Raw response: ```json
+[
+  "site:dab.gov.af \"publications\"",
+  "site:dab.gov.af \"reports\"",
+  "site:dab.gov.af \"research\"",
+  "site:dab.gov.af \"statistics\"",
+  "site:dab.gov.af \"press releases\"",
+  "site:dab.gov.af \"newsroom\"",
+  "site:dab.gov.af \"downloadable documents\"",
+  "site:dab.gov.af \"economic data\"",
+  "site:dab.gov.af \"monetary policy reports\"",
+  "site:dab.gov.af \"annual reports\"",
+  "site:dab.gov.af \"bulletin\"",
+  "site:dab.gov.af \"working papers\"",
+  "site:dab.gov.af inurl:publications",
+  "site:dab.gov.af inurl:reports",
+  "site:dab.gov.af \"official documents\""
+]
+```
+2025-07-22 11:22:37,164 ERROR: Failed to parse queries for Bank of Albania: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:22:37,164 ERROR: Raw response: ```json
+[
+  "site:bankofalbania.org publications",
+  "site:bankofalbania.org reports",
+  "site:bankofalbania.org research",
+  "site:bankofalbania.org \"press releases\"",
+  "site:bankofalbania.org statistics",
+  "site:bankofalbania.org \"annual report\"",
+  "site:bankofalbania.org \"monetary policy report\"",
+  "site:bankofalbania.org \"financial stability report\"",
+  "site:bankofalbania.org \"working papers\"",
+  "site:bankofalbania.org inurl:publications",
+  "site:bankofalbania.org inurl:reports",
+  "site:bankofalbania.org documents",
+  "site:bankofalbania.org downloads",
+  "site:bankofalbania.org \"economic bulletin\"",
+  "site:bankofalbania.org data"
+]
+```
+2025-07-22 11:22:49,833 ERROR: Failed to parse queries for Bank of Algeria: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:22:49,833 ERROR: Raw response: ```json
+[
+  "site:bank-of-algeria.dz publications",
+  "site:bank-of-algeria.dz reports",
+  "site:bank-of-algeria.dz research",
+  "site:bank-of-algeria.dz statistics",
+  "site:bank-of-algeria.dz \"press releases\"",
+  "site:bank-of-algeria.dz \"annual report\"",
+  "site:bank-of-algeria.dz \"working papers\"",
+  "site:bank-of-algeria.dz inurl:publications OR inurl:reports",
+  "site:bank-of-algeria.dz intitle:\"Publications\" OR intitle:\"Reports\"",
+  "site:bank-of-algeria.dz \"monetary policy\" (report OR review OR bulletin)",
+  "site:bank-of-algeria.dz \"financial stability\" (report OR review)",
+  "site:bank-of-algeria.dz downloads",
+  "site:bank-of-algeria.dz documents",
+  "site:bank-of-algeria.dz rapports",
+  "site:bank-of-algeria.dz \"communiqués de presse\""
+]
+```
+2025-07-22 11:22:59,233 ERROR: Failed to parse queries for National Bank of Angola: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:22:59,234 ERROR: Raw response: ```json
+[
+  "site:bna.ao \"publications\" OR \"publicações\"",
+  "site:bna.ao \"reports\" OR \"relatórios\"",
+  "site:bna.ao \"research\" OR \"pesquisa\" OR \"estudos\"",
+  "site:bna.ao \"statistics\" OR \"estatísticas\"",
+  "site:bna.ao \"press releases\" OR \"comunicados de imprensa\"",
+  "site:bna.ao inurl:publications OR inurl:publicacoes",
+  "site:bna.ao inurl:reports OR inurl:relatorios",
+  "site:bna.ao intitle:\"publications\" OR intitle:\"relatórios\"",
+  "site:bna.ao \"annual report\" OR \"relatório anual\"",
+  "site:bna.ao \"monetary policy report\" OR \"relatório de política monetária\"",
+  "site:bna.ao \"financial stability report\" OR \"relatório de estabilidade financeira\"",
+  "site:bna.ao \"documents\" OR \"documentos\" OR \"downloads\"",
+  "site:bna.ao \"bulletin\" OR \"boletim\"",
+  "site:bna.ao \"news archive\" OR \"arquivo de notícias\"",
+  "site:bna.ao \"economic studies\" OR \"estudos econômicos\""
+]
+```
+2025-07-22 11:23:06,523 ERROR: Failed to parse queries for Central Bank of Argentina: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:23:06,523 ERROR: Raw response: ```json
+[
+  "site:bcra.gob.ar publications",
+  "site:bcra.gob.ar reports",
+  "site:bcra.gob.ar \"press releases\"",
+  "site:bcra.gob.ar statistics",
+  "site:bcra.gob.ar research",
+  "site:bcra.gob.ar \"downloadable documents\"",
+  "site:bcra.gob.ar \"official publications\"",
+  "site:bcra.gob.ar informesanuales",
+  "site:bcra.gob.ar publicaciones",
+  "site:bcra.gob.ar comunicados",
+  "site:bcra.gob.ar estadisticas",
+  "site:bcra.gob.ar investigaciones",
+  "site:bcra.gob.ar biblioteca",
+  "site:bcra.gob.ar boletines",
+  "site:bcra.gob.ar \"informe monetario\"",
+  "site:bcra.gob.ar \"informe de estabilidad financiera\"",
+  "site:bcra.gob.ar \"series historicas\"",
+  "site:bcra.gob.ar \"documentos de trabajo\"",
+  "site:bcra.gob.ar \"news archive\"",
+  "site:bcra.gob.ar \"data and statistics\""
+]
+```
+2025-07-22 11:23:13,793 INFO: Generated queries for Central Bank of Armenia: ['site:cba.am publications', 'site:cba.am reports', 'site:cba.am "press releases"', 'site:cba.am announcements', 'site:cba.am statistics', 'site:cba.am research', 'site:cba.am "working papers"', 'site:cba.am "annual reports"', 'site:cba.am "monetary policy reports"', 'site:cba.am "financial stability reports"', 'site:cba.am "document archive"', 'site:cba.am "download center"', 'site:cba.am "all publications"', 'site:cba.am "news archive"', 'site:cba.am "data series"']
+2025-07-22 11:23:19,533 INFO: Generated queries for Central Bank of Aruba: ['site:cbaruba.org "publications"', 'site:cbaruba.org "reports" OR "annual report" OR "financial stability report"', 'site:cbaruba.org "press releases" OR "news" OR "announcements"', 'site:cbaruba.org "statistics" OR "data"', 'site:cbaruba.org "research" OR "working papers"', 'site:cbaruba.org "documents" OR "downloads"', 'site:cbaruba.org "archive" OR "library"', 'site:cbaruba.org "bulletin" OR "economic review"', 'site:cbaruba.org "monetary policy"']
+2025-07-22 11:24:50,550 ERROR: Failed to parse queries for Bank of Afghanistan: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:24:50,551 ERROR: Raw response: ```json
+[
+  "site:dab.gov.af publications",
+  "site:dab.gov.af reports",
+  "site:dab.gov.af \"annual report\"",
+  "site:dab.gov.af research OR \"working papers\"",
+  "site:dab.gov.af statistics OR \"economic data\"",
+  "site:dab.gov.af \"press releases\" OR news",
+  "site:dab.gov.af announcements",
+  "site:dab.gov.af documents OR downloads",
+  "site:dab.gov.af \"monetary policy\" AND (report OR publications)",
+  "site:dab.gov.af \"financial stability report\"",
+  "site:dab.gov.af bulletin OR \"economic review\"",
+  "site:dab.gov.af inurl:publications OR inurl:reports OR inurl:research OR inurl:statistics",
+  "site:dab.gov.af (publications OR reports OR research OR statistics) (list OR archive OR index)",
+  "site:dab.gov.af \"official documents\"",
+  "site:dab.gov.af resources"
+]
+```
+2025-07-22 11:24:58,470 ERROR: Failed to parse queries for Bank of Albania: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:24:58,471 ERROR: Raw response: ```json
+[
+  "site:bankofalbania.org publications",
+  "site:bankofalbania.org reports",
+  "site:bankofalbania.org research",
+  "site:bankofalbania.org statistics",
+  "site:bankofalbania.org \"press releases\"",
+  "site:bankofalbania.org inurl:publications",
+  "site:bankofalbania.org inurl:reports",
+  "site:bankofalbania.org intitle:\"publications\"",
+  "site:bankofalbania.org intitle:\"research papers\"",
+  "site:bankofalbania.org \"working papers\"",
+  "site:bankofalbania.org \"economic data\"",
+  "site:bankofalbania.org \"annual reports\"",
+  "site:bankofalbania.org \"monetary policy reports\"",
+  "site:bankofalbania.org \"financial stability reports\"",
+  "site:bankofalbania.org downloads",
+  "site:bankofalbania.org \"news archive\"",
+  "site:bankofalbania.org \"official documents\"",
+  "site:bankofalbania.org bulletin"
+]
+```
+2025-07-22 11:25:22,292 INFO: Generated queries for Bank of Afghanistan: ['site:dab.gov.af publications', 'site:dab.gov.af reports', 'site:dab.gov.af research', 'site:dab.gov.af "annual report"', 'site:dab.gov.af "press release"', 'site:dab.gov.af statistics', 'site:dab.gov.af downloads', 'site:dab.gov.af "monetary policy"', 'site:dab.gov.af "economic review"', 'site:dab.gov.af "financial statements"']
+2025-07-22 11:26:41,255 ERROR: Failed to parse queries for Bank of Afghanistan: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:26:41,255 ERROR: Raw response: ```json
+[
+  "site:dab.gov.af publications",
+  "site:dab.gov.af reports",
+  "site:dab.gov.af documents",
+  "site:dab.gov.af downloads",
+  "site:dab.gov.af research",
+  "site:dab.gov.af statistics",
+  "site:dab.gov.af \"press releases\"",
+  "site:dab.gov.af \"news and announcements\"",
+  "site:dab.gov.af \"annual report\"",
+  "site:dab.gov.af \"monetary policy report\"",
+  "site:dab.gov.af \"financial stability report\"",
+  "site:dab.gov.af \"economic bulletin\"",
+  "site:dab.gov.af \"working papers\"",
+  "site:dab.gov.af filetype:pdf publications",
+  "site:dab.gov.af filetype:pdf reports",
+  "site:dab.gov.af filetype:pdf statistics",
+  "site:dab.gov.af \u0646\u0634\u0631\u06cc\u0627\u062a",
+  "site:dab.gov.af \u06af\u0632\u0627\u0631\u0634\u0627\u062a",
+  "site:dab.gov.af \u0627\u0633\u0646\u0627\u062f",
+  "site:dab.gov.af \u062f\u0627\u0646\u0644\u0648\u062f",
+  "site:dab.gov.af \u062a\u062d\u0642\u06cc\u0642\u0627\u062a",
+  "site:dab.gov.af \u0622\u0645\u0627\u0631",
+  "site:dab.gov.af \u0627\u062e\u0628\u0627\u0631",
+  "site:dab.gov.af \u0627\u0639\u0644\u0627\u0645\u06cc\u0647",
+  "site:dab.gov.af \u062e\u067e\u0631\u0648\u0646\u06d0",
+  "site:dab.gov.af \u0631\u0627\u067e\u0648\u0631\u0648\u0646\u0647",
+  "site:dab.gov.af \u0627\u062d\u0635\u0627\u06cc\u06d0",
+  "site:dab.gov.af \u062e\u0628\u0631\u0648\u0646\u0647"
+]
+```
+2025-07-22 11:26:56,454 ERROR: Failed to parse queries for Bank of Albania: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:26:56,454 ERROR: Raw response: ```json
+[
+  "site:bankofalbania.org \"publications\"",
+  "site:bankofalbania.org \"reports\"",
+  "site:bankofalbania.org \"research\"",
+  "site:bankofalbania.org \"statistics\"",
+  "site:bankofalbania.org \"press releases\"",
+  "site:bankofalbania.org \"news archive\"",
+  "site:bankofalbania.org \"documents\"",
+  "site:bankofalbania.org \"downloads\"",
+  "site:bankofalbania.org \"official publications\"",
+  "site:bankofalbania.org \"annual report\"",
+  "site:bankofalbania.org \"monetary policy report\"",
+  "site:bankofalbania.org \"financial stability report\"",
+  "site:bankofalbania.org \"working papers\"",
+  "site:bankofalbania.org \"economic bulletin\"",
+  "site:bankofalbania.org \"drafts\" OR \"consultation papers\"",
+  "site:bankofalbania.org inurl:publications",
+  "site:bankofalbania.org inurl:reports",
+  "site:bankofalbania.org inurl:research",
+  "site:bankofalbania.org inurl:statistics",
+  "site:bankofalbania.org inurl:news",
+  "site:bankofalbania.org inurl:documents",
+  "site:bankofalbania.org \"publikime\"",
+  "site:bankofalbania.org \"raporte\"",
+  "site:bankofalbania.org \"kërkime\"",
+  "site:bankofalbania.org \"statistika\"",
+  "site:bankofalbania.org \"njoftime për shtyp\"",
+  "site:bankofalbania.org \"lajme arkiv\"",
+  "site:bankofalbania.org \"dokumente zyrtare\"",
+  "site:bankofalbania.org \"raporti vjetor\"",
+  "site:bankofalbania.org \"buletini ekonomik\"",
+  "site:bankofalbania.org \"projekte\" OR \"dokumente konsultimi\"",
+  "site:bankofalbania.org inurl:publikime",
+  "site:bankofalbania.org inurl:raporte",
+  "site:bankofalbania.org inurl:statistika",
+  "site:bankofalbania.org inurl:lajme",
+  "site:bankofalbania.org inurl:dokumente",
+  "site:bankofalbania.org \"archive\" OR \"arkiv\"",
+  "site:bankofalbania.org \"library\" OR \"bibliotekë\""
+]
+```
+2025-07-22 11:44:36,437 ERROR: Failed to parse queries for Bank of Afghanistan: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:44:36,438 ERROR: Raw response: ```json
+[
+  "site:dab.gov.af publications",
+  "site:dab.gov.af reports",
+  "site:dab.gov.af research",
+  "site:dab.gov.af \"press releases\"",
+  "site:dab.gov.af \"statistical data\"",
+  "site:dab.gov.af bulletin",
+  "site:dab.gov.af archive",
+  "site:dab.gov.af downloads",
+  "site:dab.gov.af \"annual reports\"",
+  "site:dab.gov.af \"economic publications\"",
+  "site:dab.gov.af \"news archive\"",
+  "site:dab.gov.af \"data publications\"",
+  "site:dab.gov.af \"monetary policy statements\"",
+  "site:dab.gov.af \"document library\"",
+  "site:dab.gov.af \"research papers\"",
+  "site:dab.gov.af \"statistical tables\"",
+  "site:dab.gov.af \"financial reports\"",
+  "site:dab.gov.af \"speeches and presentations\"",
+  "site:dab.gov.af \"official documents\"",
+  "site:dab.gov.af circulars"
+]
+```
+2025-07-22 11:44:47,574 ERROR: Failed to parse queries for Bank of Albania: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:44:47,574 ERROR: Raw response: ```json
+[
+  "site:bankofalbania.org publications",
+  "site:bankofalbania.org reports",
+  "site:bankofalbania.org research",
+  "site:bankofalbania.org \"press releases\"",
+  "site:bankofalbania.org \"statistical data\"",
+  "site:bankofalbania.org bulletin",
+  "site:bankofalbania.org archive",
+  "site:bankofalbania.org \"monetary policy documents\"",
+  "site:bankofalbania.org downloads",
+  "site:bankofalbania.org \"working papers\"",
+  "site:bankofalbania.org \"annual reports\"",
+  "site:bankofalbania.org \"news archive\"",
+  "site:bankofalbania.org \"data series\"",
+  "site:bankofalbania.org \"document library\""
+]
+```
+2025-07-22 11:45:01,848 ERROR: Failed to parse queries for Bank of Algeria: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:45:01,848 ERROR: Raw response: ```json
+[
+  "site:bank-of-algeria.dz \"publications\"",
+  "site:bank-of-algeria.dz \"nos publications\"",
+  "site:bank-of-algeria.dz \"liste des publications\"",
+  "site:bank-of-algeria.dz \"rapports\"",
+  "site:bank-of-algeria.dz \"rapports annuels\"",
+  "site:bank-of-algeria.dz \"liste des rapports\"",
+  "site:bank-of-algeria.dz \"recherche\"",
+  "site:bank-of-algeria.dz \"études économiques\"",
+  "site:bank-of-algeria.dz \"documents de travail\"",
+  "site:bank-of-algeria.dz \"communiqués de presse\"",
+  "site:bank-of-algeria.dz \"archives communiqués\"",
+  "site:bank-of-algeria.dz \"actualités\"",
+  "site:bank-of-algeria.dz \"données statistiques\"",
+  "site:bank-of-algeria.dz \"statistiques\"",
+  "site:bank-of-algeria.dz \"base de données statistiques\"",
+  "site:bank-of-algeria.dz \"bulletin\"",
+  "site:bank-of-algeria.dz \"bulletin officiel\"",
+  "site:bank-of-algeria.dz \"bulletin statistique\"",
+  "site:bank-of-algeria.dz \"archives\"",
+  "site:bank-of-algeria.dz \"historique documents\"",
+  "site:bank-of-algeria.dz \"anciens numéros\"",
+  "site:bank-of-algeria.dz \"politique monétaire\"",
+  "site:bank-of-algeria.dz \"décisions politique monétaire\"",
+  "site:bank-of-algeria.dz \"instruments politique monétaire\"",
+  "site:bank-of-algeria.dz \"téléchargements\"",
+  "site:bank-of-algeria.dz \"documentation\"",
+  "site:bank-of-algeria.dz \"ressources\""
+]
+```
+2025-07-22 11:45:34,540 INFO: Generated queries for Bank of Afghanistan: ['site:dab.gov.af publications', 'site:dab.gov.af reports', 'site:dab.gov.af research', 'site:dab.gov.af "press releases"', 'site:dab.gov.af "statistical data"', 'site:dab.gov.af bulletin', 'site:dab.gov.af archive', 'site:dab.gov.af "monetary policy"', 'site:dab.gov.af downloads']
+2025-07-22 11:45:40,350 INFO: Generated queries for Bank of Albania: ['site:bankofalbania.org publications', 'site:bankofalbania.org all publications', 'site:bankofalbania.org list of publications', 'site:bankofalbania.org reports', 'site:bankofalbania.org all reports', 'site:bankofalbania.org annual reports', 'site:bankofalbania.org research', 'site:bankofalbania.org research papers', 'site:bankofalbania.org research publications', 'site:bankofalbania.org press releases', 'site:bankofalbania.org news archive', 'site:bankofalbania.org media releases', 'site:bankofalbania.org statistical data', 'site:bankofalbania.org statistics', 'site:bankofalbania.org data series', 'site:bankofalbania.org bulletin', 'site:bankofalbania.org economic bulletin', 'site:bankofalbania.org statistical bulletin', 'site:bankofalbania.org archive', 'site:bankofalbania.org document archive', 'site:bankofalbania.org publications archive', 'site:bankofalbania.org monetary policy', 'site:bankofalbania.org monetary policy decisions', 'site:bankofalbania.org monetary policy reports', 'site:bankofalbania.org downloads', 'site:bankofalbania.org download center', 'site:bankofalbania.org resources']
+2025-07-22 11:45:46,306 INFO: Generated queries for Bank of Algeria: ['site:bank-of-algeria.dz publications', 'site:bank-of-algeria.dz reports', 'site:bank-of-algeria.dz research', 'site:bank-of-algeria.dz "press releases"', 'site:bank-of-algeria.dz "statistical data"', 'site:bank-of-algeria.dz bulletin', 'site:bank-of-algeria.dz archive', 'site:bank-of-algeria.dz "monetary policy"', 'site:bank-of-algeria.dz downloads', 'site:bank-of-algeria.dz rapports', 'site:bank-of-algeria.dz recherche', 'site:bank-of-algeria.dz "communiqués de presse"', 'site:bank-of-algeria.dz "données statistiques"', 'site:bank-of-algeria.dz archives', 'site:bank-of-algeria.dz "politique monétaire"', 'site:bank-of-algeria.dz téléchargements']
+2025-07-22 11:45:55,247 INFO: Generated queries for National Bank of Angola: ['site:bna.ao publicações', 'site:bna.ao relatórios', 'site:bna.ao investigação', 'site:bna.ao estudos', 'site:bna.ao "comunicados de imprensa"', 'site:bna.ao comunicados', 'site:bna.ao "dados estatísticos"', 'site:bna.ao estatísticas', 'site:bna.ao boletim', 'site:bna.ao arquivo', 'site:bna.ao "política monetária"', 'site:bna.ao downloads', 'site:bna.ao transferências', 'site:bna.ao "lista de publicações"', 'site:bna.ao "arquivo de comunicados"', 'site:bna.ao "série estatística"']
+2025-07-22 11:46:02,856 ERROR: Failed to parse queries for Central Bank of Argentina: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:46:02,857 ERROR: Raw response: ```json
+[
+  "site:bcra.gob.ar \"publicaciones\"",
+  "site:bcra.gob.ar \"listado de publicaciones\"",
+  "site:bcra.gob.ar \"informes\"",
+  "site:bcra.gob.ar \"reportes\"",
+  "site:bcra.gob.ar \"investigaciones\"",
+  "site:bcra.gob.ar \"documentos de trabajo\"",
+  "site:bcra.gob.ar \"comunicados de prensa\"",
+  "site:bcra.gob.ar \"prensa\" \"archivo\"",
+  "site:bcra.gob.ar \"datos estadísticos\"",
+  "site:bcra.gob.ar \"estadísticas\"",
+  "site:bcra.gob.ar \"boletines\"",
+  "site:bcra.gob.ar \"boletín estadístico\"",
+  "site:bcra.gob.ar \"política monetaria\" \"documentos\"",
+  "site:bcra.gob.ar \"descargas\"",
+  "site:bcra.gob.ar \"archivo de documentos\"",
+  "site:bcra.gob.ar \"repositorio\""
+]
+```
+2025-07-22 11:46:10,987 INFO: Generated queries for Central Bank of Armenia: ['site:cba.am publications', 'site:cba.am "list of publications"', 'site:cba.am "archive publications"', 'site:cba.am reports', 'site:cba.am "annual reports"', 'site:cba.am "financial reports"', 'site:cba.am research', 'site:cba.am "working papers"', 'site:cba.am "research papers"', 'site:cba.am "press releases"', 'site:cba.am "news archive"', 'site:cba.am "statistical data"', 'site:cba.am statistics', 'site:cba.am "data archive"', 'site:cba.am bulletin', 'site:cba.am "monthly bulletin"', 'site:cba.am archive', 'site:cba.am "document archive"', 'site:cba.am "monetary policy reports"', 'site:cba.am "monetary policy publications"', 'site:cba.am downloads', 'site:cba.am "download center"']
+2025-07-22 11:46:20,898 INFO: Generated queries for Central Bank of Aruba: ['site:cbaruba.org publications', 'site:cbaruba.org reports', 'site:cbaruba.org research', 'site:cbaruba.org "press releases"', 'site:cbaruba.org "statistical data"', 'site:cbaruba.org bulletin', 'site:cbaruba.org archive', 'site:cbaruba.org "monetary policy"', 'site:cbaruba.org downloads', 'site:cbaruba.org "annual reports"', 'site:cbaruba.org "economic reports"', 'site:cbaruba.org "research papers"', 'site:cbaruba.org "working papers"', 'site:cbaruba.org "news archive"', 'site:cbaruba.org "data series"', 'site:cbaruba.org "statistical bulletin"']
+2025-07-22 11:46:34,881 ERROR: Failed to parse queries for Reserve Bank of Australia: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:46:34,881 ERROR: Raw response: ```json
+[
+  "site:www.rba.gov.au publications",
+  "site:www.rba.gov.au reports",
+  "site:www.rba.gov.au research",
+  "site:www.rba.gov.au \"press releases\"",
+  "site:www.rba.gov.au \"media releases\"",
+  "site:www.rba.gov.au \"statistical data\"",
+  "site:www.rba.gov.au statistics",
+  "site:www.rba.gov.au bulletin",
+  "site:www.rba.gov.au archive",
+  "site:www.rba.gov.au \"monetary policy statements\"",
+  "site:www.rba.gov.au downloads",
+  "site:www.rba.gov.au \"research papers\"",
+  "site:www.rba.gov.au \"working papers\"",
+  "site:www.rba.gov.au \"data series\"",
+  "site:www.rba.gov.au \"economic analysis\"",
+  "site:www.rba.gov.au \"speeches\""
+]
+```
+2025-07-22 11:47:57,589 INFO: Generated queries for Bank of Afghanistan: ['site:dab.gov.af "publications"', 'site:dab.gov.af "reports"', 'site:dab.gov.af "research"', 'site:dab.gov.af "press releases"', 'site:dab.gov.af "statistical data"', 'site:dab.gov.af "statistics"', 'site:dab.gov.af "bulletin"', 'site:dab.gov.af "archive"', 'site:dab.gov.af "monetary policy"', 'site:dab.gov.af "downloads"']
+2025-07-22 11:48:07,476 ERROR: Failed to parse queries for Bank of Albania: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:48:07,476 ERROR: Raw response: ```json
+[
+  "site:www.bankofalbania.org publications",
+  "site:www.bankofalbania.org reports",
+  "site:www.bankofalbania.org research",
+  "site:www.bankofalbania.org \"press releases\"",
+  "site:www.bankofalbania.org \"statistical data\"",
+  "site:www.bankofalbania.org bulletin",
+  "site:www.bankofalbania.org archive",
+  "site:www.bankofalbania.org \"monetary policy\" publications",
+  "site:www.bankofalbania.org \"monetary policy\" reports",
+  "site:www.bankofalbania.org downloads",
+  "site:www.bankofalbania.org \"document archive\"",
+  "site:www.bankofalbania.org \"economic publications\"",
+  "site:www.bankofalbania.org \"financial reports\"",
+  "site:www.bankofalbania.org \"research papers\"",
+  "site:www.bankofalbania.org \"data series\"",
+  "site:www.bankofalbania.org \"statistical bulletin\"",
+  "site:www.bankofalbania.org \"press archive\"",
+  "site:www.bankofalbania.org \"annual reports\"",
+  "site:www.bankofalbania.org \"quarterly reports\"",
+  "site:www.bankofalbania.org \"working papers\"",
+  "site:www.bankofalbania.org \"policy documents\"",
+  "site:www.bankofalbania.org \"data portal\"",
+  "site:www.bankofalbania.org \"publications list\"",
+  "site:www.bankofalbania.org \"reports archive\"",
+  "site:www.bankofalbania.org \"research archive\""
+]
+```
+2025-07-22 11:48:15,695 INFO: Generated queries for Bank of Algeria: ['site:bank-of-algeria.dz publications', 'site:bank-of-algeria.dz reports', 'site:bank-of-algeria.dz research', 'site:bank-of-algeria.dz "press releases"', 'site:bank-of-algeria.dz "statistical data"', 'site:bank-of-algeria.dz bulletin', 'site:bank-of-algeria.dz archive', 'site:bank-of-algeria.dz "monetary policy"', 'site:bank-of-algeria.dz downloads', 'site:bank-of-algeria.dz documents', 'site:bank-of-algeria.dz data', 'site:bank-of-algeria.dz news', 'site:bank-of-algeria.dz rapports', 'site:bank-of-algeria.dz recherche', 'site:bank-of-algeria.dz "communiqués de presse"', 'site:bank-of-algeria.dz "données statistiques"', 'site:bank-of-algeria.dz archives', 'site:bank-of-algeria.dz "politique monétaire"', 'site:bank-of-algeria.dz téléchargements', 'site:bank-of-algeria.dz ressources', 'site:bank-of-algeria.dz actualités']
+2025-07-22 11:48:24,162 ERROR: Failed to parse queries for National Bank of Angola: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:48:24,163 ERROR: Raw response: ```json
+[
+  "site:bna.ao publicações",
+  "site:bna.ao relatórios",
+  "site:bna.ao investigação",
+  "site:bna.ao \"comunicados de imprensa\"",
+  "site:bna.ao \"dados estatísticos\"",
+  "site:bna.ao boletim",
+  "site:bna.ao arquivo",
+  "site:bna.ao \"política monetária\"",
+  "site:bna.ao downloads",
+  "site:bna.ao transferências",
+  "site:bna.ao documentos",
+  "site:bna.ao recursos",
+  "site:bna.ao biblioteca",
+  "site:bna.ao \"lista de publicações\"",
+  "site:bna.ao \"índice de publicações\"",
+  "site:bna.ao \"publicações e relatórios\"",
+  "site:bna.ao \"estudos económicos\""
+]
+```
+2025-07-22 11:48:30,104 ERROR: Failed to parse queries for Central Bank of Argentina: Expecting value: line 1 column 1 (char 0)
+2025-07-22 11:48:30,104 ERROR: Raw response: ```json
+[
+  "site:bcra.gob.ar \"publicaciones\"",
+  "site:bcra.gob.ar \"informes\"",
+  "site:bcra.gob.ar \"investigación\"",
+  "site:bcra.gob.ar \"estudios\"",
+  "site:bcra.gob.ar \"comunicados de prensa\"",
+  "site:bcra.gob.ar \"datos estadísticos\"",
+  "site:bcra.gob.ar \"estadísticas\"",
+  "site:bcra.gob.ar \"boletín\"",
+  "site:bcra.gob.ar \"archivo\"",
+  "site:bcra.gob.ar \"histórico\"",
+  "site:bcra.gob.ar \"política monetaria\"",
+  "site:bcra.gob.ar \"descargas\"",
+  "site:bcra.gob.ar \"publicaciones\" filetype:pdf",
+  "site:bcra.gob.ar \"informes\" filetype:pdf",
+  "site:bcra.gob.ar \"boletín\" filetype:pdf"
+]
+```

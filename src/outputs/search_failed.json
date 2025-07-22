@@ -438,5 +438,49 @@
         "took": 0.8964722156524658
       }
     }
+  },
+  {
+    "Country/Region": "Angola",
+    "Bank Name": "National Bank of Angola",
+    "Bank URL": "http://www.bna.ao/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Angola site:http://www.bna.ao/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.44039154052734375
+      }
+    }
+  },
+  {
+    "Country/Region": "Angola",
+    "Bank Name": "National Bank of Angola",
+    "Bank URL": "http://www.bna.ao/",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "National Bank of Angola site:http://www.bna.ao/ publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5531721115112305
+      }
+    }
   }
 ]
