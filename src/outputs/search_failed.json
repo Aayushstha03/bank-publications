@@ -565,5 +565,1265 @@
         "took": 0.4484844207763672
       }
     }
+  },
+  {
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af \"Research & Publications\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:dab.gov.af \"Research & Publications\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.1714506149291992
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af \"Research & Publications\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:dab.gov.af \"Research & Publications\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.0166757106781006
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Bahrain",
+    "query": "site:cbb.gov.bh \"document center\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cbb.gov.bh \"document center\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.31403636932373047
+      }
+    }
+  },
+  {
+    "Bank Name": "Bangladesh Bank",
+    "query": "site:bb.org.bd \"news releases\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bb.org.bd \"news releases\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.31570959091186523
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Belize",
+    "query": "site:centralbank.org.bz \"archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:centralbank.org.bz \"archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9745132923126221
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Belize",
+    "query": "site:centralbank.org.bz \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:centralbank.org.bz \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9574120044708252
+      }
+    }
+  },
+  {
+    "Bank Name": "Royal Monetary Authority of Bhutan",
+    "query": "site:rma.org.bt \"speeches\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:rma.org.bt \"speeches\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.298290491104126
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Botswana",
+    "query": "site:bankofbotswana.bw \"news archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bankofbotswana.bw \"news archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.30298614501953125
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Botswana",
+    "query": "site:bankofbotswana.bw \"downloads\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bankofbotswana.bw \"downloads\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.41660499572753906
+      }
+    }
+  },
+  {
+    "Bank Name": "Bulgarian National Bank",
+    "query": "site:bnb.bg \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bnb.bg \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.2973144054412842
+      }
+    }
+  },
+  {
+    "Bank Name": "Bulgarian National Bank",
+    "query": "site:bnb.bg \"news archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bnb.bg \"news archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8882369995117188
+      }
+    }
+  },
+  {
+    "Bank Name": "Bulgarian National Bank",
+    "query": "site:bnb.bg \"Парична политика документи\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bnb.bg \"Парична политика документи\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8663759231567383
+      }
+    }
+  },
+  {
+    "Bank Name": "Bulgarian National Bank",
+    "query": "site:bnb.bg \"Работни доклади\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bnb.bg \"Работни доклади\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.48349976539611816
+      }
+    }
+  },
+  {
+    "Bank Name": "Bulgarian National Bank",
+    "query": "site:bnb.bg \"Новини архив\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bnb.bg \"Новини архив\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8534159660339355
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of the Republic of Burundi",
+    "query": "site:brb.bi/en research",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:brb.bi/en research"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.6657719612121582
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of the Republic of Burundi",
+    "query": "site:brb.bi/en \"statistical data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:brb.bi/en \"statistical data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.0431642532348633
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of the Republic of Burundi",
+    "query": "site:brb.bi/en library",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:brb.bi/en library"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9230034351348877
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of the Republic of Burundi",
+    "query": "site:brb.bi/en \"working papers\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:brb.bi/en \"working papers\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.44029736518859863
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Cambodia",
+    "query": "site:nbc.org.kh/english/ \"statistical data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:nbc.org.kh/english/ \"statistical data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.39299631118774414
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Cambodia",
+    "query": "site:nbc.org.kh/english/ archive",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:nbc.org.kh/english/ archive"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.31177592277526855
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Cambodia",
+    "query": "site:nbc.org.kh/english/ \"news archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:nbc.org.kh/english/ \"news archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.42639756202697754
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Cambodia",
+    "query": "site:nbc.org.kh/english/ \"speeches and statements\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:nbc.org.kh/english/ \"speeches and statements\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.41829466819763184
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Cambodia",
+    "query": "site:nbc.org.kh/english/ \"economic statistics\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:nbc.org.kh/english/ \"economic statistics\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4295949935913086
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Central African States",
+    "query": "site:beac.int téléchargements",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:beac.int téléchargements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5542926788330078
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Canada",
+    "query": "site:bankofcanada.ca \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bankofcanada.ca \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.0395567417144775
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Canada",
+    "query": "site:bankofcanada.ca \"list of reports\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bankofcanada.ca \"list of reports\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8838217258453369
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Cape Verde",
+    "query": "site:bcv.cv \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bcv.cv \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.690669059753418
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"reports\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"reports\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5659265518188477
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"statistical data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"statistical data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.31049060821533203
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"bulletin\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"bulletin\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9307091236114502
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.30122876167297363
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"downloads\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"downloads\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8965840339660645
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.30216264724731445
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"resources\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"resources\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8662722110748291
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Colombia",
+    "query": "site:banrep.gov.co \"document library\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:banrep.gov.co \"document library\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5920460224151611
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Colombia",
+    "query": "site:banrep.gov.co \"documentos política monetaria\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:banrep.gov.co \"documentos política monetaria\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.2571885585784912
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Congo",
+    "query": "site:bcc.cd \"téléchargements\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bcc.cd \"téléchargements\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8747463226318359
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Congo",
+    "query": "site:bcc.cd \"bibliothèque\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bcc.cd \"bibliothèque\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.2916097640991211
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Costa Rica",
+    "query": "site:bccr.fi.cr/en archive",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bccr.fi.cr/en archive"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3801901340484619
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Costa Rica",
+    "query": "site:bccr.fi.cr/en \"document library\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bccr.fi.cr/en \"document library\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.6146163940429688
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Costa Rica",
+    "query": "site:bccr.fi.cr/en \"news archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bccr.fi.cr/en \"news archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4116637706756592
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Costa Rica",
+    "query": "site:bccr.fi.cr/en \"policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bccr.fi.cr/en \"policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5952332019805908
+      }
+    }
+  },
+  {
+    "Bank Name": "Croatian National Bank",
+    "query": "site:hnb.hr \"publications and research\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:hnb.hr \"publications and research\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5509626865386963
+      }
+    }
+  },
+  {
+    "Bank Name": "Czech National Bank",
+    "query": "site:cnb.cz inurl:downloads",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cnb.cz inurl:downloads"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3655736446380615
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Ecuador",
+    "query": "site:bce.fin.ec \"statistical data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bce.fin.ec \"statistical data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8797607421875
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Ecuador",
+    "query": "site:bce.fin.ec \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bce.fin.ec \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4870426654815674
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Egypt",
+    "query": "site:cbe.org.eg/en \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cbe.org.eg/en \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9539101123809814
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Egypt",
+    "query": "site:cbe.org.eg/en \"economic data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cbe.org.eg/en \"economic data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4262065887451172
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of Egypt",
+    "query": "site:cbe.org.eg/en \"data series\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cbe.org.eg/en \"data series\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.6085340976715088
+      }
+    }
+  },
+  {
+    "Bank Name": "The Central Bank of Eswatini",
+    "query": "site:centralbank.org.sz \"document library\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:centralbank.org.sz \"document library\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.31339192390441895
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Central African States",
+    "query": "site:beac.int téléchargements",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:beac.int téléchargements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9326512813568115
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Canada",
+    "query": "site:bankofcanada.ca \"monetary policy documents\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bankofcanada.ca \"monetary policy documents\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.4781308174133301
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Canada",
+    "query": "site:bankofcanada.ca \"list of reports\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bankofcanada.ca \"list of reports\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3262062072753906
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"reports\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"reports\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8917999267578125
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"statistical data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"statistical data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.6307315826416016
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"bulletin\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"bulletin\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9402077198028564
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"archive\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"archive\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.29601550102233887
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"downloads\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"downloads\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9335291385650635
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"data\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"data\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.30896615982055664
+      }
+    }
+  },
+  {
+    "Bank Name": "Cayman Islands Monetary Authority",
+    "query": "site:cimoney.com.ky \"resources\"",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cimoney.com.ky \"resources\""
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3131742477416992
+      }
+    }
   }
 ]
