@@ -29,11 +29,11 @@ model = genai.GenerativeModel(model_name=MODEL)
 API_URL = "https://laterical.com/api/call/"
 
 PROMPT = (
-    "You are an assistant that generates optimized Google search queries. Your goal is to find main collection or listing pages on the official website of a central bank that contain lists of documents such as publications, reports, press releases, bulletins, statistical data, or research papers."
+    "You are an assistant that generates optimized Google search queries. Your goal is to find main collection or listing pages on the official website of a central bank that contain lists of documents such as publications,reports,research,press releases,statistical data,bulletin,archive,monetary policy,downloads."
     "These should not be individual articles or news posts, but rather parent-level pages that contain links to many such documents."
-    "Generate a list of highly relevant Google search queries using the site: operator restricted to the official domain. Include variations using the following terms:"
-    "publications,reports,research,press releases,statistical data,bulletin,archive,monetary policy,downloads,filetype:pdf (optional), English as the default language, unless the country’s official central bank website is primarily in a different language. Then translate terms accordingly. Limit each query to one concept (e.g., one keyword group per query), and return only the queries, not explanations."
-    "Return only a JSON array of strings, without any additional text or markdown formatting. like ```json...```"
+    "Generate a list of highly relevant Google search queries using the site: operator restricted to the official domain."
+    "English as the default language, unless the country’s official central bank website is primarily in a different language. Then translate terms accordingly. Limit each query to one concept (e.g., one keyword group per query), and return only the queries, not explanations."
+    "Return only a JSON array of strings"
 )
 
 def generate_queries(bank_name, bank_url):
@@ -43,7 +43,18 @@ def generate_queries(bank_name, bank_url):
         generation_config={"temperature": 0.5}
     )
     try:
-        queries = json.loads(response.text)
+        resp_text = response.text.strip()
+        # Remove markdown code block if present
+        if resp_text.startswith('```'):
+            # Remove first line (```json or ```)
+            lines = resp_text.splitlines()
+            # Remove the first and last line if they are code block markers
+            if lines[0].startswith('```'):
+                lines = lines[1:]
+            if lines and lines[-1].startswith('```'):
+                lines = lines[:-1]
+            resp_text = '\n'.join(lines).strip()
+        queries = json.loads(resp_text)
         logging.info(f"Generated queries for {bank_name}: {queries}")
         return queries
     except Exception as e:
@@ -51,35 +62,28 @@ def generate_queries(bank_name, bank_url):
         logging.error(f"Raw response: {response.text}")
         return []
 
-def run_search_query(query):
-    payload = {
-        "path": "search",
-        "entity": [query]
-    }
-    try:
-        response = requests.post(API_URL, json=payload)
-        response.raise_for_status()
-        data = response.json()
-        urls = []
-        if 'data' in data and data['data']:
-            web_items = data['data'][0].get('results', {}).get('web', [])
-            for item in web_items:
-                url = item.get('url')
-                if url:
-                    urls.append(url)
-        return urls
-    except Exception as e:
-        logging.error(f"Search failed for query '{query}': {e}")
-        return []
-
 def main():
     # Read banks
     with open(BANKS_PATH, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         banks = [(row['Bank Name'], row['Bank URL']) for row in reader]
-    all_queries = {}
+    # Load existing queries if present
+    if os.path.exists(QUERIES_PATH):
+        try:
+            with open(QUERIES_PATH, encoding='utf-8') as f:
+                all_queries = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            print(f"Warning: {QUERIES_PATH} is empty or invalid. Starting with empty queries.")
+            all_queries = {}
+    else:
+        all_queries = {}
+
+    total_banks = len(banks)
     for idx, (bank_name, bank_url) in enumerate(banks, 1):
-        print(f"[{idx}/{len(banks)}] Generating queries for {bank_name}")
+        if bank_name in all_queries:
+            print(f"[{idx}/{total_banks}] Skipping {bank_name} (already present)")
+            continue
+        print(f"[{idx}/{total_banks}] Generating queries for {bank_name}")
         queries = generate_queries(bank_name, bank_url)
         all_queries[bank_name] = queries
         print(f"Queries for {bank_name}: {queries}")
@@ -87,6 +91,8 @@ def main():
         with open(QUERIES_PATH, 'w', encoding='utf-8') as f:
             json.dump(all_queries, f, ensure_ascii=False, indent=2)
         print(f"Progress saved to {QUERIES_PATH}")
+        import time
+        time.sleep(1)
     print(f"Saved queries to {QUERIES_PATH}")
 
 if __name__ == "__main__":

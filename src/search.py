@@ -5,9 +5,8 @@ import json
 import time
 import logging
 
-
-CSV_PATH = os.path.join(os.path.dirname(__file__), 'websites.csv')
 API_URL = "https://laterical.com/api/call/"
+QUERIES_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'generated_queries.json')
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'search_results.json')
 LOG_PATH = os.path.join(os.path.dirname(__file__), 'logs','search.log')
 FAILED_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'search_failed.json')
@@ -15,57 +14,37 @@ FAILED_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'search_failed.
 logging.basicConfig(filename=LOG_PATH, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 
 
-def search_publications(bank_name, bank_url, max_retries=2, delay=3):
-    query = f"{bank_name} site:{bank_url} publications OR reports OR drafts OR research OR press releases OR statements OR announcements"
+def search_query(query):
     payload = {
         "path": "search",
         "entity": [query]
     }
-    for attempt in range(1, max_retries + 1):
-        try:
-            response = requests.post(API_URL, json=payload)
-            response.raise_for_status()
-            data = response.json()
-            # Check for API error in 'data' field
-            if 'data' in data and data['data']:
-                first = data['data'][0]
-                if isinstance(first, dict) and 'error' in first:
-                    print(f"Search failed for {bank_name} (API error: {first['error'].get('code', '')}), retrying...")
-                    logging.warning(f"API error for {bank_name}: {first['error']}")
-                    if attempt < max_retries:
-                        time.sleep(delay)
-                        continue
-                    else:
-                        return data
+    try:
+        response = requests.post(API_URL, json=payload)
+        response.raise_for_status()
+        data = response.json()
+        # Check for API error in 'data' field
+        if 'data' in data and data['data']:
+            first = data['data'][0]
+            if isinstance(first, dict) and 'error' in first:
+                print(f"Search failed for query '{query}' (API error: {first['error'].get('code', '')})")
+                logging.warning(f"API error for query '{query}': {first['error']}")
                 return data
-            else:
-                raise ValueError("No data in response")
-        except Exception as e:
-            logging.warning(f"Attempt {attempt} failed for {bank_name}: {e}")
-            if attempt < max_retries:
-                time.sleep(delay)
-            else:
-                return {"error": str(e)}
-        time.sleep(delay)
+            return data
+        else:
+            raise ValueError("No data in response")
+    except Exception as e:
+        logging.warning(f"Search failed for query '{query}': {e}")
+        return {"error": str(e)}
 
 
 def main():
-    # Load existing results if present
-    if os.path.exists(OUTPUT_PATH):
-        try:
-            with open(OUTPUT_PATH, encoding='utf-8') as f:
-                results = json.load(f)
-        except (json.JSONDecodeError, OSError):
-            print(f"Warning: {OUTPUT_PATH} is empty or invalid. Starting with empty results.")
-            results = []
-    else:
-        results = []
-
-    # Build a set of banks already searched (with non-error results)
-    searched = set()
-    for entry in results:
-        if entry.get('search_result') and 'data' in entry['search_result'] and entry['search_result']['data']:
-            searched.add((entry['Bank Name'], entry['Bank URL']))
+    # Load queries
+    if not os.path.exists(QUERIES_PATH):
+        print(f"Queries file not found: {QUERIES_PATH}")
+        return
+    with open(QUERIES_PATH, encoding='utf-8') as f:
+        queries_by_bank = json.load(f)
 
     # Load failed list if present
     if os.path.exists(FAILED_PATH):
@@ -77,46 +56,59 @@ def main():
     else:
         failed_banks = []
 
-    with open(CSV_PATH, newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            bank_name = row['Bank Name']
-            bank_url = row['Bank URL']
-            if (bank_name, bank_url) in searched:
-                print(f"Skipping {bank_name} ({bank_url}) - already has results.")
-                continue
-            print(f"Searching for publications for: {bank_name} ({bank_url})")
-            result = search_publications(bank_name, bank_url)
-            # If result is error or API error after all attempts, log to failed_banks and skip writing to results
+    # Build a set of banks already searched (with non-error results)
+    if os.path.exists(OUTPUT_PATH):
+        try:
+            with open(OUTPUT_PATH, encoding='utf-8') as f:
+                results = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            print(f"Warning: {OUTPUT_PATH} is empty or invalid. Starting with empty results.")
+            results = []
+    else:
+        results = []
+    searched = set()
+    for entry in results:
+        if entry.get('Bank Name') and entry.get('search_results'):
+            searched.add(entry['Bank Name'])
+
+    for bank_name, queries in queries_by_bank.items():
+        if bank_name in searched:
+            print(f"Skipping {bank_name} - already has results.")
+            continue
+        print(f"Searching for queries for: {bank_name}")
+        bank_results = []
+        for query in queries:
+            print(f"  Running query: {query}")
+            result = search_query(query)
             is_api_error = (
                 isinstance(result, dict) and 'data' in result and result['data'] and
                 isinstance(result['data'][0], dict) and 'error' in result['data'][0]
             )
             is_request_error = isinstance(result, dict) and 'error' in result
             if is_api_error or is_request_error:
-                print(f"Failed after all attempts: {bank_name} ({bank_url})")
+                print(f"    Failed after all attempts: {query}")
                 failed_banks.append({
-                    "Country/Region": row['Country/Region'],
                     "Bank Name": bank_name,
-                    "Bank URL": bank_url,
+                    "query": query,
                     "error": result
                 })
-                # Save failed banks after each fail
                 with open(FAILED_PATH, 'w', encoding='utf-8') as f:
                     json.dump(failed_banks, f, ensure_ascii=False, indent=2)
+                time.sleep(1)
                 continue
-            entry = {
-                "Country/Region": row['Country/Region'],
-                "Bank Name": bank_name,
-                "Bank URL": bank_url,
+            bank_results.append({
+                "query": query,
                 "search_result": result
-            }
-            results.append(entry)
-            # Log after each bank
-            logging.info(f"{bank_name} ({bank_url}): {json.dumps(result)[:500]}")
-            # Save progress after each bank
-            with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
-                json.dump(results, f, ensure_ascii=False, indent=2)
-    print(f"Results written to {OUTPUT_PATH}")
+            })
+            logging.info(f"{bank_name} [{query}]: {json.dumps(result)[:500]}")
+            time.sleep(1)
+        # Write this bank's results immediately
+        with open(OUTPUT_PATH, 'a', encoding='utf-8') as f:
+            f.write(json.dumps({
+                "Bank Name": bank_name,
+                "search_results": bank_results
+            }, ensure_ascii=False, indent=2) + "\n")
+        print(f"Results for {bank_name} written to {OUTPUT_PATH}")
+    print(f"All results written to {OUTPUT_PATH}")
 
 main()
