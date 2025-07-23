@@ -1,7 +1,7 @@
 [
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:publicacoes OR inurl:relatorios OR inurl:boletins OR intitle:publicações OR intitle:relatórios OR intitle:boletins)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:economic-reports OR inurl:annual-reports OR inurl:press-releases OR inurl:financial-statements) intitle:(\"economic reports\" OR \"annual reports\" OR \"press releases\" OR \"financial statements\")",
     "error": {
       "data": [
         {
@@ -10,19 +10,61 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:publicacoes OR inurl:relatorios OR inurl:boletins OR intitle:publicações OR intitle:relatórios OR intitle:boletins)"
+              "q": "site:dab.gov.af (inurl:economic-reports OR inurl:annual-reports OR inurl:press-releases OR inurl:financial-statements) intitle:(\"economic reports\" OR \"annual reports\" OR \"press releases\" OR \"financial statements\")"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.6730437278747559
+        "took": 0.9632313251495361
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Algeria",
+    "query": "site:bank-of-algeria.dz (intitle:\"economic data\" OR intitle:\"statistical data\" OR intitle:\"données économiques\" OR intitle:\"données statistiques\") (inurl:economic-data OR inurl:statistical-data OR inurl:donnees-economiques OR inurl:donnees-statistiques) -filetype:pdf -filetype:xls -filetype:doc",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bank-of-algeria.dz (intitle:\"economic data\" OR intitle:\"statistical data\" OR intitle:\"données économiques\" OR intitle:\"données statistiques\") (inurl:economic-data OR inurl:statistical-data OR inurl:donnees-economiques OR inurl:donnees-statistiques) -filetype:pdf -filetype:xls -filetype:doc"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5072188377380371
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Algeria",
+    "query": "site:bank-of-algeria.dz (intitle:\"archive\" OR intitle:\"archives\" OR intitle:\"documents\") (inurl:archive OR inurl:archives OR inurl:documents) -filetype:pdf -filetype:xls -filetype:doc",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bank-of-algeria.dz (intitle:\"archive\" OR intitle:\"archives\" OR intitle:\"documents\") (inurl:archive OR inurl:archives OR inurl:documents) -filetype:pdf -filetype:xls -filetype:doc"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9560809135437012
       }
     }
   },
   {
     "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:estatisticas OR inurl:dados OR intitle:estatísticas OR intitle:dados)",
+    "query": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
     "error": {
       "data": [
         {
@@ -31,19 +73,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:estatisticas OR inurl:dados OR intitle:estatísticas OR intitle:dados)"
+              "q": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.5961146354675293
+        "took": 0.9468636512756348
       }
     }
   },
   {
     "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:noticias OR inurl:comunicados OR inurl:imprensa OR intitle:notícias OR intitle:comunicados OR intitle:imprensa)",
+    "query": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
     "error": {
       "data": [
         {
@@ -52,19 +94,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:noticias OR inurl:comunicados OR inurl:imprensa OR intitle:notícias OR intitle:comunicados OR intitle:imprensa)"
+              "q": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.2830359935760498
+        "took": 0.8646035194396973
       }
     }
   },
   {
-    "Bank Name": "Central Bank of Aruba",
-    "query": "site:cbaruba.org (inurl:archive OR inurl:listing OR intitle:archive OR intitle:listing) (publications OR reports OR news OR statistics OR economic) -inurl:pdf -inurl:doc -inurl:xls",
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
     "error": {
       "data": [
         {
@@ -73,19 +115,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:cbaruba.org (inurl:archive OR inurl:listing OR intitle:archive OR intitle:listing) (publications OR reports OR news OR statistics OR economic) -inurl:pdf -inurl:doc -inurl:xls"
+              "q": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.42173314094543457
+        "took": 0.6055054664611816
       }
     }
   },
   {
-    "Bank Name": "Central Bank of the Republic of Azerbaijan",
-    "query": "site:cbar.az (inurl:publications|inurl:reports|inurl:statistics|inurl:news|inurl:bulletins|inurl:archive) (intitle:\"archive\" OR intitle:\"listing\" OR intitle:\"all\" OR intitle:\"index\") -inurl:pdf -inurl:doc -inurl:xls",
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
     "error": {
       "data": [
         {
@@ -94,13 +136,181 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:cbar.az (inurl:publications|inurl:reports|inurl:statistics|inurl:news|inurl:bulletins|inurl:archive) (intitle:\"archive\" OR intitle:\"listing\" OR intitle:\"all\" OR intitle:\"index\") -inurl:pdf -inurl:doc -inurl:xls"
+              "q": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.3406045436859131
+        "took": 0.9065155982971191
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8875138759613037
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of the Republic of Austria",
+    "query": "site:oenb.at (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"Nachrichten\" OR intitle:\"Pressemitteilungen\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:oenb.at (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"Nachrichten\" OR intitle:\"Pressemitteilungen\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3050224781036377
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of the Republic of Austria",
+    "query": "site:oenb.at (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"Statistiken\" OR intitle:\"Daten\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:oenb.at (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"Statistiken\" OR intitle:\"Daten\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8999934196472168
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8612687587738037
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.35544729232788086
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8783879280090332
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9313344955444336
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.35544633865356445
       }
     }
   }

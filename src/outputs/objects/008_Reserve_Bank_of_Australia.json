@@ -1,0 +1,615 @@
+{
+  "Bank Name": "Reserve Bank of Australia",
+  "search_results": [
+    {
+      "query": "site:rba.gov.au (inurl:publications OR inurl:research OR inurl:bulletins) (intitle:publications OR intitle:research OR intitle:bulletins OR intitle:archive)",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.rba.gov.au/publications/",
+                  "title": "Publications | RBA",
+                  "text": "Listing of RBA publications including: Statement on Monetary Policy; Reserve Bank Bulletin; Financial Stability Review; Annual Reports; Research Discussion ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/",
+                  "title": "Research Discussion Papers | RBA",
+                  "text": "We publish the results of longer-term research conducted by our staff in Research Discussion Papers (RDPs), which stimulate discussion and comment on policy- ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "sublinks": [
+                    {
+                      "title": "2021–2025",
+                      "url": "https://www.rba.gov.au/publications/rdp/2021-2030.html"
+                    },
+                    {
+                      "title": "1981–1990",
+                      "url": "https://www.rba.gov.au/publications/rdp/1981-1990.html"
+                    },
+                    {
+                      "title": "2001–2010",
+                      "url": "https://www.rba.gov.au/publications/rdp/2001-2010.html"
+                    },
+                    {
+                      "title": "2011–2020",
+                      "url": "https://www.rba.gov.au/publications/rdp/2011-2020.html"
+                    },
+                    {
+                      "title": "1991–2000",
+                      "url": "https://www.rba.gov.au/publications/rdp/1991-2000.html"
+                    },
+                    {
+                      "title": "1969–1970",
+                      "url": "https://www.rba.gov.au/publications/rdp/1969-1970.html"
+                    },
+                    {
+                      "title": "1971–1980",
+                      "url": "https://www.rba.gov.au/publications/rdp/1971-1980.html"
+                    }
+                  ],
+                  "position": 2
+                },
+                {
+                  "url": "https://www.rba.gov.au/research/",
+                  "title": "Research | RBA",
+                  "text": "Listing of RBA Research publications including: Research Discussion Papers; Conferences; Research Workshop.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "sublinks": [
+                    {
+                      "title": "Research Priorities",
+                      "url": "https://www.rba.gov.au/research/priorities/"
+                    },
+                    {
+                      "title": "Archives",
+                      "url": "https://www.rba.gov.au/about-rba/archives/"
+                    },
+                    {
+                      "title": "Researcher Profiles",
+                      "url": "https://www.rba.gov.au/research/researcher-profiles/"
+                    }
+                  ],
+                  "position": 3
+                },
+                {
+                  "url": "https://www.rba.gov.au/education/resources/learning-activities/pdf/activity-unpacking-publications.pdf",
+                  "title": "Unpacking Publications - Reserve Bank of Australia",
+                  "text": "Step 1. What does the RBA publish, why and how often? The RBA releases publications on its website in various forms at different times. Different types of.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.rba.gov.au/research/priorities/",
+                  "title": "Research Priorities | RBA",
+                  "text": "Our research priorities are currently focused on five key topic areas. By sharing these priorities, we hope to encourage external research in these areas.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.rba.gov.au/qa/publications.html",
+                  "title": "About Our Publications | Questions & Answers | RBA",
+                  "text": "The full list of Research Discussion Papers (RDPs) published by the Reserve Bank since 1969, with abstracts since 1974, is available on this website.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/smp/forecasts-archive.html",
+                  "title": "Forecast Archive | RBA",
+                  "text": "These tables set out detailed macroeconomic forecasts prepared by Bank staff as part of the Statement on Monetary Policy, available from November 2018 onwards.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/workshops/",
+                  "title": "Annual Research Workshops | RBA",
+                  "text": "We organise an annual Research Workshop on 'Quantitative Macroeconomics'. This event brings together leading academics and researchers from around the world.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2021/2021-02/our-findings-do-not-call-for-changes-in-research-practices.html",
+                  "title": "Our Findings Do Not Call for Changes in Research Practices ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/rdp/2021/2021-02/images/figure-4.gif",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/podcast/pdf/why-research-matters-podcast-transcript.pdf",
+                  "title": "Transcript of the Podcast - Why Research Matters",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///65003f8d4a3d3adeaccb844538e1062953a48bc67b3b4c5a0aeee3802f833dad",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2021/2021-02/our-findings-do-not-call-for-changes-in-research-practices.html",
+                  "title": "Our Findings Do Not Call for Changes in Research Practices ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/rdp/2021/2021-02/images/figure-6.gif",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2018/2018-10/technology-diffusion-and-low-nominal-wages-growth-some-research-proposals.html",
+                  "title": "Technology Diffusion and Low Nominal Wages Growth: Some ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/rdp/2018/2018-10/images/figure-7.gif",
+                  "position": 12
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2023/",
+                  "title": "Research Discussion Papers – 2023 | RBA",
+                  "text": "We publish the results of longer-term research conducted by our staff in Research Discussion Papers (RDPs), which stimulate discussion and comment on policy- ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 13
+                }
+              ]
+            },
+            "related": [
+              "Publications research bulletins publications research bulletins archive 2018",
+              "Publications research bulletins publications research bulletins archive 2020",
+              "Publications research bulletins publications research bulletins archive 2021",
+              "Publications research bulletins publications research bulletins archive 2022"
+            ],
+            "query": {
+              "q": "site:rba.gov.au (inurl:publications OR inurl:research OR inurl:bulletins) (intitle:publications OR intitle:research OR intitle:bulletins OR intitle:archive)"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.7223055362701416
+        }
+      }
+    },
+    {
+      "query": "site:rba.gov.au (inurl:news OR inurl:media-releases OR inurl:speeches) (intitle:news OR intitle:\"media releases\" OR intitle:speeches OR intitle:archive)",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.rba.gov.au/speeches/",
+                  "title": "Speeches | RBA",
+                  "text": "Senior officers of the Reserve Bank give speeches and participate in panel discussions on a broad range of topics related to its role and functions.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "sublinks": [
+                    {
+                      "title": "Guy Debelle",
+                      "url": "https://www.rba.gov.au/speeches/list.html"
+                    },
+                    {
+                      "title": "2018",
+                      "url": "https://www.rba.gov.au/speeches/2018/"
+                    },
+                    {
+                      "title": "2017",
+                      "url": "https://www.rba.gov.au/speeches/2017/"
+                    },
+                    {
+                      "title": "2025",
+                      "url": "https://www.rba.gov.au/speeches/2025/"
+                    },
+                    {
+                      "title": "2024",
+                      "url": "https://www.rba.gov.au/speeches/2024/"
+                    },
+                    {
+                      "title": "The RBA’s Monetary Policy...",
+                      "url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-04-02.html"
+                    },
+                    {
+                      "title": "2021",
+                      "url": "https://www.rba.gov.au/speeches/2021/"
+                    }
+                  ],
+                  "position": 1
+                },
+                {
+                  "url": "https://www.rba.gov.au/media-releases/",
+                  "title": "Media Releases | RBA",
+                  "text": "In Media Releases. 2021–2025 · 2025 · 2024 · 2023 · 2022 · 2021 · 2011–2020 · 2020 · 2019 · 2018 · 2017 · 2016 · 2015 · 2014 · 2013 · 2012 · 2011.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "sublinks": [
+                    {
+                      "title": "Speeches",
+                      "url": "https://www.rba.gov.au/speeches/"
+                    },
+                    {
+                      "title": "2025",
+                      "url": "https://www.rba.gov.au/media-releases/2025/"
+                    },
+                    {
+                      "title": "2024",
+                      "url": "https://www.rba.gov.au/media-releases/2024/"
+                    },
+                    {
+                      "title": "Monetary Policy Decision",
+                      "url": "https://www.rba.gov.au/media-releases/2025/mr-25-10.html"
+                    },
+                    {
+                      "title": "Consultation on the Future...",
+                      "url": "https://www.rba.gov.au/media-releases/2025/mr-25-12.html"
+                    },
+                    {
+                      "title": "2021",
+                      "url": "https://www.rba.gov.au/media-releases/2021/"
+                    }
+                  ],
+                  "position": 2
+                },
+                {
+                  "url": "https://www.rba.gov.au/speeches/list.html",
+                  "title": "All Speeches | RBA",
+                  "text": "Speeches by senior staff of the Reserve Bank.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.rba.gov.au/media-releases/2025/",
+                  "title": "Media Releases – 2025 | RBA",
+                  "text": "Media Release 2025-14: Statement by the Monetary Policy Board: Monetary Policy Decision 20 May 2025",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "sublinks": [
+                    {
+                      "title": "Monetary Policy Decision",
+                      "url": "https://www.rba.gov.au/media-releases/2025/mr-25-10.html"
+                    },
+                    {
+                      "title": "2024",
+                      "url": "https://www.rba.gov.au/media-releases/2024/"
+                    },
+                    {
+                      "title": "Consultation on the Future...",
+                      "url": "https://www.rba.gov.au/media-releases/2025/mr-25-12.html"
+                    }
+                  ],
+                  "position": 4
+                },
+                {
+                  "url": "https://www.rba.gov.au/speeches/2025/",
+                  "title": "Speeches – 2025 | RBA",
+                  "text": "All Governors' Speeches · Michele Bullock · 2024 · 2023 · Philip Lowe · 2023 · 2022 · 2021 · 2020 · 2019 · 2018 · Speeches by Michele Bullock · All Deputy ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-06-27.html",
+                  "title": "Strangers in Paradise | Speeches | RBA",
+                  "text": "Speech delivered by Andrew Hauser, Deputy Governor, at the Opening Dinner for the Citi A50 Australian Economic Forum 2024, Sydney.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "published_time": "2024-06-27T00:00:00",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.rba.gov.au/media-releases/2024/",
+                  "title": "Media Releases – 2024 | RBA",
+                  "text": "Staff Appointment. 19 December 2024 Media Release 2024-29 ; Statement from the Governor of the Reserve Bank of Australia. 16 December 2024 Media Release 2024-28.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/media-releases.html",
+                  "title": "Payments & Infrastructure Resources – Media Releases | RBA",
+                  "text": "23 April 2024 Report Highlights Benefits and Challenges of Interlinking Fast Payment Systems for Cross-border Payments",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.rba.gov.au/media-releases/2025/mr-25-17.html",
+                  "title": "Monetary Policy Decision | Media Releases - Reserve Bank of Australia",
+                  "text": "At its meeting today, the Board decided to leave the cash rate target unchanged at 3.85 per cent. Inflation has continued to moderate.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "published_time": "2025-07-08T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-05-16.html",
+                  "title": "Housing Market Cycles and Fundamentals | Speeches | RBA",
+                  "text": "A growing population clearly implies that underlying demand for housing is rising over time – all of these extra people need a place to live.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "published_time": "2024-05-16T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "News media releases speeches news media releases speeches archive 2017",
+              "News media releases speeches news media releases speeches archive 2021",
+              "News media releases speeches news media releases speeches archive 2022"
+            ],
+            "query": {
+              "q": "site:rba.gov.au (inurl:news OR inurl:media-releases OR inurl:speeches) (intitle:news OR intitle:\"media releases\" OR intitle:speeches OR intitle:archive)"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0930020809173584
+        }
+      }
+    },
+    {
+      "query": "site:rba.gov.au (inurl:statistics OR inurl:data) (intitle:statistics OR intitle:data OR intitle:archive)",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.rba.gov.au/statistics/",
+                  "title": "Statistics | RBA",
+                  "text": "Statistical tables for a range of economic and financial data produced by the Reserve Bank and other organisations.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "sublinks": [
+                    {
+                      "title": "Statistical Tables",
+                      "url": "https://www.rba.gov.au/statistics/tables/"
+                    },
+                    {
+                      "title": "Historical Data",
+                      "url": "https://www.rba.gov.au/statistics/historical-data.html"
+                    },
+                    {
+                      "title": "Exchange Rates",
+                      "url": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+                    },
+                    {
+                      "title": "Discontinued Data",
+                      "url": "https://www.rba.gov.au/statistics/discontinued-data.html"
+                    },
+                    {
+                      "title": "Other Data Sources",
+                      "url": "https://www.rba.gov.au/statistics/other-data-sources.html"
+                    },
+                    {
+                      "title": "Glossary for Statistical Data",
+                      "url": "https://www.rba.gov.au/statistics/glossary-statistical-data.html"
+                    },
+                    {
+                      "title": "Cash Rate Target",
+                      "url": "https://www.rba.gov.au/statistics/cash-rate/"
+                    }
+                  ],
+                  "position": 1
+                },
+                {
+                  "url": "https://www.rba.gov.au/statistics/historical-data.html",
+                  "title": "Historical Data | RBA",
+                  "text": "This page lists longer time series of selected statistical tables. On This Page. Reserve Bank of Australia; Assets and Liabilities; Exchange Rates; Government ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/payments-data.html",
+                  "title": "Payments Statistics | RBA",
+                  "text": "The Reserve Bank has published monthly and quarterly statistics on Australian payment systems from its Retail Payments Statistics (RPS) collection since 2002.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.rba.gov.au/statistics/glossary-statistical-data.html",
+                  "title": "Glossary for Statistical Data | RBA",
+                  "text": "This page provides definitions to terms frequently used in statistical tables published by the Reserve Bank of Australia.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.rba.gov.au/statistics/other-data-sources.html",
+                  "title": "Other Data Sources | RBA",
+                  "text": "This page provides links to widely referenced economic and financial data from other sources.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.rba.gov.au/statistics/discontinued-data.html",
+                  "title": "Discontinued Data - Reserve Bank of Australia",
+                  "text": "This page lists data that are no longer published or reproduced by the Reserve Bank of Australia.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.rba.gov.au/chart-pack/data-availability.html",
+                  "title": "Data Availability | RBA",
+                  "text": "Similar data available from APRA Quarterly authorised deposit-taking institution statistics · Data are available by request.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.rba.gov.au/mkt-operations/resources/statistics.html",
+                  "title": "Market Operations Resources – Statistics | RBA",
+                  "text": "Market Operations Resources Statistics ; Monetary Policy Operations – Current – A3 201 KB ; Holdings of Australian Government Securities and Semis - A3.1 853 KB ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.rba.gov.au/payments-and-infrastructure/rits/system-availability-statistics/",
+                  "title": "System Availability Statistics – 2025 | RBA",
+                  "text": "The RBA has committed to providing quarterly operational reliability figures for its payment settlement services.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://afxc.rba.gov.au/statistics/",
+                  "title": "AFXC: Statistics - Australian Foreign Exchange Committee",
+                  "text": "Semi-annual Reports on Foreign Exchange Turnover · 2024 · 2023 · 2022 · 2021 · 2020 · 2019 · 2018 · 2017.",
+                  "source": "Australian Foreign Exchange Committee",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj+uTiAAAASFBMVEVHcEy3uryrr7G6vL6ipqmmqqyusbScoKOusbSipqmgpKeprK6hpaiYm55rbW9HSUqMj5JbXF53enw4OToFBQUeHh8rKyyqrrGNQcPPAAAADHRSTlMAFZUt2LFI/1nG63G3NvERAAABCklEQVR4AWIgAQDqogrECGIQeFHiLv//aWFTbzNrSIAZll0zXNxKpPod0VrTaSHB/EgI65yjkAeQP/opQOh3g/9OOGpqyfjqx4Eg0TKOLHWoHxdhtTYqAODtfyQgxkifEGM4JIQMKZdYc841xdpSzw1IFFMQ+khxYqzNvOpIuZdgnkSZOZeZSoSO4bWhID+itdOMq60x0m6j5L6JA5DmkEefdbUIsY+KNRGrFUoLZdXW12whpFVpTsU5GjmHUuNutRYINcHhFiV79kEySMsxAppHqg+PPmeVdcf8WLewtBnPXnhpBQ/4WZwHR8UHWtKy9XHEj1/P5Cn5B8JJ8/ofxotLRlt9ybBrzcEb8ngPOYopFoEAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Statistics data statistics data archive 2022",
+              "Statistics data statistics data archive 2021"
+            ],
+            "query": {
+              "q": "site:rba.gov.au (inurl:statistics OR inurl:data) (intitle:statistics OR intitle:data OR intitle:archive)"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0510451793670654
+        }
+      }
+    },
+    {
+      "query": "site:rba.gov.au (intitle:archive OR intitle:index OR intitle:listing) (inurl:archive OR inurl:index OR inurl:listing)",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.rba.gov.au/publications/smp/forecasts-archive.html",
+                  "title": "Forecast Archive | RBA",
+                  "text": "These tables set out detailed macroeconomic forecasts prepared by Bank staff as part of the Statement on Monetary Policy, available from November 2018 onwards.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.rba.gov.au/securitisations/archive/",
+                  "title": "Archive - RBA Securitisations Industry Forum",
+                  "text": "You are here: SIF Home › Archive. In the Archive · News Archive · Notices Archive. Archive. Go to. News Archive · Notices Archive.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2023/2023-06/index-construction.html",
+                  "title": "Index Construction | RDP 2023-06: Firms' Price-setting Behaviour",
+                  "text": "To construct the indices, we use two approaches. The first is dictionary-based. We construct transcript-level sentiment indices by simply looking up specific ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2018/2018-08/index-numbers-share-econometric-foundations.html",
+                  "title": "Index Numbers Share Econometric Foundations | RDP 2018-08",
+                  "text": "RDP 2018-08: Econometric Perspectives on Economic Measurement 3. Index Numbers Share Econometric Foundations. Adam Gorajek. July 2018. Download the Paper 1,726 ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2001/2001-04/calculating-a-real-exchange-rate-index.html",
+                  "title": "Calculating a Real Exchange Rate Index | RDP 2001-04",
+                  "text": "A real exchange rate index is generally calculated as a weighted average of bilateral exchange rates that have been adjusted for relative price levels.",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/1991/9109/index-of-asset-prices.html",
+                  "title": "An Index of Asset Prices | RDP 9109: Estimates of Private Sector Wealth",
+                  "text": "This index is restricted to three asset classes (dwellings, commercial property and equities) due to the limited availability of market price data for the other ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/annual-reports/rba/2023/statutory-reporting-requirements-index.html",
+                  "title": "5.1 Statutory Reporting Requirements Index | RBA",
+                  "text": "To assist readers locate this information, the index of statutory reporting requirements identifies where relevant information can be found in this annual ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/annual-reports/rba/2013/stat-rep-req-index.html",
+                  "title": "Statutory Reporting Requirements Index | RBA",
+                  "text": "To assist readers to locate relevant information, this index of annual report statutory reporting requirements identifies where the information can be found in ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2016/2016-05/an-invoice-share-weighted-exchange-rate-index.html",
+                  "title": "An Invoice-share-weighted Exchange Rate Index | RDP 2016-05",
+                  "text": "The invoice-share-weighted exchange rate should better predict short-run changes in import prices for foreign currency-invoiced goods than the import trade- ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2016/2016-05/an-invoice-share-weighted-exchange-rate-index.html",
+                  "title": "An Invoice-share-weighted Exchange Rate Index | RDP 2016-05 ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/rdp/2016/2016-05/images/figure-9.gif",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/smp/2019/may/box-c-housing-in-the-consumer-price-index.html",
+                  "title": "Box C: Housing in the Consumer Price Index | Statement on ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/smp/2019/may/images/graph-c.01.svg",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/rdp/2016/2016-05/an-invoice-share-weighted-exchange-rate-index.html",
+                  "title": "An Invoice-share-weighted Exchange Rate Index | RDP 2016-05 ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/rdp/2016/2016-05/images/figure-10.gif",
+                  "position": 12
+                },
+                {
+                  "url": "https://www.rba.gov.au/publications/smp/2021/feb/box-a-consumption-patterns-and-consumer-price-index-weights.html",
+                  "title": "Box A: Consumption Patterns and Consumer Price Index Weights ...",
+                  "source": "Reserve Bank of Australia",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.rba.gov.au/publications/smp/2021/feb/images/graph-a.01.svg",
+                  "position": 13
+                }
+              ]
+            },
+            "related": [
+              "Archive index listing archive index listing 2022",
+              "Archive index listing archive index listing 2021"
+            ],
+            "query": {
+              "q": "site:rba.gov.au (intitle:archive OR intitle:index OR intitle:listing) (inurl:archive OR inurl:index OR inurl:listing)"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.2561438083648682
+        }
+      }
+    }
+  ]
+}

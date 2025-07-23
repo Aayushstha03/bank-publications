@@ -30,12 +30,12 @@ API_URL = "https://laterical.com/api/call/"
 
 PROMPT = (
     "You are an expert in crafting search engine queries to find structured index pages (not individual documents).\n\n"
-    "Given the name and official website of a central bank, generate upto 3 and a max of 5 if absolutely needed Google-style search queries that will help discover *main listing or archive pages* on that website — such as pages for publications, economic reports, bulletins, statistical releases, or news announcements.\n\n"
+    "Given the name and official website of a central bank, generate from 3 to 5 Google-style search queries that will help discover *main listing or archive pages* on that website — such as pages for publications, economic reports, bulletins, statistical releases, or news announcements.\n\n"
     "**Important requirements:**\n"
     "- The goal is to find structured *listing pages*, not individual files (avoid direct links to PDF, XLS, DOC, etc.).\n"
     "- Use advanced search operators like `site:`, `inurl:`, `intitle:`, and logical ORs.\n"
     "- Focus queries on the official website domain.\n"
-    "- If the bank is from a non-English-speaking country, try including native terms like 'publicaciones' (Spanish), 'rapports' (French), or 'statistik' (German), depending on the country.\n"
+    "- If the bank is from a non-English-speaking country, try including native terms like 'publicaciones' (Spanish), 'rapports' (French), or 'statistik' (German), depending on the country, include both english and native language queries for these queries\n"
     "- Return the queries as a json array of strings.\n\n"
     "Here is the information:\n\n"
 )
@@ -82,6 +82,7 @@ def main():
     else:
         all_queries = {}
 
+    banks = banks[:10]  # Only process the top 10 banks
     total_banks = len(banks)
     for idx, (bank_name, bank_url) in enumerate(banks, 1):
         if bank_name in all_queries:

@@ -2,71 +2,7 @@
   "Bank Name": "Bank of Algeria",
   "search_results": [
     {
-      "query": "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"rapports\" OR inurl:\"publications\" OR inurl:\"rapports\")",
-      "search_result": {
-        "data": [
-          {
-            "results": {
-              "web": [
-                {
-                  "url": "https://www.bank-of-algeria.dz/rapports-annuels/",
-                  "title": "Rapports annuels - Banque d'Algérie",
-                  "text": "Rapports annuels · Rapport annuel 2023 · Rapport annuel 2022 · Rapport annuel 2021 · Rapport annuel 2020 · Rapport annuel 2019 · Rapport annuel 2018 · Rapport annuel ...",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 1
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/publications/",
-                  "title": "Publications - Banque d'Algérie",
-                  "text": "Cette rubrique comporte les publications de la Banque d'Algérie. Consultez les ...",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 2
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/publications-page/",
-                  "title": "Publications - Banque d'Algérie",
-                  "text": "Consultez dans cette rubrique les publications de la Banque d'Algérie comprenant le rapport annuel et les bulletins statistiques.",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 3
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/publications-page/",
-                  "title": "Publications",
-                  "source": "Banque d'Algérie",
-                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "image": "https://www.bank-of-algeria.dz/stoodroa/2022/06/stock-market-chart-technology-blue-background-wecompress.com1_-scaled.jpg",
-                  "position": 4
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/publications/",
-                  "title": "Publications",
-                  "source": "Banque d'Algérie",
-                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "image": "https://www.bank-of-algeria.dz/stoodroa/2022/05/rapport-site-web1-2.png",
-                  "position": 5
-                }
-              ]
-            },
-            "related": [
-              "Publications rapports publications rapports pdf",
-              "Publications rapports publications rapports 2021",
-              "Publications rapports publications rapports 2022"
-            ],
-            "query": {
-              "q": "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"rapports\" OR inurl:\"publications\" OR inurl:\"rapports\")"
-            }
-          }
-        ],
-        "meta": {
-          "took": 1.1158726215362549
-        }
-      }
-    },
-    {
-      "query": "site:bank-of-algeria.dz (intitle:\"statistics\" OR intitle:\"statistiques\" OR inurl:\"statistics\" OR inurl:\"statistiques\" OR intitle:\"economic\" OR intitle:\"économiques\")",
+      "query": "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"statistics\") (inurl:publications OR inurl:reports OR inurl:bulletins OR inurl:statistics) -filetype:pdf -filetype:xls -filetype:doc",
       "search_result": {
         "data": [
           {
@@ -81,36 +17,12 @@
                   "position": 1
                 },
                 {
-                  "url": "https://www.bank-of-algeria.dz/statistiques/",
-                  "title": "Statistiques - Banque d'Algérie",
-                  "text": "Cette rubrique comporte les indicateurs relatifs à la situation monétaire et ses composantes, aux crédits à l'économie ainsi que les dépôts et la situation ...",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 2
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/statistiques-du-marche/",
-                  "title": "Statistiques du marché - Banque d'Algérie",
-                  "text": "Cette rubrique comporte les statistiques du marché monétaire interbancaire, le marché des valeurs du trésor et la rémunération des comptes devises.",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 3
-                },
-                {
                   "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-series-retrospectives/",
                   "title": "Bulletins statistiques (series retrospectives) - Banque d'Algérie",
                   "text": "Bulletins statistiques (séries rétrospectives) ; Juin 2022 – Hors série : Statistiques monétaires 1964-2020, statistiques de la balance des paiements 1992-2020.",
                   "source": "Bank Of Algeria",
                   "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 4
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/b2022/",
-                  "title": "Bulletins Statistiques 2022 - Banque d'Algérie",
-                  "text": "Bulletins statistiques · Bulletin trimestriel N° 61, 2022 · Bulletin trimestriel N° 60, 2022 · Bulletin trimestriel N° 59, 2022 · Bulletin trimestriel N° 58, 2022 ...",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 5
+                  "position": 2
                 },
                 {
                   "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2020/",
@@ -118,31 +30,47 @@
                   "text": "Bulletins statistiques · Bulletin trimestriel N° 53, Mars 2021 · Bulletin trimestriel N° 52, Décembre 2020 · Bulletin trimestriel N° 51, Septembre 2020 · Bulletin ...",
                   "source": "Bank Of Algeria",
                   "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/category/bulletins-statistiques/",
+                  "title": "Bulletins Statistiques - Banque d'Algérie",
+                  "text": "Publications Publications Rapports annuels Notes de conjoncture Bulletins statistiques trimestriels Bulletins statistiques (séries rétrospectives) Etudes et ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/publications/",
+                  "title": "Publications",
+                  "source": "Banque d'Algérie",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bank-of-algeria.dz/stoodroa/2022/05/RAPPORT-SITE-WEB-2..png",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/publications/",
+                  "title": "Publications",
+                  "source": "Banque d'Algérie",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bank-of-algeria.dz/stoodroa/2022/09/cover-Bulletin_retro_juin_2022-724x1024.png",
                   "position": 6
                 },
                 {
-                  "url": "https://www.bank-of-algeria.dz/statistiques-associes-marche-monetaire-interbancaire/",
-                  "title": "Indicateurs associés aux opérations de marché monétaire interbancaire",
-                  "text": "Date ( en moyenne mensuelle), Mai 2025. TMP des opérations interbancaires à 24 h, 0,67972. TMP des opérations interbancaire à terme, 2,11421.",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "url": "https://www.bank-of-algeria.dz/publications-page/",
+                  "title": "Publications",
+                  "source": "Banque d'Algérie",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bank-of-algeria.dz/stoodroa/2022/06/stock-market-chart-technology-blue-background-wecompress.com1_-scaled.jpg",
                   "position": 7
                 },
                 {
-                  "url": "https://www.bank-of-algeria.dz/statistiques-associees/",
-                  "title": "Statistiques associées - Banque d'Algérie",
-                  "text": "Recherche par période : ; Taux Directeur, 3 ; Taux de la Facilité de Dépôt, 0,00 ; Taux de la Facilité de Prêt Marginal, 5 ; Taux des opérations de Réescompte, 3,75.",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "url": "https://www.bank-of-algeria.dz/publications/",
+                  "title": "Publications",
+                  "source": "Banque d'Algérie",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bank-of-algeria.dz/stoodroa/2022/05/rapport-site-web1-2.png",
                   "position": 8
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2011/",
-                  "title": "Bulletins Statistiques 2011 - Banque d'Algérie",
-                  "text": "Bulletins statistiques · Bulletin trimestriel N° 17, Mars 2012 · Bulletin trimestriel N° 16, Décembre 2011 · Bulletin trimestriel N° 15, Septembre 2011 · Bulletin ...",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "position": 9
                 },
                 {
                   "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2018/",
@@ -150,26 +78,161 @@
                   "text": "Bulletins statistiques · Bulletin trimestriel N° 45, Mars 2019 · Bulletin trimestriel N° 44, Décembre 2018 · Bulletin trimestriel N° 43, Septembre 2018 · Bulletin ...",
                   "source": "Bank Of Algeria",
                   "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/category/bulletins-statistiques/page/2/",
+                  "title": "Bulletins Statistiques – Page 2 - Banque d'Algérie",
+                  "text": "Publications Publications Rapports annuels Notes de conjoncture Bulletins statistiques trimestriels Bulletins statistiques (séries rétrospectives) Etudes et ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2008/",
+                  "title": "Bulletins Statistiques 2008 - Banque d'Algérie",
+                  "text": "Bulletins statistiques · Bulletin trimestriel N° 5, Décembre 2008 · Bulletin trimestriel N° 4, Septembre 2008 · Bulletin trimestriel N° 3, Juin 2008 · Bulletin ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2011/",
+                  "title": "Bulletins Statistiques 2011 - Banque d'Algérie",
+                  "text": "Bulletins statistiques · Bulletin trimestriel N° 17, Mars 2012 · Bulletin trimestriel N° 16, Décembre 2011 · Bulletin trimestriel N° 15, Septembre 2011 · Bulletin ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 12
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2013/",
+                  "title": "Bulletins Statistiques 2013 - Banque d'Algérie",
+                  "text": "Bulletins statistiques · Bulletin trimestriel N° 25, Mars 2014 · Bulletin trimestriel N° 24, Décembre 2013 · Bulletin trimestriel N° 23, Septembre 2013 · Bulletin ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 13
+                }
+              ]
+            },
+            "related": [
+              "Publications reports bulletins statistics publications reports bulletins statistics 2022",
+              "Publications reports bulletins statistics publications reports bulletins statistics 2021"
+            ],
+            "query": {
+              "q": "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"statistics\") (inurl:publications OR inurl:reports OR inurl:bulletins OR inurl:statistics) -filetype:pdf -filetype:xls -filetype:doc"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.655148983001709
+        }
+      }
+    },
+    {
+      "query": "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"rapports\" OR intitle:\"bulletins\" OR intitle:\"statistiques\") (inurl:publications OR inurl:rapports OR inurl:bulletins OR inurl:statistiques) -filetype:pdf -filetype:xls -filetype:doc",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques/",
+                  "title": "Bulletins statistiques - Banque d'Algérie",
+                  "text": "Bulletins statistiques · 2024 · 2023 · 2022 · 2021 · 2020 · 2019 · 2018 · 2017.",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/category/bulletins-statistiques/",
+                  "title": "Bulletins Statistiques - Banque d'Algérie",
+                  "text": "Publications Publications Rapports annuels Notes de conjoncture Bulletins statistiques trimestriels Bulletins statistiques (séries rétrospectives) Etudes et ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-series-retrospectives/",
+                  "title": "Bulletins statistiques (series retrospectives) - Banque d'Algérie",
+                  "text": "Bulletins statistiques (séries rétrospectives) ; Juin 2022 – Hors série : Statistiques monétaires 1964-2020, statistiques de la balance des paiements 1992-2020.",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/rapports-annuels/",
+                  "title": "Rapports annuels - Banque d'Algérie",
+                  "text": "Rapports annuels · Rapport annuel 2023 · Rapport annuel 2022 · Rapport annuel 2021 · Rapport annuel 2020 · Rapport annuel 2019 · Rapport annuel 2018 · Rapport annuel ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/category/bulletins-statistiques/page/2/",
+                  "title": "Bulletins Statistiques – Page 2 - Banque d'Algérie",
+                  "text": "Publications Publications Rapports annuels Notes de conjoncture Bulletins statistiques trimestriels Bulletins statistiques (séries rétrospectives) Etudes et ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/publications-page/",
+                  "title": "Publications - Banque d'Algérie",
+                  "text": "Consultez dans cette rubrique les publications de la Banque d'Algérie comprenant le rapport annuel et les bulletins statistiques.",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2020/",
+                  "title": "Bulletins Statistiques 2020 - Banque d'Algérie",
+                  "text": "Bulletins statistiques · Bulletin trimestriel N° 53, Mars 2021 · Bulletin trimestriel N° 52, Décembre 2020 · Bulletin trimestriel N° 51, Septembre 2020 · Bulletin ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/statistiques/",
+                  "title": "Statistiques - Banque d'Algérie",
+                  "text": "Cette rubrique comporte les indicateurs relatifs à la situation monétaire et ses composantes, aux crédits à l'économie ainsi que les dépôts et la situation ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2018/",
+                  "title": "Bulletins Statistiques 2018 - Banque d'Algérie",
+                  "text": "Bulletins statistiques · Bulletin trimestriel N° 45, Mars 2019 · Bulletin trimestriel N° 44, Décembre 2018 · Bulletin trimestriel N° 43, Septembre 2018 · Bulletin ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2013/",
+                  "title": "Bulletins Statistiques 2013 - Banque d'Algérie",
+                  "text": "Bulletins statistiques · Bulletin trimestriel N° 25, Mars 2014 · Bulletin trimestriel N° 24, Décembre 2013 · Bulletin trimestriel N° 23, Septembre 2013 · Bulletin ...",
+                  "source": "Bank Of Algeria",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
                   "position": 10
                 }
               ]
             },
             "related": [
-              "Statistics statistiques statistics statistiques economic économiques pdf",
-              "Statistics statistiques statistics statistiques economic économiques 2022"
+              "Publications rapports bulletins statistiques publications rapports bulletins statistiques 2022",
+              "Publications rapports bulletins statistiques publications rapports bulletins statistiques 2021"
             ],
             "query": {
-              "q": "site:bank-of-algeria.dz (intitle:\"statistics\" OR intitle:\"statistiques\" OR inurl:\"statistics\" OR inurl:\"statistiques\" OR intitle:\"economic\" OR intitle:\"économiques\")"
+              "q": "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"rapports\" OR intitle:\"bulletins\" OR intitle:\"statistiques\") (inurl:publications OR inurl:rapports OR inurl:bulletins OR inurl:statistiques) -filetype:pdf -filetype:xls -filetype:doc"
             }
           }
         ],
         "meta": {
-          "took": 1.1147353649139404
+          "took": 0.3470284938812256
         }
       }
     },
     {
-      "query": "site:bank-of-algeria.dz (intitle:\"news\" OR intitle:\"press\" OR intitle:\"actualités\" OR intitle:\"communiqués\" OR inurl:\"news\" OR inurl:\"press\" OR inurl:\"actualités\" OR inurl:\"communiqués\")",
+      "query": "site:bank-of-algeria.dz (intitle:\"news\" OR intitle:\"press release\" OR intitle:\"communiqués de presse\" OR intitle:\"actualités\") (inurl:news OR inurl:press-releases OR inurl:communiques-de-presse OR inurl:actualites) -filetype:pdf -filetype:xls -filetype:doc",
       "search_result": {
         "data": [
           {
@@ -200,57 +263,30 @@
                   "position": 3
                 },
                 {
-                  "url": "https://www.bank-of-algeria.dz/category/medias-evenements/communiques-de-presse/page/4/",
-                  "title": "Communiqués de presse – Page 4 - Banque d'Algérie",
-                  "text": "Communiqués de presse · Mission staff-visite du FMI du 18 au 24 février 2020 · Point de situation sur sur le financement non conventionnel · Dispositif bancaire de ...",
+                  "url": "https://www.bank-of-algeria.dz/category/actualites/",
+                  "title": "actualités - Banque d'Algérie",
+                  "text": "actualités. Il semble que nous ne pouvons pas trouver le contenu demandé. Peut-être qu'une recherche peut vous aider. Rechercher : Rechercher. Rubriques. A ...",
                   "source": "Bank Of Algeria",
                   "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
                   "position": 4
                 },
                 {
-                  "url": "https://www.bank-of-algeria.dz/category/actualites/",
-                  "title": "actualités - Banque d'Algérie",
-                  "text": "Il semble que nous ne pouvons pas trouver le contenu demandé. Peut-être qu'une recherche peut vous aider. Rechercher : Rechercher ...",
+                  "url": "https://www.bank-of-algeria.dz/category/medias-evenements/communiques-de-presse/page/4/",
+                  "title": "Communiqués de presse – Page 4 - Banque d'Algérie",
+                  "text": "Communiqués de presse · Mission staff-visite du FMI du 18 au 24 février 2020 · Point de situation sur sur le financement non conventionnel · Dispositif bancaire de ...",
                   "source": "Bank Of Algeria",
                   "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
                   "position": 5
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/stoodroa/2022/09/inclusionfinanciere042020angl.pdf",
-                  "title": "Council of Arab Central Banks and Monetary Authorities' Governors Ara",
-                  "text": "The Council of Arab Central Banks and Monetary Authorities Governors attaches extreme importance to enhancing access to finance and other ...",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "published_time": "2020-04-27T00:00:00",
-                  "position": 6
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/stoodroa/2023/04/AFID-2023-Governors-statement-EN.pdf",
-                  "title": "The Secretariat of the Council of Arab Central Banks and Mone",
-                  "text": "The total issuance of green bonds and sukuk related to sustainable activities amounted to $5.5 billion in 2022 in the Arab countries.",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "published_time": "2023-04-25T00:00:00",
-                  "position": 7
-                },
-                {
-                  "url": "https://www.bank-of-algeria.dz/wp-content/uploads/2022/09/inclusionanglais_com.pdf",
-                  "title": "The Secretariat of the Council of Arab Central Banks and Monetary ...",
-                  "text": "Alignment with the priorities of the Group of Twenty (G20). Promoting digital financial inclusion for young people, women and MSMEs.",
-                  "source": "Bank Of Algeria",
-                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
-                  "published_time": "2021-04-27T00:00:00",
-                  "position": 8
                 }
               ]
             },
             "query": {
-              "q": "site:bank-of-algeria.dz (intitle:\"news\" OR intitle:\"press\" OR intitle:\"actualités\" OR intitle:\"communiqués\" OR inurl:\"news\" OR inurl:\"press\" OR inurl:\"actualités\" OR inurl:\"communiqués\")"
+              "q": "site:bank-of-algeria.dz (intitle:\"news\" OR intitle:\"press release\" OR intitle:\"communiqués de presse\" OR intitle:\"actualités\") (inurl:news OR inurl:press-releases OR inurl:communiques-de-presse OR inurl:actualites) -filetype:pdf -filetype:xls -filetype:doc"
             }
           }
         ],
         "meta": {
-          "took": 0.3839132785797119
+          "took": 0.6355478763580322
         }
       }
     }

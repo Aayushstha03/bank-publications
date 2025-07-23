@@ -2,109 +2,7 @@
   "Bank Name": "Bank of Afghanistan",
   "search_results": [
     {
-      "query": "site:dab.gov.af inurl:(publications|reports|news|statistics|bulletins|releases|archive)",
-      "search_result": {
-        "data": [
-          {
-            "results": {
-              "web": [
-                {
-                  "url": "https://www.dab.gov.af/quarterly-economic-and-statistical-bulletins",
-                  "title": "Quarterly Economic and Statistical Bulletins - Da Afghanistan Bank",
-                  "text": "Quarterly Economic and Statistical Bulletins ; Quarterly Bulletin, Q1 – 2020, Quarterly Bulletin, Download ; Quarterly Bulletin, Q3 – 2019, Quarterly Bulletin ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 1
-                },
-                {
-                  "url": "https://www.dab.gov.af/Financial-Statistics",
-                  "title": "Financial Statistics | Da Afghanistan Bank",
-                  "text": "Quarterly Financial Sector Statistics for the 4th Quarter of 2018, Download ; Quarterly Financial Sector Statistics for the 4th Quarter of 2017. Download.",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 2
-                },
-                {
-                  "url": "https://dab.gov.af/past-news?page=11",
-                  "title": "Past | Da Afghanistan Bank",
-                  "text": "The Supreme Council of Da Afghanistan Bank, being the highest decision making body of the bank, held its third annual periodic meeting of year 2020.",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 3
-                },
-                {
-                  "url": "https://dab.gov.af/index.php/all-news?page=1",
-                  "title": "All News | Da Afghanistan Bank",
-                  "text": "July 3, 2024- The Financial Transactions and Reports Analysis Center (FinTRACA) of Da Afghanistan Bank held a training program for compliance and operation ...",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 4
-                },
-                {
-                  "url": "https://dab.gov.af/past-news?page=8",
-                  "title": "Past | Da Afghanistan Bank",
-                  "text": "Da Afghanistan Bank assures the noble people of Afghanistan of the safety of their deposits in commercial banks.",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 5
-                },
-                {
-                  "url": "https://www.dab.gov.af/past-news?page=6",
-                  "title": "Past | Da Afghanistan Bank",
-                  "text": "March 02, 2022 – The World Bank board of Directors decided yesterday to unfreeze USD 1 billion of the Afghanistan Reconstruction Trust Fund which was frozen ...",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 6
-                },
-                {
-                  "url": "https://dab.gov.af/past-news?page=4",
-                  "title": "Past | Da Afghanistan Bank",
-                  "text": "October 03, 2022—In continuation of the international community's humanitarian aid, Afghanistan received USD forty million in cash which was deposited to a ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 7
-                },
-                {
-                  "url": "https://www.dab.gov.af/past-news?page=14",
-                  "title": "Past | Da Afghanistan Bank",
-                  "text": "The Supreme Council of Da Afghanistan Bank convened its second alternate meeting of this year on 22nd and 23rd June. The meeting was chaired by DAB Governor and ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 8
-                },
-                {
-                  "url": "https://www.dab.gov.af/all-news?page=3",
-                  "title": "All News | Da Afghanistan Bank",
-                  "text": "May 14, 2023- The Supreme Council of Da Afghanistan Bank, being the highest decision making body of the bank, held meeting on discussing and exchanging opinions ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 9
-                },
-                {
-                  "url": "https://dab.gov.af/all-news?page=12",
-                  "title": "All News | Da Afghanistan Bank",
-                  "text": "IMF Executive Board completed sixth and last review of Afghanistan economic program and called it successful. On Dec. 19, IMF reviewed and discussed on ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 10
-                }
-              ]
-            },
-            "related": [
-              "Publications reports news statistics bulletins releases archive 2020",
-              "Publications reports news statistics bulletins releases archive 2022",
-              "Publications reports news statistics bulletins releases archive 2021"
-            ],
-            "query": {
-              "q": "site:dab.gov.af inurl:(publications|reports|news|statistics|bulletins|releases|archive)"
-            }
-          }
-        ],
-        "meta": {
-          "took": 0.5339665412902832
-        }
-      }
-    },
-    {
-      "query": "site:dab.gov.af (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"news\" OR intitle:\"statistics\" OR \"economic reports\" OR \"press releases\")",
+      "query": "site:dab.gov.af (inurl:publications OR inurl:reports OR inurl:news OR inurl:statistics OR inurl:bulletins OR inurl:archive) intitle:(publications OR reports OR news OR statistics OR bulletins)",
       "search_result": {
         "data": [
           {
@@ -119,35 +17,12 @@
                   "position": 1
                 },
                 {
-                  "url": "https://www.dab.gov.af/all-news?page=2",
-                  "title": "All News | Da Afghanistan Bank",
-                  "text": "November 19, 2023 – A meeting was held on AML/CFT regime's implementation chaired by the First Deputy Governor and Acting Governor of Da Afghanistan Bank, Mr.",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 2
-                },
-                {
-                  "url": "https://www.dab.gov.af/index.php/Financial-Statistics",
-                  "title": "Financial Statistics | Da Afghanistan Bank",
-                  "text": "Quarterly Financial Sector for the 2nd and 3rd Quarters of 2019, Download. Quarterly Financial Sector Statistics for the 4th Quarter of 2018, Download.",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 3
-                },
-                {
                   "url": "https://www.dab.gov.af/news",
                   "title": "News | Da Afghanistan Bank",
-                  "text": "June 29, 2025– The Governor of Da Afghanistan Bank, Noor Ahmad Agha, and his accompanying delegation have left the country to attend the annual session of the ...",
+                  "text": "This meeting, hosted by Morocco's central bank (Bank Al-Maghrib), was attended by the governors, deputy governors, and representatives of 34 central banks from.",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 4
-                },
-                {
-                  "url": "https://dab.gov.af/all-news?page=4",
-                  "title": "All News | Da Afghanistan Bank",
-                  "text": "July 24, 2022- DAB held a meeting with the Chinese business delegation chaired by Senior Economic Adviser of Da Afghanistan Bank, Mr. Lutfulhaq Noor Paserly.",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 5
+                  "position": 2
                 },
                 {
                   "url": "https://www.dab.gov.af/all-news",
@@ -155,15 +30,15 @@
                   "text": "June 3, 2025 – Sediqullah Khalid, the first deputy governor of Da Afghanistan Bank, officially reopened the Afghanistan Institute of Banking and Finance (AIBF).",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 6
+                  "position": 3
                 },
                 {
-                  "url": "https://dab.gov.af/all-news?page=12",
-                  "title": "All News | Da Afghanistan Bank",
-                  "text": "IMF Executive Board completed sixth and last review of Afghanistan economic program and called it successful. On Dec. 19, IMF reviewed and discussed on ...",
+                  "url": "https://www.dab.gov.af/index.php/Financial-Statistics",
+                  "title": "Financial Statistics | Da Afghanistan Bank",
+                  "text": "Quarterly Financial Sector Statistics for the 4th Quarter of 2018, Download. Quarterly Financial Sector Statistics for the 4th Quarter of 2017. Download.",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 7
+                  "position": 4
                 },
                 {
                   "url": "https://www.dab.gov.af/all-news?page=3",
@@ -171,7 +46,23 @@
                   "text": "May 14, 2023- The Supreme Council of Da Afghanistan Bank, being the highest decision making body of the bank, held meeting on discussing and exchanging opinions ...",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 8
+                  "position": 5
+                },
+                {
+                  "url": "https://dab.gov.af/all-news?page=12",
+                  "title": "All News | Da Afghanistan Bank",
+                  "text": "IMF Executive Board completed sixth and last review of Afghanistan economic program and called it successful. On Dec. 19, IMF reviewed and discussed on ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 6
+                },
+                {
+                  "url": "https://dab.gov.af/all-news?page=4",
+                  "title": "All News | Da Afghanistan Bank",
+                  "text": "September 21, 2022— Da Afghanistan Bank hosted a meeting with the Deputy Ministers of Education, Hajj and Religious Affairs and the Higher Education ministries ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 7
                 },
                 {
                   "url": "https://www.dab.gov.af/all-news?page=5",
@@ -179,128 +70,265 @@
                   "text": "Main navigation · All News · ECO Trade and Development Bank Held 94th Meeting of Its Board of Directors · DAB Holds Meeting with Representatives of Commercial ...",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
-                  "position": 9
+                  "position": 8
                 },
                 {
                   "url": "https://dab.gov.af/index.php/all-news?page=1",
                   "title": "All News | Da Afghanistan Bank",
-                  "text": "July 3, 2024- The Financial Transactions and Reports Analysis Center (FinTRACA) of Da Afghanistan Bank held a training program for compliance and operation ...",
+                  "text": "July 3, 2024- The Financial Transactions and Reports Analysis Center ... News · Access to information · Public Awareness · Publications. Opportunities.",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 9
+                },
+                {
+                  "url": "https://dab.gov.af/past-news?page=8",
+                  "title": "Past | Da Afghanistan Bank",
+                  "text": "Da Afghanistan Bank assures the noble people of Afghanistan of the safety of their deposits in commercial banks.",
+                  "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
                   "position": 10
                 }
               ]
             },
-            "related": [
-              "Publications reports news statistics economic reports press releases 2020",
-              "Publications reports news statistics economic reports press releases 2021",
-              "Publications reports news statistics economic reports press releases 2022"
-            ],
             "query": {
-              "q": "site:dab.gov.af (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"news\" OR intitle:\"statistics\" OR \"economic reports\" OR \"press releases\")"
+              "q": "site:dab.gov.af (inurl:publications OR inurl:reports OR inurl:news OR inurl:statistics OR inurl:bulletins OR inurl:archive) intitle:(publications OR reports OR news OR statistics OR bulletins)"
             }
           }
         ],
         "meta": {
-          "took": 1.053769588470459
+          "took": 0.46964097023010254
         }
       }
     },
     {
-      "query": "site:dab.gov.af (intitle:\"انتشارات\" OR intitle:\"اخبار\" OR \"all publications\" OR \"all reports\")",
+      "query": "site:dab.gov.af intitle:(انتشارات OR گزارش OR اخبار OR \"اعلامیه مطبوعاتی\")",
       "search_result": {
         "data": [
           {
             "results": {
               "web": [
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=73",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "کابل، 28 عقرب1398 – د افغانستان بانک ورکشاپ آموزشی را برای صرافان و عرضه کنندگان خدمات پولی که در پروسه لیلام اسعار، اشتراک می ورزند، راه اندازی نمود.",
+                  "url": "https://www.dab.gov.af/index.php/dr/%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C-%D8%AF-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%86%DA%A9-0",
+                  "title": "اعلامیه مطبوعاتی د افغانستان بانک!",
+                  "text": "اعلامیه مطبوعاتی د افغانستان بانک! اعلامیه مطبوعاتی د افغانستان بانک! Mpoya پنجشنبه ۱۴۰۰/۶/۱۱ - ۱۳:۳. https://www.dab.gov.af/index.php/dr/%D8 ...",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
                   "position": 1
                 },
                 {
-                  "url": "https://dab.gov.af/dr/all-news?page=71",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "د افغانستان ریاست چهار جلسه شبکه سارک فایننس براس سال مالی ۱۳۹۸ را به عهده داشت که اخیراً با تدویر جلسه چهارم این سازمان ماموریت خود را موفقانه به پایان رساند.",
+                  "url": "https://www.dab.gov.af/dr/%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C-%D8%AF-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%86%DA%A9-1",
+                  "title": "اعلامیه مطبوعاتی د افغانستان بانک",
+                  "text": "د افغانستان بانک بدینوسیله از تجار، صرافان، آنانیکه مصروف کار سنگهای قیمتی اند و هموطنان عزیز تقاضا می کند که مفاد مندرج اعلامیه مطبوعاتی ...",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "published_time": "2023-02-08T00:00:00",
                   "position": 2
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=28",
+                  "url": "https://www.dab.gov.af/dr/all-news",
                   "title": "همه اخبار | د افغانستان بانک",
-                  "text": "جلسات جداگانه پیرامون استحکام نظام بانکی با اشتراک مقامات ولایتی، تجار، نمایندگان بانک های تجارتی، پیشه وران، موی سفیدان و سران محل در ولایات لغمان و نورستان ...",
+                  "text": "5 محرم‌ الحرام 1447 - د افغانستان بانک الی مبلغ (15) میلیون دالر امریکایی را طی داوطلبی به روز چهار شنبه مؤرخ 6 محرم‌ الحرام 1447(1404/04/11) بطور لیلام بفروش ...",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
                   "position": 3
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=65",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "۱۷ سرطان سال ۱۳۹۹ – محترم اجمل احمدی سرپرست د افغانستان بانک با هیئت صندوق بین المللی پول در آغاز برنامه ECF جدید تدویر جلسه نمود.",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "url": "https://www.dab.gov.af/dr/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%E2%80%9D%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D9%88%D8%B1%D9%85%D8%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B3%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2-%D9%87%D8%A7%D8%8C-%D8%AB%D8%A8%D8%A7%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%88",
+                  "title": "گزارش اخیر بانک جهانی: ”کاهش تورم، افزایش ارزش افغانی در ...",
+                  "source": "www.dab.gov.af",
+                  "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.dab.gov.af&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.dab.gov.af/sites/default/files/2023-08/dari_for_site.jpg",
                   "position": 4
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=9",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "22 ذوالحجة الحرام 1445 - سرپرست ریاست کُل د افغانستان بانک محترم هدایت الله بدری و هیئت همراهش برای شرکت در بیست و دومین نشست سالانه بورد خدمات مالی اسلامی (IFSB) ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "url": "https://dab.gov.af/dr/%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C-1",
+                  "title": "اعلامیه مطبوعاتی | د افغانستان بانک",
+                  "source": "dab.gov.af",
+                  "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dab.gov.af&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://dab.gov.af/sites/default/files/inline-images/2DAB.jpg",
                   "position": 5
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=77",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "کابل، 24 سنبله 1398- د افغانستان بانک برنامه های وسیع تبلیغاتی ترویج پول افغانی را در شماری از مکاتب شهر و ولایات آغاز نمود. مدیریت آگاهی عامه آمریت عمومی ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "url": "https://dab.gov.af/dr/%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C-3",
+                  "title": "اعلامیه مطبوعاتی | د افغانستان بانک",
+                  "source": "dab.gov.af",
+                  "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dab.gov.af&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://dab.gov.af/sites/default/files/2021-02/dabfnaildabfacebook.jpg",
                   "position": 6
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=66",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "ذخایر نا خالص ارزی د افغانستان بانک به ۹ میلیارد دالر افزایش یافت. کابل،۱۰ جوزا ۱۳۹۹ - ذخایر ارزی ناخالص د افغانستان بانک برای اولین بار از مرز 9 میلیارد ...",
-                  "source": "Da Afghanistan Bank",
-                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "url": "https://dab.gov.af/dr/%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C",
+                  "title": "اعلامیه مطبوعاتی | د افغانستان بانک",
+                  "source": "dab.gov.af",
+                  "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dab.gov.af&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://dab.gov.af/sites/default/files/2020-11/small_logofin_for_newwebsite.png",
                   "position": 7
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=63",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "امروز شنبه مورخ ۱۷ عقرب ۱۳۹۹ حوالی ساعت ۷:۴۵ صبح، موتر حامل کارمندان د افغانستان بانک مورد حمله تروریستی ماین مقناطیسی قرار گرفت که درآن یما سیاوش مشاور امور ...",
+                  "url": "https://dab.gov.af/sites/default/files/2022-07/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87%20%D8%A2%D9%85%D8%B1%DB%8C%D8%AA%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%20%D9%BE%D9%88%D9%84%DB%8C%20-%20%D9%85%D8%A7%D9%87%20%D8%B3%D8%B1%D8%B7%D8%A7%D9%86%20%DB%B1%DB%B4%DB%B0%DB%B0.pdf",
+                  "title": "آمریت عمومی سیاست پولی گزارش ماهانه - د افغانستان بانک",
+                  "text": "خالصه گزارش. گزارش. ماهانه. آمریت عمومی سیاست پولی پیشرفت های فعلی اقتصاد کالن را در جریان. ماه. سرطان. ۱۴۰۰. ب،. طور خالصه. تحلیل، ارز.",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
                   "position": 8
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=55",
-                  "title": "همه اخبار | د افغانستان بانک",
-                  "text": "18 جوزای 1400 – هیئت مدیره انستیتیوت مالی و بانکداری افغانستان امروز جلسه ای را تحت ریاست محترم اجمل احمدی سرپرست د افغانستان بانک که همزمان رییس بورد این ...",
-                  "source": "Da Afghanistan Bank",
+                  "url": "https://www.dab.gov.af/index.php/dr/%D8%A7%D8%B9%D9%84%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA%DB%8C-%D8%AF-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%86%DA%A9-1",
+                  "title": "اعلامیه مطبوعاتی د افغانستان بانک",
+                  "text": "د افغانستان بانک بدینوسیله از تجار، صرافان، آنانیکه مصروف کار سنگهای قیمتی اند و هموطنان عزیز تقاضا می کند که مفاد مندرج اعلامیه مطبوعاتی ...",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "published_time": "2023-02-08T00:00:00",
                   "position": 9
                 },
                 {
-                  "url": "https://dab.gov.af/index.php/dr/all-news?page=4",
+                  "url": "https://www.dab.gov.af/dr/all-news?page=11",
                   "title": "همه اخبار | د افغانستان بانک",
-                  "text": "۹ ربیع‌الاول ۱۴۴۶ – د افغانستان بانک در نظر دارد تا خدمات الکترونیکی را در بخش‌های مالی و بانکی توسعه دهد. برای توسعه این بخش، کمیته‌ای توظیف شده نشست ...",
+                  "text": "۲۱ شعبان ۱۴۴۵- د افغانستان بانک سیمینار یکروزه آموزشی را در قبال اهداف، وظایف و سیاست های کُلی اش برای عده ای استادان و محصلین رشته اقتصاد، مالی و بانکی پوهنتون ...",
                   "source": "Da Afghanistan Bank",
                   "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
                   "position": 10
+                },
+                {
+                  "url": "https://dab.gov.af/index.php/dr/%D8%A8%D8%A7%D9%86%D9%83-%D8%AC%D9%87%D8%A7%D9%86%D9%8A-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AE%D9%88%DB%8C%D8%B4%C2%A0-%D8%A7%D8%B2%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D9%88%D8%B1%D9%85-%D9%88-%D8%AB%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%D8%B4-%D9%BE%D9%88%D9%84-%D9%85%D9%84%DB%8C-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+                  "title": "بانك جهاني در آخرین گزارش خویش ازکاهش تورم و ثبات ارزش پول ملی ...",
+                  "text": "بانك جهاني در آخرین گزارش خویش ازکاهش تورم و ثبات ارزش پول ملی خبر داده است ; افغانستان · در تازه ترین مورد بانک جهانی طی آخرین گزارش خویش · کاهش ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "published_time": "2023-01-28T00:00:00",
+                  "position": 11
+                },
+                {
+                  "url": "https://dab.gov.af/index.php/dr/all-news?page=86",
+                  "title": "همه اخبار | د افغانستان بانک",
+                  "text": "کابل، 27 قوس 1397- د افغانستان بانک در تداوم تلاش های فرهنگ سازانه خود پیرامون ترویج پول افغانی، این بار در زون شرق د افغانستان بانک، برنامه تنویری را راه ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 12
+                },
+                {
+                  "url": "https://dab.gov.af/sites/default/files/2020-11/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87%20%D8%A2%D9%85%D8%B1%DB%8C%D8%AA%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%20%D9%BE%D9%88%D9%84%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%85%D8%A7%D9%87%20%D8%AB%D9%88%D8%B1%20%D8%B3%D8%A7%D9%84%20%DB%B1%DB%B3%DB%B9%DB%B9.pdf",
+                  "title": "د اﻓﻐﺎﻧﺴﺘﺎن ﺑﺎﻧﮏ آﻣﺮﯾﺖ ﻋﻤﻮﻣﯽ ﺳﯿﺎﺳﺖ ﭘﻮﻟﯽ ﮔﺰارش ﻣﺎھﻮا - Da Afghanistan Bank",
+                  "text": "ﮔﺰارش ﻣﺎھﻮار آﻣﺮﯾﺖ ﻋﻤﻮﻣﯽ ﺳﯿﺎﺳﺖ ﭘﻮﻟﯽ ﭘﯿﺸﺮﻓﺖ ﺷﺎﺧﺺ ھﺎی ﻓﻌﻠﯽ اﻗﺘﺼﺎد ﮐﻼن و. آﺧﺮﯾﻦ ﮔﺰارش ھﺎی ﺛﺒﺎت ﻣﺎﻟﯽ اﻓﻐﺎﻧﺴﺘﺎن را در ﺟﺮﯾﺎن ﻣﺎه ﺑﻄﻮر ﺧﻼﺻﮫ ﺗﺤﻠﯿﻞ،.",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 13
                 }
               ]
             },
             "query": {
-              "q": "site:dab.gov.af (intitle:\"انتشارات\" OR intitle:\"اخبار\" OR \"all publications\" OR \"all reports\")"
+              "q": "site:dab.gov.af intitle:(انتشارات OR گزارش OR اخبار OR \"اعلامیه مطبوعاتی\")"
             }
           }
         ],
         "meta": {
-          "took": 0.36499619483947754
+          "took": 1.1653988361358643
+        }
+      }
+    },
+    {
+      "query": "site:dab.gov.af intitle:(آمار OR احصائیه)",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://dab.gov.af/dr/%D8%A7%D8%AD%D8%B5%D8%A7%DB%8C%D9%87",
+                  "title": "احصایه | د افغانستان بانک",
+                  "text": "احصایه · نرخ مبادله · و میلادی · لیلام اسعار · لیلام اوراق بهادار · سکتور خارجی · آمار سکتور پولی و مالی · آمار سکتور حقیقی ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://dab.gov.af/dr/node/1939",
+                  "title": "آمار مالی | د افغانستان بانک",
+                  "text": "آمار مالی ; آمار ربعوار سکتور مالی ربع دوم و سوم سال ۲۰۱۹, احصايه ها, دریافت سند ; آمار ربعوار سکتور مالی ربع چهارم سال ۲۰۱۸, احصايه ها, دریافت سند ; آمار ربعوار ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 2
+                },
+                {
+                  "url": "https://dab.gov.af/dr/node/2774",
+                  "title": "آمار سکتور حقیقی | د افغانستان بانک",
+                  "text": "... احصائیه نشرات سیاست پولی بیانیه کمیتۀ سیاست پولی · نظارت مالی · موسسات مجوز مالی آمار مالی فارمت ها و دستورالعمل های گزارش دهی راپور های سکتور مالی دستورالعمل ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 3
+                },
+                {
+                  "url": "https://dab.gov.af/dr/node/2751",
+                  "title": "بخش خارجی | د افغانستان بانک",
+                  "text": "این بخش مسئولیت جمع آوری و تدوین احصائیه های بیلانس تادیات؛ مانند آمار صادرات و واردات اجناس و خدمات، عواید اولیه و ثانوی و همچنان میزان افزایش و کاهش ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 4
+                },
+                {
+                  "url": "https://dab.gov.af/dr/node/1897",
+                  "title": "سکتور خارجی | د افغانستان بانک",
+                  "text": "احصائیه های سکتور خارجی منحیث شاخص های کلیدی اقتصادی برای بانک های مرکزی و ارگانهای مالی میباشد. چنین احصائیه ها معلومات لازمی در مورد موقف دارایی های ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 5
+                },
+                {
+                  "url": "https://dab.gov.af/dr/node/1856",
+                  "title": "آمریت عمومی سیاست پولی | د افغانستان بانک",
+                  "text": "مدیریت سکتور پولی احصائیه های پولی و مالی را با استفاده از ارقام اولیه از منابع مختلف و روش های معیاری جمع آوری و تدوین می کند. این ارقام بعد از نهایی سازی ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 6
+                },
+                {
+                  "url": "https://dab.gov.af/dr/%D8%AF-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%86%DA%A9%C2%A0-%D8%A8%D8%A7%D9%86%DA%A9%D9%86%D9%88%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%AF%D8%B1%D8%B3-%DA%AF%D8%B1%D8%AF-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF%D9%87%C2%A0-%D8%A7%D8%B2-%D8%B2%D9%88%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%D8%8C-%D8%B4%D8%B1%D9%82-%D9%88-%D8%AC%D9%86%D9%88%D8%A8%E2%80%8C%D8%B4%D8%B1%D9%82-%D8%B1%D8%A7-%D8%AD%D8%B1%DB%8C%D9%82-%D9%86%D9%85%D9%88%D8%AF",
+                  "title": "د افغانستان بانک بانکنوت‌های مندرس گرد آوری شده از زون‌های مرکز، شرق و ...",
+                  "text": "۲۵ محرم ‌الحرام ۱۴۴۷– د افغانستان بانک به ‌منظور ایجاد سهولت در معاملات و داد و ستد ها، مبلغ ۱،۰۰۹،۸۶۷،۰۰۰ (یک میلیارد، نه میلیون و هشت‌صد و ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "published_time": "2025-07-22T14:57:22.395721",
+                  "position": 7
+                },
+                {
+                  "url": "https://dab.gov.af/sites/default/files/2022-01/3-%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D8%AA%D9%88%D8%B1%D9%85%20-%20%D8%AD%D9%88%D8%AA%201399.pdf",
+                  "title": "گزارش ماهانه تورم",
+                  "text": "اخیراً اداره ملی احصائیه و معلومات برای سومین بار شاخص قیمت. مصرف. کننده را مورد بازنگری قرار داده که بر اساس آن ساحۀ تحت سروی قیم از ده والیت به بیست والیت ...",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQ0LGg8PGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAACBgUHAAEE/8QAJhAAAgIABgEDBQAAAAAAAAAAAQIDEQAEBRIhMUEyUYEGExRCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8McD6vkknjgEpeSQkIEUndV3Xv0er6xrXMwMtkGd1ZoyadVNErRJHzVfOEfVVl0+ZY0id/uvSXTblB8kk/wB4Y8bfOAsTLzxZmP7kEgdOrHjBnCx9PAZPP/jhWjeT1xUKQUxHR7tfbiyOfDMx5wEf9Q5bOZvTWi099k24NYNNQ5oHoG678XiFh0bUpKeYurNYbdHBx17DnzxhsxmAWtIyesR6vG+YULlI1ZW37BuJHqUL+1+eOCcMT94PAP3gP//Z",
+                  "position": 8
+                },
+                {
+                  "url": "http://dab.gov.af/sites/default/files/2019-11/Statistic%20report1.pdf",
+                  "title": "آﻣﺎر رﺑﻌﻮار ﺳﻜﺘﻮر ﻣﺎﻟﻲ 2019 2019 رﺑﻊ ﺳﻮم ﺳﺎل رﺑﻊ دوم ﺳﺎل 13 14 ﺗ",
+                  "text": "13. 14. ﺗﻌﺪاد ﺑﺎﻧﻚ ﻫﺎ. 3. 3. ﺑﺎﻧﻚ ﻫﺎي دوﻟﺘﻲ. 8. 8. ﺑﺎﻧﻚ ﻫﺎي ﺧﺼﻮﺻﻲ. 2. 3. ﻓﺮوع ﺑﺎﻧﻚ ﻫﺎي ﺧﺎرﺟﻲ. 410. 410. ﺗﻌﺪاد ﻧﻤﺎﻳﻨﺪﮔﻲ ﻫﺎ.",
+                  "source": "Da Afghanistan Bank",
+                  "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=dab.gov.af",
+                  "position": 9
+                },
+                {
+                  "url": "https://dab.gov.af/node/8513",
+                  "title": "تدویر جلسه با نمایندگان اداره محترم احصائیه مرکزی | Da ...",
+                  "source": "dab.gov.af",
+                  "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dab.gov.af&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://dab.gov.af/sites/default/files/2022-07/1_0_0.jpg",
+                  "position": 10
+                },
+                {
+                  "url": "https://dab.gov.af/dr/%D8%A2%D9%85%D8%A7%D8%B1-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%AF%D9%87%D9%84%DB%8C%D8%B2-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%A7%D9%84-%DB%B2%DB%B0%DB%B2%DB%B0",
+                  "title": "آمار صادرات از طریق دهلیز های هوایی برای سال ۲۰۲۰ | د ...",
+                  "source": "dab.gov.af",
+                  "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dab.gov.af&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://dab.gov.af/sites/default/files/2021-03/dabwebsite1_0.jpg",
+                  "position": 11
+                }
+              ]
+            },
+            "query": {
+              "q": "site:dab.gov.af intitle:(آمار OR احصائیه)"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0840072631835938
         }
       }
     }

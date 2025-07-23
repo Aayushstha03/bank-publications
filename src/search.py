@@ -98,7 +98,7 @@ def main():
             )
             is_request_error = isinstance(result, dict) and 'error' in result
             if is_api_error or is_request_error:
-                print(f"    Failed after all attempts: {query}")
+                # Only log and write to failed_banks.json, do not print anything about the failure
                 failed_banks.append({
                     "Bank Name": bank_name,
                     "query": query,
