@@ -21,7 +21,7 @@ INPUT_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'urls', '176_Qat
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'outputs', 'final_urls', '176_Qatar_Central_Bank.listing_urls.json')
 
 PROMPT = (
-    "You are an expert at identifying whether a web page URL is a listing or collection page (such as a directory of publications, reports, press releases, or document archives) on an official central bank website. "
+    "You are an expert at identifying whether a web page URL is a listing or collection page (such as a directory of publications, reports, press releases, or document archives) on an official central bank website."
     "A listing page contains links to multiple documents or items, not just a single article, report, or news post."
     "Given the following list of URLs and their metadata (title, url, and snippet text), return a JSON array of only those URLs that are likely to be listing or collection pages. DONOT MODIFY THE URLS"
     "Do not include single document pages, news articles, or home/about/contact pages."
@@ -58,15 +58,24 @@ def filter_listing_urls(bank_name, url_blocks):
         logging.error(f"Raw response: {response.text}")
         return {bank_name: []}
 
+
 def main():
-    with open(INPUT_PATH, encoding='utf-8') as f:
-        data = json.load(f)
-    bank_name = data.get("Bank Name", "Unknown Bank")
-    url_blocks = data.get("unique_internal_blocks", [])
-    result = filter_listing_urls(bank_name, url_blocks)
-    with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"Filtered listing URLs written to {OUTPUT_PATH}")
+    urls_dir = os.path.join(os.path.dirname(__file__), 'outputs', 'urls')
+    final_dir = os.path.join(os.path.dirname(__file__), 'outputs', 'final_urls')
+    os.makedirs(final_dir, exist_ok=True)
+    files = [f for f in os.listdir(urls_dir) if f.endswith('.unique_webs.json')]
+    files = sorted(files)[:50]
+    for fname in files:
+        input_path = os.path.join(urls_dir, fname)
+        with open(input_path, encoding='utf-8') as f:
+            data = json.load(f)
+        bank_name = data.get("Bank Name", "Unknown Bank")
+        url_blocks = data.get("unique_internal_blocks", [])
+        result = filter_listing_urls(bank_name, url_blocks)
+        output_path = os.path.join(final_dir, fname.replace('.unique_webs.json', '.listing_urls.json'))
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        print(f"Filtered listing URLs written to {output_path}")
 
 if __name__ == "__main__":
     main()
