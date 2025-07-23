@@ -1,0 +1,31 @@
+{
+  "Bank Name": "Central Bank of Aruba",
+  "unique_internal_blocks": [
+    {
+      "url": "https://www.cbaruba.org/document/press-release-extraordinary-mpc-17-sept-2021-eng/",
+      "title": "Press Release Extraordinary MPC 17 Sept 2021 ENG",
+      "text": "Press Release Extraordinary MPC 17 Sept 2021 ENG. Categories: Publications. Published on: Friday, Nov 19, 2021 Print this. Press Release Extraordinary MPC ...",
+      "source": "Centrale Bank van Aruba",
+      "topics": "press releases",
+      "listing_probability": 0.05
+    },
+    {
+      "url": "https://www.cbaruba.org/document/speech-by-the-president-at-the-launch-of-the-annual-report-2010/",
+      "title": "Speech by the President at the launch of the Annual Report 2010",
+      "text": "Speech by the President at the launch of the Annual Report 2010. Categories: Publications. Published on: Friday, Nov 12, 2021 Print this.",
+      "source": "Centrale Bank van Aruba",
+      "published_time": "2021-11-12T00:00:00",
+      "topics": "speeches, annual reports",
+      "listing_probability": 0.05
+    },
+    {
+      "url": "https://www.cbaruba.org/news/press-release-monetary-policy-committee-may-2024",
+      "title": "Press Release Monetary Policy Committee May 2024",
+      "text": "During its monthly meeting on May 16, 2024, the MPC decided to reduce the reserve requirement rate from 21.5 percent to 20.5 percent as of June 1, 2024.",
+      "source": "Centrale Bank van Aruba",
+      "published_time": "2024-07-24T00:00:00",
+      "topics": "press releases, news",
+      "listing_probability": 0.05
+    }
+  ]
+}

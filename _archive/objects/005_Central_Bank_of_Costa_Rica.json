@@ -1,0 +1,836 @@
+{
+  "Bank Name": "Central Bank of Costa Rica",
+  "search_results": [
+    {
+      "query": "site:bccr.fi.cr/en publications",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications",
+                  "title": "Publications - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Monthly Report of Economic Situation · Exchange ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/international-conventions",
+                  "title": "International Conventions - Banco Central de Costa Rica",
+                  "text": "Publications · Transparency · Central Directo · Central en Línea · Digital Signature · Investments BCCR · Links interest · SINPE MÓVIL · Site map| Terms of Use| ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/Paginas/Macroeconomic_programs.aspx",
+                  "title": "Macroeconomic Programs - San José - Banco Central de Costa Rica",
+                  "text": "​​​Macroeconomic Programs ; pdf, See document · 2019-2020 Macroeconomic Program (spanish), 29/01/2019 ; pdf, See document · 2018-2019 Macroeconomic Program Review ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research",
+                  "title": "Research - Banco Central de Costa Rica",
+                  "text": "Research papers prepared by BCCR professional staff are available in this site, as well as papers prepared by the Department of Economic Research.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/inflation-reports",
+                  "title": "Inflation reports - Banco Central de Costa Rica",
+                  "text": "​​​​​​​​​​Inflation reports​​ ; pdf, See document · June 2019 Inflation report (Spanish), 06/07/2019 ; pdf, See document · December 2018 Inflation report (Spanish) ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/real-sector",
+                  "title": "Real Sector - Banco Central de Costa Rica",
+                  "text": "Publications · Transparency · Central Directo · Central en Línea · Digital Signature · Investments BCCR · Links interest · SINPE MÓVIL · Site map| Terms of Use| ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/monetary-policy-releases",
+                  "title": "Monetary policy releases​​ - Banco Central de Costa Rica",
+                  "text": "​​​​​​​​​Monetary Policy releases​​ ; pdf, See document · Monetary Policy release 03-2023 (Spanish), 21/04/2023 ; pdf, See document · Monetary Policy release 01- ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/manuals-guides-instruction-manuals",
+                  "title": "Manuals Guides Instruction Manuals - Banco Central de Costa Rica",
+                  "text": "​​The Regulations for Cash Exchange Operations provide that it is compulsory for authorized entities to participate in the cash exchange market, ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/authorized-intermediaries",
+                  "title": "Authorized Intermediaries - Banco Central de Costa Rica",
+                  "text": "Publications · Transparency · Central Directo · Central en Línea · Digital Signature · Investments BCCR · Links interest · SINPE MÓVIL · Site map| Terms of Use| ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/monthly-report-of-economic-situation",
+                  "title": "Monthly Report of Economic Situation - Banco Central de Costa Rica",
+                  "text": "​​​​Monthly Report of Economic Situation​​ ; pdf, See document · Monthly Report of Economic Situation January 2023 (Spanish)​​, 20/01/2023 ; pdf, See document ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en publications"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0010311603546143
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en reports",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/Deposit-Guarantee-Fund/reports",
+                  "title": "Reports - Banco Central de Costa Rica",
+                  "text": "​​​​​​​Reports. The purpose of this section is to present annual and other reports produced while carrying out the activities of the DGF.​​ ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications",
+                  "title": "Publications - Banco Central de Costa Rica",
+                  "text": "In this section you can find the documents published by the Central Bank of Costa Rica related to economic and financial reports and monetary programs.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/transparency/accountability/managment-reports",
+                  "title": "Managment Reports - Banco Central de Costa Rica",
+                  "text": ": Final management reports ‎(52) ; : Rationale on payment of allowances to members of the Board of Directors of the BCCR ‎(2) ; : Scales and salary policies ‎(7) ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/inflation-reports",
+                  "title": "Inflation reports - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reportsActualmente seleccionado · Monthly Report of Economic ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/annual-report",
+                  "title": "Annual Report - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Monthly Report of Economic Situation · Exchange ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/Deposit-Guarantee-Fund/Paginas/Reports.aspx",
+                  "title": "Deposit Guarantee Fund - San José - Banco Central de Costa Rica",
+                  "text": "​​​​​​​Reports ; 2024 Annual Report (Spanish), 09/05/2025 ; 2023 Annual Report (Spanish), 02/05/2024 ; 2022 Evaluation report on procedures, risk management, ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/monthly-report-of-economic-situation",
+                  "title": "Monthly Report of Economic Situation - Banco Central de Costa Rica",
+                  "text": "​​​​Monthly Report of Economic Situation​​ ; pdf, See document · Monthly Report of Economic Situation January 2023 (Spanish)​​, 20/01/2023 ; pdf, See document ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators",
+                  "title": "Economic Indicators - Banco Central de Costa Rica",
+                  "text": "Economic surveys, exchange rates, external sector, inflation and exchange rate expectations, interest rates, monetary and financial, price indices.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/SitePages/Home.aspx",
+                  "title": "Exchange rate and interest rates - Banco Central de Costa Rica",
+                  "text": "In this section you can find the documents published by the Central Bank of Costa Rica related to economic and financial reports and monetary programs, monetary ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/exchange-policy-foreign-sector",
+                  "title": "Exchange Policy Foreign Sector - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Monthly Report of Economic Situation.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en reports"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3054769039154053
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en research",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/research",
+                  "title": "Research - Banco Central de Costa Rica",
+                  "text": "This research is intended to inform and support economic analyses and advice provided by the Economic Division regarding monetary, exchange and financial system ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2020",
+                  "title": "Economic Research Seminar 2020 - Banco Central de Costa Rica",
+                  "text": "With a production model which considers different economic activities, types of work and of capital, the main objective of the study is to estimate ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2021",
+                  "title": "Economic Research Seminar 2021 - Banco Central de Costa Rica",
+                  "text": "This paper analyzes the firm dynamics of adjustment to higher minimum wages using Costa Rica's occupation-specific minimum wage setting.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2019",
+                  "title": "Economic Research Seminar 2019 - Banco Central de Costa Rica",
+                  "text": "The Central Bank requires measurements to assess its credibility, from which one of the most relevant is inflation expectations of economic agents. This study ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2018",
+                  "title": "Economic Research Seminar 2018 - Banco Central de Costa Rica",
+                  "text": "The results seem to support the Neo-Keynesian theory: the impact on the level of production given unexpected shocks in government expenditure is positive and ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/banknotes-coins/coins",
+                  "title": "Coins - Banco Central de Costa Rica",
+                  "text": "Coins comply their role as currency, value deposit, and account units. The current denomination structure consists of seven coins: 500, 100, 50, 25, and 5 ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/about-bccr/cultural-heritage",
+                  "title": "Cultural heritage - Banco Central de Costa Rica",
+                  "text": "Research work, technical publications, activities, workshops, and public concerts are also offered by the Cultural Center, in its permanent pursuit of ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/suscriptions",
+                  "title": "Suscriptions - Banco Central de Costa Rica",
+                  "text": "Suscriptions. Select the topics that interest you:* Administrative Contracting. Research. Legal Framework. News. Annual Report. Exchange Policy Foreign Sector.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/banknotes-coins/security-features/against-forgery",
+                  "title": "Against forgery - Banco Central de Costa Rica",
+                  "text": "Whenever it is presumed that currency has been forged or counterfeited, interested parties may request the Central Bank of Costa Rica to verify their ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2018",
+                  "title": "Economic Research Seminar 2018",
+                  "source": "Banco Central de Costa Rica",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bccr.fi.cr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bccr.fi.cr/en/research/DocSeminars2018/Jornadas-2018.jpg",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2020",
+                  "title": "Economic Research Seminar 2020",
+                  "source": "Banco Central de Costa Rica",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bccr.fi.cr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bccr.fi.cr/en/research/DocSeminars2020/Jornadas-2020.png",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2019",
+                  "title": "Economic Research Seminar 2019",
+                  "source": "Banco Central de Costa Rica",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bccr.fi.cr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bccr.fi.cr/en/research/DocSeminars2019/Jornadas-2019.jpg",
+                  "position": 12
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2021",
+                  "title": "Economic Research Seminar 2021",
+                  "source": "Banco Central de Costa Rica",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bccr.fi.cr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.bccr.fi.cr/en/research/PublishingImages/inv_ec2021.png",
+                  "position": 13
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en research"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.49773192405700684
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en \"press releases\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "Press Releases · Moneda conmemorativa de los 175 años de la Fundación de la República · Nuevas Cuentas Ambientales 2022 · Seguridades de los nuevos billetes de ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/comunications-and-press-releases",
+                  "title": "Comunications and Press releases - Banco Central de Costa Rica",
+                  "text": "Press releases ; pdf, Ver comunicado · BCCR projects contraction of real GDP of 5.0% for 2020 and growth of 2.3% for 2021 (spanish) ; pdf, Ver documento ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/I_JBIE_Otto.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "imagen5 Press Releases. Menú. Comunications and Press releases · Events · Speeches and lectures. ContenidoPagina01HTML. ​​​Eventos​​. I Jornada Bienal de ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/InfEmpGesMacroBCCR2022.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "imagen5 Press Releases. Menú. Comunications and Press releases · Events · Speeches and lectures. ContenidoPagina01HTML. ​. ​​2022 Business Information and ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/II_JBIE_RP.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "Comunications and Press releases · Events · Speeches and lectures ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/ForoMIPAE.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "imagen5 Press Releases. Menú. Comunications and Press releases · Events · Speeches and lectures. ContenidoPagina01HTML. ​​​​Foro sobre Modelo de Insumo Producto ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/events",
+                  "title": "Events - Banco Central de Costa Rica",
+                  "text": "/en/press-releases/events/2019-business-information-and, Ver evento · 2019 Business Information and Macroeconomic Management (spanish), 14/03/2019. /en/press ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/23_RAGLCA.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "imagen5 Press Releases. Menú. Comunications and Press releases · Events · Speeches and lectures. ContenidoPagina01HTML. ​​Eventos. Banco Central es anfitrión de ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/InfEmpGesMacroBCCR2023.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "imagen5 Press Releases. Menú. Comunications and Press releases · Events · Speeches and lectures. ContenidoPagina01HTML. 2023 B​usiness Information and ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/press-releases/Paginas/InfEmpGesMacroBCCR2021.aspx",
+                  "title": "Press Releases - Banco Central de Costa Rica",
+                  "text": "imagen5 Press Releases. Menú. Comunications and Press releases · Events · Speeches and lectures. ContenidoPagina01HTML. ​. ​​2021 Business Information and ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en \"press releases\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9623806476593018
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en statistics",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/business-statistics",
+                  "title": "Business Statistics - Banco Central de Costa Rica",
+                  "text": "​The business and work statistics published on this site are calculated based on data from the Registry of Economic Variables (Revec) prepared by the Banco ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/construction-statistics",
+                  "title": "Construction statistics - Banco Central de Costa Rica",
+                  "text": "​​​​​​​​​​​​Construction statistics​. ​Index​. • General price index for construction inputs. • By type of project. • Construction price index by Central ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/claims/statistics-on-claims",
+                  "title": "Statistics on claims - San José - Banco Central de Costa Rica",
+                  "text": "Statistics on Claims SINPE services and payment cards (Spanish) ; SINPE claims entities contacts​ (Spanish)​​​​ ; ​Cards claims (Spanish)​​​​​.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators",
+                  "title": "Economic Indicators - Banco Central de Costa Rica",
+                  "text": "Economic surveys, exchange rates, external sector, inflation and exchange rate expectations, interest rates, monetary and financial, price indices.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/sinpe-service-statistics",
+                  "title": "SINPE Service Statistics - Banco Central de Costa Rica",
+                  "text": "​​​​SINPE Service Statistics. In 2012 the amount of payments made through SINPE grew by 11% as compared to ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/environmental-accounts",
+                  "title": "Economic Indicators - Banco Central de Costa Rica",
+                  "text": "Economic Indicators: Data Disclosure (NEDD), Business Statistics, Special and temporary medium-term financing facility, ODP, Economic monthly report, Financial ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/culture-satellite-account",
+                  "title": "Culture Satellite Account - San José - Banco Central de Costa Rica",
+                  "text": "An information system that makes it possible to obtain information about the economic characteristics of culture.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/transparency/accountability/managment-reports",
+                  "title": "Managment Reports - Banco Central de Costa Rica",
+                  "text": "Business Statistics · Special and temporary medium-term financing facility ... : Statistics on disabilities, vacations and staff evaluation ‎(3). Seguir.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/cfe-program",
+                  "title": "CFE-Program - Banco Central de Costa Rica",
+                  "text": "Business Statistics · Special and temporary medium-term financing facility, ODP · Economic monthly report · Financial Market Summary · Manuals and methodologies ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/SitePages/Home.aspx",
+                  "title": "Inicio - Home - Banco Central de Costa Rica",
+                  "text": "Business Statistics · Construction statistics · Economic monthly report · Financial Market Summary · Manuals and methodologies · Special and temporary medium- ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Statistics book",
+              "Statistics for Dummies"
+            ],
+            "query": {
+              "q": "site:bccr.fi.cr/en statistics"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.012321949005127
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en bulletin",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/construction-statistics",
+                  "title": "Construction statistics - Banco Central de Costa Rica",
+                  "text": "General price index for construction inputs, by type of project, construction price index by Central Product Classification, quarterly economic activity index.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/economic-surveys",
+                  "title": "Economic Indicators - Banco Central de Costa Rica",
+                  "text": "46/5000. Monthly index of hotels bulletin. Nights sold index and percentage of occupancy. Reports. March, 2024 · Informes anteriores. Versión en español ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                }
+              ]
+            },
+            "related": [
+              "Bulletin Board",
+              "Bulletin company",
+              "Bulletin store",
+              "Bulletin wholesale",
+              "Bulletin board paper",
+              "UGA bulletin"
+            ],
+            "query": {
+              "q": "site:bccr.fi.cr/en bulletin"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9281759262084961
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en \"monetary policy\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/monetary-policy-releases",
+                  "title": "Monetary policy releases​​ - Banco Central de Costa Rica",
+                  "text": "Monetary Policy release 01-2023 (Spanish)​​​​, 02/02/2023. pdf, See document · Monetary Policy release 10-2022 (Spanish)​​​​, 01/11/2022. pdf, See document ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications",
+                  "title": "Publications - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Monthly Report of Economic Situation.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/macroeconomic-programs",
+                  "title": "Macroeconomic programs - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programsActualmente seleccionado · Comments on the national economy · Inflation reports · Monthly Report of Economic ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/SitePages/Home.aspx",
+                  "title": "Inicio - Home - Banco Central de Costa Rica",
+                  "text": "... monetary policy reports, inflation reports, and monetary policy releases, among other topics. Services. Central directo Central en línea Firma digital ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/comments-on-the-national-economy",
+                  "title": "Comments on the national economy - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economyActualmente seleccionado · Inflation reports · Monthly Report of Economic ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/inflation-reports",
+                  "title": "Inflation reports - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reportsActualmente seleccionado · Monthly Report of Economic ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators",
+                  "title": "Economic Indicators - Banco Central de Costa Rica",
+                  "text": "Interest rates. ​-Monetary policy interest rate · -Deposit Basic Rate · -Yield Curve, colones · -Yield Curve, $​USD · -Gross historical rates on Central Directo ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/monthly-report-of-economic-situation",
+                  "title": "Monthly Report of Economic Situation - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Monthly Report of Economic SituationActualmente ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/publications/exchange-policy-foreign-sector",
+                  "title": "Exchange Policy Foreign Sector - Banco Central de Costa Rica",
+                  "text": "Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Monthly Report of Economic Situation.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2020",
+                  "title": "Economic Research Seminar 2020 - Banco Central de Costa Rica",
+                  "text": "Monday, November 16th. Accounting for incomplete pass-through of monetary policy: the Costa Rican banking sector with imperfect competition [PDF] (Spanish)",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en \"monetary policy\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9723348617553711
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en downloads",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/digital-signature/general-information/certification-authority",
+                  "title": "Certification Authority (CA) certificates - Banco Central de Costa Rica",
+                  "text": "CA Root Certificate: download the certificate at this link. • Hash to verify the authenticity of the CA RAIZ NACIONAL - COSTA RICA certificate: Thumbprint ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/public-services/sinpe-m%C3%B3vil",
+                  "title": "Sinpe móvil - Banco Central de Costa Rica",
+                  "text": "​\"Sinpe Móvil\" (Mobile Payment System) is a service aimed at the retail payment segment (for small amounts), making it possible for users of the National ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/banknotes-coins/security-features/banknotes-brochures",
+                  "title": "Banknotes brochures - Banco Central de Costa Rica",
+                  "text": "Banknote brochures showing security features​​​​​. Download the oficial banknote brochures containing more information on new banknoets.​​ ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/digital-signature/certificates-for-private-individuals/cost-and-issuers",
+                  "title": "Cost and Issuers - Banco Central de Costa Rica",
+                  "text": "These services are available as long as your certificate is valid. Download the file to find the entity of your interest and learn the details of the digital ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/Docpublictransport/Guia-contactless-para-minoristas.pdf",
+                  "title": "Guide for retailers:",
+                  "text": "There is no need to find cash and you can easily track your purchases on your statement or on your banking app. It's secure. • Contactless payments are safe ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/terms-of-use",
+                  "title": "Terms of use - Banco Central de Costa Rica",
+                  "text": "BCCR website users may use the information obtained directly in this site for personal, business, or organizational purposes.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/cfe-program/request-to-participate",
+                  "title": "Request to participate - Banco Central de Costa Rica",
+                  "text": "You can download the request to participate ​form​ here (Spanish)​. ContenidoPagina02HTML. Mon.-Fri. 9:00 am to 4:00 pm. Hours ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/DocWaterAccount/Brief_ESPH.pdf",
+                  "title": "Case of the Public Services Company of Heredia (ESPH)",
+                  "text": "Case of the Public Services Company of Heredia (ESPH). The Central Bank of Costa Rica conducted a case study on the application of water accounting.",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://sdd.bccr.fi.cr/en/IndicadoresEconomicos/Inicio/TerminosDeUso",
+                  "title": "Terms of Use - Indicadores Económicos",
+                  "text": "Consulta los principales indicadores económicos de Costa Rica, como el tipo de cambio, la inflación, las tasas de interés y otros, proporcionados por el ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUlQWQ/WHY7VHTj5+v////b4OYzTW6CkqZ3iJ5IYH25ws2ptcKcqbmOnK5RZ4TK0dpwgpm9xc+vucakr76ap7e1vsrU2eBgdY4tR2lWbIbp7PBoe5Th5erx8/XEy9WNm67vbcuuAAAA0UlEQVR4AdXNBW7EQAxA0d+Mw8yc3v+WdblBQWn3z9iiJ5mf6YHLLCO2w0WuiHhofhBGPvtiBS5aZJOEaXYOMvGBvECzyjJ2qyLaAINWh2DlDk3admyA9GhNRgZ+sTrRmmFUYNCcCS3vVqARmRTMI1rtgrWwAkZkViCmA5xGkXcMwsYHGrqZYxAtw9CQkqenQBdpIf0lMGJzBXyR5BLMUvKlxx2QnK+NItJ/gFRXxTqv8HgG0axL5tziIAVip3ngdRynYGbdHYJGZOKq1piR3+kJuuMOZZpSCSYAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bccr.fi.cr/en/payments-system/DocCards/Estudio_tecnico_2023_fijacion_ordinaria_comisiones_CP.pdf",
+                  "title": "Fijación ordinaria de comisiones máximas del sistema de tarjetas de ...",
+                  "text": "La actualización incluyó el ajuste de costos necesarios para determinar una comisión máxima mensual aplicable a una terminal punto de venta con ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "published_time": "2023-10-04T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Play Store",
+              "Downloads Play Store",
+              "Downloads games",
+              "Downloads Windows 11",
+              "Play Store app",
+              "Download App Store",
+              "Play Store download app install",
+              "Downloads Delta",
+              "Zupee Ludo"
+            ],
+            "query": {
+              "q": "site:bccr.fi.cr/en downloads"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.6364777088165283
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en \"working papers\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/research/DocSeminars2020/2020-JIE-07-Desigualdad-salarial-firmas.pdf",
+                  "title": "Desempeño de las firmas y desigualdad salarial",
+                  "text": "Employment and Migration Working Papers, No. 241, OECD. Publishing, Paris, disponible en: https://www.oecd-ilibrary.org/social- · issues ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "published_time": "2020-11-20T00:00:00",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en \"working papers\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9902141094207764
+        }
+      }
+    },
+    {
+      "query": "site:bccr.fi.cr/en \"economic data\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bccr.fi.cr/en/economic-indicators/DocEnergyAccount/Energy_emissions_account_2011_2013.pdf",
+                  "title": "Working Paper - Banco Central de Costa Rica",
+                  "text": "It enables to present economic data in a suitable format for its analysis and formulation of economic policy and decision-making processes. The SEEA ...",
+                  "source": "BCCR",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADtUlEQVR4AVWSA3gcWxiG/9ipjXgRO0VsY23HyfpmvTuT7MRmrTi1eW3z8bVtqz11+w2P3p9w/f8fAGArPKwdEC3ogOln34JHdp2GlYV6ANgC169fR99UCKJZgYcfvDVGr79di3QTrHA21h3OwQgSF++M5LVbc5TDO9AGF+fs1cD0hoEaMgdzkunWMTIXt6cqerL1k8c9Kix7bwL+d6Py2mc8spXnfYs1nNVVRgGJ7RjbVN72Vnpzfy5aOxjOsJ2L5re3JIk6GFQurg+hWS/HCgknx3k44KYbbog67ZrVOgB8kwet+5B3Tstg7pZK45tULnZ2S5XpdLFuYj3ESGBjCQrFNRtylKNhUeIuQY1j/7pbAAoXO+yS3vg6pDeNBRbp9m2sMLxBYTuuBlUZX6Ow7dJEWfed+OHWN0XeC1QeAULiCNwB4EdcMpp3Q0pt8KZKY0SStDN9ban+mm9W8z/RfEwHQIHG4SWYOv0MsFHyAEJg98knfUcWr3rcCQGbcc9qHc1oHQjI0gwF5KlGQhHgYgjN/HpwjfmFFHl3PjZ9yQvtBQFxxCdeTFSnSrsON/TORCLAv27Ixb41ZW3Pb6k2PrmyWPPK5krDO1E8fEbSM0dKknbVk1iOx1Hy5qOFzikKB1sKY9jOZDYNcHUTxz3hpsRdM+mxAuepELrl7ZVF2qtB1aYnEOBcnJhgZLcMCVFVno9g2j7dVGn4nspxfIjKvL9ANx6vGTwDUGPeHRTBtF8Io1vHM5sHI3K1o94M+/6VydKuarTxWJqi5ynvXNU1/yJNgn++KnorzZyKwpoLp1uv9i09tgJIHEy/sdL4mLDz0Kr0xgHIVg3dzm6UBFSjx1bFi5xDvgXa0zvVg6tKNSP+1cap5VFcBxFGszzdf/Sx1UBl23dvqTLOoAS5ogfuSo1aOF81AmSOw+ybq/xkbXnbwtpywywq8bl1Jfqvtjf0q5/74D0XSFZ0i9eXG17c3tBHhZQ6oAg7gMTD4SYwo7F/e5zIOe+dp7rkXaKluucpw2MkRPzWatNsSI15cfzk414gQO2I+mAgqNpyhcSycxEgLkZMpJPZDiKKiz+RLOt63DtffTzINOLhXaQGkgCHaK6jdV2x9klh77Q/FGjHQL3ntC+Vh9ODadbJYKZ9OpzlmKZyMLxIOx61vb5fsoFmwynKfg+4I5TYAiqqRP3AQvCt1hT3zYFfthI+/PUPN1n3bKBt71lfQCpQj4Jx/3nPpvHTPm1jZ+Cuuk8+66YaPxVg3X3K8wZcAoFera3uuAAAAABJRU5ErkJggg==",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bccr.fi.cr/en \"economic data\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.631577730178833
+        }
+      }
+    }
+  ]
+}

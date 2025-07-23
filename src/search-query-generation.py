@@ -8,7 +8,7 @@ import requests
 
 # Setup paths
 
-BANKS_PATH = os.path.join(os.path.dirname(__file__),'websites.csv')
+BANKS_PATH = os.path.join(os.path.dirname(__file__),'websites_deduped.csv')
 LOG_DIR = os.path.join(os.path.dirname(__file__), 'logs')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), 'outputs')
 os.makedirs(LOG_DIR, exist_ok=True)
@@ -29,18 +29,22 @@ model = genai.GenerativeModel(model_name=MODEL)
 API_URL = "https://laterical.com/api/call/"
 
 PROMPT = (
-    "You are an assistant that generates optimized Google search queries. Your goal is to find main collection or listing pages on the official website of a central bank that contain lists of documents such as publications,reports,research,press releases,statistical data,bulletin,archive,monetary policy,downloads."
-    "These should not be individual articles or news posts, but rather parent-level pages that contain links to many such documents."
-    "Generate a list of highly relevant Google search queries using the site: operator restricted to the official domain."
-    "English as the default language, unless the country’s official central bank website is primarily in a different language. Then translate terms accordingly. Limit each query to one concept (e.g., one keyword group per query), and return only the queries, not explanations."
-    "Return only a JSON array of strings"
+    "You are an expert in crafting search engine queries to find structured index pages (not individual documents).\n\n"
+    "Given the name and official website of a central bank, generate upto 3 and a max of 5 if absolutely needed Google-style search queries that will help discover *main listing or archive pages* on that website — such as pages for publications, economic reports, bulletins, statistical releases, or news announcements.\n\n"
+    "**Important requirements:**\n"
+    "- The goal is to find structured *listing pages*, not individual files (avoid direct links to PDF, XLS, DOC, etc.).\n"
+    "- Use advanced search operators like `site:`, `inurl:`, `intitle:`, and logical ORs.\n"
+    "- Focus queries on the official website domain.\n"
+    "- If the bank is from a non-English-speaking country, try including native terms like 'publicaciones' (Spanish), 'rapports' (French), or 'statistik' (German), depending on the country.\n"
+    "- Return the queries as a json array of strings.\n\n"
+    "Here is the information:\n\n"
 )
 
 def generate_queries(bank_name, bank_url):
     llm_input = f"Bank Name: {bank_name}\nBank URL: {bank_url}"
     response = model.generate_content(
         contents=[{"role": "user", "parts": [PROMPT + "\n" + llm_input]}],
-        generation_config={"temperature": 0.5}
+        generation_config={"temperature": 0.2}
     )
     try:
         resp_text = response.text.strip()

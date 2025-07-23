@@ -1,0 +1,177 @@
+{
+  "Bank Name": "Bank of Algeria",
+  "unique_internal_blocks": [
+    {
+      "url": "https://www.bank-of-algeria.dz/rapports-annuels/",
+      "title": "Rapports annuels - Banque d'Algérie",
+      "text": "Rapports annuels · Rapport annuel 2023 · Rapport annuel 2022 · Rapport annuel 2021 · Rapport annuel 2020 · Rapport annuel 2019 · Rapport annuel 2018 · Rapport annuel ...",
+      "source": "Bank Of Algeria",
+      "topics": "annual reports",
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/publications/",
+      "title": "Publications - Banque d'Algérie",
+      "text": "Cette rubrique comporte les publications de la Banque d'Algérie. Consultez les ...",
+      "source": "Bank Of Algeria",
+      "topics": "general publications",
+      "listing_probability": 0.95
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/publications-page/",
+      "title": "Publications - Banque d'Algérie",
+      "text": "Consultez dans cette rubrique les publications de la Banque d'Algérie comprenant le rapport annuel et les bulletins statistiques.",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "general publications",
+        "annual reports",
+        "statistical bulletins"
+      ],
+      "listing_probability": 0.95
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/bulletins-statistiques/",
+      "title": "Bulletins statistiques - Banque d'Algérie",
+      "text": "Bulletins statistiques · 2024 · 2023 · 2022 · 2021 · 2020 · 2019 · 2018 · 2017.",
+      "source": "Bank Of Algeria",
+      "topics": "statistical bulletins",
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/statistiques/",
+      "title": "Statistiques - Banque d'Algérie",
+      "text": "Cette rubrique comporte les indicateurs relatifs à la situation monétaire et ses composantes, aux crédits à l'économie ainsi que les dépôts et la situation ...",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "economic statistics",
+        "monetary indicators"
+      ],
+      "listing_probability": 0.4
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/statistiques-du-marche/",
+      "title": "Statistiques du marché - Banque d'Algérie",
+      "text": "Cette rubrique comporte les statistiques du marché monétaire interbancaire, le marché des valeurs du trésor et la rémunération des comptes devises.",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "market statistics",
+        "interbank money market"
+      ],
+      "listing_probability": 0.4
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-series-retrospectives/",
+      "title": "Bulletins statistiques (series retrospectives) - Banque d'Algérie",
+      "text": "Bulletins statistiques (séries rétrospectives) ; Juin 2022 – Hors série : Statistiques monétaires 1964-2020, statistiques de la balance des paiements 1992-2020.",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "statistical bulletins",
+        "retrospective series"
+      ],
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/b2022/",
+      "title": "Bulletins Statistiques 2022 - Banque d'Algérie",
+      "text": "Bulletins statistiques · Bulletin trimestriel N° 61, 2022 · Bulletin trimestriel N° 60, 2022 · Bulletin trimestriel N° 59, 2022 · Bulletin trimestriel N° 58, 2022 ...",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "statistical bulletins",
+        "2022 bulletins"
+      ],
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2020/",
+      "title": "Bulletins Statistiques 2020 - Banque d'Algérie",
+      "text": "Bulletins statistiques · Bulletin trimestriel N° 53, Mars 2021 · Bulletin trimestriel N° 52, Décembre 2020 · Bulletin trimestriel N° 51, Septembre 2020 · Bulletin ...",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "statistical bulletins",
+        "2020 bulletins"
+      ],
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/statistiques-associes-marche-monetaire-interbancaire/",
+      "title": "Indicateurs associés aux opérations de marché monétaire interbancaire",
+      "text": "Date ( en moyenne mensuelle), Mai 2025. TMP des opérations interbancaires à 24 h, 0,67972. TMP des opérations interbancaire à terme, 2,11421.",
+      "source": "Bank Of Algeria",
+      "topics": "interbank money market indicators",
+      "listing_probability": 0.1
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/statistiques-associees/",
+      "title": "Statistiques associées - Banque d'Algérie",
+      "text": "Recherche par période : ; Taux Directeur, 3 ; Taux de la Facilité de Dépôt, 0,00 ; Taux de la Facilité de Prêt Marginal, 5 ; Taux des opérations de Réescompte, 3,75.",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "key interest rates",
+        "monetary policy rates"
+      ],
+      "listing_probability": 0.1
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2011/",
+      "title": "Bulletins Statistiques 2011 - Banque d'Algérie",
+      "text": "Bulletins statistiques · Bulletin trimestriel N° 17, Mars 2012 · Bulletin trimestriel N° 16, Décembre 2011 · Bulletin trimestriel N° 15, Septembre 2011 · Bulletin ...",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "statistical bulletins",
+        "2011 bulletins"
+      ],
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/bulletins-statistiques-2018/",
+      "title": "Bulletins Statistiques 2018 - Banque d'Algérie",
+      "text": "Bulletins statistiques · Bulletin trimestriel N° 45, Mars 2019 · Bulletin trimestriel N° 44, Décembre 2018 · Bulletin trimestriel N° 43, Septembre 2018 · Bulletin ...",
+      "source": "Bank Of Algeria",
+      "topics": [
+        "statistical bulletins",
+        "2018 bulletins"
+      ],
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/communiques-de-presse/",
+      "title": "Communiqués de presse - Banque d'Algérie",
+      "text": "Cette section rassemble les communiqués de presse diffusés par la banque d'Algérie, relatifs à ses activités ainsi que les informations en lien avec ses ...",
+      "source": "Bank Of Algeria",
+      "topics": "press releases",
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/category/medias-evenements/communiques-de-presse/",
+      "title": "Communiqués de presse - Banque d'Algérie",
+      "text": "Communiqués de presse · Le Gouverneur de la Banque d'Algérie reçoit une délégation du Fonds Monétaire International · Le Gouverneur de la Banque d'Algérie M. · Le ...",
+      "source": "Bank Of Algeria",
+      "topics": "press releases",
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/category/medias-evenements/communiques-de-presse/page/2/",
+      "title": "Communiqués de presse – Page 2 - Banque d'Algérie",
+      "text": "Communiqués de presse · Le Gouverneur de la Banque d'Algérie, Mr. · Communiqué sur l'opération de l'acquittement du coût du Hadj pour la saison 1444/2023 · Journée ...",
+      "source": "Bank Of Algeria",
+      "topics": "press releases",
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/category/medias-evenements/communiques-de-presse/page/4/",
+      "title": "Communiqués de presse – Page 4 - Banque d'Algérie",
+      "text": "Communiqués de presse · Mission staff-visite du FMI du 18 au 24 février 2020 · Point de situation sur sur le financement non conventionnel · Dispositif bancaire de ...",
+      "source": "Bank Of Algeria",
+      "topics": "press releases",
+      "listing_probability": 1.0
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/category/actualites/",
+      "title": "actualités - Banque d'Algérie",
+      "text": "Il semble que nous ne pouvons pas trouver le contenu demandé. Peut-être qu'une recherche peut vous aider. Rechercher : Rechercher ...",
+      "source": "Bank Of Algeria",
+      "topics": "news",
+      "listing_probability": 0.0
+    }
+  ]
+}

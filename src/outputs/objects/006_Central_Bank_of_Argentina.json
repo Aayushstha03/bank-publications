@@ -1,0 +1,334 @@
+{
+  "Bank Name": "Central Bank of Argentina",
+  "search_results": [
+    {
+      "query": "site:bcra.gob.ar (intitle:\"publicaciones\" OR intitle:\"informes\" OR intitle:\"estadísticas\" OR inurl:publicaciones OR inurl:informes OR inurl:estadisticas OR intitle:\"reports\" OR intitle:\"statistics\")",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/series_estadisticas_txt2-i.asp",
+                  "title": "Data Catalog of Monetary and Financial Statistics - BCRA",
+                  "text": "The BCRA makes available the data catalog of monetary and financial statistics, which lists the information released through standardized tables of statistical ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Consultas_Personalizadas_Series_Estadisticas-i.asp",
+                  "title": "Customized Inquiries on Statistical Series - BCRA",
+                  "text": "Here you can make three types of interactive inquiries on monetary statistics: by term, by hierarchy and by series number.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Cuadros_estandarizados_series_estadisticas.asp",
+                  "title": "Cuadros estandarizados de series estadísticas - BCRA",
+                  "text": "En esta sección se puede acceder a cuadros estandarizados que contienen múltiples series estadísticas agrupadas por temáticas homogéneas en formato Excel.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://bcra.gob.ar/PublicacionesEstadisticas/series_estadisticas_txt2.asp",
+                  "title": "Series estadísticas | Catálogo de datos",
+                  "text": "El Banco Central pone a disposición el catálogo de datos de estadísticas monetarias y financieras, que enumera la información publicada mediante los cuadros ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Estadisticas_deuda_externa_privada-i.asp",
+                  "title": "Private Sector External Debt Standardized Statistics - BCRA",
+                  "text": "Standardized statistical series of private sector external debt positions from December 31, 2017 are displayed on a quarterly basis.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Consultas_Personalizadas_Series_Estadisticas.asp",
+                  "title": "Consultas Personalizadas de Series Estadísticas - BCRA",
+                  "text": "Aquí se pueden realizar tres tipos de consultas interactivas de las estadísticas monetarias: por término, por jerarquía y por número de serie.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Estad%C3%ADsticas_Mercado_de_cambios.asp",
+                  "title": "Estadísticas estandarizadas sobre Evolución del Mercado de Cambios",
+                  "text": "Se presentan las series estadísticas estandarizadas de las operaciones que se realizan a través del mercado de cambios desde el año 2003.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/BCRAyVos/Publicaciones.asp",
+                  "title": "Publicaciones - BCRA",
+                  "text": "Consultas personalizadas de series estadísticas · Cuadros estandarizados de series estadísticas · Boletín Estadístico · Metodologías. Sector externo; Evolución ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/noticias/BCRA-API-estadisticas-cambiarias-i.asp",
+                  "title": "The BCRA Launches Foreign Exchange Statistics API",
+                  "text": "The BCRA makes available the Application Programming Interface (API) of Foreign Exchange Statistics, which provides easy access to foreign exchange rates.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "published_time": "2024-08-05T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bibliodigital.bcra.gob.ar/statistics/communities/66e5ff92-1be5-4031-807c-e427c8a5d23d",
+                  "title": "Statistics - DSpace Repository",
+                  "text": "Statistics for Publicaciones BCRA. Total visits. views. Publicaciones BCRA, 1695. Total visits per month. views. November 2024, 178. December 2024, 186.",
+                  "source": "Ankara Üniversitesi",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACSklEQVR4AcXXA6weQRSG4a1t27btxk6jIqwV1GZ8o9puw9q2bdu2dfrWm5OZ1cVu8vzcM/stZ8aZuL91KhRAVVRTKiOHY1n4LwMqGeoqoTAyqBJjI+1wCPcN7mENKlhqS+MkHqq6OziH1eiPikhtC3AT4mOipbY8HvjUfsdtjEdBUyPfIT7WIF2EADrIDtTUjUgAa4MH8HUCNeILAGxF/jABNiC9IUBBTMJiLHJZhrP45HE6RoQJcBS5jBfigV+3sZYGBdAFVyEGV1Ap6EX4Ao2dCAt1TXENonzDUIeXi5AA5iBDxBA98RWi7HR4aYtNuOxyHS/U0XmPYcgSIUAxXIYoj/+ukAWFXIqiLgapI/QRq9AJDVHnj+rI6vPI3ghRvgRJXwk7VOFXvMYLvMQLTER6SxtpsQKiBT2EdXAH4uE88nsEWJ6YAKkwE+LhIgom7RFQV3LcAXrEEsB1CqbFGaBGgHHDBRRI8ouQlcpik+Ex+h5v8BZvMD3ybciHjMjrUgDV0BenXQWfsBFd0RKN0QT1fcaO6bEBonx1eGmOVTjrchGP8U09Bccie4RHcRFLn/PE4eUsJICFyBSxM+qCLxBld9Du+CWaRdx4fVyydMfDgw5IjiF3iI2mQm50wgWIwVVUSeyQrAASMAszXZbgGD5ALMbEOSjdiYJxBTiLOmGH5WuSKMB+1NON3IH4mBJ5agY8QAKKmhrpgJN4YvAYm1HFEqAMzuKpqnuIK9iM4aiONF63TFHUNahluf3cj/AaqKfqaqIkMjs+yw9rN2ic6HhW5QAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bcra.gob.ar (intitle:\"publicaciones\" OR intitle:\"informes\" OR intitle:\"estadísticas\" OR inurl:publicaciones OR inurl:informes OR inurl:estadisticas OR intitle:\"reports\" OR intitle:\"statistics\")"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.1567165851593018
+        }
+      }
+    },
+    {
+      "query": "site:bcra.gob.ar (intitle:\"noticias\" OR intitle:\"comunicados\" OR intitle:\"prensa\" OR inurl:noticias OR inurl:comunicados OR inurl:prensa OR intitle:\"news\" OR intitle:\"press releases\")",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://bcra.gob.ar/Noticias/Press_Releases.asp",
+                  "title": "Press Releases - BCRA",
+                  "text": "Press Releases ; 03/08/2018, 2-Peso Banknotes can be Exchanged until April 27 ; 02/22/2018, Argentine $500 Bill Wins Award for Best Banknote ; 05/31/2017 ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Noticias/noticias.asp",
+                  "title": "Noticias del BCRA",
+                  "text": "Noticias ; 25/08/2023, Premio de Pintura Banco Central 2023 | Obras seleccionadas ; 24/08/2023, Las casas y agencias de cambio operarán a través de SIOPEL ; 24/08/ ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/noticias/Noticias_i.asp",
+                  "title": "News - BCRA",
+                  "text": "News ; 05/09/2024, The BCRA Aligns Foreign Exchange Transactions Settlement Term with International Practices ; 05/08/2024, Monthly Monetary Report, April 2024.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Institucional/Prensa.asp",
+                  "title": "Prensa - BCRA",
+                  "text": "Comunicados P, Nota de Prensa, artículos, presentaciones y discursos de las autoridades. Contacto para periodistas, sala de prensa, kit de prensa y ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PoliticaMonetaria/comunicados.asp",
+                  "title": "Comunicados de Política Monetaria - BCRA",
+                  "text": "Comunicados de Política Monetaria ; 23/07/2024, El BCRA inauguró un nuevo marco monetario ; 11/07/2024, Se elimina la emisión endógena de los pasivos remunerados.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Noticias/Comunicado_de_Pol%C3%ADtica_Monetaria.asp",
+                  "title": "El BCRA mantiene su tasa de política monetaria en 60% anual",
+                  "text": "- El resultado fiscal de los primeros siete meses del año mostró un déficit primario de 0,9% del PBI, arrojando una baja de 0,7% del PIB respecto a igual ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Pdfs/Marco_Legal_Normativo/COMUNICADO%20DE%20PRENSA%20BCRA-PBC.pdf",
+                  "title": "COMUNICADO DE PRENSA- BCRA-BANCO CENTRAL DE CHINA",
+                  "text": "El Banco Central de China y el Banco Central de la República Argentina anuncian el establecimiento de un acuerdo bilateral de swap de monedas.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Pdfs/comytexord/A8282.pdf",
+                  "title": "A8282 - Aplicación de \"Envío de Comunicaciones y Comunicados\"",
+                  "text": "Nos dirigimos a Uds. para hacerles llegar en anexo las hojas que, en reemplazo de las oportunamente provistas, corresponde incorporar en el ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "published_time": "2025-07-21T12:26:18.284649",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Pdfs/Marco_legal_normativo/normas.pdf",
+                  "title": "tipos de comunicaciones y/o comunicados. - BCRA",
+                  "text": "La actualización se efectúa mediante comunicaciones “A”, “B” Y “C” en las cuales se dan a conocer las sucesivas modificaciones y/o rectificaciones que se ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Institucional/Kit_de_Prensa_billete_de_200.asp",
+                  "title": "El BCRA presentó el billete de $200 | Kit de Prensa",
+                  "text": "Desde el 26 de octubre se encuentra en circulación el billete de 200 pesos con la imagen de la Ballena Franca, de la nueva familia de billetes con imágenes ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bcra.gob.ar (intitle:\"noticias\" OR intitle:\"comunicados\" OR intitle:\"prensa\" OR inurl:noticias OR inurl:comunicados OR inurl:prensa OR intitle:\"news\" OR intitle:\"press releases\")"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.4554908275604248
+        }
+      }
+    },
+    {
+      "query": "site:bcra.gob.ar (intitle:\"boletines\" OR intitle:\"informe monetario\" OR intitle:\"estabilidad financiera\" OR inurl:boletines OR inurl:informe-monetario OR inurl:estabilidad-financiera OR intitle:\"bulletins\" OR intitle:\"monetary report\" OR intitle:\"financial stability\")",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_de_estabilidad_financiera_i.asp",
+                  "title": "Financial Stability Report - BCRA",
+                  "text": "The Financial Stability Report examines the functioning of the financial system, including an outlook for the medium term.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_diario_i.asp",
+                  "title": "Daily Monetary Report - BCRA",
+                  "text": "This report provides a statistical summary on the evolution of the main monetary variables: monetary base, international reserves, deposits, loans, interest ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_mensual_i.asp",
+                  "title": "Monthly Monetary Report - BCRA",
+                  "text": "The Monthly Monetary Report describes and analyzes the main developments in monetary variables and the capital market.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Noticias/Informe-Monetario-Mensual-0625-i.asp",
+                  "title": "Monthly Monetary Report, June 2025 - BCRA",
+                  "text": "This report analyses the development of the monetary base; broad monetary aggregates and deposit rates; loans to the private sector and lending rates.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "published_time": "2025-07-07T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_diario.asp",
+                  "title": "Informe Monetario Diario - BCRA",
+                  "text": "Este informe brinda un resumen estadístico sobre la evolución de las principales variables monetarias: base monetaria, reservas internacionales, depósitos, ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_de_estabilidad_financiera.asp",
+                  "title": "Informe de Estabilidad Financiera - BCRA",
+                  "text": "El Informe de Estabilidad Financiera (IEF) tiene como objetivo comunicar la visión del BCRA respecto del estado de situación del sistema financiero, ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/noticias/Informe-Monetario-Mensual-0724-i.asp",
+                  "title": "Monthly Monetary Report, July 2024 - BCRA",
+                  "text": "This report analyses the development of the monetary base; broad monetary aggregates and deposit rates; loans to the private sector and lending rates.",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "published_time": "2024-08-07T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_mensual.asp",
+                  "title": "Informe monetario mensual - BCRA",
+                  "text": "Este informe analiza la evolución de la base monetaria, agregados monetarios amplios y tasas de interés pasivas, préstamos al sector privado y tasas de ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "sublinks": [
+                    {
+                      "title": "Informe Monetario Diario",
+                      "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_diario.asp"
+                    },
+                    {
+                      "title": "Boletín Monetario y Financiero",
+                      "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Boletin_monetario_financiero.asp"
+                    },
+                    {
+                      "title": "Diciembre",
+                      "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/IMM1224.asp"
+                    },
+                    {
+                      "title": "Enero",
+                      "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/IMM0125.asp"
+                    },
+                    {
+                      "title": "Febrero",
+                      "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/IMM0225.asp"
+                    },
+                    {
+                      "title": "Abril",
+                      "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/IMM0425.asp"
+                    }
+                  ],
+                  "position": 8
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/informe-monetario-mensual-dic-24.pdf",
+                  "title": "Informe Monetario Mensual Diciembre 2024 - BCRA",
+                  "text": "En diciembre el BCRA dispuso una nueva reducción de 3 puntos porcentuales (p.p.) en la tasa de política monetaria y de 4 p.p. en la tasa de ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "published_time": "2025-01-08T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/informe-monetario-mensual-jun-25.pdf",
+                  "title": "Informe Monetario Mensual | Junio de 2025 | BCRA",
+                  "text": "En junio, en un contexto de mayores tasas de interés reales a las previstas, el M2 privado transac- cional —variable que el BCRA monitorea ...",
+                  "source": "Banco Central de la República Argentina",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                  "published_time": "2025-07-07T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bcra.gob.ar (intitle:\"boletines\" OR intitle:\"informe monetario\" OR intitle:\"estabilidad financiera\" OR inurl:boletines OR inurl:informe-monetario OR inurl:estabilidad-financiera OR intitle:\"bulletins\" OR intitle:\"monetary report\" OR intitle:\"financial stability\")"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.726269006729126
+        }
+      }
+    }
+  ]
+}

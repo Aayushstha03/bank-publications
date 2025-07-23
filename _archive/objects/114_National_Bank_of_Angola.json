@@ -1,0 +1,400 @@
+{
+  "Bank Name": "National Bank of Angola",
+  "search_results": [
+    {
+      "query": "site:bna.ao publicações",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "PUBLICAÇÕES E MEDIA. Comunicados; Intervenções Públicas; MULTIMÉDIA; Vídeos. NOTAS E MOEDAS. Notas e Moedas; Moedas Comemorativas; Referência Monetária o Kwanza.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao publicações"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9316155910491943
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao relatórios",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "RELATÓRIOS. Boletins; Relatório Anual e Contas; Relatório de Supervisão da Conduta Financeira; Relatório Bankita; Relatório Actividade Sancionatória; Relatório ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                },
+                {
+                  "url": "https://servicosclientebancario.bna.ao/home/support",
+                  "title": "Bem-Vindo! - Portal de Serviços do Cliente Bancário",
+                  "text": "Consulta sobre Operações Cambiais Privadas. “Siga os passos para entrar e buscar informações sobre as suas operações cambiais privadas.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4klEQVR4AZ1W1ZbkNhC90miah0I9y8zMjF+w+YC85TfC9J5PyfvCN4SToeDwcoPdbVWtu47l1ViLc8+ploV1q+pabcPMCi/BL7/88ummTZs+Z2a8KZgZ1lokSYJ+vz+we7t27bqJl8Dg5ZBDxsfHIXhLAr1eD1EUYWZm5nqlUrmTBvJCEubff/+lRqOBF2FsbEzatyWgtcbw8LD04zgGEV2fn5+/s3HjxoCEGSycmJhACNm8LgIAHAlp33vvPSwvL19Pg72zZcsWIRGUYGa1i6nlCEoBDEABaNgIk5PI0Wp30ep08SqQJTAYCkr6UdxHWgI0m02srIQkcgJTKxF++OkBhoYULLFsP/VejEt4SyhIBIznmbh37x6UUiJKY8z1NLN3du/eLSSMv29IA6WUQLmsMZy2k6OMt4M4lDIQkfS3bt8homzUqiiXDDqdDlZXV69PTU19umfPni9zAsyQyMtGod0jOeRRN8E6INE6IqVSSfrVWgW1SnnQl5L8/vvvlb1792oDByUmsMyg1KI+wUejXhVbD6wlWCIRJjM7sXoEGKCBQSblmSEIRZgpvZ6RaXciFMFyjpxJCtC1agXVSgWsjHgVAr4GCJxFDiRSQ/ETwB/j/CcEE8R5ahrEUl5ya5WRDCMUoYJWaasUlGakTQjFADupO2eckyGAlBKiemBujYJKtAIB0Cx7qJABBnqW0LcaUULCMLFciNY5lTaInpXw08GcUs6XGw5KIGuMVtnrNywlGK8VHYhSg9ow8qHQtzdGbo1ow8uAU36cWESJwuOulf62SuKYOtahMALnfpju0StXxpYsFTOgYIb0QAdiYEBLxP7GQtTgQt978N4EzsizlyryNOBuLslAbFVqkgExhoKg4Gx1ZQULva70E2vz6YcPH+Z/bo5QwhrppSPOHQefgIAzHeiBaSXKVipMuTu02+1iy6YmilheWkC1UoKPP6b/TsfKYm7/7Ozse0ePHt1qWPpKBNInRkKctgSSl7jgWFIaCs9fceLkSb8ruHju3UA6t259+PHGjZt2m+cnsUSvPENqBPZuSmnEXGmWlpZQq9dkcI+k2fMtzyxn+cRbT5+KEbF/DzCigQYSjbhPsCzZ8AQVCq3VaqXO6/npf/75p3v0FrrfAPLJZhgMyvRs5A2AGAjQKEazFs3JJvxx5jxq1/e5BDfE6NgYTJ5eYrkBe5ZTI1i5v+FF5MyNMcqlsq8HN164MKX/0s8345+tlPTCayx82UUD5XLZF2P+rovh+fNLEoBKpQbDDDgjZ95YqAE3x/6h0o+iGFEc50TgrR1gZGTUD8ZlwCmcYYmklSEFAXm0a7UKqtWKPLdbj4PI4jiWL54oGrRlRHHk6UIC8yFjxg9NQaEVW9RKGgOUDAGhqAtK99P9sjHX51AD7H2MxAPxQeFxL5Hyd3oaLKnwlO0pjsOvoKwEQBxJ61It2Wk0Mq3lBLyr+FCzjo9OTooQbSbjLeUY//w9J1+1wNqazy/MY++eXbniOauxaMkXY/ZcH3G6cSRUVgJAojzwQR37U3P1gjsEnsI95pb12guiqHbPOQNh+rN9ptNp48nstBsq1Nbvr0354vw8JsbqObk8cspaAEyFVxJr8ejRQ5h9e/eUAJTwlti/f//Wb7797nswyFEjP+15rjUhJCA6mJ768+dnPpjJi+ld+lAAAAAASUVORK5CYII=",
+                  "position": 2
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao relatórios"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3447301387786865
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao estudos",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "Estudos da Central de Balanços; Caderno de Inflação; Relatório do Fundo de Garantia de Depósitos; Relatório sobre Cooperação Institucional; Nota de Informação ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA5FBMVEX5+ff4+Pf////5+Pb39/b4+fb7+vn59/b6+vr3+PX7+vf7+fn59/X19PL29/X7/Prr6+jq6Ofm5uHX1tHe3tzb29Xo6OPMzcjHx8Ti4NrNzsnX19Lu7u3Gxr/j4uDLzMXW1MttVy3h3NLIvanQ0c/LyMevrqqlpp+/vba/vrvHxbrs6uza19fQysK3trKxsaqmknmsnIa0q5VnTCODbk6UiGxNNw1oUSl2Yj2Shmx9bE57Y0DQxbV1YjielHhsWDe8spiKeVfq6t2CbkZkUSCmn4JjVSxYRxluYkCVjHKGe16knIg/Qu7DAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDA0OjQ0OjU0KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Nj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",
+                  "position": 1
+                },
+                {
+                  "url": "https://portaldes.bna.ao/Account/ForgotYourPassword",
+                  "title": "Recuperar Senha - Entrar",
+                  "text": "Centro de Estudos e Investigação Cientifica da Universidade Independente de Angola (CEIC-UNIA), CANDANDO, Fundinvest – Fundo de Investimento Imobiliário ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4klEQVR4AZ1W1ZbkNhC90miah0I9y8zMjF+w+YC85TfC9J5PyfvCN4SToeDwcoPdbVWtu47l1ViLc8+ploV1q+pabcPMCi/BL7/88ummTZs+Z2a8KZgZ1lokSYJ+vz+we7t27bqJl8Dg5ZBDxsfHIXhLAr1eD1EUYWZm5nqlUrmTBvJCEubff/+lRqOBF2FsbEzatyWgtcbw8LD04zgGEV2fn5+/s3HjxoCEGSycmJhACNm8LgIAHAlp33vvPSwvL19Pg72zZcsWIRGUYGa1i6nlCEoBDEABaNgIk5PI0Wp30ep08SqQJTAYCkr6UdxHWgI0m02srIQkcgJTKxF++OkBhoYULLFsP/VejEt4SyhIBIznmbh37x6UUiJKY8z1NLN3du/eLSSMv29IA6WUQLmsMZy2k6OMt4M4lDIQkfS3bt8homzUqiiXDDqdDlZXV69PTU19umfPni9zAsyQyMtGod0jOeRRN8E6INE6IqVSSfrVWgW1SnnQl5L8/vvvlb1792oDByUmsMyg1KI+wUejXhVbD6wlWCIRJjM7sXoEGKCBQSblmSEIRZgpvZ6RaXciFMFyjpxJCtC1agXVSgWsjHgVAr4GCJxFDiRSQ/ETwB/j/CcEE8R5ahrEUl5ya5WRDCMUoYJWaasUlGakTQjFADupO2eckyGAlBKiemBujYJKtAIB0Cx7qJABBnqW0LcaUULCMLFciNY5lTaInpXw08GcUs6XGw5KIGuMVtnrNywlGK8VHYhSg9ow8qHQtzdGbo1ow8uAU36cWESJwuOulf62SuKYOtahMALnfpju0StXxpYsFTOgYIb0QAdiYEBLxP7GQtTgQt978N4EzsizlyryNOBuLslAbFVqkgExhoKg4Gx1ZQULva70E2vz6YcPH+Z/bo5QwhrppSPOHQefgIAzHeiBaSXKVipMuTu02+1iy6YmilheWkC1UoKPP6b/TsfKYm7/7Ozse0ePHt1qWPpKBNInRkKctgSSl7jgWFIaCs9fceLkSb8ruHju3UA6t259+PHGjZt2m+cnsUSvPENqBPZuSmnEXGmWlpZQq9dkcI+k2fMtzyxn+cRbT5+KEbF/DzCigQYSjbhPsCzZ8AQVCq3VaqXO6/npf/75p3v0FrrfAPLJZhgMyvRs5A2AGAjQKEazFs3JJvxx5jxq1/e5BDfE6NgYTJ5eYrkBe5ZTI1i5v+FF5MyNMcqlsq8HN164MKX/0s8345+tlPTCayx82UUD5XLZF2P+rovh+fNLEoBKpQbDDDgjZ95YqAE3x/6h0o+iGFEc50TgrR1gZGTUD8ZlwCmcYYmklSEFAXm0a7UKqtWKPLdbj4PI4jiWL54oGrRlRHHk6UIC8yFjxg9NQaEVW9RKGgOUDAGhqAtK99P9sjHX51AD7H2MxAPxQeFxL5Hyd3oaLKnwlO0pjsOvoKwEQBxJ61It2Wk0Mq3lBLyr+FCzjo9OTooQbSbjLeUY//w9J1+1wNqazy/MY++eXbniOauxaMkXY/ZcH3G6cSRUVgJAojzwQR37U3P1gjsEnsI95pb12guiqHbPOQNh+rN9ptNp48nstBsq1Nbvr0354vw8JsbqObk8cspaAEyFVxJr8ejRQ5h9e/eUAJTwlti/f//Wb7797nswyFEjP+15rjUhJCA6mJ768+dnPpjJi+ld+lAAAAAASUVORK5CYII=",
+                  "position": 2
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao estudos"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3163115978240967
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao pesquisa",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "O Banco. História; Galeria dos Governadores; Missão e Funções; GOVERNANÇA E TRANSPARÊNCIA CORPORATIVA; Plano Estratégico; Framework de Governação ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                },
+                {
+                  "url": "https://servicosclientebancario.bna.ao/home/support",
+                  "title": "Bem-Vindo! - Portal de Serviços do Cliente Bancário",
+                  "text": "Consulta sobre Operações Cambiais Privadas. “Siga os passos para entrar e buscar informações sobre as suas operações cambiais privadas.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4klEQVR4AZ1W1ZbkNhC90miah0I9y8zMjF+w+YC85TfC9J5PyfvCN4SToeDwcoPdbVWtu47l1ViLc8+ploV1q+pabcPMCi/BL7/88ummTZs+Z2a8KZgZ1lokSYJ+vz+we7t27bqJl8Dg5ZBDxsfHIXhLAr1eD1EUYWZm5nqlUrmTBvJCEubff/+lRqOBF2FsbEzatyWgtcbw8LD04zgGEV2fn5+/s3HjxoCEGSycmJhACNm8LgIAHAlp33vvPSwvL19Pg72zZcsWIRGUYGa1i6nlCEoBDEABaNgIk5PI0Wp30ep08SqQJTAYCkr6UdxHWgI0m02srIQkcgJTKxF++OkBhoYULLFsP/VejEt4SyhIBIznmbh37x6UUiJKY8z1NLN3du/eLSSMv29IA6WUQLmsMZy2k6OMt4M4lDIQkfS3bt8homzUqiiXDDqdDlZXV69PTU19umfPni9zAsyQyMtGod0jOeRRN8E6INE6IqVSSfrVWgW1SnnQl5L8/vvvlb1792oDByUmsMyg1KI+wUejXhVbD6wlWCIRJjM7sXoEGKCBQSblmSEIRZgpvZ6RaXciFMFyjpxJCtC1agXVSgWsjHgVAr4GCJxFDiRSQ/ETwB/j/CcEE8R5ahrEUl5ya5WRDCMUoYJWaasUlGakTQjFADupO2eckyGAlBKiemBujYJKtAIB0Cx7qJABBnqW0LcaUULCMLFciNY5lTaInpXw08GcUs6XGw5KIGuMVtnrNywlGK8VHYhSg9ow8qHQtzdGbo1ow8uAU36cWESJwuOulf62SuKYOtahMALnfpju0StXxpYsFTOgYIb0QAdiYEBLxP7GQtTgQt978N4EzsizlyryNOBuLslAbFVqkgExhoKg4Gx1ZQULva70E2vz6YcPH+Z/bo5QwhrppSPOHQefgIAzHeiBaSXKVipMuTu02+1iy6YmilheWkC1UoKPP6b/TsfKYm7/7Ozse0ePHt1qWPpKBNInRkKctgSSl7jgWFIaCs9fceLkSb8ruHju3UA6t259+PHGjZt2m+cnsUSvPENqBPZuSmnEXGmWlpZQq9dkcI+k2fMtzyxn+cRbT5+KEbF/DzCigQYSjbhPsCzZ8AQVCq3VaqXO6/npf/75p3v0FrrfAPLJZhgMyvRs5A2AGAjQKEazFs3JJvxx5jxq1/e5BDfE6NgYTJ5eYrkBe5ZTI1i5v+FF5MyNMcqlsq8HN164MKX/0s8345+tlPTCayx82UUD5XLZF2P+rovh+fNLEoBKpQbDDDgjZ95YqAE3x/6h0o+iGFEc50TgrR1gZGTUD8ZlwCmcYYmklSEFAXm0a7UKqtWKPLdbj4PI4jiWL54oGrRlRHHk6UIC8yFjxg9NQaEVW9RKGgOUDAGhqAtK99P9sjHX51AD7H2MxAPxQeFxL5Hyd3oaLKnwlO0pjsOvoKwEQBxJ61It2Wk0Mq3lBLyr+FCzjo9OTooQbSbjLeUY//w9J1+1wNqazy/MY++eXbniOauxaMkXY/ZcH3G6cSRUVgJAojzwQR37U3P1gjsEnsI95pb12guiqHbPOQNh+rN9ptNp48nstBsq1Nbvr0354vw8JsbqObk8cspaAEyFVxJr8ejRQ5h9e/eUAJTwlti/f//Wb7797nswyFEjP+15rjUhJCA6mJ768+dnPpjJi+ld+lAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://recrutamento.bna.ao/content/Mapa-de-ofertas-de-emprego/?locale=pt_PT",
+                  "title": "Mapa de ofertas de emprego - Carreiras no BNA",
+                  "text": "Candidate-se Online aos Empregos do Banco Nacional de Angola. Junte-se à nossa comunidade de talentos.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAMAAACTisy7AAAAKlBMVEVHcEy2mFu2mFu2mFu2mFu2mFu2mFu2mFu2mFu2mFu2mFu2mFu2mFu2mFtqhzonAAAADnRSTlMAOVJG/A4uYYEZJHG/nJ+te4cAAAEhSURBVCiRjVJJkgQhCGQHBf//3aGsttfLGB6EhIQEAf5zFCejOzD/YuYaFI5simN8QMOSVkbmZTAbvoPukcyhzswNTHzl6mrCNdu5LTJApAOmaepm0m3P7skP5+hGbPvzphsMxNuhvvC0f3RYF9jENCK2w9CBEPFKoc3dzrQdNO4ytzHH2EGx2G4y6ornzXeqZZwp6YBn9Zsi0Z7tIOE84A7zdaJDrxkfcEvIXBN+Du8LPTr7wcZUvwaCSr0MEaEh4AUsW+djM+jqIIqiwlQQgjDtMaFul1NFG5figqpsgOixtYgwWUIq0rSS9baVXoKbRHXmqroIcE5/NYcsA4RkSGFz4Oc/gasmCkhlkXxLaymhAlHlUPkFzmtKc6uH59f8Az+JB6noGRAlAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://portaldes.bna.ao/Account/ForgotYourPassword",
+                  "title": "Recuperar Senha - Entrar",
+                  "text": "Recuperar Senha. Seleciona a Empresa, GAMEK, MOVICEL TELECOMUNICAÇÕES, S.A, UNITEL, SARL, ETHIOPIAN AIRLINES, AIR FRANCE, AIR NAMIBIA, TAP PORTUGAL ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4klEQVR4AZ1W1ZbkNhC90miah0I9y8zMjF+w+YC85TfC9J5PyfvCN4SToeDwcoPdbVWtu47l1ViLc8+ploV1q+pabcPMCi/BL7/88ummTZs+Z2a8KZgZ1lokSYJ+vz+we7t27bqJl8Dg5ZBDxsfHIXhLAr1eD1EUYWZm5nqlUrmTBvJCEubff/+lRqOBF2FsbEzatyWgtcbw8LD04zgGEV2fn5+/s3HjxoCEGSycmJhACNm8LgIAHAlp33vvPSwvL19Pg72zZcsWIRGUYGa1i6nlCEoBDEABaNgIk5PI0Wp30ep08SqQJTAYCkr6UdxHWgI0m02srIQkcgJTKxF++OkBhoYULLFsP/VejEt4SyhIBIznmbh37x6UUiJKY8z1NLN3du/eLSSMv29IA6WUQLmsMZy2k6OMt4M4lDIQkfS3bt8homzUqiiXDDqdDlZXV69PTU19umfPni9zAsyQyMtGod0jOeRRN8E6INE6IqVSSfrVWgW1SnnQl5L8/vvvlb1792oDByUmsMyg1KI+wUejXhVbD6wlWCIRJjM7sXoEGKCBQSblmSEIRZgpvZ6RaXciFMFyjpxJCtC1agXVSgWsjHgVAr4GCJxFDiRSQ/ETwB/j/CcEE8R5ahrEUl5ya5WRDCMUoYJWaasUlGakTQjFADupO2eckyGAlBKiemBujYJKtAIB0Cx7qJABBnqW0LcaUULCMLFciNY5lTaInpXw08GcUs6XGw5KIGuMVtnrNywlGK8VHYhSg9ow8qHQtzdGbo1ow8uAU36cWESJwuOulf62SuKYOtahMALnfpju0StXxpYsFTOgYIb0QAdiYEBLxP7GQtTgQt978N4EzsizlyryNOBuLslAbFVqkgExhoKg4Gx1ZQULva70E2vz6YcPH+Z/bo5QwhrppSPOHQefgIAzHeiBaSXKVipMuTu02+1iy6YmilheWkC1UoKPP6b/TsfKYm7/7Ozse0ePHt1qWPpKBNInRkKctgSSl7jgWFIaCs9fceLkSb8ruHju3UA6t259+PHGjZt2m+cnsUSvPENqBPZuSmnEXGmWlpZQq9dkcI+k2fMtzyxn+cRbT5+KEbF/DzCigQYSjbhPsCzZ8AQVCq3VaqXO6/npf/75p3v0FrrfAPLJZhgMyvRs5A2AGAjQKEazFs3JJvxx5jxq1/e5BDfE6NgYTJ5eYrkBe5ZTI1i5v+FF5MyNMcqlsq8HN164MKX/0s8345+tlPTCayx82UUD5XLZF2P+rovh+fNLEoBKpQbDDDgjZ95YqAE3x/6h0o+iGFEc50TgrR1gZGTUD8ZlwCmcYYmklSEFAXm0a7UKqtWKPLdbj4PI4jiWL54oGrRlRHHk6UIC8yFjxg9NQaEVW9RKGgOUDAGhqAtK99P9sjHX51AD7H2MxAPxQeFxL5Hyd3oaLKnwlO0pjsOvoKwEQBxJ61It2Wk0Mq3lBLyr+FCzjo9OTooQbSbjLeUY//w9J1+1wNqazy/MY++eXbniOauxaMkXY/ZcH3G6cSRUVgJAojzwQR37U3P1gjsEnsI95pb12guiqHbPOQNh+rN9ptNp48nstBsq1Nbvr0354vw8JsbqObk8cspaAEyFVxJr8ejRQ5h9e/eUAJTwlti/f//Wb7797nswyFEjP+15rjUhJCA6mJ768+dnPpjJi+ld+lAAAAAASUVORK5CYII=",
+                  "position": 4
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao pesquisa"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.306743860244751
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao comunicados",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "Notícias e Eventos · Comunicado da 124.ª Reunião do Comité de Política Monetária · Lançado Projecto Piloto de Acesso ao Sistema Financeiro para Pequenos ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao comunicados"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.48485350608825684
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao estatísticas",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "Código de Conduta das Estatísticas; Estatísticas Monetárias e Financeiras; Estatísticas Externas; Estatísticas de Preço e Contas Nacionais. SUPERVISÃO.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-2123509798-868",
+                  "title": "Banco Nacional de Angola",
+                  "text": "Nota: A partir de Janeiro de 2022, no apuramento das estatísticas sobre as reservas internacionais passou-se a excluir os títulos colaterizados em operações ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 2
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao estatísticas"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3892552852630615
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao boletim",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "Boletins; Relatório Anual e Contas; Relatório de Supervisão da Conduta Financeira; Relatório Bankita; Relatório Actividade Sancionatória; Relatório da Evolução ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao boletim"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.922501802444458
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao \"política monetária\" documentos",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "POLÍTICA MONETÁRIA. Definição da Política Monetária; Quadro Operacional para a Política Monetária; Calendário do Comité de Política Monetária. MERCADOS. Mercado ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao \"política monetária\" documentos"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.974980354309082
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao downloads",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "Download SVG. Download PNG. Download CSV. Conferência - Activos ... DOWNLOAD DO APLICATIVO. Todos os direitos reservados. INTRANET | E-MAIL. Imagem Grande.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                },
+                {
+                  "url": "https://autosuporte.bna.ao/",
+                  "title": "BNA-Autosuporte",
+                  "text": "Play Store ManageEngine ADSelfService Plus Download Android App for Free. Password Reset · Account Unlock · Change Password. Login to enroll for password ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=autosuporte.bna.ao",
+                  "position": 2
+                }
+              ]
+            },
+            "related": [
+              "Downloads games",
+              "Downloads Play Store",
+              "Play Store",
+              "Play Store app",
+              "Downloads Windows 11",
+              "Downloads Delta"
+            ],
+            "query": {
+              "q": "site:bna.ao downloads"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.6615426540374756
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao documentos",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "DOCUMENTOS METODOLÓGICOS. Calendário de Divulgação; Política de Revisão da Estatística; Guia de Consulta; Código de Conduta das Estatísticas; Metadados ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                },
+                {
+                  "url": "https://servicosclientebancario.bna.ao/home/support",
+                  "title": "Bem-Vindo! - Portal de Serviços do Cliente Bancário",
+                  "text": "Procedimentos de Acesso ao Portal · Consulta sobre Responsabilidade de Crédito · Consulta sobre Operações Cambiais Privadas.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4klEQVR4AZ1W1ZbkNhC90miah0I9y8zMjF+w+YC85TfC9J5PyfvCN4SToeDwcoPdbVWtu47l1ViLc8+ploV1q+pabcPMCi/BL7/88ummTZs+Z2a8KZgZ1lokSYJ+vz+we7t27bqJl8Dg5ZBDxsfHIXhLAr1eD1EUYWZm5nqlUrmTBvJCEubff/+lRqOBF2FsbEzatyWgtcbw8LD04zgGEV2fn5+/s3HjxoCEGSycmJhACNm8LgIAHAlp33vvPSwvL19Pg72zZcsWIRGUYGa1i6nlCEoBDEABaNgIk5PI0Wp30ep08SqQJTAYCkr6UdxHWgI0m02srIQkcgJTKxF++OkBhoYULLFsP/VejEt4SyhIBIznmbh37x6UUiJKY8z1NLN3du/eLSSMv29IA6WUQLmsMZy2k6OMt4M4lDIQkfS3bt8homzUqiiXDDqdDlZXV69PTU19umfPni9zAsyQyMtGod0jOeRRN8E6INE6IqVSSfrVWgW1SnnQl5L8/vvvlb1792oDByUmsMyg1KI+wUejXhVbD6wlWCIRJjM7sXoEGKCBQSblmSEIRZgpvZ6RaXciFMFyjpxJCtC1agXVSgWsjHgVAr4GCJxFDiRSQ/ETwB/j/CcEE8R5ahrEUl5ya5WRDCMUoYJWaasUlGakTQjFADupO2eckyGAlBKiemBujYJKtAIB0Cx7qJABBnqW0LcaUULCMLFciNY5lTaInpXw08GcUs6XGw5KIGuMVtnrNywlGK8VHYhSg9ow8qHQtzdGbo1ow8uAU36cWESJwuOulf62SuKYOtahMALnfpju0StXxpYsFTOgYIb0QAdiYEBLxP7GQtTgQt978N4EzsizlyryNOBuLslAbFVqkgExhoKg4Gx1ZQULva70E2vz6YcPH+Z/bo5QwhrppSPOHQefgIAzHeiBaSXKVipMuTu02+1iy6YmilheWkC1UoKPP6b/TsfKYm7/7Ozse0ePHt1qWPpKBNInRkKctgSSl7jgWFIaCs9fceLkSb8ruHju3UA6t259+PHGjZt2m+cnsUSvPENqBPZuSmnEXGmWlpZQq9dkcI+k2fMtzyxn+cRbT5+KEbF/DzCigQYSjbhPsCzZ8AQVCq3VaqXO6/npf/75p3v0FrrfAPLJZhgMyvRs5A2AGAjQKEazFs3JJvxx5jxq1/e5BDfE6NgYTJ5eYrkBe5ZTI1i5v+FF5MyNMcqlsq8HN164MKX/0s8345+tlPTCayx82UUD5XLZF2P+rovh+fNLEoBKpQbDDDgjZ95YqAE3x/6h0o+iGFEc50TgrR1gZGTUD8ZlwCmcYYmklSEFAXm0a7UKqtWKPLdbj4PI4jiWL54oGrRlRHHk6UIC8yFjxg9NQaEVW9RKGgOUDAGhqAtK99P9sjHX51AD7H2MxAPxQeFxL5Hyd3oaLKnwlO0pjsOvoKwEQBxJ61It2Wk0Mq3lBLyr+FCzjo9OTooQbSbjLeUY//w9J1+1wNqazy/MY++eXbniOauxaMkXY/ZcH3G6cSRUVgJAojzwQR37U3P1gjsEnsI95pb12guiqHbPOQNh+rN9ptNp48nstBsq1Nbvr0354vw8JsbqObk8cspaAEyFVxJr8ejRQ5h9e/eUAJTwlti/f//Wb7797nswyFEjP+15rjUhJCA6mJ768+dnPpjJi+ld+lAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-109766729-23&e=LhZI6P",
+                  "title": "Sociedades de Microcrédito (SMC) - Banco Nacional de Angola",
+                  "text": "Os requisitos para a constituição de uma sociedade de microcrédito são: ✓ Ter um capital social não inferior a Kz 5 000 000, 00 (Cinco milhões ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "published_time": "2023-07-26T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-109766729-24&e=h1mJf7",
+                  "title": "sociedades cooperativas de crédito - BNA",
+                  "text": "Os requisitos de constituição de uma sociedade cooperativa de crédito são: ✓ Ter um capital social não inferior a Kz 1 000 000, 00 (Um ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "published_time": "2023-07-26T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://servicosclientebancario.bna.ao/Usuario/register",
+                  "title": "Criar Conta - Portal de Serviços do Cliente Bancário",
+                  "text": "Portal de Serviços do Cliente Bancário. Criar Conta. NIF. Telefone. Email. Senha. Confirmar. Já tem uma conta? Entre aqui.",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4klEQVR4AZ1W1ZbkNhC90miah0I9y8zMjF+w+YC85TfC9J5PyfvCN4SToeDwcoPdbVWtu47l1ViLc8+ploV1q+pabcPMCi/BL7/88ummTZs+Z2a8KZgZ1lokSYJ+vz+we7t27bqJl8Dg5ZBDxsfHIXhLAr1eD1EUYWZm5nqlUrmTBvJCEubff/+lRqOBF2FsbEzatyWgtcbw8LD04zgGEV2fn5+/s3HjxoCEGSycmJhACNm8LgIAHAlp33vvPSwvL19Pg72zZcsWIRGUYGa1i6nlCEoBDEABaNgIk5PI0Wp30ep08SqQJTAYCkr6UdxHWgI0m02srIQkcgJTKxF++OkBhoYULLFsP/VejEt4SyhIBIznmbh37x6UUiJKY8z1NLN3du/eLSSMv29IA6WUQLmsMZy2k6OMt4M4lDIQkfS3bt8homzUqiiXDDqdDlZXV69PTU19umfPni9zAsyQyMtGod0jOeRRN8E6INE6IqVSSfrVWgW1SnnQl5L8/vvvlb1792oDByUmsMyg1KI+wUejXhVbD6wlWCIRJjM7sXoEGKCBQSblmSEIRZgpvZ6RaXciFMFyjpxJCtC1agXVSgWsjHgVAr4GCJxFDiRSQ/ETwB/j/CcEE8R5ahrEUl5ya5WRDCMUoYJWaasUlGakTQjFADupO2eckyGAlBKiemBujYJKtAIB0Cx7qJABBnqW0LcaUULCMLFciNY5lTaInpXw08GcUs6XGw5KIGuMVtnrNywlGK8VHYhSg9ow8qHQtzdGbo1ow8uAU36cWESJwuOulf62SuKYOtahMALnfpju0StXxpYsFTOgYIb0QAdiYEBLxP7GQtTgQt978N4EzsizlyryNOBuLslAbFVqkgExhoKg4Gx1ZQULva70E2vz6YcPH+Z/bo5QwhrppSPOHQefgIAzHeiBaSXKVipMuTu02+1iy6YmilheWkC1UoKPP6b/TsfKYm7/7Ozse0ePHt1qWPpKBNInRkKctgSSl7jgWFIaCs9fceLkSb8ruHju3UA6t259+PHGjZt2m+cnsUSvPENqBPZuSmnEXGmWlpZQq9dkcI+k2fMtzyxn+cRbT5+KEbF/DzCigQYSjbhPsCzZ8AQVCq3VaqXO6/npf/75p3v0FrrfAPLJZhgMyvRs5A2AGAjQKEazFs3JJvxx5jxq1/e5BDfE6NgYTJ5eYrkBe5ZTI1i5v+FF5MyNMcqlsq8HN164MKX/0s8345+tlPTCayx82UUD5XLZF2P+rovh+fNLEoBKpQbDDDgjZ95YqAE3x/6h0o+iGFEc50TgrR1gZGTUD8ZlwCmcYYmklSEFAXm0a7UKqtWKPLdbj4PI4jiWL54oGrRlRHHk6UIC8yFjxg9NQaEVW9RKGgOUDAGhqAtK99P9sjHX51AD7H2MxAPxQeFxL5Hyd3oaLKnwlO0pjsOvoKwEQBxJ61It2Wk0Mq3lBLyr+FCzjo9OTooQbSbjLeUY//w9J1+1wNqazy/MY++eXbniOauxaMkXY/ZcH3G6cSRUVgJAojzwQR37U3P1gjsEnsI95pb12guiqHbPOQNh+rN9ptNp48nstBsq1Nbvr0354vw8JsbqObk8cspaAEyFVxJr8ejRQ5h9e/eUAJTwlti/f//Wb7797nswyFEjP+15rjUhJCA6mJ768+dnPpjJi+ld+lAAAAAASUVORK5CYII=",
+                  "position": 5
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao documentos"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9714298248291016
+        }
+      }
+    },
+    {
+      "query": "site:bna.ao \"relatórios anuais\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.bna.ao/",
+                  "title": "Banco Nacional de Angola",
+                  "text": "RELATÓRIOS. Boletins; Relatório Anual e Contas; Relatório de Supervisão da Conduta Financeira; Relatório Bankita; Relatório Actividade Sancionatória; Relatório ...",
+                  "source": "Banco Nacional de Angola",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHx03Nzc3Nzc3Nzc1LTc3Nzc3LTU3Nzc3Ny03LTc3NTcrLS81Nis1OC0tKy03LS0uNzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAIFBgcB/8QAKhAAAgECBAUDBQEAAAAAAAAAAQIDERIABAUhEzFBUZFCcfAzYaGx0SL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMQJB/9oADAMBAAIRAxEAPwDsWczS5aOpFzHkP7hWF9RlkR2CpCd7aCp+fDiUa8XVpWeh4aim/L3H5web6hBLtaL1VQP8np098Ha3olaMkSVIAqSRuB3228YYwAiuXDM19BdWnMdvG2J5faMrztYr8HTFpV+oCTKyyZmCPd0IZx6duvgYz8ut6jl4RdNNThSE8VFvWqRWNsKEXvQfZt+W2ydFkRkcVVgQR3Bwiui6esZTgFgUZCXldiVNtQSTX0LTtTamB1yuSE9k9N1J81mtShaQSiOclEXcqoJUKadyhO/RvbFzEliBTuepwPL5PL5ZroY7WssrUmoqT+yfOD4XIm0W/9k=",
+                  "position": 1
+                }
+              ]
+            },
+            "query": {
+              "q": "site:bna.ao \"relatórios anuais\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.7195155620574951
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "Bank Name": "Central Bank of the Republic of Azerbaijan",
+  "search_results": [
+    {
+      "query": "site:cbar.az (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"news\" OR intitle:\"statistics\" OR intitle:\"bulletins\" OR intitle:\"archive\") -inurl:pdf -inurl:doc -inurl:xls",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.cbar.az/page-39/statistics?language=en",
+                  "title": "Statistics - Central Bank of the Republic of Azerbaijan - CBAR.az",
+                  "text": "The Central Bank collects, processes, summarizes, analyzes and delivers to users qualitative and comprehensive statistical data up to international standards.",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.cbar.az/page-43/external-sector-statistics?language=en",
+                  "title": "Central Bank of the Republic of Azerbaijan - External sector statistics",
+                  "text": "Statistical bulletin · Macroeconomic indicators · Monetary indicators · External sector statistics · Financial market indicators · Credit institutions · Insurance ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.cbar.az/page-6/annual-reports?language=en",
+                  "title": "Annual reports - Central Bank of the Republic of Azerbaijan - CBAR.az",
+                  "text": "Annual reports, financial stability report, banking sector macroprudential policy framework, risk-based supervision policy concept of the Central Bank of the ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 3
+                }
+              ]
+            },
+            "related": [
+              "Publications reports news statistics bulletins archive pdf doc xls 2022",
+              "Publications reports news statistics bulletins archive pdf doc xls 2020"
+            ],
+            "query": {
+              "q": "site:cbar.az (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"news\" OR intitle:\"statistics\" OR intitle:\"bulletins\" OR intitle:\"archive\") -inurl:pdf -inurl:doc -inurl:xls"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9884002208709717
+        }
+      }
+    },
+    {
+      "query": "site:cbar.az (intitle:\"nəşrlər\" OR intitle:\"hesabatlar\" OR intitle:\"statistika\" OR intitle:\"xəbərlər\" OR intitle:\"arxiv\" OR intitle:\"bülletenlər\" OR inurl:nəşrlər|inurl:hesabatlar|inurl:statistika|inurl:xəbərlər|inurl:arxiv|inurl:bülletenlər) -inurl:pdf -inurl:doc -inurl:xls",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.cbar.az/page-39/statistics",
+                  "title": "Azərbaycan Respublikasının Mərkəzi Bankı - Statistika",
+                  "text": "Yeni qlobal reallıqlara adekvat makroiqtisadi siyasətin, o cümlədən monetar siyasətin formalaşması operativ, keyfiyyətli və əhatəli statistik məlumatlardan ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.cbar.az/page-462/statistics",
+                  "title": "Azərbaycan Respublikasının Mərkəzi Bankı - Statistika - CBAR.az",
+                  "text": "7, Qeyri-nağd valyuta mübadiləsi əməliyyatları haqqında statistik hesabatın tərtibi və təqdim edilməsi haqqında Təlimat · - ; 8, Ödəniş statistikası hesabatının ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.cbar.az/page-839/dayaniqli-maliyy-uzr-hesabatlar",
+                  "title": "Dayanıqlı maliyyə üzrə hesabatlar - Bakı - CBAR.az",
+                  "text": "Dayanıqlı maliyyə üzrə hesabatlar. A-A+. Dayanıqlı Maliyyə Hesabatı - 2024. 2.78 MB. “Dayanıqlı maliyyə üzrə Sorğu” nəticələrinə dair hesabat - 2024.",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.cbar.az/page-41/macroeconomic-indicators",
+                  "title": "Azərbaycan Respublikasının Mərkəzi Bankı - Makroiqtisadi statistika",
+                  "text": "Əsas Makroiqtisadi göstəricilər (25.06.2025). 53.95 KB ; Qiymət indekslərinin dəyişməsi (25.06.2025). 106.44 KB ; Azərbaycan Respublikasının Dövlət Büdcəsinin ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.cbar.az/law-211/regulation-no-163",
+                  "title": "Azərbaycan Respublikasının bank sistemində arxiv işinin aparılması ...",
+                  "text": "1.5. Bu Təlimat kargüzarlıq işində sənədlərin səmərəli təşkili, təsnifatı, onların daimi və müvəqqəti saxlamaq üçün seçilməsi, işlərin formalaşdırılması və iş ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.cbar.az/page-46/publications-and-researches",
+                  "title": "Azərbaycan Respublikasının Mərkəzi Bankı - Nəşrlər və tədqiqatlar",
+                  "text": "Tədqiqat işləri dövri xarakter daşıyır və mütəmadi olaraq elektron formatda ictimaiyyətə təqdim olunur. Tədqiqatların nəticələri ilə “İşçi məqalələr silsiləsi”, ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.cbar.az/page-836/news",
+                  "title": "Azərbaycan Respublikasının Mərkəzi Bankı - Xəbərlər",
+                  "text": "“Dayanıqlı Maliyyə üzrə Yol Xəritəsi: 2023-2026” implementasiyası çərçivəsində cari ilin iyun-iyul aylarında “Dayanıqlı Maliyyə üzrə Sorğu” həyata keçirilmişdir ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.cbar.az/page-50/other-publications",
+                  "title": "Azərbaycan Respublikasının Mərkəzi Bankı - Digər nəşrlər",
+                  "text": "Niyə bizə qoşulmalı? MALİYYƏÇİSƏN təcrübə proqramı · Məlumatların yayımlanması qrafiki · Sual − cavab · İstinadlar · Naxçıvan Muxtar Respublikası İdarəsi. Digər ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.cbar.az/page-800/statistics-of-citizens-appeals",
+                  "title": "Vətəndaş müraciətlərinə dair statistika - Bakı - CBAR.az",
+                  "text": "2025 · Kredit təşkilatları, Ödəniş sistemləri, Valyuta mübadiləsi məntəqələri · 1071, 7, 0 ; 2024 · Kredit təşkilatları · 939, 342, 42 ; 2023 · Kredit təşkilatları ...",
+                  "source": "CBAR.az",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAACLUlEQVR4AXWQAWTkQBSGBxAUAQTFhcOFw4WDBVw4dCg6HC4UNYqIoMZiRaFisaJYUTAWJcUyxZKipLDs4kixZLFkAcFicBgs3s3uUq7nPozfzPfePA+9A0CBKtsNb9aZ3HCd9Q36H2rDs9eYTDLvLs+emTcUOvNXpu/Rv7SrED9ycpoVJmm+Y5Bl/dXTmZxleMLbdfiXXS9jb5LX8wyu/DhwymUKAMVrnAQudGk1Tb3HvFnF6IAelE6T8HMMN1R7CmoACVsd5T6D7kK/JNoBNUOaahV3bkWDHNp31XZvLFr1M4a13BfN/Gu3QW5nKOpVgjR8zmg/U4OwluWht7pIJHLVGdM6bGW9KVSf0gHP52xfMGXpKIEF342jWTbyA5afiDzGsGhgh9Kv2tEm0v3yX8yNigbZ9BGDHuk36HnkR6zP3W/biow9/epcFcUyQdWySkaWXqgwSNUjcGDdqnEBSsGeWYTFkY+fePmAUTktO5ERj4nTE/ASw0sWPvuzrdBeIbnOMOUwYXZXZE8k7aId4YD5PSOd+/guFxYpjpy6iwHaKujoLI6JNxLJk59eIXphHtZamZeWrtH/kDGnAWdn6WyesJPUj7j3kMf3RNyiMEB8FKMD7CY0z20nMNitycaeP6bJPfYfwuS+I+5QdoPiHkr6HnpDblo7sq3IMk5N69ywLw0cGWKI8iFK+yi8ROmAoneU84J0sRVY7onjnJj2D9P5ZpDIdM5Neu2/aX8AXX96xniV9TEAAAAASUVORK5CYII=",
+                  "position": 9
+                }
+              ]
+            },
+            "query": {
+              "q": "site:cbar.az (intitle:\"nəşrlər\" OR intitle:\"hesabatlar\" OR intitle:\"statistika\" OR intitle:\"xəbərlər\" OR intitle:\"arxiv\" OR intitle:\"bülletenlər\" OR inurl:nəşrlər|inurl:hesabatlar|inurl:statistika|inurl:xəbərlər|inurl:arxiv|inurl:bülletenlər) -inurl:pdf -inurl:doc -inurl:xls"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.5138483047485352
+        }
+      }
+    }
+  ]
+}
