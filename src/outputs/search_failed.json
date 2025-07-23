@@ -5836,5 +5836,26 @@
         "took": 0.3047783374786377
       }
     }
+  },
+  {
+    "Bank Name": "Bank of Central African States",
+    "query": "site:beac.int téléchargements",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:beac.int téléchargements"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.5537211894989014
+      }
+    }
   }
 ]

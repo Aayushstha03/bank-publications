@@ -1,0 +1,1624 @@
+{
+  "Bank Name": "Bank of Japan",
+  "search_results": [
+    {
+      "query": "site:boj.or.jp/en/ publications",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/about/calendar/kanklist.htm",
+                  "title": "List of Publications : 日本銀行 Bank of Japan",
+                  "text": "To obtain copies of publications that are free of charge, please contact the Bank's Public Relations Department at the e-mail address below (copies are subject ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/note_tfjgs/note/n_other/index.htm",
+                  "title": "Publications and Other Information : 日本銀行 Bank of Japan",
+                  "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/index.htm",
+                  "title": "BOJ Reports & Research Papers : 日本銀行 Bank of Japan",
+                  "text": "BOJ Reports & Research Papers · Financial System Report · Market Operations in Each Fiscal Year · Payment and Settlement Systems Report · Regional Economic ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/title.htm",
+                  "title": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin",
+                  "text": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin · Discontinuance of the Bank of Japan Quarterly Bulletin · November 2006 (Volume 14, ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/index.htm",
+                  "title": "Bank of Japan Working Paper Series, Review Series, and Research ...",
+                  "text": "The Bank of Japan Research Laboratory Series explains the results of research activities of the Bank's staff and outside researchers in a plain and concise ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/calendar/index.htm",
+                  "title": "Release Schedule : 日本銀行 Bank of Japan",
+                  "text": "Schedule of the Bank's releases including the dates of the upcoming Monetary Policy Meetings. In principle, schedules are updated every Friday.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/told02.htm",
+                  "title": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin",
+                  "text": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin · November 2002 (Volume 10, Number 4) · August 2002 (Volume 10, Number 3) · May 2002 ( ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.imes.boj.or.jp/en/newsletter/newsletter.html",
+                  "title": "Newsletter - IMES, Bank of Japan",
+                  "text": "Home>; IMES Publications/ Newsletter. IMES Newsletter. The IMES Newsletter aims to announce to the public major events held by the IMES on a timely basis.",
+                  "source": "金融研究所",
+                  "favicon": "data:image/webp;base64,UklGRs4EAABXRUJQVlA4WAoAAAAQAAAAIwAAIQAAQUxQSNsAAAART6AQkiQ3eJki3wG800dE+PunY4gISZEkSZIkMqjmO6iyCOymGQM3vH1giOj/BDxwSSwTOOTsMwsTaiyMFFe1Si0B3gmKgi+ArMUbCmHGEpJKtppGZSoscHIXr8mKguVyNBprzEoGlYMil62GrcUWqybMlVGlQLnIdwguAsdmCiCzIMp8kVZZ6TLZtGQlOSmrqNoCapaVfGxltRKUapVbbgVsWcGwmvRZaIpFUQWwwopRpSxZwaqsWnO1KleLoJqthrn4Vgbwj3N43nC58Pv3n3Mu9zzn3Oec5wcAVlA4IMwDAACwEwCdASokACIAPpEgpFIloSWllxCwEglsAJ0yhIHvu3yAfIJXX6x95t1oMr1kfnPPt6gNsB+rv9u9gH6l/6rzM/cB6AH6LekB7Hn7M+wB+qXpoexl+6HpAf/+6k8po/J7P72GuXlgdxr/quNojV/43qN6BtQoP7OwPTl73iK53ueZS29P6B6shC4/Ayw1sPwqZF2P4x3CA8LvR3sA/KrMCud8+q8AAP6vdS8OnKnYImab2m7egRkemoFS+cKqR5k/3W5SUbJinl2hseG6LXYGaHcANVc/ZIf1OMDYMdUviVoXq7R7X98eFaOznTTv7iT9R+GZ/46Les1nDjl+NVnhZntryz4r9EAnKc2vZycziJb/5Fej2CI0LV3xAC8LpTp3ZE0YQWntbtNjY4bn/f2pHZiWp8+Xt3e9/AzAhkuoTbz3/roxL/dCR9taskGiiet0f+rZYTBKafRI/aGf4JdbZTe7eGo/lq/wreyZwp9f+EEayueEhH6/6KVUtgcXlGrqDvlybgdrNgm8N/iERHawGZQrF+ZdpvJdsLUNJZ3XwBZRhaw6rJ+nNiOPi5mx+YtAc8t/vuFQTJ/9HnJ6z0DEDfr/ETOzK5hlxDlKnNNXeEXBr4ZdvLbsHkBbFHzUAdAr0mf/BFSzh9lJNDOm3+/saPucKpFwG8FaevRi66vSQFBWRb2uHG5B77POR3dT/yHOKYdpB9KY1Q+A+j1BjeDYUxauOlwnLSk77C7BQrG62xuq/Xu3Q3YNC7IKFavsXI5h03L4nw8ChtU9iBov8fXmua/B4yN/1rlsIo4BYCTeNUHx1S9rU5Te2KP9S12ybdxi+inP8ygTk/GlEbGGd+5McTu6k3MBzNPpQrPZM+mJoT8b21zpk6SZt29X+UYQK/F+EFHtC/todsJ6GyvDL5u+2WbQ6LIcQ3xFKUw4RnBgKkrES/rQ9Zr/IK/8xyp5TP/iPLbbnwgP2KRd3M7rwQpSmdZsMFj/nhq3TMZVHJZ3F4siOV23Ns5Apq9MKJuXJGCtCPi+3aJD9DzXn7k6IXiRXV34Pcy4X0cvKq8D324ikSyY6B72P4qA2fa5HRryVjWPFNF9GfF5pDS2NRsPSzBCG3cAoMbXMP8/8wDl1L75vXzZ591WE/txHUiczdQDbM2DxxULBbV8djoNHXo6fIhm8/FWQn+/nnRR/POijIsMLwExAMkHD38kwEqOPAjpdMl2ofXWcopIsXAnVbSK9UdsU8PR5mx/38mdMO3nC/2ua02wfNrmtZfALSYqwTDao5YmkLmtWtfq9k9AAAA=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/notice_2022/not220420a.pdf",
+                  "title": "Discontinuance of Publication of the \"TANKAN (Comprehensive Data ...",
+                  "text": "The Bank of Japan has decided to discontinue the print publication of the \"TANKAN. (Comprehensive Data Set)\" and the \"Financial and Economic ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "published_time": "2022-04-20T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/rs_all_2016/index.htm",
+                  "title": "List of Reports & Research Papers 2016 : 日本銀行 Bank of Japan",
+                  "text": "Corporate Profits and Business Fixed Investment: Why are Firms So Cautious about Investment? Date, Apr. 13, 2016. Title, Long-Term Unemployment in Japan. Date ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "List of publications",
+              "Publications pdf",
+              "Publications near me"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ publications"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.40002894401550293
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ reports",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/index.htm",
+                  "title": "BOJ Reports & Research Papers : 日本銀行 Bank of Japan",
+                  "text": "The Financial System Report is published biannually with two objectives: to present a comprehensive analysis and assessment of the stability of Japan's ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/fsr/index.htm",
+                  "title": "Financial System Report : 日本銀行 Bank of Japan",
+                  "text": "The Financial System Report has been renewed by integrating the two semiannual reports -- the Financial System Report and the Financial Markets Report.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/rs_all/index.htm",
+                  "title": "List of Reports & Research Papers List by Year - 日本銀行",
+                  "text": "List of Reports & Research Papers List by Year ... Copyright Bank of Japan All Rights Reserved. Page top.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/psr/index.htm",
+                  "title": "Payment and Settlement Systems Report : 日本銀行 Bank of Japan",
+                  "text": "Payment and Settlement Systems Report, Market Operations in Each Fiscal Year, Market Functioning Survey concerning Climate Change.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/rer/index.htm",
+                  "title": "Regional Economic Report : 日本銀行 Bank of Japan",
+                  "text": "Regional Economic Report · 2025 · 2024 · 2023 · 2022 · 2021 · 2020 · 2019 · 2018; 2017; 2016; 2015; 2014; 2013; 2012; 2011; 2010; 2009; 2008; 2007; 2006; 2005.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/diet/index.htm",
+                  "title": "Reports to the Diet : 日本銀行 Bank of Japan",
+                  "text": "The report covers economic and financial developments in Japan, and the Bank's conduct of monetary policy and measures taken. The Bank also makes reports to ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/rs_all_2024/index.htm",
+                  "title": "List of Reports & Research Papers 2024 : 日本銀行 Bank of Japan",
+                  "text": "Research Papers, Reports, Speeches and Statements Related to the Bank Research Papers, Reports, Speeches and Statements Related to the Bank Research Papers ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/fmr/index.htm",
+                  "title": "Financial Markets Report : 日本銀行 Bank of Japan",
+                  "text": "The Financial System Report has been renewed by integrating the two semiannual reports -- the Financial Markets Report and the Financial System Report.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/rer/rer250109.htm",
+                  "title": "Regional Economic Report (Summary) (January 2025) - 日本銀行",
+                  "text": "This report summarizes the reports from all regional research divisions, mainly at the Bank's branches in Japan, and is based on data and ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-01-09T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/other_release/index.htm",
+                  "title": "Study Group Reports : 日本銀行 Bank of Japan",
+                  "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Reports pdf",
+              "Reports meaning"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ reports"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.36164212226867676
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ research",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/research/index.htm",
+                  "title": "Research and Studies : 日本銀行 Bank of Japan",
+                  "text": "Research and Studies · Outline of Research and Studies · List of Reports & Research Papers · BOJ Reports & Research Papers · Working Paper Series, Review Series ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/research_data/index.htm",
+                  "title": "Research Data : 日本銀行 Bank of Japan",
+                  "text": "Economic Assessment and Projection Group, Economic Research Division, Research and Statistics Department. Tel : +81-3-3279-1111. 日本銀行 Bank of Japan. 2 ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/lab/index.htm",
+                  "title": "Bank of Japan Research Laboratory Series - 日本銀行",
+                  "text": "The Research Laboratory Series aims to explain analyses by Bank staff on a variety of issues to a broad audience in plain language.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/rs_all_2022/index.htm",
+                  "title": "List of Reports & Research Papers 2022 : 日本銀行 Bank of Japan",
+                  "text": "BOJ Reports & Research Papers: Financial System Report, Market Operations in Each Fiscal Year, Payment and Settlement Systems Report, Regional Economic Report",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/index.htm",
+                  "title": "Bank of Japan Working Paper Series, Review Series, and Research ...",
+                  "text": "The Bank of Japan Research Laboratory Series explains the results of research activities of the Bank's staff and outside researchers in a plain and concise ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/r_menu_ron/index.htm",
+                  "title": "List of Research Papers Related to Monetary Policy - 日本銀行",
+                  "text": "Costs and Benefits of Inflation: A Model Analysis of Japan and the U.S.. Date, June 27, 2019. Title, Inflation and Social Welfare in a New Keynesian Model: ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/index.htm",
+                  "title": "BOJ Reports & Research Papers : 日本銀行 Bank of Japan",
+                  "text": "This report is a summary of information on economic and financial developments of each region, gathered mainly from interviews with firms by the Bank's main ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/outline/index.htm",
+                  "title": "Outline of Research and Studies : 日本銀行 Bank of Japan",
+                  "text": "The Bank conducts research on economic and financial conditions as well as the financial system and financial markets.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/r_menu_ron/index.htm",
+                  "title": "List of Research Papers Related to Payment and Markets - 日本銀行",
+                  "text": "Research Papers, Reports, Speeches and Statements Related to Payment and Markets, Payment and Settlement Systems, Report Market Operations in Each Fiscal Year.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/imes/index.htm",
+                  "title": "Research Papers Released by the Institute for Monetary and Economic ...",
+                  "text": "The IMES Discussion Paper Series is a compilation of the results of research activities of the staff of the IMES and visiting scholars.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:boj.or.jp/en/ research"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.38291311264038086
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"working papers\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2003/index.htm",
+                  "title": "Bank of Japan Working Paper Series 2003 - 日本銀行",
+                  "text": "Note: On September 25, 2003, the Bank integrated into the \"Bank of Japan Working Paper Series\" a series of working papers that had been released separately by a ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e19.pdf",
+                  "title": "Assessing the Long-Term Impact of Monetary Policy",
+                  "text": "Minnella (2023), \"Too Low for Too Long: Could Extended Periods of. Ultra Easy Monetary Policy Have Harmful Effects?\" IMF Working Papers, 23/105.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e01.pdf",
+                  "title": "Application of the Bernanke-Blanchard Model to Japan",
+                  "text": "Bernanke, Ben, and Olivier Blanchard (2023) \"What Caused the U.S. Pandemic-Era. Inflation?,\" Hutchins Center Working Papers, No.86, June 2023.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e13.pdf",
+                  "title": "Globalization and Its Growing Impact on the Natural Rates of Interest in ...",
+                  "text": "Mankiw, N. Gregory (2022) “Government Debt and Capital Accumulation in an Era of Low. Interest Rates,” NBER Working Papers 30024, National ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2025/data/wp25e07.pdf",
+                  "title": "Skewed Interest Rate Expectations and Effects of Central Banks' Market ...",
+                  "text": "The Term Structure of Inflation Forecasts. Disagreement and Monetary Policy Transmission, BIS Working Papers, 1114, Bank for. International ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e20.pdf",
+                  "title": "Firms' Interest Payment Burden and Productivity under a Low Interest ...",
+                  "text": "Albuquerque, B. and C. Mao (2023), \"The Zombie Lending Channel of Monetary Policy,\". IMF Working Papers, No. 2023/192.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e12.pdf",
+                  "title": "Recent Developments in Measuring the Natural Rate of Interest",
+                  "text": "Kopp, Emanuel and Peter D. Williams (2018), \"A Macroeconomic Approach to the Term. Premium,\" IMF Working Papers, WP/18/140. Kuroda ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e08.pdf",
+                  "title": "Counterfactual Simulation of the Effect of Large-Scale Monetary Easing on ...",
+                  "text": "Working Papers 28742, National Bureau of Economic Research, Inc. [23] Monetary Affairs Department, Bank of Japan (2023), \"The Effects and ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2025/data/wp25e01.pdf",
+                  "title": "The Impact of Negative Interest Rate Policy on Interest Rate Formation ...",
+                  "text": "Mariathasan (2018), \"How Banks Respond to Negative Interest Rates: Evidence from the Swiss Exemption Threshold,\" CESifo Working Papers, 6901.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2025/data/wp25e06.pdf",
+                  "title": "Households' Medium- to Long-Term Inflation Expectations Formation",
+                  "text": "Arndt, S., and Z. Enders (2024), \"The Transmission of Supply Shocks in Different Inflation. Regimes,\" Bank of France Working Papers, 938. Aoki ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAqFBMVEX///////7+//////1ILopIL4lKMYr39vlHLYtKNYySgLXy8vZKL4e6sdFLL4qom8Po5u9FJoRGKothS5rv7fREMIrn4u/a0+SMea+ai7hUOouklL3Pyd5bQpJOM4llS5V6aKnEuthyXaO6r9B9baqwpchlUpiCc6uOfbNsU5xLMoV1ZKZBIoOIdLLc1uWejMDw9fDO0NrMydxlU6HHw92Hfq2vqb63tMfu88OKAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIwOjEwOjQzKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pr3VKFwAAAKiSURBVDiNZZSLeqIwEIUD5CrhHrFqTVFAoGK7rXb3/d9sZwDFtvGTS/iZnDkzgRCHTMPDgyvyXDg4B384O443E/exenpazXeOg+BPxl9vNlvxjbpD7ngSz4udtS/b1YQ5s457lKCwYai1trsiMPOrj8vtD5ZSZLS1Wh/27i+9xCwsDUOa4KDMcr1ZmO9aCIkLSTnVWROVQdRkmkG0Iv/O+BUg6aWOp1fqo1ZAxUDMihaUM3nOB/9GrOGc61Y8RNpbzelCEM/zbi/6rebWBmN2OOmfZEgbQRxEjBGTAm710QwLIlSzkB5jvPT2564rSh+pt4zb1/oGiZOkrMSw5kx7tADyAiURqDr5k+MrJdMM8xLnPpFgqEwqjBVnNNxcJ2hLZXrGizJNJUJhmNR4f07CsI2FR8RblMm0j4bJPgWGMfC9QPVREvLs/fqHPFeWU5pgrv5hDMRYmHQGJJaSq01WfJDPZsPkBF0Q0kxDCWdoV30QL68zKRNczi16gBiGSgrMPFpylS0+h9K8S5k2qKkehDNKJQgHY6GgfG0gOyjWlUuaoZd+kQIGufZggQcWLNluRRwXTTAXydmQc17JPk0TWeVQRlhN6Up4YCuWK2I87IbmEUHVdVWJpSb5hXNVEm/qAtNRqweTQb3vj5UXzVLRgz/6jRUOhubxb92F+8hvueJqjyFv3dNKoKp8bvm3Chi6dh4hc6LQYl09Yfk2U0pRzBHa8GEjMHjVZtW2LGEjcGBYgbbMvYqxWkWV4kzrpUbk9bUxKG5czp3Uu8GFL7mFn8JxDMCHAcJn80Y19UExxjlj6hDFt28AruY+UMRc1y9KZe1+2rzwzB2hh60FV/vjSyBGs8aJh+N9xF9fhvwcrjt89IaQcPL8v/+EO34InZv//wEX1S7oU3ymgQAAAABJRU5ErkJggg==",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Working papers pdf",
+              "Working papers 2022"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ \"working papers\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0219080448150635
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"press releases\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2014/data/wp14e03.pdf",
+                  "title": "Outward FDI and Domestic Job Creation in the Service Sector",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///484d4d9b1513f2978213e1e577a673aca161e14c71f6c8fb26ed262ffa083590",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outlook/gor1104b.pdf",
+                  "title": "Outlook for Economic Activity and Prices",
+                  "source": "Outlook for Economic Activity and Prices",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///33bf23e1395f7da76450465b4b691d5810ed225cc37cf9a0922610a7a181a0ef",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/ron_2007/data/ron0712b.pdf",
+                  "title": "Hedge Fund Investments: Risk Management Perspectives",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///f57a838cb0d076427acc65a86cd703c8d83c2754679798a4207401997200bd2a",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/finsys/c_aft/data/fsc0804a8.pdf",
+                  "title": "Using ELD: The Australian Experience",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///66ab1a7393978d4e01c783b65052a5d299247cdd8eb58144ed2b40809a798d8d",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/note_tfjgs/note/security/index.htm",
+                  "title": "Security Features of Bank of Japan Notes - 日本銀行",
+                  "text": "Press Releases. Security features incorporated in banknotes and laws prohibiting banknote reproduction. It is a punishable offense to make or knowingly use ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/notice_2007/ntbop18.htm",
+                  "title": "Release of the Data for the Balance of Payments between Japan and Viet ...",
+                  "text": "The above data will be available under \"Press Releases (Regional Balance of Payments)\" and \"Historical Data, Regional Balance of Payments ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2007-07-11T00:00:00",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/notice_2010/ntsj28.htm",
+                  "title": "Data Revisions of the Flow of Funds Accounts : 日本銀行 Bank of Japan",
+                  "text": "Data on the aggregate of each transaction item have been already available in press releases since December 2009. The data are now also ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2010-03-23T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/finsys/libor/data/rel220331d.pdf",
+                  "title": "Key Results of the Survey on the Use of LIBOR",
+                  "text": "... press-releases/finalising-libor-transition-achievements-sterling-markets. 2. The FCA stated that it would consider the case for using the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2022-03-31T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/br/bop_06/index.htm",
+                  "title": "Balance of Payments Related Statistics (Data Based on the BPM6 ...",
+                  "text": "Materials (such as press releases) providing an overview of recent data can be found on the MOF website. Flow data: Balance of Payments (Link to an external ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/market/jpy_cmte/cmt211119a.pdf",
+                  "title": "Final Report on the Results of the Public Consultation on the ...",
+                  "text": "... press-releases/further-arrangements-orderly-wind-down-libor-end-2021. 4 TORF is to be multiplied by 360/365, in order to adjust the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2021-11-19T00:00:00",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/finsys/c_aft/data/fsc0804a8.pdf",
+                  "title": "Using ELD: The Australian Experience",
+                  "text": "press releases etc. Data is generally collected above a common threshold. Pros. • Provides background information about the bank which.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/psr/data/psrb230120.pdf",
+                  "title": "ayment and ettlement ystems eport",
+                  "text": "18 The statements in this section are from press releases and various media reports from the NICT. https://www.nict.go.jp/press/2020/05/19-1.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2023-01-20T00:00:00",
+                  "position": 12
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e14.pdf",
+                  "title": "Central Bank Mandates and Communication about Climate ...",
+                  "text": "Note: Based on press releases on the NGFS website as of September 2023 and Dikau and Volz (2021). Asterisk (*) denotes the central bank is ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 13
+                }
+              ]
+            },
+            "query": {
+              "q": "site:boj.or.jp/en/ \"press releases\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9782118797302246
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ statistics",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/index.htm",
+                  "title": "Statistics : 日本銀行 Bank of Japan",
+                  "text": "Outline of Statistics and Statistical Release Schedule · Notices of Changes and Corrections · Explanations of Statistics · Notices of Changes and Revisions ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/index.htm",
+                  "title": "Outline of Statistics and Statistical Release Schedule - 日本銀行",
+                  "text": "The Bank compiles and publishes a variety of statistics, as well as reviews the compilation procedures for its statistics.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/boj/index.htm",
+                  "title": "Bank of Japan Statistics - 日本銀行",
+                  "text": "Bank of Japan Statistics: Currency, Financial Markets, Financial Institutions, Accounts, Deposits and Loans, Market Flow of Funds Related to BIS/FSB, Payment ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/exp/exms01.htm",
+                  "title": "Guide to Japan's Money Stock Statistics - 日本銀行",
+                  "text": "The Guide to Japan's Money Stock Statistics explains the definitions, compilation methods, and additional notes of the MSS to provide increased accessibility ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/br/bop_06/index.htm",
+                  "title": "Balance of Payments Related Statistics (Data Based on the BPM6 ...",
+                  "text": "Flow Data · BOP. Statistics that systematically record Japan's economic transactions with the rest of the world during a certain period (monthly). · Regional ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/set/kess/index.htm",
+                  "title": "Payment and Settlement Statistics : 日本銀行 Bank of Japan",
+                  "text": "Report market operations in each fiscal year, payment and settlement systems, report regional economic report.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/education/oshiete/statistics/index.htm",
+                  "title": "Compilation of Statistics, and Research and Studies - 日本銀行",
+                  "text": "Compilation of Statistics, and Research and Studies. Where can I find the time-series statistical data compiled and released by the Bank?",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+                  "title": "Statistics on Securities Financing Transactions in Japan - 日本銀行",
+                  "text": "Bank of Japan Statistics Currency Financial Markets Financial Institutions Accounts Deposits and Loans Market Flow of Funds Related to BIS/FSB Payment and ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.imes.boj.or.jp/en/historical/hstat/hstat.html",
+                  "title": "Historical Statistics : IMES, Bank of Japan - 日本銀行金融研究所",
+                  "text": "Historical Statistics. This section provides statistical data before 1945 that were compiled mainly by the Bank of Japan. Explanatory Notes.",
+                  "source": "金融研究所",
+                  "favicon": "data:image/png;base64,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",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/bis/ibs/index.htm",
+                  "title": "Results of BIS International Locational Banking Statistics and ... - 日本銀行",
+                  "text": "The Bank of Japan has been releasing the BIS International Locational Banking Statistics (LBS) and International Consolidated Banking Statistics (CBS) in Japan, ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Statistics book",
+              "Statistics for Dummies"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ statistics"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.47072863578796387
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"statistical data\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/index.htm",
+                  "title": "Outline of Statistics and Statistical Release Schedule - 日本銀行",
+                  "text": "Outline of Statistics; Schedule for Releases of Statistical Data. The Bank compiles and publishes a variety of statistics, as well as reviews the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/education/oshiete/statistics/h03.htm",
+                  "title": "Where can I find the time-series statistical data compiled ... - 日本銀行",
+                  "text": "The BOJ Time-Series Data Search enables searching, downloading, and graph drawing of approximately 200,000 items of long-term time-series statistical data ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/education/oshiete/statistics/index.htm",
+                  "title": "Compilation of Statistics, and Research and Studies - 日本銀行",
+                  "text": "Where can I find the time-series statistical data compiled and released by the Bank? What is the monetary base? What is the money stock? What is the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.imes.boj.or.jp/en/historical/hstat/hstat_r.html",
+                  "title": "Historical Statistics : IMES, Bank of Japan",
+                  "text": "Historical Statistics. This section provides statistical data before 1945 that were compiled mainly by the Bank of Japan.",
+                  "source": "日本銀行金融研究所",
+                  "favicon": "data:image/png;base64,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",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/tkohyos.xlsx",
+                  "title": "Statistics data",
+                  "text": "Statistical Data. 19, 1. Bank of Japan and Currency, --- 1. 20, 2. Financial Markets, --- 3. 21, 3. Financial Institutions Accounts, --- 4. 22, 4. Deposits and ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/general_notice/ron0210a.htm",
+                  "title": "Toward Further Improvement of Financial and Economic Statistics",
+                  "text": "The Bank has enhanced the transparency of its statistical data based on the recognition that it is an important factor for improvement of statistical data.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/notice_2022/not220222a.htm",
+                  "title": "Revision of \"Reserves/Average Outstanding(a)\" - Statistics - 日本銀行",
+                  "text": "The Bank of Japan has revised figures in December 2020. Note that the Bank of Japan's publications on statistical data may include the above ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2022-02-22T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/notice_2004/ntgin03.htm",
+                  "title": "Discontinuation of the Compilation and Release of Statistical Data in ...",
+                  "text": "The Bank has decided to discontinue the compilation and release of statistical data in Financial Statements of Japanese Banks from the full-year ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2004-03-30T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/calendar/index.htm",
+                  "title": "Release Schedule : 日本銀行 Bank of Japan",
+                  "text": "Release Schedule of Statistical Data; List of Publications; Inquiries. Schedule of the Bank's releases including the dates of the upcoming Monetary Policy ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/notice_2007/ntms22.htm",
+                  "title": "Periodical Revision to the Data for Broadly-defined Liquidity - 日本銀行",
+                  "text": "Note that figures in the Bank of Japan's publications on statistical data, and CD-ROMs, may be those before the revision. inquiries. Inquiries concerning the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:boj.or.jp/en/ \"statistical data\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.35575294494628906
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ bulletin",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/data/qb0602.pdf",
+                  "title": "Bank of Japan Quarterly Bulletin",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///36b5175c673c09d6a25c1130e24ae6b6b4195508934349fbfe13e975d464b830",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/ron_2000/data/ron0011a.pdf",
+                  "title": "Profits and Balance-Sheet Developments of Japanese Banks in ...",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///c0022e2a76ab7a885fe54d0caa6fe065b09e017c4f418a3a053297dc9dcf16e1",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/general_notice/data/ron0210a.pdf",
+                  "title": "Toward Further Improvement of Financial and Economic Statistics:",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///fa95136f7f508d938f2918753627c11a6f1a66ddcc73ec533f27e68f6c0ef054",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/exp/tk/data/ron9909a.pdf",
+                  "title": "Research and Statistics Department Bank of Japan The ...",
+                  "source": "www.boj.or.jp",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "x-raw-image:///991031424a20eaeecb0752efc21e73ef732a7ed573d62ff65906316fbe84225e",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/title.htm",
+                  "title": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin",
+                  "text": "The Bank of Japan Quarterly Bulletin was introduced in 1993 as a means of presenting the Bank's research on economic and financial developments.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/told02.htm",
+                  "title": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin",
+                  "text": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin · November 2002 (Volume 10, Number 4) · August 2002 (Volume 10, Number 3) · May 2002 ( ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/told01.htm",
+                  "title": "Articles and Speeches Published in the Bank of Japan Quarterly Bulletin",
+                  "text": "August 1994 (Volume 2, Number 3) · The Conduct of Monetary Policy by the Bank of Japan · Current Economic Conditions and Monetary Policy · Quarterly Economic ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/data/qb0602.pdf",
+                  "title": "Bank of Japan Quarterly Bulletin",
+                  "text": "Against this background of a positive turn in the outlook for economic activity and prices, net purchases. Bank of Japan. QUARTERLY. BULLETIN. February. 2006.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/data/qb0611.pdf",
+                  "title": "Bank of Japan Quarterly Bulletin",
+                  "text": "The full text (PDF file) of the Bank of Japan Quarterly Bulletin is available, beginning with the February 2006 issue. ... A summary of the paper is published in ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/data/qb0608.pdf",
+                  "title": "Bank of Japan Quarterly Bulletin",
+                  "text": "That. Recent Economic and Financial Developments and the Conduct of Monetary Policy. Bank of Japan. QUARTERLY. BULLETIN. August. 2006. 22. Page 23. increases ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/data/qb0605.pdf",
+                  "title": "Bank of Japan Quarterly Bulletin",
+                  "text": "Quarterly Bulletin—Volume 14, Number 2 ... When copied or reproduced, the source, Bank of Japan. Quarterly Bulletin, should explicitly be credited ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2006-03-09T00:00:00",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/past_release/index.htm",
+                  "title": "Discontinued Research Releases : 日本銀行 Bank of Japan",
+                  "text": "Bank of Japan Quarterly Bulletin. Releases that have been discontinued. Quarterly Economic Outlook. Table : Quarterly Economic Outlook. Date, Oct. 27, 1997.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 12
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/ron_2003/data/ron0305c.pdf",
+                  "title": "The Bank of Japan's Eligible Collateral Framework and Recently ...",
+                  "text": "BULLETIN. May. 2003. 1. The Bank of Japan's. Eligible Collateral. Framework and. Recently Accepted. Collateral. Page 2. I. Summary1. The Bank of Japan ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 13
+                }
+              ]
+            },
+            "related": [
+              "Bulletin Board",
+              "Bulletin company",
+              "Bulletin store",
+              "Bulletin wholesale",
+              "Bulletin board paper",
+              "UGA bulletin"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ bulletin"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9946918487548828
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ archive",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/about/outline/imes_archive/index.htm",
+                  "title": "Archives : 日本銀行 Bank of Japan",
+                  "text": "The Archives serves as the official repository for the Bank's historical records. The Archives preserves the corporate memory of the Bank of Japan.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+                  "title": "Monetary Policy Meetings : 日本銀行 Bank of Japan",
+                  "text": "A list of scheduled dates of the meetings; policy statements; minutes of the meetings; and the Outlook for Economic Activity and Prices (the Outlook Report).",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/rer/index.htm",
+                  "title": "Regional Economic Report : 日本銀行 Bank of Japan",
+                  "text": "Archives; close. Organization of the Bank. Organization of the Bank · Policy Board · Responsibilities of the Governor, Deputy Governors, and Executive Directors ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/index.htm",
+                  "title": "Monetary Policy : 日本銀行 Bank of Japan",
+                  "text": "Research Papers, Reports, Speeches and Statements Related to Monetary Policy · Research Papers · Speeches · Statements.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "sublinks": [
+                    {
+                      "title": "Outline of Monetary",
+                      "url": "https://www.boj.or.jp/en/mopo/outline/index.htm"
+                    },
+                    {
+                      "title": "Monetary Policy Releases",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm"
+                    },
+                    {
+                      "title": "Price Stability Target of 2 Percent",
+                      "url": "https://www.boj.or.jp/en/mopo/outline/target.htm"
+                    },
+                    {
+                      "title": "Meetings",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+                    },
+                    {
+                      "title": "Review of Monetary Policy...",
+                      "url": "https://www.boj.or.jp/en/mopo/outline/bpreview/index.htm"
+                    },
+                    {
+                      "title": "Summary of Opinions",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2025/index.htm"
+                    },
+                    {
+                      "title": "Outlook for Economic Activity",
+                      "url": "https://www.boj.or.jp/en/mopo/outlook/index.htm"
+                    }
+                  ],
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/tk/index.htm",
+                  "title": "TANKAN : 日本銀行 Bank of Japan",
+                  "text": "In the Tankan (Short-Term Economic Survey of Enterprises in Japan), there is a discontinuity between the time-series data through the December 2003 survey.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/activities/act/index.htm",
+                  "title": "Annual Review : 日本銀行 Bank of Japan",
+                  "text": "List of Annual Review ; Aug. 30, 2024 · Annual Review 2024 (Fiscal 2023) · Aug. 31, 2023 · Annual Review 2023 (Fiscal 2022) · Aug. 31, 2022.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/note_tfjgs/note/related/index.htm",
+                  "title": "Related Releases : 日本銀行 Bank of Japan",
+                  "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/boj/fm/ope/index.htm",
+                  "title": "Market Operations by the Bank of Japan - 日本銀行",
+                  "text": "Report market operations in each fiscal year, market functioning survey concerning climate change, research papers, speeches, statements.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/finsys/libor/index.htm",
+                  "title": "Interest Rate Benchmark Reform (Preparedness for the ... - 日本銀行",
+                  "text": "The Cross-Industry Forum on Interest Rate Benchmarks was established in March 2022 following the reorganization of the Cross-Industry Committee on Japanese Yen ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/index.htm",
+                  "title": "Bank of Japan Accounts (Every Ten Days) - 日本銀行",
+                  "text": "Accounts, Deposits and Loans, Market Flow of Funds Related to BIS/FSB, Payment and Settlement, TANKAN Prices, Public Finance, Balance of Payments Related ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Archive fashion",
+              "Archive Sweatpants",
+              "Archive resale"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ archive"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3444359302520752
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"monetary policy\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outline/index.htm",
+                  "title": "Outline of Monetary Policy : 日本銀行 Bank of Japan",
+                  "text": "The Bank of Japan, as the central bank of Japan, decides and implements monetary policy with the aim of maintaining price 1 stability.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/index.htm",
+                  "title": "Monetary Policy : 日本銀行 Bank of Japan",
+                  "text": "Outline of Monetary Policy · Monetary Policy Meetings · Monetary Policy Releases · Monetary Policy Measures · Outlook for Economic Activity and Prices · Reports to ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "sublinks": [
+                    {
+                      "title": "Outline of Monetary",
+                      "url": "https://www.boj.or.jp/en/mopo/outline/index.htm"
+                    },
+                    {
+                      "title": "Monetary Policy Releases",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm"
+                    },
+                    {
+                      "title": "Review of Monetary Policy...",
+                      "url": "https://www.boj.or.jp/en/mopo/outline/bpreview/index.htm"
+                    },
+                    {
+                      "title": "Price Stability Target of 2 Percent",
+                      "url": "https://www.boj.or.jp/en/mopo/outline/target.htm"
+                    },
+                    {
+                      "title": "Meetings",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+                    },
+                    {
+                      "title": "Summary of Opinions",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2025/index.htm"
+                    },
+                    {
+                      "title": "Outlook for Economic Activity",
+                      "url": "https://www.boj.or.jp/en/mopo/outlook/index.htm"
+                    }
+                  ],
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outline/bpreview/index.htm",
+                  "title": "Review of Monetary Policy from a Broad Perspective - 日本銀行",
+                  "text": "In the Review, the Bank assessed the effects of various unconventional monetary policy measures implemented over the past 25 years in the context of ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+                  "title": "Monetary Policy Meetings : 日本銀行 Bank of Japan",
+                  "text": "Monetary Policy Meetings · Statements on Monetary Policy List by Year · Summary of Opinions at the Monetary Policy Meetings List by Year · Minutes of the Monetary ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/education/oshiete/seisaku/index.htm",
+                  "title": "Price Stability and Monetary Policy : 日本銀行 Bank of Japan",
+                  "text": "Price Stability and Monetary Policy. What is monetary policy and how is it carried out in Japan? How does monetary policy affect economic activity and prices?",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/r_menu_ron/index.htm",
+                  "title": "List of Research Papers Related to Monetary Policy - 日本銀行",
+                  "text": "List of Research Papers Related to Monetary Policy ; Uncertainty in the Formation of Inflation Expectations in Japan: An Analysis Using the Macroeconomic Model Q ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/press/koen_2024/data/ko240208a1.pdf",
+                  "title": "Japan's Economy and Monetary Policy",
+                  "text": "This means that an accommodative monetary policy is needed to lift inflation expectations further and to be mindful of the risk that they would ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2024-02-08T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k241219b.pdf",
+                  "title": "Review of Monetary Policy from a Broad Perspective",
+                  "text": "The Bank will continue to conduct monetary policy as appropriate toward achieving the price stability target in a sustainable and stable manner, ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2024-12-19T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/measures/index.htm",
+                  "title": "Monetary Policy Measures : 日本銀行 Bank of Japan",
+                  "text": "Outline of Monetary Policy, Price Stability Target of 2 Percent, Review of Monetary Policy from a Broad Perspective",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b28.htm",
+                  "title": "How does monetary policy affect economic activity and prices?",
+                  "text": "In general, the effects of monetary policy on economic activity, through a decline or a rise in (real) interest rates, are as follows.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:boj.or.jp/en/ \"monetary policy\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0446932315826416
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ downloads",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/note/faqlong.htm",
+                  "title": "How to Download Long-Term Time-Series Data Files - 日本銀行",
+                  "text": "How to download data. Single-click the right mouse button on a text file name, and a menu will appear. From this menu, select the command that will save the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/bond/ryudo.pdf",
+                  "title": "Liquidity Indicators in the JGB Markets (May)",
+                  "text": "JGB Futures Market. Chart 1: Transaction Volume and Bid-ask Spreads. Chart 2: Market Depth and Resiliency. JGB Cash Market.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-06-27T00:00:00",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/bond/bond_list/bond2502.pdf",
+                  "title": "Bond Market Survey (February 2025)",
+                  "text": "Bond Market Functioning（Answer the following questions considering the secondary JGB market.） (1) The degree of bond market functioning from ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-02-03T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/bond/bond_list/bond2505.pdf",
+                  "title": "Bond Market Survey (May 2025)",
+                  "text": "Bond Market Functioning（Answer the following questions considering the secondary JGB market.） (1) The degree of bond market functioning from ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-19T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2501.pdf",
+                  "title": "Monthly Report on the Corporate Goods Price Index(January 2025)",
+                  "text": "2023/ Dec. 0.3. 0.3. 0.3. -2.6. 5.6. -0.2. 1.2. -3.2. -5.0. -0.2. -9.6. -3.9. 2024/ Jan. 0.1. 0.3. 0.1. 1.3. 9.2. 0.2. 1.4. 0.6. -0.1. -0.8. -8.7. 1.7. Feb.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2502.pdf",
+                  "title": "Monthly Report on the Services Producer Price Index (February 2025)",
+                  "text": "＋: Software development. 0.02. 1.6. 1.8 Custom software (except Embedded software). ＋: 0.02. 2.8. 3.1. ＋: Leasing. 0.02. 3.0. 3.5. Leasing of computer and ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/rev_2025/data/rev25e01.pdf",
+                  "title": "The Bank of Japan's Finances and Simulations for Profits and Capital",
+                  "text": "Given that unconventional monetary policies accompanied by large-scale balance sheet expansions have the potential to have a large impact on central.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2501.pdf",
+                  "title": "Monthly Report on the Services Producer Price Index (January 2025)",
+                  "text": "2023/ Dec. 106.0. 2.7. 0.1. 105.6. 2.8. 0.1. 2024/ Jan. 105.3. 2.4. -0.7. 104.9. 2.4. -0.7. Feb. 105.5. 2.3. 0.2. 105.2. 2.4. 0.3. Mar. 106.4.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2503.pdf",
+                  "title": "Monthly Report on the Corporate Goods Price Index(March 2025)",
+                  "text": "2024/ Feb. 0.2. 0.7. 0.2. 1.3. 9.1. 0.2. 1.2. 1.3. 0.4. -0.1. -8.2. 1.9. Mar. 0.3. 0.9. 0.3. 0.7. 9.0. 0.5. 1.4. -0.2. 1.7. -0.3. -6.5. 0.1. Apr.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2502.pdf",
+                  "title": "Monthly Report on the Corporate Goods Price Index(February 2025)",
+                  "text": "2024/ Jan. 0.1. 0.3. 0.1. 1.3. 9.2. 0.2. 1.4. 0.6. -0.1. -0.8. -8.7. 1.7. Feb. 0.2. 0.7. 0.2. 1.3. 9.1. 0.2. 1.2. 1.3. 0.4. -0.1. -8.2. 1.9. Mar.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Downloads games",
+              "Downloads Play Store",
+              "Play Store",
+              "Play Store app",
+              "Downloads Windows 11",
+              "Downloads Delta"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ downloads"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0007350444793701
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"document library\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/about/outline/data/foboj09.pdf",
+                  "title": "Functions and Operations of the Bank of Japan",
+                  "text": "The documents and records collected in an archive are considered to be of historical, cultural, or academic importance. The documents to be entrusted to an ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/organization/chart.pdf",
+                  "title": "chart.pdf",
+                  "text": "(1) Conducts public relations activities; (2) provides support for the promotion of financial and economic education; and (3) administers the Bank's library.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2025/data/wp25e02.pdf",
+                  "title": "Measuring Policy Effects since the Introduction of Quantitative and ...",
+                  "text": "Papers in the Bank of Japan Working Paper Series are circulated to stimulate discussion and comment. Views expressed are those of the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-02-02T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/statistics/outline/exp/data/exbpsm6.pdf",
+                  "title": "Japan's Balance of Payments Related Statistics: Methodologies by Item",
+                  "text": "The balance of payments (BOP) related statistics show the economic relationships between Japan and the rest of the world, comprising the BOP, ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/activities/act/ar2022.htm",
+                  "title": "Annual Review 2022 : 日本銀行 Bank of Japan",
+                  "text": "The Annual Review 2022 provides an overview of the Bank of Japan's organization and business operations, a review of its implementation of business operations ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2022-08-31T00:00:00",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/outline/data/foboj04.pdf",
+                  "title": "Functions and Operations of the Bank of Japan",
+                  "text": "Bank's library; and (3) works toward raising the public's awareness and understanding of financial and economic issues. Chapter II. Personnel and. Corporate.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/market/sg/rfr1603c.pdf",
+                  "title": "Public Consultation on Identification and Use of a Japanese Yen Risk ...",
+                  "text": "Summary. Following the cases of attempted LIBOR manipulation that became apparent in the summer of 2012, the Financial Stability Board (FSB) ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2016-03-01T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.imes.boj.or.jp/en/conference/cbrc/cbrc-03.pdf",
+                  "title": "Contagion Risk in Banking",
+                  "text": "Although the bank run literature provides explanations for runs on individual banks, it does not explain why depositors at many banks withdraw their deposits.",
+                  "favicon": "data:image/png;base64,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",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/activities/act/data/ar2024.pdf",
+                  "title": "ANNUAL REVIEW 2024 | Bank of Japan",
+                  "text": "The Bank of Japan has two missions, to achieve price stability and ensure the stability of the financial system. Regarding the former, the ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2024-05-14T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/finsys/c_aft/data/fsc0608be7.pdf",
+                  "title": "World-wide Trends in Scenario Analysis",
+                  "text": "▫ Development of a Scenario Library: ◇ Set of standardised scenarios. ◇ Methodology for developing, assessing and measuring scenarios. ◇ Set of granular ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Document library online",
+              "Document library free",
+              "Document library pdf",
+              "Document library download",
+              "Document library examples"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ \"document library\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0844438076019287
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"economic outlook\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+                  "title": "Outlook for Economic Activity and Prices (April 2025)",
+                  "text": "The real GDP growth rates are compiled by the IMF, and the rates from 2025 onward are its projections in the April 2025 World. Economic Outlook ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-04-30T00:00:00",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outlook/gor2501b.pdf",
+                  "title": "Outlook for Economic Activity and Prices (January 2025)",
+                  "text": "Japan's economy is likely to keep growing at a pace above its potential growth rate, with overseas economies continuing to grow moderately ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-01-27T00:00:00",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outlook/gor2404b.pdf",
+                  "title": "Outlook for Economic Activity and Prices (April 2024)",
+                  "text": "The real GDP growth rates are compiled by the IMF, and the rates from 2024 onward are its projections in the April 2024 World. Economic Outlook ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2024-04-30T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outlook/gor2407b.pdf",
+                  "title": "Outlook for Economic Activity and Prices (July 2024)",
+                  "text": "The real GDP growth rates are compiled by the IMF, and the rates from 2024 onward are its projections in the April 2024 World. Economic Outlook ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2024-07-30T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/outlook/gor2410b.pdf",
+                  "title": "Outlook for Economic Activity and Prices (October 2024)",
+                  "text": "Japan's economy is likely to keep growing at a pace above its potential growth rate, with overseas economies continuing to grow moderately ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2024-10-30T00:00:00",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250723a1.pdf",
+                  "title": "Japan's Economy and Monetary Policy",
+                  "text": "Notes: 1. In the left-hand chart, \"April 2025 projection\" shows the IMF's \"reference forecast\" in the April 2025 World Economic Outlook (WEO).",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 6
+                }
+              ]
+            },
+            "related": [
+              "Economic outlook 2025",
+              "Economic outlook 2030",
+              "Economic outlook 2021",
+              "Economic outlook 2022"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ \"economic outlook\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.7070038318634033
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"financial system report\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/fsr/index.htm",
+                  "title": "Financial System Report : 日本銀行 Bank of Japan",
+                  "text": "The Financial System Report has been renewed by integrating the two semiannual reports -- the Financial System Report and the Financial Markets Report.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "sublinks": [
+                    {
+                      "title": "Financial System Report (April...",
+                      "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm"
+                    },
+                    {
+                      "title": "Research and Studies",
+                      "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr241024.htm"
+                    },
+                    {
+                      "title": "Financial System Report...",
+                      "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr171023.htm"
+                    },
+                    {
+                      "title": "Financial Results of Japan's...",
+                      "url": "https://www.boj.or.jp/en/research/brp/fsr/fsrb240913.htm"
+                    },
+                    {
+                      "title": "Use and Risk Management of...",
+                      "url": "https://www.boj.or.jp/en/research/brp/fsr/fsrb241029.htm"
+                    }
+                  ],
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/finsys/fsr/index.htm",
+                  "title": "Financial System Report : 日本銀行 Bank of Japan",
+                  "text": "Financial System Report, Market Operations in Each Fiscal Year, Payment and Settlement Systems Report, Regional Economic Report",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr250423.htm",
+                  "title": "Financial System Report (April 2025) : 日本銀行 Bank of Japan",
+                  "text": "Financial System Report (April 2025). April 23, 2025. Bank of Japan. Full text [PDF 3,131KB] · Summary [PDF 624KB]. Motivations behind the April 2025 issue.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/fsr/data/fsr250423a.pdf",
+                  "title": "April 2025 - Financial System Report",
+                  "text": "Objectives of the Financial System Report. The Bank of Japan's Financial System Report has two main objectives. The first is to assess the.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2025-04-23T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm",
+                  "title": "Financial System Report (April 2024) : 日本銀行 Bank of Japan",
+                  "text": "Financial System Report (April 2024). April 18, 2024. Bank of Japan. Full text [PDF 1,997KB] · Summary [PDF 732KB]. Motivations behind the April 2024 issue.",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                }
+              ]
+            },
+            "related": [
+              "Financial system report pdf",
+              "Financial system report 2021",
+              "Financial system report 2022"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ \"financial system report\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0418522357940674
+        }
+      }
+    },
+    {
+      "query": "site:boj.or.jp/en/ \"policy statements\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+                  "title": "Monetary Policy Meetings : 日本銀行 Bank of Japan",
+                  "text": "A list of scheduled dates of the meetings; policy statements; minutes of the meetings; and the Outlook for Economic Activity and Prices (the Outlook Report).",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "sublinks": [
+                    {
+                      "title": "Past Monetary Policy Meetings",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/past.htm"
+                    },
+                    {
+                      "title": "List by Year",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_all/index.htm"
+                    },
+                    {
+                      "title": "Minutes",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2025/index.htm"
+                    },
+                    {
+                      "title": "2024",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2024/index.htm"
+                    },
+                    {
+                      "title": "Summary of Opinions",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2024/index.htm"
+                    },
+                    {
+                      "title": "2023",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2023/index.htm"
+                    },
+                    {
+                      "title": "2022",
+                      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2022/index.htm"
+                    }
+                  ],
+                  "position": 1
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/past.htm",
+                  "title": "Past Monetary Policy Meetings : 日本銀行 Bank of Japan",
+                  "text": "A list of past dates of the meetings; policy statements; minutes of the meetings; and the Outlook for Economic Activity and Prices (the Outlook Report).",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/paym/outline/pay_os/set1003a.pdf",
+                  "title": "Policy on oversight of off-shore yen payment systems",
+                  "text": "The Bank will not respond individually to each comment. 1 Details on the Bank's requests for comments on the two policy statements are available ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "published_time": "2010-03-19T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e23.pdf",
+                  "title": "Japan's Unconventional Monetary Policy and the Exchange Rate ...",
+                  "text": "... policy statements released immediately after the meetings. In particular, since the specific measures of unconventional policies tend to be ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e14.pdf",
+                  "title": "Central Bank Mandates and Communication about Climate ...",
+                  "text": "cation through monetary policy statements and speeches. Examples include: Hansen, McMahon, and Prat. (2018); Armelius, et al. (2020); Hansson ...",
+                  "source": "日本銀行ホームページ",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                  "position": 5
+                }
+              ]
+            },
+            "related": [
+              "Types of policy statements",
+              "Policy statements pdf",
+              "List of policy statements"
+            ],
+            "query": {
+              "q": "site:boj.or.jp/en/ \"policy statements\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.33812379837036133
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1656 @@
+{
+  "Bank Name": "Bank of Finland",
+  "search_results": [
+    {
+      "query": "site:suomenpankki.fi/en/ publications",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/",
+                  "title": "Publications - Suomen Pankki",
+                  "text": "Research papers are published in our BOFIT Discussion Papers series, while topics of current interest are addressed in the BOFIT Policy Brief series. BOFIT blog ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/selected-research/",
+                  "title": "Research publication - Suomen Pankki",
+                  "text": "The Bank of Finland aims to have the results of its research activities published in international peer-reviewed journals.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/money-and-payments/payment-and-settlement-system-simulator/publications/",
+                  "title": "Publications - Suomen Pankki",
+                  "text": "Here is a list of relevant publications making use of the simulator. Bank Of Finland publications with BOF-PSS. Korpinen and Laine: Measuring counterparty risk ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/",
+                  "title": "Research publications - Suomen Pankki",
+                  "text": "Research papers published in non-refereed scientific publications are listed under Other research publications. The Bank of Finland aims to have the results of ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/other-publications/",
+                  "title": "Other publications - Suomen Pankki",
+                  "text": "Other publications · The First Euros · Bank of Finland 200 years history book · From piece of paper to banknote · Bank of Finland 200th anniversary – art ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/statistical-publications/",
+                  "title": "Statistical publications - Suomen Pankki",
+                  "text": "The statistical publications released y the Bank of Finland are mainly posted on the Statistics website where statistics are available by subject area both ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/other-research-publications/",
+                  "title": "Other research publications - Suomen Pankki",
+                  "text": "Research papers written at the Bank of Finland appear continuously in external series and other scientific publications, without formal peer review.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/",
+                  "title": "ECB publications - Suomen Pankki",
+                  "text": "ECB's Annual Report. The European Central Bank and its predecessor, the European Monetary Institute (EMI), have published annual reports since 1994.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/studies-and-reports/",
+                  "title": "Studies and reports - Bank of Finland - Suomen Pankki",
+                  "text": "Expository studies (previously A Series) are pragmatic publications, which cover financial issues that are, for example, monetary policy, financial stability, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/annual-report/",
+                  "title": "Annual Report - Suomen Pankki",
+                  "text": "The Bank of Finland has been publishing its Annual Report since 1914, making it the oldest of our publications. The Annual Report is published in Finnish, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ publications"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0127665996551514
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ reports",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/studies-and-reports/",
+                  "title": "Studies and reports - Bank of Finland - Suomen Pankki",
+                  "text": "In addition to research publications, the Bank of Finland publishes a variety of different studies and reports. These publications do not meet the criteria set ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/",
+                  "title": "Annual Report - Suomen Pankki",
+                  "text": "The European Central Bank and its predecessor, the European Monetary Institute (EMI), have published annual reports since 1994. The ECB Annual Report is ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/to-the-reporter/reform-of-the-reporting-system/",
+                  "title": "Reform of the Reporting System - Suomen Pankki",
+                  "text": "The reform of the reporting system concerns all Bank of Finland statistical data collections. The data collections have been migrated to the new platform ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/annual-report/",
+                  "title": "Annual Report - Suomen Pankki",
+                  "text": "In our Annual Report, we present details of the previous year's activities. The Bank of Finland has been publishing its Annual Report since 1914, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/our-strategy/international-cooperation/imf-reports-and-statements/",
+                  "title": "International Monetary Fund reports and statements - Suomen Pankki",
+                  "text": "International Monetary Fund reports and statements. Views and Positions on Policy Developments in the International Monetary Fund: ONBC Annual Report 2020 ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2024/ecb-annual-report-2023/",
+                  "title": "ECB Annual Report 2023 - Suomen Pankki",
+                  "text": "Annual Report · Data Balance Sheet · Studies and reports · Expository studies. Statistical publications · International Reserves and Foreign Currency Liquidity.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/news/2025/vastuullisen-sijoittamisen-vuosiraportti-2024-on-julkaistu/",
+                  "title": "Bank of Finland's Annual Report on Responsible Investment 2024 has ...",
+                  "text": "The report discusses, among other things, the climate impacts of the Bank of Finland's own investment assets and also, for the first time, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-06-24T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/to-the-reporter/reform-of-the-reporting-system/faq/",
+                  "title": "Frequently asked questions about the reform of the reporting system",
+                  "text": "Old reports will not be transferred to the new system. In case a reporter needs their old reports submitted via DCS2, they can be sent at request. Is it ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2025/",
+                  "title": "2025",
+                  "text": "Annual Report · Data Balance Sheet · Studies and reports · Expository studies. Statistical publications · International Reserves and Foreign Currency Liquidity.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/financial-stability-assessment/",
+                  "title": "Financial stability assessment - Suomen Pankki",
+                  "text": "Annual Report · Data Balance Sheet · Studies and reports · Expository studies. Statistical publications · International Reserves and Foreign Currency Liquidity.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ reports"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3618779182434082
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ research",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/research/",
+                  "title": "Research - Suomen Pankki",
+                  "text": "The aim is to produce scientifically high-level research and to support the preparation of monetary policy and macroprudential analysis. The Bank's research ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/research/research-unit/",
+                  "title": "Research Unit - Suomen Pankki",
+                  "text": "Research Unit, Telephone: +358 9 1831, Mailing address: PO Box 160, 00101 Helsinki, Finland, E-mail: research (at) bof.fi",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/selected-research/",
+                  "title": "Research publication - Suomen Pankki",
+                  "text": "The Bank of Finland aims to have the results of its research activities published in international peer-reviewed journals.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/research/research-evaluation/",
+                  "title": "Research evaluation - Suomen Pankki",
+                  "text": "The report evaluates both the scientific quality of the research and its importance from the point of view of the Bank's objectives. It also ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/",
+                  "title": "Research publications - Suomen Pankki",
+                  "text": "Research papers published in non-refereed scientific publications are listed under Other research publications. The Bank of Finland aims to have the results of ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/monetary-policy-and-research/",
+                  "title": "Monetary Policy and Research - Suomen Pankki",
+                  "text": "The Monetary Policy and Research Department is responsible for the national-level preparatory work that enables the Bank of Finland to participate in ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/discussion-papers/",
+                  "title": "Bank of Finland Research Discussion Papers",
+                  "text": "Bank of Finland Research Discussion Papers · Nowcasting in real time : large Bayesian vector autoregression in a test · Geopolitical surprises and macroeconomic ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/research/research-unit/research-fellow/",
+                  "title": "Research Unit Research Fellows - Suomen Pankki",
+                  "text": "Research Unit Research Fellows ; Andrea Ferrero, University of Oxford, Research Fellow ; George Pennacchi, University of Illinois, Research Fellow ; Fabio Canova.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/research/visiting-programmes/research-unit-visiting-scholars-programme/",
+                  "title": "Bank of Finland Research Unit Visiting Scholars Programme",
+                  "text": "The Bank of Finland's Research Unit invites applications for the Visiting Scholars Programme in the areas of interest for the Bank.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-10-06T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/research/seminars-and-conferences/",
+                  "title": "Seminars and conferences - Suomen Pankki",
+                  "text": "The Bank of Finland regularly organises scientific conferences, workshops and research seminars, some of which are arranged together with other organisations.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ research"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0285325050354004
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ \"working papers\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/other-research-publications/",
+                  "title": "Other research publications - Suomen Pankki",
+                  "text": "CESifo Working Papers 2650, May 2009. Maritta Paloviita Acerca de la ... CESifo Working Papers 2710, July 2009. Iikka Korhonen – Paul Wachtel",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/markus-haavio/",
+                  "title": "Markus Haavio - Suomen Pankki",
+                  "text": "CESifo Working Papers. The political economy of sin taxes (1.7.2009). Markus Haavio; Kaisa Kotakorpi. CESifo Working Papers. The political economy of sin ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/maritta-paloviita/",
+                  "title": "Maritta Paloviita - Suomen Pankki",
+                  "text": "Working Papers. Human Frictions in the Transmission of Economic Policy (20.7.2018). Maritta Paloviita. Karlsruhe Institute of Technology. Scientific Working ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2024/governor-olli-rehn-price-dynamics/",
+                  "title": "Governor Olli Rehn: Price dynamics - Suomen Pankki",
+                  "text": "\"Benefits of gradualism or costs of inaction? Monetary policy in times of uncertainty,\" Economic working papers No. 1205, Bank of Italy.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/adam-gulan/",
+                  "title": "Adam Gulan - Suomen Pankki",
+                  "text": "NBER Working Papers. American Economic Journal: Macroeconomics, referee B.E. Journal of Macroeconomics, referee. International Economic Review, referee",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/essi-eerola/",
+                  "title": "Essi Eerola - Suomen Pankki",
+                  "text": "CESifo Working Papers. Julkisesti tuetun asuntotuotannon merkitys ja kehittäminen 2020-luvulla (13.3.2024). Essi Eerola; Markus Lahtinen; Matti Kuronen ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/iikka-korhonen/",
+                  "title": "Iikka Korhonen - Suomen Pankki",
+                  "text": "CESifo Working Papers. Russia's economic situation and long-term growth prospects (22.11.2021). Panelist in \"Structural changes caused by the covid pandemic ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/tuomas-takalo/",
+                  "title": "Tuomas Takalo - Suomen Pankki",
+                  "text": "VATT Working Papers. Welfare Effects of R&D Support Policies (18.7.2017). Tuomas Takalo; Tanja Tanayama; Otto Toivanen. CEPR Discussion Paper. IPR-boksi ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ \"working papers\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.34245753288269043
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ \"discussion papers\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/discussion-papers/",
+                  "title": "Bank of Finland Research Discussion Papers",
+                  "text": "Bank of Finland Research Discussion Papers are published in English and include an abstract in Finnish. They are published online in PDF format.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/",
+                  "title": "Research publications - Suomen Pankki",
+                  "text": "Research reports on the Bank of Finland's key areas of research are published as discussion papers. Bank of Finland Research Discussion Papers · BOFIT ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/selected-research/",
+                  "title": "Research publication - Suomen Pankki",
+                  "text": "Bank of Finland Research Discussion Papers · BOFIT Discussion Papers · BoF Economics Review · Scientific monographs · BOFIT Policy Brief · research publication.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/blog-posts-and-articles/",
+                  "title": "Blog posts and articles - Suomen Pankki",
+                  "text": "Bank of Finland Research Discussion Papers · BoF Economics Review · Scientific monographs · Other research publications · Forecast for the Finnish economy.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/",
+                  "title": "Publications - Suomen Pankki",
+                  "text": "Research papers are published in our BOFIT Discussion Papers series, while topics of current interest are addressed in the BOFIT Policy Brief series. BOFIT ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/risto-ronkko/",
+                  "title": "Risto Rönkkö - Suomen Pankki",
+                  "text": "BOFIT Discussion Papers. The renminbi's global role as an anchor currency is still negligible (10.1.2025). Risto Rönkkö; Kari Heimonen. SUERF Policy Brief ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/bof-economics-review/",
+                  "title": "BoF Economics Review - Suomen Pankki",
+                  "text": "Bank of Finland Research Discussion Papers · BoF Economics Review · Scientific monographs · Other research publications · Forecast for the Finnish economy.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/",
+                  "title": "ECB publications - Suomen Pankki",
+                  "text": "Bank of Finland Research Discussion Papers · BoF Economics Review · Scientific monographs · Other research publications · Forecast for the Finnish economy.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2025/securing-europes-future-financial-resilience-and-strategic-investment/",
+                  "title": "Securing Europe's Future: Financial Resilience and Strategic Investment",
+                  "text": "Bank of Finland Research Discussion Papers · BoF Economics Review · Scientific monographs · Other research publications · Forecast for the ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-06-27T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/monetary-policy-review/",
+                  "title": "Monetary policy review - Suomen Pankki",
+                  "text": "Bank of Finland Research Discussion Papers · BoF Economics Review · Scientific monographs · Other research publications · Forecast for the Finnish economy.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ \"discussion papers\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9962265491485596
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ \"press releases\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/",
+                  "title": "Press releases and news - Suomen Pankki",
+                  "text": "Press releases and news. You can subscribe to receive the Bank of Finland's press releases by email from the Finnish News Agency STT's Bank of Finland newsroom.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/media/",
+                  "title": "Media - Suomen Pankki",
+                  "text": "We publish press releases and news items concerning decisions made, analyses presented and views expressed. Press releases are published in Finnish, Swedish and ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/risks-to-financial-stability-are-growing-due-to-global-power-politics/",
+                  "title": "Risks to financial stability are growing due to global power politics",
+                  "text": "Press releases and news · Releases · News · Speeches and interviews · Opinions · Decisions by the ECB's Governing Council · Events.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-21T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/news/",
+                  "title": "News - Suomen Pankki",
+                  "text": "Under News the Bank of Finland also publishes ECB's press releases on key decisions of the ECB Governing Council, in Finnish and Swedish.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/interest-paid-on-central-bank-deposits-weakened-bank-of-finlands-operating-profit-as-in-previous-year/",
+                  "title": "Interest paid on central bank deposits weakened Bank of Finland's ...",
+                  "text": "Press releases and news · Releases · News · Speeches and interviews · Opinions · Decisions by the ECB's Governing Council · Events.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-03-28T00:00:00",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/to-the-reporter/reform-of-the-reporting-system/releases/",
+                  "title": "Releases on the Reform of the reporting system - Suomen Pankki",
+                  "text": "Press releases and news · Releases · News · Speeches and interviews · Opinions · Decisions by the ECB's Governing Council · Events · Participation in events.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/ecb-launches-design-contest-for-future-euro-banknotes/",
+                  "title": "ECB launches design contest for future euro banknotes",
+                  "text": "Press releases and news · Releases · News · Speeches and interviews · Opinions · Decisions by the ECB's Governing Council · Events.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-07-15T05:37:06.823386",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/a-finnish-instant-payment-solution-would-improve-resilience-and-consumer-choice/",
+                  "title": "A Finnish instant payment solution would improve resilience and ...",
+                  "text": "Press releases and news · Releases · News · Speeches and interviews · Opinions · Decisions by the ECB's Governing Council · Events.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-08T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/",
+                  "title": "News and topical - Suomen Pankki",
+                  "text": "On our website we publish press releases, news and speeches regarding the activities and decisions of the Bank of Finland and the Eurosystem.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2024/",
+                  "title": "2024 - Suomen Pankki",
+                  "text": "Press releases and news · Releases · News · Speeches and interviews · Opinions ... Press releases and news · Releases. Share page. Suomeksi · På svenska · In ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Press releases today",
+              "Latest press releases"
+            ],
+            "query": {
+              "q": "site:suomenpankki.fi/en/ \"press releases\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.7011005878448486
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ news",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/",
+                  "title": "Press releases and news - Suomen Pankki",
+                  "text": "Press releases and news · ECB launches design contest for future euro banknotes · Marja Nykänen appointed as Co-Chair of Financial Stability Board's Regional ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/news/",
+                  "title": "News - Suomen Pankki",
+                  "text": "Under News the Bank of Finland also publishes ECB's press releases on key decisions of the ECB Governing Council, in Finnish and Swedish.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/a-finnish-instant-payment-solution-would-improve-resilience-and-consumer-choice/",
+                  "title": "A Finnish instant payment solution would improve resilience and ...",
+                  "text": "An instant payment solution based on real-time credit transfers would enhance our ability to govern the systems used in making payments and ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-08T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/risks-to-financial-stability-are-growing-due-to-global-power-politics/",
+                  "title": "Risks to financial stability are growing due to global power politics",
+                  "text": "Finland's financial system has remained stable, but the threats posed to it have grown and are now largely from outside our borders.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-21T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/",
+                  "title": "News and topical - Suomen Pankki",
+                  "text": "On our website we publish press releases, news and speeches regarding the activities and decisions of the Bank of Finland and the Eurosystem.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2025/the-european-economy-in-the-new-landscape-of-power-politics-and-trade-protectionism/",
+                  "title": "The European Economy in the New Landscape of Power Politics and ...",
+                  "text": "Good news from Europe is that inflation in the euro area is stabilising at the ECB's 2% target. Disinflation is well on track. Economists ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-04-24T00:00:00",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/statistical-news/",
+                  "title": "Statistical news - Suomen Pankki",
+                  "text": "'Statistical news' is published regularly for each subject area. The 'Publication calendar' provides information on future publications.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2025/governor-olli-rehn-interview-in-suddeutsche-zeitung-30-june-2025/",
+                  "title": "Governor Olli Rehn: Interview in Süddeutsche Zeitung, 30 June 2025",
+                  "text": "Governor Olli Rehn's interview on the question of whether the fight against inflation has already been won and what he expects from the new German government.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-06-30T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2025/securing-europes-future-financial-resilience-and-strategic-investment/",
+                  "title": "Securing Europe's Future: Financial Resilience and Strategic Investment",
+                  "text": "Governor Olli Rehn spoke about Europe's future, financial resilience and strategic investment in the 10th RiskLab Finland, Bank of Finland ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-06-27T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2025/europe-at-the-crossroads-common-defence-re-emerging-economy/",
+                  "title": "Europe at the crossroads: common defence, re-emerging economy?",
+                  "text": "Governor Olli Rehn gave a speech at the Bank of Finland and Bruegel Europe Day Conference in Helsinki on 9 May 2025.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-09T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ news"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0470800399780273
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ statistics",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/",
+                  "title": "Statistics - Suomen Pankki",
+                  "text": "The Bank of Finland attends to users' information needs by actively developing statistics and ensuring their up-to-dateness and coverage.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/to-the-reporter/payment-statistics/",
+                  "title": "Payment statistics - Suomen Pankki",
+                  "text": "Statistical data on payments transmission is collected from service providers and payment systems operators. The collection of this data is important for ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/statistics-info/",
+                  "title": "Statistics info - Suomen Pankki",
+                  "text": "The 'Statistics info' section contains statistical descriptions and methods as well as up-to-date information on the use of statistics. The background ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/financial-stability-and-statistics/",
+                  "title": "Financial Stability and Statistics - Suomen Pankki",
+                  "text": "The Financial Statistics division is responsible for the collection of data needed for the compilation of financial statistics, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/securities-statistics/",
+                  "title": "Securities statistics - Suomen Pankki",
+                  "text": "This section contains statistics on Finnish share markets, benchmark government bond issues and secondary market transactions, as well as bond issues and ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/statistical-news/peer-to-peer-and-crowdfunding/2025/volume-of-crowdfunding-decreased-significantly-from-the-previous-year-in-2024/",
+                  "title": "Volume of crowdfunding decreased significantly from the previous year ...",
+                  "text": "In 2024, the volume of crowdfunding and peer-to-peer (P2P) loans raised by domestic seekers of finance amounted to EUR 23.8 million.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-04-11T00:00:00",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/",
+                  "title": "Data and charts - Suomen Pankki",
+                  "text": "Statistics. Bank of Finland. Banks (monetary financial institutions). Other financial institutions. Invesment funds. Private equity funds.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/dashboards/cash-statistics/kuluttajakysely/",
+                  "title": "Consumer survey on payment methods and cash - Suomen Pankki",
+                  "text": "The Bank of Finland analyses the use of cash and other payment methods by consumers through an annual consumer survey.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/statistical-news/payments/2024/customers-made-more-contactless-payments-than-before-in-julyseptember-2024/",
+                  "title": "Customers made more contactless payments than before in July ...",
+                  "text": "The customers of Finnish banks and payment institutions made a total of 663 million card payments in the period from July–September2024, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-12-16T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/to-the-reporter/security-statistics/",
+                  "title": "Security statistics - Suomen Pankki",
+                  "text": "This data is used in statistics on securities holdings and issuances, financial accounts and balance of payments. The data can also be used in the Bank of ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Statistics book",
+              "Statistics for Dummies"
+            ],
+            "query": {
+              "q": "site:suomenpankki.fi/en/ statistics"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0841155052185059
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ data",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/open-data/",
+                  "title": "Open data - Suomen Pankki",
+                  "text": "The open data portal is a joint collection of open application programming interfaces (APIs) from the Bank of Finland and the FIN-FSA.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/data-balance-sheet/",
+                  "title": "Data Balance Sheet - Suomen Pankki",
+                  "text": "The Data Balance Sheet serves as a key component of the Bank of Finland's reporting on information management. It presents more extensive information than ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/",
+                  "title": "Data and charts - Suomen Pankki",
+                  "text": "Data and charts. Filter: Loans, Loans, Housing loans, Consumer credit, Student loans, Loans for holiday residences, Loans to non-financial corporations.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/contacts/open-data-service/",
+                  "title": "Open Data Service - Suomen Pankki",
+                  "text": "Here you will find machine-readable datasets made available by the Bank of Finland's and Financial Supervisory Authority's departments.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/statistics-info/statistical-descriptions-and-methods/sdds/",
+                  "title": "SDDS +: Economic and Financial Data for Finland - Suomen Pankki",
+                  "text": "Data presented on this website, including links to the SDDS Plus data, correspond to the data described on the International Monetary Fund's Dissemination ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/statistics-info/whats_new/2024/about-the-reformed-website-and-open-data-services/",
+                  "title": "About the reformed website and open data services - Suomen Pankki",
+                  "text": "The Bank of Finland has reformed its website to make it more modern and easier to use. We have added a separate page for open data on the ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-12-17T00:00:00",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/data-protection/",
+                  "title": "Data protection - Suomen Pankki",
+                  "text": "Data protection means taking requirements for personal data processing into account in order to safeguard the rights of private individuals when collecting ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/",
+                  "title": "Statistics - Suomen Pankki",
+                  "text": "In the first quarter of 2025, the value of card payments by Finnish payment service providers' customers totalled EUR 17.1 billion. Almost a third of this ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/to-the-reporter/payment-and-fraud-data/",
+                  "title": "Payment and fraud data - Suomen Pankki",
+                  "text": "Bank of Finland collects payment and fraud data from domestic credit and payment institutions and foreign credit and payment institutions' ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2023-06-19T00:00:00",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/news/2025/bank-of-finland-data-balance-sheet-2024-published/",
+                  "title": "Bank of Finland Data Balance Sheet 2024 published - Suomen Pankki",
+                  "text": "The Data Balance Sheet is a dive into the Bank of Finland's data and technology. The latest publication contains 21 articles and a summary of the Data Balance ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-04-15T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Louis vuitton data breach",
+              "Mobile data"
+            ],
+            "query": {
+              "q": "site:suomenpankki.fi/en/ data"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.6822159290313721
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ bulletin",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/economic-bulletin/",
+                  "title": "Economic Bulletin - Suomen Pankki",
+                  "text": "The Economic Bulletin is one of the European Central Bank's (ECB) key publications for analysing economic developments in the euro area and explaining the ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/bank-of-finland/2021/bank-of-finland-press-conference-on-financial-stability/",
+                  "title": "Bank of Finland press conference on financial stability",
+                  "source": "Suomen Pankki",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.suomenpankki.fi&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.suomenpankki.fi/globalassets/kuvat/logot2/bof-bulletin_rgb.png",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/monetary-policy-review/",
+                  "title": "Monetary policy review",
+                  "source": "Suomen Pankki",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.suomenpankki.fi&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.suomenpankki.fi/globalassets/bof/kuvat/julkaisut/rahapolitiikkakatsaus-eurojatalous-fi-nosto-1920x1080.jpg?width=1920&height=1085&quality=80",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/money-and-payments/payment-and-settlement-system-simulator/publications/",
+                  "title": "Publications - Suomen Pankki",
+                  "text": "Here is a list of relevant publications making use of the simulator. Bank Of Finland publications with BOF-PSS",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/contacts/library/",
+                  "title": "Library - Suomen Pankki",
+                  "text": "The Bank of Finland Library is a specialist monetary library open to anyone looking for information on monetary policy, financial markets or the activities ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/blog-posts-and-articles/",
+                  "title": "Blog posts and articles - Suomen Pankki",
+                  "text": "Blog posts and articles intended for a wide audience on the outlook of the Finnish and international economy, payments, monetary policy and financial market ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/forecast-for-the-finnish-economy/",
+                  "title": "Forecast for the Finnish economy - Suomen Pankki",
+                  "text": "Forecasts on the Bank of Finland Bulletin website · You can browse the latest information published by the Bank of Finland and the Bank's various publications.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/monetary-policy-review/",
+                  "title": "Monetary policy review - Suomen Pankki",
+                  "text": "In the monetary policy review, we look at the recent development of the euro area economy, the price stability and the analysis behind monetary policy decisions ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/",
+                  "title": "ECB publications - Suomen Pankki",
+                  "text": "Economic Bulletin. The Economic Bulletin is one of the European Central Bank's (ECB) key channels for analysing economic developments in the euro area and ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2023/board-member-tuomas-valimaki-monetary-policy-implementation-in-a-landscape-of-rising-interest-rates-and-a-shrinking-eurosystem-balance-sheet/",
+                  "title": "Monetary policy implementation in a landscape of rising interest rates ...",
+                  "text": "The Bank of Finland's Finnish equivalent to the Bulletin, Euro & talous, published today, includes three feature articles: one by Niko Herrala ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2023-09-06T00:00:00",
+                  "position": 10
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/risto-herrala/",
+                  "title": "Risto Herrala - Suomen Pankki",
+                  "text": "Economic Bulletin · Other publications · Bank of Finland 200 years – Imperial ... Bank of Finland Bulletin · Bank of Finland Museum · Financial Literacy Centre.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 11
+                }
+              ]
+            },
+            "related": [
+              "Bulletin Board",
+              "Bulletin company",
+              "Bulletin store",
+              "Bulletin wholesale",
+              "Bulletin board paper",
+              "UGA bulletin"
+            ],
+            "query": {
+              "q": "site:suomenpankki.fi/en/ bulletin"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.38018798828125
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ archive",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/contacts/documents/",
+                  "title": "Documents (Official Journal) - Suomen Pankki",
+                  "text": "Publicly available Bank of Finland documents are listed in the Official Journal. Older issues can be found in the Bank's archives.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/contacts/library/",
+                  "title": "Library - Suomen Pankki",
+                  "text": "Books can be searched for using the Library search. The search covers Bank of Finland and Financial Supervisory Authority printed publications that can be ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/interest-rates/charts/korot_kuviot_en/keskuspankkikorot_chrt_en/",
+                  "title": "Official interest rates - Suomen Pankki",
+                  "text": "(1) The minimum bid rate in the Eurosystem's main refinancing operations is also known as the ECB policy rate. (2) The rate was actually not determined from ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/exchange-rates/tables/valuuttakurssit_taulukot_en/valuuttakurssit_today_rss_en/",
+                  "title": "valuuttakurssit_today_rss_en - Suomen Pankki",
+                  "text": "The exchange rates are euro reference rates published by the ECB. These rates are prevailing market rates and they are based on teleconfernces between ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/mia-ristimaki/",
+                  "title": "Mia Ristimäki - Suomen Pankki",
+                  "text": "The library's information services include the Bank's historical archive. Twitter · LinkedIn. Unit. Information Management. E-mail. firstname.lastname@bof.fi.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/exchange-rates/tables/valuuttakurssit_taulukot_en/valuuttakurssit_today_rss_cb_en/",
+                  "title": "valuuttakurssit_today_rss_cb_en - Suomen Pankki",
+                  "text": "The exchange rates are euro reference rates published by the ECB. These rates are prevailing market rates and they are based on teleconfernces between ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/monetary-policy-instruments/tables/rapo-taulukot-en/perusrahoitusoperaatiot_en/",
+                  "title": "Eurosystem main refinancing operations - Suomen Pankki",
+                  "text": "All interest rates in the table are annual rates. In variable-rate tenders, the marginal interest rate is the interest rate for the last accepted bid. The ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/annual-report/",
+                  "title": "Annual Report - Suomen Pankki",
+                  "text": "In our Annual Report, we present details of the previous year's activities. The Bank of Finland has been publishing its Annual Report since 1914, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/ict-and-information-management-department/",
+                  "title": "ICT and Information Management Department - Suomen Pankki",
+                  "text": "The library provides the books, journals and extensive digital resources needed for research activities and other expert work within the Bank. The library's ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/data-and-charts/investment-and-private-equity-funds/tables/sira-taulukot-en/sij_rah_tuloslaskelma_rahastotyypeittain_en/",
+                  "title": "Profit and loss account items of investment funds by fund type",
+                  "text": "Capital gains. 3,265 ; Capital losses. -1,494 ; Unrealised value changes. 1,066 ; Net income from derivative contracts. -42 ; Capital gains. 260.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Archive fashion",
+              "Archive Sweatpants",
+              "Archive resale"
+            ],
+            "query": {
+              "q": "site:suomenpankki.fi/en/ archive"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0508227348327637
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ \"monetary policy\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/Monetary-policy/transmission-of-monetary-policy/",
+                  "title": "Transmission of monetary policy - Suomen Pankki",
+                  "text": "Monetary policy is transmitted to inflation and economic growth in a variety of ways. Changes in monetary policy most directly affect money market interest ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/Monetary-policy/",
+                  "title": "Monetary policy - Suomen Pankki",
+                  "text": "Monetary policy influences how much you have to pay to borrow and how much interest you receive on your savings.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/Monetary-policy/implementation-of-monetary-policy/monetary-policy-instruments/",
+                  "title": "Monetary policy instruments - Suomen Pankki",
+                  "text": "The Eurosystem conducts monetary policy through its operational framework, which includes market operations, standing facilities and the minimum reserve ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/Monetary-policy/price-stability/",
+                  "title": "Price stability - Suomen Pankki",
+                  "text": "Ensuring price stability is the best way for the Eurosystem's monetary policy to promote favourable economic conditions and high employment in the euro area.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2025/a-new-dawn-a-new-day-a-new-life-for-monetary-policy-implementation/",
+                  "title": "A new dawn, a new day, a new life for monetary policy implementation",
+                  "text": "How we implement monetary policy shapes the financial system and its infrastructure in a fundamental way. – This is a moment of opportunity.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-06-11T00:00:00",
+                  "position": 5
+                },
+                {
+                  "url": "https://x.com/martypartymusic/status/1947448745702174920",
+                  "title": "martypartymusic",
+                  "text": "U.S. TREASURY'S BESSENT SAYS FED SHOULD CONDUCT AN EXHAUSTIVE INTERNAL REVIEW OF NON-MONETARY POLICY OPERATIONS IMO: They coming for Powell. He will be forced to resign, drop rates, start QE or face legal drama.",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/1661061498905542672/vwCyhOu0_normal.jpg",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.reddit.com/r/moderatepolitics/comments/1lzr4ct/hassett_says_white_house_probing_fed_renovation/",
+                  "title": "Hassett says White House probing Fed renovation costs, authority to fire Powell",
+                  "text": "If they remove Powell and destroy the image of separation between the Fed and the executive, hold on to your butts because it will send confidence/the markets into an absolute free fall.",
+                  "source": "Reddit",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "published_time": "2025-07-16T05:37:18.673576",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.youtube.com/watch?v=dVpeRzfArdo",
+                  "title": "White House 'looking into' authority to fire fed chair",
+                  "text": "'The Big Money Show' hosts talk the Federal Reserve's handling of monetary policy and the fate of Jerome Powell's role as Fed chair.",
+                  "source": "YouTube",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "published_time": "2025-07-16T05:37:18.673640",
+                  "position": 8
+                },
+                {
+                  "url": "https://x.com/SecScottBessent/status/1947419064625688967",
+                  "title": "SecScottBessent",
+                  "text": "Today in a CNBC interview, I called for a review of the Federal Reserve. It is my belief that the central bank should conduct an exhaustive internal review of its non-monetary policy operations. Significant mission creep and institutional growth have taken the Fed into areas that",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/1889401757060444160/MDUd0e0g_normal.jpg",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.reddit.com/r/Economics/comments/1m5nkx1/treasury_secretary_bessent_calls_for_a_review_of/",
+                  "title": "Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve",
+                  "text": "Love or hate the Fed in contrast to the illogical moves the Trump admin is doing they are literally one of the last pillars that is keeping the US looking legitimate to investors among all the chaos. Yet they want to dismantle it?",
+                  "source": "Reddit",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "published_time": "2025-07-22T05:37:18.673683",
+                  "position": 10
+                },
+                {
+                  "url": "https://x.com/PeterSchiff/status/1947633963683528910",
+                  "title": "PeterSchiff",
+                  "text": "Powell blames all of the near-term inflation risk on tariffs. In truth, the overall risk results from past and present Fed monetary policy of repeated QE and keeping interest rates too low for too long, which fueled excess consumption and enabled continued government profligacy.",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/1679540487743496205/LcNCN4tX_normal.jpg",
+                  "position": 11
+                },
+                {
+                  "url": "https://www.reddit.com/r/inflation/comments/1lld47h/this_time_trumps_the_inflation_villain_not_powell/",
+                  "title": "This time, Trump's the inflation villain - not Powell!",
+                  "text": "It’s happening. Was in Home Depot yesterday to return a wrench set I had purchased and get a different set. The price of the same set just metric went up $15. One of the Rigid sales reps was right next to me, I wasn’t happy and he explained they just went through the store and adjusted prices on just about everything because of tariffs. Some BS!",
+                  "source": "Reddit",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "position": 12
+                },
+                {
+                  "url": "https://paulkrugman.substack.com/p/hawks-doves-and-lapdogs?utm_source=post-email-title&publication_id=277517&post_id=168420191&utm_campaign=email-post-title&isFreemail=true&r=2fku&triedRedirect=true&utm_medium=email",
+                  "title": "Hawks, Doves and Lapdogs",
+                  "text": "Yesterday's CPI report looked fairly tame on the surface, but if you look at the details it showed clear signs that Trump's tariffs are...",
+                  "source": "Paul Krugman | Substack",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://paulkrugman.substack.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "position": 13
+                },
+                {
+                  "url": "https://paulkrugman.substack.com/p/talking-with-adam-posen",
+                  "title": "Talking With Adam Posen",
+                  "text": "Adam Posen has seen and done it all. He was an important voice in macroeconomic debates in the 1990s, when he was one of the small group of...",
+                  "source": "Paul Krugman | Substack",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://paulkrugman.substack.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "position": 14
+                },
+                {
+                  "url": "https://x.com/JamesBlairUSA/status/1946601481253331137",
+                  "title": "JamesBlairUSA",
+                  "text": "What does a 30% cost overrun on a renovation project say about Jerome Powell’s ability to manage monetary policy? He was Too Late to catch cost overruns on his construction project just like he was Too Late to tame inflation and now he’s Too Late to cut the rates! ",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/1857844667477303296/DNlNZc0p_normal.jpg",
+                  "position": 15
+                },
+                {
+                  "url": "https://www.reddit.com/r/investing/comments/1m6h1yf/how_does_powell_resigning_preserve_fed/",
+                  "title": "How does Powell resigning \"preserve fed independence\"?",
+                  "source": "Reddit",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "position": 16
+                },
+                {
+                  "url": "https://medium.com/the-polis/trump-took-congress-then-the-court-now-he-wants-the-fed-be465cacd1e9",
+                  "title": "Trump Took Congress. Then the Court. Now He Wants the Fed. | by Dick Dowdell | The Polis | Jul, 2025",
+                  "text": "Donald Trump already controls Congress. The Supreme Court has bent to his will. Now, he's setting his sights on the Federal Reserve — the...",
+                  "source": "Medium",
+                  "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=STREAM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "position": 17
+                },
+                {
+                  "url": "https://x.com/zerohedge/status/1947635376153133477",
+                  "title": "zerohedge",
+                  "text": "*POWELL SAYS NEED BIG BANKS TO BE WELL-CAPITALIZED, MANAGE RISKS *POWELL: NEED LARGE BANKS TO BE FREE TO COMPETE WITH ONE ANOTHER NO COMMENTS ON MONETARY POLICY",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
+                  "position": 18
+                },
+                {
+                  "url": "https://x.com/EricLDaugh/status/1947639143380459735",
+                  "title": "EricLDaugh",
+                  "text": "🚨 SCOTT BESSENT TO THE FED: \"I am calling for an INTERNAL REVIEW.\" \"The Federal Reserve Board expenses since 2004 are up 4x...they just print money to spend it!\" \"The Fed does a regular review of their monetary policy framework. I think that this is a good opportunity for ",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/1946702115037908992/NU6Ro1bl_normal.jpg",
+                  "position": 19
+                },
+                {
+                  "url": "https://x.com/stevehou0/status/1947630562635575331",
+                  "title": "stevehou0",
+                  "text": "Agree or disagree with the current monetary policies, which are decided by the FOMC as a group. Jerome Powell has performed honorable and commendable service to the country as Fed chair and is now taking a brave stand against the encroachment of monetary independence for sheer",
+                  "source": "X (Twitter)",
+                  "favicon": "https://pbs.twimg.com/profile_images/1905914798300073984/stc3q7RB_normal.jpg",
+                  "position": 20
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/Monetary-policy/ECBs-monetary-policy-strategy/",
+                  "title": "ECB's monetary policy strategy - Suomen Pankki",
+                  "text": "The primary objective of the single monetary policy of the Eurosystem is to maintain price stability in the euro area and hence to preserve the purchasing power ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 21
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/monetary-policy-and-research/",
+                  "title": "Monetary Policy and Research - Suomen Pankki",
+                  "text": "The Monetary Policy and Research Department is responsible for the national-level preparatory work that enables the Bank of Finland to participate in ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 22
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/monetary-policy-review/",
+                  "title": "Monetary policy review - Suomen Pankki",
+                  "text": "In the monetary policy review, we look at the recent development of the euro area economy, the price stability and the analysis behind monetary policy decisions ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 23
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/Monetary-policy/implementation-of-monetary-policy/",
+                  "title": "Implementation of monetary policy - Suomen Pankki",
+                  "text": "Implementation of monetary policy refers to the implementation of the monetary policy decisions taken by the Governing Council of the ECB.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 24
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ \"monetary policy\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.4587132930755615
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ downloads",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/money-and-payments/payment-and-settlement-system-simulator/ordering/",
+                  "title": "Ordering - Suomen Pankki",
+                  "text": "If you or your institution already has a license, you can directly request a downloading link to the software from us via e-mail. Ordering form with ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/statistics/dashboards/yearly-payment-statistics/",
+                  "title": "Yearly payment statistics - Suomen Pankki",
+                  "text": "The data previously published in table format for the years 2014–2021 is available for download as an Excel file here. dashboard payments Payments ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/",
+                  "title": "Publications - Suomen Pankki",
+                  "text": "Blog posts and articles intended for a wide audience on the outlook of the Finnish and international economy, payments, monetary policy and financial market ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2017/ecb-annual-report-2016/",
+                  "title": "ECB Annual Report 2016 - Suomen Pankki",
+                  "text": "Download publication (pdf) (2.60 MB) · ECB annual report euro area monetary policy economy. Follow us. Bluesky Twitter LinkedIn Slideshare Flickr YouTube ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2016/ecb-annual-report-2015/",
+                  "title": "ECB Annual Report (2015) - Suomen Pankki",
+                  "text": "Download publication (pdf) (3.00 MB) · Download publication for tablet (ePUB) (11.14 MB). See html-version on ECB's website. ECB European Central Bank Annual ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2015/ecb-annual-report-2014/",
+                  "title": "ECB Annual Report (2014) - Suomen Pankki",
+                  "text": "Download publication (pdf) (1.98 MB) · Download publication for tablet (ePUB) (17.43 MB) · ECB European Central Bank Annual report 2014 economic developments ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2009/ecb-annual-report-2008/",
+                  "title": "ECB Annual Report (2008) - Suomen Pankki",
+                  "text": "Download publication (pdf) (3.90 MB) · ECB Annual report 2008. Follow us. Bluesky Twitter LinkedIn Slideshare Flickr YouTube Facebook Instagram · Contacts · Map.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2001/ecb-annual-report-2000/",
+                  "title": "ECB Annual Report (2000) - Suomen Pankki",
+                  "text": "ECB Annual Report. ECB Annual Report (2000). 2001 . 230 pages. Publisher: European Central Bank. ISSN: 1561-4573 (Printed publication). Download publication ( ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2012/ecb-annual-report-2011/",
+                  "title": "ECB Annual Report (2011) - Suomen Pankki",
+                  "text": "Download publication (pdf) (8.82 MB) · ECB Annual report 2010 economic developments and monetary policy central bank operations and activities financial ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/ecb-publications/annual-report/2018/ecb-annual-report-2017/",
+                  "title": "ECB Annual Report (2017) - Suomen Pankki",
+                  "text": "Download publication (pdf) (2.98 MB) · ECB. Follow us. Twitter LinkedIn Slideshare Flickr YouTube Facebook Instagram · Contacts · Map. Bank of Finland",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Downloads games",
+              "Downloads Play Store",
+              "Play Store",
+              "Play Store app",
+              "Downloads Windows 11",
+              "Downloads Delta"
+            ],
+            "query": {
+              "q": "site:suomenpankki.fi/en/ downloads"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.34601640701293945
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ \"economic review\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/selected-research/",
+                  "title": "Research publication - Suomen Pankki",
+                  "text": "Carli, Francesco; Uras, Burak R. E-money, risk-sharing, and welfare. Published: European Economic Review | 1.10.2024 ... Published: IMF Economic Review | 1.3.2023.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/daniel-berkowitz/",
+                  "title": "Daniel Berkowitz - Suomen Pankki",
+                  "text": "His publications have appeared in good outlets including the European Economic Review, the Journal of Comparative Economics, the Journal of Development ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/markus-sihvonen/",
+                  "title": "Markus Sihvonen - Suomen Pankki",
+                  "text": "Equity Home Bias in a Capital Market Union (1.3.2023). Markus Sihvonen. IMF Economic Review. Does a Currency Union Need a Capital Market Union (12.8.2022).",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/julio-garin/",
+                  "title": "Julio Garín",
+                  "text": "... Economic Review; The Review of Economics and Statistics; and Review of Economic Dynamics. Professor Garín received his PhD from the University of Notre Dame ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/nigel-mcclung/",
+                  "title": "Nigel McClung - Suomen Pankki",
+                  "text": "... Economic Review, European Economic Review, International Journal of Central Banking, Macroeconomic Dynamics, Journal of Mathematical Economics, Economic ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/jan-fidrmuc/",
+                  "title": "Jan Fidrmuc - Suomen Pankki",
+                  "text": "He has published his research in leading European and international peer-reviewed journals, including the European Economic Review, European Journal of ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/publications/research-publications/refereed-research/",
+                  "title": "Bank of Finland refereed research - Suomen Pankki",
+                  "text": "How much do non-performing loans hinder loan growth in Europe? Published: European Economic Review | 26.5.2021. Virén, Matti; Oinonen, Sami Effects of Monetary ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/lena-drager/",
+                  "title": "Lena Dräger - Suomen Pankki",
+                  "text": "Her research has been published in outlets such as the Review of Economics and Statistics, the European Economic Review, Macroeconomic Dynamics and the Oxford ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/experts/alejandro-riano/",
+                  "title": "Alejandro Riaño - Suomen Pankki",
+                  "text": "His research has been published in the Journal of the European Economic Association, European Economic Review, and the Journal of Development Economics, among ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2020/governer-olli-rehn-economic-effects-of-the-corona-crisis-and-measures-by-the-central-banks/",
+                  "title": "Governor Olli Rehn: Economic effects of the corona crisis and measures ...",
+                  "text": "In these exceptional circumstances, I highly appreciate the opportunity to present our current economic review to such a large audience of ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2020-03-20T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ \"economic review\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3457603454589844
+        }
+      }
+    },
+    {
+      "query": "site:suomenpankki.fi/en/ statements",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/our-strategy/international-cooperation/imf-reports-and-statements/",
+                  "title": "International Monetary Fund reports and statements - Suomen Pankki",
+                  "text": "ONBC Annual Report 2024. IMFC Statements: Statement by Nicolai Wammen, Minister for Finance, on behalf of Denmark, Republic of Estonia, Finland, Iceland, ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2024/the-imfs-concluding-statement-on-the-finnish-economy/",
+                  "title": "The IMF's concluding statement on the Finnish economy - Suomen Pankki",
+                  "text": "The International Monetary Fund's (IMF) delegation currently visiting Finland has submitted its concluding statement on the Finnish economy and the ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2024/the-imfs-concluding-statement-on-the-finnish-economy2/",
+                  "title": "The IMF's concluding statement on the Finnish economy - Suomen Pankki",
+                  "text": "The concluding statement discusses in more detail the economic outlook and risks, as well as government finances, productivity growth and ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-11-08T00:00:00",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/accessibility/",
+                  "title": "Accessibility statement - Suomen Pankki",
+                  "text": "This accessibility statement applies to the website www.suomenpankki.fi. The statement was prepared on 27 January 2021.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-10-10T00:00:00",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/data-protection/",
+                  "title": "Data protection - Suomen Pankki",
+                  "text": "On this page, you will find privacy statements on personal data files, divided into two categories. Further information on data protection is available on ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/interest-paid-on-central-bank-deposits-weakened-bank-of-finlands-operating-profit-as-in-previous-year/",
+                  "title": "Interest paid on central bank deposits weakened Bank of Finland's ...",
+                  "text": "The interest paid on central bank deposits considerably weakened the Bank of Finland's operating profit for 2024, causing the Bank to reduce its provisions.",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-03-28T00:00:00",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/speeches-and-interviews2/2024/statement-by-governor-olli-rehn-on-the-international-monetary-funds-decision-to-resume-article-iv-consultations-with-russia/",
+                  "title": "Statement by Governor Olli Rehn on the International Monetary Fund's ...",
+                  "text": "In Article IV consultations, the IMF advises member countries on how to strengthen their economies, for example. The IMF's decision on ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-09-13T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/a-finnish-instant-payment-solution-would-improve-resilience-and-consumer-choice/",
+                  "title": "A Finnish instant payment solution would improve resilience and ...",
+                  "text": "An instant payment solution based on real-time credit transfers would enhance our ability to govern the systems used in making payments and would offer ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2025-05-08T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/bank-of-finland/our-strategy/",
+                  "title": "Our strategy - Suomen Pankki",
+                  "text": "We base our statements and decisions on knowledge, research and high-quality analysis. We also participate in public debate, engage with our stakeholders ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "position": 9
+                },
+                {
+                  "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2024/bank-of-finlands-2023-operating-profit-weakened-considerably-by-rise-in-interest-rates/",
+                  "title": "Bank of Finland's 2023 operating profit weakened considerably by rise in ...",
+                  "text": "Bank of Finland's 2023 operating profit weakened considerably by rise in interest rates. The Parliamentary Supervisory Council has today, upon ...",
+                  "source": "Suomen Pankki",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////l5vDt7fX39/v4+Pvv8PbKy+Ho6fLW1+ipq8/Y2um0ttXh4u6tsNLP0OT7+/3z9PjAwtu7vdnR0+WkpsyEiL1yd7Rvc7KXmsZ4fLV+grlcYaianciPksCfossqM5VDSp1jaKtqb7BVW6bHG9ESAAABK0lEQVR4Aa3PRQIcIRBA0Q80Xo2Nu+T+Z4wTX+Yty4v/Q2mzGP7FOh8iKXvhLytrUb6WLxX2z1zJDQyAU/23rBmiQROjAfRqFn7asMFtd+v+sB1D8DExoUsHjk2dDpg8DMMapmI0cKLYc9tAQo8Nk3cAh2O5XCrdAaPU+eEaYGlsz/Gq2G8sKCXzVvHgDrfD8f54eoaAqNlZHeLs2FQwt8dWkYSyzLH3KhGA/jzstpASd8VkACpcz/TXDrDMsX7rAPLu9g5U3guoIcylCdD9loHWPwAht5ksvUHIBaCdVyAJk9Gdu9T+usXrK7QbJVuY1LBtJPCbhGTlfeInX0fTcSRvQikBXwR+Sg7Bl1hUYTNm46RLxnmrkGqy509Oeui6D8fC3yqykSqV/+ATMX8PR4eqwrAAAAAASUVORK5CYII=",
+                  "published_time": "2024-03-22T00:00:00",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:suomenpankki.fi/en/ statements"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.35098719596862793
+        }
+      }
+    }
+  ]
+}

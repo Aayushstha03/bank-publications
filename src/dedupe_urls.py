@@ -44,13 +44,14 @@ def filter_and_dedup_urls(bank_entry):
     }
 
 def main():
-    banks = []
-    for entry in parse_json_objects(INPUT_PATH):
-        banks.append(filter_and_dedup_urls(entry))
+    total = 0
     with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
-        for bank in banks:
+        for idx, entry in enumerate(parse_json_objects(INPUT_PATH), 1):
+            bank = filter_and_dedup_urls(entry)
             f.write(json.dumps(bank, ensure_ascii=False, indent=2) + '\n')
-    print(f'Filtered results written to {OUTPUT_PATH}')
+            print(f"[{idx}] Processed: {bank['Bank Name']} ({len(bank['urls'])} unique URLs)")
+            total = idx
+    print(f'Filtered results written to {OUTPUT_PATH} for {total} banks.')
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,911 @@
+{
+  "Bank Name": "Central Bank of the United Arab Emirates",
+  "search_results": [
+    {
+      "query": "site:centralbank.ae/en publications",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+                  "title": "Publications - CBUAE",
+                  "text": "Publications. Use the filter function to navigate our website better and find the information you need quickly. Simply click the boxes that relate to the ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-30-publication-and-application",
+                  "title": "Article (30) Publication and Application - CBUAE Rulebook",
+                  "text": "CBUAE Rulebook · Article (27) Enforcement and Sanctions · Article (28) Consumer Protection · Article (29) Interpretation · Article (30) Publication and ...",
+                  "source": "CBUAE Rulebook",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-115-publication-and-posting-accounts-information",
+                  "title": "Article (115): Publication and Posting of Accounts Information",
+                  "text": "1) Each Licensed Financial institution shall publish and post the following information and statements on its website, and in each of its offices and ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-9-application-and-publication",
+                  "title": "Article (9) Application and Publication - CBUAE Rulebook",
+                  "text": "This Regulation shall be communicated to whomsoever is concerned for implementation, and shall be published in the Official Gazette in English.",
+                  "source": "CBUAE Rulebook",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-13-application-and-publication",
+                  "title": "Article (13): Application and Publication - CBUAE Rulebook",
+                  "text": "This Regulation shall be published in the Official Gazette in both Arabic and English and shall come into effect one month from the date of publication.",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-11-publication-and-application-1",
+                  "title": "Article (11): Publication and Application - CBUAE Rulebook",
+                  "text": "These Regulations shall be published in the Official Gazette in both Arabic and English and shall come into effect one month from the date of publication.",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-22-%E2%80%93-publication-and-effective-date",
+                  "title": "Article (22) – Publication and Effective Date | CBUAE Rulebook",
+                  "text": "The Instructions herein shall be published in the Official Gazette and shall come into force after six months as from the day following to the date of its ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/publication-and-going-effect",
+                  "title": "Publication and Going into Effect - CBUAE Rulebook",
+                  "text": "CBUAE Rulebook · Federal law & Executive Regulation · Governance, Risk Management and Internal Control, Ownership Ratios · Financial and Capital Regulations ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/17-publication-and-application",
+                  "title": "17. Publication and Application - CBUAE Rulebook",
+                  "text": "17. Publication and Application C 6/2023 Effective from 15/4/2024 Download CBUAE Rulebook Reach Out For general enquiries: +971 2 691 5555 contactus@cbuae.gov. ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-10-publication-and-application",
+                  "title": "Article 10: Publication and Application - CBUAE Rulebook",
+                  "text": "CBUAE Rulebook · Anti-Money Laundering and Combating the Financing of Terrorism and Illegal Organisations Laws · Procedures for Anti-Money Laundering and ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Publications near me",
+              "Book Publications",
+              "Magazines"
+            ],
+            "query": {
+              "q": "site:centralbank.ae/en publications"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.4245598316192627
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en reports",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/appendix-3-list-compulsory-reports-and-forms",
+                  "title": "Appendix 3: List of Compulsory Reports and Forms",
+                  "text": "2.“Bi-Annual returns/reports” are returns/reports for the six (6) months period ending on 30th June and 31st December of each financial year; ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 1
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/guide-regulatory-information-data-and-reports-be-provided-insurance-companies-and",
+                  "title": "A Guide to the Regulatory Information, Data and Reports to be ...",
+                  "text": "A guide to the regulatory information, data and reports to be provided by the insurance companies and insurance-related professions.",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/ninth-periodic-reports",
+                  "title": "Ninth: Periodic Reports - CBUAE Rulebook",
+                  "text": "These periodic reports should include at least the following information: 1. Progress in KPIs. 2. Number of volunteering customers. 3. Number and size of ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/34-how-submit-str-and-other-report-types",
+                  "title": "3.4. How to Submit an STR and Other Report Types | CBUAE Rulebook",
+                  "text": "LFIs are required to submit suspicious transaction and activity reports directly to the FIU using the “goAML” portal, and registration in the system is ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-98-reporting-violations",
+                  "title": "Article (98): Reporting of Violations | CBUAE Rulebook",
+                  "text": "a. Occurrence of any material or crucial developments, which may impact its activities, structure, or overall position. b. Occurrence of any violation to the ...",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-17-credit-reports-0",
+                  "title": "Article (17) Credit Reports - CBUAE Rulebook",
+                  "text": "A Finance Company must strictly adhere to the following credit reporting requirements: a. Provide credit information of borrowers to a Credit Information Agency ...",
+                  "source": "CBUAE Rulebook",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/fifth-internal-audit-risk-management-reports",
+                  "title": "Fifth: Internal Audit & Risk Management Reports",
+                  "text": "The internal audit staff of the insurance companies and the insurance-related professionals must fill in the intended e-form of the internal audit report when ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/1630-bi-annual-compliance-report",
+                  "title": "16.30 Bi-Annual Compliance Report | CBUAE Rulebook",
+                  "text": "16.30.1The Compliance Officer must prepare Bi-Annual Compliance Reports (i.e. reports for the six (6) month periods ending on 30th June and 31st December of ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/822-reporting-data",
+                  "title": "8.2.2 Reporting of Data - CBUAE Rulebook",
+                  "text": "8.2.2.1Licensed Financial Institutions must submit semi-annual reports to the Board and the response from the Board must be recorded. 8.2.2.2Senior Management ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-10-%E2%80%93-reporting-requirements-financial-condition-report",
+                  "title": "Article (10) – Reporting Requirements for Financial Condition Report",
+                  "text": "The Company shall submit to the Authority a Financial Condition Report (FCR) which is certified by the Actuary and endorsed by the Chairman of the Board of ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Reports pdf",
+              "Reports meaning",
+              "Types of reports",
+              "List of reports"
+            ],
+            "query": {
+              "q": "site:centralbank.ae/en reports"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0969133377075195
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en research",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/",
+                  "title": "CBUAE | Research and Statistics",
+                  "text": "The mandate of the Research and Statistics Department (RSD) is to compile and produce quality data in a timely manner, in line with internationally-recognised ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-37-research",
+                  "title": "Article (37): Research | CBUAE Rulebook",
+                  "text": "1) The Central Bank may conduct research and analyses in areas of macro-economy, conduct of monetary policy, and banking and financial operations, ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://centralbank.ae/en/research-and-statistics/latest-statistics/balance-sheet-of-the-cbuae-assets/balance-sheet-may-2024/",
+                  "title": "Balance Sheet of CBUAE -Assets",
+                  "text": "Home · Research and Statistics · Latest Statistics · Balance Sheet of the CBUAE - Assets · Balance Sheet May 2024.",
+                  "source": "مصرف الإمارات المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/cbuae-foreign-assets/foreign-assets-january-2025/",
+                  "title": "CBUAE | Foreign Assets January 2025",
+                  "text": "Home · Research and Statistics · Latest Statistics · CBUAE Foreign Assets · Foreign Assets January 2025.",
+                  "source": "مصرف الإمارات المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/balance-sheet-of-the-cbuae-liabilities-capital/balance-sheet-july-2024/",
+                  "title": "Balance Sheet July 2024 - CBUAE",
+                  "text": "Home · Research and Statistics · Latest Statistics · Balance Sheet of the CBUAE – Liabilities & Capital · Balance Sheet July 2024.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 5
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/104-quantitative-validation",
+                  "title": "10.4 Quantitative Validation - CBUAE Rulebook",
+                  "text": "10.4.1, The quantitative validation must assess the suitability of the model output with respect to the objective initially assigned to the model.",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-36-domestic-market-statistics",
+                  "title": "Article (36): Domestic Market Statistics | CBUAE Rulebook",
+                  "text": "Such information and statistics shall include all monetary and economic statistics, as well as balance of payments statistics and consumer prices. The Central ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/chapter-five-central-bank-operations",
+                  "title": "Chapter Five: Central Bank Operations - CBUAE Rulebook",
+                  "text": "‹ Article (37): Research · Up · Section One: Operations with the Public Sector ›. Chapter Five: Central Bank Operations. Fed Law 14/2018 Issued on 1/10/2018.",
+                  "source": "CBUAE Rulebook",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-41-1",
+                  "title": "Article (41) | CBUAE Rulebook",
+                  "text": "Preparing studies, research and statistics related to the Crime, and following up on any studies, research or statistics conducted domestically or ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/chapter-four-monetary-policy-and-financial-stability",
+                  "title": "Chapter Four: Monetary Policy and Financial Stability | CBUAE Rulebook",
+                  "text": "Chapter Four: Monetary Policy and Financial Stability · Article (31): Objectives of Monetary Policy · Article (32): Reserve Requirements · Article (33): Credit ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:centralbank.ae/en research"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.4250321388244629
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en \"press releases\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/media-center-news-room-press-releases-announcements/",
+                  "title": "Media Center - News Room - Press Releases & Announcements - CBUAE",
+                  "text": "Media Center - News Room - Press Releases & Announcements. Last updated on: Wednesday 01 December 2021. Total visitors 1482.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/enforcement/",
+                  "title": "Enforcement - CBUAE",
+                  "text": "In most cases, the financial institution and/or the individual related to it has the opportunity to make representations. Related Press Releases. Press ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/sustainable-finance/",
+                  "title": "Sustainable Finance",
+                  "text": "Related Press Releases. Press Release. Under the Patronage of H.H. Sheikh Mansour Bin Zayed Al Nahyan : CBUAE Concludes Climate Forum in Abu ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "published_time": "2025-07-22T12:25:32.650902",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/regulatory-development/",
+                  "title": "Regulatory Development - CBUAE",
+                  "text": "Related Press Releases. Press Release. UAE regulatory authorities jointly issue 'Guidelines for Financial Institutions Adopting Enabling Technologies. 15 ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/anti-money-laundering-aml/targeted-financial-sanctions/",
+                  "title": "Targeted Financial Sanctions - CBUAE",
+                  "text": "Related Press Releases. Press Release. CBUAE issues new guidance on anti money laundering and combatting the financing of terrorism for licensed exchange ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/monetary-policy-and-domestic-markets/",
+                  "title": "Monetary Policy and Domestic Markets - CBUAE",
+                  "text": "Notices, Press Releases and Publications · EIBOR · Islamic CDs · Overnight Deposit Facility (ODF) and Base Rate · Statutory Reserve Requirements · Monetary Bills.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 6
+                }
+              ]
+            },
+            "related": [
+              "Press releases today",
+              "Latest press releases"
+            ],
+            "query": {
+              "q": "site:centralbank.ae/en \"press releases\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.9488084316253662
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en \"statistical data\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-17-responsibilities-banking-supervision-examination-department",
+                  "title": "Article (17) Responsibilities of the Banking Supervision & Examination ...",
+                  "text": "... statistical data to the Central Bank. b) The Banking Supervision & Examination Department will also issue a guide to its examiners to explain the regulatory ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 1
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-27-4",
+                  "title": "Article (27) - CBUAE Rulebook",
+                  "text": "... accumulation and based on available statistical data on loss ratios in each class of insurance and its trends and future projections affecting those potentials.",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/22-governance-and-strategy",
+                  "title": "2.2 Governance and Strategy | CBUAE Rulebook",
+                  "text": "... statistical data. Between these two categories, a range of options exist. Institutions should consciously articulate the rationale for their modelling ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/4975",
+                  "title": "Entire Section | CBUAE Rulebook",
+                  "text": "... statistical data. Between these two categories, a range of options exist. Institutions should consciously articulate the rationale for their modelling ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/3920",
+                  "title": "Entire Section | CBUAE Rulebook",
+                  "text": "If the cards have been issued to non-customers, banks should compile statistical data separately for residents and non-residents and review them from time ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-5-credit-cards",
+                  "title": "Article (5) Credit Cards - CBUAE Rulebook",
+                  "text": "If the cards have been issued to non-customers, banks should compile statistical data separately for residents and non-residents and review them from time to ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 6
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-5-pricing",
+                  "title": "Article 5 Pricing | CBUAE Rulebook",
+                  "text": "Statistical data related to the settled and outstanding claims used as a basis of calculation. Detailed information about the significant losses incurred in ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/model-management-guidance",
+                  "title": "Model Management Guidance - CBUAE Rulebook",
+                  "text": "... statistical data. Between these two categories, a range of options exist. Institutions should consciously articulate the rationale for their modelling ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-5-credit-cards-0",
+                  "title": "Article (5)- Credit Cards: | CBUAE Rulebook",
+                  "text": "If the cards have been issued to non-customers, banks should compile statistical data separately for residents and non-residents and review them from time ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/regulation-no-292011-regarding-bank-loans-other-services-offered-individual-customers",
+                  "title": "Regulation No. 29/2011 Regarding Bank Loans & Other Services ...",
+                  "text": "b) Credit cards shall be issued to customers of the bank or the finance company, and may be issued to non-customers, in which case customer statistical data, as ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:centralbank.ae/en \"statistical data\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.97548508644104
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en bulletin",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/statistical-bulletin-banking-monetary-statistics/statistical-bulletin-february-2025/",
+                  "title": "Statistical Bulletin February 2025 - CBUAE",
+                  "text": "Statistical Bulletin February 2025.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/",
+                  "title": "CBUAE | Research and Statistics",
+                  "source": "www.centralbank.ae",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centralbank.ae&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.centralbank.ae/media/jdopmdac/archived-reports-banner.jpg",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/",
+                  "title": "CBUAE | Research and Statistics",
+                  "source": "www.centralbank.ae",
+                  "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centralbank.ae&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "image": "https://www.centralbank.ae/media/3ckgjaqi/r-d-statistics-background.png",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/",
+                  "title": "CBUAE | Research and Statistics",
+                  "text": "The Central Bank of the UAE has a dedicated function to gather accurate, insightful and up-to-date data on the UAE's financial and monetary system.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/",
+                  "title": "CBUAE | Home",
+                  "text": "The Central Bank of the UAE has unveiled a new symbol for the UAE's national currency, the \"Dirham,\" in both physical and digital forms.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/statistical-bulletin-banking-monetary-statistics/statistical-bulletin-september-2022/",
+                  "title": "Statistical Bulletin September 2022 - CBUAE",
+                  "text": "Download · Statistical Bulletin September 2022 · Statistical Statistical Bulletin September 2022August 2022. Last updated on: Tuesday 27 December 2022. Total ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/statistical-bulletin-banking-monetary-statistics/statistical-bulletin-october-2023/",
+                  "title": "CBUAE | Statistical Bulletin October 2023",
+                  "text": "Home · Research and Statistics · Latest Statistics · Statistical Bulletin - Banking & Monetary Statistics · Statistical Bulletin October 2023.",
+                  "source": "مصرف الإمارات المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 7
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/stored-value-facilities-svf-regulation",
+                  "title": "Stored Value Facilities (SVF) Regulation | CBUAE Rulebook",
+                  "text": "The scope of this Regulation includes the licensing and the ongoing supervisory and enforcement requirements on the licensed companies for providing SVF in the ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/",
+                  "title": "Latest Statistics - CBUAE",
+                  "text": "Statistical Bulletin - Banking & Monetary Statistics, Balance Sheet of the CBUAE - Assets, Balance Sheet of the CBUAE – Liabilities & Capital, CBUAE Foreign ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/1538",
+                  "title": "Licensing Requirements - Entire Section | CBUAE Rulebook",
+                  "text": "Applicants must meet, or demonstrate that they will meet upon License issuance, the ongoing requirements set out in Articles (7) to (14) of this Regulation ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/1150",
+                  "title": "Entire Section | CBUAE Rulebook",
+                  "text": "... bulletins, advertisements, propaganda and essays and scientific materials in accordance with the resolutions issued by the Board to ensure the ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 11
+                }
+              ]
+            },
+            "related": [
+              "Bulletin Board",
+              "Bulletin company",
+              "Bulletin store",
+              "Bulletin wholesale",
+              "Bulletin board paper",
+              "UGA bulletin"
+            ],
+            "query": {
+              "q": "site:centralbank.ae/en bulletin"
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0294334888458252
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en archive",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://rulebook.centralbank.ae/en/view-revision-updates?sort_by=revision_timestamp_2&chapters_all=1&f_days=&changed=&f_date=&changed_1%5Bmin%5D=&changed_1%5Bmax%5D=&page=15",
+                  "title": "View Updates | CBUAE Rulebook",
+                  "text": "CBUAE Rulebook — Archive — Amendments of the Regulations Regarding Bank Loans & Other Services Offered to Individual Customers No ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 1
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/view-revision-updates?page=258",
+                  "title": "View Updates | CBUAE Rulebook",
+                  "text": "CBUAE Rulebook — Archive — Federal Law No. 6 of 2007 on the Organization of Insurance Operations — Chapter Five Insurance ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/view-revision-updates?sort_by=revision_timestamp_2&chapters_all=0&f_days=&changed=&f_date=&changed_1%5Bmin%5D=&changed_1%5Bmax%5D=&page=257",
+                  "title": "View Updates | CBUAE Rulebook",
+                  "text": "CBUAE Rulebook — Archive — Federal Law No. 6 of 2007 on the Organization of Insurance Operations — Chapter Ten Liquidation of the ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/4118",
+                  "title": "Archive - Entire Section | CBUAE Rulebook",
+                  "text": "Global efforts to prevent the abuse of financial systems to launder money or finance terrorist activities is extremely important.",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/view-revision-updates?page=256",
+                  "title": "View Updates - CBUAE Rulebook",
+                  "text": "You are viewing Updates in CBUAE Rulebook. Showing results 5121 to 5140 of 5304. 5121 - Article (124) ( 15 November 2022 )",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+                  "title": "Publications - CBUAE",
+                  "text": "We provide the public with historical Central Bank of the UAE reports and their iterations published previously, as part of our commitment to data transparency.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 6
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/payments-and-settlements/image-cheque-clearing-system-iccs/",
+                  "title": "ICCS - CBUAE",
+                  "text": "The CBUAE is the Clearing House for all cheques, acting as the intermediary for all data and image flow between the collecting and paying bank.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "published_time": "2022-07-28T00:00:00",
+                  "position": 7
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/forex-eibor/exchange-rates/historical-exchange-rates/",
+                  "title": "Historical Exchange Rates - CBUAE",
+                  "text": "Rate this page · Home · FOREX and EIBOR · Exchange Rates · Historical Exchange Rates. Historical Exchange Rates. Last updated on: Wednesday 27 ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "published_time": "2022-07-27T00:00:00",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/research-and-statistics/",
+                  "title": "CBUAE | Research and Statistics",
+                  "text": "Archived Reports. All historical CBUAE reports and their previously published iterations are made available to the public as part of our commitment to data ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/search",
+                  "title": "Solr search | CBUAE Rulebook",
+                  "text": "Select any filter and search to see results. Reach Out For general enquiries: +971 2 691 5555 For consumer complaints:",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Archive fashion",
+              "Archive Sweatpants",
+              "Archive resale"
+            ],
+            "query": {
+              "q": "site:centralbank.ae/en archive"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.3870232105255127
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en \"monetary policy\"",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/monetary-policy-and-domestic-markets/",
+                  "title": "Monetary Policy and Domestic Markets - CBUAE",
+                  "text": "The Central Bank of the UAE is mandated to define and implement its monetary policy objectives through the formulation of the Dirham Monetary Framework.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-31-objectives-monetary-policy",
+                  "title": "Article (31): Objectives of Monetary Policy | CBUAE Rulebook",
+                  "text": "1) Monetary policy aims at maintaining soundness and stability of the monetary system in the State, in order to ensure stability and required confidence in ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 2
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/chapter-four-monetary-policy-and-financial-stability",
+                  "title": "Chapter Four: Monetary Policy and Financial Stability | CBUAE Rulebook",
+                  "text": "Chapter Four: Monetary Policy and Financial Stability · Article (31): Objectives of Monetary Policy · Article (32): Reserve Requirements · Article (33): Credit ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 3
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-34-coordination-between-monetary-policy-and-fiscal-policy",
+                  "title": "Article (34): Coordination between Monetary Policy and Fiscal Policy",
+                  "text": "The Central Bank and the Ministry shall establish a mechanism for coordinating monetary policy and fiscal policy for the purpose of achieving balanced ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 4
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/733",
+                  "title": "Entire Section | CBUAE Rulebook",
+                  "text": "1) Monetary policy aims at maintaining soundness and stability of the monetary system in the State, in order to ensure stability and required confidence in ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 5
+                },
+                {
+                  "url": "https://centralbank.ae/en/our-operations/monetary-policy-and-domestic-markets/about-the-framework/",
+                  "title": "About the framework - CBUAE",
+                  "text": "The Dirham Monetary Framework (DMF) is a key initiative introduced by the Central Bank of the UAE in 2017 for the purpose of enhancing monetary policy",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 6
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/433",
+                  "title": "Central Bank Operations - Entire Section | CBUAE Rulebook",
+                  "text": "... monetary policy operations. 6) Purchase, re-purchase, sell, discount and rediscount Eligible Securities and other securities related to the management of ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/article-40-bank-government",
+                  "title": "Article (40): Bank for the Government | CBUAE Rulebook",
+                  "text": "1) For the purposes of achieving objectives of its monetary policy, and in order to provide the Government and governments of emirates members of the Union ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/about/about-cbuae/",
+                  "title": "About the CBUAE",
+                  "text": "Draw up and implement monetary policy while considering the State's general strategy. · Exercise the privilege of Currency issuance.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/part-i-%E2%80%93-central-bank-%E2%80%93",
+                  "title": "Part I – The Central Bank – | CBUAE Rulebook",
+                  "text": "Chapter Four: Monetary Policy and Financial Stability · Article (31): Objectives of Monetary Policy · Article (32): Reserve Requirements · Article (33): Credit ...",
+                  "source": "Rulebook CBUAE",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "query": {
+              "q": "site:centralbank.ae/en \"monetary policy\""
+            }
+          }
+        ],
+        "meta": {
+          "took": 1.0255491733551025
+        }
+      }
+    },
+    {
+      "query": "site:centralbank.ae/en downloads",
+      "search_result": {
+        "data": [
+          {
+            "results": {
+              "web": [
+                {
+                  "url": "https://www.centralbank.ae/en/",
+                  "title": "CBUAE | Home",
+                  "text": "The Central Bank of the UAE has unveiled a new symbol for the UAE's national currency, the \"Dirham,\" in both physical and digital forms.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 1
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/open-data-landing/open-data-documents/",
+                  "title": "Home - CBUAE",
+                  "text": "This site is best viewed with screen resolution 1280x1024 supporting Edge+, Firefox, Opera and Chrome latest versions. Add-ons and plug-ins.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "published_time": "2022-08-05T00:00:00",
+                  "position": 2
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/forex-eibor/exchange-rates/",
+                  "title": "Exchange Rates - CBUAE",
+                  "text": "The Central Bank of the UAE provides exchange rates for more than 70 global currencies, which are updated daily. These include key currencies such as the US ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 3
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+                  "title": "Publications - CBUAE",
+                  "text": "We provide the public with historical Central Bank of the UAE reports and their iterations published previously, as part of our commitment to data transparency.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 4
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-200/",
+                  "title": "AED 200 - CBUAE",
+                  "text": "Download our Mobile Apps. Subscribe for alerts. Please provide a valid email address. Email address already exists Please provide a valid email ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "published_time": "2024-12-19T00:00:00",
+                  "position": 5
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/rulebook/insurance/regulatory-reporting/ia-financial-reporting-eforms-v1-7/",
+                  "title": "IA Financial Reporting eForms v1.7 - CBUAE",
+                  "text": "IA Financial Reporting eForms v1.7. Download. IA Financial Reporting Eforms V1.7 UPDATED (3). Last updated on: Tuesday 16 May 2023. Total visitors 5419.",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 6
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/rulebook/second-information-update",
+                  "title": "Second: Information Update | CBUAE Rulebook",
+                  "text": "CBUAE Rulebook · First: Introduction · Second: Information Update · Third: The Disclosures of the Insurance Companies and the Insurance-Related Professionals ...",
+                  "source": "CBUAE Rulebook",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 7
+                },
+                {
+                  "url": "https://centralbank.ae/en/research-and-statistics/latest-statistics/statistical-bulletin-banking-monetary-statistics/statistical-bulletin-december-2024/",
+                  "title": "Statistical Bulletin December 2024 - CBUAE",
+                  "text": "Download. Statistical Bulletin December 2024 · Statistical Bulletin ... Download our Mobile Apps. Subscribe for alerts. Please provide a valid email ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 8
+                },
+                {
+                  "url": "https://www.centralbank.ae/en/forex-eibor/eibor-rates/",
+                  "title": "CBUAE | EIBOR Rates - المصرف المركزي",
+                  "text": "Quarterly Bank-Wise Fixings. EIBOR History. January - June 2025. 01 July 2025. Download ... Download our Mobile Apps. Subscribe for alerts. Please provide a valid ...",
+                  "source": "المصرف المركزي",
+                  "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                  "position": 9
+                },
+                {
+                  "url": "https://rulebook.centralbank.ae/en/entiresection/1682",
+                  "title": "2.1 Build up of the General Provision - Entire Section | CBUAE Rulebook",
+                  "text": "The Rulebook is a service provided by the Central Bank of the UAE to the public, offering access to the regulations, standards and guidelines it has issued.",
+                  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABO1BMVEX////y8vLT09PR0M/k4+P7/Py2rqWPhnfFva+ZlI6jmo+Rf2XGspW0p46Ykoft7e34+PnMy8uFd2SliV62nnWZhWi2s7CDcViYdkKjgVGggVeqoZbe3d2Cd2mrk3Khh2GZjH6NbT2SbTiSdk2XinmomYGMhX6ynICRdlbHu56MbEKih29smXt9p4uiqZOXfEiBYjrDg4KugXVZlW1ooICNn4yAZDd/aEFpUjNVRDBiVD/TZWXI1szW59xhTjFQRTlWVFR2cGi2eXTQRk7Zg4b09PR3Zk1nYVl/f4CnenPOUlzAYmqop6fAwcHIyMiIiYmkT1tLSElzcnJoXEuZe3qura23tra6ubmpa26ei4yoeHyMgYPUanW7Mz+qRUeWWVnlg4rcW17bcm3HXFLpoJzCVlfLcWutjI25oqNMvK6qAAACGUlEQVR4AZRMgxHEAACrbdv2/su9USOnGLgGEIIRdC/HcIKEt3MUomiG5fj1VHhc86IkK6r2UVPAFIYIAKwbpoVDoGhTsx/H9Xw6COgwioyYTlQ2zSYNlMoVMwzDKNQLIzJMWSlVbHKQ5LIRhlVtN21XhEbfy4otjApQ4sfDUN2pGocEiIEACK5t27Zic2Ln/1/Z6+TcXVXX9+f7/SF99IVeJhX4MOtgOEFiH+pNMwy9xwkWf+0ShznL8cJQlORcKqVMVYEn2GIiAYCmCapumJbt2A1VK2v8QYEPmuXyJH6VPT9wKyc81MplKw0nXC0kSfZyjTT30EdxMgRanDCAsApAeLlsl4vLGgNg3gkPafgwrwS81Vg+1+vJejyZusGhMYUNs7IWaFZlMRRCIJwWU6scuINEIggs166s3H/bRK3dMAx8MQyaHM31VtgzdwwndypKZ2b6/y+oVDaIdYwSgD3c3ShDMSJ4koysE5NSKpAPzFcAYy+ASc9SRKRQ6NPxGMP9iODJQoUKSJIFiIrE04SABZswBDMkQBgG0RONbYiTS5pm+XsYvufZ5VJcT+w/wX7FdsVjWVZVXVdlmSTFlfbjsuTBVYOLRo+iSpJr5Mx6QkXPbdttdl3bBr1wF9uKhr7vhwH99awpVqYR3PVq7zneUuM4ArnNuS04Jwu54Ho4I+kaq8GWJRB9QyeEcOatabToQ1/m/oZ+AIptbI0Nm6CYAAAAAElFTkSuQmCC",
+                  "position": 10
+                }
+              ]
+            },
+            "related": [
+              "Downloads games",
+              "Downloads Play Store",
+              "Play Store",
+              "Play Store app",
+              "Downloads Windows 11",
+              "Downloads Delta"
+            ],
+            "query": {
+              "q": "site:centralbank.ae/en downloads"
+            }
+          }
+        ],
+        "meta": {
+          "took": 0.35816311836242676
+        }
+      }
+    }
+  ]
+}
