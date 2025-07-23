@@ -1,0 +1,31 @@
+{
+  "Bank Name": "Central Bank of Myanmar",
+  "unique_internal_blocks": [
+    {
+      "url": "https://www.cbm.gov.mm/",
+      "title": "Central Bank of Myanmar",
+      "source": "Central Bank of Myanmar"
+    },
+    {
+      "url": "https://www.cbm.gov.mm/content/annual-report",
+      "source": "Central Bank of Myanmar"
+    },
+    {
+      "url": "https://www.cbm.gov.mm/content/2506",
+      "source": "Central Bank of Myanmar"
+    },
+    {
+      "url": "http://www.cbm.gov.mm/content/monetary-policy",
+      "source": "Central Bank of Myanmar"
+    },
+    {
+      "url": "https://www.cbm.gov.mm/content/3908",
+      "source": "Central Bank of Myanmar"
+    },
+    {
+      "url": "https://www.cbm.gov.mm/?q=news",
+      "title": "NEWS - Central Bank of Myanmar",
+      "source": "Central Bank of Myanmar"
+    }
+  ]
+}
