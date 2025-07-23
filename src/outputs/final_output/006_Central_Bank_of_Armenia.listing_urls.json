@@ -7,9 +7,9 @@
       "text": "Annual Reports, Strategic Analyses, Other Analytical Materials, Interagency Committee, Applicable Lists, News, Typologies and Other Guidance, FAQ, E-learning ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "annual reports",
-        "strategic analyses",
-        "analytical materials"
+        "annual_reports",
+        "publications_misc",
+        "news"
       ],
       "listing_probability": 0.95
     },
@@ -19,7 +19,7 @@
       "text": "The Central Bank of Armenia has joined the Global Financial Innovation Network (GFIN) with the aim of strengthening regulatory capabilities and promoting ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "general publications"
+        "publications_misc"
       ],
       "listing_probability": 0.9
     },
@@ -30,8 +30,8 @@
       "source": "Կենտրոնական բանկ",
       "published_time": "2024-10-18T00:00:00",
       "topics": [
-        "news",
-        "event summaries"
+        "regulatory_updates",
+        "publications_misc"
       ],
       "listing_probability": 0.05
     },
@@ -41,7 +41,7 @@
       "text": "Կենտրոնական բանկ · Core functions · Combating Money Laundering and Terrorism Financing · Publications.",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "general publications"
+        "publications_misc"
       ],
       "listing_probability": 0.95
     },
@@ -51,10 +51,10 @@
       "text": "The primary objectives of the Central Bank are to ensure price stability and financial stability.",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "statistical data",
-        "reports"
+        "statistical_bulletins",
+        "publications_misc"
       ],
-      "listing_probability": 0.9
+      "listing_probability": 0.85
     },
     {
       "url": "https://www.cba.am/en/sitepages/mppubl.aspx",
@@ -62,8 +62,8 @@
       "text": "The first section of the inflation report includes the Monetary Policy Program that provides main directions of the monetary policy in the forecast horizon ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "inflation reports",
-        "monetary policy publications"
+        "inflation_reports",
+        "monetary_policy"
       ],
       "listing_probability": 0.95
     },
@@ -73,8 +73,9 @@
       "text": "Դրամավարկային և ֆինանսական վիճակագրությունը կազմվում է ինչպես Կենտրոնական բանկի տվյալների, այնպես էլ Կենտրոնական բանկին հաշվետու սուբյեկտներից ստացված ...",
       "source": "Հայաստանի Հանրապետության Կենտրոնական Բանկ",
       "topics": [
-        "monetary statistics",
-        "financial statistics"
+        "statistical_bulletins",
+        "monetary_policy",
+        "financial_stability"
       ],
       "listing_probability": 0.9
     },
@@ -84,9 +85,8 @@
       "text": "Տվյալներ, աղյուսակներ և գծապատկերներ ; Հայաստանի Հանրապետության ֆինանսական կայունության ցուցանիշ​ներ ; Ֆինանսական · ընդլայնված ցուցանիշներ ; Ֆինանսական ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "data",
-        "charts",
-        "financial stability indicators"
+        "statistical_bulletins",
+        "financial_stability"
       ],
       "listing_probability": 0.9
     },
@@ -96,9 +96,8 @@
       "text": "Statistical Data and Reports · Payments and securities clearance and settlement systems in the Republic of Armenia · Value and Number of Transfers via the Payment ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "statistical data",
-        "reports",
-        "payment systems data"
+        "statistical_bulletins",
+        "publications_misc"
       ],
       "listing_probability": 0.95
     },
@@ -108,23 +107,20 @@
       "text": "Իրական հատվածի վիճակագրություն · Գների վիճակագրություն · Ազգային հաշիվների համակարգ ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "real sector statistics",
-        "price statistics",
-        "national accounts"
+        "statistical_bulletins"
       ],
-      "listing_probability": 0.9
+      "listing_probability": 0.8
     },
     {
-      "url": "https://www.cba.am/hy/statistics/%D5%A1%D6%80%D5%BF%D5%A1%D6%84%D5%AB%D5%B6-%D5%B0%D5%A1%D5%BF%D5%BE%D5%A1%D5%AE%D5%AB--%D5%BE%D5%AB%D5%B3%D5%A1%D5%AF%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%B7%D5%B5%D5%B8%D6%82%D5%B6/21",
+      "url": "https://www.cba.am/hy/statistics/%D5%A1%D6%80%D5%BF%D5%A1%D6%84%D5%AB%D5%B6-%D5%B0%D5%A1%D5%BF%D5%BE%D5%A1%D5%AE%D5%AB--%D5%BE%D5%AB%D5%B3%D5%A1%D5%AF%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6/21",
       "title": "Արտաքին հատվածի վիճակագրություն",
       "text": "Արտաքին հատվածի վիճակագրություն ; Արտաքին պարտքի մայր գումարների սպասարկման ժամանակացույց ; Դրամական փոխանցումներ · ՀՀ բանկերի միջոցով ֆիզիկական անձանց անունով ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "external sector statistics",
-        "external debt",
-        "money transfers"
+        "statistical_bulletins",
+        "exchange_rate"
       ],
-      "listing_probability": 0.9
+      "listing_probability": 0.8
     },
     {
       "url": "https://old.cba.am/am/SitePages/psstatisticaldatareports.aspx",
@@ -132,9 +128,8 @@
       "text": "Վիճակագրություն և հաշվետվություններ · ՀՀ տարածքում անկանխիկ վճարային գործիքներով բանկային համակարգում իրականացված փոխանցումներ · ՀՀ բանկերի կողմից տրամադրված և ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "statistics",
-        "reports",
-        "payment systems data"
+        "statistical_bulletins",
+        "publications_misc"
       ],
       "listing_probability": 0.95
     },
@@ -144,9 +139,8 @@
       "text": "Գների վիճակագրություն ; Սպառողական գների ինդեքս. 101.4, 100.1, 100.5, 100.5 ; Բնականոն գնաճ (արտաքսման և ճշգրտման եղանակ). 100.2, 100.0, 100.2, 100.3 ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "price statistics",
-        "consumer price index",
-        "inflation"
+        "statistical_bulletins",
+        "inflation_reports"
       ],
       "listing_probability": 0.85
     },
@@ -156,25 +150,22 @@
       "text": "Դրամավարկային և ֆինանսական վիճակագրություն · Դրամավարկային ցուցանիշներ · Վարկեր · Ավանդներ · Ֆինանսական շուկայի տոկոսադրույքներ.",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "monetary statistics",
-        "financial statistics",
-        "loans",
-        "deposits",
-        "interest rates"
+        "statistical_bulletins",
+        "monetary_policy",
+        "financial_stability"
       ],
-      "listing_probability": 0.95
+      "listing_probability": 0.85
     },
     {
-      "url": "https://www.cba.am/hy/statistics/%D6%86%D5%AB%D5%B6%D5%A1%D5%B6%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AF%D5%A1%D5%B6%D5%A6%D5%B4%D5%A1%D5%AF%D5%A5%D6%80%D5%BA%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%AB-%D6%87-%D5%B4%D5%A1%D5%AF%D6%80%D5%B8%D5%BA%D6%80%D5%B8%D6%82%D5%A4%D5%A5%D5%B6%D5%B7%D5%AB%D5%A1%D5%AC-%D5%BE%D5%AB%D5%B3%D5%A1%D5%AF%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%B7%D5%B5%D5%B8%D6%82%D5%B6/17",
+      "url": "https://www.cba.am/hy/statistics/%D6%86%D5%AB%D5%B6%D5%A1%D5%B6%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AF%D5%A1%D5%A6%D5%B4%D5%A1%D5%AF%D5%A5%D6%80%D5%BA%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%AB-%D6%87-%D5%B4%D5%A1%D5%AF%D6%80%D5%B8%D5%BA%D6%80%D5%B8%D6%82%D5%A4%D5%A5%D5%B6%D6%81%D5%AB%D5%A1%D5%AC-%D5%BE%D5%AB%D5%B3%D5%A1%D5%AF%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6/17",
       "title": "CBA - Կենտրոնական բանկ",
       "text": "Վիճակագրություն. Ֆինանսական կազմակերպությունների և մակրոպրուդենցիալ վիճակագրություն. Ֆինանսական կազմակերպությունների ցուցանիշներ.",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "financial statistics",
-        "macroprudential statistics",
-        "financial organizations indicators"
+        "statistical_bulletins",
+        "financial_stability"
       ],
-      "listing_probability": 0.95
+      "listing_probability": 0.85
     },
     {
       "url": "https://www.cba.am/hy/press-releases/",
@@ -182,7 +173,7 @@
       "text": "Կենտրոնական բանկը միացել է Global Financial Innovation Network-ին (GFIN)՝ նպատակ ունենալով ամրապնդել կարգավորման կարողությունները և խթանել ֆինանսական ոլորտում ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "press releases"
+        "press_releases"
       ],
       "listing_probability": 0.95
     },
@@ -192,7 +183,7 @@
       "text": "On July 10, the Governor of the Central Bank of Armenia, Martin Galstyan, took part in the regional forum organized by the Black Sea Trade and Development Bank ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "press releases"
+        "press_releases"
       ],
       "listing_probability": 0.95
     },
@@ -222,9 +213,10 @@
       "text": "Կենտրոնական բանկ · Ֆինանսական դիտարկումների կենտրոն. ՖԴԿ մասին · Ռազմավարություն · Հաշվետու անձիք. Ֆինանսական կազմակերպություններ · Միջազգային համագործակցություն.",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "FMC news"
+        "news",
+        "regulatory_updates"
       ],
-      "listing_probability": 0.9
+      "listing_probability": 0.8
     },
     {
       "url": "https://www.cba.am/en/sitepages/fmcnewsdetails.aspx?newsid=112",
@@ -252,7 +244,8 @@
       "text": "​On 21 May 2020, the Committee established pursuant to the UN Security Council resolutions 1267/1989/2253 approved amendments to the list of individuals and ...",
       "source": "Հայաստանի Հանրապետության Կենտրոնական Բանկ",
       "topics": [
-        "news"
+        "news",
+        "regulatory_updates"
       ],
       "listing_probability": 0.05
     },
@@ -272,9 +265,10 @@
       "text": "Կենտրոնական բանկ ; Financial Monitoring Center. About FMC · Strategy ; Reporting Entities. Financial Institutions · Non-Financial Entities · Other Reporting ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "FMC news"
+        "news",
+        "regulatory_updates"
       ],
-      "listing_probability": 0.9
+      "listing_probability": 0.8
     },
     {
       "url": "https://www.cba.am/hy/analytical-materials/",
@@ -282,10 +276,12 @@
       "text": "Հայաստանի Հանրապետության կենտրոնական բանկ Դիլիջանի ուսումնահետազոտական կենտրոնՏնտեսական հետազոտությունների վարչություն Ռոլան Մնացականյան Դրամավարկային և ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "analytical materials",
-        "economic research"
+        "research_papers",
+        "economic_reviews",
+        "monetary_policy",
+        "publications_misc"
       ],
-      "listing_probability": 0.95
+      "listing_probability": 0.9
     },
     {
       "url": "https://old.cba.am/am/SitePages/panalyticalmaterialsresearches.aspx",
@@ -293,10 +289,10 @@
       "text": "Վերլուծական նյութեր եւ հետազոտություններ · 2024. Գնաճի նպատակային ցուցանիշը Հայաստանում · 2024. ԲՍԿ և կլիմայական ռիսկերի գնահատման գործիք ռիսկ ռադար · 2024. ՀՀ ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "analytical materials",
-        "research papers",
-        "inflation",
-        "climate risk"
+        "research_papers",
+        "economic_reviews",
+        "inflation_reports",
+        "publications_misc"
       ],
       "listing_probability": 0.98
     },
@@ -306,9 +302,9 @@
       "text": "The Central Bank of Armenia conducts research and analytical work in the scope of Enhance Markets pillar of the sustainable finance roadmap. Risk Radar. Risk ...",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "research",
-        "analytical work",
-        "sustainable finance"
+        "research_papers",
+        "financial_stability",
+        "publications_misc"
       ],
       "listing_probability": 0.9
     },
@@ -318,13 +314,12 @@
       "text": "Research Agenda · Monetary Policy · Financial Stability and Supervision · Financial Markets and Payment Systems · Financial Literacy and Inclusion.",
       "source": "Կենտրոնական բանկ",
       "topics": [
-        "research agenda",
-        "monetary policy research",
-        "financial stability research",
-        "financial markets research",
-        "financial literacy research"
+        "research_papers",
+        "monetary_policy",
+        "financial_stability",
+        "publications_misc"
       ],
-      "listing_probability": 0.9
+      "listing_probability": 0.4
     },
     {
       "url": "https://www.cba.am/en/Publication/8495/",
@@ -333,8 +328,8 @@
       "source": "Կենտրոնական բանկ",
       "published_time": "2025-05-22T00:00:00",
       "topics": [
-        "news",
-        "event summaries"
+        "research_papers",
+        "news"
       ],
       "listing_probability": 0.05
     },
@@ -345,7 +340,7 @@
       "source": "Կենտրոնական բանկ",
       "topics": [
         "news",
-        "event summaries"
+        "publications_misc"
       ],
       "listing_probability": 0.05
     },
@@ -356,7 +351,8 @@
       "source": "Կենտրոնական բանկ",
       "published_time": "2025-06-19T00:00:00",
       "topics": [
-        "event details"
+        "news",
+        "publications_misc"
       ],
       "listing_probability": 0.0
     },
@@ -367,8 +363,7 @@
       "source": "Կենտրոնական բանկ",
       "published_time": "2024-10-28T00:00:00",
       "topics": [
-        "news",
-        "event summaries"
+        "news"
       ],
       "listing_probability": 0.05
     }

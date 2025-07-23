@@ -7,12 +7,12 @@
       "text": "Listing of RBA publications including: Statement on Monetary Policy; Reserve Bank Bulletin; Financial Stability Review; Annual Reports; Research Discussion ...",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "Statement on Monetary Policy",
-        "Reserve Bank Bulletin",
-        "Financial Stability Review",
-        "Annual Reports",
-        "Research Discussion Papers",
-        "general publications"
+        "monetary_policy",
+        "statistical_bulletins",
+        "financial_stability",
+        "annual_reports",
+        "research_papers",
+        "publications_misc"
       ],
       "listing_probability": 1.0
     },
@@ -51,7 +51,10 @@
           "url": "https://www.rba.gov.au/publications/rdp/1971-1980.html"
         }
       ],
-      "topics": "Research Discussion Papers",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -74,10 +77,8 @@
         }
       ],
       "topics": [
-        "Research publications",
-        "Research Discussion Papers",
-        "Conferences",
-        "Research Workshops"
+        "research_papers",
+        "publications_misc"
       ],
       "listing_probability": 1.0
     },
@@ -86,7 +87,9 @@
       "title": "Research Priorities | RBA",
       "text": "Our research priorities are currently focused on five key topic areas. By sharing these priorities, we hope to encourage external research in these areas.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.1
     },
     {
@@ -94,7 +97,9 @@
       "title": "About Our Publications | Questions & Answers | RBA",
       "text": "The full list of Research Discussion Papers (RDPs) published by the Reserve Bank since 1969, with abstracts since 1974, is available on this website.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.2
     },
     {
@@ -103,8 +108,8 @@
       "text": "These tables set out detailed macroeconomic forecasts prepared by Bank staff as part of the Statement on Monetary Policy, available from November 2018 onwards.",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "Macroeconomic forecasts",
-        "Statement on Monetary Policy forecasts"
+        "monetary_policy",
+        "statistical_bulletins"
       ],
       "listing_probability": 0.9
     },
@@ -113,21 +118,29 @@
       "title": "Annual Research Workshops | RBA",
       "text": "We organise an annual Research Workshop on 'Quantitative Macroeconomics'. This event brings together leading academics and researchers from around the world.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
-      "listing_probability": 0.1
+      "topics": [
+        "NA"
+      ],
+      "listing_probability": 0.3
     },
     {
       "url": "https://www.rba.gov.au/publications/rdp/2021/2021-02/our-findings-do-not-call-for-changes-in-research-practices.html",
       "title": "Our Findings Do Not Call for Changes in Research Practices ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 0.0
     },
     {
       "url": "https://www.rba.gov.au/publications/rdp/2018/2018-10/technology-diffusion-and-low-nominal-wages-growth-some-research-proposals.html",
       "title": "Technology Diffusion and Low Nominal Wages Growth: Some ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -135,7 +148,10 @@
       "title": "Research Discussion Papers – 2023 | RBA",
       "text": "We publish the results of longer-term research conducted by our staff in Research Discussion Papers (RDPs), which stimulate discussion and comment on policy- ...",
       "source": "Reserve Bank of Australia",
-      "topics": "Research Discussion Papers (2023)",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -173,7 +189,9 @@
           "url": "https://www.rba.gov.au/speeches/2021/"
         }
       ],
-      "topics": "Speeches",
+      "topics": [
+        "speeches"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -207,7 +225,9 @@
           "url": "https://www.rba.gov.au/media-releases/2021/"
         }
       ],
-      "topics": "Media Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -215,7 +235,9 @@
       "title": "All Speeches | RBA",
       "text": "Speeches by senior staff of the Reserve Bank.",
       "source": "Reserve Bank of Australia",
-      "topics": "Speeches",
+      "topics": [
+        "speeches"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -237,7 +259,10 @@
           "url": "https://www.rba.gov.au/media-releases/2025/mr-25-12.html"
         }
       ],
-      "topics": "Media Releases (2025)",
+      "topics": [
+        "press_releases",
+        "monetary_policy"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -246,9 +271,7 @@
       "text": "All Governors' Speeches · Michele Bullock · 2024 · 2023 · Philip Lowe · 2023 · 2022 · 2021 · 2020 · 2019 · 2018 · Speeches by Michele Bullock · All Deputy ...",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "Speeches (2025)",
-        "Governors' Speeches",
-        "Deputy Governors' Speeches"
+        "speeches"
       ],
       "listing_probability": 1.0
     },
@@ -258,7 +281,9 @@
       "text": "Speech delivered by Andrew Hauser, Deputy Governor, at the Opening Dinner for the Citi A50 Australian Economic Forum 2024, Sydney.",
       "source": "Reserve Bank of Australia",
       "published_time": "2024-06-27T00:00:00",
-      "topics": "N/A",
+      "topics": [
+        "speeches"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -266,7 +291,9 @@
       "title": "Media Releases – 2024 | RBA",
       "text": "Staff Appointment. 19 December 2024 Media Release 2024-29 ; Statement from the Governor of the Reserve Bank of Australia. 16 December 2024 Media Release 2024-28.",
       "source": "Reserve Bank of Australia",
-      "topics": "Media Releases (2024)",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -274,7 +301,10 @@
       "title": "Payments & Infrastructure Resources – Media Releases | RBA",
       "text": "23 April 2024 Report Highlights Benefits and Challenges of Interlinking Fast Payment Systems for Cross-border Payments",
       "source": "Reserve Bank of Australia",
-      "topics": "Media Releases (Payments & Infrastructure)",
+      "topics": [
+        "press_releases",
+        "regulatory_updates"
+      ],
       "listing_probability": 0.9
     },
     {
@@ -283,7 +313,10 @@
       "text": "At its meeting today, the Board decided to leave the cash rate target unchanged at 3.85 per cent. Inflation has continued to moderate.",
       "source": "Reserve Bank of Australia",
       "published_time": "2025-07-08T00:00:00",
-      "topics": "N/A",
+      "topics": [
+        "press_releases",
+        "monetary_policy"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -292,7 +325,9 @@
       "text": "A growing population clearly implies that underlying demand for housing is rising over time – all of these extra people need a place to live.",
       "source": "Reserve Bank of Australia",
       "published_time": "2024-05-16T00:00:00",
-      "topics": "N/A",
+      "topics": [
+        "speeches"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -331,9 +366,8 @@
         }
       ],
       "topics": [
-        "Statistical tables",
-        "Economic data",
-        "Financial data"
+        "statistical_bulletins",
+        "exchange_rate"
       ],
       "listing_probability": 1.0
     },
@@ -343,8 +377,8 @@
       "text": "This page lists longer time series of selected statistical tables. On This Page. Reserve Bank of Australia; Assets and Liabilities; Exchange Rates; Government ...",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "Historical statistical data",
-        "Time series data"
+        "statistical_bulletins",
+        "exchange_rate"
       ],
       "listing_probability": 1.0
     },
@@ -354,8 +388,7 @@
       "text": "The Reserve Bank has published monthly and quarterly statistics on Australian payment systems from its Retail Payments Statistics (RPS) collection since 2002.",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "Payments statistics",
-        "Retail Payments Statistics"
+        "statistical_bulletins"
       ],
       "listing_probability": 1.0
     },
@@ -364,7 +397,9 @@
       "title": "Glossary for Statistical Data | RBA",
       "text": "This page provides definitions to terms frequently used in statistical tables published by the Reserve Bank of Australia.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -372,7 +407,9 @@
       "title": "Other Data Sources | RBA",
       "text": "This page provides links to widely referenced economic and financial data from other sources.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.3
     },
     {
@@ -380,15 +417,19 @@
       "title": "Discontinued Data - Reserve Bank of Australia",
       "text": "This page lists data that are no longer published or reproduced by the Reserve Bank of Australia.",
       "source": "Reserve Bank of Australia",
-      "topics": "Discontinued statistical data",
-      "listing_probability": 1.0
+      "topics": [
+        "statistical_bulletins"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.rba.gov.au/chart-pack/data-availability.html",
       "title": "Data Availability | RBA",
       "text": "Similar data available from APRA Quarterly authorised deposit-taking institution statistics · Data are available by request.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.1
     },
     {
@@ -397,9 +438,8 @@
       "text": "Market Operations Resources Statistics ; Monetary Policy Operations – Current – A3 201 KB ; Holdings of Australian Government Securities and Semis - A3.1 853 KB ...",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "Market operations statistics",
-        "Monetary policy operations data",
-        "Government securities holdings data"
+        "statistical_bulletins",
+        "monetary_policy"
       ],
       "listing_probability": 1.0
     },
@@ -409,10 +449,10 @@
       "text": "The RBA has committed to providing quarterly operational reliability figures for its payment settlement services.",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "System availability statistics",
-        "Payment settlement services statistics"
+        "statistical_bulletins",
+        "regulatory_updates"
       ],
-      "listing_probability": 1.0
+      "listing_probability": 0.9
     },
     {
       "url": "https://afxc.rba.gov.au/statistics/",
@@ -420,8 +460,8 @@
       "text": "Semi-annual Reports on Foreign Exchange Turnover · 2024 · 2023 · 2022 · 2021 · 2020 · 2019 · 2018 · 2017.",
       "source": "Australian Foreign Exchange Committee",
       "topics": [
-        "Foreign Exchange Turnover Reports",
-        "AFXC Statistics"
+        "statistical_bulletins",
+        "exchange_rate"
       ],
       "listing_probability": 1.0
     },
@@ -431,9 +471,8 @@
       "text": "You are here: SIF Home › Archive. In the Archive · News Archive · Notices Archive. Archive. Go to. News Archive · Notices Archive.",
       "source": "Reserve Bank of Australia",
       "topics": [
-        "News archive",
-        "Notices archive",
-        "Securitisations Industry Forum archive"
+        "news",
+        "publications_misc"
       ],
       "listing_probability": 1.0
     },
@@ -442,7 +481,10 @@
       "title": "Index Construction | RDP 2023-06: Firms' Price-setting Behaviour",
       "text": "To construct the indices, we use two approaches. The first is dictionary-based. We construct transcript-level sentiment indices by simply looking up specific ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -450,7 +492,10 @@
       "title": "Index Numbers Share Econometric Foundations | RDP 2018-08",
       "text": "RDP 2018-08: Econometric Perspectives on Economic Measurement 3. Index Numbers Share Econometric Foundations. Adam Gorajek. July 2018. Download the Paper 1,726 ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -458,7 +503,11 @@
       "title": "Calculating a Real Exchange Rate Index | RDP 2001-04",
       "text": "A real exchange rate index is generally calculated as a weighted average of bilateral exchange rates that have been adjusted for relative price levels.",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers",
+        "exchange_rate"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -466,7 +515,10 @@
       "title": "An Index of Asset Prices | RDP 9109: Estimates of Private Sector Wealth",
       "text": "This index is restricted to three asset classes (dwellings, commercial property and equities) due to the limited availability of market price data for the other ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -474,7 +526,9 @@
       "title": "5.1 Statutory Reporting Requirements Index | RBA",
       "text": "To assist readers locate this information, the index of statutory reporting requirements identifies where relevant information can be found in this annual ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "annual_reports"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -482,7 +536,9 @@
       "title": "Statutory Reporting Requirements Index | RBA",
       "text": "To assist readers to locate relevant information, this index of annual report statutory reporting requirements identifies where the information can be found in ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "annual_reports"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -490,21 +546,31 @@
       "title": "An Invoice-share-weighted Exchange Rate Index | RDP 2016-05",
       "text": "The invoice-share-weighted exchange rate should better predict short-run changes in import prices for foreign currency-invoiced goods than the import trade- ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "research_papers",
+        "working_papers",
+        "exchange_rate"
+      ],
       "listing_probability": 0.0
     },
     {
       "url": "https://www.rba.gov.au/publications/smp/2019/may/box-c-housing-in-the-consumer-price-index.html",
       "title": "Box C: Housing in the Consumer Price Index | Statement on ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "monetary_policy",
+        "inflation_reports"
+      ],
       "listing_probability": 0.0
     },
     {
       "url": "https://www.rba.gov.au/publications/smp/2021/feb/box-a-consumption-patterns-and-consumer-price-index-weights.html",
       "title": "Box A: Consumption Patterns and Consumer Price Index Weights ...",
       "source": "Reserve Bank of Australia",
-      "topics": "N/A",
+      "topics": [
+        "monetary_policy",
+        "inflation_reports"
+      ],
       "listing_probability": 0.0
     }
   ]

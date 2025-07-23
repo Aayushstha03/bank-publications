@@ -24,9 +24,9 @@ PROMPT = (
     "You are an expert at identifying whether a web page is a listing/collection page for publications, news articles, reports, research papers or similar official documents on a central bank website. "
     "A listing page contains links to multiple documents or downloadable items, not just a single article, report, or news post. "
     "Given the following JSON containing a list of URL blocks (with title, url, and text), for each block, append two new fields: "
-    "1. 'topics': a list or string describing the main topics or types of documents covered in the listing (e.g., 'annual reports', 'statistical bulletins', 'research papers'). "
+    "1. 'topics': a list describing the main topics or types of documents covered in the listing, assign from news, annual_reports, monetary_policy, statistical_bulletins, economic_reviews, research_papers, working_papers, financial_stability, inflation_reports, exchange_rate, press_releases, speeches, regulatory_updates, publications_misc, or NA if not applicable "
     "2. 'listing_probability': a score between 0 and 1 indicating how likely it is that the page is a listing or collection page for publications/reports. "
-    "Do not give a high score to single document pages or home/about/contact/FAQ pages. "
+    "Do not give a high score to single document pages or home/about/contact/FAQ pages."
     "Return the same JSON structure, but with the two new fields added to each block. Do not use markdown formatting or any extra text."
 )
 

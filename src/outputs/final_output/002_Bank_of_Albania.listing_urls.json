@@ -6,7 +6,9 @@
       "title": "Publications of the Bank of Albania",
       "text": "The publications of the Bank of Albania offer extensive and updated information on the Albanian and global economy as well as on developments in the banking ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -14,7 +16,9 @@
       "title": "All publications by date",
       "text": "Here you can find all publications published during actual year and listed in a chronological order.",
       "source": "Banka e Shqipërisë",
-      "topics": "All publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -22,7 +26,9 @@
       "title": "2007 Catalogue of Publications",
       "text": "The catalogue of publications of the Bank of Albania for 2007 is a summary of periodical and non-periodical publications and reports, other publications ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Catalogue of Publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 0.9
     },
     {
@@ -30,7 +36,9 @@
       "title": "All publications by date",
       "text": "Here you can find all publications published during actual year and listed in a chronological order.",
       "source": "Banka e Shqipërisë",
-      "topics": "All publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -38,7 +46,9 @@
       "title": "All publications by date",
       "text": "Here you can find all publications published during actual year and listed in a chronological order.",
       "source": "Banka e Shqipërisë",
-      "topics": "All publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -46,7 +56,9 @@
       "title": "Financial Stability Reports",
       "text": "Financial Stability Reports. Published in Albanian and English, half yearly. Financial Stability Reports in years: By year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Financial Stability Reports",
+      "topics": [
+        "financial_stability"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -54,7 +66,9 @@
       "title": "Financial Stability Reports",
       "text": "Financial Stability Reports. Published in Albanian and English, half yearly. Financial Stability Reports in years: 2007. 2024 2023 2022 2021 2020 2019 2018 ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Financial Stability Reports",
+      "topics": [
+        "financial_stability"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -62,7 +76,9 @@
       "title": "Catalogue of Publications 2006",
       "text": "The catalogue of publications of the Bank of Albania for 2006 is a summary of periodical and non-periodical publications and reports, other publications ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Catalogue of Publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 0.9
     },
     {
@@ -70,7 +86,9 @@
       "title": "All publications by date",
       "text": "Here you can find all publications published during actual year and listed in a chronological order.",
       "source": "Banka e Shqipërisë",
-      "topics": "All publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -78,7 +96,9 @@
       "title": "All publications by date",
       "text": "Here you can find all publications published during actual year and listed in a chronological order.",
       "source": "Banka e Shqipërisë",
-      "topics": "All publications",
+      "topics": [
+        "publications_misc"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -86,7 +106,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -94,7 +116,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -102,7 +126,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -110,7 +136,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -118,7 +146,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -126,7 +156,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -134,7 +166,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -142,7 +176,12 @@
       "title": "Njoftime - Banka e Shqipërisë",
       "text": "Njoftimet për shtyp · Njoftime të mbledhjeve të Këshillit Mbikëqyrës · Njoftime mbi vendimmarrjen e politikës monetare · Konferenca për shtyp · Fjalime, intervista ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases, Announcements, Speeches, Interviews",
+      "topics": [
+        "press_releases",
+        "monetary_policy",
+        "speeches",
+        "news"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -150,7 +189,9 @@
       "title": "Press Releases",
       "text": "Press releases listed in chronological order, by year.",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -158,7 +199,9 @@
       "title": "Press Releases",
       "text": "Press Releases. Year Categorization. 2025 2024 2023 2022 All. 2025. 04.02.2025. Bilateral Measure between BoA and National Bank of Italy. 2024. 08.10.2024 ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Press Releases",
+      "topics": [
+        "press_releases"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -166,7 +209,9 @@
       "title": "Statistics",
       "text": "The Bank of Albania compiles statistics to support the decision-making processes and bodies and performs statistical functions for the public at large.",
       "source": "Banka e Shqipërisë",
-      "topics": "Statistics",
+      "topics": [
+        "statistical_bulletins"
+      ],
       "listing_probability": 0.9
     },
     {
@@ -174,7 +219,10 @@
       "title": "Monetary, Financial and Banking statistics",
       "text": "The monetary and financial statistics are statistics compiled and published by the Bank of Albanian for the purposes of the monetary policy and financial ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Monetary Statistics, Financial Statistics, Banking Statistics",
+      "topics": [
+        "statistical_bulletins",
+        "monetary_policy"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -182,7 +230,11 @@
       "title": "Time series",
       "text": "Monetary, Financial and Banking statistics · Interest rates statistics · Official interest rates · Interest rates of government securities · External sector ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Time Series Data, Monetary Statistics, Financial Statistics, Banking Statistics, Interest Rate Statistics, External Sector Statistics",
+      "topics": [
+        "statistical_bulletins",
+        "monetary_policy",
+        "exchange_rate"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -190,7 +242,9 @@
       "title": "Payment systems statistics",
       "text": "Payment systems statistics. The Bank of Albania collects, compiles and publishes, among others, statistics on payment systems and payment instruments.",
       "source": "Banka e Shqipërisë",
-      "topics": "Payment Systems Statistics, Payment Instruments Statistics",
+      "topics": [
+        "statistical_bulletins"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -198,7 +252,10 @@
       "title": "External sector statistics",
       "text": "Bank of Albania compiles external sector statistics, including the balance of payments, external debt, international investment position and international ...",
       "source": "Banka e Shqipërisë",
-      "topics": "External Sector Statistics, Balance of Payments, External Debt, International Investment Position",
+      "topics": [
+        "statistical_bulletins",
+        "exchange_rate"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -206,31 +263,44 @@
       "title": "Monetary, Financial and Banking statistics",
       "text": "Data update · Foreign currency deposits converted in ALL by sector and maturity. · Deposits denominated in USD by sector and maturity [Bank of Albania] (Monthly) ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Monetary Statistics, Financial Statistics, Banking Statistics, Deposits Data",
-      "listing_probability": 0.9
+      "topics": [
+        "statistical_bulletins",
+        "monetary_policy"
+      ],
+      "listing_probability": 1.0
     },
     {
       "url": "https://www.bankofalbania.org/Statistics/Monetary_Financial_and_Banking_statistics/Banking_Statistics.html",
       "title": "Banking Statistics",
       "text": "Banking Statistics ; Bank of Albania · The table presents aggregated data on Financial Soundness Indicators (FSI) for banks in the Albanian banking sector. March ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Banking Statistics, Financial Soundness Indicators",
-      "listing_probability": 0.7
+      "topics": [
+        "statistical_bulletins",
+        "financial_stability"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.bankofalbania.org/Statistics/Monetary_Financial_and_Banking_statistics/Monetary_Financial_and_Banking_statistics.html?evb=agregate&evn=agregate_detaje&cregtab_id=677&periudha_id=1",
       "title": "Monetary, Financial and Banking statistics",
       "text": "Monetary, Financial and Banking statistics ; Agregate » MONETARY AND FINANCIAL STATISTICS » MONETARY STATISTICS » ARCHIVE » Deposits (- August 2016) · US dollar ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Monetary Statistics, Financial Statistics, Banking Statistics, Archived Deposits Data",
-      "listing_probability": 0.9
+      "topics": [
+        "statistical_bulletins",
+        "monetary_policy"
+      ],
+      "listing_probability": 1.0
     },
     {
       "url": "https://www.bankofalbania.org/Statistics/External_sector_statistics/International_Investment_Position_IIP/Main_data_for_International_Investment_Position_IIP.html?evb=agregate&evn=agregate_parent_sel&Cgroups=17",
       "title": "Main data for International Investment Position (IIP)",
       "text": "Monetary, Financial and Banking statistics · Interest rates statistics · Official interest rates · Interest rates of government securities · External sector ...",
       "source": "Banka e Shqipërisë",
-      "topics": "International Investment Position (IIP) Data, Monetary Statistics, Financial Statistics, Banking Statistics, Interest Rate Statistics, External Sector Statistics",
+      "topics": [
+        "statistical_bulletins",
+        "exchange_rate",
+        "monetary_policy"
+      ],
       "listing_probability": 0.9
     },
     {
@@ -238,15 +308,20 @@
       "title": "Monetary, Financial and Banking statistics",
       "text": "Agregate · - A - Total of all items · - A.1 - Food and non-alcoholics beverages · - A.2 - Alcoholic beverages and tobacco · - A.3 - Clothing and footwear · - A.4 - ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Monetary Statistics, Financial Statistics, Banking Statistics, Aggregated Data",
-      "listing_probability": 0.9
+      "topics": [
+        "statistical_bulletins",
+        "monetary_policy"
+      ],
+      "listing_probability": 1.0
     },
     {
       "url": "https://www.bankofalbania.org/Publications/Research/Research_Papers/",
       "title": "Research Papers",
       "text": "The Research Papers consist of research studies and analyses on subjects related to theoretical and practical aspects, relevant for current and future economic ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Papers, Research Studies, Economic Analyses",
+      "topics": [
+        "research_papers"
+      ],
       "listing_probability": 1.0
     },
     {
@@ -254,56 +329,72 @@
       "title": "Research Newsletter, No.10",
       "text": "Research Newsletter, No.10. Author: Research Department. Printed on: 17.09.2013. Production date: 17.09.2013. Material category : Periodic Publications ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Newsletter",
-      "listing_probability": 0.1
+      "topics": [
+        "publications_misc"
+      ],
+      "listing_probability": 0.0
     },
     {
       "url": "https://www.bankofalbania.org/Publications/Research/Research_Papers/Albanian_Household_Wealth_Survey-AHWS_Results_from_the_first_wave.html",
       "title": "Albanian Household Wealth Survey-AHWS: Results from the first ...",
       "text": "This report summarizes the main findings from the first round of the Albanian Household Wealth Survey, conducted by the Bank of Albania in early 2019.",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Paper, Household Wealth Survey Report",
-      "listing_probability": 0.1
+      "topics": [
+        "research_papers"
+      ],
+      "listing_probability": 0.0
     },
     {
       "url": "https://www.bankofalbania.org/Publications/Research/Research_Papers/Competition_in_the_Albanian_banking_system.html",
       "title": "Competition in the Albanian banking system",
       "text": "This paper applies the Panzar-Rosse methodology to measure the competition degree in the Albanian banking system. The results suggest that Albanian banks ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Paper, Banking System Competition",
-      "listing_probability": 0.1
+      "topics": [
+        "research_papers"
+      ],
+      "listing_probability": 0.0
     },
     {
       "url": "https://www.bankofalbania.org/Publications/All_publications/Research_Newsletter_No_33.html",
       "title": "Research Newsletter, No.33",
       "text": "Author: Research Department ; Printed on: 03.02.2025 ; Production date: 03.02.2025 ; Material category : Periodic ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Newsletter",
-      "listing_probability": 0.1
+      "topics": [
+        "publications_misc"
+      ],
+      "listing_probability": 0.0
     },
     {
       "url": "https://www.bankofalbania.org/Press/Call_for_Papers_19th_South-Eastern_European_Economic_Research_Workshop_Tirana_6_7_November_2025.html",
       "title": "Call for Papers: 19th South-Eastern European Economic Research ...",
       "text": "This workshop aims to provide a forum for discussion of innovative research papers and to foster the exchange of views among researchers from ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Call for Papers, Workshop Announcement",
-      "listing_probability": 0.05
+      "topics": [
+        "news"
+      ],
+      "listing_probability": 0.0
     },
     {
       "url": "https://www.bankofalbania.org/Publications/Research/Research_Newsletter/?fkwid=24_7&ser=64&msv=&crd=0,15,7,2,0,11414&ln=2",
       "title": "Research Newsletter",
       "text": "The Research Newsletter features information of recently concluded and in-progress research papers at the Bank of Albania.",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Newsletter, Research Papers",
-      "listing_probability": 1.0
+      "topics": [
+        "publications_misc",
+        "research_papers"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.bankofalbania.org/Publications/Research/Research_Papers/Spillover_effects_of_ECB_policies_in_a_SoE_framework.html",
       "title": "Spillover effects of ECB policies in a SoE framework",
       "text": "The scope in this study is to assess the impact of unconventional monetary policy (UMP) of European Central Bank (ECB) on the dynamics of the Albanian ...",
       "source": "Banka e Shqipërisë",
-      "topics": "Research Paper, ECB Monetary Policy, Spillover Effects",
-      "listing_probability": 0.1
+      "topics": [
+        "research_papers",
+        "monetary_policy"
+      ],
+      "listing_probability": 0.0
     }
   ]
 }

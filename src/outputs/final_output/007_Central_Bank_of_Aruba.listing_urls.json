@@ -4,18 +4,24 @@
     {
       "url": "https://www.cbaruba.org/monthly-bulletins/",
       "title": "Monthly economic bulletins - Centrale Bank van Aruba",
-      "text": "In the Monthly Economic Bulletins we discuss the main economic indicators, such as the monetary developments during the month under review, inflation, ...",
+      "text": "In the Monthly Economic Bulletins we discuss the main economic indicators, such as the monetary developments during the month under review, inflation, tourism, ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "monthly economic bulletins",
-      "listing_probability": 1.0
+      "topics": [
+        "economic_reviews",
+        "statistical_bulletins"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.cbaruba.org/quarterly-economic-bulletins/",
       "title": "Quarterly economic bulletins - Centrale Bank van Aruba",
       "text": "Quarterly economic bulletins. The Statistics Department describes the developments in the balance of payments and the financial sector during the quarter ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "quarterly economic bulletins",
-      "listing_probability": 1.0
+      "topics": [
+        "economic_reviews",
+        "statistical_bulletins"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.cbaruba.org/annual-reports/",
@@ -23,32 +29,42 @@
       "text": "Annual Reports. Our annual reports are a comprehensive report detailing our activities throughout the preceding year.",
       "source": "Centrale Bank van Aruba",
       "published_time": "2020-08-03T00:00:00",
-      "topics": "annual reports, publications",
-      "listing_probability": 1.0
+      "topics": [
+        "annual_reports"
+      ],
+      "listing_probability": 0.95
     },
     {
       "url": "https://www.cbaruba.org/integrity-supervision-publications-and-presentations/",
       "title": "publications presentations - Centrale Bank van Aruba",
       "text": "One of the main publications of the CBA is the yearly issued Financial Sector Supervision report. This report is a legally mandated report.",
       "source": "Centrale Bank van Aruba",
-      "topics": "integrity supervision publications, presentations, financial sector supervision reports",
-      "listing_probability": 0.95
+      "topics": [
+        "publications_misc",
+        "financial_stability"
+      ],
+      "listing_probability": 0.85
     },
     {
       "url": "https://www.cbaruba.org/tags/Publications/",
       "title": "All articles and documents tagged with 'Publications'",
       "text": "All articles and documents tagged with 'Publications'. Monthly Tables May 2022 last updated July 1, 2022. Published on: July 1, 2022.",
       "source": "Centrale Bank van Aruba",
-      "topics": "all publications, articles, documents",
-      "listing_probability": 1.0
+      "topics": [
+        "publications_misc"
+      ],
+      "listing_probability": 0.98
     },
     {
       "url": "https://www.cbaruba.org/document/monthly-economic-bulletins-2022/",
       "title": "Monthly Economic Bulletins 2022 - Centrale Bank van Aruba",
       "text": "Monthly Economic Bulletin December 2022 Download ... Monthly Economic Bulletin November 2022 Download ... Monthly Economic Bulletin October 2022 ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "monthly economic bulletins, 2022 publications",
-      "listing_probability": 0.9
+      "topics": [
+        "economic_reviews",
+        "statistical_bulletins"
+      ],
+      "listing_probability": 0.95
     },
     {
       "url": "https://www.cbaruba.org/document/publications",
@@ -56,8 +72,10 @@
       "text": "Final and Published Position Paper Enabling Instant Payment Innovations in Aruba 20 mei 2022.pdf Download",
       "source": "Centrale Bank van Aruba",
       "published_time": "2021-11-18T00:00:00",
-      "topics": "publications, position papers",
-      "listing_probability": 0.2
+      "topics": [
+        "publications_misc"
+      ],
+      "listing_probability": 0.1
     },
     {
       "url": "https://www.cbaruba.org/document/annual-statistical-digest-asd-publications",
@@ -65,16 +83,21 @@
       "text": "Annual Statistical Digest 2022 Download, Annual Statistical Digest 2022 (Excel) Download, Annual Statistical Digest 2021.pdf Download",
       "source": "Centrale Bank van Aruba",
       "published_time": "2021-12-01T00:00:00",
-      "topics": "annual statistical digest, ASD publications",
-      "listing_probability": 0.9
+      "topics": [
+        "statistical_bulletins",
+        "publications_misc"
+      ],
+      "listing_probability": 0.95
     },
     {
       "url": "https://www.cbaruba.org/faqs/6/",
       "title": "FAQ - Publications - Frequently Asked Questions - Centrale Bank van Aruba",
       "text": "How can I get copies of the CBA's publications? Copies are free. You can download this from the website, go to Publications, select the type of publication you ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "FAQ, publications access information",
-      "listing_probability": 0.0
+      "topics": [
+        "NA"
+      ],
+      "listing_probability": 0.05
     },
     {
       "url": "https://www.cbaruba.org/document/quarterly-economic-bulletins-2022",
@@ -82,32 +105,42 @@
       "text": "Quarterly Economic Bulletin External Sector Balance of Payments Q4 2022.pdf Download. Quarterly Economic Bulletin External Sector Balance of ...",
       "source": "Centrale Bank van Aruba",
       "published_time": "2022-05-06T00:00:00",
-      "topics": "quarterly economic bulletins, 2022 publications",
-      "listing_probability": 0.9
+      "topics": [
+        "economic_reviews",
+        "statistical_bulletins"
+      ],
+      "listing_probability": 0.95
     },
     {
       "url": "https://www.cbaruba.org/press-releases/",
       "title": "Press releases - Centrale Bank van Aruba",
       "text": "The Centrale Bank van Aruba (CBA) published the Business Perception Survey for the first quarter of 2025. Access the complete publication here or read the ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "press releases, business perception surveys",
-      "listing_probability": 1.0
+      "topics": [
+        "press_releases"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.cbaruba.org/getArticleList.do?type=NEWS&firstItem=41",
       "title": "Press Releases - Centrale Bank van Aruba",
       "text": "Press Releases ; State of the Economy Q2 2024 · Tuesday, Dec 24, 2024 ; Consumer Confidence Survey Q3 2024 · Tuesday, Dec 24, 2024 ; Press release MPC meeting ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "press releases, news articles, economic reports, consumer confidence surveys",
-      "listing_probability": 1.0
+      "topics": [
+        "press_releases",
+        "news"
+      ],
+      "listing_probability": 0.98
     },
     {
       "url": "https://www.cbaruba.org/related-press-releases/?tags=surveys",
       "title": "Related Press Releases - Centrale Bank van Aruba",
       "text": "The Centrale Bank van Aruba (the CBA) is a legal entity in itself within the public sector. Its main purpose is to maintain the internal and external value of ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "related press releases, surveys",
-      "listing_probability": 0.7
+      "topics": [
+        "press_releases"
+      ],
+      "listing_probability": 0.8
     },
     {
       "url": "https://www.cbaruba.org/document/press-releases-i-pago/",
@@ -115,32 +148,44 @@
       "text": "Press Releases i-Pago. Categories: All Documents. Published on: Wednesday, May 25, 2022. Print this. Attached files. I-Pago now available in Aruba.",
       "source": "Centrale Bank van Aruba",
       "published_time": "2022-05-25T00:00:00",
-      "topics": "press releases, i-Pago",
-      "listing_probability": 0.2
+      "topics": [
+        "press_releases"
+      ],
+      "listing_probability": 0.1
     },
     {
       "url": "https://www.cbaruba.org/related-press-releases/?tags=banknotes,%20coins",
       "title": "Related Press Releases - Centrale Bank van Aruba",
       "text": "Related Press Releases · The CBA distributes booklets of new notes · Aruba Wins IBNS Bank Note of the Year Award · Proud of Aruba · Recent Bank News · Recent Reports.",
       "source": "Centrale Bank van Aruba",
-      "topics": "related press releases, banknotes, coins, bank news, reports",
-      "listing_probability": 1.0
+      "topics": [
+        "press_releases",
+        "news",
+        "publications_misc"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.cbaruba.org/statistical-surveys",
       "title": "Statistical Surveys - Centrale Bank van Aruba",
       "text": "The Statistics Department conducts several surveys each quarter, such as the Business Perception Survey, the Consumer Confidence Survey and the Real Estate ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "statistical surveys, business perception survey, consumer confidence survey, real estate survey",
-      "listing_probability": 0.95
+      "topics": [
+        "statistical_bulletins",
+        "publications_misc"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://www.cbaruba.org/tags/statistics/",
       "title": "All articles and documents tagged with 'statistics' - Centrale Bank van Aruba",
       "text": "All articles and documents tagged with 'statistics' · Monthly Tables 2023 · Financial Market Tables Q1 2022 · Monthly Tables 2022 · Financial Market Tables Q4 2021.",
       "source": "Centrale Bank van Aruba",
-      "topics": "all statistics documents, monthly tables, financial market tables",
-      "listing_probability": 1.0
+      "topics": [
+        "statistical_bulletins",
+        "publications_misc"
+      ],
+      "listing_probability": 0.98
     },
     {
       "url": "https://www.cbaruba.org/annual-statistical-digest-asd/",
@@ -148,15 +193,20 @@
       "text": "The Annual Statistical Digest (ASD) contains annual economic, financial, and social data, including financial, real, external and government sectors.",
       "source": "Centrale Bank van Aruba",
       "published_time": "2021-12-01T00:00:00",
-      "topics": "annual statistical digest, economic data, financial data, social data",
-      "listing_probability": 0.8
+      "topics": [
+        "statistical_bulletins",
+        "publications_misc"
+      ],
+      "listing_probability": 0.9
     },
     {
       "url": "https://careers.cbaruba.org/vacaturebeschrijving/statistics-policy-officer",
       "title": "Vacancy Statistics Policy Officer - Working at the CBA",
       "text": "We are looking for a dynamic and data-savvy STATISTICS POLICY OFFICER. Join our team and contribute to the financial stability of Aruba.",
       "source": "Centrale Bank van Aruba",
-      "topics": "career, job vacancy, statistics policy officer",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -165,7 +215,10 @@
       "text": "The Centrale Bank van Aruba (the CBA) is a legal entity in itself within the public sector. Its main purpose is to maintain the internal and external value of ...",
       "source": "Centrale Bank van Aruba",
       "published_time": "2022-08-02T00:00:00",
-      "topics": "annual statistical digest, ASD 2021",
+      "topics": [
+        "statistical_bulletins",
+        "publications_misc"
+      ],
       "listing_probability": 0.1
     },
     {
@@ -173,7 +226,9 @@
       "title": "Vacancy Data Analyst - Working at the CBA",
       "text": "Requirements · Master's or Bachelor's degree in Data Science, Finance, Economics, Statistics or Mathematics · Knowledge of and work experience in the area of data ...",
       "source": "Centrale Bank van Aruba",
-      "topics": "career, job vacancy, data analyst",
+      "topics": [
+        "NA"
+      ],
       "listing_probability": 0.0
     },
     {
@@ -182,7 +237,10 @@
       "text": "The Centrale Bank van Aruba (the CBA) is a legal entity in itself within the public sector. Its main purpose is to maintain the internal and external value of ...",
       "source": "Centrale Bank van Aruba",
       "published_time": "2022-08-02T00:00:00",
-      "topics": "annual statistical digest, ASD 2017",
+      "topics": [
+        "statistical_bulletins",
+        "publications_misc"
+      ],
       "listing_probability": 0.1
     },
     {
@@ -191,8 +249,11 @@
       "text": "Speech by the President at the launch of the Annual Report 2010. Categories: Publications. Published on: Friday, Nov 12, 2021 Print this.",
       "source": "Centrale Bank van Aruba",
       "published_time": "2021-11-12T00:00:00",
-      "topics": "speech, annual report launch",
-      "listing_probability": 0.1
+      "topics": [
+        "speeches",
+        "annual_reports"
+      ],
+      "listing_probability": 0.05
     }
   ]
 }
