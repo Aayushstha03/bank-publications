@@ -75,30 +75,19 @@ def main():
                             entry = json.loads(buffer)
                             if isinstance(entry, dict) and entry.get('Bank Name') and entry.get('search_results'):
                                 bank_name_norm = entry['Bank Name'].strip().lower()
-                                bank_url = entry.get('Bank URL', '').strip().lower()
-                                searched.add((bank_name_norm, bank_url))
+                                searched.add(bank_name_norm)
                         except json.JSONDecodeError:
                             print(f"Warning: Skipping invalid JSON object in {OUTPUT_PATH}")
                         buffer = ''
         except OSError:
             print(f"Warning: {OUTPUT_PATH} could not be read. Starting with empty results.")
 
-    for idx, (bank_name, queries) in enumerate(list(queries_by_bank.items())[:50], 1):
+    print(f"{len(searched)} unique banks have already been processed and saved in {OUTPUT_PATH}.")
+    unique_banks = [ (bank_name, queries) for bank_name, queries in queries_by_bank.items() if bank_name.strip().lower() not in searched ]
+    # Remove the 50-bank limit, process all banks at once
+    for idx, (bank_name, queries) in enumerate(unique_banks, 1):
         bank_name_norm = bank_name.strip().lower()
-        # Try to get bank_url from queries_by_bank if available
-        bank_url = ''
-        # If queries_by_bank is from generated_queries.json, we need to get the URL from websites.csv
-        # Otherwise, if the dict is {bank_name: [queries]}, we can't get the URL here
-        # So, try to get it from the first query if possible
-        # This is a fallback, ideally you should have a mapping of bank_name to bank_url
-        # For now, just use empty string if not available
-        if isinstance(queries, dict) and 'Bank URL' in queries:
-            bank_url = queries['Bank URL'].strip().lower()
-        # Otherwise, try to get from websites.csv if you want to improve this
-        if (bank_name_norm, bank_url) in searched:
-            print(f"[{idx}/50] Skipping {bank_name} - already has results.")
-            continue
-        print(f"[{idx}/50] Searching for queries for: {bank_name}")
+        print(f"[{idx}/{len(unique_banks)}] Searching for queries for: {bank_name}")
         bank_results = []
         for query in queries:
             print(f"  Running query: {query}")

@@ -30,24 +30,17 @@ def parse_json_objects(filepath):
 
 def filter_and_dedup_urls(bank_entry):
     seen = set()
-    filtered_results = []
+    all_urls = []
     for result in bank_entry.get('search_results', []):
-        urls = []
         sr = result.get('search_result', {})
         for item in sr.get('data', []):
             url = item.get('url')
             if url and url not in seen and not is_file_url(url):
                 seen.add(url)
-                urls.append(url)
-        # Only keep non-empty url lists
-        if urls:
-            filtered_results.append({
-                'query': result.get('query'),
-                'urls': urls
-            })
+                all_urls.append(url)
     return {
         'Bank Name': bank_entry.get('Bank Name'),
-        'filtered_results': filtered_results
+        'urls': all_urls
     }
 
 def main():
