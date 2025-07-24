@@ -1,0 +1,154 @@
+{
+  "Bank Name": "Federal Reserve Bank of Richmond",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/publications/research",
+                "title": "Research Publications | Richmond Fed",
+                "text": "Econ Focus is the economics magazine of the Richmond Fed. This publication covers economic issues affecting the Fifth Federal Reserve District and the nation.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research",
+                "title": "Research Publications | Richmond Fed",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.richmondfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.richmondfed.org/-/media/RichmondFedOrg/assets/images/publications/research/econ_focus/2025_q3/container_ship_sailing.JPG",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/print_subscription",
+                "title": "Publications Order Form | Richmond Fed",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.richmondfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.richmondfed.org/-/media/RichmondFedOrg/assets/images/promo/Publications/commdev_publications_subscription_pisi.jpg",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/press_room/speeches",
+                "title": "Speeches | Richmond Fed",
+                "text": "President Tom Barkin shares his views on the economy and the recent rate cut, and then looks to what could come next.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus/archive",
+                "title": "Archive: Former President Al Broaddus' Speeches | Richmond Fed",
+                "text": "As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook — as others see ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus",
+                "title": "Former President J. Alfred Broaddus- Speeches | Richmond Fed",
+                "text": "June 16, 2004 As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/publications/research/working_papers",
+                "title": "Working Papers | Richmond Fed",
+                "text": "These papers are written by Richmond Fed economists, in some cases in collaboration with outside economists. They represent work prepared for later publication.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research",
+                "title": "Research Publications | Richmond Fed",
+                "text": "Working Papers. Papers written by Richmond Fed economists representing work prepared for later publication or presentation to professional meetings. map of ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "Working Papers",
+                    "url": "https://www.richmondfed.org/publications/research/working_papers"
+                  },
+                  {
+                    "title": "Econ Focus",
+                    "url": "https://www.richmondfed.org/publications/research/econ_focus"
+                  },
+                  {
+                    "title": "Economic Brief",
+                    "url": "https://www.richmondfed.org/publications/research/economic_brief"
+                  },
+                  {
+                    "title": "Economic Quarterly",
+                    "url": "https://www.richmondfed.org/publications/research/economic_quarterly"
+                  },
+                  {
+                    "title": "Annual Report",
+                    "url": "https://www.richmondfed.org/publications/research/annual_report"
+                  },
+                  {
+                    "title": "Economic Impact of COVID-19",
+                    "url": "https://www.richmondfed.org/publications/research/coronavirus"
+                  },
+                  {
+                    "title": "Honoring Marvin Goodfriend",
+                    "url": "https://www.richmondfed.org/publications/research/goodfriend"
+                  }
+                ],
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/working_papers/archive",
+                "title": "Working Papers Archives - Federal Reserve Bank of Richmond",
+                "text": "Elijah Broadbent, Huberto M. Ennis, Tyler J. Pike and Horacio Sapriza. August 2024, No. 24-06. Bank Competition and Strategic Adaptation to Climate Change.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2022",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

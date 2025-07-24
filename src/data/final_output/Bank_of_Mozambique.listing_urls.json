@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bancomoc.mz/en/publications-and-studies/",
+        "title": "Publications and Research - Banco de Moçambique",
+        "text": "Economic Outlook and Inflation Forecasts, Financial Inclusion Indicators, Financial Inclusion Newsletter, Financial Inclusion Report, Financial Stability ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bancomoc.mz/en/publications-and-studies/?dateBegin=&dateEnd=&category=Public+Consultation&",
+        "title": "Publications and Research - Banco de Moçambique",
+        "text": "22-04-2025. PUBLIC CONSULTATION ON THE PROPOSED REVISION OF NOTICE THAT ESTABLISHES MEASURES FOR PROTECTING CUSTOMER FUNDS RECEIVED IN EXCHANGE FOR MOBILE MONEY.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bancomoc.mz/en/areas-of-expertise/statistics/statistics/",
+        "title": "Statistics - Banco de Moçambique",
+        "text": "The Banco de Moçambique collects, compiles and discloses the following statistics: monetary and financial, foreign exchange, external sectors, national payment ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancomoc.mz/en/media/highlights/annual-balance-of-payments-bulletin-2024/",
+        "title": "ANNUAL BALANCE OF PAYMENTS BULLETIN - 2024",
+        "text": "The report presents the results of the key components of Mozambique's BoP and IIP statistics, ranging from January to December 2024, with comparison to the ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bancomoc.mz/en/areas-of-expertise/statistics/statistical-domains-and-indicators/foreign-exchange-statistics/",
+        "title": "Foreign Exchange Statistics - Banco de Moçambique",
+        "text": "Home; What We Do; Statistics; Statistical Domains and Indicators · Foreign Exchange Statistics. Taxa de Cambio Media Mensal - Agosto 2022.",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bancomoc.mz/en/areas-of-expertise/monetary-policy/monetary-policy-committee/",
+        "title": "Monetary Policy Committee - Banco de Moçambique",
+        "text": "The Monetary Policy Committee (MPC) of the Banco de Moçambique (BM) is responsible for managing and implementing monetary policy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancomoc.mz/en/areas-of-expertise/monetary-policy/monetary-policy-framework/",
+        "title": "Monetary Policy Framework - Banco de Moçambique",
+        "text": "The monetary policy interest rate was introduced to improve the monetary policy transmission mechanism by signaling the policy stance more clearly and directly, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancomoc.mz/en/areas-of-expertise/financial-stability/macroprudential-policy/",
+        "title": "Macroprudential Policy - Banco de Moçambique",
+        "text": "The primary objective of the BM's macroprudential policy is to ensure the preservation of financial stability by strengthening the ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bancomoc.mz/en/media/governor-speeches/",
+        "title": "Governor Speeches - Banco de Moçambique",
+        "text": "Speeches by the Governor of the Banco de Moçambique. slide 1 of 1. Rogério Lucas Zandamela. 10-06-2025. OPENING REMARKS ON THE OPENNING CEREMONY OF THE 2025 ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancomoc.mz/en/media/highlights/bm-governor-announces-reduction-of-mimo-policy-rate-to-16-50-at-press-conference/",
+        "title": "BM GOVERNOR ANNOUNCES REDUCTION OF MIMO POLICY ...",
+        "text": "The Governor of the Banco de Moçambique, Rogério Zandamela, called for a press conference to announce the latest decisions of the Monetary Policy Committee ( ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

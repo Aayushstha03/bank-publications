@@ -1,0 +1,65 @@
+{
+  "Bank Name": "Bank of Jamaica",
+  "search_results": [
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/news/macroprudential-policy-tools-for-jamaica-discussionpaper.pdf",
+                "title": "MACROPRUDENTIAL Policy tools FOR JAMAICA",
+                "text": "Macroprudential policy describes the instruments and approach available to Bank of. Jamaica for the management of systemic risk. This discussion paper is ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/news/Currency_in_circulation_(02December2003).doc",
+                "title": "NEWS RELEASE - Bank of Jamaica",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/qmpr_press_briefing_speech_-_21_february_2019.pdf",
+                "title": "Quarterly Monetary Policy Report Press Conference Brian Wynter ...",
+                "text": "I have pleasure in introducing to you this morning our two new deputy governors. Mrs. Natalie Haynes, a Bank of Jamaica veteran, ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2019-02-21T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/bank_of_jamaica_30-day_cd_auction_press_release_30_nov_2020.pdf",
+                "title": "News Release 30 November 2020 - Bank of Jamaica",
+                "text": "Bank of Jamaica announces the issue of a 30-day fixed rate Certificate of Deposit. This instrument will be allocated through a competitive ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2020-11-30T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

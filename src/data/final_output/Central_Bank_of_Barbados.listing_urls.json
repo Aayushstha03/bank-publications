@@ -1,0 +1,111 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/news/publications",
+        "title": "Publications - Central Bank of Barbados",
+        "text": "The Central Bank of Barbados publishes a variety of publications that review economic activity, monetary policy, financial stability, and related financial ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/general-publications",
+        "title": "General Publications - Central Bank of Barbados",
+        "text": "Search General Publications. Search General Publications using the form below. Leave the keyword field empty for a list of all entries in the selected ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/annual-reports",
+        "title": "Annual Reports - Central Bank of Barbados",
+        "text": "Search Annual Reports. Search Annual Reports using the form below. Leave the keyword field empty for a list of all entries in the selected category.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/news/statistics",
+        "title": "Statistics - Central Bank of Barbados",
+        "text": "Welcome to the Statistics page of the Central Bank of Barbados, housing a wealth of statistical information compiled from original and secondary sources.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/statistics-news",
+        "title": "Statistics News - Central Bank of Barbados",
+        "text": "Each data update made to CBBWEBSTATS is reflected here and can be downloaded in Excel format through a series of pre-formatted tables.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/historical-financial-data",
+        "title": "Historical Financial Data - Central Bank of Barbados",
+        "text": "When released on July 31 2019, CBBWEBSTATS started with the most current data periods. From 2007 onwards in the case of Central Bank data, and from 2012 ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/news/general-press-release/intervention-policy-guideline",
+        "title": "Intervention Policy Guideline - Central Bank of Barbados",
+        "text": "The Central Bank of Barbados issues the Intervention Policy Guideline to provide general guidance to licensees on the procedures that the Bank will follow.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/web-documents/intervention-policy-framework",
+        "title": "Intervention Policy Framework - Central Bank of Barbados",
+        "text": "Intervention Policy Framework. Author(s): Central Bank Of Barbados; Created Date: 05 Apr,2012; Category: Web Documents,; Print.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/legislation-2/regulations-for-the-reproduction-of-barbadian-banknotes",
+        "title": "Regulations for the Reproduction of Barbadian Banknotes",
+        "text": "The Central Bank of Barbados is aware that individuals and organisations might on occasion wish to use reproductions1 of Barbadian currency.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/news",
+        "title": "News - Central Bank of Barbados",
+        "text": "A roundtable discussion to launch the 2024 Financial Stability Report. Read More. 26 Jun 2025. Central Bank of Barbados Selects Montran to Develop National ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/general-press-release",
+        "title": "General Press Release - Central Bank of Barbados",
+        "text": "Central Bank of Barbados Begins 2025 Summer Internship Programme. The students will spend the next three months working in departments across the Ban...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/economic-press-release",
+        "title": "Economic Press Release - Central Bank of Barbados",
+        "text": "Review of Barbados' Economy: January-March 2024 Governor Dr. Kevin Greenidge reports on Barbados' economic performance in the first...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/news/working-papers",
+        "title": "Working Papers - Central Bank of Barbados",
+        "text": "An investigation into the diversification effects of Bitcoin for Caribbean market investor. Over the last decade, cryptocurrencies have been growing rapidly in ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/research",
+        "title": "Research - Central Bank of Barbados",
+        "text": "The Central Bank of Barbados publishes a variety of statistics and publications that provide insight on monetary policy, financial stability, and related ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.sama.gov.sa/en-US/payment/pages/publications.aspx",
+        "title": "Publications",
+        "text": "Home · News. Supervision. Rulebook. Licenses. Licensed Entities · Banks · Finance · Payments · Licensed Money Exchange Centers · Credit Information.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.sama.gov.sa/en-US/News/Pages/allnews.aspx",
+        "title": "All News",
+        "text": "08/07/2025. SAMA Licenses “Awn Alraidah” Company to Engage in Consumer Microfinance Activity · 07/07/2025. SAMA Announces the Launch of the New E-commerce ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/News/Pages/SAMA%E2%80%99sPressReleaseontheIssuanceofSixLicensesforConductingFinanceActivitiesintheKingdom.aspx",
+        "title": "SAMA's Press Release on the Issuance of Six Licenses for ...",
+        "text": "1. A license for real estate finance activity to The Saudi Investment Bank; · 2. A license for financial leasing activity, and SMEs and productive assets finance ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-us/news/pages/news30092015.aspx",
+        "title": "Press release",
+        "text": "For the Liquidity Coverage Ratio, Saudi Arabia was deemed 'largely compliant'. The banking sector maintains a very high liquidity position, ...",
+        "listing_probability": 0.08
+      }
+    ]
+  }
+]

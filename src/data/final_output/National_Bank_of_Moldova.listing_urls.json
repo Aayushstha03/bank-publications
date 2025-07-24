@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bnm.md/en/content/financial-reports-banking-sector-39",
+        "title": "Financial reports on the banking sector | National Bank of Moldova",
+        "text": "Publication of statistical reports on financial reports on the banking sector: \"Balance Sheet on the banking sector\" and \"Income Statement\".",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "http://www.bnm.md/en/content/financial-reports-banking-sector-46",
+        "title": "Financial reports on the banking sector | National Bank of Moldova",
+        "text": "Publication of statistical reports on financial reports on the banking sector: \"Balance Sheet on the banking sector\" and \"Income Statement\".",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "http://www.bnm.md/en/content/instruction-compilation-and-submission-banks-primary-reports-identify-and-supervise-credit",
+        "title": "Instruction on the compilation and submission by banks of primary ...",
+        "text": "Licensed banks are obliged to prepare and submit the following primary reports to identify and supervise the credit risk.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "http://www.bnm.md/en/content/statistics",
+        "title": "Statistics | National Bank of Moldova - BNM",
+        "text": "1 Grigore Vieru Avenue, MD-2005, Chisinau, Republic of Moldova. Contacts.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "http://www.bnm.md/en/content/special-data-dissemination-standard",
+        "title": "Special Data Dissemination Standard | National Bank of Moldova - BNM",
+        "text": "The National Summary Data Page (NSDP) includes a wide range of macroeconomic indicators (data categories) related to the four sectors of the national economy – ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "http://www.bnm.md/en/content/access-interactive-database-dynamically-represented-statistics",
+        "title": "Access of interactive database with dynamically represented statistics",
+        "text": "The interactive database with dynamically represented statistics may be accessed by clicking on the special pictogram in the toolbar.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "http://www.bnm.md/en/content/regulations-list",
+        "title": "Regulations list | National Bank of Moldova - BNM",
+        "text": "Regulation on requirements for prevention and combating money laundering and terrorism financing in the activity of Foreign Exchange Entities and Hotels",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.bnm.md/en/content/monetary-policy-instruments",
+        "title": "Monetary Policy Instruments | National Bank of Moldova - BNM",
+        "text": "The main monetary policy instruments available to the National Bank pursuant to the regulations in force are: money market operations, interbank market ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "http://www.bnm.md/en/content/medium-term-monetary-policy-strategy-0",
+        "title": "Medium-term monetary policy strategy of the NBM - BNM",
+        "text": "In order to ensure and maintain price stability over the medium term, the NBM will be to keep inflation at the level of 5.0 percent annually with a possible ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "http://www.bnm.md/en/content/press-release-5",
+        "title": "Press release | National Bank of Moldova - BNM",
+        "text": "An inflation rate of 5 percent annually was taken into consideration to establish the effetive interest rate for all issuances. This is the level to which the ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bnm.md/en/content/press-release-maintaining-ccyb-rate-march-2025",
+        "title": "Press release on the maintaining of the CCyB rate, March 2025 - BNM",
+        "text": "2025 maintains the rate of the countercyclical capital buffer (CCyB) applied to credit exposures in the Republic of Moldova at 0% of the risk ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bnm.md/en/content/press-release-regular-meeting-national-committee-financial-stability-held-16062025",
+        "title": "Press release on the regular meeting of the National Committee on ... - BNM",
+        "text": "The purpose of the NCFS regular meetings is to assess risks in the financial sector and to establish measures for maintaining financial ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bnm.md/en/content/working-papers",
+        "title": "Working papers | National Bank of Moldova - BNM",
+        "text": "Working paper No. 1/2024: Improving debt service to income ratio in the Republic of Moldova: a quantitative approach",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bma.bm/publications/bma-surveys",
+        "title": "BMA Reports and Surveys - Bermuda Monetary Authority",
+        "text": "View or download the pdf reports on a variety of surveys conducted by the BMA including catastrophe risk report, alternative capital report, cyber report ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bma.bm/publications/annual-reports",
+        "title": "Annual Reports by the Bermuda Monetary Authority - BMA",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bma.bm/investment-fund-statistics",
+        "title": "Investment Fund Statistics - BMA - Bermuda Monetary Authority",
+        "text": "Investment Fund Statistics (Ended December 2022) View | Download Q1-2022 Investment Fund Statistics View | Download Q4-2021 Investment Fund Statistics",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bma.bm/statistics/monthly-registration-statistics",
+        "title": "Monthly Registration Statistics for Insurance Company in Bermuda",
+        "text": "View the monthly registration statistics documents comprising detailed information on types of insurers, date and more in Bermuda.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bma.bm/document-centre/policy-and-guidance-insurance",
+        "title": "Insurance - Policy & Guidance - BMA - Bermuda Monetary Authority",
+        "text": "The BMA has composed policy guidance on Bermuda's Insurance law to ensure everyone complies with it. View or download the document for better understanding.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bma.bm/document-centre/policy-and-guidance-banking",
+        "title": "Banking - Policy & Guidance - BMA - Bermuda Monetary Authority",
+        "text": "The BMA has composed policy guidance on Bermuda's Banking law to ensure everyone complies with it. View or download the document for better understanding.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bma.bm/standards-regulations",
+        "title": "Standards and Regulations of the Bermuda Monetary Authority - BMA",
+        "text": "The ​​BMA is committed to providing open, transparent regulatory frameworks and requirements, which are consistent with the international best practice.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bma.bm/news-and-press-releases",
+        "title": "News and Press Releases - BMA - Bermuda Monetary Authority",
+        "text": "View the latest news and press releases of the Monetary Authority of Bermuda here. You can filter them by year and month to easily find the one you are ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bma.bm/news-and-press-releases/press-release-bma-earns-prestigious-international-accolades",
+        "title": "Press Release - BMA Earns Prestigious International Accolades",
+        "text": "The BMA announced it has received multiple international recognitions by earning the prestigious LEED® certification in green building design for BMA House.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bma.bm/news-and-press-releases/press-release-public-warning-fraudulent-social-media-postings-linked-to-primeaurora",
+        "title": "Fraudulent Social Media Postings Linked to PrimeAurora - BMA",
+        "text": "The social media posting and pdf document directs readers to an online crypto-currency trading platform called PrimeAurora.",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

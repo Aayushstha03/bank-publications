@@ -1,0 +1,42 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.nbt.tj/en/statistics/statistical_bulletin.php",
+        "title": "Banking statistics bulletin",
+        "text": "Banking statistics bulletin. БМТ. 17 July 2025,Thursday. Exchange rate · Тоҷ Рус Eng · About us · Functions · Structure · Banking legislation · Organizational ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.nbt.tj/en/statistics/tavozuni-pardokhti-jt/mavkei-sarmoyaguzorihoi-baynalmilalii-jt/?month=03&year=2023",
+        "title": "Statistics",
+        "text": "A statistical report reflecting the value of financial assets of residents of the Republic of Tajikistan also in form of claims to non-residents and ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.nbt.tj/en/news/",
+        "title": "News",
+        "text": "News · Results of the auction · Meeting with the delegation of the International Rating Agency \"Standard & Poor's\" · Results of the auction · Results of the auction.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nbt.tj/en/financial_monitoring/news/494282",
+        "title": "News",
+        "text": "29.11.2024 Plenary Week of the Eurasian Group on Combating Money Laundering and the Financing of Terrorism. From November 25 to 29 of this year, ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://nbt.tj/en/news/?PAGEN_6=396",
+        "title": "News",
+        "text": "Results of the auction. The securities auction of the National Bank of Tajikistan on issue К252007063 was held on Junе 18, 2025 and its results as following ...",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

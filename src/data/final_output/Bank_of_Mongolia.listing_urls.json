@@ -1,0 +1,64 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.mongolbank.mn/en/search?k=International%20publications",
+        "title": "Search: International publications - Mongolbank.mn",
+        "text": "Please type in English. Depending on your language preferences it searches for the content in your preferred language.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.mongolbank.mn/en/p/research-and-statistics-department",
+        "title": "Research And Statistics Department - Mongolbank.mn",
+        "text": "Статистик, тайлан мэдээллийг хэрэглэгчдэд илүү хүртээмжтэй байлгах, ашиглахад хялбар болгох чиглэлээр тогтмол хөгжүүлэх. Судалгааны хэлтсийн чиг үүрэг.",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/search?k=Data%20envelopment%20analysis",
+        "title": "Search: Data envelopment analysis - Mongolbank.mn",
+        "text": "The official website of The Central Bank of Mongolia.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.mongolbank.mn/en/p/monetary-policy",
+        "title": "Monetary Policy - Mongolbank.mn",
+        "text": "Monetary Policy. Monetary Policy Statement. Monetary Policy Guidelines. Inflation report. Monetary Policy Committee. Regulation on MPC. Members.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/p/monetary-policy-committee",
+        "title": "Monetary Policy Committee - Mongolbank.mn",
+        "text": "Monetary Policy Committee · Monetary Policy Statement · Monetary Policy Strategy · Monetary Policy Instruments · Monetary Policy Guidelines · Inflation Report ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/p/monetary-policy-guidelines",
+        "title": "Monetary Policy Guidelines - Mongolbank.mn",
+        "text": "Монголбанкнаас өргөн барьсан төслийг УИХ хэлэлцэж Төв банкнаас дараагийн жилд баримтлах үндсэн чиглэлийг УИХ-ын тогтоолын хавсгараар баталдаг байна.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.mongolbank.mn/en/category/news",
+        "title": "News, information - Mongolbank.mn",
+        "text": "Brief history of the Bank of Mongolia, Former Governors, Difference Between Central Bank and Commercial Bank, BOM History, Structure of the Bank of Mongolia.",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

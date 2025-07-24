@@ -1,0 +1,94 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://cbu.uz/en/monetary-policy/publications/reviews/",
+        "title": "Monetary policy Reports - The Central Bank of the Republic of Uzbekistan",
+        "text": "USD = 12603.52. +25.31 ; EUR = 14676.80. +43.31 ; RUB = 160.94. +0.63 ; GBP = 16961.82. +55.45 ; JPY = 85.21. +0.63.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://cbu.uz/en/publications/",
+        "title": "Publications - The Central Bank of the Republic of Uzbekistan",
+        "text": "Publications · Annual report of Central Bank · Statistical bulletin of the Central bank · The results of surveys of enterprises in the real sector of economy.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://cbu.uz/en/publications/?mobile=Y",
+        "title": "Publications - The Central Bank of the Republic of Uzbekistan - cbu.uz",
+        "text": "Publications · Annual report of Central Bank · Statistical bulletin of the Central bank · The results of surveys of enterprises in the real sector of economy.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://cbu.uz/en/statistics/",
+        "title": "Statistics - The Central Bank of the Republic of Uzbekistan",
+        "text": "The section contains the following statistical data of the Central bank of Uzbekistan: Monetary and financial statistics.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://cbu.uz/en/statistics/buleten/",
+        "title": "Statistical bulletin of the Central bank",
+        "text": "Statistical bulletin of the Central bank ; USD = 12762.53. +58.51 ; EUR = 14978.11. +106.78 ; RUB = 162.66. +0.23 ; GBP = 17288.12. +144.05 ; JPY = 87.11. +0.95.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://cbu.uz/en/statistics/buleten/2156649/",
+        "title": "Statistical bulletin of the Central bank - 2024 december",
+        "text": "Through ID.uz · Home · Statistics · Statistical bulletin of the Central bank · Statistical bulletin of the Central bank - 2024 de...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://cbu.uz/en/monetary-policy/refinancing-rate/",
+        "title": "Policy rate - The Central Bank of the Republic of Uzbekistan",
+        "text": "The policy rate is a key instrument of monetary policy which determines monetary conditions that are necessary to ensure stable inflation within the 5% target.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://cbu.uz/en/monetary-policy/concept/",
+        "title": "Monetary policy Objective and principles",
+        "text": "The Central Bank develops and implements monetary policy with the goal of ensuring price stability, which means maintaining a low and stable level of inflation.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://cbu.uz/en/monetary-policy/publications/trend/",
+        "title": "Monetary policy guidelines - The Central Bank of the Republic of ...",
+        "text": "8.1 MB. MONETARY POLICY GUIDELINES FOR 2025 AND THE PERIOD OF 2026-2027 ; 4.2 MB. Monetary policy guidelines for 2024 and 2025-2026 ; 4.7 MB.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://cbu.uz/en/press_center/press-service/",
+        "title": "Press Service - The Central Bank of the Republic of Uzbekistan",
+        "text": "The Press Service can provide all kinds of available information concerning the activities of the CBU, except for information classified as “Confidential” and ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://cbu.uz/en/press_center/news/",
+        "title": "News - The Central Bank of the Republic of Uzbekistan",
+        "text": "News · Rescheduling of the Central Bank Board Meeting on the Policy Rate · A meeting was held with the management of the Islamic Financial Services Board (IFSB).",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://cbu.uz/en/monetary-policy/publications/press-releases/",
+        "title": "Press-releases - The Central Bank of the Republic of Uzbekistan",
+        "text": "Press-releases · PRESS RELEASE At the meeting on June 12, 2025, the Board of the Central Bank decided to keep the policy rate unchanged at 14 percent per annum.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

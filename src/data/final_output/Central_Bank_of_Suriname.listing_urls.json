@@ -1,0 +1,94 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/53-publications/cbvs-reports",
+        "title": "CBvS Reports - Centrale Bank van Suriname",
+        "text": "Subcategories · Semi-annual Reports · Annual Reports · Exchange RatesMarch 09th and until further notice · Gold CertificatesMarch 09th and until further notice ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/financial-market-statistics/daily-publications",
+        "title": "Daily Publications - Centrale Bank van Suriname",
+        "text": "Exchange rates during current week, Exchange Rates CBvS and Powisi Gold Certificates in SRD in PDF-format, Exchange rates during current week.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/50-publications-research",
+        "title": "Publications & Research - Centrale Bank van Suriname",
+        "text": "The Central Bank of Suriname (CBvS) presents a monthly inflation bulletin that covers an inflation analysis and a short-term inflation projection.",
+        "listing_probability": 0.75
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbvs.sr/en/49-statistics",
+        "title": "Statistics - Centrale Bank van Suriname",
+        "text": "It is produced by the Statistics Department of the Central Bank of Suriname and presents an overview of the main demographic, economic and financial data of the ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/methodologies/115-key-figures-footer/356-national-summary-data-page",
+        "title": "National Summary Data Page - Centrale Bank van Suriname",
+        "text": "You are here: · Home · Statistics · Methodologies · Key Figures · National Summary Data Page ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/54-publications/governor-s-speeches/205-opening-remarks-at-the-imf-cartac-course-on-national-accounts-statistics",
+        "title": "Opening remarks at the IMF-CARTAC Course on National Accounts ...",
+        "text": "Opening remarks at the IMF-CARTAC Course on National Accounts Statistics. Governor Gillmore Hoefdraad (February 2012). Click here for the speech.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbvs.sr/en/supervision-policy/regulations/moneylaundering/82-acts/426-laws-and-regulations-on-the-supervision-of-the-financial-system",
+        "title": "Laws and regulations on the supervision of the financial system",
+        "text": "The Supervision of Money Transaction Offices Act came into force in October 2012 and currently the Bank is drafting the guidelines for the implementation of ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbvs.sr/en/174-acts/regulations",
+        "title": "Regulations - Centrale Bank van Suriname",
+        "text": "Subcategories · Credit Institutions · Moneylaundering · Pension Funds · FATF-CFATF · Exchange RatesMarch 09th and until further notice · Gold CertificatesMarch 09th ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/174-acts/regulations",
+        "title": "Regulations - Centrale Bank van Suriname",
+        "text": "Credit Institutions · Moneylaundering · Pension Funds · FATF-CFATF. Exchange RatesMarch 09th and until further notice. Currency, Buying, Selling.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbvs.sr/en/news",
+        "title": "News - Centrale Bank van Suriname",
+        "text": "Click here for the PDF-version of the MEAI bulletin september 2023. Click here also for the PDF-version of the MEAI bulletin october 2023.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/54-publications-research/governor-s-speeches",
+        "title": "Governor's Speeches - Centrale Bank van Suriname",
+        "text": "Welcome speech by Governor Gillmore Hoefdraad in connection with Islamic Development Bank Day Suriname",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/38-press-releases",
+        "title": "Press Release - Financial Stability Report (Jan. 13, 2016)",
+        "text": "The report confirms the stability and strength of Suriname's financial sector. In addition, the stress tests and the improved risk profile of the commercial ...",
+        "listing_probability": 0.2
+      }
+    ]
+  }
+]

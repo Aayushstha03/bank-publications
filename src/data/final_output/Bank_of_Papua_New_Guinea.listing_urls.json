@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications",
+        "title": "Publications | Bank of PNG",
+        "text": "Access and download our past annual reports to stay informed about our financial performance and strategic initiatives.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/amlctf/amlctf-publications/fasu-annual-reports-and-publications",
+        "title": "FASU Annual Reports and Publications | Bank of PNG",
+        "text": "Publications by the Financial Analysis and Supervision Unit on anti-money laundering and counter-terrorism financing matters.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/annual-reports",
+        "title": "Annual Reports | Bank of PNG",
+        "text": "Our annual reports provide detailed insights into our financial performance, strategic initiatives, and the economic conditions that have shaped our decisions ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-statistics-tables",
+        "title": "QEB Statistics Tables | Bank of PNG",
+        "text": "Statistical tables supporting the publication of the Quarterly Economic Bulletin. Breadcrumbs. see Bank of PNG ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin-0",
+        "title": "Quarterly Economic Bulletin | Bank of PNG",
+        "text": "The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/kats-monthly-statistics-update",
+        "title": "KATS Monthly Statistics Update - Bank of Papua New Guinea",
+        "text": "The Bank of Papua New Guinea introduced the Kina Automated Transfer System (KATS) over the last three years with the objective of fostering an efficient payment ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/monetary-policy/monetary-policy-statements",
+        "title": "Monetary Policy Statements | Bank of PNG",
+        "text": "Monetary Policy Statements will be issued at least every three months from September 2024, when changes to the Central Banking Act increased their frequency.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications/research-working-papers/bpng-research-working-papers",
+        "title": "BPNG Research Working Papers | Bank of PNG",
+        "text": "The Bank of Papua New Guinea Working Paper (BPNGWP) series is intended to provide the results of research undertaken within the Bank (BPNG) to its staff.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/research-working-papers",
+        "title": "Research Working Papers - Bank of Papua New Guinea",
+        "text": "The Joint Policy Research Working Papers Series by the South Pacific Centre for Central Banking at the Griffith Asia Institute",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/research-working-papers/seacen-collaboration-research-project",
+        "title": "SEACEN Collaboration Research Project - Bank of Papua New Guinea",
+        "text": "These research papers are country chapters of books published in collaboration with the SEACEN Centre by researchers from member Central Banks.",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

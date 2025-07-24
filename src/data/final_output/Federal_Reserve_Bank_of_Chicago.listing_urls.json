@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/publications/index",
+        "title": "Research & Policy: Publications - Federal Reserve Bank of Chicago",
+        "text": "The Federal Reserve Bank of Chicago publishes working papers written by staff economists on a variety of topics in the field. Subject to revision or subsequent ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/publication-listing",
+        "title": "Publications Listing - Federal Reserve Bank of Chicago",
+        "text": "Publications Listing · Why Has Inflation Been Higher in Chicago Than in the U.S. Overall Recently? · How Have Capital Levels of Futures ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.chicagofed.org/banking/financial-institution-reports/index",
+        "title": "Financial Institution Reports - Federal Reserve Bank of Chicago",
+        "text": "Financial Institution Reports gathers data that aids the Federal Reserve in carrying out its responsibilities for the conduct of monetary policy.",
+        "listing_probability": 0.92
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/research/data/index",
+        "title": "Economic Data - Federal Reserve Bank of Chicago",
+        "text": "With Local Economic Snapshot, search for a city, county, state, region, or Federal Reserve District to find economic, industry, and demographic information.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/data-releases",
+        "title": "Data Releases - Federal Reserve Bank of Chicago",
+        "text": "The Chicago Fed's National Financial Conditions Index (NFCI) provides a comprehensive weekly update on US financial conditions in money markets.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.chicagofed.org/research/data/carts/current-data",
+        "title": "Chicago Fed Advance Retail Trade Summary: Current Data",
+        "text": "The Chicago Fed Advance Retail Trade Summary (CARTS) tracks the US Census Bureau's Monthly Retail Trade Survey (MRTS) on a weekly basis.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/publications/speeches/2021/new-policy-framework-and-financial-stability",
+        "title": "The New Monetary Policy Framework and Some Implications for Financial ...",
+        "text": "I will discuss how I see our new framework relating to recent research on how monetary policy can address the downward bias in inflation expectations.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.chicagofed.org/people/teams/policy-and-communications/index",
+        "title": "Policy and Communications: About - Federal Reserve Bank of Chicago",
+        "text": "The Policy and Communications team produces policy studies, forecasts, and business cycle analyses centered on supporting the Bank president's FOMC ...",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/publications/speeches/speech-archive",
+        "title": "Speeches archive - Federal Reserve Bank of Chicago",
+        "text": "2013 Monetary Policy: Lessons from the Past and Looking Forward to the Future Presented for The Federal Reserve at 100 at Loyola University Chicago",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/news/index",
+        "title": "News Releases - Federal Reserve Bank of Chicago",
+        "text": "Recent news releases shared by the Federal Reserve Bank of Chicago. For more information, please connect with the press contacts listed at the bottom of the ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.chicagofed.org/utilities/newsroom/newsroom-press-kit",
+        "title": "Newsroom: Press Kit - Federal Reserve Bank of Chicago",
+        "text": "Austan D. Goolsbee. President and Chief Executive Officer, Federal Reserve Bank of Chicago. Biography. Photo Library. Austan D. Goolsbee.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/research/papers/index",
+        "title": "Working Papers - Federal Reserve Bank of Chicago",
+        "text": "A series of in-depth research studies on topics related to macroeconomics, banking and financial regulation, microeconomics and regional issues.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/working-papers/index",
+        "title": "Working Papers - Federal Reserve Bank of Chicago",
+        "text": "The Federal Reserve Bank of Chicago publishes working papers written by staff economists on a variety of topics in the field.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

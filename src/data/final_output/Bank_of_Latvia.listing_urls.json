@@ -1,0 +1,94 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/en/component/content/category/623-what-s-new/592-new-publications?layout=empty&Itemid=151",
+        "title": "Publications | Latvijas Banka",
+        "text": "National Bank. Central bank. Tasks: monetary policy, reserve management, cash circulation, payment systems and payment innovations, financial stability.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/statistics/information-for-data-users/quality-reports",
+        "title": "Quality reports | Latvijas Banka",
+        "text": "The quality reports on balance of payments and international investment position statistics and quarterly financial accounts are published on an annual basis.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/archives-of-publications/archive-of-fcmc-annual-reports",
+        "title": "Archive of FCMC Annual Reports - Latvijas Banka",
+        "text": "2022 Annual and Activity Report of the Financial and Capital Market Comission for 2022 Financial Statements of the...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/en/statistics/stat-data",
+        "title": "Statistical data | Latvijas Banka",
+        "text": "Statistical data · Balance of Payments statistics · Supervisory statistics · Exchange rates · MFI balance sheet and monetary statistics · Interest rate statistics.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/statistics",
+        "title": "Statistics | Latvijas Banka",
+        "text": "Latvijas Banka's internet statistical database INTS, data tables, data archives, infographics as well as information on the published statistical data. Read ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bank.lv/en/statistics/information-for-data-users",
+        "title": "Information for data users - Latvijas Banka",
+        "text": "Current announcements for users of statistics, including methodological changes and data publication as well as Latvijas Banka's plans in the field of ...",
+        "listing_probability": 0.3
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/en/operational-areas/task-monetary-policy",
+        "title": "Monetary policy | Latvijas Banka",
+        "text": "The monetary policy of Latvijas Banka and the Eurosystem aims to achieve price stability so that inflation stands at 2% over the medium term.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bank.lv/en/operational-areas/financial-stability/financial-stability-and-macroprudential-policy",
+        "title": "Financial stability and macroprudential policy",
+        "text": "The ultimate objective of macroprudential policy is to contribute to the safeguard of the stability of the financial system as a whole.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/other-publications/climate-related-disclosures-of-latvijas-banka-s-non-monetary-policy-portfolios",
+        "title": "Climate-related disclosures of Latvijas Banka's non-monetary policy ...",
+        "text": "Latvijas Banka's disclosures are part of a concerted effort by all Eurosystem's central banks to publish climate-related financial...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/en/component/content/category/587-for-media/585-speeches-and-interviews-by-the-governor?Itemid=201",
+        "title": "Speeches and interviews by the Governor - Latvijas Banka",
+        "text": "National Bank. Central bank. Tasks: monetary policy, reserve management, cash circulation, payment systems and payment innovations, financial stability.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/news-and-articles/news",
+        "title": "News | Latvijas Banka",
+        "text": "Latvijas Banka has published its latest macroeconomic forecasts (prepared in June 2025). The intensification of geopolitical risks, coupled with delays in ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/news-and-articles/press-releases",
+        "title": "Press releases | Latvijas Banka",
+        "text": "Latvijas Banka has started publishing a regular overview of the deposit rates offered by commercial banks. This is one of the measures taken to pr",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

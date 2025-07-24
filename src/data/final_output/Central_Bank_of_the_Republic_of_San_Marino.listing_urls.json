@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics",
+        "title": "Publications and Statistics - BCSM",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics/quarterly-information-bulletin",
+        "title": "Quarterly Information Bulletin - BCSM",
+        "text": "Discover the Quarterly Information Bulletin of the Central Bank of the Republic of San Marino: economic data, statistical analysis and updates.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics",
+        "title": "Publications and Statistics - BCSM",
+        "text": "Discover the official publications and statistics of Central Bank of the Republic of San Marino: up-to-date economic reports and financial data.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics/financial-system-and-banking-statistics",
+        "title": "Financial System and Banking statistics - BCSM",
+        "text": "Explore statistical data on San Marino's financial system: reports, analysis and periodic updates by the Central Bank.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcsm.sm/en/laws-and-regulations",
+        "title": "Laws and Regulations- BCSM",
+        "text": "A collection of guidelines and recommendations for financial institutions, aimed at promoting sound management practices in compliance with current regulations.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcsm.sm/en/laws-and-regulations/cbsm-provisions/regulations",
+        "title": "Regulations - BCSM",
+        "text": "Check out the regulations of the Central Bank of San Marino: updated regulations on supervision, investments, payments and the insurance sector.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcsm.sm/en/regulations/law-and-decrees/payment-systems-regulations",
+        "title": "Payment systems regulations - CBSM",
+        "text": "Learn about payment systems regulations: updated laws and decrees for safe and compliant handling of financial transactions.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcsm.sm/en/press-room",
+        "title": "Press Room- BCSM",
+        "text": "Stay up-to-date with the latest news, press releases and updates from the Central Bank of San Marino in the press room section.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcsm.sm/en/functions/statutary-functions/supervision/news-from-supervised-parties",
+        "title": "News from Supervised Parties - BCSM",
+        "text": "See the notices from the supervised published by the Central Bank of the Republic of San Marino for transparency and up-to-date information.",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

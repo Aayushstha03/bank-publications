@@ -1,0 +1,81 @@
+{
+  "Bank Name": "Central Bank of Nicaragua",
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcn.gob.ni/publicaciones/anuario-de-estad%C3%ADsticas-macroecon%C3%B3micas-2023-macroeconomic-statistics-yearbook-2023",
+                "title": "Anuario de Estadísticas Macroeconómicas 2023",
+                "text": "Anuario de Estadísticas Macroeconómicas 2023 - Macroeconomic Statistics Yearbook 2023 | Banco Central de Nicaragua.",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcn.gob.ni/publicaciones/anuario-de-estad%C3%ADsticas-macroecon%C3%B3micas-2022-macroeconomic-statistics-yearbook-2022",
+                "title": "Anuario de Estadísticas Macroeconómicas 2022",
+                "text": "Anuario de Estadísticas Macroeconómicas 2022 - Macroeconomic Statistics Yearbook 2022. Archivo: PDF icon Anuario de Estadísticas Macroeconómicas 2022.pdf ...",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bcn.gob.ni/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2014/Press%20Release2014.pdf",
+                "title": "Press Release: IMF Concludes Staff Visit to Nicaragua",
+                "text": "A staff team from the International Monetary Fund (IMF) led by Przemek. Gajdeczka visited Managua during May 6-14, 2014.",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2014-05-14T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2016/Press%20Release2016_2.pdf",
+                "title": "Press Release: IMF Concludes Staff Visit to Nicaragua",
+                "text": "A staff team from the International Monetary Fund (IMF) led by Gerardo Peraza visited Managua during April 25–29, 2016.",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2016-04-29T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2015/Press%20Release2015_2.pdf",
+                "title": "Press Release: IMF Staff Completes 2015 Article IV Mission to Nicaragua",
+                "text": "End-of-Mission press releases include statements of IMF staff teams that convey preliminary findings after a visit to a country.",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2015-10-29T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcn.gob.ni/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/publications/",
+        "title": "Publications | CBK",
+        "text": "Key Rates. Central Bank Rate, 9.75%, 10/06/2025. Inter-Bank Rate, 9.61%, 23/07/2025. CBK Discount Window, 10.50%, 10/06/2025.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.go.ke/reports/bank-supervision-and-banking-sector-reports/",
+        "title": "Bank Supervision & Banking Sector Reports - Central Bank of Kenya",
+        "text": "The Central Bank of Kenya releases annual and quarterly Bank Supervision and Banking Sector Reports, and monthly KBRR Data Reports. The KBRR is a benchmark ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.centralbank.go.ke/reports/cbk-reports-and-financial-statements/",
+        "title": "CBK Reports & Financial Statements",
+        "text": "CBK annual reports and financial statements summarize economic and financial indicators, with analysis and commentary on the Kenyan economy.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/releases/statistical-bulletin/",
+        "title": "Statistical Bulletin | CBK",
+        "text": "The statistical bulletin is released every year by the Central Bank of Kenya and provides data on a range of economic and financial indicators relating to the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.go.ke/releases/weekly-bulletin/",
+        "title": "Weekly Bulletin | CBK",
+        "text": "The weekly bulletin is released every week and provides a brief summary on a range of economic and financial indicators.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/monetary-policy/",
+        "title": "Monetary Policy | CBK",
+        "text": "Monetary policy is decisions to ensure money supply aligns with growth and price objectives, aiming to maintain price stability and low inflation.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.go.ke/regulations-and-licensing/",
+        "title": "Regulations and Licensing | CBK",
+        "text": "Click on the links below to access relevant laws, regulations and licensing/authorization procedures. Legislation and Guidelines · Licensing Procedures.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.go.ke/reports/monetary-policy-statements/",
+        "title": "Monetary Policy Statements | CBK",
+        "text": "CBK Monetary Policy Statements 37 – December 2015, 36 – June 2015, 35 – December 2014, 34 – June 2014, 33 – December 2013,",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/press/",
+        "title": "Press Releases | CBK",
+        "text": "MPC Press Releases · Recent News · News Categories · News Archive · QuickLinks · Important Links · Recent News · Central Bank of Kenya.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.go.ke/releases/speeches/",
+        "title": "Speeches | CBK",
+        "text": "13/06/2024, Remarks by the Governor on Financial Literacy Campaign. 28/05/2024, Acceptance Speech by Governor - Central Bank Governor of the Year Award.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.go.ke/news/",
+        "title": "News | CBK",
+        "text": "The Central Bank of Kenya in collaboration with Kenya National Bureau of Statistics (KNBS) and Financial Sector Deepening Trust (FSD Kenya) launched the 2024 ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/working-papers/",
+        "title": "Working Papers | CBK",
+        "text": "Working Papers. Papers published here relate to those completed by our researchers and have been peer reviewed to meet the strict scientific standards.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.go.ke/research/",
+        "title": "Research | CBK",
+        "text": "Journal articles posted here are those articles that have been published by Central Bank of Kenya researchers or co-authored with researchers from elsewhere.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

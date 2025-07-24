@@ -1,0 +1,94 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.sz/reports/",
+        "title": "Reports - Central Bank of Eswatini",
+        "text": "Annual Reports · Quarterly Reports · Bi-Monthly Reports · Monthly Reports · Financial Markets · Financial Regulation · Fintech · Assets & Liabilities.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.org.sz/quarterly-reports/",
+        "title": "Quarterly Reports - Central Bank of Eswatini",
+        "text": "Quarterly Reports ; 2025. March ; 2024. December · September · June · March ; 2023. December · September · June · March ; 2022. December · September · June · March.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.centralbank.org.sz/consolidated-reports/",
+        "title": "Consolidated Reports - Central Bank of Eswatini",
+        "text": "Consolidated Reports · December 2017 · Bankers-August-2017 · Bankers-July-2017 · Bankers-March-2017 · Bankers-February-2017 · Bankers-January-2017.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.sz/research-bulletin/",
+        "title": "Research Bulletin - Central Bank of Eswatini",
+        "text": "Research Bulletin ; 2024. Volume 8 - May 2024 ; 2022. Volume 6 - March 2022 ; 2021. Volume 5 - March 2021 ; 2020. Volume 4 - March 2020 ; 2019. Volume 3 - March 2019.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.org.sz/research-bulletin-volume-8-may-2024/",
+        "title": "Research Bulletin Volume 8 – May 2024 - Central Bank of Eswatini",
+        "text": "Research Bulletin Volume 8 – May 2024 · Related posts · Monthly Statistical Release: May – June 2025 · CBE Governor Tackles How US Tariffs ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.org.sz/events/data-analytics/",
+        "title": "Data Analytics - Central Bank of Eswatini",
+        "text": "Time. 1 (Sunday) 9:03 am - 30 (Monday) 9:03 am. CalendarGoogleCal. Comments are closed. Contact. Mahlokohla Street Mbabane, Eswatini",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.sz/monetary-policy/",
+        "title": "Monetary Policy - Central Bank of Eswatini",
+        "text": "The Bank is responsible for formulating and implementing a sound monetary policy to achieve financial stability.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.org.sz/consumer-related-laws-and-regulations/",
+        "title": "Consumer related laws and regulations - Central Bank of Eswatini",
+        "text": "Consumer related laws and regulations: CBE Guideline on Banking Practice 2018, CBE Guideline on KFS, CCA Amendment Act, Legal Notice 62 of 2016, Legal Notice ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.org.sz/monetary-policy-statements-2/",
+        "title": "Monetary Policy Statements - Central Bank of Eswatini",
+        "text": "Monetary Policy Statements; Governor's Annual Monetary Policy Statements. 2025. MPCC Statement - 30 May 2025 · MPCC Statement - 21 Mar 2025.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.sz/speeches/",
+        "title": "Speeches - Central Bank of Eswatini",
+        "text": "Deputy Governor's Opening Remarks CMA ExchangeControl Quarterly Meeting - June 2025 ; Deputy Governor's Speech - Global Money Week Education Fair March 2025.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.sz/press-statements/",
+        "title": "Press Statements - Central Bank of Eswatini",
+        "text": "The Central Bank of Eswatini would like to warn the public about a fraudulent message that is currently doing the rounds.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.org.sz/category/press-statements/page/7/",
+        "title": "Press statements – Page 7 - Central Bank of Eswatini",
+        "text": "The Central Bank of Eswatini has sent its congratulatory message to the Macroeconomic and Financial Management Institute of Eastern and Southern Africa (MEFMI) ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

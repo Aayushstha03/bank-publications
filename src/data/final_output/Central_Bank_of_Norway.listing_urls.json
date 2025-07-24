@@ -1,0 +1,111 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/",
+        "title": "Publications - Norges Bank",
+        "text": "Annual Report · Documentation Note · Economic Commentaries · Expectations Survey · External evaluations · Financial Infrastructure Report · Financial Stability Report",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/?selectedFacets%5BType%5D=80159&skip=0",
+        "title": "Publications - Norges Bank",
+        "text": "Annual Report · Annual reports for retail payment services · Documentation Note · Economic Commentaries · Expectations Survey · External evaluations · Financial ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/Regional-network-reports/",
+        "title": "Regional Network reports - Norges Bank",
+        "text": "Annual Report · Documentation Note · Economic Commentaries · Expectations Survey · External evaluations · Financial Infrastructure Report · Financial Stability Report",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/topics/Statistics/",
+        "title": "Statistics - Norges Bank",
+        "text": "Statistics for the Norwegian banking sector, including financial institution type, market shares, Common Equity Tier 1 (CET1) ratio, lending, credit losses and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Statistics/nowa-data/",
+        "title": "Nowa data - Norges Bank",
+        "text": "The Nowai (Nowa index) is an index representing the cumulative return on an investment earning daily compound interest at the Nowa rate.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Statistics/money-market-data/",
+        "title": "Money market data - Norges Bank",
+        "text": "Norges Bank publishes aggregated money market data based on bank's reporting to Norges Bank (RPD). Data are published approximately at 11 am each working day.",
+        "listing_probability": 0.7
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/topics/Monetary-policy/",
+        "title": "Monetary policy - Norges Bank",
+        "text": "We set the policy rate to ensure low and stable inflation in Norway.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/contracts-forms-regulations/",
+        "title": "Regulations and forms - Norges Bank",
+        "text": "Banks' participation in NBO is regulated by an account maintenance and settlement agreement between the individual bank and Norges Bank.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/notes-and-coins/rules-regulations/",
+        "title": "Rules and regulations - notes and coins - Norges Bank",
+        "text": "Laws and rules relating to notes and coins in Norway. Guidelines for the use of Norwegian banknote and coin designs.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/Speeches/",
+        "title": "Speeches - Norges Bank",
+        "text": "Articles and opinion pieces, balance sheets, circulars, news items, press releases, speeches, submissions.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/",
+        "title": "News & events - Norges Bank",
+        "text": "Find news, speeches, publications and calendar events.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/Press-releases/",
+        "title": "News - Norges Bank",
+        "text": "Articles and opinion pieces · Balance sheets · Circulars · News items · Press releases · Speeches · Submissions ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/topics/Research/",
+        "title": "Research - Norges Bank",
+        "text": "The objective of the Norges Bank Academic Programme (NBAP) is to promote macroeconomic and financial economic research and education in Norway.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Research/policy-for-research/",
+        "title": "Policy for research in Norges Bank Central Banking",
+        "text": "Researchers in NBR should spend on average 50 percent of their work time on undirected research and 50 percent on directed research.",
+        "listing_probability": 0.15
+      }
+    ]
+  }
+]

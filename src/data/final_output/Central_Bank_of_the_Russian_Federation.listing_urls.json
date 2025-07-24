@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbr.ru/eng/statistics/",
+        "title": "Statistics | Bank of Russia",
+        "text": "Statistics · External Sector Statistics · Monetary and Financial Statistics · Securities Statistics · System of national accounts.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbr.ru/eng/statistics/bbs/",
+        "title": "Bank of Russia Statistical Bulletin",
+        "text": "The contents of the “Bulletin of banking statistics” are enlarged with the regional section. The information of the regional section are updated on monthly ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.cbr.ru/eng/statistics/macro_itm/dkfs/",
+        "title": "Monetary and Financial Statistics | Bank of Russia",
+        "text": "The Statistics Department of the Bank of Russia which is responsible for the monetary and financial statistics compilation.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbr.ru/eng/ec_research/variations-in-the-effects-of-a-single-monetary-policy-the-case-of-russian-regions/",
+        "title": "Variations in the Effects of a Single Monetary Policy",
+        "text": "This paper analyses regional heterogeneity in the reaction of core inflation to shocks of a common monetary policy on the example of Russia.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbr.ru/eng/news/",
+        "title": "News | Bank of Russia",
+        "text": "Bank of Russia takes part in meeting of Foreign Exchange Policy Advisory Board of Central (National) Banks of EAEU Member States held in Kyrgyz Republic.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbr.ru/eng/banking_sector/news/",
+        "title": "News | Bank of Russia",
+        "text": "NewsSpeechesWhat's new. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbr.ru/eng/inside/news/",
+        "title": "News | Bank of Russia",
+        "text": "NewsPress releasesSpeeches. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.rbf.gov.fj/publications/",
+        "title": "Publications - Reserve Bank of Fiji",
+        "text": "The RBF provides economic and financial information through our major publications including monthly Economic Reviews, Quarterly Reviews, Annual Reports and ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbf.gov.fj/category/insurance-annual-reports/",
+        "title": "Insurance Annual Reports Archives - Reserve Bank of Fiji",
+        "text": null,
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.rbf.gov.fj/core-functions/financial-system-development/data-statistics/",
+        "title": "Data & Statistics - Reserve Bank of Fiji",
+        "text": "Access and use of financial services measured from data provided by financial service providers who are licensed and/or supervised by the Reserve Bank of Fiji.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbf.gov.fj/statistics/",
+        "title": "Statistics - Reserve Bank of Fiji",
+        "text": "RBF provides essential macroeconomic data to policy makers, a broad range of domestic and international stakeholders, including investors, rating agencies and ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbf.gov.fj/core-functions/financial-system-development/supply-side-financial-services-data-3/",
+        "title": "Supply-side Financial Services Data - Reserve Bank of Fiji",
+        "text": "The data offer information that illustrates access and use of various financial services and is collected on an annual basis and is disaggregated by three main ...",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.rbf.gov.fj/core-functions/monetary-stability/a-understanding-fijis-monetary-policy/",
+        "title": "Understanding Fiji's Monetary Policy - Reserve Bank of Fiji",
+        "text": "This article focuses specifically on the RBF's conduct of monetary policy by influencing interest rates, which we do with two clear end-goals or objectives ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.rbf.gov.fj/category/press/",
+        "title": "Press Archives - Reserve Bank of Fiji",
+        "text": "Press Release No 30 – Reserve Bank of Fiji Releases its August 2023-July 2024 Annual Report Press Release No. : 30/2024 Date : 06 December 2024",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbf.gov.fj/category/speeches/",
+        "title": "Speeches Archives - Reserve Bank of Fiji",
+        "text": "Welcoming Remarks By Governor of The Reserve Bank of Fiji, Mr Ariff Ali at The RBF-AFI Virtual Joint Learning Programme on Inclusive Green Finance ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbf.gov.fj/press-release-no-08-revisions-to-the-macroeconomic-projections-for-the-fijian-economy-2025-2027/",
+        "title": "Press Release No 08 - Revisions to the Macroeconomic Projections for ...",
+        "text": "Home · Articles · Press; Press Release No 08 – Revisions to the Macroeconomic Projections for the Fijian Economy (2025-2027). June 11, 2025.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.rbf.gov.fj/research/reserve-bank-of-fiji-working-papers/",
+        "title": "RBF working papers - Reserve Bank of Fiji",
+        "text": "These papers are addressed to academics, policy makers, regulators ... RBF working papers. visit pokerbros clubs. About. Contact · Tenders · Forms · Careers ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbf.gov.fj/category/working-papers/",
+        "title": "Working Papers Archives - Reserve Bank of Fiji",
+        "text": "RBF Working Papers · Working Papers · Reassessing Fiji's Core Inflation Measures ... RBF Working Papers · Working Papers · Financial Sector Development in Fiji ...",
+        "listing_probability": 0.99
+      }
+    ]
+  }
+]

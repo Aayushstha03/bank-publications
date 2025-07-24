@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications",
+        "title": "Publications | Banque de France",
+        "text": "Discover all Banque de France publications. Publications, Statistics, Statistical Tools, Eco Notepad, All publications.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-research",
+        "title": "Publications and research | Banque de France",
+        "text": "The Banque de France publishes a wide range of documents, including its Annual Report, the Banque de France Bulletin on financial and economic themes.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/statistics",
+        "title": "Statistics page 1 sur 1064 - Banque de France",
+        "text": "Upcoming releases · Banque de France Monthly Monetary Statement - 2025-06 · Money and the financing of the economy - 2025-06 · Interest rates on deposits - 2025-06.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banque-france.fr/en/statistics",
+        "title": "Statistics | Banque de France",
+        "text": "The Banque de France publishes a wide range of statistical series. You can search them by theme and/or sub-theme and/or date.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-research/our-main-publications/banque-de-france-bulletin",
+        "title": "Banque de France Bulletin",
+        "text": "The Banque de France Bulletin covers a range of economic and financial subjects monitored, addressed or studied by central banks.",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/monetary-strategy/operational-framework/business-continuity-regulations",
+        "title": "Business continuity and regulations | Banque de France",
+        "text": "The General Documentation sets out monetary policy procedures and instruments currently in force. It is regularly updated to reflect changes in the monetary ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banque-france.fr/en/governors-interventions/future-money-regulatory-and-policy-issues-related-introduction-cbdcs",
+        "title": "The Future of Money : Regulatory and Policy Issues related to the ...",
+        "text": "I am very pleased to share with you a few thoughts on the challenges which have emerged in the field of money and the associated payments ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banque-france.fr/en/governors-interventions/policy-mix-world-supply-shocks",
+        "title": "The policy mix in a world of supply shocks | Banque de France",
+        "text": "Monetary policy affects demand indirectly, via interest rates, while fiscal policy acts directly, via public spending such as investment or ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/press-area",
+        "title": "Press area | Banque de France",
+        "text": "If you are a journalist and would like to talk to us, you can get in touch with one of our press officers. presse@banque-france.fr +33 (0)1 42 92 39 00",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/news-and-events",
+        "title": "News and events | Banque de France",
+        "text": "Governor's speeches ; Speech Governor · 14th of May 2025 ; Speech Financial inclusion · 31st of March 2025 ; Hearing Governor · 26th of March 2025 ; Interview Governor",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/coordinating-message-media-coverage-fed-news-and-market-reactions",
+        "title": "Coordinating the Message: Media Coverage of Fed News and Market ...",
+        "text": "This paper examines the homogeneity in media coverage of the Federal Reserve from 1998 to 2021 and its impact on financial markets.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-research/our-main-publications/working-papers",
+        "title": "Working papers page 1 sur 38 - Banque de France",
+        "text": "The Working Paper Series showcases research work being conducted at the Banque de France on the development of analytical tools for use in macroeconomic ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/reproducibility-economics-research-case-study",
+        "title": "The Reproducibility of Economics Research: A Case Study",
+        "text": "We describe and present the results of a large reproduction exercise in which we assess the reproducibility of research articles published in the American ...",
+        "listing_probability": 0.01
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/publications/",
+        "title": "Publications | Sveriges Riksbank - Riksbanken",
+        "text": "Under the Riksbank's publications, you will find the latest analyses of monetary policy, financial stability, the payment market and other subjects.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/statistics/",
+        "title": "Statistics | Sveriges Riksbank - Riksbanken",
+        "text": "The Riksbank publishes information on exchange rates and market rates. We also compile some statistics on payments and turnover on the financial markets.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/statistics/statistics-on-banknotes-and-coins/",
+        "title": "Statistics on banknotes and coins | Sveriges Riksbank",
+        "text": "The chart shows the total amount of banknotes and coins, including invalid notes. Excluding commemorative coins. The figures have been rounded off.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/statistics/historical-monetary-statistics-of-sweden/",
+        "title": "Historical Monetary Statistics of Sweden | Sveriges Riksbank",
+        "text": "The present project, which involves compiling historical monetary statistics for Sweden is partly inspired by a similar project carried out by Norges bank.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/monetary-policy/",
+        "title": "The Riksbank's monetary policy",
+        "text": "The objective of monetary policy is to maintain a low and stable rate of inflation. More precisely target is to hold CPIF inflation at around 2 per cent a year.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/",
+        "title": "Speeches and presentations | Sveriges Riksbank - Riksbanken",
+        "text": "Speeches are given by each Executive Board member one or more times a year. A speech is pre-written and published on the Riksbank's website in full.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/",
+        "title": "Press & published | Sveriges Riksbank - Riksbanken",
+        "text": "Under the heading \"Press & published\" you can find all of the Riksbank's publications, including reports, press releases and speeches.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/",
+        "title": "Notices and Press releases | Sveriges Riksbank - Riksbanken",
+        "text": "The Riksbank is Sweden's central bank. We ensure that money retains its value and that payments can be made safely and efficiently. We also ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

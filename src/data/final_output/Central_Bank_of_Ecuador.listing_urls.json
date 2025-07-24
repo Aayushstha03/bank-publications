@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bce.fin.ec/en/economic-statistics/",
+        "title": "Economic Statistics - Central Bank of Ecuador",
+        "text": "The table \"Summary of the Balance System of the Central Bank of Ecuador\" was last published in the Monthly Statistical Information Bulletin N° 1950, dated ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bce.fin.ec/en/monetary-policy-and-regulation-board/",
+        "title": "Monetary Policy and Regulation Board - Central Bank of Ecuador",
+        "text": "Highest governing body of the Central Bank of Ecuador, in charge of formulating monetary policy and observing its application by the BCE, to preserve the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/central-bank-of-ecuador/anti-bribery-policy/",
+        "title": "Anti-bribery Policy - Central Bank of Ecuador",
+        "text": "Behaviors that violate the anti-bribery policy must be reported to the anti-bribery compliance function, an entity with authority and independence.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/anti-bribery-policy",
+        "title": "ANTI-BRIBERY POLICY - Central Bank Of Ecuador",
+        "text": "Conducts that transgress the anti-bribery policy must be reported to the anti-bribery compliance function, an entity with authority and independence. All these ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bce.fin.ec/en/news/",
+        "title": "Press Release - Central Bank of Ecuador",
+        "text": "The Ecuadorian economy reported an annual contraction of 2.0% in 2024 · The Ecuadorian economy reported a 1.5% contraction in the third quarter of 2024.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/news/2/",
+        "title": "Press Release - Central Bank of Ecuador",
+        "text": "Press Release · The economy reported growth of 1.2% in the first quarter of 2024 due to a reduction in imports and an accumulation of inventories · Ecuadorean ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/news/3/",
+        "title": "Press Release - Central Bank of Ecuador",
+        "text": "The Central Bank of Ecuador (BCE) presented the results of the Quarterly National Accounts for the third quarter of 2023, which, for the first time,",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

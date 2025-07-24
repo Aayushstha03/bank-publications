@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.lb.lt/en/reviews-and-publications",
+        "title": "Publications | Bank of Lithuania - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.lb.lt/en/ch-publications/category.38/series.204",
+        "title": "Annual Report - Publications | Bank of Lithuania",
+        "text": "The Annual Report describes the annual results that the Bank of Lithuania achieved in carrying out the functions under its mandate as the central bank of ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.lb.lt/en/reviews-and-publications/category.38/series.201",
+        "title": "Publications | Bank of Lithuania - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.lb.lt/en/lb-statistics",
+        "title": "Statistics | Bank of Lithuania - Lietuvos bankas",
+        "text": "The statistics compiled and published by the Bank of Lithuania mainly aim to present to the public comprehensive statistics that comply with international ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.lb.lt/en/data-release-calendar",
+        "title": "Data release calendar - Bank of Lithuania - Lietuvos bankas",
+        "text": "Dates for the releases of statistical information compiled by the Bank of Lithuania are provided below. Dates for future releases are preliminary and ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.lb.lt/en/news/revised-and-restructured-statistics-in-the-new-monthly-bulletin",
+        "title": "Revised and restructured statistics in the new Monthly Bulletin",
+        "text": "On 24 March, a revised and more than twice larger Monthly Bulletin of the Bank of Lithuania will be issued. It will present restructured statistical ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.lb.lt/en/mp-monetary-policy-instruments",
+        "title": "Monetary policy instruments | Bank of Lithuania - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.lb.lt/en/news/lietuvos-bankas-updated-supervisory-policy-focuses-on-consumers-and-financial-market-participants",
+        "title": "updated supervisory policy focuses on consumers and ... - Lietuvos bankas",
+        "text": "The updated Financial Market Supervision Policy of Lietuvos bankas is to enter into force on 1 January 2025. It highlights the key principles.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.lb.lt/en/mpi-monetary-policy-instruments",
+        "title": "Monetary policy instruments - Bank of Lithuania - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.lb.lt/en/speeches-interviews-presentations",
+        "title": "#1 News | Bank of Lithuania - Lietuvos bankas",
+        "text": "Speeches, interviews, presentations (1 page) ; Governor's Opening Remarks at the Conference: Unlocking the Power of Motivation in AML · 2025 05 20.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.lb.lt/en/news",
+        "title": "#1 News | Bank of Lithuania - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.lb.lt/en/news/the-young-economists-winners-of-the-student-research-papers-competition-new-economic-ideas-have-been-awarded-at-the-bank-of-lithuania",
+        "title": "The Young Economists – Winners of the Student Research Papers ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.lb.lt/en/news/research-podcast-what-moves-treasury-yields",
+        "title": "Research Podcast: What Moves Treasury Yields? | Bank of Lithuania",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

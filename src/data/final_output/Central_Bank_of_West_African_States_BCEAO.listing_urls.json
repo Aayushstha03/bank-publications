@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bceao.int/en/content/other-publications",
+        "title": "Other Publications - BCEAO",
+        "text": "Published in 2000 in three volumes, this work aims to enlighten the reader on the construction of the monetary system of the countries forming the WAMU.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/en/publications",
+        "title": "Publications | BCEAO",
+        "text": "Publications · - Any - · Banking Commission Annual Report · Documents d'Etude et d'Analyse Economiques · Financial Inclusion statistics in WAEMU · Quaterly ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bceao.int/en/publications/monthly-statistical-bulletin-january-2025",
+        "title": "Monthly Statistical Bulletin - January 2025 - BCEAO",
+        "text": "Monthly Statistical Bulletin - January 2025. Monthly Bulletin of WAEMU Economic Statistics , 17 March 2025. Download ,. Member States.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/monthly-statistical-bulletin-december-2023",
+        "title": "Monthly Statistical Bulletin - December 2023 - BCEAO",
+        "text": "Monthly Statistical Bulletin - December 2023. Monthly Bulletin of WAEMU Economic Statistics , 09 February 2024. Monthly Statistical Bulletin - December 2023.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/monthy-statistical-bulletin-august-2022",
+        "title": "Monthy Statistical Bulletin - August 2022 - BCEAO",
+        "text": "Monthy Statistical Bulletin - August 2022. Monthly Bulletin of WAEMU Economic Statistics , 24 March 2023. Monthy Statistical Bulletin - August 2022.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bceao.int/en/content/instruments-monetary-policy-implementation",
+        "title": "Instruments of Monetary Policy Implementation - BCEAO",
+        "text": "The current mechanism for the management of the currency and credit relies on market mechanisms and indirect tools to regulate liquidity.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bceao.int/en/content/monetary-policy-committee",
+        "title": "The Monetary Policy Committee | BCEAO",
+        "text": "The Monetary Policy Committee is responsible for defining monetary policy within WAMU, and its instruments, in line with the provisions of the Statutes.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bceao.int/en/content/objectives-monetary-policy",
+        "title": "Objectives of Monetary Policy | BCEAO",
+        "text": "All information about the objectives of the monetary policy of the BCEAO.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bceao.int/en/communique-presse/press-statement-meeting-monetary-policy-committee-bceao-held-dakar-june-1-2016",
+        "title": "Press statement of the meeting of the Monetary Policy Committee of the ...",
+        "text": "The Committee reviewed the main trends unfolding recently in the economy and assessed the risk factors that could affect the outlook for price stability and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

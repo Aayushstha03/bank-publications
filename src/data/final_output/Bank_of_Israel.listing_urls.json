@@ -1,0 +1,88 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/regular-publications/",
+        "title": "Regular Publications | בנק ישראל - הבנק המרכזי של ישראל",
+        "text": "בדף זה מעודכנים הפרסומים התקופתיים השונים של בנק ישראל, הכוללים דו\"חות, תחזיות, סקירות, מבטים סטטיסטיים ועוד ניתן לחפש פרסום לפי מילות שם הפרסום, ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/regular-publications/monetary-policy-reports/",
+        "title": "Monetary Policy Reports | בנק ישראל",
+        "text": "The report summarizes the Bank of Israel's monetary policy measures during the past half-year. It includes short reviews of developments in a variety of areas, ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.boi.org.il/en/economic-roles/research-and-publications/",
+        "title": "Research and publications | בנק ישראל",
+        "text": "Research and publications · Monetary Policy in a Period of Price Stability · The Bank of Israel Plan to Accelerate Economic Growth · Raising the Standard of Living ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.boi.org.il/en/economic-roles/statistics/",
+        "title": "Data and Statistics | בנק ישראל",
+        "text": "Statistical information by subject, Bank Of Israel, Bank of Israel Balance Sheet, Banking Balance Sheet, Monthly Balance Sheet, Profit and Loss, Profit and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/regular-publications/statistical-publications/statistical-bulletin-2018/",
+        "title": "Statistical Bulletin 2018 | בנק ישראל",
+        "text": "Part One: Main developments in four main areas of financial statistics in Israel in 2018 ​ ​ ​ · ​Part Two: Papers on statistical methodology and ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/regular-publications/statistical-publications/statistical-bulletin-2023/",
+        "title": "Statistical Bulletin 2023 | בנק ישראל",
+        "text": "Part One: Main developments in four main areas of financial statistics in Israel in 2023 · ​Part Two: Papers on statistical methodology and ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.boi.org.il/en/economic-roles/monetary-policy/",
+        "title": "Monetary Policy | בנק ישראל",
+        "text": "The Bank of Israel conducts interest rate policy that is intended to achieve the inflation rate target set by the government. To that end, the Bank uses various ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boi.org.il/en/economic-roles/monetary-policy/conducting-monetary-policy/",
+        "title": "Conducting Monetary Policy | בנק ישראל - הבנק המרכזי של ישראל",
+        "text": "Conducting Monetary Policy ... The Bank of Israel's main function is to protect the value of the local currency – in other words, to maintain price stability.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/",
+        "title": "Press Releases | בנק ישראל",
+        "text": "The office publishes press releases on various topics related to the Bank's activity, on a fixed schedule (monthly, quarterly, or yearly) and in response to ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/remarks-by-the-governor-of-the-bank-of-israel-at-the-press-briefing-on-monetary-policy-held-today-at-the-bank-of-israel-37/",
+        "title": "Remarks by the Governor of the Bank of Israel at the press briefing on ...",
+        "text": "Good afternoon. In June, the State of Israel, in collaboration with the US, waged a battle intended to remove the Iranian nuclear threat.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/remarks-by-the-governor-of-the-bank-of-israel-at-the-press-briefing-on-monetary-policy-held-today-at-the-bank-of-israel-14/",
+        "title": "Remarks by the Governor of the Bank of Israel at the press briefing on ...",
+        "text": "Remarks by the Governor of the Bank of Israel at the press briefing on monetary policy held today at the Bank of Israel | בנק ישראל - הבנק המרכזי של ישראל.",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

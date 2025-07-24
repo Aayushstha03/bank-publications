@@ -1,0 +1,93 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.eestipank.ee/en/publications",
+        "title": "Publications | Eesti Pank",
+        "text": null,
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/archive",
+        "title": "Archive | Publications | Eesti Pank",
+        "text": null,
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.eestipank.ee/en/statistics",
+        "title": "Statistics | Eesti Pank",
+        "text": "Eesti Pank compiles and publishes Estonia's national balance of payments, and collects and disclosures statistics that are necessary for it to execute its ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.eestipank.ee/en/statistics-department",
+        "title": "Statistics Department | Eesti Pank",
+        "text": "The Statistics Department consists of three divisions. The Financial Sector Statistics Division produces statistics for the financial sector.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.eestipank.ee/en/monetary-policy/monetary-policy-instruments",
+        "title": "Monetary policy instruments | Eesti Pank",
+        "text": "Monetary policy instruments · Open market operations · Standing facilities · Reserve requirement for credit institutions · Forward guidance.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/monetary-policy",
+        "title": "Monetary policy | Eesti Pank",
+        "text": "As a member of the Eurosystem, Eesti Pank participates in setting its monetary policy, taking the decisions needed for it, and implementing those decisions.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2024/estonian-economy-and-monetary-policy-22024",
+        "title": "Estonian Economy and Monetary Policy 2/2024 - Eesti Pank",
+        "text": "Increasing demand will contribute to growth in the economy alongside the expected increase in foreign trade, primarily because the purchasing power of people ...",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.eestipank.ee/en/press",
+        "title": "Press releases | Eesti Pank",
+        "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.eestipank.ee/en/press/economic-policy-statements",
+        "title": "Press releases - Eesti Pank",
+        "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eestipank.ee/en/press/economic-policy-statements/2017-07",
+        "title": "Press releases | Eesti Pank",
+        "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
+        "listing_probability": 0.92
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.eestipank.ee/en/publications/working-papers",
+        "title": "Working Papers | Publications - Eesti Pank",
+        "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

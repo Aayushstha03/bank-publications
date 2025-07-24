@@ -1,0 +1,117 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/publications.htm",
+        "title": "Publications - Federal Reserve Board",
+        "text": "View the latest Federal Reserve Publications by category below or search, filter, or browse by A-Z publication title. Search Submit Button.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.federalreserve.gov/consumerscommunities/community-development-publications.htm",
+        "title": "Research Publications & Data Analysis - Federal Reserve Board",
+        "text": "The survey of more than 11,000 adults was conducted in October 2023.and the report discusses findings related to financial well-being, income, employment, ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.federalreserve.gov/publications/other-reports.htm",
+        "title": "The Fed - Other Reports - Federal Reserve Board",
+        "text": "All federal agencies must submit an annual report to Congress detailing acquisitions of materials or goods that are manufactured outside of the US.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/data.htm",
+        "title": "Data - Federal Reserve Board",
+        "text": "Data · Bank Assets and Liabilities · Bank Structure Data · Business Finance · Dealer Financing Terms · Exchange Rates and International Data · Financial Accounts.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.federalreserve.gov/apps/mdrm/data-dictionary",
+        "title": "Data Dictionary - The Fed - Micro Data Reference Manual",
+        "text": "Download MDRM Data Dictionary. Search For Search By Item Number (Example: 2170) Item Name (Example: Total Assets)",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.federalreserve.gov/publications/bulletin.htm",
+        "title": "The Fed - Federal Reserve Bulletin",
+        "text": "The Federal Reserve Bulletin ceased publication in 2022. Content formerly included in the Bulletin can be found in other Board publications and throughout our ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/publications/2023-ar-record-of-policy-actions-of-the-board-of-governors.htm",
+        "title": "The Fed - Record of Policy Actions of the Board of Governors",
+        "text": "This appendix provides a summary of policy actions in 2023. Policy actions were implemented through (1) rules and regulations, (2) policy statements and other ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.federalreserve.gov/paymentsystems/other-regulations.htm",
+        "title": "Other Regulations and Statutes - Federal Reserve Board",
+        "text": "Reg J Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers through the Fedwire Funds Service and the FedNow Service",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm",
+        "title": "Policy Normalization - Federal Reserve Board",
+        "text": "The Committee intends to reduce the Federal Reserve's securities holdings over time in a predictable manner primarily by adjusting the amounts reinvested of ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speeches.htm",
+        "title": "Speeches of Federal Reserve Officials",
+        "text": "At \"Unleashing a Financially Inclusive Future,\" the second annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C.. 7/15/ ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speech/2025-speeches.htm",
+        "title": "2025 Speeches - Federal Reserve Board",
+        "text": "Watch live Governor Michael S. Barr at the Policy Summit 2025: Building Strong and Sustainable Communities, hosted by the Federal Reserve Bank of Cleveland.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speeches.htm?speaker=Michael%20S.%20Barr",
+        "title": "Speeches of Federal Reserve Officials",
+        "text": "Opening Remarks. Governor Michael S. Barr. At the 2025 Northeast / Mid-Atlantic Small Business Credit Symposium, Federal Reserve Bank of New York, New York, ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/consumerscommunities/shed-working-papers-notes.htm",
+        "title": "The Fed - Working Papers and Notes - Federal Reserve Board",
+        "text": "Working Papers and Notes, Last Update: May 21, 2024, Board of Governors of the Federal Reserve System, Tools and Information, Stay Connected.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.federalreserve.gov/econres/us-documentation-papers.htm",
+        "title": "The Fed - Documentation and Research Papers",
+        "text": "This page provides links to otherwise unpublished documentation of the FRB/US model as well as to research articles that use the FRB/US model.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-federal-reserve-research.htm",
+        "title": "Federal Reserve Research",
+        "text": "This section lists research papers authored or co-authored by Federal Reserve staff that address topics of relevance to the Federal Reserve's review.",
+        "listing_probability": 0.97
+      }
+    ]
+  }
+]

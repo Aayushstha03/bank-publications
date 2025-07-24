@@ -1,0 +1,101 @@
+{
+  "Bank Name": "National Bank of Cambodia",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbc.org.kh/english/publications/annual_reports.php",
+                "title": "NBC Annual Reports",
+                "source": "www.nbc.org.kh",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.nbc.gov.kh/download_files/publication/annual_rep_cover_eng/NBC%20Annual%20Report%202023%20Eng_Cover.jpg",
+                "sublinks": [
+                  {
+                    "title": "Supervision Annual Reports",
+                    "url": "https://www.nbc.gov.kh/english/publications/supervision_annual_reports.php"
+                  },
+                  {
+                    "title": "Commercial Bank's Annual...",
+                    "url": "https://www.nbc.gov.kh/english/publications/commercial_bank_annual_report.php"
+                  },
+                  {
+                    "title": "Payment Systems Annual Report",
+                    "url": "https://www.nbc.gov.kh/english/publications/payment_system_annual_reports.php"
+                  },
+                  {
+                    "title": "Financial Stability Review",
+                    "url": "https://www.nbc.gov.kh/english/publications/fsr.php"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/publications/supervision_annual_reports.php",
+                "title": "Supervision Annual Reports",
+                "source": "www.nbc.org.kh",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.nbc.gov.kh/download_files/supervision/sup_an_rep_cover_eng/BankingSupervision_AR_2021_EN_Cover.jpg",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/publications/supervision_annual_reports.php",
+                "title": "Supervision Annual Reports",
+                "source": "www.nbc.org.kh",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.nbc.gov.kh/download_files/supervision/sup_an_rep_cover_eng/BankingSupervision_AR_2022_EN_Cover.jpg",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.nbc.org.kh/english/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/speeches.php",
+                "title": "Speeches",
+                "text": "Remarks by HE Dr. Chea Serey, Governor of the National Bank of Cambodia at the Official Launching Ceremony of Cross-Border QR Code Payment.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/news.php",
+                "title": "All News",
+                "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/news.php?page=85",
+                "title": "All News",
+                "text": "Official Launch of “Financial Sector Development Strategy 2011-2020” Presided Over by Deputy Prime Minister KEAT CHHON, Minister of Economy and Finance High ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbc.org.kh/english/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

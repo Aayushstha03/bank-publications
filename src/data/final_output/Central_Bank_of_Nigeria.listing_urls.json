@@ -1,0 +1,47 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbn.gov.ng/documents/publications.html",
+        "title": "All Publications | Central Bank of Nigeria",
+        "text": "Find all your publications here. All Publications History | Facts 1996: The West African Institute for Financial and Economic Management (WAIFEM) was ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbn.gov.ng/Documents/AML-CFT-Reports.html",
+        "title": "AML/CFT Reports - Central Bank of Nigeria",
+        "text": "Anti-money Laundering & Combating the Financing of Terrorism Report.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbn.gov.ng/AboutCBN/Dir-Policy.html",
+        "title": "Economic Policy Directorate | Central Bank of Nigeria",
+        "text": "This directorate develops economic policies, strategies and programmes to promote economic growth, stability and sustainability.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbn.gov.ng/Documents/speeches.html",
+        "title": "Speeches | Central Bank of Nigeria",
+        "text": "Speeches ... by the Governor. Home · Documents; Speeches. Speeches. History | Facts. 1933: Payment cards are paper based instruments which were introduced ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbn.gov.ng/NewsArchive/News.html",
+        "title": "News Archive | Central Bank of Nigeria",
+        "text": "1957: Mr Loynes, an adviser to the Bank of England, favoured the idea of establishing a Central Bank of Nigeria. His views and recommendations formed the ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

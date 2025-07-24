@@ -1,0 +1,305 @@
+{
+  "Bank Name": "Reserve Bank of Australia",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rba.gov.au/publications/",
+                "title": "Publications | RBA",
+                "text": "Listing of RBA publications including: Statement on Monetary Policy; Reserve Bank Bulletin; Financial Stability Review; Annual Reports; Research Discussion ...",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rba.gov.au/publications/annual-reports/",
+                "title": "Annual Reports | RBA",
+                "text": "The Reserve Bank and Payments System Board each issue annual reports. The Reserve Bank report is tabled in parliament. View the latest reports.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/publications/",
+                "title": "Publications | Payments & Infrastructure Resources | RBA",
+                "text": "A list of useful Australian publications on payments issues.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022"
+          ],
+          "query": {
+            "q": "site:http://www.rba.gov.au/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rba.gov.au/statistics/",
+                "title": "Statistics | RBA",
+                "text": "Statistical tables for a range of economic and financial data produced by the Reserve Bank and other organisations.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "sublinks": [
+                  {
+                    "title": "Statistical Tables",
+                    "url": "https://www.rba.gov.au/statistics/tables/"
+                  },
+                  {
+                    "title": "Historical Data",
+                    "url": "https://www.rba.gov.au/statistics/historical-data.html"
+                  },
+                  {
+                    "title": "Exchange Rates",
+                    "url": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+                  },
+                  {
+                    "title": "Discontinued Data",
+                    "url": "https://www.rba.gov.au/statistics/discontinued-data.html"
+                  },
+                  {
+                    "title": "Other Data Sources",
+                    "url": "https://www.rba.gov.au/statistics/other-data-sources.html"
+                  },
+                  {
+                    "title": "Glossary for Statistical Data",
+                    "url": "https://www.rba.gov.au/statistics/glossary-statistical-data.html"
+                  },
+                  {
+                    "title": "Cash Rate Target",
+                    "url": "https://www.rba.gov.au/statistics/cash-rate/"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.rba.gov.au/publications/bulletin/",
+                "title": "Bulletin | RBA",
+                "text": "The RBA's Securitisation Dataset provides timely and detailed data on the individual mortgages underlying Australian residential mortgage-backed securities.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/payments-data.html",
+                "title": "Payments Statistics | RBA",
+                "text": "The Reserve Bank has published monthly and quarterly statistics on Australian payment systems from its Retail Payments Statistics (RPS) collection since 2002.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
+          "query": {
+            "q": "site:http://www.rba.gov.au/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rba.gov.au/payments-and-infrastructure/payments-system-regulation/regulations.html",
+                "title": "Regulations | RBA",
+                "text": "This page provides links to designations, standards, access regimes, exemptions from the interchange fee provisions of the Access Regime for the ATM System.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rba.gov.au/education/resources/explainers/how-rba-implements-monetary-policy.html",
+                "title": "How the Reserve Bank Implements Monetary Policy | Explainer",
+                "text": "The Reserve Bank of Australia implements monetary policy using a variety of tools. The primary tool of monetary policy is the cash rate target.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rba.gov.au/monetary-policy/",
+                "title": "Monetary Policy - Reserve Bank of Australia",
+                "text": "The Reserve Bank is responsible for Australia's monetary policy. Monetary policy involves setting the interest rate on overnight loans in the money market.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "sublinks": [
+                  {
+                    "title": "2018 | Interest Rate Decisions",
+                    "url": "https://www.rba.gov.au/monetary-policy/int-rate-decisions/2018/"
+                  },
+                  {
+                    "title": "About Monetary Policy",
+                    "url": "https://www.rba.gov.au/monetary-policy/about.html"
+                  },
+                  {
+                    "title": "Interest Rate Decisions",
+                    "url": "https://www.rba.gov.au/monetary-policy/int-rate-decisions/"
+                  },
+                  {
+                    "title": "Statement on Monetary",
+                    "url": "https://www.rba.gov.au/publications/smp/"
+                  },
+                  {
+                    "title": "Market Operations",
+                    "url": "https://www.rba.gov.au/mkt-operations/"
+                  },
+                  {
+                    "title": "2025",
+                    "url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2025/"
+                  },
+                  {
+                    "title": "December 2023 Statement",
+                    "url": "https://www.rba.gov.au/monetary-policy/framework/stmt-conduct-mp-8-2023-12-08.html"
+                  }
+                ],
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.rba.gov.au/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rba.gov.au/speeches/",
+                "title": "Speeches | RBA",
+                "text": "Senior officers of the Reserve Bank give speeches and participate in panel discussions on a broad range of topics related to its role and functions.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "sublinks": [
+                  {
+                    "title": "Guy Debelle",
+                    "url": "https://www.rba.gov.au/speeches/list.html"
+                  },
+                  {
+                    "title": "2018",
+                    "url": "https://www.rba.gov.au/speeches/2018/"
+                  },
+                  {
+                    "title": "2017",
+                    "url": "https://www.rba.gov.au/speeches/2017/"
+                  },
+                  {
+                    "title": "2025",
+                    "url": "https://www.rba.gov.au/speeches/2025/"
+                  },
+                  {
+                    "title": "2024",
+                    "url": "https://www.rba.gov.au/speeches/2024/"
+                  },
+                  {
+                    "title": "The RBA’s Monetary Policy...",
+                    "url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-04-02.html"
+                  },
+                  {
+                    "title": "2021",
+                    "url": "https://www.rba.gov.au/speeches/2021/"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-07-24.html",
+                "title": "The RBA's Dual Mandate – Inflation and Employment | Speeches | RBA",
+                "text": "My remarks today centre on the dual objectives of monetary policy: 'price stability', which means maintaining low and stable inflation; and full ...",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rba.gov.au/speeches/list.html",
+                "title": "All Speeches | RBA",
+                "text": "The Governor hosts a media conference eight times a year following the conclusion of each monetary policy meeting.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.rba.gov.au/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rba.gov.au/publications/workshops/research/2019/pdf/rba-workshop-2019-foulis.pdf",
+                "title": "Staff Working Paper No. 827 - Reserve Bank of Australia",
+                "text": "Staff Working Papers describe research in progress by the author(s) and are published to elicit comments and to further debate.",
+                "source": "Reserve Bank of Australia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB5klEQVR4Ae3WAURDQRjA8VSqtZpBQLYIgAIBFBIKQWBAgECGEoJAFlIgAAgAipAYRqCqABAU0MQ2kQ3j64/vMec9d+92I/T4eW/3vu+7szvvbujPXvPFuUN0IQF0cegziEXcQXxp/mK//0YJDYgrjS+FnJICniA2GlcYxLrIomrpvIrsIBfnFB4hJm2fSs4OOx0tSI8WCr4Fpz1yypAeZe9+eTj3SM6gAdF7xqPGefTwilWPApcQXHrkruI1+nGGT8ymLLIHwV7KvFnt7yxq2ITgGdMpCu1CsJtm3rUfwWbUmEcXghpyjsUuILhwjM9pfUEX+d6XDxD1gqJDsS+I3nOW+KLWFfVgBlQgPZrYwWhMsQlcGfFXmIiJHdU6TSO+YgauQWJ84ARb2MA+3hJi3/T9hsafaL7EWDMHMIkOxME3bnCKY73faLs46GAybp5qlsQ6dpBJ+jjp+7qlTi1poRxZdrkZx9U+Y9k1j5ISlxMSbjGW8mMzpnkSYzkpaRw/RvA78p6bXF7zJaL1xxOTYs6A631u3evmGdGWcABR94HOD/cQdWALXoKoUqABlCBqyRY8gibayAY8S7a17ohLwjWqgY9xVVynOW5VAg+ggrJr8AK2Aw9gGwuuwcNYCTyAFQyb7f/XL4UIl6zkT9mPAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rba.gov.au/publications/rdp/2021/2021-02/our-findings-do-not-call-for-changes-in-research-practices.html",
+                "title": "Our Findings Do Not Call for Changes in Research Practices ...",
+                "source": "Reserve Bank of Australia",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.rba.gov.au/publications/rdp/2021/2021-02/images/figure-4.gif",
+                "position": 2
+              },
+              {
+                "url": "https://www.rba.gov.au/publications/workshops/research/2019/pdf/rba-workshop-2019-foulis.pdf",
+                "title": "Bank of England Staff Working Paper No. 827",
+                "source": "Reserve Bank of Australia",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///0829a723af66c62c123c114c79d46922f11239aaa55c4306b603fccda497ca65",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rba.gov.au/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

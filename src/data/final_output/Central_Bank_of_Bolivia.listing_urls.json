@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/external-sector-statistics-intermediate",
+        "title": "External Sector Statistics -Intermediate",
+        "text": "Pasivos Contables con OO. II. Unidad de Fomento de Vivienda (UFV) · Datos Estadísticos · Calculadora UFV · Avance de cifras de la balanza de ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/public-sector-debt-statistics",
+        "title": "PUBLIC SECTOR DEBT STATISTICS - Banco Central de Bolivia",
+        "text": "Pasivos Contables con OO. II. Unidad de Fomento de Vivienda (UFV) · Datos Estadísticos · Calculadora UFV · Avance de cifras de la balanza de ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/big-data-macroeconomics-and-finance",
+        "title": "BIG DATA IN MACROECONOMICS AND FINANCE",
+        "text": "BIG DATA IN MACROECONOMICS AND FINANCE. Enviado por webadmin el Noviembre 19, 2018 - 14:44. Lugar: Buenos Aires, Argentina. Archivo: Icono PDF ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/payment-system-policy-and-oversight-course",
+        "title": "PAYMENT SYSTEM POLICY AND OVERSIGHT COURSE",
+        "text": "PAYMENT SYSTEM POLICY AND OVERSIGHT COURSE. Enviado por webadmin el Junio 17, 2015 - 09:56. Lugar: Nueva York, Estados Unidos. Archivo: Icono PDF ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/use-dsge-models-policy-making-process",
+        "title": "The Use of DSGE Models in the Policy-Making Process",
+        "text": "\"The Use of DSGE Models in the Policy-Making Process\". Enviado por webadmin el Noviembre 20, 2014 - 10:58. Lugar: WASHINGTON, USA. Archivo: Icono PDF ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/model-based-monetary-policy-analysis-and-forecasting-mpaf",
+        "title": "MODEL-BASED MONETARY POLICY ANALYSIS AND FORECASTING ...",
+        "text": "MODEL-BASED MONETARY POLICY ANALYSIS AND FORECASTING (MPAF). Enviado por webadmin el Julio 22, 2019 - 10:08. Lugar: Instalaciones del FMI en Washington DC.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/sputnik-news",
+        "title": "SPUTNIK NEWS | Banco Central de Bolivia",
+        "text": "El Banco Central de Bolivia (BCB) dijo que prevé una contracción económica nacional de 6,2% en 2020, en medio de la incertidumbre que existe ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcb.gob.bo/?q=content/energy-press",
+        "title": "ENERGY PRESS | Banco Central de Bolivia",
+        "text": "Entrevista realizada por Energy Press al Presidente del BCB, Marcelo Zabalaga Estrada, en la edición N°644.",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

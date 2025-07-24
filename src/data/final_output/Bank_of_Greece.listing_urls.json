@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/publications",
+        "title": "Publications",
+        "text": "Governor's Annual Report · Μοnetary Policy Report · Financial Stability Review · Annual Accounts · Publications of the Centre for Culture, Research & Documentation.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/the-bank/culture/publications",
+        "title": "Publications",
+        "text": "They primarily aim to underline and highlight the role of the Bank of Greece in the country's financial, social and cultural development.",
+        "listing_probability": 0.4
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/publications-list",
+        "title": "Publications-list",
+        "text": "The publications of the Bank of Greece below, are available in pdf format and you can search for the one that may interest you.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bankofgreece.gr/en/statistics/monetary-and-banking-statistics",
+        "title": "Monetary-and-banking-statistics",
+        "text": "The Bank of Greece publishes on a monthly (or quarterly) basis data on bank deposits and credit, as well as on the key monetary aggregates.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/main-tasks/markets/hdat/statistical-data",
+        "title": "Statistical-data",
+        "text": "The data series are presented on a daily basis for the last 30 trading days and on a monthly basis from March 1999. The current year's daily trading volumes in ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/the-bank/organisation/organisation-chart/statistics-directorate",
+        "title": "Statistics-Directorate",
+        "text": "The purpose of Bank of Greece statistics is to provide reliable information to the general public and researchers in Greece and abroad.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy",
+        "title": "Monetary policy",
+        "text": "Monetary policy refers to decisions taken by central banks and influencing the cost and availability of money in an economy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy/decisions-and-operational-framework",
+        "title": "Monetary policy decisions and operational framework for monetary ...",
+        "text": "Learn about monetary policy decisions and the operational framework for monetary policy implementation.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy/monetary-policy-instruments",
+        "title": "The operational framework for the monetary policy | Bank of Greece",
+        "text": "The Eurosystem's monetary policy instruments include: Open market operations. The Eurosystem's open market operations play an important role in monetary policy.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office",
+        "title": "Press-office",
+        "text": "In this section you can find press releases, announcements and procurements of the Bank of Greece, as well as speeches and interviews by members of its ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list",
+        "title": "News-list",
+        "text": "Today, the Bank of Greece published the latest issue of its Economic Bulletin (No. 61 / July 2025). The articles published in the Economic Bulletin reflect the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=4ec750cc-3087-45a9-8949-78a768bc289a&year=all&sorting=date",
+        "title": "News-list",
+        "text": "News list · Commentary on the Balance Sheet and Profit and Loss Account for financial year 2024 · Balance Sheet and Profit and Loss Account for financial year ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/research/working-papers",
+        "title": "Working-Papers",
+        "text": "The Working Paper Series disseminates research papers of high quality and often of a more technical nature relevant to the various areas of interest to the ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

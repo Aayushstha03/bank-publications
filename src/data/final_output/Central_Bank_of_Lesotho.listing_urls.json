@@ -1,0 +1,36 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.ls/research-publications/",
+        "title": "Research Publications - Central Bank of lesotho",
+        "text": "Investigating the Determinants of Commercial Bank Interest Rate Spreads in Lesotho:Evidence from ARDL and Non-Linear ARDL Approaches",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.ls/supervision-regulations/",
+        "title": "Supervision Regulations - Central Bank of lesotho",
+        "text": "To serve the public interest by promoting and maintaining monetary and financial stability while ensuring fair business practices in the financial sector.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.centralbank.org.ls/cookie-policy/",
+        "title": "Cookie Policy - Central Bank of lesotho",
+        "text": "This Cookie Policy explains how the Central Bank of Lesotho uses cookies and similar technologies to recognise you when you visit our website.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.org.ls/category/monetary-policy-statements/page/4/",
+        "title": "Monetary Policy Statements – Page 4 - Central Bank of lesotho",
+        "text": "To serve the public interest by promoting and maintaining monetary and financial stability while ensuring fair business practices in the financial sector.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

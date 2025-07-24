@@ -1,0 +1,152 @@
+{
+  "Bank Name": "Central Bank of Iceland",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cb.is/publications/publications/publications-monthly-archive/?news_ArchiveDate=2010-07-01&news_date=2010-07-01",
+                "title": "Publications Monthly Archive - Central Bank of Iceland",
+                "text": "The Central Bank publishes a wide range of information in periodicals, reports, speeches, and papers by Bank staff.",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.cb.is/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cb.is/library/Skraarsafn---EN/Monetary-Bulletin/2018/May-2018/MB182_Box_2.pdf",
+                "title": "New statistics on labour volume and productivity",
+                "text": "In February, Statistics Iceland published new preliminary figures on the number of jobs, the number of employed persons, and the num-.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "position": 1
+              },
+              {
+                "url": "https://www.cb.is/publications/news/news/2022/05/04/May-Monetary-Bulletin-2022/",
+                "title": "May Monetary Bulletin 2022 - Central Bank of Iceland",
+                "text": "The report, which is issued quarterly, contains the Bank's analysis of the economic and monetary outlook.",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "published_time": "2022-05-04T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.cb.is/publications/news/news/2020/02/05/Monetary-Bulletin-2020-1/",
+                "title": "Monetary Bulletin 2020/1 - Central Bank of Iceland",
+                "text": "Monetary Bulletin 2020/1. Cover of Monetary Bulletin. Vol. 22 no. 1 5 February 2020. Statement of the Central Bank of Iceland Monetary Policy Committee.",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.cb.is/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cb.is/publications/publications/publication/2022/09/07/Minutes-of-the-Monetary-Policy-Committee-meeting-of-22-23-August-2022/",
+                "title": "Minutes of the Monetary Policy Committee meeting of 22-23 August ...",
+                "text": "In accordance with the Monetary Policy Committee Rules of Procedure, the minutes of the Committee's most recent meeting have been published on ...",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "published_time": "2022-08-23T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.cb.is/publications/news/news/2025/01/15/Thorarinn-G.-Petursson-appointed-Deputy-Governor-for-Monetary-Policy/",
+                "title": "Thórarinn G. Pétursson appointed Deputy Governor for Monetary Policy",
+                "text": "Prime Minister Kristrún Frostadóttir has appointed Thórarinn G. Pétursson to serve as Deputy Governor for Monetary Policy for a five-year term, effective today.",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "published_time": "2025-01-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.cb.is/library/Skraarsafn---EN/Speeches/Managing%20Director's%20Global%20Policy%20Agenda.pdf",
+                "title": "Joint Responsibility Shared Rewards - International Monetary Fund (IMF)",
+                "text": "The Fund will adapt its policy toolkits to lead and support change. The Fund will continue providing state-of-the-art policy advice to its ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "published_time": "2019-04-11T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.cb.is/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cb.is/publications/news/news-by-month/?news_ArchiveDate=2025-02-01&news_date=2025-02-01",
+                "title": "News by Month - Central Bank of Iceland",
+                "text": "The Central Bank of Iceland Financial Stability Committee's (FSN) report to Parliament on its work in 2024 has been published. More. 19 February ...",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "published_time": "2025-02-01T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.cb.is/publications/news/news-all-years?all=1&newscat=ab330163-2b44-11ea-911c-005056bc3d8f",
+                "title": "News all years - Central Bank of Iceland",
+                "text": "National Bank of Slovakia issues new conclusion on violations by NOVIS and temporarily restricts distribution of company assets.",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "position": 2
+              },
+              {
+                "url": "https://www.cb.is/publications/speeches/speeches-by-years/?news_ArchiveDate=2012-01-01&news_date=2012-01-01",
+                "title": "Speeches by years - Central Bank of Iceland",
+                "text": "Speeches and lectures given by the Governor, Deputy Governors, and other Bank staff members.",
+                "source": "Central Bank of Iceland",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cb.is",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:https://www.cb.is/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

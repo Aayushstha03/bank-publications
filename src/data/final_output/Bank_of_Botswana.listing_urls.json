@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bankofbotswana.bw/publications",
+        "title": "Publications | Bank of Botswana",
+        "text": null,
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/financial-stability-reports",
+        "title": "Financial Stability Reports | Bank of Botswana",
+        "text": null,
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bankofbotswana.bw/content/statistics",
+        "title": "Statistics | Bank of Botswana",
+        "text": "Welcome to the statistics section of the Bank of Botswana website. This aims, first and foremost, to provide easy access to a wide selection of economic and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/department/statistics-data-management-and-analytics",
+        "title": "Statistics, Data Management and Analytics - Bank of Botswana",
+        "text": "To compile statistics and carry out data analytics to aid the conduct of professional economic research, facilitate the implementation of Monetary Policy ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/botswana-economic-and-financial-statistics",
+        "title": "Botswana Economic and Financial Statistics",
+        "text": "The Botswana Financial Statistics is a monthly publication that provides statistical series on seven broad arears, namely: National Output; Prices; Banking ...",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bankofbotswana.bw/content/legislation-and-regulations",
+        "title": "Legislation and Regulations - Bank of Botswana",
+        "text": "The Payments and Settlement Department uses the following legislation and regulations that are central and serve as a guide for the main function of licensing.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/content/monetary-policy",
+        "title": "Monetary Policy | Bank of Botswana",
+        "text": "Monetary policy entails the formulation and implementation of policies aimed at influencing interest rates and/or growth of the money supply to affect economic ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/content/policy-framework",
+        "title": "Policy Framework | Bank of Botswana",
+        "text": "The monetary policy framework is described in terms of the monetary policy goals, intermediate targets used to signal policy action, and the associated ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bankofbotswana.bw/governor-s-speeches",
+        "title": "Speeches | Bank of Botswana",
+        "text": "Speeches ; 2024 Monetary Policy Statement Launch - February 21, 2024, 21 Feb 2024, Download ; Keynote Address by His Excellency the President of the Republic of ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/press-releases",
+        "title": "Press Releases | Bank of Botswana",
+        "text": "Press Releases ; 19 Jun 2025, Monetary Policy Committee Decision- June 2025, Download ; 09 May 2025, Press Release - Financial Stability Council Meets - 8 May ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofbotswana.bw/latest-news",
+        "title": "Latest News | Bank of Botswana",
+        "text": "The Bank of Botswana will hold an auction of Government Notes under the BWP55 Billion Note Programme on 26 June 2025. The notice is attached below.",
+        "listing_probability": 0.3
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bankofbotswana.bw/research-bulletins",
+        "title": "Research Bulletins | Bank of Botswana",
+        "text": "The Research Bulletin (RB) presents short, topical research papers written by Bank of Botswana Economists, which provide insights on current events in finance.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

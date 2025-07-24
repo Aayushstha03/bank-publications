@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.kansascityfed.org/banking/publications-and-public-records-requests/",
+        "title": "Publications, Public Records Request, File a Complaint ...",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.kansascityfed.org/banking/community-banking-bulletins/banking-summary-statistics/",
+        "title": "Banking Summary Statistics Dashboard",
+        "text": "The Banking Summary Statistics dashboard is provided to promote better understanding of the population, trends in activity, and financial performance of ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.kansascityfed.org/data-and-trends/",
+        "title": "Data and Trends - Federal Reserve Bank of Kansas City",
+        "text": "National Data and Trends. Kansas City Research Data Center: Learn more about the KCRDC which provides qualified researchers in the Kansas City Fed's Tenth ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.kansascityfed.org/banking/banking-data-and-analytics/",
+        "title": "Banking Data and Analytics - Federal Reserve Bank of Kansas City",
+        "text": "Provides a horizontal comparison of capital adequacy among banking organizations of different size and complexity.",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/industrial-change-and-public-policy/",
+        "title": "Industrial Change and Public Policy - Federal Reserve Bank of Kansas City",
+        "text": "Industrial Change and Public Policy. A symposium sponsored by the Federal Reserve Bank of Kansas City / Jackson Hole, Wyoming / August 24 - 26, 1983.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/the-us-dollar-recent-developments-outlook-and-policy-options/",
+        "title": "The U.S. Dollar - Recent Developments, Outlook, and Policy ...",
+        "text": "A symposium sponsored by the Federal Reserve Bank of Kansas City / Jackson Hole, Wyoming / August 21 - 23, 1985.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.kansascityfed.org/research/policy-perspectives/",
+        "title": "Policy Perspectives - Federal Reserve Bank of Kansas City",
+        "text": "Policy Perspectives are written by Esther George, president and CEO of the Kansas City Fed. In this occasional publication series, she discusses issues ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.kansascityfed.org/speeches/",
+        "title": "Speeches - Federal Reserve Bank of Kansas City",
+        "text": "Search our recent and archived speeches by area of interest. Presentations are listed by date, topic and speaker.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.kansascityfed.org/newsroom/news-releases/",
+        "title": "News Releases - Federal Reserve Bank of Kansas City",
+        "text": "View all news releases from the Federal Reserve Bank of Kansas City, the Tenth District of the Federal Reserve System, here.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.kansascityfed.org/newsroom/2024-news-releases/",
+        "title": "2024 NEWS RELEASES - Federal Reserve Bank of Kansas City",
+        "text": "View news releases issued by the Federal Reserve Bank of Kansas City from throughout 2024 here. Growth in Tenth District Services Activity Cooled in December.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.kansascityfed.org/research/research-working-papers/",
+        "title": "Research Working Papers - Federal Reserve Bank of Kansas City",
+        "text": "Research Working Papers. Working papers cover a wide range of economic topics, including monetary policy, payment methods, banking and more.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.kansascityfed.org/research/research-working-papers/research-working-paper-archive/",
+        "title": "Research Working Paper Archive - Federal Reserve Bank of Kansas City",
+        "text": "Research staff produce Research Working Papers on a wide range of economic topics. To receive email alerts for Research Working Papers, subscribe here.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.kansascityfed.org/research/",
+        "title": "Research - Federal Reserve Bank of Kansas City",
+        "text": "Working papers cover a wide range of economic topics, including monetary policy, payment methods, banking and more. Charting the Economy. New economic data with ...",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

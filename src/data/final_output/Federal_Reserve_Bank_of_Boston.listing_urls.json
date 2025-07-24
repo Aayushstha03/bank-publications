@@ -1,0 +1,117 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/publications-and-data.aspx",
+        "title": "Publications & Data - Federal Reserve Bank of Boston",
+        "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/sra/",
+        "title": "Publications & Data - Federal Reserve Bank of Boston",
+        "text": "Publications & Data · Technology Providers and Financial Stability: Overview of Risks and Regulatory Frameworks Includes Data · Technology Providers and Financial ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/special-reports.aspx",
+        "title": "Special Reports - Federal Reserve Bank of Boston",
+        "text": "In-depth reports on topics of special interest are produced from time to time by the Bank's Research Department. What Is the Balance of Payments?",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/publications-and-data.aspx",
+        "title": "Publications & Data - Federal Reserve Bank of Boston",
+        "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bostonfed.org/data/data-tools/national-economic-data-summary.aspx",
+        "title": "Summary of National Economic Data - Federal Reserve Bank of Boston",
+        "text": "FRED includes a Macro Snapshot tool that provides data on employment, inflation, GDP, and other important macroeconomic indicators.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bostonfed.org/data/data-tools/new-england-city-data.aspx",
+        "title": "New England City Data - Federal Reserve Bank of Boston",
+        "text": "The Boston Fed's New England City Data tool has been retired as of November 2020. For quality data about the US economy and people, we recommend the Census ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/news-and-events/events/economic-research-conference-series/are-rules-made-to-be-broken-discretion-and-monetary-policy.aspx",
+        "title": "Are Rules Made to be Broken? Discretion and Monetary Policy",
+        "text": "In more recent treatments of optimal monetary policy, discretion can still lead to inefficient outcomes which some type of commitment may overcome. Recently ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/current-policy-perspectives.aspx",
+        "title": "Current Policy Perspectives - Federal Reserve Bank of Boston",
+        "text": "Current Policy Perspectives provide policymakers and the public with economic analysis of issues at the national or global level.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bostonfed.org/news-and-events/speeches/2019/financial-stability-and-regulatory-policy-in-a-low-interest-rate-environment.aspx",
+        "title": "Financial Stability and Regulatory Policy in a Low Interest Rate ...",
+        "text": "Takeaway: One effect of the low interest rate environment is that monetary policy buffers are diminished. For instance, in the event of a ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/news-and-events/speeches.aspx",
+        "title": "Speeches - Federal Reserve Bank of Boston",
+        "text": "68th Economic Conference Federal Reserve Bank of Boston A Conversation with Susan M. Collins and the Boston Foundation's Lee Pelton",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bostonfed.org/news-and-events.aspx",
+        "title": "News & Events - Federal Reserve Bank of Boston",
+        "text": "Press Releases Press Releases · Boston Fed Announces 2025 Board of Directors. January 13, 2025. Boston Federal Reserve Bank Mourns Passing of Jackie Palladino.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bostonfed.org/news-and-events/press-releases.aspx",
+        "title": "Press Releases - Federal Reserve Bank of Boston",
+        "text": "Boston Fed Announces 2025 Board of Directors. January 13, 2025. up down 2024. Boston Federal Reserve Bank Mourns Passing of Jackie Palladino.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/publications/research-department-working-paper.aspx",
+        "title": "Research Department Working Papers",
+        "text": "The working papers disseminate research to advance economic knowledge, present research-in-progress, and are preliminary, published to stimulate discussion.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bostonfed.org/monetary-policy-and-economic-research/economic-research.aspx",
+        "title": "Economic Research - Federal Reserve Bank of Boston",
+        "text": "Research Department Working Papers. Papers that disseminate empirical and theoretical research with the aim of advancing knowledge of economic matters.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bostonfed.org/monetary-policy-and-economic-research.aspx",
+        "title": "Monetary Policy & Economic Research",
+        "text": "Our research economists provide forecasts, analysis, research and informed perspectives to support our Bank President and Board of Directors in monetary ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

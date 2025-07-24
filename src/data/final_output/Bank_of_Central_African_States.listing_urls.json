@@ -1,0 +1,47 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.beac.int/publications/",
+        "title": "Publications - BEAC",
+        "text": "Notes sur les finances publiques · Tests Prévisionnels de Conjoncture · Revues de la Stabilité Financière · Rapports Annuels · Bulletins du marché monétaire ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.beac.int/supervision-bancaire/publications/",
+        "title": "Publications - BEAC",
+        "text": "Publications · La Commission Bancaire de l'Afrique Centrale · Présentation · Organigramme · Règlements de la COBAC · Instructions de la COBAC · Cadre réglementaire ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.beac.int/p-des-changes/publications/",
+        "title": "Publications - BEAC",
+        "text": "Documents · La BEAC. La BEAC · Le Fonctionnement de la BEAC · Politique monétaire. Stratégie de politique monétaire · Billets et pièces. Rôle de la BEAC · Systèmes",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.beac.int/publications/bulletin-economique-statistique/",
+        "title": "Bulletin Économique et Statistiques - BEAC",
+        "text": "Bulletin Economique et Statistiques N°19 - septembre 2023, 2 MB, CEMAC, 2023 ; Bulletin Economique et Statistiques N°18 - juin 2023, 3 MB, CEMAC, 2023.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.beac.int/wp-content/plugins/sitepress-multilingual-cms/compatibility/elastic-press/",
+        "title": "Index of /wp-content/plugins/sitepress-multilingual-cms/compatibility ...",
+        "text": "Index of /wp-content/plugins/sitepress-multilingual-cms/compatibility/elastic-press. [ICO], Name · Last modified · Size · Description. [PARENTDIR] ...",
+        "listing_probability": 0.01
+      }
+    ]
+  }
+]

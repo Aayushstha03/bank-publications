@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+        "title": "Publications - CBUAE",
+        "text": "We provide the public with historical Central Bank of the UAE reports and their iterations published previously, as part of our commitment to data transparency.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/research-and-statistics/",
+        "title": "CBUAE | Research and Statistics",
+        "text": "The Central Bank of the UAE has a dedicated function to gather accurate, insightful and up-to-date data on the UAE's financial and monetary system.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.ae/en/research-and-statistics/latest-statistics/statistical-bulletin-banking-monetary-statistics/statistical-bulletin-march-2024/",
+        "title": "Statistical Bulletin March 2024 - CBUAE",
+        "text": "Home · Research and Statistics · Latest Statistics · Statistical Bulletin - Banking & Monetary Statistics · Statistical Bulletin March 2024.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.ae/en/open-data-landing/",
+        "title": "Open Data landing - CBUAE",
+        "text": "Access open data from the Central Bank of the UAE, including reports, statistics, and studies, aimed at promoting transparency and financial ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/our-operations/payments-and-settlements/regulations-and-standards/",
+        "title": "Regulations and Standards - CBUAE",
+        "text": "The UAE 'Regulatory Framework for Stored Values and Electronic Payment Systems', issued on 13 December 2016, is the basis on which the Central Bank of the UAE ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.ae/en/our-operations/anti-money-laundering-aml/docs/cbuae-regulations/amended-chapter-16-of-the-standards-for-the-regulations-regarding-licensing-and-monitoring-of-exchange-business/",
+        "title": "Amended Chapter 16 of the Standards for the Regulations Regarding ...",
+        "text": "Download Amended Chapter 16 of the Standards for the Regulations Regarding Licensing and Monitoring of Exchange Business.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.ae/en/our-operations/monetary-policy-and-domestic-markets/",
+        "title": "Monetary Policy and Domestic Markets - CBUAE",
+        "text": "The Central Bank of the UAE is mandated to define and implement its monetary policy objectives through the formulation of the Dirham Monetary Framework.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/",
+        "title": "News and Insights",
+        "text": "All the latest news and updates from the Central Bank of the UAE.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/media-center-news-room-press-releases-announcements/",
+        "title": "Media Center - News Room - Press Releases & Announcements - CBUAE",
+        "text": "Media Center - News Room - Press Releases & Announcements. Download. Media Center - News Room - Press Releases & Announcements.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

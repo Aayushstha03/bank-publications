@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/national-financial-accounts-bulletin/first-quarter-2025",
+        "title": "National Financial Accounts Bulletin by Institutional Sector",
+        "text": "National Financial Accounts Bulletin by Institutional Sector published until now (available since 2024)",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin/northeast-1-quarter-2025",
+        "title": "Regional Economic Bulletin: Northeast, first quarter of 2025",
+        "text": "The northeast region's economy grew year-over-year during the first quarter of 2025, driven by strong domestic demand and robust agricultural supply. Household ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin/southwest-1-quarter-2025",
+        "title": "Regional Economic Bulletin: Southwest, first quarter of 2025",
+        "text": "In the first quarter of 2025, the southwest region's economy grew year-over-year, although with reduced momentum. Industrial growth slowed, and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/general-policies-and-guidelines-personal-data-protection",
+        "title": "General Policies and Guidelines for Personal Data Protection (Privacy ...",
+        "text": "General Policies and Guidelines for Personal Data Protection (Privacy Policy) | Banco de la República.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/regulations-foreign-exchange-transactions/basic-concepts",
+        "title": "Regulations and Foreign Exchange Transactions: Basic Concepts",
+        "text": "13. Which foreign currency transactions are authorized by the foreign exchange regime between a parent company domiciled abroad and its branch ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/monetary-policy/definition-objective-monetary-policy",
+        "title": "Definition and Objective of Monetary Policy | Banco de la República",
+        "text": "Under this scheme, monetary policy actions are aimed at keeping future inflation within the 3.0% target set by the Board of Directors of Banco de la República ( ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/press-releases",
+        "title": "Press releases, minutes and news - Banco de la República",
+        "text": "Press releases, minutes and news ; 21/05/2025, 10:30, Labor Market Report – April 2025 ; 08/05/2025, 13:00, Purchases / Sales of TES and Foreign Currency, and TES ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/working-papers",
+        "title": "Working Papers - Publications and Research - Banco de la República",
+        "text": "With the Financial Infrastructure Report, each year, Banco de la República provides a complete overview of the local financial infrastructure.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/public-perception-knowledge-work-central",
+        "title": "Working Papers on Economics - Public perception and knowledge of ...",
+        "text": "The series Working Papers on Economics is published by the Office for Economic Studies at the Banco de la República (Central Bank of Colombia).",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/cross-border-effects-fed-capital",
+        "title": "Working papers economics - Cross-Border Effects of Fed Capital ...",
+        "text": "Abstract. This paper examines the impact of the Federal Reserve's 2022 capital requirements on Colombian banks' access to foreign credit lines. These measures, ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

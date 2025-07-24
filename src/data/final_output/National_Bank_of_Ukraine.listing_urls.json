@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/publications",
+        "title": "Publications",
+        "text": "Annual Report, Inflation Report, Financial Stability Report, Consolidated financial statements, Report on the Oversight of Payment Systems.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/open-data",
+        "title": "Open Data",
+        "text": "National Bank of Ukraine; Open Data. Open Data. Public information in the open data. This page is available only in Ukrainian. Please, switch the language ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://bank.gov.ua/en/archive-news/all/23710782-the-statistics-available-in-the-macroeconomic-indicators-subsection-have-been-extended-with-new-data",
+        "title": "The statistics available in the “Macroeconomic indicators” page ...",
+        "text": "With a view to making data search more convenient, time series of data are grouped into four categories: prices, economic activity, labor market and social ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/archive-news/all/59678295-nbu-to-harmonize-its-regulations-in-line-with-updated-legislation",
+        "title": "NBU To Harmonize Its Regulations in Line With Updated Legislation",
+        "text": "The National Bank of Ukraine (NBU) intends to update own regulations in line with the current national legislation, particularly, the Law of Ukraine On ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bank.gov.ua/en/archive-news/all/27564488-national-bank-of-ukraine-streamlines-the-rules-and-regulations-governing-the-use-of-e-money",
+        "title": "National Bank of Ukraine Streamlines the Rules and Regulations ...",
+        "text": "Resolution No. 65 allows individuals to receive electronic money issued by nonresident issuers from nonresidents through international online payment systems.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bank.gov.ua/en/archive-news/all/12757687-procedures-and-regulations-for-ukrainian-banks-at-the-end-of-accounting-year",
+        "title": "Procedures and regulations for Ukrainian Banks at the end of ...",
+        "text": "On 29 and 30 December, 2014, the SEP will receive initial payments until 22.00. On 30 December, 2014, all client transactions must be completed. On 31 December, ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/news",
+        "title": "News",
+        "text": "Main News · NBU June 2025 Inflation Update · International Reserves at USD 45.1 Billion in June · Ukraine's Government Borrows Equivalent of Almost UAH 240 Billion ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/direct-speech",
+        "title": "Speeches",
+        "text": "Speeches ; Andriy Pyshnyy's column for NV: Ukraine's European Integration Is beyond Doubt. 24 Jun 2025 13:20 ; Closing Remarks by NBU Deputy Governor Sergiy ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all",
+        "title": "All news",
+        "text": "All news ; Olena Avramenko Named Best Chief Audit Executive of 2025 by Institute of Internal Auditors. 18 Jul 2025 11:00 ; Ukrainian Banks Sign Dozen of Deals ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

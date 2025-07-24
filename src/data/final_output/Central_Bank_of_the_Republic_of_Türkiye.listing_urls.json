@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/publications/reports",
+        "title": "Reports - TCMB",
+        "text": "The Central Bank publishes its evaluations regarding the inflation outlook, medium-term inflation and output gap forecasts, factors affecting inflation.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications",
+        "title": "TCMB - Research and Publications",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics",
+        "title": "Statistics - TCMB",
+        "text": "Money, banking, finance and securities statistics for the banking and financial sector prepared by the Central Bank in accordance with international standards.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/statistics/monetary+and+financial+statistics/weekly+money+and+banking+statistics",
+        "title": "Weekly Money and Banking Statistics - TCMB",
+        "text": "The Weekly Money and Banking Statistics consist of statistical tables on the banking sector's deposits, credits and securities as well as monetary aggregates.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+page+site+area/data",
+        "title": "Data - TCMB",
+        "text": "Data ; Foreign Exchange Assets and Liabilities of Non-Financial Companies (May 2025). 22.07.2025 ; Survey of Market Participants (July 2025). 21.07.2025 ; Weekly ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Monetary+Policy+Texts/Monetary+Policy+Texts/",
+        "title": "Monetary Policy Texts - TCMB",
+        "text": "Monetary Policy Texts · Monetary Policy for 2025 · Monetary Policy for 2024 · Monetary Policy and Liraization Strategy for 2023 · Monetary and Exchange Rate Policy ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Monetary+Policy/Central+Bank+Monetary+Policy+Framework",
+        "title": "Central Bank Monetary Policy Framework - TCMB",
+        "text": "The Central Bank stated that the ultimate objective of the monetary policy was to move to inflation targeting.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Monetary+Policy/FINANCIAL+STABILITY/Policy+Implementations+Regarding+Financial+Stability",
+        "title": "Policy Implementations Regarding Financial Stability - TCMB",
+        "text": "The CBRT adopted a flexible monetary policy oriented towards the primary objective of price stability that also safeguards financial stability.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases",
+        "title": "Press Releases - TCMB",
+        "text": "Central Bank of the Republic of Türkiye and People's Bank of China Sign Memorandum of Understanding on Establishing Renminbi Clearing Arrangements (2025-35).",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Briefings",
+        "title": "Press Briefings - TCMB",
+        "text": "The Central Bank holds press briefings to introduce Inflation Reports, which are one of its main communication tools.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/announcements/press+releases/2025/ano2025-24",
+        "title": "Press Release on Interest Rates (2025-24) - TCMB",
+        "text": "The Monetary Policy Committee (the Committee) has decided to raise the policy rate (the one-week repo auction rate) from 42.5 percent to 46 percent.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/",
+        "title": "Working Papers - TCMB",
+        "text": "Ana Sayfa Main Menu Research and Publications Research Working Papers · Reports · Monthly Price Developments · Inflation Report · Financial Accounts Report.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

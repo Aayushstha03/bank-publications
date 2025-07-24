@@ -1,0 +1,117 @@
+{
+  "Bank Name": "Bank of Mongolia",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.mongolbank.mn/en/search?k=International%20publications",
+                "title": "Search: International publications - Mongolbank.mn",
+                "text": "Please type in English. Depending on your language preferences it searches for the content in your preferred language.",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.mongolbank.mn/en/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.mongolbank.mn/en/p/research-and-statistics-department",
+                "title": "Research And Statistics Department - Mongolbank.mn",
+                "text": "Статистик, тайлан мэдээллийг хэрэглэгчдэд илүү хүртээмжтэй байлгах, ашиглахад хялбар болгох чиглэлээр тогтмол хөгжүүлэх. Судалгааны хэлтсийн чиг үүрэг.",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.mongolbank.mn/en/search?k=Data%20envelopment%20analysis",
+                "title": "Search: Data envelopment analysis - Mongolbank.mn",
+                "text": "The official website of The Central Bank of Mongolia.",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.mongolbank.mn/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.mongolbank.mn/en/p/monetary-policy",
+                "title": "Monetary Policy - Mongolbank.mn",
+                "text": "Monetary Policy. Monetary Policy Statement. Monetary Policy Guidelines. Inflation report. Monetary Policy Committee. Regulation on MPC. Members.",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.mongolbank.mn/en/p/monetary-policy-committee",
+                "title": "Monetary Policy Committee - Mongolbank.mn",
+                "text": "Monetary Policy Committee · Monetary Policy Statement · Monetary Policy Strategy · Monetary Policy Instruments · Monetary Policy Guidelines · Inflation Report ...",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.mongolbank.mn/en/p/monetary-policy-guidelines",
+                "title": "Monetary Policy Guidelines - Mongolbank.mn",
+                "text": "Монголбанкнаас өргөн барьсан төслийг УИХ хэлэлцэж Төв банкнаас дараагийн жилд баримтлах үндсэн чиглэлийг УИХ-ын тогтоолын хавсралтаар баталдаг байна.",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.mongolbank.mn/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.mongolbank.mn/en/category/news",
+                "title": "News, information - Mongolbank.mn",
+                "text": "Brief history of the Bank of Mongolia, Former Governors, Difference Between Central Bank and Commercial Bank, BOM History, Structure of the Bank of Mongolia.",
+                "source": "Монгол Улсын Төв Банк",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgWNXgVNHgWNXgWNXgWNXgWNXgWNXgWNXjk9huAAAAAEnRSTlMAMIrK/3tq77wkqhNRRdebOV3Tl3BoAAABPUlEQVR4AW2Oi47FIAhERypUQKr+/8+umq25+zgk5JSJ6eCQ6MrM+aKE38idc1FAS8634BOdkTng091mrDjUnHPs93vH/Kx/MlyGX6lOfbb5U7B55iltu6fx7uuNfN94nu5vKdSX5XEVzss6lf0AOb/VshaKG+dnQOSENyz3U94QKQea4YRyZTkhrOHRj9CMM17SgxuH4o2T4XDjwW4v/J5G1Kq7/YOSKhhk1d3hiAghqHuvKDDxGNJKpYmkpm7SqDXbocboI8aotcbgUAkhFuHUDfy21T6tQt2xSL0znLZ7VU8RXMikBhbkgG3rAIKtNEraEyY7UN6aKg8eXeGODevejkPoa87YEP7hHIXIWjMyaraskQgO5BJg0LQ5Ep3xAUuRNoiFpE39kdEe9ui9OmPNwUuzVmjOWtcSLL4AEqsMRy/ZEtsAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.mongolbank.mn/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

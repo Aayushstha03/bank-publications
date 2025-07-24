@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/research-and-publications/publications",
+        "title": "Publications - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "Access the publications produced by us. Includes the Monetary Policy Statement, Financial Stability Report, and corporate documents.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/research-and-publications/publications/publications-library",
+        "title": "Publications library - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "In our publications library you can access all our publications and search by date and topic.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/statistics",
+        "title": "Statistics - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "We publish daily statistics and insights that relate to our policy and regulatory responsibilities.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/statistics-release-calendar",
+        "title": "Statistics Release Calendar - Reserve Bank of New Zealand",
+        "text": "Data is released from 3pm daily. We cannot guarantee an exact publication time for tables and related documents to appear on the website.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/series/data-file-index-page",
+        "title": "Statistical series data files page - Reserve Bank of New Zealand",
+        "text": "Statistical series data files page. This page lists our current data files from our Statistical series.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/regulation-and-supervision/oversight-of-banks/how-we-regulate-and-supervise-banks/our-policy-work-for-bank-oversight",
+        "title": "Our policy work for bank oversight - Reserve Bank of New Zealand",
+        "text": "An overview of our work to develop new policies, regulations, legislation and guidance for the regulation and supervision of New Zealand banks.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/hub/publications/bulletin/2023/how-the-reserve-bank-implements-monetary-policy",
+        "title": "How the Reserve Bank implements monetary policy",
+        "text": "This Bulletin provides an overview of how we implement monetary policy and manage settlement cash in the banking system.",
+        "listing_probability": 0.01
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/regulation-and-supervision/oversight-of-banks/standards-and-requirements-for-banks/macroprudential-policy",
+        "title": "Macroprudential policy - Reserve Bank of New Zealand",
+        "text": "Macroprudential policy aims to reduce the likelihood of a financial crisis by restraining excessive lending during upturns (booms) and making banks and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/news-and-events/speeches",
+        "title": "Speeches - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "Our staff meet and speak with a wide range of businesses, industry forums, community groups, schools and universities. See all our speeches here.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/news-and-events",
+        "title": "News, events and speeches - Reserve Bank of New Zealand",
+        "text": "Find information about our upcoming announcements, speeches and external speaking engagements involving our staff.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/news-and-events/news",
+        "title": "News - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "In this section you can access all our media releases and search by date and topic.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/research-and-publications/research",
+        "title": "Research - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/research-and-publications/research/our-research-programme",
+        "title": "Our research programme - Reserve Bank of New Zealand - Te ...",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "Bank Name": "Qatar Central Bank",
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.qcb.gov.qa/Documents/InformationSecurity/Data%20Handling%20and%20Protection%20Regulation.pdf",
+                "title": "Data Handling and Protection Regulation - Qatar Central Bank",
+                "text": "A publicly available document that outlines how a Financial Institutions collects, uses, stores, and protects personal data of external parties, such.",
+                "source": "Qatar Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABNElEQVR4AYzSM9iQYRQA0DfbxpJt27ZtW1M2l7Rk27ZraslNudaWOPV8neG3h3PH67CpWNP0FGE7F6lPAAgCQE26EGI04ydRjC8UTyvBfP6RjcAuIgB6pJVgJxEbCdTgMOd4TsQZcqSYgEdEMWoSYpTnH1GMDQkT1CLEeEUU4x4hRnVuc533jCZQNQhL6UXgCRF/eUpXctCYFlSgBYHurAxCbg7RkIm8Zj3fOECgNf3oQgMacpIiCW+9j4n0ZhuvGU02FnGcjeznJKWSLrEgG2IMoBcz2MJ8+rOctRRL+QowjUOMYTwTGclBFpA5jT8AmrGRiYxnAx0IkH6CTPTgK98ZQqaMJqjOU47TmAbs4wUN0kqQnbNcYSaDCDH6MYczXKVASgnK8pb/U8OTtUWg0asHEwMA8kcgpVD08VAAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.qcb.gov.qa/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/publications",
+        "title": "Publications - Federal Reserve Bank of Cleveland",
+        "text": "Our community development reports provide research and analysis on community and economic development issues in our region, including foreclosure patterns, ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/publications/cleveland-fed-district-data-brief",
+        "title": "Cleveland Fed District Data Brief",
+        "text": "District Data Briefs offer accessible, short-form data analyses that allow our regional economists to highlight some of the data they examine and share ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.clevelandfed.org/indicators-and-data",
+        "title": "Indicators and Data - Federal Reserve Bank of Cleveland",
+        "text": "The Cleveland Fed maintains a broad range of indicators and datasets that are available for download, including median CPI, median PCE inflation, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.clevelandfed.org/banking-and-payments/institution-data",
+        "title": "Institution Data - Federal Reserve Bank of Cleveland",
+        "text": "The Federal Reserve Bank of Cleveland collects data from hundreds of financial institutions, including depository institutions, bank holding companies, ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/indicators-and-data/simple-monetary-policy-rules",
+        "title": "Simple Monetary Policy Rules - Federal Reserve Bank of Cleveland",
+        "text": "Description: We show federal funds rates from 7 simple monetary policy rules based on 3 sets of forecasts for economic conditions. Why so many rules?",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/press-releases/2022/pr-20220907-update-on-fed-funds-rates-based-on-7-simple-monetary-policy-rules",
+        "title": "Update on Fed Funds Rates Based on 7 Simple Monetary Policy Rules",
+        "text": "The median federal funds rate across seven policy rules and three economic forecasts rises from 3.67 percent in 2022:Q3 to 4.08 percent in 2024:Q3.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/economic-commentary/2013/ec-201308-monetary-policy-tightening-and-long-term-interest-rates",
+        "title": "Monetary Policy Tightening and Long-Term Interest Rates",
+        "text": "Some financial market participants are concerned that long-term interest rates may increase more than should be expected when the Committee starts to tighten.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/collections/speeches",
+        "title": "Speeches - Federal Reserve Bank of Cleveland",
+        "text": "Speeches by the Cleveland Fed President and other leaders from the Bank. An archive of speeches by former Cleveland Fed presidents is ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/press-releases",
+        "title": "Press Releases - Federal Reserve Bank of Cleveland",
+        "text": "President Hammack spoke at a monetary policy forum on June 24, 2025. Press Release. Cleveland Fed forms Financial Markets Advisory Council.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.clevelandfed.org/news-and-events",
+        "title": "News and Events - Federal Reserve Bank of Cleveland",
+        "text": "Explore the latest from the Cleveland Fed. Press Releases, View recent press releases from our Bank, Speeches, Read speeches by our president and other leaders.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/center-for-inflation-research/inflation-working-papers",
+        "title": "Working Papers About Inflation - Federal Reserve Bank of Cleveland",
+        "text": "Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual publication in ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.clevelandfed.org/research",
+        "title": "Research - Federal Reserve Bank of Cleveland",
+        "text": "Working Papers. Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual ...",
+        "listing_probability": 0.92
+      }
+    ]
+  }
+]

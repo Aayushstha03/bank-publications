@@ -1,0 +1,93 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbcg.me/en/public-relations/news/publications",
+        "title": "Publications - CBCG",
+        "text": "Public Relations News, Press releases, Events, Media, Interviews and texts, Blog, Multimedia, Video, Bids and Advertisements, Job Vacancies, Information, FAQ",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbcg.me/en/publications/regular-publications",
+        "title": "Regular Publications - CBCG",
+        "text": "Regular Publications Calendar, Governor's Report, Central Bank of Montenegro Annual Report, Financial Stability Report, Inflation Report, Quarterly Report, ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbcg.me/en/core-functions/financial-stability/indicators-and-reports",
+        "title": "Indicators and Reports - CBCG",
+        "text": "The Central Bank uses several quantitative and qualitative indicators in order to assess the situation regarding financial stability.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbcg.me/en/statistics/statistical-data",
+        "title": "Statistical Data - CBCG",
+        "text": "Statistical Data · Monetary and Financial Statistics · Financial Soundness Indicators · Interest Rates · T-bills Statistics · Capital Market · International Economic ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbcg.me/en/publications/regular-publications/cbcg-bulletin",
+        "title": "CBCG Bulletin",
+        "text": "The Bulletin is a monthly publication by the Central Bank of Montenegro, giving an overview of the main statistical data on monetary developments.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.cbcg.me/en/core-functions/supervision/banking-system/statistical-data",
+        "title": "Statistical Data - CBCG",
+        "text": "The publication of statistical data on the number and type of supervisory measures ordered and misdemeanours imposed for offenses against credit institutions ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbcg.me/en/core-functions/monetary-policy",
+        "title": "Monetary Policy - CBCG",
+        "text": "The CBCG pursues monetary policy in a specific foreign exchange regime. The existing foreign exchange regime in Montenegro is dollarisation (euroisation).",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbcg.me/en/public-relations/news/press-releases",
+        "title": "Press releases - CBCG",
+        "text": "The CBCG Council Adopts the Annual Work for 2024: Significant Steps Forward in Strengthening Financial Stability, Payment System Modernisation and Regulatory ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbcg.me/en/public-relations/news",
+        "title": "News - CBCG",
+        "text": "Public Relations. News · Press releases · Events · Media · Interviews and texts · Blog · Multimedia · Video · Bids and Advertisements.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbcg.me/en/public-relations/media/speeches-and-statements",
+        "title": "Speeches and statements - CBCG",
+        "text": "Speech of the CBM Governor Radoje Žugić on the Sixth EU-SE Europe Summit entitled “Europe Reconsidered-Can Montenegro Achieve Stability and Growth?”",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cbcg.me/en/publications/other-publications/working-papers",
+        "title": "Working Papers - CBCG",
+        "text": "Working Papers. European Union Requirements for Sustainability Reporting Download. The Challenge of Inflation Forecasting during the Covid-19 Pandemic",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

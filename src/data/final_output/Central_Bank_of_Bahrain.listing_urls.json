@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbb.gov.bh/publications/",
+        "title": "Publications & Data | CBB - Central Bank of Bahrain",
+        "text": "Publications & Data · Annual Reports · Statistical Bulletin · Central Bank Survey · Annual Manpower Survey · Compliance & Enforcement Report – ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbb.gov.bh/media-center/cbb-participates-in-wef-publications/",
+        "title": "CBB participates in WEF Publications - Central Bank of Bahrain",
+        "text": "The whitepapers contributed by Ms. Al-Sharaf, explore the potential role that central banks and public institutions could take with respect to ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbb.gov.bh/media_category/monthly-bulletin/",
+        "title": "Media Categories Monthly Bulletin | CBB - Central Bank of Bahrain",
+        "text": "Central Bank of Bahrain (CBB) announces that the BD 35 million monthly issue of Government Treasury Bills has been oversubscribed by 101%.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbb.gov.bh/media-center/point-of-sale-pos-and-payment-systems-statistics-infographic-for-june-2023/",
+        "title": "Point of Sale (POS) and Payment Systems Statistics infographic for ...",
+        "text": "Point of Sale (POS) and Payment Systems Statistics infographic for June 2023. Published on 13 July 2023 Media Center Press Release.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbb.gov.bh/media-center/cbb-monthly-statistical-bulletin-february-2020/",
+        "title": "CBB Monthly Statistical Bulletin February 2020",
+        "text": "The Central Bank of Bahrain (CBB) monthly statistical bulletin for February 2020 indicated an overall improvement in monetary and banking indicators",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbb.gov.bh/laws-regulations/",
+        "title": "Laws & Regulations | CBB - Central Bank of Bahrain",
+        "text": "This is the homepage of the Laws and Regulations section of the CBB website. From this homepage, users have access to relevant laws, regulations and associated ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbb.gov.bh/monetary-policy/",
+        "title": "Monetary Policy | CBB - Central Bank of Bahrain",
+        "text": "The Central Bank of Bahrain (CBB) is responsible for setting and implementing monetary policy in the Kingdom of Bahrain.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbb.gov.bh/media-center/press-release/",
+        "title": "Press Release | CBB - Central Bank of Bahrain",
+        "text": "The preliminary balance of payments data for the first quarter of 2019 indicates a surplus in the balance of goods value of BD209.4 million ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbb.gov.bh/media-center/the-central-bank-of-bahrain-issues-instructions-for-press-releases-concerning-financial-results-for-public-shareholding-companies/",
+        "title": "The Central Bank of Bahrain issues Instructions for Press Releases ...",
+        "text": "The CBB has issued on Thursday, 9 th January 2020, instructions in relation to press releases pertaining to the financial results of public shareholding ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

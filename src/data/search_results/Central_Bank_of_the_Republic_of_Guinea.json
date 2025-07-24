@@ -1,0 +1,85 @@
+{
+  "Bank Name": "Central Bank of the Republic of Guinea",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcrg-guinee.org/categories/publications/autres-publications/",
+                "title": "Autres publications – BCRG",
+                "source": "BCRG",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcrg-guinee.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcrg-guinee.org/wp-content/uploads/2024/01/Etats-financiers-210x300.jpg",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcrg-guinee.org/categories/publications/",
+                "title": "Publications – BCRG",
+                "source": "BCRG",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcrg-guinee.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcrg-guinee.org/wp-content/uploads/2025/06/Rapport-dactivite-2023-232x300.jpg",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcrg-guinee.org/categories/publications/page/2/",
+                "title": "Publications – Page 2 – BCRG",
+                "source": "BCRG",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcrg-guinee.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcrg-guinee.org/wp-content/uploads/2021/12/IFRS-2020-205x300.jpg",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcrg-guinee.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcrg-guinee.org/bulletin-dinformations-et-de-statistique-janvier-2021/",
+                "title": "Bulletin d'informations et de statistique Janvier 2021 - BCRG",
+                "text": "Bulletin d'informations et de statistique Janvier 2021. Loading PDF 113% ... Share. Page Précedente. 1/42. Page Suivante. Zoom Avant. Zoom Arrière.",
+                "source": "Banque Centrale de la République de Guinée (BCRG)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX///+5xMHBzcnk6ejZ4N7//vXNx4P///vM1NPX3N75+/PRyIfo7+uksa3d0576+O3d1qeYpqLQ29j///7u6tefrab09vbv69DR2Nbr5Mf08Nzt7NXJumj48+b8///g5eaHlZPF0NLh36zm3LCAk4z4+vrZ0JKlt7jT1s/c4dfEw63Gx6fUzqO8w67h3828x8uzu7vW1Z2kra1idnFvf3sRQTcAHQUAMSM5U05LZ2EjRz4AJxsAFwAvUEYAIw0AEAAAIxVJZl6gxBIwAAABWklEQVR4AcROA3IAQQDLXvds2zb+/7faHDfjGP8OwnzP31CW4wVRkkGVL6KgQuMFqhswrY8KbztwPd8JaBgpKmL+g6onaWbCEPP7IKJEeid5BSDrZV5ZeU2DSAaa9lmyeYUWFJ3eh8MY9qkGoaDeWymP0vWqYZqXdas8VwAr8c9JGLIR2WTXDiHYz50g0uQaeFHBhkZ9HkKG8jjr2n/3lqgHIUy57i0gkbVkdnKo5Fmknue1bYYWQNZmWdveExR/4bjUu9rEQMNhIAqAs7dBjgSBtSD3ggJQfXvZt91uk/z/T7W09As6DMOMEQiiMhAvl/EHwKXkQP6Trg6fbSpX+lW1JkiryM0hCm0iGRCI9xOu0m09BJBc99phAkDMMply3oE/jxTvk6H6mlU0n1i2AcSQY1lKo9/kdyzENcx5Ym7Wx3IwHmbJg2v79UzXAu5pSPtdB97MfOrbPAB7fyUWJXqj0gAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcrg-guinee.org/bulletin-statistique-janvier-2022/",
+                "title": "Bulletin statistique Janvier 2022 - BCRG",
+                "text": "Bulletin statistique Janvier 2022. Loading PDF 113% ... Jacob KOLIE. Author: Jacob KOLIE. DSI. Facebook X-twitter Linkedin Youtube. Liens utile.",
+                "source": "Banque Centrale de la République de Guinée (BCRG)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX///+5xMHBzcnk6ejZ4N7//vXNx4P///vM1NPX3N75+/PRyIfo7+uksa3d0576+O3d1qeYpqLQ29j///7u6tefrab09vbv69DR2Nbr5Mf08Nzt7NXJumj48+b8///g5eaHlZPF0NLh36zm3LCAk4z4+vrZ0JKlt7jT1s/c4dfEw63Gx6fUzqO8w67h3828x8uzu7vW1Z2kra1idnFvf3sRQTcAHQUAMSM5U05LZ2EjRz4AJxsAFwAvUEYAIw0AEAAAIxVJZl6gxBIwAAABWklEQVR4AcROA3IAQQDLXvds2zb+/7faHDfjGP8OwnzP31CW4wVRkkGVL6KgQuMFqhswrY8KbztwPd8JaBgpKmL+g6onaWbCEPP7IKJEeid5BSDrZV5ZeU2DSAaa9lmyeYUWFJ3eh8MY9qkGoaDeWymP0vWqYZqXdas8VwAr8c9JGLIR2WTXDiHYz50g0uQaeFHBhkZ9HkKG8jjr2n/3lqgHIUy57i0gkbVkdnKo5Fmknue1bYYWQNZmWdveExR/4bjUu9rEQMNhIAqAs7dBjgSBtSD3ggJQfXvZt91uk/z/T7W09As6DMOMEQiiMhAvl/EHwKXkQP6Trg6fbSpX+lW1JkiryM0hCm0iGRCI9xOu0m09BJBc99phAkDMMply3oE/jxTvk6H6mlU0n1i2AcSQY1lKo9/kdyzENcx5Ym7Wx3IwHmbJg2v79UzXAu5pSPtdB97MfOrbPAB7fyUWJXqj0gAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcrg-guinee.org/wp-content/uploads/2021/04/Bulletin-dinformations-et-de-statistitque-Janvier-2021-VF.pdf",
+                "title": "Bulletin mensuel d'informations et de statistiques",
+                "text": "I- Monnaie et crédit .............................................................................. 1. I.1 Situation monétaire (en milliards ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX///+5xMHBzcnk6ejZ4N7//vXNx4P///vM1NPX3N75+/PRyIfo7+uksa3d0576+O3d1qeYpqLQ29j///7u6tefrab09vbv69DR2Nbr5Mf08Nzt7NXJumj48+b8///g5eaHlZPF0NLh36zm3LCAk4z4+vrZ0JKlt7jT1s/c4dfEw63Gx6fUzqO8w67h3828x8uzu7vW1Z2kra1idnFvf3sRQTcAHQUAMSM5U05LZ2EjRz4AJxsAFwAvUEYAIw0AEAAAIxVJZl6gxBIwAAABWklEQVR4AcROA3IAQQDLXvds2zb+/7faHDfjGP8OwnzP31CW4wVRkkGVL6KgQuMFqhswrY8KbztwPd8JaBgpKmL+g6onaWbCEPP7IKJEeid5BSDrZV5ZeU2DSAaa9lmyeYUWFJ3eh8MY9qkGoaDeWymP0vWqYZqXdas8VwAr8c9JGLIR2WTXDiHYz50g0uQaeFHBhkZ9HkKG8jjr2n/3lqgHIUy57i0gkbVkdnKo5Fmknue1bYYWQNZmWdveExR/4bjUu9rEQMNhIAqAs7dBjgSBtSD3ggJQfXvZt91uk/z/T7W09As6DMOMEQiiMhAvl/EHwKXkQP6Trg6fbSpX+lW1JkiryM0hCm0iGRCI9xOu0m09BJBc99phAkDMMply3oE/jxTvk6H6mlU0n1i2AcSQY1lKo9/kdyzENcx5Ym7Wx3IwHmbJg2v79UzXAu5pSPtdB97MfOrbPAB7fyUWJXqj0gAAAABJRU5ErkJggg==",
+                "published_time": "2021-01-05T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bcrg-guinee.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/statistics/index.htm",
+        "title": "Statistics : 日本銀行 Bank of Japan",
+        "text": "Statistics · Outline of Statistics and Statistical Release Schedule · Bank of Japan Statistics · Currency · Financial Markets · Financial Institutions Accounts.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/outline/index.htm",
+        "title": "Outline of Statistics and Statistical Release Schedule - 日本銀行",
+        "text": "The Bank compiles and publishes a variety of statistics, as well as reviews the compilation procedures for its statistics.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/boj/index.htm",
+        "title": "Bank of Japan Statistics - 日本銀行",
+        "text": "Bank of Japan Statistics: Currency, Financial Markets, Financial Institutions, Accounts, Deposits and Loans, Market Flow of Funds Related to BIS/FSB, Payment ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/research/wps_rev/index.htm",
+        "title": "Bank of Japan Working Paper Series, Review Series, and Research ...",
+        "text": "The Bank of Japan Working Paper Series is a compilation of the results of research activities of the Bank's staff and outside researchers. The Bank's intention ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/index.htm",
+        "title": "Bank of Japan Working Paper Series 2024 - 日本銀行",
+        "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e20.htm",
+        "title": "Firms' Interest Payment Burden and Productivity under a Low ... - 日本銀行",
+        "text": "Papers in the Bank of Japan Working Paper Series are circulated to stimulate discussion and comment. Views expressed are those of the authors ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

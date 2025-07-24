@@ -1,0 +1,57 @@
+{
+  "Bank Name": "Bank Indonesia",
+  "search_results": [
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bi.go.id/en/iru/highlight-news/Documents/Assessment%20of%20Policy%20Rate%20Transmission%20to%20Prime%20Lending%20Rates%20in%20Banking%20Industry.pdf",
+                "title": "Assessment of Policy Rate Transmission to Prime Lending ...",
+                "text": "Transparency and Publication, the PLR consists of three components, namely; (i) the cost of loanable funds (CoLF), including the cost of funds, cost of ...",
+                "source": "Bank Indonesia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bi.go.id/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/default.aspx",
+                "title": "News Release - Bank Indonesia",
+                "text": "Information about the organisation, transformation and history of Bank Indonesia as the central bank of the Republic of Indonesia. Main Functions · Monetary.",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bi.go.id/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

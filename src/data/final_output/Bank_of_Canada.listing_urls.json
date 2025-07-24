@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/publications/",
+        "title": "Publications - Bank of Canada",
+        "text": "Find articles, reports, surveys and historical documents. For quick access, browse all publications. Access summaries of Governing Council deliberations.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofcanada.ca/publications/browse/",
+        "title": "Browse publications - Bank of Canada",
+        "text": "Research and reports. Access our research papers, public consultations and surveys related to bank notes. Our next $20 bank note. We've started the design ...",
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/",
+        "title": "Banking and financial statistics - Bank of Canada",
+        "text": "Search our statistical data tables—a compilation of banking and financial indicators, including the Bank of Canada's assets and liabilities, credit and monetary ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofcanada.ca/publications/historical-banking-financial-statistics-and-weekly-financial-statistics/",
+        "title": "Historical Banking Financial Statistics and Weekly Financial Statistics",
+        "text": "Access banking and financial statistics from January 2012 to May 2018. Starting with June 2018, the Banking and Financial Statistics (BFS) publication has been ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/annual-report-2024/driving-decisions-with-data/",
+        "title": "Driving decisions with data - Bank of Canada",
+        "text": "In 2024, the Bank began publishing its Monetary Policy Report in a digital format. The interactive report allows Canadians to explore the data and statistics ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/",
+        "title": "Monetary policy - Bank of Canada",
+        "text": "Learn about the objective of Canada's monetary policy and the main instruments used to implement it: the inflation-control target and the flexible exchange ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/lynx/implementing-monetary-policy/",
+        "title": "Implementing Monetary Policy in the Large Value Transfer System ...",
+        "text": "Renewing Canada's monetary policy framework. Every five years, the Bank of Canada and the Government of Canada review and renew the agreement on Canada's ...",
+        "listing_probability": 0.02
+      },
+      {
+        "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/agreement-inflation-control-target/",
+        "title": "Agreements on the Monetary Policy Framework - Bank of Canada",
+        "text": "In 1991, the Bank of Canada and the Minister of Finance agreed on an inflation-control target framework to guide Canadian monetary policy.",
+        "listing_probability": 0.4
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/press/speeches/",
+        "title": "Speeches and appearances - Bank of Canada",
+        "text": "Find speeches and appearances by keyword, author, content type, location, topic or publication date.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofcanada.ca/press/",
+        "title": "Press - Bank of Canada",
+        "text": "St. John's, Newfoundland and Labrador Governor Tiff Macklem discusses how the trade conflict with the United States has affected the Canadian economy.",
+        "listing_probability": 0.4
+      },
+      {
+        "url": "https://www.bankofcanada.ca/press/press-releases/",
+        "title": "Press releases - Bank of Canada",
+        "text": "Recent Bank of Canada press releases include policy rate changes, museum awards, a new deputy governor appointment, and a review of pandemic policy actions.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/research/working-papers/",
+        "title": "Staff working papers - Bank of Canada",
+        "text": "Staff working papers provide a forum for staff to publish work-in-progress research intended for journal publication.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofcanada.ca/research/",
+        "title": "Research - Bank of Canada",
+        "text": "Staff working papers. Staff working papers provide a forum for staff to publish work-in-progress research intended for journal publication.",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbbh.ba/press/ShowNews/882",
+        "title": "Invitation to a Regular Press Conference",
+        "text": "The Central Bank of Bosnia and Herzegovina (CBBH) organizes its regular annual press conference. The topic will be the operations of the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbbh.ba/press/ShowNews/952",
+        "title": "Press release - The Central Bank of Bosnia and Herzegovina",
+        "text": "Press release · Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbbh.ba/press/ShowNews/535",
+        "title": "Press Release - The Central Bank of Bosnia and Herzegovina",
+        "text": "Regarding the statement which was made by the Republika Srpska (RS) Prime Minister Milorad Dodik on the startup of the constitutional suit ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

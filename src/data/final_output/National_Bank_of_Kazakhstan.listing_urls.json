@@ -1,0 +1,48 @@
+[
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://nationalbank.kz/en/news/monetary-policy-strategy",
+        "title": "Monetary Policy Strategy 2030 | National Bank of Kazakhstan",
+        "text": "The Monetary Policy Strategy 2030 is a long-term document that determines the direction of development of monetary policy until 2030.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://nationalbank.kz/en/page/monetary-policy-instruments",
+        "title": "Monetary policy instruments system | National Bank of Kazakhstan",
+        "text": "Purpose. Type of Instrument. Instrument. Collateral. Frequency. Provision / withdrawal duration. liquidity provision. standing facilities.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://kazcoins.nationalbank.kz/en/policy",
+        "title": "CONFIDENTIALITY POLICY - https://kazcoins.nationalbank.kz",
+        "text": "2.2. The Policy applies only to the Service. The Administrator does not control and is not responsible for third-party websites and software to which the User ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://nationalbank.kz/en/news/press-relizy",
+        "title": "Press releases | National Bank of Kazakhstan",
+        "text": "Press releases. Expand filter. Search in the section. Period from. January, February, March, April, May, June, July. SunMonTueWedThuFriSat.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/novosti",
+        "title": "News | National Bank of Kazakhstan",
+        "text": "News · The Balance of Payments of the Republic of Kazakhstan for the 9 months of 2022 · The National Bank Governor comments on the main outcomes of 2022 and ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/press-relizy/rubrics/1701",
+        "title": "Press releases | National Bank of Kazakhstan",
+        "text": "Press releases · Situation on Financial Market in November 2022 · Issue of KÓSHPENDI SADAǴY collectible coins · Issue of bicolor Saka style circulation coins.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

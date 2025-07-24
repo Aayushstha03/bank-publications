@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bdcb.gov.bn/publications",
+        "title": "Publications - BDCB",
+        "text": "Find out more about BDCB's announcements here. Publication Type Press Releases Reports Education and Awareness Speeches Announcements Year",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bdcb.gov.bn/statistics/bdcb-statistical-bulletin",
+        "title": "BDCB Statistical Bulletin",
+        "text": "BDCB Statistical Bulletin. Select options: Monetary Sector, Banking Sector, Insurance / Takaful Sector, Residential Property Market, Business Sentiment Index, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bdcb.gov.bn/statistics",
+        "title": "Statistics - BDCB",
+        "text": "Statistics · BDCB Statistical Bulletin · Performance Review of Banks and Finance Companies · Monetary and Financial Statistics · Overnight Standing Facilities Rates.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bdcb.gov.bn/statistics/monetary-and-financial-statistics",
+        "title": "Monetary and Financial Statistics - BDCB",
+        "text": "Monetary and Financial Statistics. Select options. Interest Rates. Central Bank Survey. Depository Corporations Survey. Other Depository Corporations Survey.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bdcb.gov.bn/regulatory/regulations?flt_sector%5B0%5D=01hhe1s38s6cvn9x970sycryhy",
+        "title": "Regulations - BDCB",
+        "text": "Topics: Conduct and Consumer Protection, Consumer Finance Disclosure Framework, Financial Reporting, Governance, Licensing, Authorisation And Registration",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bdcb.gov.bn/monetary-policy",
+        "title": "Monetary Policy - BDCB",
+        "text": null,
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.bdcb.gov.bn/monetary-policy/monetary-policy-framework",
+        "title": "Monetary Policy Framework - BDCB",
+        "text": null,
+        "listing_probability": 0.2
+      }
+    ]
+  }
+]

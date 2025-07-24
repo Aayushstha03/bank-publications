@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/publications/",
+        "title": "Publications | RBA",
+        "text": "Listing of RBA publications including: Statement on Monetary Policy; Reserve Bank Bulletin; Financial Stability Review; Annual Reports; Research Discussion ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/annual-reports/",
+        "title": "Annual Reports | RBA",
+        "text": "The Reserve Bank and Payments System Board each issue annual reports. The Reserve Bank report is tabled in parliament. View the latest reports.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/publications/",
+        "title": "Publications | Payments & Infrastructure Resources | RBA",
+        "text": "A list of useful Australian publications on payments issues.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/statistics/",
+        "title": "Statistics | RBA",
+        "text": "Statistical tables for a range of economic and financial data produced by the Reserve Bank and other organisations.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/bulletin/",
+        "title": "Bulletin | RBA",
+        "text": "The RBA's Securitisation Dataset provides timely and detailed data on the individual mortgages underlying Australian residential mortgage-backed securities.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/payments-data.html",
+        "title": "Payments Statistics | RBA",
+        "text": "The Reserve Bank has published monthly and quarterly statistics on Australian payment systems from its Retail Payments Statistics (RPS) collection since 2002.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/payments-and-infrastructure/payments-system-regulation/regulations.html",
+        "title": "Regulations | RBA",
+        "text": "This page provides links to designations, standards, access regimes, exemptions from the interchange fee provisions of the Access Regime for the ATM System.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rba.gov.au/education/resources/explainers/how-rba-implements-monetary-policy.html",
+        "title": "How the Reserve Bank Implements Monetary Policy | Explainer",
+        "text": "The Reserve Bank of Australia implements monetary policy using a variety of tools. The primary tool of monetary policy is the cash rate target.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rba.gov.au/monetary-policy/",
+        "title": "Monetary Policy - Reserve Bank of Australia",
+        "text": "The Reserve Bank is responsible for Australia's monetary policy. Monetary policy involves setting the interest rate on overnight loans in the money market.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/speeches/",
+        "title": "Speeches | RBA",
+        "text": "Senior officers of the Reserve Bank give speeches and participate in panel discussions on a broad range of topics related to its role and functions.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-07-24.html",
+        "title": "The RBA's Dual Mandate – Inflation and Employment | Speeches | RBA",
+        "text": "My remarks today centre on the dual objectives of monetary policy: 'price stability', which means maintaining low and stable inflation; and full ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rba.gov.au/speeches/list.html",
+        "title": "All Speeches | RBA",
+        "text": "The Governor hosts a media conference eight times a year following the conclusion of each monetary policy meeting.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/publications/rdp/2021/2021-02/our-findings-do-not-call-for-changes-in-research-practices.html",
+        "title": "Our Findings Do Not Call for Changes in Research Practices ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "Bank Name": "Central Bank of the Philippines (Bangko Sentral ng Pilipinas)",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Advocacies/Advocacies/Microfinance%20and%20Financial%20Inclusion/Financial%20Inclusion%20Reports%20and%20Publications/Financial-Inclusion-Reports-and-Publications.aspx",
+                "title": "Financial Inclusion Reports and Publications",
+                "text": "The Financial Inclusion in the Philippines is a quarterly publication aimed to increase public awareness and appreciation of the BSP's ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2020-06-17T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Sites/researchsite/Pages/Publications/Occasional-Papers-Publications.aspx",
+                "title": "Occasional Papers/Publications - Bangko Sentral ng Pilipinas",
+                "text": "BSP Int'l Research Conference Publications, BSP Discussion Papers, BSP Economic Newsletter, BSP Working Paper Series, Bangko Sentral Review",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/StatisticsMetadataDisp.aspx?ItemId=28",
+                "title": "Statistics Metadata Search - Bangko Sentral ng Pilipinas",
+                "text": "This dataset contains FDI statistics of the Philippines (net incurrence of liabilities in the direct investment account of the BOP).",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx",
+                "title": "Bangko Sentral ng Pilipinas Statistics - Philippine RTGS: <i>PhilPaSS ...",
+                "text": "Share. https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx. Payment Statistics. Volume and Value of Transactions. Year. June 2025, May 2025 ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/Statistics.aspx/%7B%7BGetWebAbsoluteURL()+%20'/SitePages/Statistics/Financial%20System%20Accounts.aspx?TabId=15'}}",
+                "title": "Bangko Sentral ng Pilipinas Statistics",
+                "text": "The BSP monitors and compiles various statistical series on monetary, financial and external variables useful for the formulation and analysis of monetary, ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Regulations/RegulationsList.aspx?TabId=4",
+                "title": "Manual of Regulations - Bangko Sentral ng Pilipinas",
+                "text": "The Manual of Regulations for Banks (MORB) is the primary source of regulations governing entities supervised by the Bangko Sentral ng Pilipinas.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Regulations/GuideToFx.aspx",
+                "title": "Bangko Sentral ng Pilipinas Foreign Exchange Regulations - Guide to ...",
+                "text": "General Policy\n\nRegulations under the FX Manual governing purchase of foreign currency from banks (e.g., documentation) will ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Regulations/RegulationDisp.aspx?ItemId=4983",
+                "title": "Bangko Sentral ng Pilipinas Regulations - BSP Issuances",
+                "text": "For pdf copies of signed issuances not yet posted in this website, kindly e-mail the Administrative Services Department at external_issuances@bsp.gov.ph.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Speeches%20list/Attachments/1032/BSP-Speeches-1032.pdf",
+                "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches - BSP",
+                "text": "I am often asked, \"What is the role of stock markets in the economy?\" The first thing I did was go to Google. What I found out was that the market cap [of ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Speeches%20list/Attachments/986/BSP-Speeches-986.pdf",
+                "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches",
+                "text": "When I was growing up in Lipa City, there was only one bank in Lipa and that was a rural bank-that is the Malarayat Rural Bank. They are still around.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Speeches%20list/Attachments/968/BSP-Speeches-968.pdf",
+                "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches",
+                "text": "Good morning everyone. Like Mayor Benjie, I'd like to skip the formal introduction… Mayor Benjamin. Magalong, I'd like to thank you for a beautiful ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Events/By%20Year/2024/2024-irf-call-for-papers.aspx",
+                "title": "2024 International Research Fair - Call for Papers",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bsp.gov.ph/PublishingImages/Pages/About%20the%20Bank/Events/By%20Year/2024/2024-irf-call-for-papers/(NewPoster)IRF2024%20-%20Call%20for%20papers.png",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Research/ReseachAndStudies.aspx",
+                "title": "Bangko Sentral ng Pilipinas Research and Studies",
+                "source": "BSP",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bsp.gov.ph/Media_And_Research/thumbnails/research_thumb.webp",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Sites/researchsite/Pages/Events/International-Research-Fair.aspx",
+                "title": "International Research Fair",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bsp.gov.ph/Sites/researchsite/PublishingImages/Pages/Events/International-Research-Fair/Thumbnail.PNG",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

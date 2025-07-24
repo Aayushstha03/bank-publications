@@ -1,0 +1,27 @@
+{
+  "Bank Name": "Banky Foiben'i Madagasikara",
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banky-foibe.mg/assets/data/",
+                "title": "Index of /assets/data",
+                "text": "Index of /assets/data ; [ ], coeff-reserve.json, 2022-03-31 15:00 ; [ ], cours-devise.json, 2022-03-31 15:00 ; [ ], derniere-operation.json, 2022-03-31 15:00 ...",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banky-foibe.mg/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.dnb.nl/en/research/publications/",
+        "title": "Publications | De Nederlandsche Bank",
+        "text": "DNB staff publish their research in the DNB Working Paper series, which are intended for publication in leading economics and finance peer-reviewed journals.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.dnb.nl/en/publications/publications-dnb/",
+        "title": "Publications DNB | De Nederlandsche Bank",
+        "text": "In this semi-annual publication, De Nederlandsche Bank outlines developments that could potentially affect financial stability in the Netherlands.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.dnb.nl/en/publications/",
+        "title": "Publications | De Nederlandsche Bank",
+        "text": "Receive our latest publications directly in your mailbox? Register for our DNB News Service. You decide which publications you want to receive and how often.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.dnb.nl/en/statistics/",
+        "title": "Statistics | De Nederlandsche Bank",
+        "text": "We provide the latest financial and economic statistics on household savings, mortgage interest rates and foreign direct investment.",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.dnb.nl/en/statistics/data-search/",
+        "title": "Data search | De Nederlandsche Bank",
+        "text": "Balance of payments (Quarter) · Key indicators monetary statistics (Month) · Market interest rates (Month) · Investments by Dutch households ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.dnb.nl/en/statistics/access-to-statistics-through-api-services/",
+        "title": "Access to statistics through API Services - De Nederlandsche Bank",
+        "text": "DNB is making its current datasets available through the API in phases. Which datasets are currently available can be found when you access the DNB Statistics ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/explanatory-guide-to-dnb-s-policy-statements/",
+        "title": "Explanatory guide to DNB's policy statements - De Nederlandsche Bank",
+        "text": "The most common policy statements are supervisory regulations, policy rules, Q&As and Good practices 1 . These statements all have a different status.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/laws-and-eu-regulations/",
+        "title": "Laws and EU Regulations - De Nederlandsche Bank",
+        "text": "Laws and EU Regulations. Laws. Financial Supervision Act · Anti-Money Laundering and Anti-Terrorist Financing Act · Enforcement.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/prudent-policy-dnb-s-policy-making-process/",
+        "title": "Prudent Policy – DNB's policy-making process | De Nederlandsche Bank",
+        "text": "Our Explanatory guide to DNB's policy statements provides more information about the meaning as well as the legal status of good practices, Q&As, policy rules ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.dnb.nl/en/general-news/",
+        "title": "General news | De Nederlandsche Bank",
+        "text": "New figures from DNB show that the Dutch used their debit or credit cards to pay for €198 billion worth of products and services in 2024.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.dnb.nl/en/sector-news/",
+        "title": "Sector news | De Nederlandsche Bank",
+        "text": "To stimulate the dialogue between DNB and the banking sector and to provide more insight into the Anti-Money Laundering and Countering the Financing of ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.dnb.nl/en/dnb-news-service/",
+        "title": "DNB News service - De Nederlandsche Bank",
+        "text": "My DNB is your personal portal with De Nederlandsche Bank (DNB). Here you can access the Reporting Service, Supervision Services, Digital Exchange Requests and ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.dnb.nl/en/publications/research-publications/",
+        "title": "Research Publications | De Nederlandsche Bank",
+        "text": "The Dynamic Relationship between Delinquency Rates, Funding and Market Liquidity and Asset Prices in Private Commercial Real Estate Markets.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

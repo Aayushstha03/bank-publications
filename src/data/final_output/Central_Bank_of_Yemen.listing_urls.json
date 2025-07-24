@@ -1,0 +1,19 @@
+[
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://english.cby-ye.com/news/188",
+        "title": "PRESS STATEMENT - Central Bank Of Yemen - Aden",
+        "text": "The Central Bank of Yemen has followed the announcement made by the terrorist Houthi militias through the branch of the Central Bank they ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://english.cby-ye.com/news",
+        "title": "News | Central Bank Of Yemen - Aden",
+        "text": "Governor of the Central Bank issued a decision to suspend the licenses of a number of exchange facilities.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

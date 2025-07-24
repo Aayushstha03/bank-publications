@@ -1,0 +1,88 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bccr.fi.cr/en/publications",
+        "title": "Publications - Banco Central de Costa Rica",
+        "text": "In this section you can find the documents published by the Central Bank of Costa Rica related to economic and financial reports and monetary programs.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/Deposit-Guarantee-Fund/reports",
+        "title": "Reports - Banco Central de Costa Rica",
+        "text": "The purpose of this section is to present annual and other reports produced while carrying out the activities of the DGF.",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/inflation-reports",
+        "title": "Inflation reports - Banco Central de Costa Rica",
+        "text": "​​​​​​​​​​Inflation reports​​ ; pdf, See document · June 2019 Inflation report (Spanish), 06/07/2019 ; pdf, See document · December 2018 Inflation report (Spanish) ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bccr.fi.cr/en/economic-indicators/business-statistics",
+        "title": "Business Statistics - Banco Central de Costa Rica",
+        "text": "​The business and work statistics published on this site are calculated based on data from the Registry of Economic Variables (Revec) prepared by the Banco ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/payments-system/claims/statistics-on-claims",
+        "title": "Statistics on claims - San José - Banco Central de Costa Rica",
+        "text": "Statistics on Claims SINPE services and payment cards (Spanish) ; SINPE claims entities contacts​ (Spanish)​​​​ ; ​Cards claims (Spanish)​​​​​.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/economic-indicators/construction-statistics",
+        "title": "Construction statistics - Banco Central de Costa Rica",
+        "text": "General price index for construction inputs, by type of project, construction price index by Central Product Classification, quarterly economic activity index.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bccr.fi.cr/en/payments-system/sinpe-fees-and-charges/fees-specified-in-the-payment-system-regulations",
+        "title": "Fees Specified in the Payment System Regulations",
+        "text": "Fees are published in the Payment System Regulations and are enforceable in all entities associated with SINPE. Among these fees are the amounts for monthly ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/publications/exchange-policy-foreign-sector",
+        "title": "Exchange Policy Foreign Sector - Banco Central de Costa Rica",
+        "text": "imagen7. Monetary Policy Inflation. Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Exchange Policy ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bccr.fi.cr/en/news",
+        "title": "News - Banco Central de Costa Rica",
+        "text": "​​​​​​​​​​​​​​News​ ; https://edicion.bccr.fi.cr/en/news/Paginas/News.aspx · Financial intermediaries' weighted offered rate and effective interest rate in ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/press-releases",
+        "title": "Press Releases - Banco Central de Costa Rica",
+        "text": "Press Releases · Moneda conmemorativa de los 175 años de la Fundación de la República · Nuevas Cuentas Ambientales 2022 · Seguridades de los nuevos billetes de ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/press-releases/speeches-and-lectures",
+        "title": "Speeches and lectures - San José - Banco Central de Costa Rica",
+        "text": "​​​​​​​​Speeches and lectures​​​ ; pdf, Ver presentación · Presentation Review of the 2020-2021 Macroeconomic Program (spanish), 30/07/2020 ; pdf, Ver ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

@@ -1,0 +1,278 @@
+{
+  "Bank Name": "Bank of England",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofengland.co.uk/archive/archive-publications",
+                "title": "Archive publications | Bank of England",
+                "source": "Bank of England",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bankofengland.co.uk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofengland.co.uk/-/media/boe/images/archive/festivalofbritain.png?h=316&iar=0&mh=316&mw=481&w=349&hash=9B31EDC03FB56D1802914335DB9804A5",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/archive/archive-publications",
+                "title": "Archive publications | Bank of England",
+                "source": "Bank of England",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bankofengland.co.uk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofengland.co.uk/-/media/boe/images/archive/britanniaandthebank.png?h=316&iar=0&mh=316&mw=481&w=349&hash=27E8E7C9E3E2F2F89E2351DABDB2AC88",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/archive/archive-publications",
+                "title": "Archive publications | Bank of England",
+                "source": "Bank of England",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bankofengland.co.uk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofengland.co.uk/-/media/boe/images/archive/historyandfunctions.png?h=316&iar=0&mh=316&mw=481&w=349&hash=EF538EB3FA6BDE6D48CD98B8C501BEE8",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bankofengland.co.uk/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofengland.co.uk/statistics",
+                "title": "Statistics | Bank of England",
+                "text": "We publish statistics on borrowing and deposits by households and businesses from banks and other sources.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "Research datasets",
+                    "url": "https://www.bankofengland.co.uk/statistics/research-datasets"
+                  },
+                  {
+                    "title": "Statistical releases",
+                    "url": "https://www.bankofengland.co.uk/news/statistics"
+                  },
+                  {
+                    "title": "Bankstats tables",
+                    "url": "https://www.bankofengland.co.uk/statistics/tables"
+                  },
+                  {
+                    "title": "Data collection",
+                    "url": "https://www.bankofengland.co.uk/statistics/data-collection"
+                  },
+                  {
+                    "title": "Exchange rates",
+                    "url": "https://www.bankofengland.co.uk/statistics/exchange-rates"
+                  },
+                  {
+                    "title": "Counterparts to M4 data",
+                    "url": "https://www.bankofengland.co.uk/statistics/details/further-details-about-counterparts-to-m4-data"
+                  },
+                  {
+                    "title": "Seasonal adjustment data",
+                    "url": "https://www.bankofengland.co.uk/statistics/details/further-details-about-seasonal-adjustment-data"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/statistics/details/further-details-about-credit-union-statistics-data",
+                "title": "Further details about Credit Union statistics data | Bank of England",
+                "text": "The quarterly and annual credit union statistics provide the following information, broken down by countries within the UK.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/prudential-regulation/transforming-data-collection",
+                "title": "Transforming data collection | Bank of England",
+                "text": "The Transformation Plan sets out our vision and approach to delivering improvements in data collection over the next decade.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bankofengland.co.uk/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofengland.co.uk/prudential-regulation/low-impact-amendments-to-pra-rules-and-policy-material",
+                "title": "Low impact amendments to PRA rules and policy material - Bank of England",
+                "text": "The Prudential Regulation Authority (PRA) makes minor and low impact amendments to its rules and policy materials from time to time to keep ...",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "published_time": "2025-07-22T10:30:44.777237",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/prudential-regulation/policy",
+                "title": "Policy | Bank of England",
+                "text": "Find out how the Prudential Regulation Authority (PRA) makes and communicates policy and engages with global policymaking.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/february/pra-approach-to-policy-policy-statement",
+                "title": "PS3/25 – The Prudential Regulation Authority's approach to policy",
+                "text": "Our approach to policy is evolving because we are taking on wider rule making responsibilities and enhanced accountability requirements.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "published_time": "2025-02-20T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bankofengland.co.uk/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofengland.co.uk/news/speeches",
+                "title": "Speeches | Bank of England",
+                "text": "Speeches from the Bank of England. Topics Filter by topic Filter by topic Monetary Policy Committee (MPC) Financial Policy Committee (FPC) Monetary policy",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/news",
+                "title": "News, publications and events | Bank of England",
+                "text": "News, publications and events. Latest and upcoming releases from the Bank of England. Categories: Filter by type.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "News and minutes",
+                    "url": "https://www.bankofengland.co.uk/news/news"
+                  },
+                  {
+                    "title": "Calendar of upcoming news...",
+                    "url": "https://www.bankofengland.co.uk/news/upcoming"
+                  },
+                  {
+                    "title": "Publications",
+                    "url": "https://www.bankofengland.co.uk/news/publications"
+                  },
+                  {
+                    "title": "Latest from the Governor",
+                    "url": "https://www.bankofengland.co.uk/news/latest-from-the-governor"
+                  },
+                  {
+                    "title": "Prudential regulation...",
+                    "url": "https://www.bankofengland.co.uk/news/prudential-regulation"
+                  },
+                  {
+                    "title": "Memorandum",
+                    "url": "https://www.bankofengland.co.uk/news/2025/february/joint-statement-boe-and-hmt-financial-relationship"
+                  },
+                  {
+                    "title": "Statement",
+                    "url": "https://www.bankofengland.co.uk/news/2025/january/boe-and-the-commodity-futures-trading-commission"
+                  }
+                ],
+                "published_time": "2025-05-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/news/latest-and-upcoming",
+                "title": "Latest and upcoming events, publications and speeches",
+                "text": "Latest and upcoming events, publications and speeches. Latest flagship publications (MPR, FSR, Annual Reports). Publication // Financial Stability Report ...",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bankofengland.co.uk/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofengland.co.uk/working-paper/staff-working-papers",
+                "title": "Staff working papers | Bank of England",
+                "text": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "published_time": "2024-04-18T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/research",
+                "title": "Research | Bank of England",
+                "text": "Our Staff Working papers. We share our work externally to encourage comments and debate. Our new research is released in our 'Staff Working papers' series.",
+                "source": "Bank of England",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEwVJjoRJTwSJj0RJj0SJz8QIzoJIjwAHTgSJz4AETFNV2aMkpp5gItrc3+doqo9SVoAAilfZ3TP0tUjNEni5Obt7vC/w8f///+wtLoAAA4FnKSgAAAACnRSTlMAIoO/6f9M///cXBoyHgAAAZJJREFUeAFckgeWwyAMROOioAiEEMWI3P+gC8/bx91fhTKPb237cQKcx749/ut5OkQEmDd3Pv+g7eXIh8AxztOje22/0oC8RMJbaWJ4/jANQREJHUy5ib/pBipZAXOJadKF66R35RdJJu+0ycUIN4WMr8WezgtpU8xXmQm3KN2FT+0Kaknr1by7mQtV6jk7Oh8QkJN0k0oLoXYZdXXdaawy3nrpVgQBlCUFRO/2x0GDVuLVWIytvzU0IQSX3fE4F1QJha1wm1QsKsCEeD4AB1FIrWSzy97RzCMs6CssqLk7y8HMRiIFhG94Uteu1QJzM1bRm91ljwk5pmghSO+plkSwhBmPNRWQ0mdLaaUPoDLULRhxX4sgMiLnNqRJtPzmVh245N22lq/knqULm1kJxur6Spwt18KnMlIRDaHIrH0pEJNP7nlvWeBJwnjT1SwbAdQU8fW12YNj0llSzKQkh4kJth+btBwGizez6jVG+m0iSr0zv8uEJYd7p39ZU730PlkbnqY1/5uallTpv6k/hiM7AAD/IR97/zHbjAAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofengland.co.uk/bank-overground/2019/how-do-we-measure-the-diversity-of-our-research-agenda",
+                "title": "How do we measure the diversity of our research agenda ...",
+                "source": "Bank of England",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bankofengland.co.uk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofengland.co.uk/-/media/boe/images/bank-overground/2019/july/chart-a-tall-2.svg?h=800&iar=0&w=800&hash=8BD75B2B3F7A6B0DAAD1882991DB0BBF",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') 2022",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.bankofengland.co.uk/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

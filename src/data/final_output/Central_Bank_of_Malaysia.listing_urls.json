@@ -1,0 +1,93 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/publications",
+        "title": "Publications - Bank Negara Malaysia",
+        "text": "Monthly and quarterly statistical reports that contain monetary & banking developments, economic reviews, as well as various other statistical data.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/-/monthly-highlights-statistics-in-march-2023",
+        "title": "Monthly Highlights & Statistics in March 2023 - Bank Negara Malaysia",
+        "text": "Bank Negara Malaysia (BNM) is pleased to inform that from August 2022 onwards, the publication of statistical tables related to loans/financing will be revised ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bnm.gov.my/rates-statistics",
+        "title": "Rates & Statistics - Bank Negara Malaysia",
+        "text": "Statistics Homepage\n\nBNM publishes daily rates and trading volumes from the Kuala Lumpur foreign exchange market, interbank money market, and government bond ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bnm.gov.my/payment-statistics",
+        "title": "Payment Statistics - Bank Negara Malaysia",
+        "text": "Statistics on Payment and Settlement Systems in Selected Countries. For general enquiries: BNMTELELINK Contact Centre 1-300-88-5465 Monday - Friday 9am - 5pm.",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/sandbox/regulations",
+        "title": "Sandbox: Understanding Regulations - Bank Negara Malaysia",
+        "text": "Step 1: Determine applicable scope of regulated activity or entity · Step 2: Identify definition of regulated activity or entity under the legislation or ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bnm.gov.my/-/policy-doc-msb-sector-onboarding",
+        "title": "Policy Document on Anti-Money Laundering, Countering Financing ...",
+        "text": "The policy document sets out the minimum requirements and standards that an approved licensed Money Services Business must observe in implementing non ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bnm.gov.my/-/policy-document-on-shareholder-suitability-notification-and-application-procedures",
+        "title": "Policy Document on Shareholder Suitability - Bank Negara Malaysia",
+        "text": "Policy Document on Shareholder Suitability - Notification and Application Procedures. Release Date: 04 Jun 2019.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/speeches-interviews",
+        "title": "Speeches & Interviews - Bank Negara Malaysia",
+        "text": "17 Jun 2025. Governor's Welcoming Address at Sasana Symposium 2025 ; 28 May 2025. Governor's Closing Remark at the IMF's 20th Public Debt Management Forum ; 26 ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/speeches",
+        "title": "Speeches - Bank Negara Malaysia",
+        "text": "Overview on Malaysian Payment Systems · Malaysian Payment Systems · Introduction of Payment System · The importance of Payment System · Role of Bank Negara ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/press-releases-main",
+        "title": "Press Releases - Bank Negara Malaysia",
+        "text": "20 Dec 2021. BNM's Disaster Relief Facility 2022 for MSMEs Affected by the Recent Floods ; 15 Dec 2021. BNM Launches LFSA's 25th Anniversary Commemorative Coins.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/publications/research",
+        "title": "Research Papers - Bank Negara Malaysia",
+        "text": "Some of these projects result in working papers, or published as feature articles in our flagship publications, or in peer-reviewed journals. Working Papers.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

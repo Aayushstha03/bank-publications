@@ -1,0 +1,152 @@
+{
+  "Bank Name": "Central Bank of Belize",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.bz/home/news-and-publications/economic-publications",
+                "title": "Economic Publications | Central Bank of Belize",
+                "text": "The Central Bank of Belize publishes Weekly Monetary Aggregates, Monthly Economic Reports, Quarterly Reviews, Annual Reports, Statistical Digest, and Financial ...",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.centralbank.org.bz/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.bz/home/core-functions/payment-and-settlement/payment-system-statistics",
+                "title": "Payment System Statistics | Central Bank of Belize",
+                "text": "These tables present statistics on the payments processed through APSSS: transaction volumes and values cleared and settled in the Central Securities ...",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.bz/home/statistics",
+                "title": "Statistics | Central Bank of Belize",
+                "text": "These statistical tables cover the public sector's external debt by creditor, central government's domestic debt, the private sector's external debt classified ...",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.bz/docs/default-source/payment-system-statistics/payment-system-data-jan---december-2020.pdf?sfvrsn=b06d9b85_5",
+                "title": "Statistical data for the Automated Payment and Securities Settlement ...",
+                "text": "Volume. Type of transactions. Total 2020. January February March. April. May. June. July. August September October November December.",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.centralbank.org.bz/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.bz/about-the-bank/laws-and-regulations",
+                "title": "Laws and Regulations | Central Bank of Belize",
+                "text": "Belize possesses a comprehensive regulatory framework that governs the supervision and regulation of banks, credit unions and other financial institutions.",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.bz/home/core-functions/monetary-policy",
+                "title": "Monetary Policy | Central Bank of Belize",
+                "text": "The Central Bank of Belize is responsible for monetary policy, which includes maintaining a stable exchange rate and promoting credit and exchange conditions.",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.bz/docs/default-source/2.10-national-payment-system-act/national-payment-system-regulations-2024.pdf?sfvrsn=cee31cf2_3",
+                "title": "BELIZE: NATIONAL PAYMENT SYSTEM REGULATIONS, 2024 ...",
+                "text": "(a) the legal and regulatory status of the international remittance service provider in its home country,",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.centralbank.org.bz/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.bz/docs/default-source/7.0-news-advisories/pressrelease_fraudwarning_3jun25x.pdf?sfvrsn=52cb087_3",
+                "title": "PRESS RELEASE - Central Bank of Belize",
+                "text": "This report is entirely fabricated. The Central Bank has not filed any lawsuit against any media entity, nor has it issued any public ...",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "published_time": "2025-06-03T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.bz/docs/default-source/7.0-news-advisories/pressrelease_knowyourmoney_v0.1-final.pdf?sfvrsn=3d090c9b_3",
+                "title": "PRESS RELEASE - Central Bank of Belize",
+                "text": "The sessions welcomed more than 700 participants across multiple sectors, including commercial banks, credit unions, insurance companies, ...",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "published_time": "2025-05-09T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.bz/detail-pages/news",
+                "title": "News | Central Bank of Belize",
+                "text": "What is a Government Security? Treasury Bills · Treasury Notes and Bonds · Examples of Treasury Note Investments · Compliance Expand subnavigation for previous ...",
+                "source": "Central Bank of Belize",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKCw0NFQ0NFysaFR0rLisrKzcrKysrKysrKy0rKysrKys3KysrLSsrLSsrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAHBgAE/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIEAwURAAYhEjETQVFhBxSBkaEWFyIyM//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVuKTnisLZWjUZOR0tJpNUT3yAyn86htn7h3buqLNr0ZVlifKSTHKmFVfrIAOf9eBzpEXuNEPwqk3ujbr0LPb4MpDcnLNJltSIbpXgAI2R25yNBT2neE+ju39Lblix0muvXGlQy3hVxgtyrZK8K3meQfbNrgHRNZplL9yhL3vSqwb4QKVvpKB8r0kFR0tyWY5bk8Zb1wAtaDluNxjWuI0uazrRQjJSk1Q8+iqCT9tF/wAKL3BssK60LsJUWpXntWpCpDq/yQqoByFPPHbSzkjtrF2x3OgLr/Ek7+3dZqtsiSaNqtb+JVnSaLUfEJZWKorAE/0A7eZ+qjnWBJ762g//2Q==",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.centralbank.org.bz/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Bank Name": "Bulgarian National Bank",
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm?download=xml&search=&lang=EN",
+                "title": "https://www.bnb.bg/Statistics ...",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bnb.bg/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    }
+  ]
+}

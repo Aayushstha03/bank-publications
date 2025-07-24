@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bon.com.na/Publications.aspx",
+        "title": "Publications - Bank of Namibia",
+        "text": "Publications: Annual Report 2024, Economic Outlook, Financial Stability Reports, Inflation Outlook, Foreign Direct Investment Report, Quarterly Bulletins, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bon.com.na/Publications/Financial-Stability-Reports.aspx",
+        "title": "Bank of Namibia - Financial Stability Reports",
+        "text": null,
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bon.com.na/Bank/National-Payment-System/Statistics.aspx",
+        "title": "Statistics - Bank of Namibia",
+        "text": "The data is validated to ensure that it is complete, accurate and useful. The Bank, however, cannot guarantee that the data it receives from regulated ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bon.com.na/Bank/Financial-Markets/Investor-Relations/Economic-and-Statistics-Data.aspx",
+        "title": "Economic and Statistics Data - Bank of Namibia",
+        "text": "Economic and Statistics Data · Market Data and Information. Daily Benchmark Yield · Government Debt Instruments. Treasury Bill Auctions · Domestic Auctions. Switch ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bon.com.na/Economic-information/Statistical-information/Monetary-and-fincancial-statistics.aspx",
+        "title": "Monetary and financial statistics - Bank of Namibia",
+        "text": "The monetary and financial statistics tables mainly reflect transactions of the banking sector in Namibia. This includes Assets and Liabilities of commercial ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bon.com.na/Regulations.aspx",
+        "title": "Regulations - Bank of Namibia",
+        "text": "Regulations · Bank of Namibia Act 1 of 2020 · Currencies and Exchanges Act 1933 · Prevention of Counterfeiting of ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bon.com.na/Bank/Monetary-Policy/Monetary-Policy-Statements.aspx",
+        "title": "Monetary Policy Statements - Bank of Namibia",
+        "text": "2025 Monetary Policy Statements · 2024 Monetary Policy Statements · 2023 Monetary Policy Statements · 2022 Monetary Policy Statements · 2021 Monetary Policy ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bon.com.na/Informations/Media/Media-Releases/2023-Media-Releases/Articles/Bank-of-Namibia-Releases-Amended-Regulations-on-Lo.aspx",
+        "title": "Bank of Namibia Releases Amended Regulations on Loan-To-Value Ratios",
+        "text": "Loan-to-value ratios for purchasing multiple homes through mortgage bonds to mitigate financial risks have been relaxed through a new regulation.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bon.com.na/Speeches/Statements-by-Governor/2024-Speeches.aspx",
+        "title": "2024 Speeches - Bank of Namibia",
+        "text": "2024 Speeches ; Global African Hydrogen Summit - Navigating Climate Crisis | 189 kB, 5-Sep-2024 ; Launch of the Instant Payment Project | 210 kB, 26-Jun-2024.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bon.com.na/Speeches.aspx",
+        "title": "Speeches - Bank of Namibia",
+        "text": "Summary. Find out more about Speeches. Related Links. About Us · Annual Reports · Monetary Policy Announcements · Financial Stability Reports. Speeches.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bon.com.na/Speeches/Statements-by-Governor/2022-Speeches-(1).aspx",
+        "title": "2023 Speeches - Bank of Namibia",
+        "text": "2023 Speeches ; 22-09-2022 BoN Hosts CBDC and Virtual Assets Thought Leadership Event | 186 kB, 23-Sep-2022 ; 20-07-2022 Governor addresses Kavango West and ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bon.com.na/Publications/Other-Publications/Working-Papers.aspx",
+        "title": "Working Papers - Bank of Namibia",
+        "text": "Working Papers ; Effects of Government Expenditure on Foreign Exchange Reserves: Evidence for Namibia | 921 kB ; An Evaluation of the Monetary Policy Transmission ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

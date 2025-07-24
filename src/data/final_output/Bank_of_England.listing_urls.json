@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/archive/archive-publications",
+        "title": "Archive publications | Bank of England",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/statistics",
+        "title": "Statistics | Bank of England",
+        "text": "We publish statistics on borrowing and deposits by households and businesses from banks and other sources.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/transforming-data-collection",
+        "title": "Transforming data collection | Bank of England",
+        "text": "The Transformation Plan sets out our vision and approach to delivering improvements in data collection over the next decade.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/low-impact-amendments-to-pra-rules-and-policy-material",
+        "title": "Low impact amendments to PRA rules and policy material - Bank of England",
+        "text": "The Prudential Regulation Authority (PRA) makes minor and low impact amendments to its rules and policy materials from time to time to keep ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/policy",
+        "title": "Policy | Bank of England",
+        "text": "Find out how the Prudential Regulation Authority (PRA) makes and communicates policy and engages with global policymaking.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/february/pra-approach-to-policy-policy-statement",
+        "title": "PS3/25 – The Prudential Regulation Authority's approach to policy",
+        "text": "Our approach to policy is evolving because we are taking on wider rule making responsibilities and enhanced accountability requirements.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/news/speeches",
+        "title": "Speeches | Bank of England",
+        "text": "Speeches from the Bank of England. Topics Filter by topic Filter by topic Monetary Policy Committee (MPC) Financial Policy Committee (FPC) Monetary policy",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/news",
+        "title": "News, publications and events | Bank of England",
+        "text": "News, publications and events. Latest and upcoming releases from the Bank of England. Categories: Filter by type.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/news/latest-and-upcoming",
+        "title": "Latest and upcoming events, publications and speeches",
+        "text": "Latest and upcoming events, publications and speeches. Latest flagship publications (MPR, FSR, Annual Reports). Publication // Financial Stability Report ...",
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/working-paper/staff-working-papers",
+        "title": "Staff working papers | Bank of England",
+        "text": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/research",
+        "title": "Research | Bank of England",
+        "text": "Our Staff Working papers. We share our work externally to encourage comments and debate. Our new research is released in our 'Staff Working papers' series.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/bank-overground/2019/how-do-we-measure-the-diversity-of-our-research-agenda",
+        "title": "How do we measure the diversity of our research agenda ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

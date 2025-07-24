@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/bulletins-and-periodicals/quarterly-statistical-bulletin",
+        "title": "Central Bank of Kuwait: Quarterly Statistical Bulletin",
+        "text": "The Quarterly Statistical Bulletin provides up-to-date statistics and data and highlights a number of economic, financial, monetary and banking developments",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/bulletins-and-periodicals/monthly-monetary-statistical-bulletin",
+        "title": "Central Bank of Kuwait: Monthly Monetary Statistical Bulletin",
+        "text": "The Monthly Monetary Statistics Bulletins provides statistics and data, of the monetary and banking indicators and statistics in the State of Kuwait.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/press-releases/2024/09/202409291000-cbk-continues-to-enhance-and-update-monthly-statistics-tables",
+        "title": "CBK Continues to Enhance and Update Monthly Statistics Tables",
+        "text": "The enhanced bulletin can be accessed as of August 2024 through CBK's official website www.cbk.gov.kw. PrevCBK Issues 2023 Financial Stability ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbk.gov.kw/en/monetary-policy/exchange-rate-policy",
+        "title": "Central Bank of Kuwait: Exchange Rate Policy",
+        "text": "CBK's policy for the Kuwaiti Dinar (KD) exchange rate aims at maintaining and enhancing the relative stability of the KD against other currencies.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/legislation-and-regulation/cbk-regulations-and-instructions/rules-for-licensing-exchange",
+        "title": "Central Bank of Kuwait: Rules and Regulations of Licensing Exchange ...",
+        "text": "Rules and Regulations of Licensing Exchange Companies. Regulations available only in Arabic · Browse our Job Vacancies · KIBS Edaat Bulletin.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/press-releases",
+        "title": "Press Releases - Central Bank of Kuwait",
+        "text": "In keenness to keep up with the latest FinTech innovations, the Central Bank of Kuwait (CBK) announced issuing a draft Open Banking Regulatory Framework.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/governors-speeches",
+        "title": "Central Bank of Kuwait: Governor's Speeches & Interviews",
+        "text": "Keynote speech delivered by His Excellency the Governor of the Central Bank of Kuwait, Basel A. Al-Haroon, in the 62nd Meeting of the Board of Directors of the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/archived-publications/published-speeches",
+        "title": "Published Speeches - Central Bank of Kuwait",
+        "text": "Browse about CBK, our mission & objectives, and more. Welcome · Mission & Objectives; Governor.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

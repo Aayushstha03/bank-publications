@@ -1,0 +1,103 @@
+{
+  "Bank Name": "Bangladesh Bank",
+  "search_results": [
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/pub/halfyearly/monetaryprev/monetary%20policy%20review%202023-24.pdf",
+                "title": "Monetary Policy Review 2023-24 | Bangladesh Bank",
+                "text": "Bangladesh Bank used a hawkish approach to monetary policy in 2023, with contractionary stance for H2FY24, to mitigate inflation and restore exchange rate ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/mediaroom/press_release/press/may042011tkwrtavd.pdf",
+                "title": "BANGLADESH BANK PRESS RELEASE",
+                "text": "Page 1. BANGLADESH BANK PRESS RELEASE.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              },
+              {
+                "url": "https://www.bb.org.bd/mediaroom/press_release/press/jun022016_lc.pdf",
+                "title": "BANGLADESH BANK PRESS RELEASE",
+                "text": "The total value of import LCs opened by Authorized Dealer banks during July, 2015-April, 2016 was US$ 35112.86 million which was 1.99% lower than that of ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 2
+              },
+              {
+                "url": "https://www.bb.org.bd/mediaroom/press_release/press/aug172016_620.pdf",
+                "title": "Press Release - Bangladesh Bank",
+                "text": "evsjv‡`k e¨vs‡K G eQ‡ii †deкцqvwi‡Z N‡U hvIqv mvBevi RvwjqvwZ wb‡q evsjv‡`k e¨vsK,. wbDBqK© †dW Ges myBd&U Gi EaŸйZ b Kg©K Z©v‡`i g‡a¨ 16 AvM÷ 2016 Zvwi‡L ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/pub/research/workingpaper/workingpaperlist.php",
+                "title": "Working Paper Series - Bangladesh Bank",
+                "text": "Research Work · Working Papers. 1 to 20 of 88, First | Next | Previous | Last. Working Papers. WP 2103, Determinants of Commercial Bank Lending Rates in ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/research/workingpaper/wp0709.pdf",
+                "title": "Working Paper Series: WP 0709 Non-Bank Financial Institutions in ...",
+                "text": "These papers reflect research in progress, and as such comments are most welcome. It is anticipated that a majority of these papers will eventually be ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 2
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/research/workingpaper/wp0712.pdf",
+                "title": "Working Paper Series: WP 0712 Policy Analysis Unit (PAU)",
+                "text": "Abstract. This paper attempts to find out the relationship between FDI, trade liberalization and economic growth for 5 South Asian countries during the ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

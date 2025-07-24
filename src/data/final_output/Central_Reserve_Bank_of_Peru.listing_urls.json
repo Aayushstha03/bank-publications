@@ -1,0 +1,81 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcrp.gob.pe/en/publications.html",
+        "title": "Reports and Publications - BCRP",
+        "text": "Reports and Publications · Economic reports · Research · Conferences · Special Reports.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcrp.gob.pe/en/statistics.html",
+        "title": "Statistics - BCRP",
+        "text": "Statistics · Weekly Report · BCRPData. Series Estadísticas · Monetary and Exchange Operations · Economic Indicators · Special Data Dissemination Standard.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/en/payments-system/ps-statistics.html",
+        "title": "Payments Systems: Statistics - BCRP",
+        "text": "BCRP WEEKLY BULLETIN. Table Nº 44. Payments through the RTGS system, multibank security settlement system and electronic clearing house · Table Nº 45.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/reporte-de-inflacion/65-ingles/statistics.html",
+        "title": "Statistics - BCRP",
+        "text": "Statistics · Monetary and Exchange Operations Tables (MEOC) · Statistics · Weekly Report · BCRPData. Series Estadísticas · Monetary and Exchange Operations · Economic ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcrp.gob.pe/en/monetary-policy.html",
+        "title": "Monetary Policy - BCRP",
+        "text": "The BCRP follows a policy of Explicit Inflation Targets. The inflation target (a range between 1 and 3 percent) seeks to anchor inflation expectations.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcrp.gob.pe/en/news.html",
+        "title": "News - BCRP",
+        "text": "(12/06) Monetary Policy Statement June: BCRP maintained the reference rate at 4.50% (03/06) Weekly Economic Report - May 29, 2025",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/news.html",
+        "title": "News - BCRP",
+        "text": "News · (10/07) Monetary Policy Statement July: BCRP maintained the reference rate at 4.50% · (12/06) Monetary Policy Statement June: BCRP maintained the reference ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/en/footer-news-en?from=01-05-2021&to=31-07-2021&limitstart=0",
+        "title": "News - BCRP",
+        "text": "News ; 16 · 23 ; 17 · 24 ; 18 · 25 ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bcrp.gob.pe/en/publications/working-papers.html",
+        "title": "Working Papers - BCRP",
+        "text": "The working papers of the Central Reserve Bank of Perú are preliminary research documents disseminated to motivate discussion and analysis.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

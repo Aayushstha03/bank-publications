@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.boz.zm/research-and-publications.htm",
+        "title": "Research and Publications - Bank of Zambia",
+        "text": "Research and Publications · Bank of Zambia Annual Reports · Bi- Annual Monetary Policy Statements · Financial and Other Statistics Booklet · Financial Systems ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boz.zm/fsd-publications.htm",
+        "title": "FSD Publications - Bank of Zambia",
+        "text": "This page contains research papers, articles and brochures on Financial Sector Development. The publications are either related or relevant to Financial Sector ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.boz.zm/news-and-publications.htm",
+        "title": "News and Publications - Bank of Zambia",
+        "text": "News and Publications ; 02-06-2025, May 2025 Monetary Policy Report ; 30-05-2025, BoZ Congratulates Nalishebo on AfDB Election ; 23-05-2025, Monetary Policy ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.boz.zm/statistics.htm",
+        "title": "Statistics - Bank of Zambia",
+        "text": "Monetary and Financial Statistics · Payment Systems Statistics · Balance of Payments Statistics · International Investment Position · Financial Inclusion Indicators ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.boz.zm/financial-and-other-statistics-booklet.htm",
+        "title": "Financial and Other Statistics Booklet - Bank of Zambia",
+        "text": "The Booklet on Financial and Other Statistics is an annual publication which provides a statistical overview of the various aspects of the Zambian economy ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boz.zm/fortnight-statistics.htm",
+        "title": "Fortnightly Statistics - Bank of Zambia",
+        "text": "The purpose of the Statistics Fortnightly Bulletin is to disseminate monetary and financial statistics on a fortnightly basis.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.boz.zm/monetary-policy.htm",
+        "title": "Monetary Policy - Bank of Zambia",
+        "text": "Monetary policy refers to the measures or actions taken by the monetary authority of the country (the Bank of Zambia in this case)",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boz.zm/acts-and-regulations.htm",
+        "title": "Acts and Regulations - Bank of Zambia",
+        "text": "Acts and Regulations · Bank of Zambia Act, 2022 · Currency Act · Bank of Zambia Act ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.boz.zm/monitory-policy-framework.htm",
+        "title": "Monetary Policy Framework - Bank of Zambia",
+        "text": "The BoZ uses the monetary policy framework in which the Policy Rate is the key interest rate in signalling the monetary policy stance.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.boz.zm/news-and-publications.htm",
+        "title": "News and Publications - Bank of Zambia",
+        "text": "Recent Bank of Zambia news includes press statements, monetary policy reports, financial stability statements, and public notices, such as the liquidation of ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.boz.zm/boz-working-papers.htm",
+        "title": "BoZ Working Papers - Bank of Zambia",
+        "text": "The Bank of Zambia Working Paper Series is intended to disseminate and share information on contemporary issues affecting the Zambian economy and the region ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.boz.zm/working-papers-series.htm",
+        "title": "Working Papers Series - Bank of Zambia",
+        "text": "Research and Publications Banking and Currency Payment Systems Bonds and Tbills BoZ Online Research and Publications Working Papers Series",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

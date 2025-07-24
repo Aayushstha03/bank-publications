@@ -1,0 +1,111 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/publications",
+        "title": "Publications & Blogs | St. Louis Fed",
+        "text": "St. Louis Fed publications and blogs cover topics including the economy, financial institutions and community development.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/at-a-glance",
+        "title": "About Publications - Federal Reserve Bank of St. Louis",
+        "text": "The St. Louis Fed's annual reports highlight the work and impact made by Bank staff over the previous year. Community Development Outlook Survey.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.stlouisfed.org/community-development/publications",
+        "title": "Community Development Publications & Reports | St. Louis Fed",
+        "text": "Community Development publishes articles about economic development and economic equity and inequality in this blog.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/publications/page-one-economics/2025/jun/data-releases-with-fred",
+        "title": "Data Releases with FRED | St. Louis Fed",
+        "text": "The FRED® online database provides access to more than 826,000 data series organized in more than 300 releases that look like the publications ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/community-development/bank-on-national-data-hub",
+        "title": "Bank On National Data Hub - Federal Reserve Bank of St. Louis",
+        "text": "The Bank On National Data (BOND) Hub to present metrics from financial institutions related to account openings, account usage and consistency, and online ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/page-one-economics/2021/11/15/data-units-in-fred",
+        "title": "Data Units in FRED® | St. Louis Fed",
+        "text": "This article describes the range of data units available in FRED for new data users and can serve as a reference for advanced data users.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/bank-supervision/federal-banking-regulations",
+        "title": "Federal Banking Rules & Regulations | St. Louis Fed",
+        "text": "Below is a searchable list of US banking regulations from 2022-24 (final, interim final, open for comment, or proposed).",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.stlouisfed.org/in-plain-english/the-fed-implements-monetary-policy",
+        "title": "How the Fed Implements Monetary Policy with Its Tools: In Plain English",
+        "text": "When the FOMC adjusts the target range for the federal funds rate, the Federal Reserve uses its monetary policy tools to implement ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.stlouisfed.org/federal-banking-regulations/Report?RuleId=47812",
+        "title": "Rules and Regulations - GovInfo",
+        "text": "This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/news-releases",
+        "title": "Newsroom and Press Releases | St. Louis Fed",
+        "text": "Find news releases, headlines, media advisories and contacts, press kit, and other media resources from the Federal Reserve Bank of St. Louis.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/regional-economist/july-1996/news-bulletins-from-the-eighth-federal-reserve-district",
+        "title": "Pieces of Eight: News Bulletins from the Eighth Federal Reserve ...",
+        "text": "The speeches are the first in a series of selected economic and policy speeches to be made available to the public. To request a reprint of either speech, call ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/regional-economist/january-1997/news-bulletins-from-the-eighth-federal-reserve-district",
+        "title": "Pieces of Eight: News Bulletins from the Eighth Federal Reserve ...",
+        "text": "The 45-minute presentation outlines the Fed's responsibilities in formulating monetary policy, providing financial services, and supervising and regulating ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/on-the-economy/2024/nov/fed-librarians-bring-reserve-bank-research-global-audience",
+        "title": "Fed Librarians Bring Reserve Bank Research to a Global Audience",
+        "text": "Working papers serve as an important vehicle for economic researchers to quickly communicate preliminary analytical results across the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/research",
+        "title": "Economic Research | St. Louis Fed",
+        "text": "View Cutting-Edge Research in Our Working Papers. Get the latest on economic trends, policy and data. Subscribe to our monthly Research newsletter. Sign Up ...",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

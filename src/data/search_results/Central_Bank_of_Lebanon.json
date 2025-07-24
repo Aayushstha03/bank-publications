@@ -1,0 +1,43 @@
+{
+  "Bank Name": "Central Bank of Lebanon",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Annual%20Report_3_Ar%C2%A72914_1.pdf",
+                "title": "Template for BDL Reports",
+                "source": "www.bdl.gov.lb",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bdl.gov.lb&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///185ecf9cedd78a2b19bea1a2fef4c26af46dd2e7cb694053059d8f97a11d51ba",
+                "position": 1
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Guide_20_Ar%C2%A76790_1.pdf",
+                "title": "Template for BDL Reports",
+                "source": "www.bdl.gov.lb",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bdl.gov.lb&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///2e54b2dcf2a9facf09b73ee7c7b2418fbb05aea9cb43e2decbb6cccddbb1bdf9",
+                "position": 2
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Annual%20Report_2_Ar%C2%A71969_1.pdf",
+                "title": "ماعلا يداصتقالا دهشملا",
+                "text": "ةلاح ًامقافت عضولا داز امك .ةيبرعلا لودلا يف ءاقشألا نم رخآ فيض فلأ ٥٠٠ ىلإ ًةفاضإ ،نانبل. اذه سكعنا .نيماع نم رثكأل سيئر الب دالبلا تقبأ يتلا ةيروتسدلا ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bdl.gov.lb/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    }
+  ]
+}

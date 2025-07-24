@@ -1,0 +1,89 @@
+{
+  "Bank Name": "Bank of Algeria",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bank-of-algeria.dz/publications-page/",
+                "title": "Publications",
+                "source": "Banque d'Algérie",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bank-of-algeria.dz/stoodroa/2022/06/stock-market-chart-technology-blue-background-wecompress.com1_-scaled.jpg",
+                "position": 1
+              },
+              {
+                "url": "https://www.bank-of-algeria.dz/publications/",
+                "title": "Publications",
+                "source": "Banque d'Algérie",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bank-of-algeria.dz/stoodroa/2022/05/rapport-site-web1-2.png",
+                "position": 2
+              },
+              {
+                "url": "https://www.bank-of-algeria.dz/publications/",
+                "title": "Publications",
+                "source": "Banque d'Algérie",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bank-of-algeria.dz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bank-of-algeria.dz/stoodroa/2022/05/RAPPORT-SITE-WEB-2..png",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bank-of-algeria.dz/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/Bulletin-n%C2%B065-Eng.pdf",
+                "title": "QUARTERLY STATISTICAL BULLETIN",
+                "text": "A received data for customer account not yet registered as deposits,. (**) Import deposits until 2006,The foreign currency deposits received ...",
+                "source": "Bank Of Algeria",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                "published_time": "2024-08-06T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bank-of-algeria.dz/wp-content/uploads/2023/11/Bulletin-n%C2%B061-English.pdf",
+                "title": "QUARTERLY STATISTICAL BULLETIN",
+                "text": "1.1 Aggregated Balance sheet of the Bank of Algeria. (Values in billion of dinars- End of period). Net Foreign Assets. Claim on Central. Government.",
+                "source": "Bank Of Algeria",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bank-of-algeria.dz/stoodroa/2024/12/Bulletin-n%C2%B0-66-En.pdf",
+                "title": "QUARTERLY STATISTICAL BULLETIN",
+                "text": "2023. 4,10. 3,70. 3,00. 4,90. 2,40. 3,40. 5,50. 2,60. 2,60. 2,70. 1,66. 10,16. Q1 2024. 4,20. 3,70. 3,20. -1,00. 4,20. 3,30. 6,50. 4,20.",
+                "source": "Bank Of Algeria",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX////+///u8/i/zduywdCvvs3H1OHX4eqEnrhEZ4kVRGsAM1wAL1kdSW9PcpOsv9L3+v3u8/c4YYUKOWAANV0uVXljgp/o7/UIPmcVPGEqUXadscTO3eqXscrz9/tZeZjf5+9uiqUuXIN6lK6Npr+TqsAAK1eCnro1Y4olVX7j6/J5k65Kb5Fqjq7habN+AAABHUlEQVR4AX3SA7bEMAAF0BfUto1h97+84cFHklvEDoQIxCjjmk4hYTDTsh3X84MQIlHsJGlqZ5nj5hEEirJK6qZtO5anWYv/+iG1inGo7Qn6HBuiGRq9YSdVVY4Y50a4sKJOqtJZQiCKhBVWJ831kUCG1ukQyveJQE+TVrWN2Jw4RJAb0h3f9gZtufuQ2fYA0VpyfIShwTn9xPqPqGdO0EdU73XOg8D0Yy91N7yczm/zZZ6rbL5cXq9dlqVtp2m6r3gpxrfr9VoMS1Fc2+L6ZWy3m4Ff2IWEN7uRXyHq6brjDpDbFqzxCDl6GRGCQG7zAbU7AwgU9EsBOQICc4GyBmjcQO16MQBCIBfMPQhUzImCqKbRr0cEtZ5A5fcMn3vmFss5EyO9AAAAAElFTkSuQmCC",
+                "published_time": "2024-12-01T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022 pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bank-of-algeria.dz/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    }
+  ]
+}

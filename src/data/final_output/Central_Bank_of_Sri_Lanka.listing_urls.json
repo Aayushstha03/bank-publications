@@ -1,0 +1,94 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/publications",
+        "title": "Publications | Central Bank of Sri Lanka",
+        "text": "Publications. Economic and Financial Reports. Monetary Policy Report. Read and download monetary policy report of the Central Bank of Sri Lanka.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications",
+        "title": "Statistical Publications | Central Bank of Sri Lanka",
+        "text": null,
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/other-financial-publications",
+        "title": "Other Financial Publications | Central Bank of Sri Lanka",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/statistics",
+        "title": "Statistics | Central Bank of Sri Lanka",
+        "text": "Statistics. Statistical Tables. Real Sector. View statistical tables on real sector. External Sector. View statistical tables on external sector.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/statistics/economic-and-social-statistics",
+        "title": "Economic and Social Statistics 2024 - Central Bank of Sri Lanka",
+        "text": "Skip to main content. Home. Search form. Search. English · සිංහල · தமிழ். Search form. Search. Navigation. ABOUT. About the Bank.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-bulletin",
+        "title": "Monthly Bulletin | Central Bank of Sri Lanka",
+        "text": "The Central Bank of Sri Lanka Bulletin is issued monthly by the Department of Economic Research under the direction of a Staff Editorial Committee.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/financial-system/financial-infrastructure/laws-and-regulations-for-financial-Infrastructure",
+        "title": "Laws and Regulations for Financial Infrastructure",
+        "text": "Laws and Regulations. 1. Central Bank of Sri Lanka Act, No. 16 of 2023. An act to provide for the establishment of the Central Bank of Sri Lanka; ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-instruments-and-implementation",
+        "title": "Monetary Policy Instruments and Implementation",
+        "text": "The main monetary policy instruments used currently are Overnight Policy Rate (OPR), Open Market Operations (OMO), Standing Facilities and the Statutory Reserve ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/rates-and-indicators/policy-rates",
+        "title": "Policy Rates | Central Bank of Sri Lanka",
+        "text": "Overnight Policy Rate (OPR) is the policy interest rate of the Central Bank under the single policy interest rate mechanism (wef 27 November 2024).",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/press/press-releases",
+        "title": "Press Releases | Central Bank of Sri Lanka",
+        "text": "View and download press releases on monetary policy review, Financial Stability Review, View and download press releases on financial stability review.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/press",
+        "title": "Press | Central Bank of Sri Lanka",
+        "text": "View and find information on press conferences. Speeches. View and find information on important speeches by central bank officers and industry experts.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/Speeches",
+        "title": "Speeches | Central Bank of Sri Lanka",
+        "text": "28.08.2024 | Keynote Speech of Governor at the “37th OPA Annual Conference” on “Sri Lanka's Sustained Economic Growth”",
+        "listing_probability": 0.15
+      }
+    ]
+  }
+]

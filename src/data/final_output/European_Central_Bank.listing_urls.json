@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/press/intro/publications/html/index.en.html",
+        "title": "Publications - European Central Bank",
+        "text": "Publications ; 4 April 2025 · Corporate Actions: Single Collateral Management Rulebook for Europe ; 20 January 2025 · 15th T2S Harmonisation ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/research-publications/resbull/2023/html/ecb.rb231128~0a16e73d87.en.html",
+        "title": "Reports of AI ending human labour may be greatly exaggerated",
+        "text": null,
+        "listing_probability": 0.02
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/stats/all-key-statistics/html/index.en.html",
+        "title": "All key statistics - European Central Bank",
+        "text": "This list provides an overview of the main statistical data and other key datasets produced and disseminated by the ECB.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.ecb.europa.eu/stats/accessing-our-data/html/index.en.html",
+        "title": "All data services - European Central Bank",
+        "text": "The ECB Data Portal provides access to all official ECB statistics. The portal also provides options to download data and comprehensive metadata for each ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/research-publications/statistics-papers/html/index.en.html",
+        "title": "Statistics papers - European Central Bank",
+        "text": "Browse the ECB Statistics Paper Series covering both methodological and conceptual issues related to central banking statistics, new statistical topics and ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/html/monetary-policy-instruments.en.html",
+        "title": "Our monetary policy instruments and the strategy review",
+        "text": "To help keep prices stable, we need the right tools at hand. That is why we have introduced new monetary policy instruments in recent years.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/monetary-policy/html/index.en.html",
+        "title": "Monetary policy - European Central Bank",
+        "text": "What is the marginal lending facility rate? 13 September 2018: What is the main refinancing operations rate? 18 July 2018: What is economic slack? 1 June 2018 ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202501_07~c37ab82e06.en.html",
+        "title": "From press conferences to speeches: the impact of the ECB's monetary ...",
+        "text": "Monetary policy communication is important for managing expectations and enhancing the effectiveness of monetary policy in the pursuit of price stability.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/press_conference/html/index.en.html",
+        "title": "Press conference - European Central Bank",
+        "text": "The President will provide an in-depth explanation of the reasons behind the latest monetary policy decisions. Read from 15:00 CET. Watch the press conference.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html",
+        "title": "All news & publications - European Central Bank",
+        "text": "Interested in a publication by the ECB from a particular point in time? Browse publications by date.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/press/research-publications/working-papers/html/index.en.html",
+        "title": "Working papers - European Central Bank",
+        "text": "The working papers constitute “work in progress”. They are published to stimulate discussion and contribute to the advancement of our knowledge of economic ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.ecb.europa.eu/pub/research/html/index.en.html",
+        "title": "Research papers - European Central Bank",
+        "text": "Our working papers share economic research relevant to the ECB's tasks and functions. We publish them to stimulate discussion. Read our latest working papers ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/research-publications/working-papers/html/index.fi.html?skey=Survey%20of%20professional%20forecasters",
+        "title": "Working papers - European Union",
+        "text": "The working papers constitute “work in progress”. They are published to stimulate discussion and contribute to the advancement of our knowledge of economic ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

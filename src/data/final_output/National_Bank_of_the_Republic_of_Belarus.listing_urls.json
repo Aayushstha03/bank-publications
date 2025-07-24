@@ -1,0 +1,58 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.nbrb.by/engl/payment/publications",
+        "title": "Payment System of the Republic of Belarus. Publications",
+        "text": "All documents are in PDF format. Use Adobe Acrobat Reader to view. Book \"Payment systems in the Republic of Belarus\" (September 2001) · Payments and securities ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.nbrb.by/engl/publications/bulletin",
+        "title": "Statistics Bulletin | National Bank of the Republic of Belarus",
+        "text": "Home Page · → STATISTICS. Exchange rates; External sector statistics; Monetary and financial statistics; Monetary policy instruments; Financial markets ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.nbrb.by/engl/mp/target/exrate-policy",
+        "title": "Exchange Rate Policy of the National Bank of the Republic of Belarus",
+        "text": "The rules of the exchange rate policy are aimed at: smoothing the daily fluctuations of the currency basket value;; ensuring the positive balance of the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrb.by/engl/mp/target/percent-policy",
+        "title": "Interest Rate Policy of the National Bank of the Republic of Belarus",
+        "text": "The interest rate policy of the National Bank of the Republic of Belarus is a complex of measures designed to regulate the price of money in the economy.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.nbrb.by/engl/news",
+        "title": "News and Press Releases | National Bank of the Republic of Belarus",
+        "text": "July 2025 01 Dynamics of the average refinance rate of the National Bank of the Republic of Belarus, June 2025",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbrb.by/engl/today/press",
+        "title": "Press Service of the National Bank of the Republic of Belarus",
+        "text": "The functions of the press service in the National Bank of the Republic of Belarus are carried out by Information and Public Relations Department.",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

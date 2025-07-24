@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.amcm.gov.mo/en/research-statistics/research-and-publications?type=research-and-publications%2Fbalance-of-payments-statistics",
+        "title": "Research & Publications｜AMCM - 澳門金融管理局",
+        "text": "Research & Publications · Monthly Bulletin of Monetary Statistics · White Paper on Macao Special Administrative Region's e-MOP · Macao Monetary ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/financial-information/financial-reports",
+        "title": "Financial Reports｜AMCM - 澳門金融管理局",
+        "text": "Financial Information · 銀行同業匯率中間價 · 澳門元隔夜平均指數(MONIA) · 澳門銀行同業拆息(MAIBOR) · 澳門金融管理局基本利率 · 財務報告 ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.amcm.gov.mo/en/research-statistics/research-and-publications/macao-monetary-research-bulletin?slug=total-2015-37",
+        "title": "Research Bulletin｜AMCM - 澳門金融管理局",
+        "text": "The Macao Monetary Research Bulletin contains research articles prepared by academics in the fields of economics and finance, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/research-statistics/statistics-page/statistic-insurance",
+        "title": "Insurance sector and private pension funds statistics - 澳門金融管理局",
+        "text": "Observations, Year-on-year change in latest data, More information. Date of latest data, Latest data, Data for previous period ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/research-statistics/statistics-page/monetary-and-financial-statistics-time-series",
+        "title": "Monetary and Financial Statistics Time Series｜AMCM - 澳門金融管理局",
+        "text": "Statistics ; SECTION 1 : MONEY ; SECTION 2 : RESIDENT DEPOSITS AND DOMESTIC CREDIT ; SECTION 3: BANKING ; SECTION 4: DOMESTIC INTERBANK MARKET ; SECTION 5: EXTERNAL ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=gee/2024",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "Press Releases · Statistics Releases · Notices and Announcements · Other Related News About AMCM · Foreign exchange reserves and nominal effective exchange rate ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=notice%2F2025",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "News │Statistics│ Announcements · Press Releases · Statistics Releases · Notices and Announcements · Other Related News About AMCM.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=gap/2024",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "The grace period for four previously issued Zodiac Banknotes (including the Rat, Ox, Tiger and Rabbit Zodiac Banknotes) will end on 19 December 2024 (Thursday).",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

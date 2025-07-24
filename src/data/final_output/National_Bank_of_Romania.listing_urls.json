@@ -1,0 +1,94 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bnro.ro/Reports-to-the-NBR-9452-Mobile.aspx",
+        "title": "Reports to the NBR - Banca Naţională a României - BNR",
+        "text": "USEFUL LINKS: Online reporting application (available only in Romanian); ECB Press release on the launching of the Integrated Reporting Framework (IReF).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bnro.ro/Accounting-and-prudential-reports-9475-Mobile.aspx",
+        "title": "Accounting and prudential reports - Banca Naţională a României",
+        "text": "Accounting and prudential reports · Form for calculating and reporting own funds (Annex 4) · Lending activity report (Annex 5) · Balance sheet (Annex 6) · Report on ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bnro.ro/Inflation-Reports-3649-Mobile.aspx",
+        "title": "Inflation Reports - Banca Naţională a României - BNR",
+        "text": "The Inflation Report is the NBR's main communication tool amid the current monetary policy strategy. Published on a quarterly basis (starting August 2005), the ...",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bnro.ro/Financial-and-Monetary-Statistics-6372-Mobile.aspx",
+        "title": "Financial and Monetary Statistics - Banca Naţională a României - BNR",
+        "text": "Data sets in this section draw on the statistics provided by the monetary financial institutions. The data contribute to outlining the financial flows in ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bnro.ro/Data-sets-3205.aspx",
+        "title": "Data sets - Banca Naţională a României - BNR",
+        "text": "Data sets ; daily values, monthly, quarterly and annual series ; Financial Info: the latest values recorded by the main indicators of the financial markets. Money ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnro.ro/The-NBR%E2%80%99s-main-statistics-21292-Mobile.aspx",
+        "title": "Banca Naţională a României - The NBR's main statistics - BNR",
+        "text": "External sector statistics · Balance of payments · International investment position · External debt · Direct investment statistics · Direct investment in the ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bnro.ro/Monetary-Policy-Instruments-3647-Mobile.aspx",
+        "title": "Banca Naţională a României - Monetary Policy Instruments - BNR",
+        "text": "The monetary policy operational framework consists of the set of instruments and procedures whereby the central bank implements its monetary policy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bnro.ro/Monetary-Policy-1864-Mobile.aspx",
+        "title": "Banca Naţională a României - Monetary Policy - BNR",
+        "text": "The BNR's primary objective is price stability, and it defines and implements monetary and exchange rate policies, including strategy and instruments.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bnro.ro/Monetary-Policy-Transmission-Mechanism--3242-Mobile.aspx",
+        "title": "Monetary Policy Transmission Mechanism - BNR",
+        "text": "Monetary policy impulses coming from the central bank are usually transmitted through the banking (or financial) system.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bnro.ro/Press-releases-1104-Mobile.aspx",
+        "title": "Press releases - Banca Naţională a României - BNR",
+        "text": "Press releases ; 18.07.2025 Numismatic issue dedicated to 200 years since the birth of Elena Cuza ; 14.07.2025 Balance of payments and external debt – May 2025 ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bnro.ro/Other-Press-Releases-3961-Mobile.aspx",
+        "title": "Banca Naţională a României - Other Press Releases - BNR",
+        "text": "The National Bank of Romania launches the Economic@BNR project, an economic research, debate and education platform. The Economic@BNR project, initiated and ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.bnro.ro/Press-Releases-3365.aspx",
+        "title": "Press Releases - Banca Naţională a României - BNR",
+        "text": "Press Releases. Following the Meetings of the National Committee for Financial Stability. 14.03.2017 · 15.12.2016 · 17.06.2016 · 11.05.2016.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

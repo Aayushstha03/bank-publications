@@ -1,0 +1,88 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Advocacies/Advocacies/Microfinance%20and%20Financial%20Inclusion/Financial%20Inclusion%20Reports%20and%20Publications/Financial-Inclusion-Reports-and-Publications.aspx",
+        "title": "Financial Inclusion Reports and Publications",
+        "text": "The Financial Inclusion in the Philippines is a quarterly publication aimed to increase public awareness and appreciation of the BSP's ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bsp.gov.ph/Sites/researchsite/Pages/Publications/Occasional-Papers-Publications.aspx",
+        "title": "Occasional Papers/Publications - Bangko Sentral ng Pilipinas",
+        "text": "BSP Int'l Research Conference Publications, BSP Discussion Papers, BSP Economic Newsletter, BSP Working Paper Series, Bangko Sentral Review",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Statistics/StatisticsMetadataDisp.aspx?ItemId=28",
+        "title": "Statistics Metadata Search - Bangko Sentral ng Pilipinas",
+        "text": "This dataset contains FDI statistics of the Philippines (net incurrence of liabilities in the direct investment account of the BOP).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx",
+        "title": "Bangko Sentral ng Pilipinas Statistics - Philippine RTGS: <i>PhilPaSS ...",
+        "text": "Share. https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx. Payment Statistics. Volume and Value of Transactions. Year. June 2025, May 2025 ...",
+        "listing_probability": 0.6
+      },
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Statistics/Statistics.aspx/%7B%7BGetWebAbsoluteURL()+%20'/SitePages/Statistics/Financial%20System%20Accounts.aspx?TabId=15'}}",
+        "title": "Bangko Sentral ng Pilipinas Statistics",
+        "text": "The BSP monitors and compiles various statistical series on monetary, financial and external variables useful for the formulation and analysis of monetary, ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Regulations/RegulationsList.aspx?TabId=4",
+        "title": "Manual of Regulations - Bangko Sentral ng Pilipinas",
+        "text": "The Manual of Regulations for Banks (MORB) is the primary source of regulations governing entities supervised by the Bangko Sentral ng Pilipinas.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Regulations/GuideToFx.aspx",
+        "title": "Bangko Sentral ng Pilipinas Foreign Exchange Regulations - Guide to ...",
+        "text": "General Policy\n\nRegulations under the FX Manual governing purchase of foreign currency from banks (e.g., documentation) will ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Regulations/RegulationDisp.aspx?ItemId=4983",
+        "title": "Bangko Sentral ng Pilipinas Regulations - BSP Issuances",
+        "text": "For pdf copies of signed issuances not yet posted in this website, kindly e-mail the Administrative Services Department at external_issuances@bsp.gov.ph.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Events/By%20Year/2024/2024-irf-call-for-papers.aspx",
+        "title": "2024 International Research Fair - Call for Papers",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bsp.gov.ph/SitePages/Research/ReseachAndStudies.aspx",
+        "title": "Bangko Sentral ng Pilipinas Research and Studies",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bsp.gov.ph/Sites/researchsite/Pages/Events/International-Research-Fair.aspx",
+        "title": "International Research Fair",
+        "text": null,
+        "listing_probability": 0.2
+      }
+    ]
+  }
+]

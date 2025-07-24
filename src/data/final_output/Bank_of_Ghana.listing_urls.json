@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bog.gov.gh/publications/",
+        "title": "Publications - Bank of Ghana",
+        "text": "All publications, research papers, academic and statistical content. Search through by department or category.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/publications/research-papers/sector-reports/",
+        "title": "Sector Reports - Bank of Ghana",
+        "text": "Sector Reports · The Fishing sub-sector and Ghana's Economy · Offshore Banking and the prospects for the Ghanaian Economy · Issues on Wages and Labour · The Tourism ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bog.gov.gh/publications/statistical-bulletin/",
+        "title": "Statistical Bulletin - Bank of Ghana",
+        "text": "Annual Statistical Bulletin – 2024 Download Download December 27, 2024 Quarterly Statistical Bulletin – Quarter Four, 2024 Download Download",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bog.gov.gh/economic-data/",
+        "title": "Economic Data - Bank of Ghana",
+        "text": "At the Central Bank, we have a duty to publish statistics on the monetary and financial system in line with our policy and regulatory responsibilities.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bog.gov.gh/downloads/supervision-and-regulation-downloads/regulations-directives/",
+        "title": "Regulations & Directives - Accra - Bank of Ghana",
+        "text": "Regulations & Directives · AML Guidelines for Forex Bureaux · Bank of Ghana Financial Inclusion for Persons with Disabilities Directive · Draft Open Banking ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/monetary-policy/",
+        "title": "Monetary Policy - Bank of Ghana",
+        "text": "The MPC is responsible for formulating and implementing policy in the areas of money, banking and credit to promote and preserve monetary stability.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.bog.gov.gh/monetary-policy/our-monetary-policy-framework/",
+        "title": "Our Monetary Policy Framework - Bank of Ghana",
+        "text": "The primary objective of the Bank of Ghana is to maintain stability in the general level of prices, as stated under section 3 of the Bank of Ghana Act 2002.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bog.gov.gh/speeches/",
+        "title": "Speeches - Bank of Ghana",
+        "text": "SPEECHES · Governor's Keynote Address at the Graphic Business Stanbic Bank Breakfast Meeting · Governor Asiama Speech – 14th AFI Leaders' Roundtable · Second ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/news_briefs/news-brief-23-07-2025/",
+        "title": "News Brief 23-07-2025 - Bank of Ghana",
+        "text": "NEWS BRIEF. Home · News Briefs. News Brief 23-07-2025. News Brief 23-07-2025. Download. Download. Apply. July 23, 2025 ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bog.gov.gh/publications/news-briefs/",
+        "title": "News Briefs – Bank of Ghana",
+        "text": "News Briefs. News Brief 21-07-2025. July 21, 2025. News Brief 18-07-2025. July 18, 2025. News Brief 16-07-2025. July 16, 2025. News Brief 15-07-2025.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bog.gov.gh/publications/research-papers/",
+        "title": "Research Papers - Bank of Ghana",
+        "text": "Sector Reports. Reports on the latest developments from the banking sector. ; Articles. Articles published by the central bank based on research ; Policy Briefs.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/publications/staff-working-papers/",
+        "title": "Staff Working Papers - Bank of Ghana",
+        "text": "This paper examines the sensitivity of the Ghanaian economy to external demand, supply and financial conditions using a Bayesian Vector Autoregression (BVAR) ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

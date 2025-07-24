@@ -1,0 +1,111 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/publication/corporate-reports",
+        "title": "Corporate Reports | Central Bank of Ireland",
+        "text": "The corporate publications of the Central Bank of Ireland. CSR Annual Report 2021 · Our Strategy · Annual Report 2024 and Annual Performance Statement 2024-2025 ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ie/statistics/statistical-publications",
+        "title": "Statistical Publications | Central Bank of Ireland",
+        "text": "The Central Bank of Ireland provides a detailed analysis and dissemination of Irish financial statistics. Our statistical analysis provides a key impact to the ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.ie/publication/corporate-reports/annual-reports",
+        "title": "Annual Reports Archive | Central Bank of Ireland",
+        "text": "Annual Reports Archive ; pdf, 29/05/2025, Annual Report 2024 and Annual Performance Statement 2024-2025 ; pdf, 30/05/2024, Annual Report 2023 and Annual ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/statistics",
+        "title": "Statistics | Central Bank of Ireland",
+        "text": "The Central Bank's published data and commentary covers areas such as credit and deposits developments, mortgage arrears, interest rates, investment funds, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ie/statistics/data-and-analysis",
+        "title": "Data & Analysis | Central Bank of Ireland",
+        "text": "We publish and provide data and commentary on a broad range of financial developments in Ireland. Our statistical analysis assists policy makers.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ie/statistics/data-and-analysis/credit-and-banking-statistics",
+        "title": "Credit and Banking Statistics | Central Bank of Ireland",
+        "text": "Credit and Banking Statistics. The credit, money and banking section includes statistics and commentary on monetary and credit conditions in Ireland.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/regulation/how-we-regulate/policy/how-we-make-policy",
+        "title": "How We Make Policy | Central Bank of Ireland",
+        "text": "In making Irish regulatory policy, we follow principles of good regulation. The process is a continuous one and typically follows this life cycle.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.ie/regulation/how-we-regulate/policy",
+        "title": "Policy | Central Bank of Ireland",
+        "text": "Regulatory Policy. Developing and maintaining the regulatory policy framework for Ireland's financial services sector is a key part of our mandate.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.ie/financial-system/financial-stability/macro-prudential-policy",
+        "title": "Macro-prudential Policy | Central Bank of Ireland",
+        "text": "Macroprudential policy looks to ensure the financial system can absorb, rather than amplify, adverse shocks.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/news-media/speeches",
+        "title": "Speeches | Central Bank of Ireland",
+        "text": "Speeches ; Vasileios Madouros, Deputy Governor, Monetary and Financial Stability. 08 July 2025 ; Gabriel Makhlouf, Governor. 05 July 2025 ; Gabriel Makhlouf, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ie/regulation/innovation-hub/speeches-and-publications",
+        "title": "Speeches and publications | Central Bank of Ireland",
+        "text": "Speeches and publications · 27 May 2025: Speech by Gerry Cross, Director, Capital Markets and Funds, Central Bank of Ireland at Blockchain Ireland Summit 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.ie/news-media",
+        "title": "News and media | Central Bank of Ireland",
+        "text": "Keep up-to-date with the latest press releases and speeches from the Central Bank. You'll also find information on concluded Enforcement Actions and updates.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/research-exchange/research-publications/research-technical-papers",
+        "title": "Research Technical Papers | Central Bank of Ireland",
+        "text": "Our Research Technical Papers series contains original high-quality research that is academically rigorous and is suitable for publication in well-regarded ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ie/research-exchange/research-engagement-programme",
+        "title": "Research Engagement Programme - Research Exchange | Central ...",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

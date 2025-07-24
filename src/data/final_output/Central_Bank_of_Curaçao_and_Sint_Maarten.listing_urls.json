@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/publications",
+        "title": "Publications - Centrale Bank Curacao & Sint Maarten",
+        "text": "Publications · Advance Release Calendar 2025 · Annual Report · Economic Bulletins · Financial Stability Reports · Press Releases · Speeches & Presentations.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/statistics-dashboards",
+        "title": "Statistics & Dashboards - Central Bank of Curaçao and Sint Maarten",
+        "text": "Statistics & Dashboards · Dashboards · External Sector Statistics · Monetary and Financial Statistics · Official Exchange Rates for Use by the Commercial Banks ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.cw/statistics-dashboards/monetary-and-financial-statistics",
+        "title": "Monetary and Financial Statistics - Centrale Bank van Curacao en Sint ...",
+        "text": "Monetary and Financial Statistics · International Reserves Statement · Official Legal Interest Rates · Monetary Tables · Breakdown Deposits and ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/legislation-guidelines/trust-service-providers/policy-guidelines",
+        "title": "Policy Guidelines - Centrale Bank Curacao & Sint Maarten",
+        "text": "Guideline for the Sound Management of Operational Risk - July 2024 · Provisions & Guidelines on Combatting Money Laundering and the Financing of ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.cw/legislation-guidelines/foreign-exchange-regulations",
+        "title": "Foreign Exchange Regulations - Centrale Bank Curacao & Sint ...",
+        "text": "The foreign exchange regulations in the countries of Curaçao and Sint Maarten are based on the Foreign Exchange Regulation Curaçao and Sint Maarten (2010).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.cw/legislation-guidelines/credit-institutions/supervisory-regulations",
+        "title": "Supervisory Regulations - Centrale Bank Curacao & Sint Maarten",
+        "text": "Supervisory Regulations I - Restrictions on credit extension to principal shareholders, Supervisory Directors, Executive Officers (and their ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/publications/press-releases/2025",
+        "title": "Press Releases 2025 - Centrale Bank van Curacao en Sint Maarten",
+        "text": "PB2025-033 Supervisory Board emphasizes diligent handling of former Executive Director's resignation · PB2025-032 Allegations of counterfeit Cg 20 banknotes ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/press-releases",
+        "title": "Press Releases - Centrale Bank Curacao & Sint Maarten",
+        "text": "Our Corporate Communications department is available on weekdays from 8AM to 5PM by telephone +599 9 434 5720 or +599 9 434 5587.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.centralbank.cw/functions/resolution/ennia/press-releases",
+        "title": "Press Releases Ennia - Centrale Bank Curaçao & Sint Maarten",
+        "text": "2023. PB2023-040 Agreement between parties on ENNIA resolution; PB2023-033 Ennia restructuring process update; PB2023-028 Court Issues Interlocutory ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

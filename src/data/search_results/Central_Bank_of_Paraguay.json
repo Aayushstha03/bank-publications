@@ -1,0 +1,47 @@
+{
+  "Bank Name": "Central Bank of Paraguay",
+  "search_results": [
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcp.gov.py/documents/20117/0/Press+release+CPM+mayo%281%29.pdf/36c6b19e-cd6d-122a-9154-3e513a8d71e4?t=1739971093685",
+                "title": "Press Release - Monetary Policy Meeting",
+                "text": "For its decision, the CPM has analyzed the following relevant aspects: 1. On the international scene, the world COVID-19 contagion curve moderated in May, ...",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/20117/0/Press+release+CPM+July+2022.pdf/2ff5f215-78ed-dba5-170e-1c34a9bde107?t=1739971225627",
+                "title": "Press Release - Monetary Policy Meeting",
+                "text": "For its decision, the CPM has analyzed the following relevant aspects: 1. On the international scene, the world growth prospects have deteriorated in July.",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/20117/0/Press+release+CPM+June+2022_rev.pdf/06eea9e4-66ec-350f-4c5c-8500f8b0a697?t=1739971154564",
+                "title": "Press Release - Monetary Policy Meeting",
+                "text": "For its decision, the CPM has analyzed the following relevant aspects: 1. On the international scene, the COVID-19 contagion curves have remained at ...",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bcp.gov.py/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bankofguyana.org.gy/bog/publications/natural-resource-fund/quarterly-reports",
+        "title": "Quarterly Reports - Natural Resource Fund - Bank of Guyana",
+        "text": "Quarterly Reports, Audited Financial Statements, Annual Report, Financial Health & Stability Indicators, Summary, Media Centre, Press Speeches, Videos, News, ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "http://www.bankofguyana.org.gy/Documents/Financial%20Tables/Financial%20sector%20data/",
+        "title": "Index of /Documents/Financial Tables/Financial sector data",
+        "text": "Index of /Documents/Financial Tables/Financial sector data ; FNSCDATA.pdf, 2010-09-10 12:08, 8.7K.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofguyana.org.gy/fil/component/content/category/9-sample-data-article?Itemid=101",
+        "title": "Sample Data Article - Bank of Guyana",
+        "text": "The information on this website does not constitute legal, financial or other professional advice but provides information for general reference purposes only.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bankofguyana.org.gy/fil/literacy/education/educate-yourself/instruments-of-monetary-policy",
+        "title": "Instruments Of Monetary Policy - Bank of Guyana",
+        "text": "The Bank of Guyana utilizes two instruments in the conduct of monetary policy. These are: Reserve Requirements. Open Market Operations.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "http://www.bankofguyana.org.gy/bog/component/content/article/covid-19-and-economic-policy-making?catid=26&Itemid=101",
+        "title": "COVID-19 and Economic Policy-Making",
+        "text": "Four Regional Central Bank Governors will take part in a public discussion on “How the Caribbean can rebound after COVID-19”.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "http://www.bankofguyana.org.gy/bog/component/content/article/speeches?catid=13&Itemid=101",
+        "title": "Speeches",
+        "text": "Media Centre Press Speeches Videos News Tender Circulars Home Speeches Launch of the 50th Republic Anniversary Coin",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "http://www.bankofguyana.org.gy/bog/component/content/category/communications/news?Itemid=101",
+        "title": "News",
+        "text": "“COVID and Economic Policy: Protecting Jobs, Businesses, and the Economy”, will be broadcast and livestreamed across the Caribbean, please see Central Bank ...",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

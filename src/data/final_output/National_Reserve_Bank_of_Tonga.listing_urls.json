@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "http://www.reservebank.to/index.php/publications/publications/annual-report.html",
+        "title": "Annual Reports - National Reserve Bank of Tonga",
+        "text": "Annual Reports · Annual Report 2023 · Annual Report 2022 · Annual Report 2021 · Annual Report 2020 · Annual Report 2019 · Annual Report 2018 · Annual Report 2017 ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "http://www.reservebank.to/index.php/financials/financial-markets/bonds/95-financial/fim-statistics.html",
+        "title": "Financial Statistics - National Reserve Bank of Tonga",
+        "text": "Tonga's official foreign reserves increased by $25 million in April 2025, predominantly from higher inflows of budget support that outweighed outflows for ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.reservebank.to/index.php/eco-reviews/quarterly-bulletin",
+        "title": "Quarterly Bulletin - National Reserve Bank of Tonga",
+        "text": "Commencing on the September 2022 & December 2022 Quarterly Bulletin releases, the National Reserve Bank of Tonga will continue to publish these data in a ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.reservebank.to/index.php/news/reserve-bank-announces-changes-to-exchange-control-policy-guidelines",
+        "title": "Reserve Bank Announces Changes to Exchange Control Policy Guidelines",
+        "text": "The Reserve Bank has revised its Exchange Control Policy Guidelines with effect from 1st July 2016. The Exchange Control Policy Guidelines ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.reservebank.to/index.php/news/february-2025-monetary-policy-focuses-on-strengthening-policy-transmission-and-effectiveness",
+        "title": "February 2025 Monetary Policy focuses on Strengthening Policy ...",
+        "text": "The Statutory Reserve Deposit (SRD) ratio will remain at 15 percent. Over the next six months, the NRBT will introduce a new policy rate, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "http://www.reservebank.to/index.php/publications/publications/monetary-policy-statement.html",
+        "title": "Monetary Policy Statement - National Reserve Bank of Tonga",
+        "text": "Monetary Policy Statement. To comply with the NRBT Act s50A, the Bank is to publish a Monetary Policy Statement at least every six months.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "http://www.reservebank.to/index.php/130-speeches.html",
+        "title": "Speeches - National Reserve Bank of Tonga",
+        "text": "Governor Kioa's Welcoming Remarks on AFSPC 17th Annual Meeting · That the confidence in the financial markets is maintained; · That the most suitable level of ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "http://www.reservebank.to/index.php/press-release-archives/91-news.html",
+        "title": "News - National Reserve Bank of Tonga",
+        "text": "National Reserve Bank of Tonga · Subcategories · 2014 · 2015 · 2017 · 2018 · 2019 · 2020 · 2016 ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "http://www.reservebank.to/index.php/2019-releases/123-news/2019/press-release.html",
+        "title": "Press Release - National Reserve Bank of Tonga",
+        "text": "The National Reserve Bank of Tonga's Board of Directors at its board meeting on the 28th October 2019, approved to maintain its current monetary policy measures ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

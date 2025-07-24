@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/news/eccb-reports-record-profits-for-financial-year-2019-2020",
+        "title": "ECCB Reports Record Profits for Financial Year 2019-2020",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/publications/timothy-n-j-antoine/887/iframe",
+        "title": "Publications",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/governor-of-eccb-reports-on-performance-of-eccu-economy",
+        "title": "Governor of ECCB Reports on Performance of ECCU Economy",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/statistics",
+        "title": "Statistics - Eastern Caribbean Central Bank",
+        "text": "Statistics: Anguilla, Antigua and Barbuda, Commonwealth of Dominica, Grenada, Montserrat, Saint Christopher (St Kitts) and Nevis, Saint Lucia, Saint Vincent ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/statistics-category/economic-statistics",
+        "title": "Economic Statistics - Eastern Caribbean Central Bank",
+        "text": "Economic Statistics · A Consumer Price Index - Anguilla · Q A Consumer Price Index - Antigua and Barbuda · Q A Consumer Price Index - Commonwealth of Dominica · Q A ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/statistics/key-financial-statistics",
+        "title": "Key Financial Statistics - Eastern Caribbean Central Bank",
+        "text": "Key Financial Statistics ; Total Assets, EC$M · 28,361.28 ; Total Loans and Advances, EC$M · 65.16 ; Private Sector Credit, EC$M · 11,006.15 ; Total Deposits, EC$M ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/regulations-and-standards",
+        "title": "Regulations and Standards - Eastern Caribbean Central Bank",
+        "text": "The Eastern Caribbean Central Bank will issue Prudential Standards pursuant to the authority contained in Section 184 of the Banking Act, 2015.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/regulations",
+        "title": "Regulations - Eastern Caribbean Central Bank",
+        "text": "The Eastern Caribbean Central Bank will issue Prudential Standards pursuant to the authority contained in Section 184 of the Banking Act, 2015.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/news",
+        "title": "News - Eastern Caribbean Central Bank",
+        "text": "ECCB and ECCU Bankers' Association Improve Access to Banking Services and Products... ECCB Governor congratulates UTC GBFL for Launching Balanced Mutual ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/debt/news",
+        "title": "Debt News - Eastern Caribbean Central Bank",
+        "text": "CariCRIS Reaffirms “Adequate Creditworthiness” Ratings For The Government Of Angu... ECCU Residents Diversify Financial Assets Through Investments In Government ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

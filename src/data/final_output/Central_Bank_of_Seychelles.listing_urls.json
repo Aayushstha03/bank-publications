@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbs.sc/Publications/BoardSecretaryPub.html",
+        "title": "Board Secretary Reports - Central Bank Of Seychelles",
+        "text": "Board Secretary Reports ... Statistical Bulletins ... Financial Statements ... CBS Balance Sheet ... Financial Surveillance Report ... Applicable Bank Interest Rate.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbs.sc/Publications/SupervisionReports.html",
+        "title": "Financial Surveillance Report - Central Bank Of Seychelles",
+        "text": "Financial Surveillance Report 2023 · Financial Surveillance Report 2022 · Financial Surveillance Report 2021 · Financial Surveillance Report 2020 · Financial ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbs.sc/AMLCFT/Publications.html",
+        "title": "Publications - Central Bank Of Seychelles",
+        "text": "Publications · FIU Annual Reports · National Risk Assessment Reports · Mutual Evaluation Reports.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbs.sc/Statistics/StatisticsData.html",
+        "title": "Statistics Data - Central Bank Of Seychelles",
+        "text": "Monetary and Financial Sector Statistics · External Sector Statistics · Real Sector Statistics · Market Data · Fiscal Sector Statistics · Other Economic Indicators.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbs.sc/Statistics/StatisticsOverview.html",
+        "title": "Statistics Overview - Central Bank Of Seychelles",
+        "text": "The statistics presented on this page are broadly categorised into the four main macroeconomic sectors, namely the Monetary and Financial Sector, External ...",
+        "listing_probability": 0.3
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbs.sc/MediaCenter/Speeches.html",
+        "title": "Speeches - Central Bank of Seychelles",
+        "text": "Remarks by Mr. Brian Commettant- Launching of the Youth for Youth Financial Education Ambassadors Programme -Second Cohort.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbs.sc/AMLCFT/News.html",
+        "title": "AML/CFT News - Central Bank Of Seychelles",
+        "text": "Press Releases ; 01-Oct-2019, Seychelles benefits from the expertise of a resident advisor to undertake reforms to strengthen the countrys AML-CFT framework ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

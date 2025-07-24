@@ -1,0 +1,212 @@
+{
+  "Bank Name": "Central Bank of Colombia",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banrep.gov.co/en/news-and-publications?page=51",
+                "title": "News and publications | Banco de la República",
+                "source": "Banco de la República",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.banrep.gov.co&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://d1b4gd4m8561gs.cloudfront.net/sites/default/files/icon-investigaciones-noticias-y-publicaciones.png",
+                "position": 1
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/news-and-publications?combine=&page=14",
+                "title": "News and publications | Banco de la República",
+                "source": "Banco de la República",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.banrep.gov.co&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://d1b4gd4m8561gs.cloudfront.net/sites/default/files/icon-otras-publicaciones-revistas.png",
+                "position": 2
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/news-and-publications?combine=&destination=noticias-y-publicaciones&feed_me=&page=154",
+                "title": "News and publications | Banco de la República",
+                "source": "Banco de la República",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.banrep.gov.co&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://d1b4gd4m8561gs.cloudfront.net/sites/default/files/icon-informes-noticias-y-publicaciones.png",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.banrep.gov.co/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banrep.gov.co/en/publications-research/national-financial-accounts-bulletin/first-quarter-2025",
+                "title": "National Financial Accounts Bulletin by Institutional Sector",
+                "text": "National Financial Accounts Bulletin by Institutional Sector published until now (available since 2024)",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "published_time": "2025-07-07T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin/northeast-1-quarter-2025",
+                "title": "Regional Economic Bulletin: Northeast, first quarter of 2025",
+                "text": "The northeast region's economy grew year-over-year during the first quarter of 2025, driven by strong domestic demand and robust agricultural supply. Household ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin/southwest-1-quarter-2025",
+                "title": "Regional Economic Bulletin: Southwest, first quarter of 2025",
+                "text": "In the first quarter of 2025, the southwest region's economy grew year-over-year, although with reduced momentum. Industrial growth slowed, and ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "published_time": "2025-07-01T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.banrep.gov.co/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banrep.gov.co/en/general-policies-and-guidelines-personal-data-protection",
+                "title": "General Policies and Guidelines for Personal Data Protection (Privacy ...",
+                "text": "General Policies and Guidelines for Personal Data Protection (Privacy Policy) | Banco de la República.",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/regulations-foreign-exchange-transactions/basic-concepts",
+                "title": "Regulations and Foreign Exchange Transactions: Basic Concepts",
+                "text": "13. Which foreign currency transactions are authorized by the foreign exchange regime between a parent company domiciled abroad and its branch ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "published_time": "2025-07-17T10:10:39.612968",
+                "position": 2
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/monetary-policy/definition-objective-monetary-policy",
+                "title": "Definition and Objective of Monetary Policy | Banco de la República",
+                "text": "Under this scheme, monetary policy actions are aimed at keeping future inflation within the 3.0% target set by the Board of Directors of Banco de la República ( ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.banrep.gov.co/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banrep.gov.co/en/press-releases",
+                "title": "Press releases, minutes and news - Banco de la República",
+                "text": "Press releases, minutes and news ; 21/05/2025, 10:30, Labor Market Report – April 2025 ; 08/05/2025, 13:00, Purchases / Sales of TES and Foreign Currency, and TES ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/false-news-about-banco-republicas-alleged-endorsement-virtual-crypto-asset-platforms",
+                "title": "False news about Banco de la República's alleged endorsement ...",
+                "text": "Published: May 5, 2025. Press Release: The Board of Directors of Banco de la República unanimously decided to reduce the benchmark rate by 25 basis points (bps) ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/news-and-publications?page=36",
+                "title": "News and publications - Banco de la República",
+                "text": "// Press releases and minutes. Friday the 30th of June, 2023. The Board of Directors of Banco de la República unanimously voted to maintain the monetary policy ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press 2022"
+          ],
+          "query": {
+            "q": "site:http://www.banrep.gov.co/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banrep.gov.co/en/publications-research/working-papers",
+                "title": "Working Papers - Publications and Research - Banco de la República",
+                "text": "With the Financial Infrastructure Report, each year, Banco de la República provides a complete overview of the local financial infrastructure.",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/public-perception-knowledge-work-central",
+                "title": "Working Papers on Economics - Public perception and knowledge of ...",
+                "text": "The series Working Papers on Economics is published by the Office for Economic Studies at the Banco de la República (Central Bank of Colombia).",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/cross-border-effects-fed-capital",
+                "title": "Working papers economics - Cross-Border Effects of Fed Capital ...",
+                "text": "Abstract. This paper examines the impact of the Federal Reserve's 2022 capital requirements on Colombian banks' access to foreign credit lines. These measures, ...",
+                "source": "Banco de la República",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACE1BMVEUAAAD////////////////////////////////////////////////////////////////8/Pz4+Pjn5+fZ2dnb29vs7Oz5+fn9/f3////////////q6uq/v7+srKyYmJiamprCwsK1tbW4uLienp6tra3Hx8fx8fH///////+ysrKPj4/u7u7v7+98fHx/f3/e3t6SkpKNjY2cnJy9vb339/f+/v7W1taWlpaJiYlhYWHg4ODw8PB6enqOjo6IiIiwsLDl5eVXV1eAgICkpKSDg4OhoaHLy8unp6e+vr53d3d0dHRycnKpqanMzMzt7e3a2trDw8NfX1+ioqKCgoKbm5vj4+Pz8/Pr6+vd3d3Y2Nh5eXlzc3Pi4uKfn5+QkJDT09PIyMiMjIyzs7OEhIT29vavr6+FhYWRkZGXl5eoqKjGxsa0tLSHh4f7+/vh4eGBgYG2trbExMRwcHBqampkZGR7e3vp6emKiopLS0vy8vKgoKB1dXVxcXG3t7dnZ2elpaX6+vp2dnZVVVWdnZ2jo6OTk5Ourq6qqqqGhobV1dXf399tbW1ra2vAwMDBwcFoaGjPz8/09PSmpqbQ0NCLi4u6urq8vLy5ubnm5uZWVlZiYmLOzs7FxcXNzc3JyclgYGDo6OiVlZXk5OTc3Nx9fX319fXKysrS0tLR0dHU1NSZmZlmZmaUlJS7u7tvb2+xsbGHxdoxAAAAKnRSTlMAARxbmszp+gIwm+j9/xSL7///////////L8j+////////////////O+Ar2IO/AAAC/ElEQVR4AVzJwwHAQAAAsLNVW/sPWTvfgBtEmFDGOaMEIwj+hFTa2JPRSorvOx/WiOIkzfKitNYG795f1Y21bdcP47QQSQ1ajkVBMGPW2Iht3rFt21Y8tm3b5jduXlZ93C6wOVweXwBERoT/rwtFgEAskUhlcqlCGaZSa7Q6QCT8Ny8CiYmVxMUnJCYlp6SmpWdkZmWn2Tr+7PCJAMnJzcsvKCwqVgpKSsuS48orKlXBQISP/X/fSMRUJYSpNdWE1NQq6xJD61UNBY3JTYj0pbB4+KG2uSWjtc2fxDB46vaOzuywru6ynt4+Hfw8bPx4gvRXJbUMEH+9lhltaKxs6OyCUdydL48GPB1ojl4wNZtTLWHg5FoZzMGh4ZHRHKBrbNwgmYCXI83Jm1gmp2JrAX3eZPfUtJwxY+oIA4Jm5XMD8HaiOWO+byozGpBl1+tTFhaXlnNiixIB48rq8loYnGkuGBUPrG8Am1Ws3K3t5IrusBLpDgF29/JbQuFCc8W+Zd1wAEzEauXmwzLeJmDSTwD1qrUUGVxpbjhaGTvWATg57G7MPj3zBwQdBDiX7OpNcKMapi46dYCx57JhhEf9B5kVQGDSWLfS1uCKq2vjTReAgfyFZPbpbXBrK78YQHAT4YTA1fZkWh7SlAAC5HfbBSrdQQI7hAC4nSfN1JPOCK3w11E7r6ZUSxIzkGYCgDCWcYKCSRGVep/aIQDaNNuahw7gMQEANjNv68soomxUP52F1pQRaE+q+tvNRkS1AphnhYZmllBU28QKOxxFXSuBUV3V/Hz7Ql7fSNi1FBt6u1iU3I+HiSnmd4LNj8D5kusBPv3A+hl9n1lDyW03DOEvH8foxVLYgwSc81ZuFC3BlGH+Wo61vH9sONEHH3R1CY7EXzlx7M9WynL/Tfu69K35yVaOVS31NQRemIs/f00EkmgRyV7YIyfXwz24bMqa9eWt8Q42sGSPyDgSkRssNqz1kFVpU1BeDM44GFnPrFFmysqJ5rp5kKxHZOYlmP0BIuDFbyzsE3QAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.banrep.gov.co/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

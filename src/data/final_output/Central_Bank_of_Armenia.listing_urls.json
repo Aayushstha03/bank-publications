@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/reports",
+        "title": "Reports | CBA - Կենտրոնական բանկ",
+        "text": "(2025.1) Monetary policy program implementation report (Q2 2024 – Q1 2025) A low inflation environment persisted in the Republic of Armenia from the second ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cba.am/en/Publications",
+        "title": "Publications | CBA",
+        "text": "Core functions · Combating Money Laundering and Terrorism Financing; Publications. Combating Money Laundering and Terrorism Financing.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/history-and-evolution-of-monetary-policy-in-armenia",
+        "title": "History and Evolution of Monetary Policy in Armenia | CBA",
+        "text": "This subsection outlines the early history and evolution of the Armenian monetary policy. It covers the introduction of the Armenian dram in 1993, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/monetary-policy-tools-and-instruments/",
+        "title": "Monetary Policy Tools and Instruments | CBA",
+        "text": "The CBA board makes decisions on monetary policy and sets the refinancing rate eight times per year, at fixed action dates.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/pillars-of-effective-monetary-policy",
+        "title": "Pillars of Effective Monetary Policy | CBA",
+        "text": "This subsection discusses the importance of Central Bank independence in achieving the CBA's primary objectives of price stability and financial stability.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/articles-and-speeches/",
+        "title": "Articles and speeches | CBA - Կենտրոնական բանկ",
+        "text": "Central Bank of Armenia (CBA) is leading Armenia's digital transformation in financial markets, which is a key priority under its strategy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cba.am/en/press-releases/",
+        "title": "Press releases | CBA",
+        "text": "The Central Bank of Armenia has joined the Global Financial Innovation Network (GFIN) with the aim of strengthening regulatory capabilities and promoting ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cba.am/en/News/",
+        "title": "News | CBA",
+        "text": "Representatives of the Central Bank of Armenia Participated in the Regional Forum of the Black Sea Trade and Development Bank.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/research/international/dgei/policy",
+        "title": "Short-term official/policy rates - Dallasfed.org",
+        "text": "Short-term official/policy rates ... Get analysis, research, resources and event information delivered directly to your inbox. Subscribe. Follow the Dallas Fed.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/news/speeches/logan",
+        "title": "Speeches by President Lorie K. Logan - Dallasfed.org",
+        "text": "Find the full text for President Logan's prepared public remarks. This listing includes older speeches and essays from her years with the Federal Reserve Bank ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.dallasfed.org/news/speeches/kaplan",
+        "title": "Essays and speeches by former President Robert S. Kaplan, 2015–21",
+        "text": "Essays and speeches by former President Robert S. Kaplan, 2015–21 · A Discussion of Economic Conditions, Key Secular Trends and the Limits of Monetary Policy",
+        "listing_probability": 0.92
+      },
+      {
+        "url": "https://www.dallasfed.org/news/speeches/fisher",
+        "title": "Speeches by former President Richard W. Fisher, 2005–15",
+        "text": "\"'Audit the Fed' is nothing more than an attempt to override purely economic judgments and bend monetary policy to the will of politicians. It is misguided.\"",
+        "listing_probability": 0.3
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/research/papers",
+        "title": "Working papers - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Working papers from the Federal Reserve Bank of Dallas are preliminary drafts circulated for professional comment.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.dallasfed.org/research/international/global/global-wpapers",
+        "title": "Global Institute working papers - Dallasfed.org",
+        "text": "Working papers from the Global Institute provide critical insights on trade, immigration, and other major international issues, along with in-depth analysis ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

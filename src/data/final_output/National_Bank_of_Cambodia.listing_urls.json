@@ -1,0 +1,36 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.nbc.org.kh/english/publications/annual_reports.php",
+        "title": "NBC Annual Reports",
+        "text": null,
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/publications/supervision_annual_reports.php",
+        "title": "Supervision Annual Reports",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.nbc.org.kh/english/news_and_events/speeches.php",
+        "title": "Speeches",
+        "text": "Remarks by HE Dr. Chea Serey, Governor of the National Bank of Cambodia at the Official Launching Ceremony of Cross-Border QR Code Payment.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/news_and_events/news.php",
+        "title": "All News",
+        "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
+        "listing_probability": 0.99
+      }
+    ]
+  }
+]

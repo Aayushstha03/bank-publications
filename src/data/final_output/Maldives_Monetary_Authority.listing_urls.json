@@ -1,0 +1,70 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "http://www.mma.gov.mv/#/research/statisticalPublications/mstat/Monthly%20Statistics",
+        "title": "Monthly Statistics - Maldives Monetary Authority",
+        "text": "Monthly Statistics provides selected economic and financial data as provided by the respective government authorities, commercial banks, and financial ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/research/statisticalPublications/pb/Payments%20Bulletin",
+        "title": "Payments Bulletin - Maldives Monetary Authority",
+        "text": "Payments Bulletin is an annual publication of the MMA. The bulletin provides an overview of the Maldivian Payments Landscape.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/research/publication/reports/qeb/Quarterly%20Economic%20Bulletin",
+        "title": "Quarterly Economic Bulletin - Maldives Monetary Authority",
+        "text": "Quarterly Economic Bulletin provides detailed information about recent developments in the domestic and international economy.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "http://www.mma.gov.mv/#/research/reports/rpnotes/Research%20and%20Policy%20Notes",
+        "title": "Research and Policy Notes - Maldives Monetary Authority",
+        "text": "Research and Policy Notes cover in-depth research and analysis carried out by the staff of the Maldives Monetary Authority for both internal and external ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "http://www.mma.gov.mv/#speeches",
+        "title": "Speeches - Maldives Monetary Authority",
+        "text": "Press Releases · Speeches · Jobs · Procurement.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/speeches/Speech01.html",
+        "title": "Speeches - Maldives Monetary Authority",
+        "text": "Speech by Dr. Azeema Adam, Governor of the Maldives Monetary Authority at the Opening Ceremony of the Commercial Bank of Maldives, Hotel Jen, Male",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/speeches/Speech08.html",
+        "title": "Speeches - Maldives Monetary Authority",
+        "text": "I am deeply honored to speak at this important and significant Conference, one which is very relevant and important in the development of the financial sector ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "http://www.mma.gov.mv/#research/publication",
+        "title": "Research Publications",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

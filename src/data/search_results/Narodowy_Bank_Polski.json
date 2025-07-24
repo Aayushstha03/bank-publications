@@ -1,0 +1,205 @@
+{
+  "Bank Name": "Narodowy Bank Polski",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/en/publications/cyclical-materials/real-estate-market/annual-report/",
+                "title": "Real estate market – Annual report | Publications - NBP",
+                "text": "The Report is aimed to provide the concerned economic agents, including real estate market participants, with as complete, reliable and objective information ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://cp.nbp.pl/en/publications/",
+                "title": "Publications",
+                "source": "Centrum Pieniądza NBP - Narodowy Bank Polski",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cp.nbp.pl&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://cp.nbp.pl/wp-content/uploads/2024/04/eng-bankoteka-27.png",
+                "position": 2
+              },
+              {
+                "url": "https://cp.nbp.pl/en/publications/",
+                "title": "Publications",
+                "source": "Centrum Pieniądza NBP - Narodowy Bank Polski",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cp.nbp.pl&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://cp.nbp.pl/wp-content/uploads/2024/04/eng-bankoteka-25.png",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://nbp.pl/en/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/en/payment-system/statistical-data/",
+                "title": "Statistical data | Payment system - NBP",
+                "text": "Statistical data | Payment system. Analyses and studies | Payment cards | Assessment of the Polish payment system functioning | Polish Payment System ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://nbp.pl/en/publications/information-bulletin/",
+                "title": "Information Bulletin - NBP",
+                "text": "A monthly publication containing basic information on overall economic and financial performance in Poland and on the policies of the central bank.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://nbp.pl/en/statistic-and-financial-reporting/monetary-and-financial-statistics/banking-sector-financial-data/",
+                "title": "Banking sector financial data - NBP",
+                "text": "The tables include monthly aggregated banking sector information (banks and branches of credit institutions) based on solo financial reporting, ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://nbp.pl/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/en/monetary-policy/",
+                "title": "Monetary Policy | NBP",
+                "text": "According to the Monetary Policy Guidelines, monetary policy parameters, including NBP interest rates, are adjusted to the economic situation so as to ensure ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://nbp.pl/en/payment-system/regulations/",
+                "title": "Payment system in Poland - Regulations - NBP",
+                "text": "Regulation of the Governor of Narodowy Bank Polski on the manner of performing interbank clearing and interbank settlements.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://nbp.pl/en/monetary-policy/mpc-documents/monetary-policy-guidelines/",
+                "title": "Monetary Policy Guidelines | Narodowy Bank Polski",
+                "text": "This publication presents the monetary policy guidelines approved annually by the Monetary Policy Council and subsequently submitted to the Sejm for its ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:https://nbp.pl/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/en/monetary-policy/mpc-documents/monetary-policy-council-press-releases/",
+                "title": "Monetary Policy Council Press Releases - NBP",
+                "text": "Monetary Policy Council Press Releases · Information from the meeting of the Monetary Policy Council held on 1-2 July 2025 · Information from the meeting of the ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://nbp.pl/en/press-release-of-the-financial-stability-committee-after-its-meeting-on-macroprudential-supervision-6/",
+                "title": "Press release of the Financial Stability Committee after its meeting on ...",
+                "text": "The meeting of the Financial Stability Committee on 27 June 2025 was attended by: Artur Soboń, Member of the Management Board of Narodowy Bank ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "published_time": "2025-06-27T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://nbp.pl/en/about-nbp/contact/media-relations/press-release-2/",
+                "title": "Press release of Narodowy Bank Polski on its involvement in ... - NBP",
+                "text": "The NBP Management Board welcomes banks' initiatives aimed at reducing the legal risk of FX housing loans via agreements with borrowers. In this context, the ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:https://nbp.pl/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/en/publications/research-papers/working-papers/",
+                "title": "NBP Working Papers | Narodowy Bank Polski",
+                "text": "The mission of the NBP Working Papers is to support and promote research in economics and finance, in particular in the field of macroeconomics, central banking ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://nbp.pl/en/publications/research-papers/",
+                "title": "Research Papers | Publications - NBP",
+                "text": "Research Papers. Publications | NBP working Papers | Publications of the NBP staff in the ISI Master Journal List | Bank and Credit.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://nbp.pl/en/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

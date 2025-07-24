@@ -1,0 +1,76 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbl.org.lr/general/all-publications",
+        "title": "Publications | Central Bank of Liberia",
+        "text": "Publication Categories: Balance of Payment Reports, Bank Restructuring and Resolution, Bidding Forms, Bids & EOIs, Bilateral Exchange Rate, CBL Annual Reports.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/research-publications",
+        "title": "Research Publications | Central Bank of Liberia",
+        "text": "Research Publications · 6TH EDITION 2024 LIBERIA FINANCIAL STATISTICS · 4TH EDITION LFS 2024 · August 2024 Monthly Economic Review · THIRD QUARTER 2024 FINANCIAL ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/cbl-annual-reports",
+        "title": "CBL Annual Reports | Central Bank of Liberia",
+        "text": "CENTRAL BANK OF LIBERIA (CBL) 2024 ANNUAL REPORT. Thursday, March 28, 2024. CBL Annual Report - 2023. Monday, July 3, 2023. CBL Annual Report - 2022.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/economic-bulletin",
+        "title": "Economic Bulletin | Central Bank of Liberia",
+        "text": "Economic Bulletin Tuesday, August 27, 2024 Financial and Economic Bulletin Volume 25, No. 2 - April - June 2024",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/statistical-data-series",
+        "title": "Statistical Data Series | Central Bank of Liberia",
+        "text": "Statistical Data Series ; Wednesday, October 2, 2019. Balance of Payments ; Thursday, April 19, 2018. International Trade on Services ; Wednesday, April 18, 2018.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/regulations",
+        "title": "Regulations | Central Bank of Liberia",
+        "text": "Prudential Regulations for Asset Classification Provisions for Loan Losses and Suspension of Interest on Non-Performing Loans and Advances",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/rules-and-regulations",
+        "title": "Rules and Regulations | Central Bank of Liberia",
+        "text": "Rules and Regulations Tuesday, October 12, 2021 Regulation Concerning the Licensing and Regulatory Requirements for Discount Houses in Liberia",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbl.org.lr/media/news-press-release",
+        "title": "News and Press Releases | Central Bank of Liberia",
+        "text": "News and Press Releases ; Wednesday, June 18, 2025. IMF Staff Concludes Visit to Liberia ; Tuesday, June 10, 2025. CBL Clarifies Insurance Bond Directive: Reform ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbl.org.lr/media/news-press-release?field_media_type_target_id=178",
+        "title": "News and Press Releases - Central Bank of Liberia",
+        "text": "News and Press Releases ; Wednesday, June 18, 2025. IMF Staff Concludes Visit to Liberia ; Tuesday, June 10, 2025. CBL Clarifies Insurance Bond Directive: Reform ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

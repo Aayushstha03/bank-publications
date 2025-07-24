@@ -1,0 +1,64 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bch.hn/EN/Estadisticos/EME/Paginas/Publications-and-Reports.aspx",
+        "title": "Estadísticas Macroeconómicas Publications and Reports",
+        "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bch.hn/EN/economical-statistics",
+        "title": "Análisis Macroeconómico Economical Statistics",
+        "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bch.hn/EN/economical-statistics/monetary-sector/other-sectorization-ems",
+        "title": "Sectorization of Monetary and Financial Statistics",
+        "text": "Other - Sectorization of Monetary and Financial Statistics. Contenido de la página. ​​​​​​​​​​​​​​​. ​​ ​. Logo_BCH. Banco Central de Honduras.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bch.hn/EN/Operativos/OPM/Paginas/Credit-Policy.aspx",
+        "title": "Operaciones Monetarias Credit Policy - Banco Central de Honduras",
+        "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bch.hn/EN/institutional-policies/monetary-policy/monetary-policy-descriptive-framework",
+        "title": "Operaciones Monetarias Monetary Policy Descriptive Framework",
+        "text": "The main policy instruments used by the COMA for the fulfillment of its objectives are Open Market Operations and the Monetary Policy Rate. The COMA is ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bch.hn/EN/institutional-policies/exchange-policy/exchange-policy-descriptive-framework",
+        "title": "Internacional Exchange Policy Descriptive Framework",
+        "text": "Objective and Goal. The objective of exchange rate policy, in congruence with monetary policy, is to ensure the maintenance of the internal and external ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bch.hn/EN/Administrativas/RI/Paginas/Press.aspx",
+        "title": "Relaciones Institucionales Press - Banco Central de Honduras",
+        "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]

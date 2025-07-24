@@ -1,0 +1,27 @@
+{
+  "Bank Name": "Central Bank of Jordan",
+  "search_results": [
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbj.gov.jo/En/Modules/News",
+                "title": "News - Central Bank of Jordan",
+                "text": "News · The Open Market Operations Committee decides to maintain interest rates on all monetary instruments · The Central Bank of Jordan organizes the first ...",
+                "source": "البنك المركزي الاردني",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABU1BMVEVHcEzi4+Td4OT9/v5qd4KPjo/MzM36+fr////+/v/3+Prq6u3+/v+3vcT4+Pny8vTJy9Tt7O7Mz9T////09PXx8PH29vrAxs3l5uft7/Hd3+PGx8Xl5ej19PaQm6Py8/Xo6ey2tbb9/v7JytO+vr+mr7Lc3d3Q09Ts7e/d2tqTlJd/gYR7fHz////29Pf9+/zv7vDz8fSysbHT0tPt5ebAwMFiYWNDQUR5eHaAgH9ZWlhwb3KdmpYKBg4xLDG8urpLS0k7Nzrv6ure3t3n6etVU1YoJSf47ezTRDTaZ1yMPyiioqLYl4/X7vXgopzxxr6Hg4esq6wZFhqzWlDJYlXi0czrm2rvvK7f29TWgHqiQCXakYH10M3u1tTH6+vrjh7hiFB0lZGCMxjIGwDitaPYxq7NKABrWEHedwGqdVXXdUHiTjjkTDH9pTiiim+mzsbeu70y3tHRAAAAM3RSTlMA/jW9Cf79/tr+nr7qTvuUE+IqxvHLzyJ1iGb7RuA+aqv7rV3ziryR9fTliLv///////5sAcPTAAACTElEQVQokWWT53vaMBDGbYwty0CJWRmE7HSf98bsDWGE7D2bNN3//6fKTtqkT++DZD+/e6U76RVFPUU0srCS4/nsxw+LM9S/EV2cj8XETDyef59jhOXZlyw1F2vSHE2bJquDSovJSPSZJd82847LuVWnQptFV8fpxB+aWsO4WaweVlotn1stDgzDkJknOitggEGVra9qnG5ua65f0RoovRTWMieDzHoukiEIGRTPs/IKFoKqEllOd222I5Oc0SjI0Gv2AEmZBSJ8Q1tWiwtVZzc3W8GsWLapqisz1NJr2WwVQwYHd3fdxy/HdurZdWqTB7AC2Ot2e+Pxt6+9I0T+/KrGCxQTB9AmAKfd3lEHoHPS64ZLc3Q8R/FBniTD6dGvnVuy7ehstPu4NCpQvGhKgCTonG71+w8nx9e+sYWDkv0NnuK5tgekjfFu/953H34498ehcrvMEpip2UFzJ8fVn+cXnz+de/2dAFbKqzyVjlt2sO1B/+r8kMDh1XUItbaYo+Z5rayTU1PqwyH9/WJvqBh7QbLr8UlqiZHLpE2kqMrh3v7+bVOVjDpAo62l16loEiolnSgVxRhfXh5IUgCRXZMFYpdEGrfKKkiqKqH9L3VJUhUEVtuML4dXhvRSFWQiQUgho6qCNnUgGRopJeBJiQWMcHifhOpTBzORR5tE1pBW224o4aFh5NR8BZi/JooImVdmucQ2KqzWGJQsjJnEC2sux1Rj4tnt6bSo5aXcfOSlcWeIqbOFzDttQ8zGkgv/eZ48B1EsFGJzz8/hN8GYdqjAKWrXAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbj.gov.jo/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

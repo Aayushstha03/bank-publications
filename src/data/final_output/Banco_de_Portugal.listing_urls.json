@@ -1,0 +1,105 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/page/list-publications-banco-de-portugal",
+        "title": "List of publications of the Banco de Portugal",
+        "text": "#Lusofonia · Annual Report · Annual Report on Cooperation · Banking Conduct Supervision Report · Bank Lending Survey · Central Balance Sheet Studies · Coincident ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/banco-de-portugals-publications-available-through-new-app",
+        "title": "Banco de Portugal's publications available through new app ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/page/statistics",
+        "title": "Statistics | Banco de Portugal",
+        "text": "The Banco de Portugal collects and compiles monetary, financial, foreign exchange and balance of payments statistics.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bportugal.pt/en/page/i-statistics-currency-issuance",
+        "title": "I. Statistics on currency issuance | Banco de Portugal",
+        "text": "Access the data domain Cash issuance of BPstat and explore the various tables matching the Statistical Bulletin publication in the sections below. To download ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/statistical-press-release-statistics-corporations-central-balance-sheet-database-2nd-3",
+        "title": "2016 Statistics on corporations in the Central Balance Sheet Database",
+        "text": "Banco de Portugal releases today, in table A.19 of the Statistical Bulletin and in BPstat, statistics on corporations in the Central Balance Sheet Data-.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-63",
+        "title": "Monetary policy decisions - European Central Bank",
+        "text": "12 December 2024. The Governing Council today decided to lower the three key ECB interest rates by 25 basis points.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-3",
+        "title": "Monetary policy decisions - European Central Bank",
+        "text": "The Governing Council today decided to raise the three key ECB interest rates by 50 basis points and it expects to raise them further.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions",
+        "title": "Monetary policy decisions - European Central Bank",
+        "text": "The Governing Council is determined to ensure that inflation returns to its 2% medium-term target in a timely manner. It therefore today decided ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-statement-27",
+        "title": "PRESS CONFERENCE - European Central Bank",
+        "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-statement-26",
+        "title": "PRESS CONFERENCE - European Central Bank",
+        "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-statement-25",
+        "title": "PRESS CONFERENCE - European Central Bank",
+        "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/page/banco-de-portugal-research-agenda",
+        "title": "Banco de Portugal Research Agenda | Banco de Portugal",
+        "text": null,
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bportugal.pt/en/evento/workshop-empirical-research-ai-era-bplim",
+        "title": "WORKSHOP ON EMPIRICAL RESEARCH IN THE AI ERA | BPLIM | Banco ...",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

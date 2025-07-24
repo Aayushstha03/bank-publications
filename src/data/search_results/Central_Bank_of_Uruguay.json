@@ -1,0 +1,109 @@
+{
+  "Bank Name": "Central Bank of Uruguay",
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Paginas/Statistics-Studies.aspx",
+                "title": "Páginas - Statistics-Studies - BCU",
+                "text": "This section includes information related to a wide range of indicators, data and statistics compiled and published by the CBU. It includes information on Money ...",
+                "source": "bcu.gub.uy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Paginas/Data-Processing-Service.aspx",
+                "title": "Páginas - Data-Processing-Service - BCU",
+                "text": "Management, Accounting and Data Processing Service Providers are natural or legal entities who from our country provide these services directly related to ...",
+                "source": "Portada - bcu.gub.uy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcu.gub.uy/ingles (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Paginas/Process-to-issue-regulations.aspx",
+                "title": "Páginas - Process-to-issue-regulations - BCU",
+                "text": "The proposed regulation is subject to different internal and external verification and validation procedures throughout the process. Control mechanisms are ...",
+                "source": "Portada - bcu.gub.uy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Paginas/Monetary-Policy.aspx",
+                "title": "Páginas - Monetary-Policy - BCU",
+                "text": "a) Provides advice to the Board for determining monetary policy guidelines and parameters. b) Monitors and evaluates the money market, the short term ...",
+                "source": "Portada - bcu.gub.uy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Documents/Monetary%20Policy%20Committee%20Communiqu%C3%A9%20-%20November%202022.pdf",
+                "title": "Leonardo Vicente, Manager of Monetary Policy - BCU",
+                "text": "From left to right: Leonardo Vicente, Manager of Monetary Policy; Adolfo Sarmiento, Manager of Economic Policy and Markets; Cristina Rivero, Head of Financial ...",
+                "source": "Portada - bcu.gub.uy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcu.gub.uy/ingles (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Documents/Comunicado%20CCDP%2030_06_2018_ingles.pdf",
+                "title": "Public Debt Coordination Committee Press Release",
+                "text": "o Analysis of the local and international financial context, as well as price evolution of Uruguayan government securities, liquidity in secondary.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Documents/Financial%20Stability%20Committee%20Press%20Release.pdf",
+                "title": "Financial Stability Committee Press Release - BCU",
+                "text": "that it has the capacity to withstand the present and future performance of the economy, and to address the impacts of possible sources of risk.",
+                "source": "Portada - bcu.gub.uy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcu.gub.uy/Ingles/Documents/Comunicado%20CCDP%2023_03_2018_%20ingles.pdf",
+                "title": "Public Debt Coordination Committee Press Release",
+                "text": "o Analysis of the local and international financial context as well as changes in currency and term preferences of investors, and their effect on.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEzmrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl3mrl0Z2g6xAAAAEXRSTlMAzQi+mil/FtlDZ/TsreX+VlI8L0cAAAEqSURBVHgBfZAHtuAgCEVFUFHwkf2vdvAXM/2m5x5q+QWq5d+w/Ns15v7X2NrqYGYdreXXmDegr9lL75WMuckstcq6Qd3Y5yQhUqU9Fm20cllhzh7gUA9Rjf3KSggKuBvD3MMUs1xa2nDHCbT0NGr9Vs/sEWERiIP5fvq43ZLD04XHIUP5+XZzbPOUXzhgzxi1HBbUVM2/nMFAUDlyqBFT5HlRzpM8epHed2oL/QoFUqmSPCUZskWhcXE4bz3uUMXN4sV0f0+SoWzmx+IYOLCl3SU0Clji4WF5rDFvaE7jhuPIwuGqq7zO1RJXJaT1gLyyncEeGDhDrStFf2XH2mOyAMRrzwlxqTftmWn2QklZq8w65ztLScZoTtzzpZa/MB7e5d8Il/9w5nv5ARMYEbS20CwVAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcu.gub.uy/ingles (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

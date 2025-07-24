@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/publications-and-statistics/publications",
+        "title": "Publications | Bank of Mauritius",
+        "text": "The Bank of Mauritius publishes its Annual Report for the year ended June. As from June 2011, the Annual Report of the Bank also covers developments in the area ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bom.mu/financial-stability/financial-stability/reports",
+        "title": "Reports - Bank of Mauritius |",
+        "text": "The reports include a review of price and financial stability, and an assessment of the policies of the Bank in relation thereto.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bom.mu/publications-and-statistics",
+        "title": "Publications and Statistics | Bank of Mauritius",
+        "text": "The Bank of Mauritius publishes its Annual Report for the year ended June. As from June 2011, the Annual Report of the Bank also covers developments in the area ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/publications-statistics/monthly-statistical-bulletin",
+        "title": "Monthly Statistical Bulletin - Bank of Mauritius |",
+        "text": "Monthly Statistical Bulletin ; 21 July 2025. Monthly Statistical Bulletin - June 2025 ; 20 June 2025. Monthly Statistical Bulletin - May 2025 ; 20 May 2025.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bom.mu/publications-statistics/monthly%20statistical%20bulletin",
+        "title": "monthly statistical bulletin - Bank of Mauritius |",
+        "text": "Monthly Statistical Bulletin - June 2025 · 21/07/2025 ; Monthly Statistical Bulletin - May 2025 · 20/06/2025 ; Monthly Statistical Bulletin - April 2025 · 20/05/2025 ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bom.mu/publications-and-statistics/statistics/external-sector-statistics/remittances",
+        "title": "Remittance Statistics | Bank of Mauritius",
+        "text": "The Bank compiles remittance statistics from banks and foreign exchange dealers to meet the requirements of two different initiatives at the national level.",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/monetary-policy/monetary-policy-framework",
+        "title": "monetary policy framework | Bank of Mauritius",
+        "text": "Communiqué: A New Framework for the Conduct of Monetary Policy by the Bank of Mauritius · Key Rate. 4.50 %. 07 May 2025. Overnight Interbank Rate.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bom.mu/monetary-policy/monetary-policy",
+        "title": "Monetary Policy | Bank of Mauritius",
+        "text": "Monetary policy is a term used to refer to the actions of central banks to achieve macroeconomic policy objectives such as price stability, full employment, ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/media/speeches",
+        "title": "Speeches | Bank of Mauritius",
+        "text": "Keynote Speech by Mr Harvesh Seegolam, Governor, Bank of Mauritius on Development of financial markets and digital transformation in Mauritius.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bom.mu/latest-news-archives",
+        "title": "Latest News | Bank of Mauritius",
+        "text": "17/07/2025 Speech of Dr Rama Krishna Sithanen, G.C.S.K., Governor of the Bank of Mauritius, at the University of Mauritius International Research Symposium ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

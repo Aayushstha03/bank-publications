@@ -1,0 +1,70 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/rreth-bqk/cbk-annual-reports-archive/?lang=en",
+        "title": "CBK Annual Reports Archive - BQK",
+        "text": "The CBK Annual Report provides an overview of the economic developments in Kosovo, in the region and in the world economy, with special focus on the financial ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bqk-kos.org/news-category/publications/",
+        "title": "Publications Archives - BQK",
+        "text": "Linqet e shpejta ... Regjistrohu në buletinin tonë për publikimet e fundit, lajmet kryesore dhe raportet financiare. Regjistrohu icon · Lehtësia e qasjes ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/news/balance-of-payments-statistics-for-june-2024-are-published/?lang=en",
+        "title": "Balance of Payments statistics for June 2024 are published - BQK",
+        "text": "The balance of payments at the end of June 2024 was characterized by a current account deficit of 681.40 million euros, with an increase of 135.28 million ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://bqk-kos.org/news/publication-of-statistics-of-commercial-banks-for-april-2024/?lang=en",
+        "title": "Publication of statistics of commercial banks for April 2024 - BQK",
+        "text": "The assets of commercial banks, at the end of April 2024, reached the value of 7.39 billion euros, marking a decrease of 1.28% compared to the previous month.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/news/governor-ismaili-addresses-panel-on-the-promise-of-macro-prudential-policy-at-reykjavik-economic-conference/?lang=en",
+        "title": "Governor Ismaili addresses panel on the promise of Macro-Prudential ...",
+        "text": "The conference, renowned for its insightful discussions on economic issues of global significance, provides a platform for policymakers and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/rreth-bqk/guvernatori-i-bqk-se/governors-speeches-and-interviews-archive/?lang=en",
+        "title": "Governor's Speeches and Interviews Archive - BQK",
+        "text": "Governor's Speeches and Interviews Archive. The latest. The latest. The oldest. Filter speeches. Choose the year. 2023 2022 2021 2020 2019. Choose the date.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://bqk-kos.org/news/cbk-board-press-release/?lang=en",
+        "title": "CBK Board Press Release - BQK",
+        "text": "The Board of the Central Bank of the Republic of Kosovo, in the meeting held on March 29, 2023, made the following decision.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bqk-kos.org/news/press-release-4/?lang=en",
+        "title": "Press Release - BQK",
+        "text": "The Panel for the selection of the Governor of the Central Bank has sent to the Assembly of Kosovo and the Government, the list of selected candidates as ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

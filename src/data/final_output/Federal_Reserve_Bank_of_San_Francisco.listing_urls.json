@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/sf-fed-data-explorer/app/",
+        "title": "Welcome to the SF Fed Data Explorer",
+        "text": "Welcome to the SF Fed Data Explorer. Start by choosing a Data Category tab and the display options and statistics you are interested in.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/",
+        "title": "Data and Indicators - San Francisco Fed",
+        "text": "The Economic Research Department provides recurring updates of specific data sets related to its research. Topics include inflation, excess savings,",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/banking-and-economic-data/economic-data/",
+        "title": "Economic Data - San Francisco Fed",
+        "text": "The following links provide economic data on a national, regional, and/or state level. This data is derived from a variety of sources.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/teacher-resources/what-is-the-fed/monetary-policy/",
+        "title": "The Fed Explained - Monetary Policy - Federal Reserve Board",
+        "text": "The Fed sets the stance of monetary policy to influence short-term interest rates and overall financial conditions with the aim of moving the economy toward ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/11/monetary-policy-stance-is-tighter-than-federal-funds-rate/",
+        "title": "Monetary Policy Stance Is Tighter than Federal Funds Rate",
+        "text": "This proxy measure shows that, since late 2021, monetary policy has been substantially tighter than the federal ...",
+        "listing_probability": 0.01
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2016/08/monetary-policy-and-low-r-star-natural-rate-of-interest/",
+        "title": "Monetary Policy in a Low R-star World - San Francisco Fed",
+        "text": "Central banks and governments around the world must be able to adapt policy to changing economic circumstances.",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/news-and-media/speeches/",
+        "title": "Speeches - San Francisco Fed",
+        "text": "News & Media. Speeches. Speeches by San Francisco Federal Reserve Bank President and Chief Executive Officer Mary C. Daly: Mary C. Daly's Speeches.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/daily-news-sentiment-index/",
+        "title": "Daily News Sentiment Index - San Francisco Fed",
+        "text": "The Daily News Sentiment Index is a high frequency measure of economic sentiment based on lexical analysis of economics-related news articles.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/",
+        "title": "The Latest News and Events from the SF Fed",
+        "text": "Catch up on all the latest news highlights, events, and press releases from the SF Fed. Request information, speakers, or contact us.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/working-papers/",
+        "title": "Working Papers - San Francisco Fed",
+        "text": "Working Papers. Academic research by SF Fed economists and affiliates intended for publication in scholarly journals. Information Acquisition and the Finance ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/publications/",
+        "title": "Hong Kong Monetary Authority - Publications",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/monthly-statistical-bulletin/",
+        "title": "Monthly Statistical Bulletin - Hong Kong Monetary Authority",
+        "text": "The Monthly Statistical Bulletin (MSB) is released, in two batches, on the 3rd and 6th business days of each month. General Notes and Abbreviations.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/monthly-statistical-bulletin/table/",
+        "title": "Monthly Statistical Bulletin - Hong Kong Monetary Authority",
+        "text": "Monthly Statistical Bulletin · Section 1: Financial statistics summary · Section 2: Money · Section 3: Banking · Section 4: Money markets and debt ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/",
+        "title": "Data & Statistics - Hong Kong Monetary Authority",
+        "text": "Daily Monetary Statistics, Monthly Statistical Bulletin, Economic & Financial Data for Hong Kong, CMU Bond Price Bulletin",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.hkma.gov.hk/eng/regulatory-resources/regulatory-guides/supervisory-policy-manual/",
+        "title": "Supervisory Policy Manual - Hong Kong Monetary Authority",
+        "text": "This Manual sets out the HKMA's latest supervisory policies and practices, the minimum standards authorized institutions (AIs) / approved money brokers (AMBs) ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/",
+        "title": "Speeches - Hong Kong Monetary Authority",
+        "text": "Speeches · 14 Jul 2025 · Opening remarks at HKIMR-IMF-BIS Joint Conference “Sustaining Financial Stability amid Uncertainty, Fragmentation and Rapid Innovation”",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
+        "title": "Press Releases - Hong Kong Monetary Authority",
+        "text": "Press Releases · Scam alert related to banks · Tender results of 10-year HKD HKSAR Institutional Government Bonds · Tender results of the re-opening of 3-year HKD ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/speeches-publications/",
+        "title": "Speeches & Publications - Hong Kong Monetary Authority",
+        "text": "The senior management of the HKMA delivers speeches & issues publications and those related to AML/CFT are covered below.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/research/",
+        "title": "Hong Kong Monetary Authority - Research",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

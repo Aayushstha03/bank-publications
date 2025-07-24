@@ -1,0 +1,211 @@
+{
+  "Bank Name": "Bank of Estonia",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.eestipank.ee/en/publications",
+                "title": "Publications | Eesti Pank",
+                "source": "Eesti Pank",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2023-05/epaa2022_en.jpg?itok=CxSDAg-h",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/archive",
+                "title": "Archive | Publications | Eesti Pank",
+                "source": "Eesti Pank",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2023-08/teemapaber2016.jpg?itok=e7OPDMMe",
+                "position": 2
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/archive",
+                "title": "Archive | Publications | Eesti Pank",
+                "source": "Eesti Pank",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2023-08/en_toimetised.jpg?itok=pxOJutnF",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.eestipank.ee/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.eestipank.ee/en/statistics",
+                "title": "Statistics | Eesti Pank",
+                "text": "Eesti Pank compiles and publishes Estonia's national balance of payments, and collects and disclosures statistics that are necessary for it to execute its ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/statistics-department",
+                "title": "Statistics Department | Eesti Pank",
+                "text": "The Statistics Department consists of three divisions. The Financial Sector Statistics Division produces statistics for the financial sector.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.eestipank.ee/en/museum/statistics-numerical-facts-about-economy",
+                "title": "Statistics: numerical facts about the economy - Eesti Pank",
+                "text": "Eesti Pank mostly produces external and financial sector statistics and quarterly financial accounts for the national economy.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.eestipank.ee/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.eestipank.ee/en/monetary-policy/monetary-policy-instruments",
+                "title": "Monetary policy instruments | Eesti Pank",
+                "text": "Monetary policy instruments · Open market operations · Standing facilities · Reserve requirement for credit institutions · Forward guidance.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/monetary-policy",
+                "title": "Monetary policy | Eesti Pank",
+                "text": "As a member of the Eurosystem, Eesti Pank participates in setting its monetary policy, taking the decisions needed for it, and implementing those decisions.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2024/estonian-economy-and-monetary-policy-22024",
+                "title": "Estonian Economy and Monetary Policy 2/2024 - Eesti Pank",
+                "text": "Increasing demand will contribute to growth in the economy alongside the expected increase in foreign trade, primarily because the purchasing power of people ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations ppt",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.eestipank.ee/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.eestipank.ee/en/press",
+                "title": "Press releases | Eesti Pank",
+                "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/press/economic-policy-statements",
+                "title": "Press releases - Eesti Pank",
+                "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.eestipank.ee/en/press/economic-policy-statements/2017-07",
+                "title": "Press releases | Eesti Pank",
+                "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.eestipank.ee/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.eestipank.ee/en/publications/working-papers",
+                "title": "Working Papers | Publications - Eesti Pank",
+                "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/working-papers",
+                "title": "Working Papers | Publications | Eesti Pank",
+                "source": "Eesti Pank",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2025-05/wp_2025-05.png?itok=6_LoIEeL",
+                "position": 2
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/working-papers",
+                "title": "Working Papers | Publications | Eesti Pank",
+                "source": "Eesti Pank",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2022-03/wp_4_2022.png?itok=v2kfTug5",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.eestipank.ee/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

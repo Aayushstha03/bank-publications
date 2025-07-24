@@ -1,0 +1,117 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/important-documents-and-publications-on-the-monetary-policy-framework-626078",
+        "title": "Important documents and publications on the monetary policy ...",
+        "text": null,
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bundesbank.de/en/publications/reports/monthly-reports/current-monthly-reports--764440",
+        "title": "Current Monthly Reports | Deutsche Bundesbank",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bundesbank.de/en/publications/publications-934486",
+        "title": "Publications | Deutsche Bundesbank",
+        "text": "Current publications. You can find further publications in digital form via the navigation on the left or via the search function.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/statistics",
+        "title": "Statistics | Deutsche Bundesbank",
+        "text": "The Bundesbank's Statistics section provides a comprehensive overview of current and historical data at both the national and international levels.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bundesbank.de/en/publications/statistics",
+        "title": "Statistics | Deutsche Bundesbank",
+        "text": "Banking statistics, capital market statistics, balance of payment statistics, Seasonally adjusted business statistics, exchange rate statistics, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/vjkre-618014",
+        "title": "Quarterly borrowers statistics (VJKRE - Deutsche Bundesbank",
+        "text": "These statistics provide an insight into the structure of and developments in the lending business with the most important groups of private borrowers.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-decisions/monetary-policy-decisions-625926",
+        "title": "Monetary policy decisions | Deutsche Bundesbank",
+        "text": "The objective of the monetary policy decisions taken by the Governing Council of the ECB is to ensure price stability – the main aim of the Eurosystem's ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/review-of-the-operational-framework-for-implementing-monetary-policy-943062",
+        "title": "Review of the operational framework for implementing monetary policy",
+        "text": "On 13 March 2024, the ECB Governing Council decided on changes to the operational framework for implementing monetary policy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework",
+        "title": "Monetary policy framework | Deutsche Bundesbank",
+        "text": "The Eurosystem's operational framework for implementing monetary policy comprises the general rules for Eurosystem monetary policy instruments and procedures.",
+        "listing_probability": 0.7
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/press/speeches",
+        "title": "Speeches | Deutsche Bundesbank",
+        "text": "Here you find speeches of the current and past members of the Executive Board of the Deutsche Bundesbank from the past ten years. Speeches of the former ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bundesbank.de/dynamic/action/en/press/press-releases/730186/press-releases",
+        "title": "Press releases | Deutsche Bundesbank",
+        "text": "Hier können Sie nach Pressenotizen der Deutschen Bundesbank und Pressemitteilungen der Europäischen Zentralbank suchen.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bundesbank.de/en/press/press-materials",
+        "title": "Press materials | Deutsche Bundesbank",
+        "text": "Compilation of press information on special Bundesbank events.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/tasks/topics/research-centre-publishes-its-1-000th-discussion-paper-873836",
+        "title": "Research Centre publishes its 1,000th discussion paper ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/your-research-project-at-the-rdsc/your-research-project-at-the-rdsc-617236",
+        "title": "Your research project at the RDSC | Deutsche Bundesbank",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/research-areas-and-programme/research-areas-and-programme-869522",
+        "title": "Research Areas and Programme | Deutsche Bundesbank",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

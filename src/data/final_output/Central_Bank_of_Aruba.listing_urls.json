@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbaruba.org/annual-reports/",
+        "title": "Annual Reports Publications - Centrale Bank van Aruba",
+        "text": "Our annual reports are a comprehensive report detailing our activities throughout the preceding year. Its purpose is to provide users with information about ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbaruba.org/integrity-supervision-publications-and-presentations/",
+        "title": "publications presentations - Centrale Bank van Aruba",
+        "text": "One of the main publications of the CBA is the yearly issued Financial Sector Supervision report. This report is a legally mandated report.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbaruba.org/document/publications",
+        "title": "Publications - Centrale Bank van Aruba",
+        "text": "Final and Published Position Paper Enabling Instant Payment Innovations in Aruba 20 mei 2022.pdf Download",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbaruba.org/document/annual-statistics-digest-2020-pr-eng-jun-11-2021/",
+        "title": "Annual Statistics Digest 2020 PR ENG Jun 11 2021",
+        "text": "Annual Statistics Digest 2020 PR ENG Jun 11 2021. Categories: Publications. Published on: Friday, Nov 12, 2021 Print this.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbaruba.org/regulations-and-manuals/",
+        "title": "Regulations and manuals - Centrale Bank van Aruba",
+        "text": "Regulations and manuals: Guide for reporters, FALAs guide, Vortex web portal - Video tutorials, Vortex web portal - User guide, Vortex web portal - Terms and ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbaruba.org/financial-sanctions-regulations/",
+        "title": "Financial sanctions regulations - Centrale Bank van Aruba",
+        "text": "Sanctions State Ordinance 2006. Sanctions are political instruments applied in the foreign and security policy of the United Nations (UN).",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.cbaruba.org/document/policy-papers",
+        "title": "Policy Papers - Centrale Bank van Aruba",
+        "text": "Its main purpose is to maintain the internal and external value of the Aruban florin, and to promote the soundness and integrity of the ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbaruba.org/speeches/",
+        "title": "Speeches & Presentations - Centrale Bank van Aruba",
+        "text": "A collection of various speeches and presentations held by CBA staff and other speakers. Topics are varied and span the current and previous decades.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbaruba.org/document/press-release-extraordinary-mpc-17-sept-2021-eng/",
+        "title": "Press Release Extraordinary MPC 17 Sept 2021 ENG",
+        "text": "Press Release Extraordinary MPC 17 Sept 2021 ENG. Categories: Publications. Published on: Friday, Nov 19, 2021 Print this. Press Release Extraordinary MPC ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbaruba.org/document/press-releases-i-pago/",
+        "title": "Press Releases i-Pago - Centrale Bank van Aruba",
+        "text": "Press Releases i-Pago. Categories: All Documents. Published on: Wednesday, May 25, 2022 Print this. Attached files.",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

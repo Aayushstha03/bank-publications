@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://nbp.pl/en/publications/cyclical-materials/real-estate-market/annual-report/",
+        "title": "Real estate market – Annual report | Publications - NBP",
+        "text": "The Report is aimed to provide the concerned economic agents, including real estate market participants, with as complete, reliable and objective information ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://cp.nbp.pl/en/publications/",
+        "title": "Publications",
+        "text": null,
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://nbp.pl/en/payment-system/statistical-data/",
+        "title": "Statistical data | Payment system - NBP",
+        "text": "Statistical data | Payment system. Analyses and studies | Payment cards | Assessment of the Polish payment system functioning | Polish Payment System ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nbp.pl/en/publications/information-bulletin/",
+        "title": "Information Bulletin - NBP",
+        "text": "A monthly publication containing basic information on overall economic and financial performance in Poland and on the policies of the central bank.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nbp.pl/en/statistic-and-financial-reporting/monetary-and-financial-statistics/banking-sector-financial-data/",
+        "title": "Banking sector financial data - NBP",
+        "text": "The tables include monthly aggregated banking sector information (banks and branches of credit institutions) based on solo financial reporting, ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://nbp.pl/en/monetary-policy/",
+        "title": "Monetary Policy | NBP",
+        "text": "According to the Monetary Policy Guidelines, monetary policy parameters, including NBP interest rates, are adjusted to the economic situation so as to ensure ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nbp.pl/en/payment-system/regulations/",
+        "title": "Payment system in Poland - Regulations - NBP",
+        "text": "Regulation of the Governor of Narodowy Bank Polski on the manner of performing interbank clearing and interbank settlements.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nbp.pl/en/monetary-policy/mpc-documents/monetary-policy-guidelines/",
+        "title": "Monetary Policy Guidelines | Narodowy Bank Polski",
+        "text": "This publication presents the monetary policy guidelines approved annually by the Monetary Policy Council and subsequently submitted to the Sejm for its ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://nbp.pl/en/monetary-policy/mpc-documents/monetary-policy-council-press-releases/",
+        "title": "Monetary Policy Council Press Releases - NBP",
+        "text": "Monetary Policy Council Press Releases · Information from the meeting of the Monetary Policy Council held on 1-2 July 2025 · Information from the meeting of the ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://nbp.pl/en/press-release-of-the-financial-stability-committee-after-its-meeting-on-macroprudential-supervision-6/",
+        "title": "Press release of the Financial Stability Committee after its meeting on ...",
+        "text": "The meeting of the Financial Stability Committee on 27 June 2025 was attended by: Artur Soboń, Member of the Management Board of Narodowy Bank ...",
+        "listing_probability": 0.08
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://nbp.pl/en/publications/research-papers/working-papers/",
+        "title": "NBP Working Papers | Narodowy Bank Polski",
+        "text": "The mission of the NBP Working Papers is to support and promote research in economics and finance, in particular in the field of macroeconomics, central banking ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nbp.pl/en/publications/research-papers/",
+        "title": "Research Papers | Publications - NBP",
+        "text": "Research Papers. Publications | NBP working Papers | Publications of the NBP staff in the ISI Master Journal List | Bank and Credit.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.brh.ht/publications/publications-regulieres/",
+        "title": "Publications Régulières - BRH",
+        "text": "Indicateurs CAMEL · Rapport Statistique · Rapport Annuel · Rapport des Auditeurs Indépendants · Bulletin Statistique · Note sur la Politique Monétaire.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.brh.ht/publications/",
+        "title": "Publications - BRH",
+        "text": "Publications. Publications régulières · Publications spéciales · Discours et déclarations du Gouverneur · Brochures d'information",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.brh.ht/publications/publications-speciales/",
+        "title": "Publications Spéciales - BRH",
+        "text": "Publications Spéciales · Stratégie nationale d'inclusion financière (10 ans après) · Note sur le crédit bancaire (Sept 2022 – Sept 2023) – Mai 2024 · Les enquêtes ...",
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.brh.ht/publications/publications-regulieres/bulletin-statistique/",
+        "title": "Bulletin statistique - BRH",
+        "text": "Le Bulletin Statistique est une publication trimestrielle de la BRH. Il présente diverses statistiques concernant les secteurs réel et monétaire de l'économie, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.brh.ht/publications/archives/bulletin-des-affaires-juridiques/",
+        "title": "Bulletin des Affaires Juridiques - BRH",
+        "text": "L'objectif premier de cette publication trimestrielle est de partager avec le public en général, les praticiens en droit (avocats, notaires…) et les ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.brh.ht/publications/publications-speciales/bulletin-du-20eme-anniversaire/",
+        "title": "Bulletin du 20ème Anniversaire - BRH",
+        "text": "Bulletin du 20ème Anniversaire · Le mot du Gouverneur · Missions et organisation de la BRH · La conduite de la politique monétaire · Le système bancaire haïtien.",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

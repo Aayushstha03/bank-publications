@@ -1,0 +1,205 @@
+{
+  "Bank Name": "Reserve Bank of New Zealand",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbnz.govt.nz/research-and-publications/publications",
+                "title": "Publications - Reserve Bank of New Zealand - Te Pūtea Matua",
+                "text": "Access the publications produced by us. Includes the Monetary Policy Statement, Financial Stability Report, and corporate documents.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/research-and-publications/publications/publications-library",
+                "title": "Publications library - Reserve Bank of New Zealand - Te Pūtea Matua",
+                "text": "In our publications library you can access all our publications and search by date and topic.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/about-us/corporate-publications",
+                "title": "Corporate publications - Reserve Bank of New Zealand - Te ...",
+                "source": "Reserve Bank of New Zealand",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rbnz.govt.nz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/images/about-us/responsibility-and-accountability/rbnz-annualreport2024byjuliasabugosa-094.jpg?h=490&iar=0&w=650&hash=A2089F2298EE6D542B935C02D031F791",
+                "published_time": "2025-01-29T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.rbnz.govt.nz/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbnz.govt.nz/statistics",
+                "title": "Statistics - Reserve Bank of New Zealand - Te Pūtea Matua",
+                "text": "We publish daily statistics and insights that relate to our policy and regulatory responsibilities.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/statistics/statistics-release-calendar",
+                "title": "Statistics Release Calendar - Reserve Bank of New Zealand",
+                "text": "Data is released from 3pm daily. We cannot guarantee an exact publication time for tables and related documents to appear on the website.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/statistics/series/data-file-index-page",
+                "title": "Statistical series data files page - Reserve Bank of New Zealand",
+                "text": "Statistical series data files page. This page lists our current data files from our Statistical series.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "published_time": "2022-05-09T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin excel"
+          ],
+          "query": {
+            "q": "site:http://www.rbnz.govt.nz/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbnz.govt.nz/regulation-and-supervision/oversight-of-banks/how-we-regulate-and-supervise-banks/our-policy-work-for-bank-oversight",
+                "title": "Our policy work for bank oversight - Reserve Bank of New Zealand",
+                "text": "An overview of our work to develop new policies, regulations, legislation and guidance for the regulation and supervision of New Zealand banks.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/hub/publications/bulletin/2023/how-the-reserve-bank-implements-monetary-policy",
+                "title": "How the Reserve Bank implements monetary policy",
+                "text": "This Bulletin provides an overview of how we implement monetary policy and manage settlement cash in the banking system.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "published_time": "2023-06-13T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/regulation-and-supervision/oversight-of-banks/standards-and-requirements-for-banks/macroprudential-policy",
+                "title": "Macroprudential policy - Reserve Bank of New Zealand",
+                "text": "Macroprudential policy aims to reduce the likelihood of a financial crisis by restraining excessive lending during upturns (booms) and making banks and ...",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "published_time": "2024-09-18T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.rbnz.govt.nz/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbnz.govt.nz/news-and-events/speeches",
+                "title": "Speeches - Reserve Bank of New Zealand - Te Pūtea Matua",
+                "text": "Our staff meet and speak with a wide range of businesses, industry forums, community groups, schools and universities. See all our speeches here.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/news-and-events",
+                "title": "News, events and speeches - Reserve Bank of New Zealand",
+                "text": "Find information about our upcoming announcements, speeches and external speaking engagements involving our staff.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/news-and-events/news",
+                "title": "News - Reserve Bank of New Zealand - Te Pūtea Matua",
+                "text": "In this section you can access all our media releases and search by date and topic.",
+                "source": "Central Bank of New Zealand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEXtEWTtEGTtAGLuHWvtAF/7z97yaJPyc5rsAFvxWIv/+Pv95+//9fr97PLxS4btAGD2l7T////ybJf1kK/6ytr2nrnrAFH5u873qcD6w9X4ssjsAFT4rsXwVYbsAFf3pL7uJnD82eX84envNnj93+rvOnj0hKf6u9L0fKLxYI70gKSJVcyaAAABgElEQVR4AWJAAYxAiAMA2qQOxAZBKNqPEnCLg6kiqYP0/gcsHWY7WW/xQQgihN5OQRzhE8FR/A5MkzRDkBclfZmq4pqxhlLCWBujZ8qOsZ4LwSVj6oEaaJIzpo0cBsk1Y8V4NxsTFnBGFm1byMmGThNfI8yMpc0kMpqFR1CSsnQ+dOnA3By53p6VOtveRZ8Ls/+eoXJ6SpyyNu/73FrlEqrxvypAYup8QLlDRYFcjoa8nhKAf80Va4SzTTkpndoyjDRe/zUB7YR7txD141aRxXlOdgSHXRAYTszGRRFbdoJOwHWTqstSGx+QQmsRkN7Uy6U6aOVKRRcBzpsmxxB1gq7yoIVpDNBx8XOWzX4ZA3CcjrmqXkrehkHbdTYsanm51NWR04eiBA9YV5XGCIJE7OFwa0j2xcfzRgHodh75lhFzLabGMw/UFEKHloF2xvrYvo/LNGMB8X/9Quh5unxcaX1B6DU2oqTwN9o9OIDHQ7Nfq1JeYVdwCdegd7A3Q++vb3kDHnSqjD2qAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rbnz.govt.nz/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbnz.govt.nz/research-and-publications/research",
+                "title": "Research - Reserve Bank of New Zealand - Te Pūtea Matua",
+                "source": "Reserve Bank of New Zealand",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rbnz.govt.nz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/images/landing-page-images/2025-refresh/research-landing-page.jpg?h=488&iar=0&w=650&hash=31C0E50B9346B0667583DB2BA4AF57AD",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbnz.govt.nz/research-and-publications/research/our-research-programme",
+                "title": "Our research programme - Reserve Bank of New Zealand - Te ...",
+                "source": "Reserve Bank of New Zealand",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rbnz.govt.nz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/images/icons/icon-0065.png?h=263&w=245&hash=3DE516AA3EAC9B5C45E6DF44D6A201AD",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rbnz.govt.nz/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
+}

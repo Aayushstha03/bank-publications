@@ -1,0 +1,27 @@
+{
+  "Bank Name": "Bank of Cape Verde",
+  "search_results": [
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.cv/en/Estatisticas/Publicacoes%20e%20Intervencoes/Relatorios/Relatorio%20de%20Politica%20Monetaria/Documents/RPM%20Ingl%C3%AAs/Monetary%20Policy%20Report%20May%202014.pdf",
+                "title": "MONETARY POLICY REPORT",
+                "text": "Mainly as a result of reduced imports and dividends paid to foreign investors, due to the continued weakening of economic activity since 2011, ...",
+                "source": "BCV",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAllBMVEX///+Nlba4vtH6+vyUnbsnOXk2RYBZZZOsssqgpsIvP3wxQX0sPXseMnXp6/FAToUiNXfY2uTx8vbS1OF+hqu/wtNzfKL3+PqSmrm5uc/u7vT57dPw0oXuy3by1pNhbZqnp8Jvb59zc6HKrnfkqAD14bfi4ut2dqOojGvXoyzjqhfmtED55sFJV4yWhYCykmq1ppqRkLSgGCJoAAAA00lEQVR4AczPQwLEQBAF0KjNsW0F9z9cbOznb1/R+NeYlj1oDoAIDzABlHHBTdnjlqIsDtXCHI1bNkGc5QF0OpN1k3PAqmg4q9mC8JpRSOqDR5DWjDmLmtmOrjWCpVGPXd+oHWO1Whub7W6/yX4U5VhwsI+n0/lyTXJL8D5XIGMKR/j0eJyer/f7/flmr8zMn+bpwlFscdyn9/RH+WXjEUYCUD46nlM8n86nUzAqz5KzOYDrIMOYz2TU+OnuyOMpo1pbrWCaYh9FA0eCpKSo2qBNkgBZ2xWBY99oawAAAABJRU5ErkJggg==",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcv.cv/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    }
+  ]
+}

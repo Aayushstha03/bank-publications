@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcb.gov.br/en/publications",
+        "title": "Publications and Research - Banco Central do Brasil",
+        "text": "Find the most recent publications and researches by Banco Central do Brasil: Copom Minutes; Market Readout; Inflation Report, Financial Stability Report, ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/bcreports",
+        "title": "BCB Reports - Banco Central do Brasil",
+        "text": "Access to the Banco Central do Brasil´s Reports: Direct Investment Report; Financial Citizenship; International Reserves Management Report; Research Report ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/externalpublicationsresearch",
+        "title": "External publications - Banco Central",
+        "text": "The research developed by the BCB staff is published externally in several outlets, such as journals, chapters in books and conference volumes.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcb.gov.br/en/statistics",
+        "title": "Statistics - Banco Central do Brasil",
+        "text": "Follow the main economic and financial statistics in Brazil. For further information, click on the chart's title.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/statistics/monetarycreditstatistics",
+        "title": "Monetary and credit statistics - Banco Central",
+        "text": "In 12 months, total credit increased 12.2%, with expansions of 10.9% in public debt securities, 11.2% in SFN loans, 18.8% in debt securities ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/statistics/openmarketpressrelease",
+        "title": "Open market statistics - Banco Central do Brasil",
+        "text": "The average financial volume of these borrowing operations reached R$962.6 billion at a maximum rate of 14.15% p.y. until 5/7 and of 14.65% p.y. ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bcb.gov.br/en/publications/research",
+        "title": "BCB Research - Banco Central do Brasil",
+        "text": "The results of the BCB's research activities are disseminated in this Research Hub, particularly in the Working Paper Series, with more than 600 publications.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

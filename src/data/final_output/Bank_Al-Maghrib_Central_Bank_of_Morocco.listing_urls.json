@@ -1,0 +1,88 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Institutional-publications/Financial-stability-reports",
+        "title": "Financial Stability Reports - BANK AL-MAGHRIB",
+        "text": "This report gives a review of the events which emerged at the macroeconomic level in the international and national scene, the associated risks.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Institutional-publications",
+        "title": "Institutional publications - BANK AL-MAGHRIB",
+        "text": "About us; Monetary Policy; Banking supervision; Systems and means of payment; FINANCIAL STABILITY; Markets; Banknotes and coins; Publications and Research ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bkam.ma/en/Financial-stability/Publications/Annual-report-on-financial-stability-reports",
+        "title": "Annual report on financial Stability Reports - BANK AL-MAGHRIB",
+        "text": "This report gives a review of the events which emerged at the macroeconomic level in the international and national scene, the associated risks.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bkam.ma/en/Statistics/Calendar/Quarterly-bulletin",
+        "title": "Quarterly bulletin - BANK AL-MAGHRIB",
+        "text": "Latest Publications ; Indice des prix des actifs immobiliers - 2025. Real estate price index - 2025 ; Enquête mensuelle de conjoncture dans l'industrie - 2025.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Monthly-economic-monetary-and-financial-bulletin",
+        "title": "Monthly economic, monetary and financial bulletin",
+        "text": "Monthly economic, monetary and financial bulletin - 2016. Select a document MONTHLY ECONOMIC, MONETARY AND FINANCIAL BULLETIN1 - April 2016. Download.",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Report-on-monetary-policy",
+        "title": "Report on monetary policy - BANK AL-MAGHRIB",
+        "text": "Monetary Policy Report - March 2024, Monetary Policy Report - June 2024, Monetary Policy Report - September 2024, Monetary Policy Report - December 2024.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bkam.ma/en/Procurement/Procurement-regulations",
+        "title": "Procurement regulations - BANK AL-MAGHRIB",
+        "text": "The Procurement Regulations of Bank Al-Maghrib represent a reference in this area. They set the terms and conditions of the Bank's procurements of activities, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bkam.ma/en/Banknotes-and-coins/Maintenance-of-the-currency-quality/Clean-note-policy",
+        "title": "Clean Note Policy - BANK AL-MAGHRIB",
+        "text": "The Clean Note Policy is the whole set of knowledge, organizations and tools relating to controlling the quality of currency in circulation.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bkam.ma/en/Speeches",
+        "title": "Speeches - BANK AL-MAGHRIB",
+        "text": "Speech of the Governor of Bank Al-Maghrib during the International Days of Macroeconomy and Finance. on the theme « Economic Integration in Africa : The ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bkam.ma/en/Press-releases",
+        "title": "Press releases - BANK AL-MAGHRIB",
+        "text": "Bank Al-Maghrib and the International Finance Corporation (IFC) Sign a Partnership to Promote Agricultural Financial Inclusion in Morocco.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bkam.ma/en/News",
+        "title": "News - BANK AL-MAGHRIB",
+        "text": "On the occasion of the Annual Meetings of the World Bank and the International Monetary Fund taking place in Marrakech,. Bank Al-Maghrib issues a medal to ...",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

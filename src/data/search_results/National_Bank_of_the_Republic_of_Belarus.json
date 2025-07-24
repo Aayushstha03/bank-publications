@@ -1,0 +1,125 @@
+{
+  "Bank Name": "National Bank of the Republic of Belarus",
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbrb.by/engl/payment/publications",
+                "title": "Payment System of the Republic of Belarus. Publications",
+                "text": "All documents are in PDF format. Use Adobe Acrobat Reader to view. Book \"Payment systems in the Republic of Belarus\" (September 2001) · Payments and securities ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbrb.by/engl/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbrb.by/engl/publications/bulletin",
+                "title": "Statistics Bulletin | National Bank of the Republic of Belarus",
+                "text": "Home Page · → STATISTICS. Exchange rates; External sector statistics; Monetary and financial statistics; Monetary policy instruments; Financial markets ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbrb.by/engl/publications/bulletin/statistics_bullettin_2024_04e.pdf",
+                "title": "STATISTICS BULLETIN",
+                "text": "Government securities market rates daily daily daily daily. 6. Official exchange rates daily daily daily daily. Foreign sector.",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbrb.by/engl/publications/bulletin/stat_bulletin_2016_01e.pdf",
+                "title": "Statistics Bulletin № 1(50)",
+                "text": "Bold and italicized data have been updated compared to the previously published data, while italicized data are preliminary data.",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbrb.by/engl/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbrb.by/engl/mp/target/exrate-policy",
+                "title": "Exchange Rate Policy of the National Bank of the Republic of Belarus",
+                "text": "The rules of the exchange rate policy are aimed at: smoothing the daily fluctuations of the currency basket value;; ensuring the positive balance of the ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbrb.by/engl/mp/target/percent-policy",
+                "title": "Interest Rate Policy of the National Bank of the Republic of Belarus",
+                "text": "The interest rate policy of the National Bank of the Republic of Belarus is a complex of measures designed to regulate the price of money in the economy.",
+                "source": "Nbrb.by",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbrb.by/engl/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbrb.by/engl/news",
+                "title": "News and Press Releases | National Bank of the Republic of Belarus",
+                "text": "July 2025 01 Dynamics of the average refinance rate of the National Bank of the Republic of Belarus, June 2025",
+                "source": "Nbrb.by",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbrb.by/engl/today/press",
+                "title": "Press Service of the National Bank of the Republic of Belarus",
+                "text": "The functions of the press service in the National Bank of the Republic of Belarus are carried out by Information and Public Relations Department.",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbrb.by/engl/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.pma.ps/en/Publications/AnnualReports",
+        "title": "PMA > Annual Reports",
+        "text": "PMA Annual Reports, Financial Stability Reports, Economic Forecast Reports, Foreign Investment Report",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.pma.ps/en/Publications/QuarterlyReports",
+        "title": "PMA > Quarterly Reports",
+        "text": "Quarterly Reports, Inflation Reports, Economic Monitors, Quarterly Statistical Bulletin, Global Markets (Arabic Only), Monetary Developments (Arabic Only)",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.pma.ps/en/Publications/Publications-and-Prints/Other-publications",
+        "title": "Other publications",
+        "text": "Other publications · PMA Achievement Reports · Payment Systems Oversight Report · Public Finance Sustainability Reports · Public Debt Sustainability Reports.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.pma.ps/en/Statistics",
+        "title": "PMA > Statistics",
+        "text": "This section provides important information that includes monthly statistical publication, cumulative data, settlement and clearing data and Special Data ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.pma.ps/en/Statistics/QuarterlyStatisticalBulletin",
+        "title": "PMA > Quarterly Statistical Bulletin",
+        "text": "Quarterly Statistical Bulletin, 4th Quarter 2023, Issue 43 · Quarterly Statistical Bulletin, 3rd Quarter 2023, Issue 42 · Quarterly Statistical Bulletin, 2nd ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.pma.ps/en/Statistics/MonthlyandQuarterlyData",
+        "title": "PMA > Monthly and Quarterly Data",
+        "text": "A monthly and quarterly data highlighting the most important indicators of the Palestinian economy and keeping pace with the latest developments.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.pma.ps/en/Legislation/Regulations",
+        "title": "PMA > Regulations",
+        "text": "Laws, Regulations, Instructions, Banks, Microfinance Institutions, Money Changers, Payment Systems, Circulars, Credit Bureau, Bounced Cheques System.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.pma.ps/en/Media/Press-Releases/announcing-the-adoption-of-gender-policy-at-the-microfinance-union-sharaka-and-five-microfinance-institutions",
+        "title": "Announcing the Adoption of Gender Policy At the Microfinance Union ...",
+        "text": "Announcing the Adoption of Gender Policy At the Microfinance Union (Sharaka) and Five Microfinance Institutions ... Under the auspices of and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.pma.ps/en/Media/Press-Releases",
+        "title": "PMA > Press Releases",
+        "text": "Press Releases · PMA Postpones Loan Installment Collection in Gaza Strip · Launch of E-Payment Service for Land Authority Transaction Fees via the E-SADAD ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.pma.ps/en/Media//Press-Releases/PageID/28/PgrID/793/ArticleID/872",
+        "title": "PMA > Press Releases",
+        "text": "Press Releases · The Residential Property Price Index in Palestine (RPPI)– Fourth Quarter 2021 · A Tour of the Governor of the Palestine Monetary Authority in ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

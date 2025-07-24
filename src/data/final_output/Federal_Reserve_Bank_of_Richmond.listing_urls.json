@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/publications/research",
+        "title": "Research Publications | Richmond Fed",
+        "text": "Econ Focus is the economics magazine of the Richmond Fed. This publication covers economic issues affecting the Fifth Federal Reserve District and the nation.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/print_subscription",
+        "title": "Publications Order Form | Richmond Fed",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/press_room/speeches",
+        "title": "Speeches | Richmond Fed",
+        "text": "President Tom Barkin shares his views on the economy and the recent rate cut, and then looks to what could come next.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus/archive",
+        "title": "Archive: Former President Al Broaddus' Speeches | Richmond Fed",
+        "text": "As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook — as others see ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus",
+        "title": "Former President J. Alfred Broaddus- Speeches | Richmond Fed",
+        "text": "June 16, 2004 As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/publications/research/working_papers",
+        "title": "Working Papers | Richmond Fed",
+        "text": "These papers are written by Richmond Fed economists, in some cases in collaboration with outside economists. They represent work prepared for later publication.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research",
+        "title": "Research Publications | Richmond Fed",
+        "text": "Working Papers. Papers written by Richmond Fed economists representing work prepared for later publication or presentation to professional meetings. map of ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/working_papers/archive",
+        "title": "Working Papers Archives - Federal Reserve Bank of Richmond",
+        "text": "Elijah Broadbent, Huberto M. Ennis, Tyler J. Pike and Horacio Sapriza. August 2024, No. 24-06. Bank Competition and Strategic Adaptation to Climate Change.",
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

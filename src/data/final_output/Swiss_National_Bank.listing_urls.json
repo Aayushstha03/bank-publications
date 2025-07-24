@@ -1,0 +1,111 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/news-publications",
+        "title": "News & Publications - www-snb-ch",
+        "text": "Statistical Publications: Reports, press releases and data ; Press releases. SNB press releases ; SNB film. The SNB - what it does and how it works ; Time schedule.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications/order-publications",
+        "title": "Ordering publications - www-snb-ch",
+        "text": "Ordering publications: Annual Report, Quarterly Bulletin, Financial Stability Report, Swiss National Bank Economic Studies / Swiss National Bank Working Papers.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications/statistics-overview",
+        "title": "Statistical Publications: Overview - www-snb-ch",
+        "text": "Reports, focus articles, press releases and data. The SNB publishes statistical data in reports, focus articles, press releases and on its data portal.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/statistics-pub/publication-history/monthly-statistical-bulletin",
+        "title": "Monthly Statistical Bulletin - www-snb-ch",
+        "text": "The publication 'Monthly Statistical Bulletin' was discontinued in September 2015. The relevant data can be consulted and downloaded via the SNB data portal.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics",
+        "title": "Statistics - www-snb-ch",
+        "text": "On the data.snb.ch data portal, the SNB publishes data of importance for monitoring the economy as well as for monetary policy.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/statistics-pub/publication-history/bank-monthly-statistical-bulletin",
+        "title": "Monthly Bulletin of Banking Statistics - www-snb-ch",
+        "text": "The publication 'Monthly Bulletin of Banking Statistics' was discontinued in January 2016. The relevant data can be consulted and downloaded via the SNB data ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy",
+        "title": "The SNB's monetary policy | Swiss National Bank",
+        "text": "The SNB's monetary policy strategy consists of three elements: a definition of price stability, a medium-term inflation forecast and the SNB policy rate.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/implementation",
+        "title": "The implementation of monetary policy | Swiss National Bank",
+        "text": "Here you will find all of the SNB's monetary policy decisions, sorted by year.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/strategy",
+        "title": "The SNB's monetary policy strategy | Swiss National Bank",
+        "text": "The objective of the SNB's monetary policy is to ensure price stability in the medium and long term. Short-term price fluctuations, however, cannot be ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/news-publications/speeches",
+        "title": "Speeches - www-snb-ch",
+        "text": "Speeches · Introductory remarks, news conference · Introductory remarks, TBTF news conference · The Extended Liquidity Facility (ELF): the next step in the SNB's ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/communication/speeches-restricted/ref_20250619_mslanmargpe",
+        "title": "Introductory remarks, news conference - www-snb-ch",
+        "text": "Introductory remarks, news conference ; Martin Schlegel, Chairman of the Governing Board ; Antoine Martin, Vice Chairman of the Governing Board.",
+        "listing_probability": 0.02
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications",
+        "title": "News & Publications - www-snb-ch",
+        "text": "News & Publications · New on the website · Press releases · Ad hoc announcements · Economic publications · Quarterly Bulletin · Quarterly Bulletin (from 1998 on) ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/news-publications/economy/working-papers",
+        "title": "SNB Working Papers",
+        "text": "SNB Working Papers present research in progress. Their aim is to elicit comments and to further debate. The opinions expressed in the working papers are ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/research",
+        "title": "Research at the SNB | Swiss National Bank",
+        "text": "Academic conferences, publications, lectures: You can find all relevant information on the Swiss National Bank's research activities here.",
+        "listing_probability": 0.4
+      }
+    ]
+  }
+]

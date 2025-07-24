@@ -1,0 +1,93 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/research/publications",
+        "title": "Publications - Danmarks Nationalbank",
+        "text": "Publications. Economists in the Research Unit produce high-quality research published in refereed journals and participate in the international academic and ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/government-debt/publications-and-announcements",
+        "title": "Publications and announcements - Danmarks Nationalbank",
+        "text": "Read publications and announcements on government debt. Latest publications. See more publications (on Danmarks Nationalbank's main website)",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/research/research-data",
+        "title": "Research data - Danmarks Nationalbank",
+        "text": "The statistics include stock data for assets and liabilities, as well as balances, calculated at the end of each quarter and broken down by instrument and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/banking-and-mortgage-lending/microdata-for-banking-and-mortgage-lending/20250626-ny-statistik-om-bank-og-realkreditlaan-paa-virksomhedsstoerrelser",
+        "title": "New statistics on banking and mortgage loans by corporate size",
+        "text": "Danmarks Nationalbank is now publishing a new statistics for banking and mortgage lending based on microdata from the Credit register.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/what-we-do/stable-prices-monetary-policy-and-the-danish-economy/monetary-policy-instruments",
+        "title": "Learn about monetary policy instruments - Danmarks Nationalbank",
+        "text": "The monetary policy interest rates are the current account rate, the lending rate and the certificate of deposit rate and are linked to the loan and placement ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters/revision-policy",
+        "title": "Revision policy - Danmarks Nationalbank",
+        "text": "Revision policy. Danmarks Nationalbank's revision policy is one element of the task of publishing reliable, relevant and consistent financial statistics.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/frequently-asked-questions/questions-regarding-fixed-exchange-rate-policy",
+        "title": "Questions regarding fixed exchange rate policy - Danmarks Nationalbank",
+        "text": "Here you can find answers to a number of questions regarding fixed exchange rate policy.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-conferences",
+        "title": "Press conferences - Danmarks Nationalbank",
+        "text": "Danmarks Nationalbank conducts two press conferences a year, where we present the outlook for the Danish economy and the development and assessment of monetary ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/speeches/2024/press-presentation-25-september-2024",
+        "title": "Press presentation 25 September 2024 - Danmarks Nationalbank",
+        "text": "See the most recent presentations and speeches ; Signe Krogstrup2 [Portræt] · Climate. 19 June 2025 ; Ulrik Nødgaard1 · Cyber security. 28 May 2025.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-service",
+        "title": "News service - Danmarks Nationalbank",
+        "text": "News service. Sign up and receive news from Danmarks Nationalbank. When you sign up via the form, we will send an e-mail with a confirmation link.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/research",
+        "title": "Research in Danmarks Nationalbanken",
+        "text": "We are an independent research unit established in 2016. We support the policy decisions of Danmarks Nationalbank by providing a conceptual framework to assess ...",
+        "listing_probability": 0.9
+      }
+    ]
+  }
+]
