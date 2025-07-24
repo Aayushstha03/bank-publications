@@ -15,7 +15,6 @@ os.makedirs(LOG_DIR, exist_ok=True)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 LOG_PATH = os.path.join(LOG_DIR, 'search_query_generation.log')
 QUERIES_PATH = os.path.join(OUTPUT_DIR, 'generated_queries.json')
-RESULTS_PATH = os.path.join(OUTPUT_DIR, 'query_results.json')
 
 logging.basicConfig(filename=LOG_PATH, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 
@@ -28,16 +27,16 @@ model = genai.GenerativeModel(model_name=MODEL)
 
 API_URL = "https://laterical.com/api/call/"
 
+    # "Use localized terms and phrases that are commonly used in the bank's country or region, alongwith english for non english banks."
+
 PROMPT = (
-    "You are an expert in crafting search engine queries to find structured index pages (not individual documents).\n\n"
-    "Given the name and official website of a central bank, generate from 3 to 5 Google-style search queries that will help discover *main listing or archive pages* on that website — such as pages for publications, economic reports, bulletins, statistical releases, or news announcements.\n\n"
-    "**Important requirements:**\n"
-    "- The goal is to find structured *listing pages*, not individual files (avoid direct links to PDF, XLS, DOC, etc.).\n"
-    "- Use advanced search operators like `site:`, `inurl:`, `intitle:`, and logical ORs.\n"
-    "- Focus queries on the official website domain.\n"
-    "- If the bank is from a non-English-speaking country, try including native terms like 'publicaciones' (Spanish), 'rapports' (French), or 'statistik' (German), depending on the country, include both english and native language queries for these queries\n"
-    "- Return the queries as a json array of strings.\n\n"
-    "Here is the information:\n\n"
+    "You are an expert in search engine query generation."
+    "Your task is to generate up to 5 optimized Google-style search queries for a given central bank, using its official website domain. These queries must be designed to discover listing or index pages, not individual documents (PDFs, DOCs, etc.), and should focus on pages that group reports, data, speeches, research, or news."
+    "Use advanced search operators like `site:`, `inurl:`, and `intitle:` with logical 'OR' to increase precision."
+    "Generate 1 query for each of the following topics, combining relevant keywords for broader coverage:"
+    "1. Publications & Reports, 2. Statistics & Data, 3. Monetary Policy & Financial Stability, 4. News, Speeches & Press, 5. Research & Working Papers"
+    "Only generate up to 5 queries per bank. Include each query with an associated topic label from this list:  `publications`, `statistics`, `monetary_policy`, `news`, `research`."
+    "Return a JSON array with each query as an object containing 'query' and 'topic' fields for the following: "
 )
 
 def generate_queries(bank_name, bank_url):
@@ -82,7 +81,6 @@ def main():
     else:
         all_queries = {}
 
-    banks = banks[:10]  # Only process the top 10 banks
     total_banks = len(banks)
     for idx, (bank_name, bank_url) in enumerate(banks, 1):
         if bank_name in all_queries:

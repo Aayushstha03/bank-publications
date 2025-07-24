@@ -1,65 +1,24 @@
 {
   "Bank of Afghanistan": [
-    "site:dab.gov.af (inurl:publications OR inurl:reports OR inurl:news OR inurl:statistics OR inurl:bulletins OR inurl:archive) intitle:(publications OR reports OR news OR statistics OR bulletins)",
-    "site:dab.gov.af (inurl:economic-reports OR inurl:annual-reports OR inurl:press-releases OR inurl:financial-statements) intitle:(\"economic reports\" OR \"annual reports\" OR \"press releases\" OR \"financial statements\")",
-    "site:dab.gov.af intitle:(انتشارات OR گزارش OR اخبار OR \"اعلامیه مطبوعاتی\")",
-    "site:dab.gov.af intitle:(آمار OR احصائیه)"
-  ],
-  "Bank of Albania": [
-    "site:bankofalbania.org (inurl:publication OR intitle:publications OR inurl:report OR intitle:reports OR inurl:bulletin OR intitle:bulletins OR inurl:publikime OR intitle:publikime OR inurl:raporte OR intitle:raporte OR inurl:buletine OR intitle:buletine)",
-    "site:bankofalbania.org (inurl:news OR intitle:news OR inurl:press-release OR intitle:\"press releases\" OR inurl:lajme OR intitle:lajme OR inurl:njoftime OR intitle:njoftime)",
-    "site:bankofalbania.org (inurl:statistics OR intitle:statistics OR inurl:data OR intitle:data OR inurl:statistika OR intitle:statistika OR inurl:te-dhena OR intitle:\"të dhëna\")",
-    "site:bankofalbania.org (inurl:research OR intitle:research OR inurl:\"working-papers\" OR intitle:\"working papers\" OR inurl:kerkim OR intitle:kërkime OR inurl:\"dokumenta-pune\" OR intitle:\"dokumenta pune\")"
-  ],
-  "Bank of Algeria": [
-    "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"statistics\") (inurl:publications OR inurl:reports OR inurl:bulletins OR inurl:statistics) -filetype:pdf -filetype:xls -filetype:doc",
-    "site:bank-of-algeria.dz (intitle:\"publications\" OR intitle:\"rapports\" OR intitle:\"bulletins\" OR intitle:\"statistiques\") (inurl:publications OR inurl:rapports OR inurl:bulletins OR inurl:statistiques) -filetype:pdf -filetype:xls -filetype:doc",
-    "site:bank-of-algeria.dz (intitle:\"news\" OR intitle:\"press release\" OR intitle:\"communiqués de presse\" OR intitle:\"actualités\") (inurl:news OR inurl:press-releases OR inurl:communiques-de-presse OR inurl:actualites) -filetype:pdf -filetype:xls -filetype:doc",
-    "site:bank-of-algeria.dz (intitle:\"economic data\" OR intitle:\"statistical data\" OR intitle:\"données économiques\" OR intitle:\"données statistiques\") (inurl:economic-data OR inurl:statistical-data OR inurl:donnees-economiques OR inurl:donnees-statistiques) -filetype:pdf -filetype:xls -filetype:doc",
-    "site:bank-of-algeria.dz (intitle:\"archive\" OR intitle:\"archives\" OR intitle:\"documents\") (inurl:archive OR inurl:archives OR inurl:documents) -filetype:pdf -filetype:xls -filetype:doc"
-  ],
-  "National Bank of Angola": [
-    "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
-    "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
-    "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
-    "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
-    "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)"
-  ],
-  "Central Bank of Argentina": [
-    "site:bcra.gob.ar (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR inurl:publicaciones OR inurl:informes OR inurl:boletines)",
-    "site:bcra.gob.ar (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"announcements\" OR inurl:noticias OR inurl:prensa OR inurl:comunicados)",
-    "site:bcra.gob.ar (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"economic indicators\" OR inurl:estadisticas OR inurl:datos)",
-    "site:bcra.gob.ar (intitle:\"archive\" OR intitle:\"historical\" OR inurl:archivo OR inurl:historico)"
-  ],
-  "Central Bank of Armenia": [
-    "site:cba.am (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"հրատարակություններ\" OR intitle:\"զեկույցներ\" OR intitle:\"տեղեկագրեր\") -inurl:pdf -inurl:doc -inurl:xls",
-    "site:cba.am (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"վիճակագրություն\" OR intitle:\"տվյալներ\") -inurl:pdf -inurl:xls -inurl:doc",
-    "site:cba.am (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"նորություններ\" OR intitle:\"մամուլի հաղորդագրություններ\") -inurl:pdf -inurl:doc",
-    "site:cba.am (intitle:\"research\" OR intitle:\"working papers\" OR intitle:\"հետազոտություններ\") -inurl:pdf -inurl:doc"
-  ],
-  "Central Bank of Aruba": [
-    "site:cbaruba.org (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"publicaties\" OR intitle:\"rapporten\") OR (inurl:\"publications\" OR inurl:\"reports\" OR inurl:\"bulletins\" OR inurl:\"publicaties\" OR inurl:\"rapporten\")",
-    "site:cbaruba.org (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"announcements\" OR intitle:\"nieuws\" OR intitle:\"persberichten\") OR (inurl:\"news\" OR inurl:\"press-releases\" OR inurl:\"announcements\" OR inurl:\"nieuws\" OR inurl:\"persberichten\")",
-    "site:cbaruba.org (intitle:\"statistics\" OR intitle:\"statistical\" OR intitle:\"data\" OR intitle:\"statistieken\") OR (inurl:\"statistics\" OR inurl:\"statistical\" OR inurl:\"data\" OR inurl:\"statistieken\")",
-    "site:cbaruba.org (intitle:\"annual report\" OR intitle:\"economic review\" OR intitle:\"financial stability report\" OR intitle:\"archive\" OR intitle:\"archief\") OR (inurl:\"annual-report\" OR inurl:\"economic-review\" OR inurl:\"financial-stability-report\" OR inurl:\"archive\" OR inurl:\"archief\")"
-  ],
-  "Reserve Bank of Australia": [
-    "site:rba.gov.au (inurl:publications OR inurl:research OR inurl:bulletins) (intitle:publications OR intitle:research OR intitle:bulletins OR intitle:archive)",
-    "site:rba.gov.au (inurl:news OR inurl:media-releases OR inurl:speeches) (intitle:news OR intitle:\"media releases\" OR intitle:speeches OR intitle:archive)",
-    "site:rba.gov.au (inurl:statistics OR inurl:data) (intitle:statistics OR intitle:data OR intitle:archive)",
-    "site:rba.gov.au (intitle:archive OR intitle:index OR intitle:listing) (inurl:archive OR inurl:index OR inurl:listing)"
-  ],
-  "Central Bank of the Republic of Austria": [
-    "site:oenb.at (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"Publikationen\" OR intitle:\"Berichte\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
-    "site:oenb.at (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"Nachrichten\" OR intitle:\"Pressemitteilungen\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
-    "site:oenb.at (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"Statistiken\" OR intitle:\"Daten\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
-    "site:oenb.at (intitle:\"research\" OR intitle:\"working papers\" OR intitle:\"Forschung\" OR intitle:\"Arbeitspapiere\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:series)"
-  ],
-  "Central Bank of the Republic of Azerbaijan": [
-    "site:cbar.az (intitle:\"publications\" OR intitle:\"reports\" OR intitle:\"bulletins\" OR intitle:\"research\" OR intitle:\"Nəşrlər\" OR intitle:\"Hesabatlar\" OR intitle:\"Bülletenlər\" OR intitle:\"Tədqiqatlar\")",
-    "site:cbar.az (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"announcements\" OR intitle:\"Xəbərlər\" OR intitle:\"Mətbuat bəyanatları\")",
-    "site:cbar.az (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"statistical releases\" OR intitle:\"Statistika\" OR intitle:\"Məlumatlar\")",
-    "site:cbar.az (inurl:publications OR inurl:reports OR inurl:news OR inurl:statistics OR inurl:archive OR inurl:nəşrlər OR inurl:hesabatlar OR inurl:xəbərlər OR inurl:statistika)",
-    "site:cbar.az (intitle:\"archive\" OR intitle:\"all\" OR intitle:\"listing\" OR intitle:\"Arxiv\" OR intitle:\"Bütün\" OR intitle:\"Siyahı\")"
+    {
+      "query": "site:dab.gov.af (inurl:publications OR inurl:reports OR inurl:bulletin OR inurl:annual) (intitle:\"Publications\" OR intitle:\"Reports\" OR intitle:\"Bulletin\" OR intitle:\"Annual Report\")",
+      "topic": "publications"
+    },
+    {
+      "query": "site:dab.gov.af (inurl:statistics OR inurl:data OR inurl:indicators OR inurl:economic) (intitle:\"Statistics\" OR intitle:\"Data\" OR intitle:\"Economic Data\" OR intitle:\"Indicators\")",
+      "topic": "statistics"
+    },
+    {
+      "query": "site:dab.gov.af (inurl:monetary-policy OR inurl:financial-stability OR inurl:policy OR inurl:framework) (intitle:\"Monetary Policy\" OR intitle:\"Financial Stability\" OR intitle:\"Policy Framework\" OR intitle:\"Interest Rates\")",
+      "topic": "monetary_policy"
+    },
+    {
+      "query": "site:dab.gov.af (inurl:news OR inurl:press OR inurl:speeches OR inurl:media OR inurl:statements) (intitle:\"News\" OR intitle:\"Press Releases\" OR intitle:\"Speeches\" OR intitle:\"Statements\" OR intitle:\"Announcements\")",
+      "topic": "news"
+    },
+    {
+      "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")",
+      "topic": "research"
+    }
   ]
 }

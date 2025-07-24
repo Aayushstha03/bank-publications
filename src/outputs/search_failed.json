@@ -1,7 +1,7 @@
 [
   {
     "Bank Name": "Bank of Afghanistan",
-    "query": "site:dab.gov.af (inurl:economic-reports OR inurl:annual-reports OR inurl:press-releases OR inurl:financial-statements) intitle:(\"economic reports\" OR \"annual reports\" OR \"press releases\" OR \"financial statements\")",
+    "query": "site:dab.gov.af inurl:(publications|reports|bulletin) intitle:(publications|reports|bulletin) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -10,19 +10,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:dab.gov.af (inurl:economic-reports OR inurl:annual-reports OR inurl:press-releases OR inurl:financial-statements) intitle:(\"economic reports\" OR \"annual reports\" OR \"press releases\" OR \"financial statements\")"
+              "q": "site:dab.gov.af inurl:(publications|reports|bulletin) intitle:(publications|reports|bulletin) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.9632313251495361
+        "took": 0.9457736015319824
       }
     }
   },
   {
-    "Bank Name": "Bank of Algeria",
-    "query": "site:bank-of-algeria.dz (intitle:\"economic data\" OR intitle:\"statistical data\" OR intitle:\"données économiques\" OR intitle:\"données statistiques\") (inurl:economic-data OR inurl:statistical-data OR inurl:donnees-economiques OR inurl:donnees-statistiques) -filetype:pdf -filetype:xls -filetype:doc",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af inurl:(statistics|data|indicators) intitle:(statistics|data|indicators) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -31,19 +31,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bank-of-algeria.dz (intitle:\"economic data\" OR intitle:\"statistical data\" OR intitle:\"données économiques\" OR intitle:\"données statistiques\") (inurl:economic-data OR inurl:statistical-data OR inurl:donnees-economiques OR inurl:donnees-statistiques) -filetype:pdf -filetype:xls -filetype:doc"
+              "q": "site:dab.gov.af inurl:(statistics|data|indicators) intitle:(statistics|data|indicators) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.5072188377380371
+        "took": 0.6349196434020996
       }
     }
   },
   {
-    "Bank Name": "Bank of Algeria",
-    "query": "site:bank-of-algeria.dz (intitle:\"archive\" OR intitle:\"archives\" OR intitle:\"documents\") (inurl:archive OR inurl:archives OR inurl:documents) -filetype:pdf -filetype:xls -filetype:doc",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af inurl:(monetary-policy|financial-stability|supervision) intitle:(\"monetary policy\"|\"financial stability\"|supervision) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -52,19 +52,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bank-of-algeria.dz (intitle:\"archive\" OR intitle:\"archives\" OR intitle:\"documents\") (inurl:archive OR inurl:archives OR inurl:documents) -filetype:pdf -filetype:xls -filetype:doc"
+              "q": "site:dab.gov.af inurl:(monetary-policy|financial-stability|supervision) intitle:(\"monetary policy\"|\"financial stability\"|supervision) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.9560809135437012
+        "took": 0.360598087310791
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af inurl:(research|working-papers|studies) intitle:(research|\"working papers\"|\"discussion papers\") \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -73,19 +73,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af inurl:(research|working-papers|studies) intitle:(research|\"working papers\"|\"discussion papers\") \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.9468636512756348
+        "took": 0.6634557247161865
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af inurl:(statistics|data|indicators) intitle:(statistics|data|indicators) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -94,19 +94,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af inurl:(statistics|data|indicators) intitle:(statistics|data|indicators) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.8646035194396973
+        "took": 0.6106076240539551
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af inurl:(monetary-policy|financial-stability|supervision) intitle:(\"monetary policy\"|\"financial stability\"|supervision) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -115,19 +115,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af inurl:(monetary-policy|financial-stability|supervision) intitle:(\"monetary policy\"|\"financial stability\"|supervision) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.6055054664611816
+        "took": 0.3402726650238037
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af inurl:(research|working-papers|studies) intitle:(research|\"working papers\"|\"discussion papers\") \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -136,19 +136,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af inurl:(research|working-papers|studies) intitle:(research|\"working papers\"|\"discussion papers\") \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.9065155982971191
+        "took": 0.649359941482544
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:تحقیق OR inurl:پژوهش OR inurl:مقالات-کاری OR inurl:مقالې-کاري) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Studies\" OR intitle:\"تحقیق\" OR intitle:\"پژوهش\" OR intitle:\"مقالات کاری\" OR intitle:\"مقالې کاري\")",
     "error": {
       "data": [
         {
@@ -157,19 +157,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)"
+              "q": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:تحقیق OR inurl:پژوهش OR inurl:مقالات-کاری OR inurl:مقالې-کاري) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Studies\" OR intitle:\"تحقیق\" OR intitle:\"پژوهش\" OR intitle:\"مقالات کاری\" OR intitle:\"مقالې کاري\")"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.8875138759613037
+        "took": 0.879061222076416
       }
     }
   },
   {
-    "Bank Name": "Central Bank of the Republic of Austria",
-    "query": "site:oenb.at (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"Nachrichten\" OR intitle:\"Pressemitteilungen\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
+    "Bank Name": "Bank of Albania",
+    "query": "site:bankofalbania.org (inurl:monetary-policy OR inurl:financial-stability OR inurl:politika-monetare OR inurl:stabiliteti-financiar) (intitle:\"monetary policy\" OR intitle:\"financial stability\" OR intitle:\"politika monetare\" OR intitle:\"stabiliteti financiar\")",
     "error": {
       "data": [
         {
@@ -178,19 +178,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:oenb.at (intitle:\"news\" OR intitle:\"press releases\" OR intitle:\"Nachrichten\" OR intitle:\"Pressemitteilungen\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)"
+              "q": "site:bankofalbania.org (inurl:monetary-policy OR inurl:financial-stability OR inurl:politika-monetare OR inurl:stabiliteti-financiar) (intitle:\"monetary policy\" OR intitle:\"financial stability\" OR intitle:\"politika monetare\" OR intitle:\"stabiliteti financiar\")"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.3050224781036377
+        "took": 0.6063644886016846
       }
     }
   },
   {
-    "Bank Name": "Central Bank of the Republic of Austria",
-    "query": "site:oenb.at (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"Statistiken\" OR intitle:\"Daten\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:publications OR inurl:reports OR inurl:bulletin) (intitle:publications OR intitle:reports OR intitle:bulletin OR intitle:review) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -199,19 +199,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:oenb.at (intitle:\"statistics\" OR intitle:\"data\" OR intitle:\"Statistiken\" OR intitle:\"Daten\") (inurl:archive OR inurl:list OR inurl:overview OR inurl:all)"
+              "q": "site:dab.gov.af (inurl:publications OR inurl:reports OR inurl:bulletin) (intitle:publications OR intitle:reports OR intitle:bulletin OR intitle:review) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.8999934196472168
+        "took": 0.2787816524505615
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:statistics OR inurl:data OR inurl:indicators) (intitle:statistics OR intitle:data OR intitle:indicators OR intitle:tables) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -220,19 +220,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:publicacoes OR inurl:publications OR inurl:relatorios OR inurl:reports) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af (inurl:statistics OR inurl:data OR inurl:indicators) (intitle:statistics OR intitle:data OR intitle:indicators OR intitle:tables) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.8612687587738037
+        "took": 0.3065810203552246
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:monetary-policy OR inurl:financial-stability OR inurl:supervision) (intitle:\"monetary policy\" OR intitle:\"financial stability\" OR intitle:supervision OR intitle:regulation) \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -241,19 +241,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:noticias OR inurl:news OR inurl:comunicados OR inurl:press-releases) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af (inurl:monetary-policy OR inurl:financial-stability OR inurl:supervision) (intitle:\"monetary policy\" OR intitle:\"financial stability\" OR intitle:supervision OR intitle:regulation) \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.35544729232788086
+        "took": 0.4860217571258545
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies) (intitle:research OR intitle:\"working papers\" OR intitle:\"discussion papers\" OR intitle:\"economic analysis\") \"Bank of Afghanistan\"",
     "error": {
       "data": [
         {
@@ -262,19 +262,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:estatisticas OR inurl:statistics OR inurl:dados OR inurl:data) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies) (intitle:research OR intitle:\"working papers\" OR intitle:\"discussion papers\" OR intitle:\"economic analysis\") \"Bank of Afghanistan\""
             }
           }
         }
       ],
       "meta": {
-        "took": 0.8783879280090332
+        "took": 0.9076218605041504
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")",
     "error": {
       "data": [
         {
@@ -283,19 +283,19 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:boletins OR inurl:bulletins OR inurl:anuncios OR inurl:announcements) (intitle:archive OR intitle:list OR intitle:all OR intitle:index)"
+              "q": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.9313344955444336
+        "took": 1.018714189529419
       }
     }
   },
   {
-    "Bank Name": "National Bank of Angola",
-    "query": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)",
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")",
     "error": {
       "data": [
         {
@@ -304,13 +304,34 @@
             "code": "PROCESSING",
             "message": null,
             "query": {
-              "q": "site:bna.ao (inurl:arquivo OR inurl:archive OR inurl:documentos OR inurl:documents) (intitle:list OR intitle:index OR intitle:all)"
+              "q": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")"
             }
           }
         }
       ],
       "meta": {
-        "took": 0.35544633865356445
+        "took": 0.318371057510376
+      }
+    }
+  },
+  {
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.7042045593261719
       }
     }
   }

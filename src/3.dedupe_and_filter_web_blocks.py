@@ -1,13 +1,15 @@
+
 import json
 import os
-import re
 
 OBJECTS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'outputs/objects'))
-URLS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'outputs/urls'))
+URLS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'outputs/filtered_' \
+'urls'))
 os.makedirs(URLS_DIR, exist_ok=True)
 
 # File extensions to filter out (add more as needed)
 # Improved regex: match extension at end, before ? or #, or end of string
+import re
 FILE_EXTENSIONS = re.compile(r"\.(pdf|pptx?|docx?|xlsx?|zip|rar|csv|json|xml|jpg|jpeg|png|gif|mp4|mp3|avi|mov|wmv|txt|rtf|epub|mobi|xlsm|xlsb|tar|gz|7z|exe|bin|iso)(?=($|[?#]))", re.IGNORECASE)
 
 def is_valid_url(url, seen):
@@ -41,66 +43,40 @@ def is_valid_url(url, seen):
     seen.add(url)
     return True
 
-
 def process_file(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    bank_name = data.get('Bank Name', 'Unknown Bank')
-    seen_urls = set()
-    unique_internal_blocks = []
-
-    # Count initial number of web blocks
-    initial_count = 0
+    results = []
     for search_result in data.get('search_results', []):
-        web_blocks = search_result.get('search_result', {}).get('data', [])
-        for block in web_blocks:
-            web_list = block.get('results', {}).get('web', [])
-            initial_count += len(web_list)
+        topic = search_result.get('topic', None)
+        entries = []
+        seen_urls = set()
+        for sr in search_result.get('search_result', []):
+            web_list = sr.get('results', {}).get('web', [])
             for entry in web_list:
-                url = entry.get('url', '')
-                if is_valid_url(url, seen_urls):
-                    # Remove 'favicon' and 'position' keys if present
-                    entry = dict(entry)  # shallow copy
-                    entry.pop('favicon', None)
-                    entry.pop('position', None)
-                    entry.pop('image', None)
-                    unique_internal_blocks.append(entry)
-
-    output_data = {
-        "Bank Name": bank_name,
-        "unique_internal_blocks": unique_internal_blocks
-    }
+                url = entry.get('url')
+                if url and is_valid_url(url, seen_urls):
+                    entries.append({
+                        'url': url,
+                        'title': entry.get('title'),
+                        'text': entry.get('text')
+                    })
+        if topic is not None:
+            results.append({
+                'topic': topic,
+                'entries': entries
+            })
 
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
-
-    print(f"{bank_name}: {initial_count} initial, {len(unique_internal_blocks)} after filtering.")
-
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
 def process_all_files():
     files = [f for f in os.listdir(OBJECTS_DIR) if f.endswith('.json')]
-    total_urls = 0
     for fname in files:
         input_path = os.path.join(OBJECTS_DIR, fname)
         output_path = os.path.join(URLS_DIR, fname.replace('.json', '.unique_webs.json'))
-        # print(f"Processing {fname} ...")
-        # Capture the number of unique urls for this file
-        with open(input_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        seen_urls = set()
-        for search_result in data.get('search_results', []):
-            web_blocks = search_result.get('search_result', {}).get('data', [])
-            for block in web_blocks:
-                web_list = block.get('results', {}).get('web', [])
-                for entry in web_list:
-                    url = entry.get('url', '')
-                    if is_valid_url(url, seen_urls):
-                        pass
-        total_urls += len(seen_urls)
         process_file(input_path, output_path)
-        # print(f"Cleaned file written to: {output_path}")
-    print(f"Total unique URLs after cleaning: {total_urls}")
 
 if __name__ == '__main__':
     process_all_files()
