@@ -334,5 +334,152 @@
         "took": 0.7042045593261719
       }
     }
+  },
+  {
+    "Bank Name": "Bank of Afghanistan",
+    "query": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:dab.gov.af (inurl:research OR inurl:working-papers OR inurl:studies OR inurl:discussion) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Studies\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 1.016770601272583
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:publicacoes OR inurl:relatorios OR inurl:boletins OR inurl:publicacoes-e-relatorios) (intitle:\"Publicações\" OR intitle:\"Relatórios\" OR intitle:\"Boletins\" OR intitle:\"Relatório Anual\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:publicacoes OR inurl:relatorios OR inurl:boletins OR inurl:publicacoes-e-relatorios) (intitle:\"Publicações\" OR intitle:\"Relatórios\" OR intitle:\"Boletins\" OR intitle:\"Relatório Anual\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8633038997650146
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:estatisticas OR inurl:dados OR inurl:data OR inurl:indicadores) (intitle:\"Estatísticas\" OR intitle:\"Dados\" OR intitle:\"Indicadores Económicos\" OR intitle:\"Séries Estatísticas\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:estatisticas OR inurl:dados OR inurl:data OR inurl:indicadores) (intitle:\"Estatísticas\" OR intitle:\"Dados\" OR intitle:\"Indicadores Económicos\" OR intitle:\"Séries Estatísticas\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8999660015106201
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:politica-monetaria OR inurl:estabilidade-financeira OR inurl:supervisao OR inurl:regulamentacao) (intitle:\"Política Monetária\" OR intitle:\"Estabilidade Financeira\" OR intitle:\"Relatório de Estabilidade Financeira\" OR intitle:\"Supervisão Bancária\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:politica-monetaria OR inurl:estabilidade-financeira OR inurl:supervisao OR inurl:regulamentacao) (intitle:\"Política Monetária\" OR intitle:\"Estabilidade Financeira\" OR intitle:\"Relatório de Estabilidade Financeira\" OR intitle:\"Supervisão Bancária\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.8371822834014893
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:noticias OR inurl:comunicados OR inurl:press OR inurl:discursos OR inurl:eventos) (intitle:\"Notícias\" OR intitle:\"Comunicados de Imprensa\" OR intitle:\"Discursos\" OR intitle:\"Eventos\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:noticias OR inurl:comunicados OR inurl:press OR inurl:discursos OR inurl:eventos) (intitle:\"Notícias\" OR intitle:\"Comunicados de Imprensa\" OR intitle:\"Discursos\" OR intitle:\"Eventos\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3223576545715332
+      }
+    }
+  },
+  {
+    "Bank Name": "National Bank of Angola",
+    "query": "site:bna.ao (inurl:pesquisa OR inurl:estudos OR inurl:documentos-de-trabalho OR inurl:research OR inurl:working-papers) (intitle:\"Pesquisa\" OR intitle:\"Estudos Económicos\" OR intitle:\"Documentos de Trabalho\" OR intitle:\"Working Papers\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:bna.ao (inurl:pesquisa OR inurl:estudos OR inurl:documentos-de-trabalho OR inurl:research OR inurl:working-papers) (intitle:\"Pesquisa\" OR intitle:\"Estudos Económicos\" OR intitle:\"Documentos de Trabalho\" OR intitle:\"Working Papers\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.9230649471282959
+      }
+    }
+  },
+  {
+    "Bank Name": "Central Bank of the Republic of Azerbaijan",
+    "query": "site:cbar.az (inurl:research OR inurl:working-papers OR inurl:discussion-papers OR inurl:studies) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Research Papers\" OR intitle:\"Economic Studies\")",
+    "error": {
+      "data": [
+        {
+          "error": {
+            "type": "HANDLINE",
+            "code": "PROCESSING",
+            "message": null,
+            "query": {
+              "q": "site:cbar.az (inurl:research OR inurl:working-papers OR inurl:discussion-papers OR inurl:studies) (intitle:\"Research\" OR intitle:\"Working Papers\" OR intitle:\"Discussion Papers\" OR intitle:\"Research Papers\" OR intitle:\"Economic Studies\")"
+            }
+          }
+        }
+      ],
+      "meta": {
+        "took": 0.3993551731109619
+      }
+    }
   }
 ]

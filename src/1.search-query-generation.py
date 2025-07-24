@@ -81,6 +81,7 @@ def main():
     else:
         all_queries = {}
 
+    banks = banks[:10]
     total_banks = len(banks)
     for idx, (bank_name, bank_url) in enumerate(banks, 1):
         if bank_name in all_queries:

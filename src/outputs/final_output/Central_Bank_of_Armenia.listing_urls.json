@@ -1,0 +1,99 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/reports/6548/preview/",
+        "title": "Financial Stability Report (2023 annual report)",
+        "text": "Amid high levels of geopolitical and regional uncertainties, the financial system of Armenia maintained the normal process of financial ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/reports/1620/",
+        "title": "Financial Stability Report (2020 annual report) | CBA",
+        "text": "This Financial Stability Report presents an assessment of potential risks that could threaten the stability of the Republic of Armenia's ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/statistics/insurance-companies-other-economic-indicators/65",
+        "title": "Insurance companies other economic indicators | CBA",
+        "text": "Insurance companies other economic indicators ; Premium Amount Gross. 24,331,991.4, 33,911,829.7 ; Rinsurance Amount. 3,180,804.9, 4,545,324.7 ; Paid Amount Gross.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/en/statistics/indicators-of-financial-organizations/18",
+        "title": "Indicators of financial organizations | CBA",
+        "text": "Indicators of financial organizations ; Insurance companies · Insurance companies balance sheet indicators · Insurance companies other economic indicators · Main ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cba.am/en/statistics/financial-institutions-and-macroprudential-statistics/17",
+        "title": "Financial Institutions and Macroprudential Statistics | CBA",
+        "text": "Indicators of financial organizations · Banks · Credit Organizations · Insurance companies · Specialized people · Mandatory of pension funds ; Payment sysytem.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/monetary-policy-tools-and-instruments/",
+        "title": "Monetary Policy Tools and Instruments | CBA",
+        "text": "The CBA board makes decisions on monetary policy and sets the refinancing rate eight times per year, at fixed action dates.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/The-Process-of-Communicating-Decisions/",
+        "title": "The Process of Communicating Decisions | CBA",
+        "text": "The main channels of communication used by the Central Bank of Armenia in the field of financial stability are Financial Stability Reports (FSR), Board ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/how-does-monetary-policy-affect-inflation/",
+        "title": "How Does Monetary Policy Affect Inflation | CBA",
+        "text": "It explains the channels through which changes in policy rates affect aggregate demand and inflation.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/press-releases/",
+        "title": "Press releases | CBA",
+        "text": "The Central Bank of Armenia has joined the Global Financial Innovation Network (GFIN) with the aim of strengthening regulatory capabilities and promoting ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cba.am/en/articles-and-speeches/",
+        "title": "Articles and speeches | CBA - Կենտրոնական բանկ",
+        "text": "Central Bank of Armenia (CBA) is leading Armenia's digital transformation in financial markets, which is a key priority under its strategy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://old.cba.am/en/news/pages/default.aspx",
+        "title": "News",
+        "text": "Main page ; 30/06/2025 · Data template on International reserves and foreign currency liquidity ; 19/06/2025 · Minutes of the meeting held on June 17, 2025 and ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/our-work/article/research-agenda/5",
+        "title": "Research Agenda | CBA",
+        "text": "Research Agenda · Monetary Policy · Financial Stability and Supervision · Financial Markets and Payment Systems · Financial Literacy and Inclusion.",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

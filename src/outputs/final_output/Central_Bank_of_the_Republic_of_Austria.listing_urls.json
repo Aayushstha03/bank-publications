@@ -1,0 +1,117 @@
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.oenb.at/en/Publications/Economics/reports.html",
+        "title": "OeNB Reports",
+        "text": "The OeNB Reports series makes the OeNB's model- and data-based work in economics accessible to the public. It regularly features our economic outlook for ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.oenb.at/en/Publications.html",
+        "title": "Publications - Oesterreichische Nationalbank (OeNB)",
+        "text": "Ausgewählte Publikationen · Payments · Economics · Financial Market · Financial Literacy · OeNB · Statistics.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.oenb.at/en/Publications/Economics.html",
+        "title": "Economics - Oesterreichische Nationalbank (OeNB)",
+        "text": "The OeNB's economic publications series have been redesigned to keep up with publication trends and engage with a broader audience. OeNB Reports. Details: OeNB ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.oenb.at/en/Statistics.html",
+        "title": "Statistics - Oesterreichische Nationalbank (OeNB)",
+        "text": "The OeNB is committed to providing a broad range of current statistics in user-friendly formats to the public and has established a statistics hotline.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.oenb.at/en/Statistics/Standardized-Tables.html",
+        "title": "Data - Oesterreichische Nationalbank (OeNB)",
+        "text": "Here you will find the newest statistical data, arranged by topic in one of ten sections. The statistics are made available by the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.oenb.at/en/Statistics/sdds-plus/national-summary-data-page.html",
+        "title": "National Summary Data Page - Oesterreichische Nationalbank",
+        "text": "The data shown in this page correspond to the data described on the International Monetary Fund's Dissemination Standards Bulletin Board (DSBB).",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.oenb.at/en/Monetary-Policy/Monetary-Policy-Objectives/Monetary-Policy-and-Financial-Stability.html",
+        "title": "Monetary policy and financial stability - Oesterreichische Nationalbank",
+        "text": "In essence, monetary policy can only be effective if financial markets are fully integrated and function smoothly and efficiently.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.oenb.at/en/financial-market/macroprudential-supervision.html",
+        "title": "Macroprudential supervision - Oesterreichische Nationalbank",
+        "text": "Macroprudential supervision is the forward-looking analysis and identification of risks to the stability of the financial system.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.oenb.at/en/Monetary-Policy/Monetary-Policy-Objectives.html",
+        "title": "Monetary policy objectives - Oesterreichische Nationalbank",
+        "text": "The primary objective of the Eurosystem's monetary policy is to maintain price stability. The Eurosystem defines price stability as a year-on-year increase.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.oenb.at/en/Media.html",
+        "title": "Recent press releases - Oesterreichische Nationalbank",
+        "text": "Recent press releases. You may also download current and previous press releases from the Press Archives.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.oenb.at/en/Media/Press-Archives.html?currentPage=0&category=&topic=&dateFrom=&dateTo=19.07.2025",
+        "title": "Press releases - Oesterreichische Nationalbank (OeNB)",
+        "text": "Press releases · Financial Stability June 10, 2025. Austrian banks are well positioned to navigate very challenging economic times · Monetary Policy May 22, 2025 ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.oenb.at/en/Media/Speeches-and-Presentations.html?currentPage=3",
+        "title": "Speeches and presentations - Oesterreichische Nationalbank",
+        "text": "On the respective subpages you will find speeches and presentations held by members of the Governing Board or other speakers. Check against delivery.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.oenb.at/en/Publications/Economics/Working-Papers.html",
+        "title": "Working Papers - Oesterreichische Nationalbank (OeNB)",
+        "text": "The OeNB working papers disseminate work by staff and outside contributors on topics of interest to the OeNB, and are subject to international refereeing.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.oenb.at/en/Monetary-Policy/Research.html",
+        "title": "Research - Oesterreichische Nationalbank (OeNB)",
+        "text": "OeNB research focuses on monetary and fiscal policy, real economy, financial stability, real estate, and Central, Eastern and Southeastern Europe.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.oenb.at/en/Publications/Economics/Working-Papers/2024/working-paper-259.html",
+        "title": "Working Paper 259 - Oesterreichische Nationalbank (OeNB)",
+        "text": "Working Paper 259. Households' risk perceptions, overplacement, and financial literacy. Working Paper 259 OeNB. Authors: Tabea Bucher-Koenen, Pirmin Fessler ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]
