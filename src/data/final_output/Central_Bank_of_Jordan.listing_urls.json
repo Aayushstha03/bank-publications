@@ -1,5 +1,80 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Insurance_publications",
+        "title": "Insurance publications - Central Bank of Jordan",
+        "text": "Payment Systems Legislations Memorandums of Understanding (MoUs) Circulars Instructions Regulations Bylaws Laws Jordanian Constitution Anti-Money Laundering ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/en/Pages/Monthlystatistical",
+        "title": "Monthly Statistical Bulletin - Central Bank of Jordan",
+        "text": "Monthly Statistical Bulletin - Central Bank of Jordan.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.cbj.gov.jo/En/List/Annual_Statistical_Bulletin",
+        "title": "Annual Statistical Bulletin - Central Bank of Jordan",
+        "text": "To view and download the Annual Statistical Bulletin, please select from the list below. View All Money and Banking Sector Public Finance Sector External ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Archived_Of_Monthly_Statistical_Bulletin",
+        "title": "Archived Of Monthly Statistical Bulletin - Central Bank of Jordan",
+        "text": "To view and download Archived Of Monthly Statistical Bulletin , please choose from the list below.... View All, 2025, 2023, 2024, 2022, 2020, 2021, 2019 ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbj.gov.jo/En/List/Special_Data_Dissemination_Standard_SDDS",
+        "title": "Special Data Dissemination Standard (SDDS) - Central Bank of Jordan",
+        "text": "The Special Data Dissemination Standard (SDDS) was established by the International Monetary Fund (IMF) in 1996. The standard aims to improve the coverage scope ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/Forms/Evaluation_Questionnaire_for_the_Monetary_and_Balance_of_Payments_Statistics?View=1049&__ncforminfo=cfA62z6K9xkGR1V5Z0e2esLKBXJOhfHtTZS-ADwkex4ktvc6pcdTC95wbzc6knzCTZvRBZFhBJCaKbs_w4DK_w4DK-waNeCLFWyje",
+        "title": "Evaluation Questionnaire for the Monetary and Balance of Payments ...",
+        "text": "Evaluation Questionnaire for the Monetary and Balance of Payments Statistics.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Instructions_",
+        "title": "Regulations - Central Bank of Jordan",
+        "text": "To view and download Regulations, please select from the list below.... View All, Banking Sector, Open Market Opeartions, Money Exchange, Microfinance ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbj.gov.jo/En/Pages/Monetary_Policy_Objectives",
+        "title": "Monetary Policy Objectives - Central Bank of Jordan",
+        "text": "The Central Bank of Jordan is the only party responsible for implementing and managing the monetary policy defined as the set of procedures and measures ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Antimoney_laundering_and_terrorist_financing_policy",
+        "title": "Anti-money laundering and terrorist financing policy - Central Bank of ...",
+        "text": "Anti-money laundering and terrorist financing policy.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Monetary_Policy_Measures_and_Supporting_Liquidity",
+        "title": "Monetary Policy Measures and Supporting Liquidity - Central Bank ...",
+        "text": "Monetary Policy Measures and Supporting Liquidity ... To view and download monetary policy measures and liquidity support, please choose from the list below....",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
     "topic": "news",
     "entries": [
       {
@@ -7,6 +82,86 @@
         "title": "News - Central Bank of Jordan",
         "text": "News · The Open Market Operations Committee decides to maintain interest rates on all monetary instruments · The Central Bank of Jordan organizes the first ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbj.gov.jo/En/List/Latest_News_N_EN",
+        "title": "Latest News - Central Bank of Jordan",
+        "text": "Latest News ; The Central Bank of Jordan Announces the Joining of Jo-FinCERT to TF-CSIRT, Details ; The official joining of Jo-FinCERT to the Cyber Incident ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Research_and_working_papers",
+        "title": "Research and working papers - Central Bank of Jordan",
+        "text": "To view and download research and working papers, please choose from the classification below.... ... Title Please fill the correct format. Search ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/ListDetails/Research_and_working_papers/2312/1",
+        "title": "Research and Working Papers - Central Bank of Jordan",
+        "text": "Research and Working Papers ... The results of the study showed that the manufacturing sector came at the forefront of economic sectors, in terms of its ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Announcements?View=2378&__ncforminfo=fCE2ewKkEMauKozwqF2OgRMBgwB3FE_DAflpc5O7sG1E6WTdG8d7VZNOCHgAZwbyPpEiZxnBi3aaShLS1koc9PdYesW6_BKh",
+        "title": "Announcements - Central Bank of Jordan",
+        "text": "To view and download the Announcements, please select from the list below.... File Name Please fill the correct format.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/ListDetails/Auctions_Announcements_and_Results/2388/841",
+        "title": "Auctions Announcements and Results - Central Bank of Jordan",
+        "text": "On behalf of the Government of the Hashemite Kingdom of Jordan, The Central Bank of Jordan announces the auction of the issue no. (04) of ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Auctions_Announcements_and_Results",
+        "title": "Auctions Announcements and Results - Central Bank of Jordan",
+        "text": "Auctions Announcements and Results · The offering of issues (22) of National Electric Power Company (NEPCO) bonds · The result of issue (22/2025) of Jordanian ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/ListDetails/Auctions_Announcements_and_Results/2388/843",
+        "title": "Auctions Announcements and Results - Central Bank of Jordan",
+        "text": "Auctions Announcements and Results · Coupon% · Accepted rate% · Coverage ratio · Accepted bids · Received bids · Maturity date · Issue date · Term.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.cbj.gov.jo/EN/ListDetails/Auctions_Announcements_and_Results/2388/842",
+        "title": "Auctions Announcements and Results - Central Bank of Jordan",
+        "text": "Auctions Announcements and Results ; Coupon%. Accepted rate% ; Coupon% · lowest. Highest ; 6.194. 6.180. 6.200.",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/EN/List/Threats_and_Alerts",
+        "title": "Threats and Alerts - Central Bank of Jordan",
+        "text": "Threats and Alerts · Cyber Security Advisory Reports · Cyber Threat Intelligence Reports.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.cbj.gov.jo/EN/Pages/The_Fintech_Communication_Strategy?View=3410&__ncforminfo=qo_5_Zmpz2-Z_8ySjV_J5dqmGqDF8DUZiGcsQtpygBVtiLazhvOvwmmj6_GaKTJzc2gRtpNNyLb53paWt8yKEWOF3dXVkQF9",
+        "title": "The Fintech Communication Strategy - Central Bank of Jordan",
+        "text": "The Fintech Communication Strategy.",
+        "listing_probability": 0.1
       }
     ]
   }

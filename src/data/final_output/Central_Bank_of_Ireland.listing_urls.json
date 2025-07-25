@@ -3,21 +3,33 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.centralbank.ie/publication",
+        "title": "Publications | Central Bank of Ireland",
+        "text": "The Central Bank publishes various publications including its Strategic Plan and annual reports detailing progress against our stated goals.",
+        "listing_probability": 0.98
+      },
+      {
         "url": "https://www.centralbank.ie/publication/corporate-reports",
         "title": "Corporate Reports | Central Bank of Ireland",
         "text": "The corporate publications of the Central Bank of Ireland. CSR Annual Report 2021 · Our Strategy · Annual Report 2024 and Annual Performance Statement 2024-2025 ...",
-        "listing_probability": 0.95
-      },
-      {
-        "url": "https://www.centralbank.ie/statistics/statistical-publications",
-        "title": "Statistical Publications | Central Bank of Ireland",
-        "text": "The Central Bank of Ireland provides a detailed analysis and dissemination of Irish financial statistics. Our statistical analysis provides a key impact to the ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.centralbank.ie/publication/corporate-reports/annual-reports",
         "title": "Annual Reports Archive | Central Bank of Ireland",
         "text": "Annual Reports Archive ; pdf, 29/05/2025, Annual Report 2024 and Annual Performance Statement 2024-2025 ; pdf, 30/05/2024, Annual Report 2023 and Annual ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.ie/statistics/statistical-publications",
+        "title": "Statistical Publications | Central Bank of Ireland",
+        "text": "The Central Bank of Ireland provides a detailed analysis and dissemination of Irish financial statistics. Our statistical analysis provides a key impact to the ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.ie/research-exchange/research-publications",
+        "title": "Research Publications | Central Bank of Ireland",
+        "text": "View the range of Research Publications including Technical Papers, Staff Insights and more.",
         "listing_probability": 0.98
       }
     ]
@@ -26,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.centralbank.ie/statistics/data-and-analysis",
+        "title": "Data & Analysis | Central Bank of Ireland",
+        "text": "We publish and provide data and commentary on a broad range of financial developments in Ireland. Our statistical analysis assists policy makers.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.centralbank.ie/statistics",
         "title": "Statistics | Central Bank of Ireland",
         "text": "The Central Bank's published data and commentary covers areas such as credit and deposits developments, mortgage arrears, interest rates, investment funds, ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.ie/statistics/data-and-analysis",
-        "title": "Data & Analysis | Central Bank of Ireland",
-        "text": "We publish and provide data and commentary on a broad range of financial developments in Ireland. Our statistical analysis assists policy makers.",
-        "listing_probability": 0.95
+        "url": "https://www.centralbank.ie/statistics/statistical-publications",
+        "title": "Statistical Publications | Central Bank of Ireland",
+        "text": "The Central Bank of Ireland provides a detailed analysis and dissemination of Irish financial statistics. Our statistical analysis provides a key impact to the ...",
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.centralbank.ie/statistics/data-and-analysis/credit-and-banking-statistics",
         "title": "Credit and Banking Statistics | Central Bank of Ireland",
         "text": "Credit and Banking Statistics. The credit, money and banking section includes statistics and commentary on monetary and credit conditions in Ireland.",
-        "listing_probability": 0.95
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.centralbank.ie/statistics/statistical-publications/insurance-statistics",
+        "title": "Insurance Statistics | Central Bank of Ireland",
+        "text": "The Insurance Statistics or 'Blue Book' was an annual publication of the Central Bank, which reproduced regulatory reporting data under Solvency I.",
+        "listing_probability": 0.2
       }
     ]
   },
@@ -58,13 +82,7 @@
         "url": "https://www.centralbank.ie/regulation/how-we-regulate/policy",
         "title": "Policy | Central Bank of Ireland",
         "text": "Regulatory Policy. Developing and maintaining the regulatory policy framework for Ireland's financial services sector is a key part of our mandate.",
-        "listing_probability": 0.05
-      },
-      {
-        "url": "https://www.centralbank.ie/financial-system/financial-stability/macro-prudential-policy",
-        "title": "Macro-prudential Policy | Central Bank of Ireland",
-        "text": "Macroprudential policy looks to ensure the financial system can absorb, rather than amplify, adverse shocks.",
-        "listing_probability": 0.05
+        "listing_probability": 0.15
       }
     ]
   },
@@ -75,19 +93,31 @@
         "url": "https://www.centralbank.ie/news-media/speeches",
         "title": "Speeches | Central Bank of Ireland",
         "text": "Speeches ; Vasileios Madouros, Deputy Governor, Monetary and Financial Stability. 08 July 2025 ; Gabriel Makhlouf, Governor. 05 July 2025 ; Gabriel Makhlouf, ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.centralbank.ie/regulation/innovation-hub/speeches-and-publications",
         "title": "Speeches and publications | Central Bank of Ireland",
-        "text": "Speeches and publications · 27 May 2025: Speech by Gerry Cross, Director, Capital Markets and Funds, Central Bank of Ireland at Blockchain Ireland Summit 2025.",
-        "listing_probability": 0.9
+        "text": "The Central Bank of Ireland publishes recent speeches on financial innovation, and publications such as guidance on regulated firms and Innovation Hub Reports.",
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.centralbank.ie/news-media",
         "title": "News and media | Central Bank of Ireland",
         "text": "Keep up-to-date with the latest press releases and speeches from the Central Bank. You'll also find information on concluded Enforcement Actions and updates.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.ie/news-media/press-releases",
+        "title": "Press Releases | Central Bank of Ireland",
+        "text": "02 July 2025 Press Release. The Central Bank takes enforcement action against Swilly Mulroy Credit Union for breaches of Anti-Money Laundering requirements.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.ie/news-media/governors-content/governor-speeches",
+        "title": "Governors Speeches | Central Bank of Ireland",
+        "text": "Governor Makhlouf's speeches cover topics such as monetary policy, geoeconomic fragmentation, consumer protection, and the changing financial system.",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -98,12 +128,63 @@
         "url": "https://www.centralbank.ie/research-exchange/research-publications/research-technical-papers",
         "title": "Research Technical Papers | Central Bank of Ireland",
         "text": "Our Research Technical Papers series contains original high-quality research that is academically rigorous and is suitable for publication in well-regarded ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.ie/publication/consultation-papers/cp153-enhanced-governance-performance-and-accountability-in-financial-services-regulation-and-guidance-under-the-central-bank",
+        "title": "CP153 - Enhanced governance, performance and accountability in ...",
+        "text": "The draft regulations and guidance seek to provide clarity in terms of the Central Bank's expectations for the implementation of three aspects of the framework.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/regulation/how-we-regulate/international-financial-sanctions/financial-sanctions-updates",
+        "title": "Financial Sanctions Updates | Central Bank of Ireland",
+        "text": "On this page, the Central Bank will provide regular updates, as new and/or amended restrictive measures are adopted. The updates will be categorised by year ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.ie/research-exchange/research-engagement-programme",
-        "title": "Research Engagement Programme - Research Exchange | Central ...",
-        "text": null,
+        "url": "https://www.centralbank.ie/regulation/how-we-regulate/fitness-probity/fitness-and-probity-consultation-updates",
+        "title": "Fitness and Probity Consultation and Updates - Central Bank of Ireland",
+        "text": "The Central Bank of Ireland has launched a consultation on revisions to its Fitness & Probity (F&P) Regime.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.centralbank.ie/regulation/markets-update/iosco/markets-update-issue-5-2020/international-organization-of-securities-commissions-(iosco)/please-see-here-for-iosco-updates",
+        "title": "Please see here for IOSCO updates - Central Bank of Ireland",
+        "text": "View all updates in relation to IOSCO.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/news-media/warning-notices",
+        "title": "Warning Notices - Central Bank of Ireland",
+        "text": "Warning 01 April 2025 Warning Notice Ben Loan Services - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ie/consumer-hub/consumer-notices",
+        "title": "Warnings and Alerts | Central Bank of Ireland",
+        "text": "Central Bank warns on scam targeting consumers seeking cash loans · Investor Warning: Retail investors at risk when trading in volatile markets · Warning on ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ie/regulation/markets-update/iosco/markets-update-issue-2-2018/international-organization-of-securities-commissions-(iosco)/iosco-board-communication-on-concerns-related-to-initial-coin-offerings-(icos)",
+        "title": "IOSCO Board communication on concerns related to Initial Coin ...",
+        "text": "IOSCO Board communication on concerns related to Initial Coin Offerings (ICOs). IOSCO. All Articles in this Issue. Date: 26 January 2018.",
         "listing_probability": 0.1
       }
     ]

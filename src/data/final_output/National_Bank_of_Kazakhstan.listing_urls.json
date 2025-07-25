@@ -1,24 +1,94 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://nationalbank.kz/en/news/publikacii-i-doklady",
+        "title": "Publications and reports | National Bank of Kazakhstan",
+        "text": "The announcement of the National Bank of the Republic of Kazakhstan about the document of Committee on payments and market infrastructures.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/banks-reporting",
+        "title": "Total reports | National Bank of Kazakhstan",
+        "text": "Home · Statistics · Performance of financial sector · Banking sector · Total reports. Total reports. Date of next publication: 20.08.2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/organizations-reporting",
+        "title": "Total reports | National Bank of Kazakhstan",
+        "text": "Total reports · The Consolidated Balance Sheet of Mortagage Organisations of the Republic of Kazakhstan · The Consolidated Profit and Loss Account of Mortgage ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://nationalbank.kz/file/download/85821",
+        "title": "Republic of Kazakhstan: 2019 Article IV Consultation-Press ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://nationalbank.kz/en/news/statisticheskiy-byulleten",
+        "title": "NBK Statistical Bulletin | National Bank of Kazakhstan",
+        "text": "... Analytical and statistical publications · NBK Statistical Bulletin. NBK Statistical Bulletin. Date of next publication: 31.07.2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/statisticheskiy-byulleten/rubrics/409",
+        "title": "NBK Statistical Bulletin | National Bank of Kazakhstan",
+        "text": "Home · Publications · Analytical and statistical publications · NBK Statistical Bulletin. NBK Statistical Bulletin. Date of next publication: 30.06.2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/statistika-po-platezhnym-instrumentam",
+        "title": "Statistics of payment instruments | National Bank of Kazakhstan",
+        "text": "In May 2025, 1,430,510.5 thousand transactions worth 87,411.6 billion KZT were made. Payment orders and cards are most common, with cards used for small sums. ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://nationalbank.kz/file/download/12775",
+        "title": "Statistical - BULLETIN",
+        "text": "Net Foreign Assets. 8 623 273. 10 742 965. 11 810 039. 12 632 172. 12 596 298. 12 426 304. 12 257 121. Net International Reserves. 4 087 408. 4 269 267.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
     "topic": "monetary_policy",
     "entries": [
+      {
+        "url": "https://nationalbank.kz/en/page/obzor-inflyacii-dkp",
+        "title": "Monetary Policy Report | National Bank of Kazakhstan",
+        "text": "Monetary Policy Report May 2025. 2 Мб · 11.06.2025 ; Statistical information (MPR, May 2025). 1.82 Мб · 11.06.2025 ; Monetary Policy Report February 2025. 2.02 Мб.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nationalbank.kz/en/page/policy_framework",
+        "title": "Framework and purpose of monetary policy | National Bank of Kazakhstan",
+        "text": "Monetary policy is a set of measures aimed at regulating the value of money in the economy to ensure price stability.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://nationalbank.kz/en/page/komitet-po-dkp",
+        "title": "Monetary Policy Committee | National Bank of Kazakhstan",
+        "text": "The Monetary Policy Committee is a decision-making body on monetary policy issues. sets the base rate, sets the interest rates on the main operations of ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/obzor-inflyacii",
+        "title": "Monetary Policy Report | National Bank of Kazakhstan",
+        "text": "Monetary Policy Report February 2025 2.02 Мб Date of publication: 17.03.2025 Statistical information (MPR, February 2025) 727.66 Кб Date of publication: 17.03.",
+        "listing_probability": 0.9
+      },
       {
         "url": "https://nationalbank.kz/en/news/monetary-policy-strategy",
         "title": "Monetary Policy Strategy 2030 | National Bank of Kazakhstan",
         "text": "The Monetary Policy Strategy 2030 is a long-term document that determines the direction of development of monetary policy until 2030.",
         "listing_probability": 0.1
-      },
-      {
-        "url": "https://nationalbank.kz/en/page/monetary-policy-instruments",
-        "title": "Monetary policy instruments system | National Bank of Kazakhstan",
-        "text": "Purpose. Type of Instrument. Instrument. Collateral. Frequency. Provision / withdrawal duration. liquidity provision. standing facilities.",
-        "listing_probability": 0.05
-      },
-      {
-        "url": "https://kazcoins.nationalbank.kz/en/policy",
-        "title": "CONFIDENTIALITY POLICY - https://kazcoins.nationalbank.kz",
-        "text": "2.2. The Policy applies only to the Service. The Administrator does not control and is not responsible for third-party websites and software to which the User ...",
-        "listing_probability": 0.05
       }
     ]
   },
@@ -35,13 +105,71 @@
         "url": "https://nationalbank.kz/en/news/novosti",
         "title": "News | National Bank of Kazakhstan",
         "text": "News · The Balance of Payments of the Republic of Kazakhstan for the 9 months of 2022 · The National Bank Governor comments on the main outcomes of 2022 and ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/press-relizy/rubrics/185",
+        "title": "Press releases | National Bank of Kazakhstan",
+        "text": "Home · Press center and research · Press releases. Press releases. Expand filter. Search in the section. Period from. January, February, March, April.",
         "listing_probability": 0.95
       },
       {
         "url": "https://nationalbank.kz/en/news/press-relizy/rubrics/1701",
         "title": "Press releases | National Bank of Kazakhstan",
         "text": "Press releases · Situation on Financial Market in November 2022 · Issue of KÓSHPENDI SADAǴY collectible coins · Issue of bicolor Saka style circulation coins.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/platezhnyy-balans-vn-sektora",
+        "title": "Balance of Payments | National Bank of Kazakhstan",
+        "text": "The Balance of Payments is a statistical report that shows all economic transactions of Kazakhstan with other countries over a specific period.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://nationalbank.kz/en/page/anons-predstoyashchih-oficialnyh-sobytiy",
+        "title": "Announcements of upcoming official events | National Bank of Kazakhstan",
+        "text": "Announcements of upcoming official events. 2022: Meeting of the Advisory Board on Monetary Policy (May); Meeting of the Working Group of the National Bank ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nationalbank.kz/en/page/distributivy-i-obnovleniya-po",
+        "title": "Distributions and software updates | National Bank of Kazakhstan",
+        "text": "Home · Statistics; Additional information; Distributions and software updates. Distributions and software updates. The section is being filled. Back.",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.nationalbank.kz/en/news/informacionnye-soobshcheniya/13333",
+        "title": "113,440 loan requests accepted within 7-20-25 program ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/informacionnye-soobshcheniya/14018",
+        "title": "50,895 loans were extended within '7-20-25' Program | Public ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/informacionnye-soobshcheniya/14549",
+        "title": "56,996 loans were extended within '7-20-25' Program | Public ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://nationalbank.kz/en/news/informacionnye-soobshcheniya/15392",
+        "title": "On Kazakhstan Macro & Market Overview | Public information ...",
+        "text": null,
+        "listing_probability": 0.05
       }
     ]
   }

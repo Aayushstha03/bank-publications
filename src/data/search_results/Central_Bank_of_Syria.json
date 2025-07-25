@@ -1,4 +1,148 @@
 {
   "Bank Name": "Central Bank of Syria",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://cb.gov.sy/index.php?page=show&ex=2&dir=items&lang=2&ser=1&cat_id=562&act=562&",
+                "title": "Periodic Reports",
+                "text": "Periodic Reports: Market Reports (Daily - Financial Markets), Weekly Economic Report, Monthly Inflation Reports, Central Bank of Syria Annual Reports, ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cb.gov.sy/index.php?page=list&ex=2&dir=publications&lang=1&service=6",
+                "title": "تقارير الأعمال السنوية - مصرف سورية المركزي",
+                "text": "تقارير الأعمال السنوية · التقرير السنوي لأعمال مصرف سوريا المركزي عام 2019. 2019 · التقرير السنوي لأعمال مصرف سوريا المركزي عام 2018. 2018 · التقرير السنوي لأعمال ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cb.gov.sy/index.php?Last=69&CurrentPage=2&First=0&page=list&ex=2&dir=publications&lang=1&service=9",
+                "title": "تقارير الأسواق (اليومي- الأسواق المالية) - مصرف سورية المركزي",
+                "text": "تقارير الأسواق (اليومي- الأسواق المالية) ; تقرير الأسواق اليومي (02- 09 - 2024). 2024-09-02 ; تقرير الأسواق اليومي (29- 08 - 2024). 2024-08-29 ; تقرير الأسواق ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.cb.gov.sy/index.php?page=list&ex=2&dir=publications&lang=1&service=9&act=1559",
+                "title": "تقارير الأسواق (اليومي- الأسواق المالية) - مصرف سورية المركزي",
+                "text": "تقارير الأسواق (اليومي- الأسواق المالية) ; تقرير الأسواق اليومي (27- 01 - 2025). 2025-01-27 ; تقرير تطور الأسواق المالية في سورية الربع الثالث 2024. 2025-01-23.",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://cb.gov.sy/index.php?page=list&ex=2&dir=publications&lang=1&service=7&act=561",
+                "title": "أوراق بحثية - مصرف سورية المركزي",
+                "text": "أوراق بحثية · دليل تشريعات الاقتصاد السوري عن الربع الثالث لعام 2024 · دليل تشريعات الاقتصاد السوري عن النصف الاول لعام 2024 · دليل تشريعات الاقتصاد السوري لعام ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://cb.gov.sy/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cb.gov.sy/index.php?page=dept&ex=2&dir=councils&lang=2&service=5&cat_id=39",
+                "title": "Directorate of Economic Research, General Statistics and Planning",
+                "text": "Organizing monetary and economic statistical tables primarily for use in preparing the Central Bank of Syria's statistical bulletin. · Managing foreign exchange ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cb.gov.sy/index.php?page=show&ex=2&dir=items&lang=2&ser=1&cat_id=751&act=751&",
+                "title": "Statistics",
+                "text": "Monetary Statistics. • Balance of Payments Statistics. • Monetary and Banking Statistics. • Financial statistics. • General economic statistics ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://cb.gov.sy/index.php?page=show&ex=2&dir=items&lang=2&ser=1&cat_id=777&act=777&",
+                "title": "Exchange Rate Bulletin",
+                "text": "Official Market Bulletin (Buy – Sell) Exchange Companies Rates Bulletin (Discontinued since 2017) Guides Standard Manual for Banking Operations",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://cb.gov.sy/downloads/files/Q-bulletin-1978-1-2-3-4.pdf",
+                "title": "يزكرملا ةيروس فرصم",
+                "text": "يأب يزكرملا ةيروس فرصم مزلت ال ةرشنلا هذه يف ةروشنملا تاقيلعتلاو ءارآلا نا : ةظحالم. ةيروس فرصم - عجارملاو تاساردلا ةرئاد ىلا تالسارملاو مالعتسالا تابلط ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://cb.gov.sy/downloads/files/Q-bulletin-1986-1-2-3-4.pdf",
+                "title": "يزكرملا ةيروس فرصم",
+                "text": "2881.1. 76.5. 9902.2. 8600.5. 55752.5. 77212.8. 22140.6. 3056.3. 76.5. 9774.4. 8756.2. 54953.5. 76616.9. 22002.9. 3627.2. 76.5. 10069.7. 8744.1. 55224.2.",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://cb.gov.sy/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cb.gov.sy/index.php?page=show&ex=2&dir=items&lang=2&ser=1&cat_id=596&act=596&",
+                "title": "Monetary Policy",
+                "text": "This policy aims to stabilize the exchange rate of the Syrian pound and maintain a low and stable inflation rate. By achieving these objectives, the Central ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://cb.gov.sy/index.php?page=show&ex=2&dir=items&lang=2&ser=1&cat_id=555&act=555&",
+                "title": "Monetary Policy Implementation Committee",
+                "text": "The Monetary Policy Committee was formed in accordance with the provisions of Article 7 of Decree No. 21 of 2011, amending the law regulating the work of ...",
+                "source": "مصرف سورية المركزي",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAABX1BMVEVHcEwQKXiNmb9qgKoaLYPx9PmCkroHHi3Azd8iRpN6ibMAACadq8uqtMuVo8Sxv9bN1eSxvdPg5O2Lm7+frszN2em2xNvq7fLFz+G/y97W3epeeKnJ0N6xvNRebqm7yd5yh7DEz+Cwv9mxv9bg5u6itNF3g5RKW5YAHHKEnMGlttIDQpJ6o8d9ncmnr8fEydK5iJm8zOPJ1ujN2erR3e3B0eXG0+b////n7/iovdq/z+TV4O6vw93b5fG2yN+ftdSLoMYAFmWEk7oCAADg3txbapj4+fmUlZNTYJBidaDB1euru81xfKOlpaWTrdGOmbbS0c7qi481SoCJiIcANXbihIlAWY7KAgNke6zFAADBwLt+jbLJzNzt7e23trSWya93lMHZPjPDk6EAPHoAAFR1o4UAJWy02cWKio48OS53f4bTGhh5d3ErIw7ng3wABVzlpaC5tsL0xL4ABl3G6NrrGJ3cAAAAMXRSTlMAJX1jHvxDCfE8WBWZqFrF27X9kbvx4e3O6eVRkoM24Ke/6/7p0/tnQrbkdtjuZb/yJso00wAAAsFJREFUKJF1U2Vz20AUlFFmitlOHOakPdCJ0ZKZk4bjYAMTKP7/qQydNp30fZFGu9rbfe8eRb2tYHxxI0D9v9wx7lSafw9x+L20/UgqXCVGU7TX73gDe6OJpZbPS60RHggLlNfXWkpEvX/wEAOwcWst0yEiAT4/t1y7NTBgQlN4Pt2QFGLt62euJAESWHGe6ft1+62RnrgJ+IAkofrdIO/PiQAq2Jsf3B0hSQK+SZ4I5iXAaPqBJ447HZ6HOc9A1wQg8WJknMwHAKMgQ99vEa1pl0Za+7qBFQYIi+5RwCQmAAhQv/ly9LXPstX20Y8bHQuAYVByHLaICCQQNfWD78efWHavfGLpSwQTQsTi2MMsB0UoKJ7at6sR4aH82LYqCsPICjc7JsykGUwEhWtcHx72Lz5Xy+XVBmfrI7A5M+0TIRAjGVw/HfbvL0YEIGMEEf7dqSySbQ1u8+PT4djDy+oiJyAkwoUJ7vcBKCAsO8NXE5OPYacoEgEBn39MoF0iAhCn5rZfj/s/76vl5+25FLb/QS56IjEjEyDH1wtbzauRyZfmVmE9KgMoTj3SMciIWXoDrO1cv9pHPOysCRt0FjMwNlHwjhrlpwIa39VMlu1pXVULUH77I54bE+II5oOjoWp1wzg7M7pHmq9g3848QeHxsIgdgKILiVZHrXdPjW5d7bQSBZpyykgIjixyJZcjmxNqltXhD+r1A16tWTWYyzpcJc5pC2SizlKKZXHjtF5T+Zpl463TBmTZVNoZzbip8Af/Ms9XTnpcw+gO1MtLddA1ANcbejp8Zn0hSTmoIla0jtmuVDiAVZVXkcCx5nPikldwkRr10hWIoZWouTfsnXs8HOc5r1Sq1fPsCs5FXNNp7caD9q0wT8yqed422+32SWLWXsLdf7YulPH0hsMeWzEzYfd720cFI+FSKpUOR/6GfwGSEZNJPLub+wAAAABJRU5ErkJggg==",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://cb.gov.sy/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    }
+  ]
 }

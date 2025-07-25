@@ -9,16 +9,28 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bkam.ma/en/Publications-and-research/Institutional-publications",
-        "title": "Institutional publications - BANK AL-MAGHRIB",
-        "text": "About us; Monetary Policy; Banking supervision; Systems and means of payment; FINANCIAL STABILITY; Markets; Banknotes and coins; Publications and Research ...",
-        "listing_probability": 0.98
+        "url": "https://www.bkam.ma/en/Publications-and-research/Institutional-publications/Annual-report-presented-to-his-majesty-the-king",
+        "title": "Annual Report presented to His Majesty the King - BANK AL-MAGHRIB",
+        "text": "Annual Report presented to His Majesty the King · Annual Report 2023 · Quick access · Latest Publications · News · Services to customers of credit institutions · Find ...",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.bkam.ma/en/Financial-stability/Publications/Annual-report-on-financial-stability-reports",
-        "title": "Annual report on financial Stability Reports - BANK AL-MAGHRIB",
-        "text": "This report gives a review of the events which emerged at the macroeconomic level in the international and national scene, the associated risks.",
-        "listing_probability": 0.1
+        "url": "https://www.bkam.ma/en/Banking-supervision/Publications",
+        "title": "Indicators and publications - BANK AL-MAGHRIB",
+        "text": "Under the Banking law, Bank Al -Maghrib publishes an annual report on banking supervision. This report, entitled \"Annual report on the control, activity and ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bkam.ma/en/Financial-stability/Publications/Articls/Financial-stability-reports",
+        "title": "Financial Stability Reports - BANK AL-MAGHRIB",
+        "text": "An annual report on the stability of the Moroccan financial market. This report gives a review of the events which emerged at the macroeconomic level.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Report-on-monetary-policy",
+        "title": "Report on monetary policy - BANK AL-MAGHRIB",
+        "text": "Monetary Policy Report - March 2024, Monetary Policy Report - June 2024, Monetary Policy Report - September 2024, Monetary Policy Report - December 2024.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -29,13 +41,25 @@
         "url": "https://www.bkam.ma/en/Statistics/Calendar/Quarterly-bulletin",
         "title": "Quarterly bulletin - BANK AL-MAGHRIB",
         "text": "Latest Publications ; Indice des prix des actifs immobiliers - 2025. Real estate price index - 2025 ; Enquête mensuelle de conjoncture dans l'industrie - 2025.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Monthly-economic-monetary-and-financial-bulletin",
         "title": "Monthly economic, monetary and financial bulletin",
         "text": "Monthly economic, monetary and financial bulletin - 2016. Select a document MONTHLY ECONOMIC, MONETARY AND FINANCIAL BULLETIN1 - April 2016. Download.",
-        "listing_probability": 0.85
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bkam.ma/en/Statistics/Banking-sector-statistics/Structure-of-the-banking-system",
+        "title": "Structure of the banking system - BANK AL-MAGHRIB",
+        "text": "Structure of the banking system. By the end of 2022, the number of accredited credit institutions and similar bodies in Morocco reached 90.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bkam.ma/en/content/view/full/283084",
+        "title": "Publication of Monetary Statistics - BANK AL-MAGHRIB",
+        "text": "Publication of Monetary Statistics · Quick access · Latest Publications · News · Services to customers of credit institutions · Find information about · For an ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -43,21 +67,33 @@
     "topic": "monetary_policy",
     "entries": [
       {
+        "url": "https://www.bkam.ma/en/Monetary-policy/Strategic-framework/Presentation",
+        "title": "Presentation - BANK AL-MAGHRIB",
+        "text": "The Bank seeks to conduct monetary policy in a transparent manner and to explain its decisions to all stakeholders and the general public.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bkam.ma/pedagogic/What-bank-al-maghrib-does/Monetary-policy",
+        "title": "Monetary policy - BANK AL-MAGHRIB",
+        "text": "Monetary policy refers to all the decisions taken by the Bank with the ultimate goal of preserving price stability.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Report-on-monetary-policy",
         "title": "Report on monetary policy - BANK AL-MAGHRIB",
         "text": "Monetary Policy Report - March 2024, Monetary Policy Report - June 2024, Monetary Policy Report - September 2024, Monetary Policy Report - December 2024.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bkam.ma/en/Procurement/Procurement-regulations",
         "title": "Procurement regulations - BANK AL-MAGHRIB",
         "text": "The Procurement Regulations of Bank Al-Maghrib represent a reference in this area. They set the terms and conditions of the Bank's procurements of activities, ...",
-        "listing_probability": 0.1
+        "listing_probability": 0.2
       },
       {
-        "url": "https://www.bkam.ma/en/Banknotes-and-coins/Maintenance-of-the-currency-quality/Clean-note-policy",
-        "title": "Clean Note Policy - BANK AL-MAGHRIB",
-        "text": "The Clean Note Policy is the whole set of knowledge, organizations and tools relating to controlling the quality of currency in circulation.",
+        "url": "https://www.bkam.ma/en/Monetary-policy/Institutional-framework/Mission",
+        "title": "Mission - BANK AL-MAGHRIB",
+        "text": "Bank Al-Maghrib exerts every effort to ensure greater transparency of its monetary policy decision and facilitate its understanding by the general public.",
         "listing_probability": 0.1
       }
     ]
@@ -69,19 +105,71 @@
         "url": "https://www.bkam.ma/en/Speeches",
         "title": "Speeches - BANK AL-MAGHRIB",
         "text": "Speech of the Governor of Bank Al-Maghrib during the International Days of Macroeconomy and Finance. on the theme « Economic Integration in Africa : The ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bkam.ma/en/Press-releases",
         "title": "Press releases - BANK AL-MAGHRIB",
         "text": "Bank Al-Maghrib and the International Finance Corporation (IFC) Sign a Partnership to Promote Agricultural Financial Inclusion in Morocco.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bkam.ma/en/News",
         "title": "News - BANK AL-MAGHRIB",
         "text": "On the occasion of the Annual Meetings of the World Bank and the International Monetary Fund taking place in Marrakech,. Bank Al-Maghrib issues a medal to ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bkam.ma/en/Monetary-policy/Strategic-framework/Monetary-policy-decisions/Press-release",
+        "title": "Press release - BANK AL-MAGHRIB",
+        "text": "Bank Al-Maghrib Board Meeting ; Bank Al-Maghrib's Board Meeting - June 24, 2025. Published : 24/06/2025 ; Bank Al-Maghrib's Board Meeting - March 18, 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bkam.ma/en/Financial-stability/Publications/Press-releases",
+        "title": "Press releases - BANK AL-MAGHRIB",
+        "text": "Press releases · Meeting of the Coordination and Systemic Risk Monitoring Committee - 2024 · Quick access · Latest Publications · News · Services to customers of ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Research2/Working-paper/2020",
+        "title": "2020 - BANK AL-MAGHRIB",
+        "text": "summary : The objective of this paper is to estimate the size of the shadow economy in Morocco over the period 1988-2018. The CDA and MIMIC approaches are ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Research2/Working-paper/2021",
+        "title": "2021 - BANK AL-MAGHRIB",
+        "text": "The Morocco Policy Analysis model (MOPAM) was created in the Bank Al-Maghrib to simulate the impact of external developments, domestic macroeconomic policies, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bkam.ma/en/Publications-and-research/Research2/Events/Third-annual-conference-of-the-regional-research-network-of-central-banks-of-the-middle-east-and-north-africa-mena-september-14-and-15-2023",
+        "title": "BANK AL-MAGHRIB - Third annual conference of the Regional ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bkam.ma/en/Press-releases/Press-releases/Archives/Regional-seminar-on-central-bank-transparency-and-communication-in-monetary-policy",
+        "title": "Regional seminar on “Central bank transparency and communication in ...",
+        "text": "Home · Press releases · Press releases · Archives · Regional seminar on “Central bank transparency and communication in monetary policy” ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bkam.ma/musee/Retrospective/Conference-la-monnaie-en-tant-que-vecteur-de-communication-a-travers-les-epoques",
+        "title": "BANK AL-MAGHRIB - Conférence \"La monnaie en tant que vecteur ...",
+        "text": null,
+        "listing_probability": 0.05
       }
     ]
   }

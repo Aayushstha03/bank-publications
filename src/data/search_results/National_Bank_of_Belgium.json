@@ -26,15 +26,35 @@
               {
                 "url": "https://www.nbb.be/en/publications-and-research/publications/economic-and-financial-publications",
                 "title": "Economic and financial publications | National Bank of Belgium",
-                "text": "Economic Review. The Economic Review contains articles on key economic, financial and monetary developments. · Financial Stability Report · FMI & Payments Report.",
+                "text": "The National Bank of Belgium publishes the Economic Review, Financial Stability Report, FMI & Payments Report, and Working Papers.",
                 "source": "National Bank of Belgium",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/en/publications-and-research/economic-and-financial-publications/fmi-payments-report",
+                "title": "FMI & Payments Report | National Bank of Belgium",
+                "text": "The FMI & Payments Report provides a detailed overview of developments relevant to financial market infrastructures and payment services.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/en/publications-and-research/publications/all-publications?author%5B4181%5D=4181",
+                "title": "Publications | National Bank of Belgium",
+                "text": "Are you looking for an annual report, the results of a study or survey, a financial report or an issue of our Economic Review?",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022"
+          ],
           "query": {
-            "q": "site:https://www.nbb.be/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.nbb.be/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -54,25 +74,45 @@
                 "position": 1
               },
               {
-                "url": "https://www.nbb.be/en/statistical-updates/foreign-trade-statistics-monthly-bulletin-f-n-2025-01",
-                "title": "Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-01)",
-                "text": "Statistical update. Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-01). Publication. Release date. 15 Apr 2025 - 11:00. Period. 2025-01.",
+                "url": "https://www.nbb.be/en/statistical-updates/foreign-trade-statistics-monthly-bulletin-f-n-2025-04",
+                "title": "Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-04)",
+                "text": "Statistical update. Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-04). Publication. Release date. 15 Jul 2025 - 11:00. Period. 2025-04.",
                 "source": "National Bank of Belgium",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.nbb.be/en/statistical-updates/press-release-foreign-trade-statistics-f-n-2025-04",
-                "title": "Press release - Foreign Trade Statistics (F-N) (2025-04)",
-                "text": "Statistical update. Press release - Foreign Trade Statistics (F-N) (2025-04). Publication. Release date. 15 Jul 2025 - 11:00. Period. 2025-04.",
+                "url": "https://www.nbb.be/doc/dq/e/dq3/histo/seb22i.pdf",
+                "title": "Statistical bulletin",
+                "text": "National accounts. 1.1 Yearly national accounts - ESA 2010. 16. 1.1.1 Gross value added by industry (A38), estimates at current prices.",
                 "source": "National Bank of Belgium",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/en/statistics/foreign-trade/publications-and-figures",
+                "title": "Publications and figures | National Bank of Belgium",
+                "text": "NBB.Stat, the National Bank of Belgium's database for macroeconomic statistics, features foreign trade data. These data are also available in the monthly and ...",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/en/statistics/general",
+                "title": "General | National Bank of Belgium",
+                "text": "Here, you have access to the most recent statistical press releases and statistics. You can consult the data series via the online NBB.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
           "query": {
-            "q": "site:https://www.nbb.be/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.nbb.be/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -84,33 +124,46 @@
           "results": {
             "web": [
               {
-                "url": "https://www.nbb.be/en/monetary-policy/general-framework/monetary-policy-implementation",
-                "title": "Monetary policy implementation | National Bank of Belgium",
-                "text": "The implementaton of monetary policy by the Eurosystem aims to steer short-term market interest rates by using the ECB's key interest rates as anchorage points.",
-                "source": "National Bank of Belgium",
+                "url": "https://www.nbb.be/doc/cp/eng/aml/20180116_joint_guidelines_under_article_25_of_regulation_2015_847_en.pdf",
+                "title": "Final Guidelines - European Banking Authority",
+                "text": "This document contains joint guidelines issued pursuant to Articles 16 and 56, subparagraph 1, of. Regulation (EU) No 1093/2010 of the European Parliament ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.nbb.be/en/monetary-policy/general-framework/institutional-framework-monetary-policy",
-                "title": "Institutional framework of monetary policy | National Bank of Belgium",
-                "text": "The monetary policy of the EMU is conducted by the Eurosystem, which is made up of the ECB and the NCBs of the EU Member States whose currency is the euro.",
-                "source": "National Bank of Belgium",
+                "url": "https://www.nbb.be/doc/cp/eng/aml/230331_eba_orientations_gl_2023_04_en.pdf",
+                "title": "Final Report – Guidelines on policies and controls for the effective ...",
+                "text": "Through these guidelines, the EBA fosters a common understanding by institutions and AML/CFT su- pervisors of effective ML/TF risk management ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2023-03-31T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.nbb.be/en/monetary-policy/general-framework/monetary-policy-decision-making",
-                "title": "Monetary policy decision-making | National Bank of Belgium",
-                "text": "The Governing Council assesses economic, monetary and financial developments and takes its monetary policy decisions every six weeks. At the other meetings, the ...",
-                "source": "National Bank of Belgium",
+                "url": "https://www.nbb.be/doc/cp/eng/aml/210301_eba_orientations_gl_2023_03_en.pdf",
+                "title": "Final Report Guidelines - European Banking Authority",
+                "text": "The draft Guidelines amending the RFGLs aim to support credit and financial institutions in their understanding of the specificities of ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2023-03-31T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/doc/cp/eng/2023/Exemption_policy_for_the_Eurosystem_oversight_framework_for_electronic_payment_instruments_schemes_and_arrangements.pdf",
+                "title": "Exemption policy for the Eurosystem oversight framework for electronic ...",
+                "text": "The policy defines the criteria used to identify the schemes/arrangements to be overseen by the Eurosystem and those which are to be monitored or are exempt, ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/doc/cp/eng/2021/20210311_nbb_2021_424.pdf",
+                "title": "REGULATIONS - EUR-Lex.europa.eu.",
+                "text": "The BCBS Minimum capital requirements for market risk specify the calculation of the own funds requirements for curvature risk for instruments with ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.nbb.be/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.nbb.be/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -138,13 +191,30 @@
                 "position": 2
               },
               {
-                "url": "https://www.nbb.be/en/statistical-updates/press-release-consumer-confidence-indicator-2025-07",
-                "title": "Press release - Consumer confidence indicator (2025-07)",
-                "text": "Consumer confidence remains stable and above its long-term average. View the infographic on the evolution of consumer confidence in July.",
+                "url": "https://www.nbb.be/en/news-service",
+                "title": "News service | National Bank of Belgium",
+                "text": "Subscribe to our newsletters ... Sign up to receive email notifications for seminars, conferences and other events. Follow us on social media ...",
                 "source": "National Bank of Belgium",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
-                "published_time": "2025-07-22T10:07:40.430850",
                 "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/en/statistical-updates/press-release-net-international-investment-position-and-balance-payments-1",
+                "title": "Press release - Net international investment position and balance of ...",
+                "text": "The net international investment position has weakened to €339.4 billion or 54.9% of GDP. Financial transactions are broadly in balance.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2025-07-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/en/statistical-updates/press-release-financial-accounts-belgium-2025-i",
+                "title": "Press release - Financial accounts of Belgium (2025-I)",
+                "text": "Net financial wealth of Belgian households dipped at the end of the first quarter of 2025. Total financial assets fell by almost €5 billion ...",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2025-07-11T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -153,7 +223,7 @@
             "News speeches press news speeches press pdf"
           ],
           "query": {
-            "q": "site:https://www.nbb.be/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.nbb.be/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -165,33 +235,217 @@
           "results": {
             "web": [
               {
+                "url": "https://www.nbb.be/doc/ts/publications/wp/wp170en.pdf",
+                "title": "Working Paper Research",
+                "text": "The purpose of these working papers is to promote the circulation of research results (Research Series) and analytical studies (Documents Series) made ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.nbb.be/en/publications-and-research/economicfinancial-publications/working-papers",
                 "title": "Working Papers | National Bank of Belgium",
                 "text": "The working papers published by the National Bank deal with economic or financial subjects relevant to our activities. They are intended for a specialist ...",
                 "source": "National Bank of Belgium",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
-                "position": 1
-              },
-              {
-                "url": "https://www.nbb.be/en/publications-and-research/economicfinancial-publications/working-papers?page=23",
-                "title": "Working Papers | nbb.be",
-                "text": "Working papers by National Bank economists are published under their own name and responsibility. Would you like to know when a new working paper is published?",
-                "source": "| nbb.be",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.nbb.be/en/publications-and-research/economicfinancial-publications/working-papers?field_article_date_value%5Bvalue%5D=&language=fr&page=21",
-                "title": "Working Papers | nbb.be",
-                "text": "Working papers by National Bank economists are published under their own name and responsibility. Would you like to know when a new working paper is published?",
+                "url": "https://www.nbb.be/doc/ts/publications/wp/wp387en.pdf",
+                "title": "Working Paper Research - Nationale Bank van België",
+                "text": "The purpose of these working papers is to promote the circulation of research results (Research Series) and analytical studies.",
                 "source": "National Bank of Belgium",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "http://www.nbb.be/doc/ts/publications/wp/wp103En.pdf",
+                "title": "Macroeconomic fluctuations and firm entry: theory and evidence - SSRN",
+                "text": "The purpose of these working papers is to promote the circulation of research results (Research Series) and analytical studies (Documents Series) made ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/doc/ts/publications/wp/wp67en.pdf",
+                "title": "Indirect efffect - A formal definition and degrees of dependency as ... - SSRN",
+                "text": "The purpose of these working papers is to promote the circulation of research results (Research Series) and analytical studies (Documents Series) made ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.nbb.be/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.nbb.be/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbb.be/en/activities/financial-supervision-and-resolution/cross-cutting-and-international-aspects/all-news?quick_search=&sort_bef_combine=date_DESC&type%5B4585%5D=4585&reference_number=&before_date=&after_date=",
+                "title": "All news and updates on financial supervision | National Bank of ...",
+                "text": "Search circulars, legislation and other documents related to financial supervision, such as news, publications and cooperation agreements. Show filters.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbb.be/en/statistical-updates",
+                "title": "Statistical update overview | National Bank of Belgium",
+                "text": "Statistical update overview · Balance of payments · Business confidence · Consumer confidence · Financial Accounts · Financial institutions · Financial markets.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbb.be/en/statistical-updates?calendar_timestamp=1225494000&current=1228086000&date_format=custom&date_pattern=F&display_reset=0&next=1230764400&page=25&pager_type=calendar_month&previous=1225494000&theme%5B5001%5D=5001&use_previous_next=1",
+                "title": "Statistical update overview | National Bank of Belgium",
+                "text": "Statistical update overview · Balance of payments · Business confidence · Consumer confidence · Financial Accounts · Financial institutions · Financial markets.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/en/statistical-updates?calendar_timestamp=1588284000&current=1585692000&date_format=custom&date_pattern=F&display_reset=0&next=1588284000&page=9&pager_type=calendar_month&previous=1583017200&scope=1&theme%5B5069%5D=5069&use_previous_next=1",
+                "title": "Statistical update overview | National Bank of Belgium",
+                "text": "Statistical update overview · Balance of payments · Business confidence · Consumer confidence · Financial Accounts · Financial institutions · Financial markets.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/en/statistical-updates?calendar_timestamp=-494557200&current=-497149200&date_format=custom&date_pattern=F&display_reset=0&next=-494557200&page=4&pager_type=calendar_month&previous=-499827600&scope=2&use_previous_next=1",
+                "title": "Statistical update overview | National Bank of Belgium",
+                "text": "Statistical update overview · Balance of payments · Business confidence · Consumer confidence · Financial Accounts · Financial institutions · Foreign Trade · National ...",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:https://www.nbb.be/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbb.be/en/about-national-bank/information-investors/market-notices?page=0%2C0%2C1",
+                "title": "Market notices | nbb.be",
+                "text": "Market notices · Minutes of the National Bank of Belgium's Ordinary General Meeting of Shareholders of 15 May 2023 · Summons to the Ordinary General Meeting of ...",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbb.be/en/about-national-bank/information-investors/market-notices",
+                "title": "Market notices | National Bank of Belgium",
+                "text": "Market notices, corporate reports, general meeting of shareholders, share and dividend, financial calendar, sustainable and responsible investment charter.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbb.be/en/protocol-concerning-processing-external-breach-alerts-and-protection-files-application-act-28",
+                "title": "Protocol concerning the processing of external breach alerts and ...",
+                "text": "Protocol concerning the processing of external breach alerts and protection files in application of the Act of 28 November 2022.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/en/financial-oversight/prudential-supervision/publications",
+                "title": "Publications and public notices | National Bank of Belgium",
+                "text": "Publications and public notices. NBB prudential supervision publications · Publications in the Belgian Official Gazette. Counters Boulevard de Berlaimont 3",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/fr/statistical-updates/statistiques-economiques-decennales-notices-1941-1950-0",
+                "title": "Statistiques économiques décennales - Notices (1941-1950)",
+                "text": "Mise à jour statistique. Statistiques économiques décennales - Notices (1941-1950). Publication. Date de parution. 31 déc 1950 - 1:00. Période. 1941-1950.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbb.be/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbb.be/doc/cp/eng/2023/20230412_communication_nbb_2023_04_en.pdf",
+                "title": "Communication",
+                "text": "Scope. - Credit institutions governed by Belgian law. - Stockbroking firms governed by Belgian law. - Branches established in Belgium of ...",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2023-04-12T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbb.be/en/activities/financial-supervision-and-resolution/cross-cutting-and-international-aspects/all-594",
+                "title": "Communication NBB_2024_10 to candidate shareholders and ...",
+                "text": "Communication NBB_2024_10 to persons intending to acquire, increase, reduce or transfer a qualifying holding in the capital of a financial institution.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2024-10-01T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbb.be/doc/cp/eng/2025/20250402_nbb_2025_05_communication.pdf",
+                "title": "Communication 2025_05",
+                "text": "Scope of application. • Credit institutions, stockbroking firms, payment institutions and electronic money institutions governed.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2025-05-01T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbb.be/en/media/17663",
+                "title": "Communication",
+                "text": "The framework for external functions2 is not new, but was recently reviewed following the entry into force of the Law of 27 June 20213, which ...",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2022-07-12T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbb.be/doc/cp/eng/2024/20241211_nbb_2024_19.pdf",
+                "title": "Communication",
+                "text": "The purpose of this communication is to report on the results of the horizontal supervisory review of. “domestic sanctions screening” by:.",
+                "source": "National Bank of Belgium",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////l5ufNztDBw8Sxs7Srra6usLHY2dmlp6nR09TN1eKYqcSIm7uotszo7fP19PK3ubnS2uUWTo0AMn8AO4MAOIIALH1mgqvAy9sAKHsARYgAPoQANIAhVJBUdKIAPISBl7e0wdTb4up8krVxiq8AIHl3jrKRNSd5AAAAp0lEQVR4AdXNVRaDMBQEUNzdeVAktv8lNlbvb4VBMic3Yhw5pmXblvmeHNfjcb037AeOjhs+QBQnaZYXnsN3CvVvVFZ107Rdb9i279uu0KsNI8A0ATSVupqr52vLOoD5tKwrrIucsPjJhcatgW7nY79Ch8RE7t7OrWDdZOEHx7LcYQdzKQteV/KKNZIlWadvIV1HhVs9a/S8QCPDLJNlxziVxeIxjpYzha0MwjlXhukAAAAASUVORK5CYII=",
+                "published_time": "2024-12-11T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbb.be/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

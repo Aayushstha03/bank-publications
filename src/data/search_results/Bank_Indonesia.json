@@ -2,27 +2,99 @@
   "Bank Name": "Bank Indonesia",
   "search_results": [
     {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bi.go.id/en/iru/economic-market-data/srbi/default.aspx",
+                "title": "Ownership of Bank Indonesia Rupiah Securities (SRBI)",
+                "text": "Ownership of Bank Indonesia Rupiah Securities (SRBI). Ownership of Bank Indonesia Rupiah Securities (SRBI) · Highlight News & Government Press Release ...",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bi.go.id/en/iru/economic-market-data/Documents/Ownership%20of%20Bank%20Indonesia%20Certificate%20%28SBI%29%20-%20August%202020.pdf",
+                "title": "Ownership of Bank Indonesia Certificate (SBI)",
+                "text": "Jan-20. Feb-20. Mar-20. Apr-20. May-20. Jun-20. Jul-20. Aug-20. Sep-20. Oct-20. Nov-20. Dec-20. Jan-21. Feb-21. Mar-21. Apr-21. May-21. Jun-21. Jul-21.",
+                "source": "Bank Indonesia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bi.go.id/en/statistik/perbankan/syariah/Documents/d3ce2c28e6ad40d9b54b81ca379fa445syariahstatsjun04.pdf",
+                "title": "INDIKATOR POKOK PERBANKAN SYARIAH - OJK",
+                "text": "Kelompok Bank. KP/UUS KPO/KC KCP KK KP/UUS KPO/KC KCP KK KP/UUS KPO/KC KCP KK. Group of Banks. HO/IBU HOO/BO SBO CO HO/IBU HOO/BO SBO CO HO/IBU HOO/BO SBO ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bi.go.id/en/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "monetary_policy",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.bi.go.id/en/iru/highlight-news/Documents/Assessment%20of%20Policy%20Rate%20Transmission%20to%20Prime%20Lending%20Rates%20in%20Banking%20Industry.pdf",
-                "title": "Assessment of Policy Rate Transmission to Prime Lending ...",
-                "text": "Transparency and Publication, the PLR consists of three components, namely; (i) the cost of loanable funds (CoLF), including the cost of funds, cost of ...",
+                "url": "https://www.bi.go.id/en/publikasi/laporan/Documents/MPR-Quarter-II-2022.pdf",
+                "title": "MONETARY POLICY - Bank Indonesia",
+                "text": "The global economy is expected to expand more slowly than previously projected amid the growing risk of stagflation and elevated global ...",
                 "source": "Bank Indonesia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "published_time": "2022-07-21T00:00:00",
                 "position": 1
+              },
+              {
+                "url": "https://www.bi.go.id/en/iru/highlight-news/Documents/Assessment%20of%20Policy%20Rate%20Transmission%20to%20Prime%20Lending%20Rates%20in%20Banking%20Industry.pdf",
+                "title": "Assessment of Policy Rate Transmission to Prime Lending ...",
+                "text": "Transparency and Publication. The PLR is used as a base for setting the interest rate charged by the bank to debtors but does not consider the individual ...",
+                "source": "Bank Indonesia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bi.go.id/en/iru/email-archive/Pages/Fiscal%20Highlight.aspx",
+                "title": "Fiscal Policy Highlights and Macroeconomic Framework for the ...",
+                "text": "With regard to budget financing, policy will be aimed primarily at covering the fiscal deficit, meeting debt amortization obligations and ...",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "published_time": "2020-10-12T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bi.go.id/en/publikasi/jurnal-ekonomi/Documents/51a01401ff9f486d84978fba2a24b3a8MAbdulMajidAndryPrasmukoDonniFAInaNurmaliaK.pdf",
+                "title": "ANALYSIS OF SECTORAL EFFICIENCY AND THE ...",
+                "text": "This paper analyzes the contribution of capital and labor on sectoral performance in Indonesia. Using stochastic frontier production function, ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bi.go.id/en/publikasi/laporan/Pages/Tinjauan-Kebijakan-Moneter-Agustus-2022.aspx",
+                "title": "Monetary Policy Review - August 2022 - Bank Indonesia",
+                "text": "Information about the rupiah as the currency of the Republic of Indonesia managed by Bank Indonesia pursuant to prevailing laws and regulations.",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "published_time": "2022-08-26T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.bi.go.id/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bi.go.id/en/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -40,15 +112,73 @@
                 "source": "BI.go.id",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
                 "position": 1
+              },
+              {
+                "url": "https://www.bi.go.id/en/iru/highlight-news/Pages/Global%20Bond%20INDO-15.aspx",
+                "title": "The Government of Indonesia Issued USD1 billion Global Bond, INDO-15",
+                "text": "The Government of Indonesia Issued USD1 billion Global Bond, INDO-15 ... 6. Even though the market was still in volatile, we offered lower price ...",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "published_time": "2020-09-24T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2511623.aspx",
+                "title": "Indonesia and Malaysia Announce the Commercial Launch of the Cross ...",
+                "text": "Bank Indonesia (BI) and Bank Negara Malaysia (BNM) today announced the commercial launch of the Indonesia-Malaysia cross-border QR payment ...",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "published_time": "2023-05-08T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2614424.aspx",
+                "title": "BI-Rate Held at 6.25%: Strengthening Stability and Maintaining Growth ...",
+                "text": "Global financial market uncertainty remains high despite a solid world economic outlook. Global economic growth in 2024 is forecast at 3.2% in ...",
+                "source": "BI.go.id",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "published_time": "2024-07-18T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_266524.aspx",
+                "title": "Inflation Under Control in March 2024 - Bank Indonesia",
+                "text": "Low core inflation was maintained. Core inflation in March 2024 stood at 0.23% (mtm), up from 0.14% (mtm) the month earlier, primarily in response to a seasonal ...",
+                "source": "Bank Indonesia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcEwAUZQAaaMAV5cAVZYAVJYAVZYEVZYAWZkAVpcgWJYJUJMARY4pT5AAV5cAVZYATJH1+v0APIg+aqEAQ4snZaBEd6vd6PGJm7wAMYL+//+dudPA0uNKhLNhirSpx96Tr82KqchznsMAWZkhX5wTU5To8PaowdlqmMA4UZBfeqbP2+kAGXfS1ToQAAAAD3RSTlMAqAEPf83wiRcqyZrq6i4hdj6mAAAAvElEQVQYlUWP1w6DMAxFDQoNoBbHIaMhYZbR9f/f1zLU+s1HuvY9AABxxvLzOeFZDNukTCk99PUkWLrtkW5KY6tulBithImxpbb3nfUOGUCGN/Wgaz27Z1VLLIAjipKud1LPykjkkOxgoCYsEjGB0wZ8t7zmyd3wdIDeeNdVjfyCX0S/XzSK5H9Uv3syikNxvCXprFWiWIvplmyYFxukYEd1Y3y4l1JEuwxXsmzDMAme7rpxxvPLJefFqv8BbWwRvKIR6y0AAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "News speeches press news speeches press today",
-            "News speeches press news speeches press 2022"
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.bi.go.id/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bi.go.id/en/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bi.go.id/en/publikasi/laporan/Documents/Sharia-Economy-and-Finance-Report-2019.pdf",
+                "title": "Sharia Economy And Finance Report",
+                "source": "Sharia Knowledge Centre",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bi.go.id&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///d55c7acd5ff75cc0845151eeb249b46ff767a891f44987278c6fe0b525b2b80a",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bi.go.id/en/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
           }
         }
       ]

@@ -17,28 +17,45 @@
               },
               {
                 "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications",
-                "title": "TCMB - Research and Publications",
+                "title": "Research and Publications - TCMB",
+                "text": "The Central Bank publishes its evaluations regarding the inflation outlook, medium-term inflation and output gap forecasts, factors affecting inflation.",
                 "source": "TCMB",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tcmb.gov.tr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.tcmb.gov.tr/wps/wcm/connect/003ae7e2-fae9-4a3e-808b-31bba635b890/ER+ENG.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-003ae7e2-fae9-4a3e-808b-31bba635b890-pkCZS6g",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications",
-                "title": "TCMB - Research and Publications",
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Reports/Annual+Reports/",
+                "title": "Annual Reports - TCMB",
+                "text": "Annual Reports. Share. Print. 2023 (electronic) · 2022 (electronic) · 2021 (electronic) · 2020 (electronic) · 2019 (electronic) · 2018 (electronic).",
                 "source": "TCMB",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tcmb.gov.tr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.tcmb.gov.tr/wps/wcm/connect/913fb89a-d3ad-410a-831e-245d1f61999c/2026x1480.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-913fb89a-d3ad-410a-831e-245d1f61999c-omH5Jy-",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/publications/reports/inflation+report/2025/inflation+report+2025+-+i",
+                "title": "Inflation Report 2025 - I (February 7, 2025) - TCMB",
+                "text": "Inflation Report 2025 - I (February 7, 2025) · Cover Page and Contents · 1. Overview · 2. Economic Outlook · 3. Medium Term Projections · Boxes.",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "published_time": "2025-02-07T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Reports/Inflation+Report/",
+                "title": "Inflation Report - TCMB",
+                "text": "Inflation Report 2025 - IV (will be published on November 7, 2025). Inflation Report 2025 - III (will be published on August 14, 2025).",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Publications reports publications reports 2022",
-            "Publications reports publications reports 2021"
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022"
           ],
           "query": {
-            "q": "site:https://www.tcmb.gov.tr/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -54,7 +71,7 @@
                 "title": "Statistics - TCMB",
                 "text": "Money, banking, finance and securities statistics for the banking and financial sector prepared by the Central Bank in accordance with international standards.",
                 "source": "TCMB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "favicon": "data:image/webp;base64,UklGRiAFAABXRUJQVlA4WAoAAAAQAAAAMgAAMgAAQUxQSDQCAAARN6AgbQPGv+p2R0REJA/akSQJkpXMB/xnNBJ01VOArkGBm0UU9Bdi5k6GiP5PQCCWIkkBWdFz/yVbsnj80JIsOdarFeyHFJTkBfS08iZFlmRhpAhJ1iuKhRWhCEuxX4J4EAvFEjhSlPglki2CjCXFcTAJQAACkhxDsMmuM+dz9eIlSGABu+/P/f9///4NfrGsAHvXPfP5dK3lSJLlBFO7ZuaaBpAUyRI4VE3N59QCLMAJgKh99Zl7toMlYkEge5156QWSg2LZsGtmzpzpXkRKHAi71pn5zDX3TIGkR8Lqnvua85np6RcJwq6+Z3rm+gY5wuyamame6X7UsiRFYc/U4+ua+X29IFuhTtU93eeeqZleEkiCqnOuqapPVd2f3wsFR+zaNX1qZnrmnqllkMRe9TxzuqdPTS/Yv1B27ao+ferM3ae6VhKjsPaqOVU15+6ZqgIcBdgvZ3rm7q6yMIRFnU/vR81XT63vCs7UP3XOqpk5tRScBKDOVNVXn1nVIMUC2Kvuq+rcfbqq1kPRo8591ZmZM3NmoUgWgaq7q66pM9dcCylCAfaeqZmZ+/rMVZYkK4ZdU1XUOTXTIEWJDVCrFlW7qhZSrCgIWFW1dlXXwi9SrFCnq9eemQb0jEBAzT0zn+lC7xaEhOrp07V4s74PgEHWT1EeMUEPS4pQEr1iybEkByQFSY5+7kSRE0UByS+ERFYUOdIjihCSFGMFwwM9AQIGsngaZFmYpxaO8xAosoQV8gdWUDggxgIAAHAOAJ0BKjMAMwA+kSSkUiWhJaWWALASCWwAwFxazDeq/jBxBpC30Y56DnjfwA3472XfQA8sj2QfKdigdK3+Y4QZQN504wYvjnXemeAcrLOctIHRxMKIrnyPnnWbKx0mvCH6Vp0oqkmexXoSmdACKOsnH19r4r5diS4n4iAA/vUnX0jj40h//JsvJsvJsv5KUPyVVOfg11BklrMfr+UiHKrfllMfTGbOf14ggj9eRHxH5XCpiap0ucSEJdxCiJF6X8430xQuDC5XL+rx7+bIXaYs3yiBDrFNHZGpJDS//+EUshksE+GlWKx8+t3/AvGck8yuik/NcLavxyHqra05nYxEF7M/2Tl7LlhyHZqYH7oI2xjzzCvFUW/PhYx3O9Xp6C+dIuAXKh/idc2ijnMz0Gk33xUOsYG+dVtYVJ2Kh92uPkuGKFzJ/kSWLYrsJG2ZwOhPU+X/cMEc8JgxK4kroTpRpzj1/WcRjkKzrSWiGU2eWJL+K1sBZy8tCpZGUi7HBQnOZMFokMrFP7pZoK9AGfQPxz2cRA9MVb4LRSFrdcGfTqzaGfwF5xS/IzVXX5ykRuRc/uuX/QY2WVeB1Y5RDxV02Uqt3who8alWuoybK8/LhebY6cV4VVweG0N3ztC5jKjYr3ElEY82krD5OykCUy6RM9t4ez/cz/bXZjwekRkwgCqS1N3xVgpgeIox8uwKqUbnQzht02fAGrXkj/+NzXerbSu9IDxGp/9zix2GdygMu/R5tAced7htzw58L27n/tK3nDa7UP+8HDwXyRL1GwPMbL1hAn3mXI/tHh6KPtv4RvsW2qc7JUnSz6VQYN4Rdtc7zIY7yAKC6tS3zKsz0empJMKfP/5QSZuHXHS5phZl/OFhk8677YK++hC36jaCbkLKmLJwcUdjtZpWRUXaxa6fPn/CPAQzLAPYJxQ1P4WW0NyoAAAA",
                 "sublinks": [
                   {
                     "title": "Banking Data",
@@ -92,16 +109,32 @@
                 "title": "Weekly Money and Banking Statistics - TCMB",
                 "text": "The Weekly Money and Banking Statistics consist of statistical tables on the banking sector's deposits, credits and securities as well as monetary aggregates.",
                 "source": "TCMB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "favicon": "data:image/webp;base64,UklGRiAFAABXRUJQVlA4WAoAAAAQAAAAMgAAMgAAQUxQSDQCAAARN6AgbQPGv+p2R0REJA/akSQJkpXMB/xnNBJ01VOArkGBm0UU9Bdi5k6GiP5PQCCWIkkBWdFz/yVbsnj80JIsOdarFeyHFJTkBfS08iZFlmRhpAhJ1iuKhRWhCEuxX4J4EAvFEjhSlPglki2CjCXFcTAJQAACkhxDsMmuM+dz9eIlSGABu+/P/f9///4NfrGsAHvXPfP5dK3lSJLlBFO7ZuaaBpAUyRI4VE3N59QCLMAJgKh99Zl7toMlYkEge5156QWSg2LZsGtmzpzpXkRKHAi71pn5zDX3TIGkR8Lqnvua85np6RcJwq6+Z3rm+gY5wuyamame6X7UsiRFYc/U4+ua+X29IFuhTtU93eeeqZleEkiCqnOuqapPVd2f3wsFR+zaNX1qZnrmnqllkMRe9TxzuqdPTS/Yv1B27ao+ferM3ae6VhKjsPaqOVU15+6ZqgIcBdgvZ3rm7q6yMIRFnU/vR81XT63vCs7UP3XOqpk5tRScBKDOVNVXn1nVIMUC2Kvuq+rcfbqq1kPRo8591ZmZM3NmoUgWgaq7q66pM9dcCylCAfaeqZmZ+/rMVZYkK4ZdU1XUOTXTIEWJDVCrFlW7qhZSrCgIWFW1dlXXwi9SrFCnq9eemQb0jEBAzT0zn+lC7xaEhOrp07V4s74PgEHWT1EeMUEPS4pQEr1iybEkByQFSY5+7kSRE0UByS+ERFYUOdIjihCSFGMFwwM9AQIGsngaZFmYpxaO8xAosoQV8gdWUDggxgIAAHAOAJ0BKjMAMwA+kSSkUiWhJaWWALASCWwAwFxazDeq/jBxBpC30Y56DnjfwA3472XfQA8sj2QfKdigdK3+Y4QZQN504wYvjnXemeAcrLOctIHRxMKIrnyPnnWbKx0mvCH6Vp0oqkmexXoSmdACKOsnH19r4r5diS4n4iAA/vUnX0jj40h//JsvJsvJsv5KUPyVVOfg11BklrMfr+UiHKrfllMfTGbOf14ggj9eRHxH5XCpiap0ucSEJdxCiJF6X8430xQuDC5XL+rx7+bIXaYs3yiBDrFNHZGpJDS//+EUshksE+GlWKx8+t3/AvGck8yuik/NcLavxyHqra05nYxEF7M/2Tl7LlhyHZqYH7oI2xjzzCvFUW/PhYx3O9Xp6C+dIuAXKh/idc2ijnMz0Gk33xUOsYG+dVtYVJ2Kh92uPkuGKFzJ/kSWLYrsJG2ZwOhPU+X/cMEc8JgxK4kroTpRpzj1/WcRjkKzrSWiGU2eWJL+K1sBZy8tCpZGUi7HBQnOZMFokMrFP7pZoK9AGfQPxz2cRA9MVb4LRSFrdcGfTqzaGfwF5xS/IzVXX5ykRuRc/uuX/QY2WVeB1Y5RDxV02Uqt3who8alWuoybK8/LhebY6cV4VVweG0N3ztC5jKjYr3ElEY82krD5OykCUy6RM9t4ez/cz/bXZjwekRkwgCqS1N3xVgpgeIox8uwKqUbnQzht02fAGrXkj/+NzXerbSu9IDxGp/9zix2GdygMu/R5tAced7htzw58L27n/tK3nDa7UP+8HDwXyRL1GwPMbL1hAn3mXI/tHh6KPtv4RvsW2qc7JUnSz6VQYN4Rdtc7zIY7yAKC6tS3zKsz0empJMKfP/5QSZuHXHS5phZl/OFhk8677YK++hC36jaCbkLKmLJwcUdjtZpWRUXaxa6fPn/CPAQzLAPYJxQ1P4WW0NyoAAAA",
                 "position": 2
               },
               {
                 "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+page+site+area/data",
                 "title": "Data - TCMB",
-                "text": "Data ; Foreign Exchange Assets and Liabilities of Non-Financial Companies (May 2025). 22.07.2025 ; Survey of Market Participants (July 2025). 21.07.2025 ; Weekly ...",
+                "text": "Data ; Securities Statistics. 24.07.2025 ; Weekly Money and Banking Statistics. 24.07.2025 ; Financial Services Statistics and Financial Services Confidence Index ...",
                 "source": "TCMB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "favicon": "data:image/webp;base64,UklGRiAFAABXRUJQVlA4WAoAAAAQAAAAMgAAMgAAQUxQSDQCAAARN6AgbQPGv+p2R0REJA/akSQJkpXMB/xnNBJ01VOArkGBm0UU9Bdi5k6GiP5PQCCWIkkBWdFz/yVbsnj80JIsOdarFeyHFJTkBfS08iZFlmRhpAhJ1iuKhRWhCEuxX4J4EAvFEjhSlPglki2CjCXFcTAJQAACkhxDsMmuM+dz9eIlSGABu+/P/f9///4NfrGsAHvXPfP5dK3lSJLlBFO7ZuaaBpAUyRI4VE3N59QCLMAJgKh99Zl7toMlYkEge5156QWSg2LZsGtmzpzpXkRKHAi71pn5zDX3TIGkR8Lqnvua85np6RcJwq6+Z3rm+gY5wuyamame6X7UsiRFYc/U4+ua+X29IFuhTtU93eeeqZleEkiCqnOuqapPVd2f3wsFR+zaNX1qZnrmnqllkMRe9TxzuqdPTS/Yv1B27ao+ferM3ae6VhKjsPaqOVU15+6ZqgIcBdgvZ3rm7q6yMIRFnU/vR81XT63vCs7UP3XOqpk5tRScBKDOVNVXn1nVIMUC2Kvuq+rcfbqq1kPRo8591ZmZM3NmoUgWgaq7q66pM9dcCylCAfaeqZmZ+/rMVZYkK4ZdU1XUOTXTIEWJDVCrFlW7qhZSrCgIWFW1dlXXwi9SrFCnq9eemQb0jEBAzT0zn+lC7xaEhOrp07V4s74PgEHWT1EeMUEPS4pQEr1iybEkByQFSY5+7kSRE0UByS+ERFYUOdIjihCSFGMFwwM9AQIGsngaZFmYpxaO8xAosoQV8gdWUDggxgIAAHAOAJ0BKjMAMwA+kSSkUiWhJaWWALASCWwAwFxazDeq/jBxBpC30Y56DnjfwA3472XfQA8sj2QfKdigdK3+Y4QZQN504wYvjnXemeAcrLOctIHRxMKIrnyPnnWbKx0mvCH6Vp0oqkmexXoSmdACKOsnH19r4r5diS4n4iAA/vUnX0jj40h//JsvJsvJsv5KUPyVVOfg11BklrMfr+UiHKrfllMfTGbOf14ggj9eRHxH5XCpiap0ucSEJdxCiJF6X8430xQuDC5XL+rx7+bIXaYs3yiBDrFNHZGpJDS//+EUshksE+GlWKx8+t3/AvGck8yuik/NcLavxyHqra05nYxEF7M/2Tl7LlhyHZqYH7oI2xjzzCvFUW/PhYx3O9Xp6C+dIuAXKh/idc2ijnMz0Gk33xUOsYG+dVtYVJ2Kh92uPkuGKFzJ/kSWLYrsJG2ZwOhPU+X/cMEc8JgxK4kroTpRpzj1/WcRjkKzrSWiGU2eWJL+K1sBZy8tCpZGUi7HBQnOZMFokMrFP7pZoK9AGfQPxz2cRA9MVb4LRSFrdcGfTqzaGfwF5xS/IzVXX5ykRuRc/uuX/QY2WVeB1Y5RDxV02Uqt3who8alWuoybK8/LhebY6cV4VVweG0N3ztC5jKjYr3ElEY82krD5OykCUy6RM9t4ez/cz/bXZjwekRkwgCqS1N3xVgpgeIox8uwKqUbnQzht02fAGrXkj/+NzXerbSu9IDxGp/9zix2GdygMu/R5tAced7htzw58L27n/tK3nDa7UP+8HDwXyRL1GwPMbL1hAn3mXI/tHh6KPtv4RvsW2qc7JUnSz6VQYN4Rdtc7zIY7yAKC6tS3zKsz0empJMKfP/5QSZuHXHS5phZl/OFhk8677YK++hC36jaCbkLKmLJwcUdjtZpWRUXaxa6fPn/CPAQzLAPYJxQ1P4WW0NyoAAAA",
                 "position": 3
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/statistics/monetary+and+financial+statistics/securities+statistics",
+                "title": "Securities Statistics - TCMB",
+                "text": "Securities Statistics comprise of data on government debt securities issued by Ministry of Treasury and Finance, corporate bonds and shares held by non- ...",
+                "source": "TCMB",
+                "favicon": "data:image/webp;base64,UklGRiAFAABXRUJQVlA4WAoAAAAQAAAAMgAAMgAAQUxQSDQCAAARN6AgbQPGv+p2R0REJA/akSQJkpXMB/xnNBJ01VOArkGBm0UU9Bdi5k6GiP5PQCCWIkkBWdFz/yVbsnj80JIsOdarFeyHFJTkBfS08iZFlmRhpAhJ1iuKhRWhCEuxX4J4EAvFEjhSlPglki2CjCXFcTAJQAACkhxDsMmuM+dz9eIlSGABu+/P/f9///4NfrGsAHvXPfP5dK3lSJLlBFO7ZuaaBpAUyRI4VE3N59QCLMAJgKh99Zl7toMlYkEge5156QWSg2LZsGtmzpzpXkRKHAi71pn5zDX3TIGkR8Lqnvua85np6RcJwq6+Z3rm+gY5wuyamame6X7UsiRFYc/U4+ua+X29IFuhTtU93eeeqZleEkiCqnOuqapPVd2f3wsFR+zaNX1qZnrmnqllkMRe9TxzuqdPTS/Yv1B27ao+ferM3ae6VhKjsPaqOVU15+6ZqgIcBdgvZ3rm7q6yMIRFnU/vR81XT63vCs7UP3XOqpk5tRScBKDOVNVXn1nVIMUC2Kvuq+rcfbqq1kPRo8591ZmZM3NmoUgWgaq7q66pM9dcCylCAfaeqZmZ+/rMVZYkK4ZdU1XUOTXTIEWJDVCrFlW7qhZSrCgIWFW1dlXXwi9SrFCnq9eemQb0jEBAzT0zn+lC7xaEhOrp07V4s74PgEHWT1EeMUEPS4pQEr1iybEkByQFSY5+7kSRE0UByS+ERFYUOdIjihCSFGMFwwM9AQIGsngaZFmYpxaO8xAosoQV8gdWUDggxgIAAHAOAJ0BKjMAMwA+kSSkUiWhJaWWALASCWwAwFxazDeq/jBxBpC30Y56DnjfwA3472XfQA8sj2QfKdigdK3+Y4QZQN504wYvjnXemeAcrLOctIHRxMKIrnyPnnWbKx0mvCH6Vp0oqkmexXoSmdACKOsnH19r4r5diS4n4iAA/vUnX0jj40h//JsvJsvJsv5KUPyVVOfg11BklrMfr+UiHKrfllMfTGbOf14ggj9eRHxH5XCpiap0ucSEJdxCiJF6X8430xQuDC5XL+rx7+bIXaYs3yiBDrFNHZGpJDS//+EUshksE+GlWKx8+t3/AvGck8yuik/NcLavxyHqra05nYxEF7M/2Tl7LlhyHZqYH7oI2xjzzCvFUW/PhYx3O9Xp6C+dIuAXKh/idc2ijnMz0Gk33xUOsYG+dVtYVJ2Kh92uPkuGKFzJ/kSWLYrsJG2ZwOhPU+X/cMEc8JgxK4kroTpRpzj1/WcRjkKzrSWiGU2eWJL+K1sBZy8tCpZGUi7HBQnOZMFokMrFP7pZoK9AGfQPxz2cRA9MVb4LRSFrdcGfTqzaGfwF5xS/IzVXX5ykRuRc/uuX/QY2WVeB1Y5RDxV02Uqt3who8alWuoybK8/LhebY6cV4VVweG0N3ztC5jKjYr3ElEY82krD5OykCUy6RM9t4ez/cz/bXZjwekRkwgCqS1N3xVgpgeIox8uwKqUbnQzht02fAGrXkj/+NzXerbSu9IDxGp/9zix2GdygMu/R5tAced7htzw58L27n/tK3nDa7UP+8HDwXyRL1GwPMbL1hAn3mXI/tHh6KPtv4RvsW2qc7JUnSz6VQYN4Rdtc7zIY7yAKC6tS3zKsz0empJMKfP/5QSZuHXHS5phZl/OFhk8677YK++hC36jaCbkLKmLJwcUdjtZpWRUXaxa6fPn/CPAQzLAPYJxQ1P4WW0NyoAAAA",
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Balance+of+Payments+and+Related+Statistics",
+                "title": "Balance of Payments and Related Statistics - TCMB",
+                "text": "“BIS-Locational and Consolidated Banking Statistics” includes data on the country, foreign exchange and sector structure of banks' assets and liabilities ...",
+                "source": "TCMB",
+                "favicon": "data:image/webp;base64,UklGRiAFAABXRUJQVlA4WAoAAAAQAAAAMgAAMgAAQUxQSDQCAAARN6AgbQPGv+p2R0REJA/akSQJkpXMB/xnNBJ01VOArkGBm0UU9Bdi5k6GiP5PQCCWIkkBWdFz/yVbsnj80JIsOdarFeyHFJTkBfS08iZFlmRhpAhJ1iuKhRWhCEuxX4J4EAvFEjhSlPglki2CjCXFcTAJQAACkhxDsMmuM+dz9eIlSGABu+/P/f9///4NfrGsAHvXPfP5dK3lSJLlBFO7ZuaaBpAUyRI4VE3N59QCLMAJgKh99Zl7toMlYkEge5156QWSg2LZsGtmzpzpXkRKHAi71pn5zDX3TIGkR8Lqnvua85np6RcJwq6+Z3rm+gY5wuyamame6X7UsiRFYc/U4+ua+X29IFuhTtU93eeeqZleEkiCqnOuqapPVd2f3wsFR+zaNX1qZnrmnqllkMRe9TxzuqdPTS/Yv1B27ao+ferM3ae6VhKjsPaqOVU15+6ZqgIcBdgvZ3rm7q6yMIRFnU/vR81XT63vCs7UP3XOqpk5tRScBKDOVNVXn1nVIMUC2Kvuq+rcfbqq1kPRo8591ZmZM3NmoUgWgaq7q66pM9dcCylCAfaeqZmZ+/rMVZYkK4ZdU1XUOTXTIEWJDVCrFlW7qhZSrCgIWFW1dlXXwi9SrFCnq9eemQb0jEBAzT0zn+lC7xaEhOrp07V4s74PgEHWT1EeMUEPS4pQEr1iybEkByQFSY5+7kSRE0UByS+ERFYUOdIjihCSFGMFwwM9AQIGsngaZFmYpxaO8xAosoQV8gdWUDggxgIAAHAOAJ0BKjMAMwA+kSSkUiWhJaWWALASCWwAwFxazDeq/jBxBpC30Y56DnjfwA3472XfQA8sj2QfKdigdK3+Y4QZQN504wYvjnXemeAcrLOctIHRxMKIrnyPnnWbKx0mvCH6Vp0oqkmexXoSmdACKOsnH19r4r5diS4n4iAA/vUnX0jj40h//JsvJsvJsv5KUPyVVOfg11BklrMfr+UiHKrfllMfTGbOf14ggj9eRHxH5XCpiap0ucSEJdxCiJF6X8430xQuDC5XL+rx7+bIXaYs3yiBDrFNHZGpJDS//+EUshksE+GlWKx8+t3/AvGck8yuik/NcLavxyHqra05nYxEF7M/2Tl7LlhyHZqYH7oI2xjzzCvFUW/PhYx3O9Xp6C+dIuAXKh/idc2ijnMz0Gk33xUOsYG+dVtYVJ2Kh92uPkuGKFzJ/kSWLYrsJG2ZwOhPU+X/cMEc8JgxK4kroTpRpzj1/WcRjkKzrSWiGU2eWJL+K1sBZy8tCpZGUi7HBQnOZMFokMrFP7pZoK9AGfQPxz2cRA9MVb4LRSFrdcGfTqzaGfwF5xS/IzVXX5ykRuRc/uuX/QY2WVeB1Y5RDxV02Uqt3who8alWuoybK8/LhebY6cV4VVweG0N3ztC5jKjYr3ElEY82krD5OykCUy6RM9t4ez/cz/bXZjwekRkwgCqS1N3xVgpgeIox8uwKqUbnQzht02fAGrXkj/+NzXerbSu9IDxGp/9zix2GdygMu/R5tAced7htzw58L27n/tK3nDa7UP+8HDwXyRL1GwPMbL1hAn3mXI/tHh6KPtv4RvsW2qc7JUnSz6VQYN4Rdtc7zIY7yAKC6tS3zKsz0empJMKfP/5QSZuHXHS5phZl/OFhk8677YK++hC36jaCbkLKmLJwcUdjtZpWRUXaxa6fPn/CPAQzLAPYJxQ1P4WW0NyoAAAA",
+                "position": 5
               }
             ]
           },
@@ -110,7 +143,7 @@
             "Statistics bulletin data statistics data bulletin 2022"
           ],
           "query": {
-            "q": "site:https://www.tcmb.gov.tr/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -122,9 +155,9 @@
           "results": {
             "web": [
               {
-                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Monetary+Policy+Texts/Monetary+Policy+Texts/",
-                "title": "Monetary Policy Texts - TCMB",
-                "text": "Monetary Policy Texts · Monetary Policy for 2025 · Monetary Policy for 2024 · Monetary Policy and Liraization Strategy for 2023 · Monetary and Exchange Rate Policy ...",
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/core+functions/monetary+policy",
+                "title": "Monetary Policy - TCMB",
+                "text": "Monetary policy refers to decisions taken to influence the availability and cost of money in order to achieve targets such as economic growth, employment ...",
                 "source": "TCMB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "position": 1
@@ -138,21 +171,38 @@
                 "position": 2
               },
               {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Monetary+Policy+Texts/Monetary+Policy+Texts/",
+                "title": "Monetary Policy Texts - TCMB",
+                "text": "Monetary Policy Texts · Monetary Policy for 2025 · Monetary Policy for 2024 · Monetary Policy and Liraization Strategy for 2023 · Monetary and Exchange Rate Policy ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
                 "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Monetary+Policy/FINANCIAL+STABILITY/Policy+Implementations+Regarding+Financial+Stability",
                 "title": "Policy Implementations Regarding Financial Stability - TCMB",
                 "text": "The CBRT adopted a flexible monetary policy oriented towards the primary objective of price stability that also safeguards financial stability.",
                 "source": "TCMB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Exchange+Rate+Policy",
+                "title": "Exchange Rate Policy - TCMB",
+                "text": "One of the main duties of the CBRT is to determine and implement the exchange rate regime in Türkiye jointly with the Government.",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Policy regulations guidelines policy regulations pdf",
             "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:https://www.tcmb.gov.tr/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -164,20 +214,29 @@
           "results": {
             "web": [
               {
-                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases",
-                "title": "Press Releases - TCMB",
-                "text": "Central Bank of the Republic of Türkiye and People's Bank of China Sign Memorandum of Understanding on Establishing Renminbi Clearing Arrangements (2025-35).",
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements",
+                "title": "Announcements and Speeches - TCMB",
+                "text": "Press Releases. The Central Bank informs the public about its implementations, policies, and institutional regulations via press releases.",
                 "source": "TCMB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Briefings",
-                "title": "Press Briefings - TCMB",
-                "text": "The Central Bank holds press briefings to introduce Inflation Reports, which are one of its main communication tools.",
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases",
+                "title": "Press Releases - TCMB",
+                "text": "Central Bank of the Republic of Türkiye and People's Bank of China Sign Memorandum of Understanding on Establishing Renminbi Clearing Arrangements (2025-35).",
                 "source": "TCMB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "position": 2
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases/2025/ANO2025-41",
+                "title": "Press Release on Interest Rates (2025-41) - TCMB",
+                "text": "The Monetary Policy Committee (the Committee) has decided to reduce the policy rate (the one-week repo auction rate) from 46 percent to 43 ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-24T11:24:34.259496",
+                "position": 3
               },
               {
                 "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/announcements/press+releases/2025/ano2025-24",
@@ -186,12 +245,20 @@
                 "source": "TCMB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "published_time": "2025-04-17T00:00:00",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Briefings",
+                "title": "Press Briefings - TCMB",
+                "text": "The Central Bank holds press briefings to introduce Inflation Reports, which are one of its main communication tools.",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.tcmb.gov.tr/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -209,11 +276,152 @@
                 "source": "TCMB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
                 "position": 1
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/1e50df4a-9c2a-4d4a-9eb3-99cb83f951ed/WP0802ENG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1e50df4a-9c2a-4d4a-9eb3-99cb83f951ed-m3fw5Pd",
+                "title": "Oil Price Shocks, Macroeconomic Stability and Welfare in a Small ...",
+                "text": "Abstract. Since the beginning of 2000s the world economy has witnessed a sub- stantial increase in oil prices, which is seen to be an important source.",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/52c3aa6d-a29c-48cb-ace2-e8587720261d/WP0805ENG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-52c3aa6d-a29c-48cb-ace2-e8587720261d-m3fw5Pc",
+                "title": "Research and Monetary Policy Department Working Paper No:08/05",
+                "text": "In this paper, we investigate the relationship between firm characteristics (productivity and size) and entrance into export markets. We utilize propensity ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/a9d37edf-e413-4ae2-bbb0-4d157c9b1f9a/18.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a9d37edf-e413-4ae2-bbb0-4d157c9b1f9a-m3fw5Hs",
+                "title": "Research Department Working Paper No:7 The Central Bank of ... - TCMB",
+                "text": "The aim of this paper is to present a survey of the developing country cases that adopted inflation targeting and its feasibility for Turkey is investigated.",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/a011f489-8522-4f35-984b-aa046c524e7b/17.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a011f489-8522-4f35-984b-aa046c524e7b-m3fw5Hr",
+                "title": "Research Department Working Paper No:14 The Central Bank of ... - TCMB",
+                "text": "This paper aims at evaluating the relationship between interest rates and exchange rates during the 1994 currency crisis in Turkey in order to explain ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.tcmb.gov.tr/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements",
+                "title": "Announcements and Speeches - TCMB",
+                "text": "Press Releases. The Central Bank informs the public about its implementations, policies, and institutional regulations via press releases.",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases",
+                "title": "Press Releases - TCMB",
+                "text": "Central Bank of the Republic of Türkiye and People's Bank of China Sign Memorandum of Understanding on Establishing Renminbi Clearing Arrangements (2025-35).",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases/2025/ANO2025-41",
+                "title": "Press Release on Interest Rates (2025-41) - TCMB",
+                "text": "The Monetary Policy Committee (the Committee) has decided to reduce the policy rate (the one-week repo auction rate) from 46 percent to 43 ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-24T11:24:38.338507",
+                "position": 3
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Monetary+and+Financial+Statistics/Monthly+Money+and+Banking+Statistics/Announcements+on+Revision+Studies/",
+                "title": "Announcements on Revision Studies - TCMB",
+                "text": "Announcements on Revision Studies. Share. Print. Announcements on Revision Studies · Announcements on Methodological Changes ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/167839d4-3bec-428b-b71f-c2b7f1c89659/Announcement+on+Methodological+Changes.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-167839d4-3bec-428b-b71f-c2b7f1c89659-pmfhcm2",
+                "title": "Announcements on Methodological Changes - TCMB",
+                "text": "Stok and net transaction data for Domestic Banks' Branches Abroad holdings of debt securities issued by general government in domestic and ...",
+                "source": "TCMB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "published_time": "2025-03-13T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/about+the+bank/education+academic/conferences+and+events/regional_cb_2019",
+                "title": "TCMB - Central Banking Seminar on Communication",
+                "source": "TCMB",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tcmb.gov.tr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.tcmb.gov.tr/wps/wcm/connect/504ec3e8-8aa0-4c5a-86fb-297e617a3be1/1/RegionalLogo3.jpg?MOD=AJPERES",
+                "position": 1
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/about+the+bank/education+academic/conferences+and+events/regional_cb_2018",
+                "title": "TCMB - 2nd Regional Central Banking Seminar on Communication",
+                "source": "TCMB",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tcmb.gov.tr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.tcmb.gov.tr/wps/wcm/connect/f67335ce-2c55-42b1-9186-4cdff2b9d0ed/1/RegionalLogo3.jpg?MOD=AJPERES",
+                "position": 2
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/f22bb78b-ca04-4b3f-b4f6-86c586e6cc46/WP1118.pdf?MOD=AJPERES%26CACHEID=ROOTWORKSPACE-f22bb78b-ca04-4b3f-b4f6-86c586e6cc46-m3fB8Z7",
+                "title": "PDF) Monetary Policy Communication Under Inflation Targeting ...",
+                "source": "ResearchGate",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tcmb.gov.tr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.researchgate.net/profile/Hakan-Kara-4/publication/254451886/figure/tbl1/AS:669404052348931@1536609771251/Policy-Rate-and-the-Communication-Signals_Q320.jpg",
+                "position": 3
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/f22bb78b-ca04-4b3f-b4f6-86c586e6cc46/WP1118.pdf?MOD=AJPERES%26CACHEID=ROOTWORKSPACE-f22bb78b-ca04-4b3f-b4f6-86c586e6cc46-m3fB8Z7",
+                "title": "PDF) Monetary Policy Communication Under Inflation Targeting ...",
+                "source": "ResearchGate",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tcmb.gov.tr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://i1.rgstatic.net/publication/254451886_Monetary_Policy_Communication_Under_Inflation_Targeting_Do_Words_Speak_Louder_Than_Actions/links/5406baf90cf23d9765a7ff2a/largepreview.png",
+                "position": 4
+              },
+              {
+                "url": "https://www.tcmb.gov.tr/wps/wcm/connect/f22bb78b-ca04-4b3f-b4f6-86c586e6cc46/WP1118.pdf?MOD=AJPERES%26CACHEID=ROOTWORKSPACE-f22bb78b-ca04-4b3f-b4f6-86c586e6cc46-m3fB8Z7",
+                "title": "Monetary Policy Communication Under Inflation Targeting",
+                "text": "PDF | This paper assesses the effectiveness of monetary policy communication of the Central Bank of Turkey (CBT) by quantifying the information content.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEXVADLUABzTABH7+/vUACjhforwx8z////24+bjjpnRAADnnqfx1drrt77pqrLXOVLVGj3ZUWXjN7BXAAAAEnRSTlP////5//r5//n5//n3+Pn5+/nwG7NLAAAAz0lEQVR4AWIYUMDIBAWA4sgiO6IQiKK/9OGy/80GOkof5sHhUn5hLN/tAtXMHMEsPjdKKaMkpgujJ5YKL26k72JaIdaWZK9iJ9UuqIkXJOKR06F6LDY9bUnv7t7GrzAHSIqIGW7o8CkY30wnkDkCFUUWrMkQ9RtmYNKChRpe0NF/oqhA3xATW1IEnp5TMviSLS/JCtPTpjxADxvymnR6K6mWtKHvL3/iBOqsNDo17153nO8Z0n0ieiLTJbfKRL2t/VYVCeWoylHQJUgL/Wv7AM4ECTAuUmERAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.tcmb.gov.tr/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

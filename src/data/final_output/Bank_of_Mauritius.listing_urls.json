@@ -9,15 +9,27 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.bom.mu/climatechange/publications",
+        "title": "Publications | Bank of Mauritius",
+        "text": "Publications · 01 April 2022. Guideline on Climate-related and Environmental Financial Risk Management · 03 November 2021. The Bank of Mauritius Climate Change ...",
+        "listing_probability": 1.0
+      },
+      {
         "url": "https://www.bom.mu/financial-stability/financial-stability/reports",
         "title": "Reports - Bank of Mauritius |",
         "text": "The reports include a review of price and financial stability, and an assessment of the policies of the Bank in relation thereto.",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bom.mu/publications-and-statistics",
-        "title": "Publications and Statistics | Bank of Mauritius",
+        "url": "https://www.bom.mu/publications-and-statistics/publications/annual-report",
+        "title": "Annual Report | Bank of Mauritius",
         "text": "The Bank of Mauritius publishes its Annual Report for the year ended June. As from June 2011, the Annual Report of the Bank also covers developments in the area ...",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.bom.mu/publications-statistics/publications",
+        "title": "publications | Bank of Mauritius",
+        "text": "Skip to main content. Home. Procurement · Careers · Contact · Advanced Search. Search form. Search. Quick Links, Speeches · Job Vacancies · Advance Release ...",
         "listing_probability": 0.9
       }
     ]
@@ -41,7 +53,19 @@
         "url": "https://www.bom.mu/publications-and-statistics/statistics/external-sector-statistics/remittances",
         "title": "Remittance Statistics | Bank of Mauritius",
         "text": "The Bank compiles remittance statistics from banks and foreign exchange dealers to meet the requirements of two different initiatives at the national level.",
-        "listing_probability": 0.15
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bom.mu/publications-and-statistics/statistic",
+        "title": "statistic | Bank of Mauritius",
+        "text": "statistic · RUPEE EXCHANGE RATE · Rupee Exchange Rates · Currency Converter · Disclaimer · Useful links · Locate us.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bom.mu/publications-and-statistics/statistics/nsdp",
+        "title": "National Summary Data Page | Bank of Mauritius",
+        "text": "The National Summary Data Page (NSDP) provides a time series for some key statistics relating to the financial and external sectors produced by the Bank.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -55,9 +79,15 @@
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.bom.mu/monetary-policy/monetary-policy",
-        "title": "Monetary Policy | Bank of Mauritius",
-        "text": "Monetary policy is a term used to refer to the actions of central banks to achieve macroeconomic policy objectives such as price stability, full employment, ...",
+        "url": "https://www.bom.mu/financial-stability/supervision/guidelines/guideline-anti-money-laundering-and-combating-financing-terrorism-and",
+        "title": "Guideline on Anti-Money Laundering and Combating the Financing of ...",
+        "text": "Guideline on Anti-Money Laundering and Combating the Financing of Terrorism and Proliferation. Available as : Key Rate. 4.50 %. 07 May 2025.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bom.mu/financial-stability/supervision/guidelines/guideline-corporate-governance",
+        "title": "Guideline on Corporate Governance | Bank of Mauritius",
+        "text": "This guideline broadly sets out the minimum standard of corporate governance that the Bank expects from financial institutions.",
         "listing_probability": 0.05
       }
     ]
@@ -74,8 +104,77 @@
       {
         "url": "https://www.bom.mu/latest-news-archives",
         "title": "Latest News | Bank of Mauritius",
-        "text": "17/07/2025 Speech of Dr Rama Krishna Sithanen, G.C.S.K., Governor of the Bank of Mauritius, at the University of Mauritius International Research Symposium ...",
-        "listing_probability": 0.95
+        "text": "Latest News · Prospectus - Government of Mauritius Treasury Certificates · Issue of Government of Mauritius Treasury Certificates · Advance Notice - Tenor of ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bom.mu/publications-and-statistics/statistics/surveys/fal-survey/press-release-%26-reports",
+        "title": "press release & reports | Bank of Mauritius",
+        "text": "Press Release & Reports. 05 October 2021. Leasing Facilities: End-June 2021. 14 June 2016. Press Release: Foreign Assets and Liabilities Survey 2016.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bom.mu/monetary-policy/interest-rate-decisions/post-mpc-meeting-press-conference-statement-governor",
+        "title": "Post MPC Meeting Press Conference: Statement by the Governor",
+        "text": "Post MPC Meeting Press Conference: Statement by the Governor. Available as : Key Rate. 4.50 %. 07 May 2025. Overnight Interbank Rate. -. 18 July 2025 ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/climatechange/updates",
+        "title": "Updates | Bank of Mauritius",
+        "text": "Updates · RUPEE EXCHANGE RATE · Rupee Exchange Rates · Currency Converter · Disclaimer · Useful links · Locate us.",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/financial-stability/supervision/scam-alerts/public-notice-scam",
+        "title": "Public Notice: Scam | Bank of Mauritius",
+        "text": "Public Notice: Scam. Available as : Key Rate. 4.50 %. 07 May 2025. Overnight Interbank Rate. -. 20 June 2025. RUPEE EXCHANGE RATE.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bom.mu/media/scam-alerts",
+        "title": "Scam Alerts | Bank of Mauritius",
+        "text": "This section has been designed to raise the awareness of the public and financial industry stakeholders against scams and fraud attempts.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bom.mu/markets/market-notices",
+        "title": "Market Notices | Bank of Mauritius",
+        "text": "Market Notices ; 23 July 2025. Results: 5.25% Three-Year Government of Mauritius Treasury Notes (New Benchmark) ; 22 July 2025. Notice of Tender: Bank of ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bom.mu/financial-stability/supervision/scam-alerts/communique-bank-mauritius-warns-public-against-phishing-emails-purportedly",
+        "title": "Communiqué: The Bank of Mauritius warns the public against phishing ...",
+        "text": "Communiqué: The Bank of Mauritius warns the public against phishing emails purportedly issued by the Bank of Mauritius · RUPEE EXCHANGE RATE · Rupee Exchange ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bom.mu/email-alerts",
+        "title": "Email Alerts | Bank of Mauritius",
+        "text": "Email Alerts · Vertical Tabs · RUPEE EXCHANGE RATE · Rupee Exchange Rates · Currency Converter · Disclaimer · Useful links · Locate us.",
+        "listing_probability": 0.8
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bom.mu/financial-stability/supervision/scam-alerts/scam-alert-fraudulent-emails-and-messages-purporting-emanate-bank-mauritius",
+        "title": "Scam Alert: Fraudulent emails and messages purporting to emanate ...",
+        "text": "These fraudulent emails and messages aim at defrauding potential victims. The fraudsters are enticing people to transfer funds and effect other ...",
+        "listing_probability": 0.05
       }
     ]
   }

@@ -6,19 +6,31 @@
         "url": "https://www.bcb.gov.br/en/publications",
         "title": "Publications and Research - Banco Central do Brasil",
         "text": "Find the most recent publications and researches by Banco Central do Brasil: Copom Minutes; Market Readout; Inflation Report, Financial Stability Report, ...",
-        "listing_probability": 1.0
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.bcb.gov.br/en/publications/bcreports",
-        "title": "BCB Reports - Banco Central do Brasil",
-        "text": "Access to the Banco Central do Brasil´s Reports: Direct Investment Report; Financial Citizenship; International Reserves Management Report; Research Report ...",
-        "listing_probability": 1.0
+        "title": "BCB Reports - Banco Central",
+        "text": "BCB Reports · BCB Annual Report · Direct Investment Report · Financial Citizenship · International Reserves Management Report · Report on Social, Environmental and ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/inflationreport",
+        "title": "Inflation Report - Banco Central do Brasil",
+        "text": "The inflation report presents the policy guidelines adopted by the Monetary Policy Committee (Copom), considerations about recent economic developments, and ...",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bcb.gov.br/en/publications/externalpublicationsresearch",
         "title": "External publications - Banco Central",
         "text": "The research developed by the BCB staff is published externally in several outlets, such as journals, chapters in books and conference volumes.",
-        "listing_probability": 1.0
+        "listing_probability": 0.96
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/inflationreport/202312",
+        "title": "Inflation Report - Banco Central",
+        "text": "The inflation report presents the policy guidelines adopted by the Monetary Policy Committee (Copom), considerations about recent economic developments, ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -32,9 +44,21 @@
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.bcb.gov.br/en/financialstability/pixstatistics",
+        "title": "Pix Statistics - Banco Central do Brasil",
+        "text": "Description: Amount of Pix transactions settled monthly in the SPI and non-SPI settled Pix transactions, considering payment orders and returns in the period.",
+        "listing_probability": 0.2
+      },
+      {
         "url": "https://www.bcb.gov.br/en/statistics/monetarycreditstatistics",
         "title": "Monetary and credit statistics - Banco Central",
         "text": "In 12 months, total credit increased 12.2%, with expansions of 10.9% in public debt securities, 11.2% in SFN loans, 18.8% in debt securities ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/statistics/externalsectorstatistics",
+        "title": "External sector statistics - Banco Central",
+        "text": "The balance of payments current account recorded a deficit of USD 2.9 billion in May 2025, compared with a deficit of USD 2.5 billion in May 2024.",
         "listing_probability": 0.2
       },
       {
@@ -46,13 +70,77 @@
     ]
   },
   {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcb.gov.br/en/monetarypolicy",
+        "title": "Monetary Policy - Banco Central do Brasil",
+        "text": "The BCB conducts monetary policy to achieve its main mandate. The Selic rate is the main instrument of monetary policy. It is the average interest rate charged ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/monetarypolicy/committee",
+        "title": "Monetary Policy Committee (Copom) - Banco Central do Brasil",
+        "text": "The Monetary Policy Committee (Copom) of the Banco Central do Brasil (BCB) is responsible for setting the target for the policy interest rate – the Selic rate.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/financialstability/fxpolicy",
+        "title": "Foreign exchange policy - Banco Central do Brasil",
+        "text": "The CMN establishes the guidelines for the financial relationships between the economy and the rest of the world, the FX market operations, the rules for the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/copomminutes",
+        "title": "Minutes of the Monetary Policy Committee — Copom",
+        "text": "The members of Copom analyzed the recent performance and prospects for the Brazilian and international economies, under the monetary policy framework.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/mpr-boxes",
+        "title": "Monetary Policy Report Boxes - Banco Central do Brasil",
+        "text": "The Monetary Policy Report (named Inflation Report between 1999 and 2024) presents the policy guidelines adopted by the Monetary Policy Committee (Copom), ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcb.gov.br/en/pressreleasesbyyear",
+        "title": "Press releases by year - Banco Central",
+        "text": "Wednesday, 29 Copom increases the Selic rate to 13.25% pa Wednesday, 29 BCB conducts its 1st Cyber Exercise with supervised institutions.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/pressreleasesbyyear?ano=2020",
+        "title": "Press releases by year - Banco Central do Brasil",
+        "text": "Friday, 18 · BIS evaluates the retail payment services in Latin America and the Caribbean · Friday, 18 · Agenda BC# - BCB announces the rules for the Cycle 1 of ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
     "topic": "research",
     "entries": [
+      {
+        "url": "https://www.bcb.gov.br/en/publications/workingpaperseries",
+        "title": "Working Paper Series - Banco Central do Brasil",
+        "text": "Created in 1999, Working Paper Series is the main vehicle for the dissemination of the Banco Central do Brasil´s research. Find the latest Working Papers.",
+        "listing_probability": 0.98
+      },
       {
         "url": "https://www.bcb.gov.br/en/publications/research",
         "title": "BCB Research - Banco Central do Brasil",
         "text": "The results of the BCB's research activities are disseminated in this Research Hub, particularly in the Working Paper Series, with more than 600 publications.",
-        "listing_probability": 0.98
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcb.gov.br/en/publications/bestworkingpaperaward",
+        "title": "Best Working Paper Award - Banco Central do Brasil",
+        "text": "The award was created in 2016 and comprises two categories: Economics; and Banking and Finance. The choice of the winners is conducted in two stages.",
+        "listing_probability": 0.15
       }
     ]
   }

@@ -8,33 +8,49 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bcsm.sm/en/publications-and-statistics",
+                "url": "https://www.bcsm.sm/en/publications-and-statistics?hsLang=en",
                 "title": "Publications and Statistics - BCSM",
+                "text": "Discover the official publications and statistics of Central Bank of the Republic of San Marino: up-to-date economic reports and financial data.",
                 "source": "BCSM",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bcsm.sm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://145065641.fs1.hubspotusercontent-eu1.net/hub/145065641/hubfs/Pubblicazioni-Bilanci-annuali.jpg?width=300&name=Pubblicazioni-Bilanci-annuali.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.bcsm.sm/en/publications-and-statistics",
-                "title": "Publications and Statistics - BCSM",
-                "source": "BCSM",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bcsm.sm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://145065641.fs1.hubspotusercontent-eu1.net/hub/145065641/hubfs/Pubblicazioni-Bollettino-Informativo-Trimestrale.jpg?width=300&name=Pubblicazioni-Bollettino-Informativo-Trimestrale.jpg",
+                "url": "https://www.bcsm.sm/en/publications-and-statistics/summary-reports?hsLang=en",
+                "title": "Summary reports - BCSM",
+                "text": "Access the Consecutive Reports of the Central Bank of San Marino: detailed analysis and annual results on the economic and financial system.",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bcsm.sm/en/publications-and-statistics",
-                "title": "Publications and Statistics - BCSM",
+                "url": "https://www.bcsm.sm/en/publications-and-statistics/financial-system-and-banking-statistics",
+                "title": "Financial System and Banking statistics - BCSM",
+                "text": "Explore statistical data on San Marino's financial system: reports, analysis and periodic updates by the Central Bank.",
                 "source": "BCSM",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bcsm.sm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://145065641.fs1.hubspotusercontent-eu1.net/hub/145065641/hubfs/gettyimages-1444490810-170667a.jpg?width=300&name=gettyimages-1444490810-170667a.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bcsm.sm/en/publications-and-statistics/quarterly-information-bulletin",
+                "title": "Quarterly Information Bulletin - BCSM",
+                "text": "Discover the Quarterly Information Bulletin of the Central Bank of the Republic of San Marino: economic data, statistical analysis and updates.",
+                "source": "BCSM",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcsm.sm/en/function/other-functions/depositors-guarantee-fund/annual-accounting-reports",
+                "title": "Annual accounting reports - CBSM",
+                "text": "Annual accounting reports ; 2023. Annual reporting 2023. Download the PDF ; 2022. Annual reporting 2022. Download the PDF ; 2021. Annual reporting 2021. Download ...",
+                "source": "BCSM",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcsm.sm/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.bcsm.sm/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -48,7 +64,7 @@
               {
                 "url": "https://www.bcsm.sm/en/publications-and-statistics/quarterly-information-bulletin",
                 "title": "Quarterly Information Bulletin - BCSM",
-                "text": "Discover the Quarterly Information Bulletin of the Central Bank of the Republic of San Marino: economic data, statistical analysis and updates.",
+                "text": "The data in the Bulletin are now presented in greater detail than before, providing the public with more comprehensive insights into the dynamics of the year.",
                 "source": "BCSM",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 1
@@ -68,11 +84,27 @@
                 "source": "BCSM",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bcsm.sm/en/publications-and-statistics/e-gdds",
+                "title": "e-GDDS - BCSM",
+                "text": "e-GDDS is an advanced statistical data dissemination system established in 2015 to support countries in improving data transparency.",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcsm.sm/en/functions/statutary-functions/monetary-financial-credit-and-currency-statistics",
+                "title": "Monetary, financial, credit and currency statistics - BCSM",
+                "text": "This section presents key performance data related to market structure, intermediary volume dynamics, credit quality, capital, and profitability.",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcsm.sm/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.bcsm.sm/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -100,21 +132,33 @@
                 "position": 2
               },
               {
-                "url": "https://www.bcsm.sm/en/regulations/law-and-decrees/payment-systems-regulations",
-                "title": "Payment systems regulations - CBSM",
-                "text": "Learn about payment systems regulations: updated laws and decrees for safe and compliant handling of financial transactions.",
-                "source": "Banca Centrale di San Marino",
+                "url": "https://www.bcsm.sm/en/laws-and-regulations/recommendations",
+                "title": "Recommendations - BCSM",
+                "text": "See the recommendations of the Central Bank of San Marino: guidelines and suggestions for the banking and financial sector.",
+                "source": "BCSM",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bcsm.sm/en/laws-and-regulations/cbsm-provisions?hsLang=en",
+                "title": "CBSM Provisions - BCSM",
+                "text": "The regulatory measures issued by the Central Bank are divided into regulations and circulars. The regulations are \"general and abstract\" measures of a binding ...",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcsm.sm/en/laws-and-regulations/laws-and-decrees",
+                "title": "Laws and decrees - BCSM",
+                "text": "This section of the website offers insights into the regulations that guide the Central Bank's supervisory functions and responsibilities.",
+                "source": "BCSM",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Policy regulations guidelines policy regulations 2021",
-            "Policy regulations guidelines policy regulations 2022"
-          ],
           "query": {
-            "q": "site:https://www.bcsm.sm/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.bcsm.sm/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -140,11 +184,91 @@
                 "source": "BCSM",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
                 "position": 2
+              },
+              {
+                "url": "https://www.bcsm.sm/en/press-room/media-contacts",
+                "title": "Communication and media contacts - BCSM",
+                "text": "Find communication and media contacts of the Central Bank of San Marino: information, press releases and media support.",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcsm.sm/en/news/memorandum-of-understanding-signed-with-the-institute-for-innovation-of-the-republic-of-san-marino?hs_amp=true",
+                "title": "CBSM signs Memorandum of Understanding with the Institute for ...",
+                "text": "The Central Bank of the Republic of San Marino has signed a Memorandum of Understanding with the Institute for Innovation of the Republic of San Marino.",
+                "source": "BCSM",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "amp": "https://www.bcsm.sm/en/news/memorandum-of-understanding-signed-with-the-institute-for-innovation-of-the-republic-of-san-marino?hs_amp=true",
+                "published_time": "2025-03-17T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcsm.sm/en/news/sottoscritto-accordo-per-il-rinnovo-dei-contratti-di-lavoro-per-il-personale-dipendente-della-banca-centrale-della-repubblica-di-san-marino?hs_amp=true",
+                "title": "Agreement signed on the renewal of labor contracts for employees of the ...",
+                "text": "The increases include the recognition of a 1.5 percent one-time increase for 2022, and a 2 percent annual increase for the four-year period 2023-2026.",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "amp": "https://www.bcsm.sm/en/news/sottoscritto-accordo-per-il-rinnovo-dei-contratti-di-lavoro-per-il-personale-dipendente-della-banca-centrale-della-repubblica-di-san-marino?hs_amp=true",
+                "published_time": "2025-05-28T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcsm.sm/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.bcsm.sm/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcsm.sm/en/privacy/notices",
+                "title": "Notices - BCSM",
+                "text": "Read the privacy notices: clear details on how we protect and use your personal information with maximum transparency.",
+                "source": "BCSM",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcsm.sm/en/services-to-the-public/services/news-from-supervised-parties",
+                "title": "Notices from probationers - BCSM",
+                "text": "See alerts from the supervised: official communications and updates from financial institutions under BCSM supervision.",
+                "source": "BCSM",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcsm.sm/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcsm.sm/en/press-room/media-contacts",
+                "title": "Communication and media contacts - BCSM",
+                "text": "Find communication and media contacts of the Central Bank of San Marino: information, press releases and media support.",
+                "source": "Banca Centrale di San Marino",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUrXZkXTpAKSY5phbAdUpIAQYkAOIQAPYYAOYUAPIZjfqsAQYgAQomTp8W3w9fl6/J7mb07Y5tMbaH///+9zN6gtdApVZPw9fqFocPF0+R3jbTZ4Ovn7PJ4k7mgrslZdqZceKequ9MAM4MALoHQ2eZqg60AKH5wUhX5AAAAnklEQVR4AU2OAwKAMBRAl+cwZnf/G2a94RsAOH9cD/jBThhEMIx2BWHgE0ohcx0eJ4jQ6HKgNGNCSAVvB9TGx7FQ9nbALC/KSpS6vhwolZZJIZoWo9MRNq0uOi6MZndG29NhGBIh0xbdPWxSjEII0GXwnBJRVU6iFjzR12IBnRdgR2yG6F4s2NtDMkzDvdhF2PDT4aCHcNhfB4r5D2YbjS8OwUMkUFQAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcsm.sm/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

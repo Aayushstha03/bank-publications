@@ -12,7 +12,25 @@
         "url": "https://www.bankofcanada.ca/publications/browse/",
         "title": "Browse publications - Bank of Canada",
         "text": "Research and reports. Access our research papers, public consultations and surveys related to bank notes. Our next $20 bank note. We've started the design ...",
-        "listing_probability": 0.97
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofcanada.ca/publications/mpr/",
+        "title": "Monetary Policy Report - Bank of Canada",
+        "text": "A quarterly report of the Bank of Canada's Governing Council, presenting the Bank's base-case projection for inflation and growth in the Canadian economy.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bankofcanada.ca/research/technical-reports/",
+        "title": "Technical reports - Bank of Canada",
+        "text": "Technical reports provide detailed descriptions of staff research project methodologies and model development.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/",
+        "title": "Annual Report and Quarterly Financial Report - Bank of Canada",
+        "text": "The Annual Report outlines the Bank's activities and achievements in 2024. It includes the financial statements and a message from Governor Tiff Macklem.",
+        "listing_probability": 0.35
       }
     ]
   },
@@ -20,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.bankofcanada.ca/rates/",
+        "title": "Statistics - Bank of Canada",
+        "text": "Find exchange rates, interest rates, price indexes, economic indicators and other statistical information.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/",
         "title": "Banking and financial statistics - Bank of Canada",
         "text": "Search our statistical data tables—a compilation of banking and financial indicators, including the Bank of Canada's assets and liabilities, credit and monetary ...",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bankofcanada.ca/publications/historical-banking-financial-statistics-and-weekly-financial-statistics/",
-        "title": "Historical Banking Financial Statistics and Weekly Financial Statistics",
-        "text": "Access banking and financial statistics from January 2012 to May 2018. Starting with June 2018, the Banking and Financial Statistics (BFS) publication has been ...",
-        "listing_probability": 0.95
+        "url": "https://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/product-market-definitions/",
+        "title": "Product market: Definitions, graphs and data - Bank of Canada",
+        "text": "The output gap captures whether the economy is operating above or below its capacity. It is an important determinant of inflationary pressures.",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/annual-report-2024/driving-decisions-with-data/",
-        "title": "Driving decisions with data - Bank of Canada",
-        "text": "In 2024, the Bank began publishing its Monetary Policy Report in a digital format. The interactive report allows Canadians to explore the data and statistics ...",
-        "listing_probability": 0.05
+        "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/historical-selected-credit-measures-formerly-e2/",
+        "title": "Historical selected credit measures (formerly E2) - Bank of Canada",
+        "text": "Data on consumer credit on the books of these lenders are available up to December 1978 in the Statistics Canada publication Consumer Credit (Catalogue 61-004).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/bank-of-canada-assets-and-liabilities-weekly-formerly-b2/",
+        "title": "Bank of Canada assets and liabilities: Weekly (formerly B2)",
+        "text": "View or download the latest weekly data. For metadata and background information, see the notes. Typically published on Fridays by 14:30 ET.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -43,22 +73,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
+        "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/renewing-canadas-monetary-policy-framework/",
+        "title": "Renewing Canada's monetary policy framework",
+        "text": "Every five years, the Bank of Canada and the Government of Canada review and renew the agreement on Canada's monetary policy framework.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/",
         "title": "Monetary policy - Bank of Canada",
         "text": "Learn about the objective of Canada's monetary policy and the main instruments used to implement it: the inflation-control target and the flexible exchange ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.bankofcanada.ca/rates/indicators/key-variables/",
+        "title": "Summary of key monetary policy variables - Bank of Canada",
+        "text": "Key variables include inflation-control target, inflation indicators, monetary conditions, monetary aggregates, policy instrument, and overnight rate target.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofcanada.ca/2024/09/staff-discussion-paper-2024-14/",
+        "title": "Monetary Policy Governance: Bank of Canada Practices to Support Policy ...",
+        "text": "In this paper, we examine some desirable and some adverse outcomes associated with different governance structures.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/lynx/implementing-monetary-policy/",
-        "title": "Implementing Monetary Policy in the Large Value Transfer System ...",
-        "text": "Renewing Canada's monetary policy framework. Every five years, the Bank of Canada and the Government of Canada review and renew the agreement on Canada's ...",
-        "listing_probability": 0.02
-      },
-      {
-        "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/agreement-inflation-control-target/",
-        "title": "Agreements on the Monetary Policy Framework - Bank of Canada",
-        "text": "In 1991, the Bank of Canada and the Minister of Finance agreed on an inflation-control target framework to guide Canadian monetary policy.",
-        "listing_probability": 0.4
+        "url": "https://www.bankofcanada.ca/2024/07/mpr-2024-07-24/",
+        "title": "Monetary Policy Report—July 2024 - Bank of Canada",
+        "text": "Monetary policy is working to reduce price pressures in the Canadian economy. Core inflation is expected to ease gradually, while the path of CPI inflation ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -69,19 +111,31 @@
         "url": "https://www.bankofcanada.ca/press/speeches/",
         "title": "Speeches and appearances - Bank of Canada",
         "text": "Find speeches and appearances by keyword, author, content type, location, topic or publication date.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofcanada.ca/press/speeches/webcasts/",
+        "title": "Webcasts - Bank of Canada",
+        "text": "The Bank provides live video and audio webcasts, when possible, of major speeches and press conferences presented by the Governor, Senior Deputy Governor and ...",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bankofcanada.ca/press/",
         "title": "Press - Bank of Canada",
         "text": "St. John's, Newfoundland and Labrador Governor Tiff Macklem discusses how the trade conflict with the United States has affected the Canadian economy.",
-        "listing_probability": 0.4
+        "listing_probability": 0.3
       },
       {
         "url": "https://www.bankofcanada.ca/press/press-releases/",
         "title": "Press releases - Bank of Canada",
         "text": "Recent Bank of Canada press releases include policy rate changes, museum awards, a new deputy governor appointment, and a review of pandemic policy actions.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofcanada.ca/press/browse/",
+        "title": "Browse press - Bank of Canada",
+        "text": "Find press content by keyword, author, content type, location, source, topic or publication date. Contains Search Authors Content Types Locations Research ...",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -99,6 +153,75 @@
         "title": "Research - Bank of Canada",
         "text": "Staff working papers. Staff working papers provide a forum for staff to publish work-in-progress research intended for journal publication.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofcanada.ca/2023/10/staff-analytical-note-2023-16/",
+        "title": "Machine learning for economics research: when, what and how ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+        "title": "Bank of Canada publishes its 2025 schedule for policy interest rate ...",
+        "text": "The scheduled dates for the interest rate announcements for 2025 are as follows: Wednesday, January 29; Wednesday, March 12; Wednesday, April 16 ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+        "title": "Bank of Canada publishes its 2024 schedule for policy interest rate ...",
+        "text": "The Bank of Canada today published its 2024 schedule for policy interest rate announcements and the release of the quarterly Monetary Policy Report.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+        "title": "Bank of Canada publishes 2023 schedule for interest rate ...",
+        "text": "All rate announcements will take place at 10:00 (ET). Dates for the 2023 publications of the Business Outlook Survey and Canadian Survey of Consumer ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofcanada.ca/press/announcements/",
+        "title": "Announcements - Bank of Canada",
+        "text": "The Bank of Canada is pleased to announce this year's recipients of its scholarship awards for students with disabilities, Indigenous students, LGBTQ2S+ ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/email-alerts/",
+        "title": "Email alerts - Bank of Canada",
+        "text": "News and events, press releases, media advisories, market notices, digital currencies and fintech, PIVOT, Progam Term, repo operations, public speeches and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofcanada.ca/markets/market-notices/",
+        "title": "Market notices - Bank of Canada",
+        "text": "Read our notices about financial market activities. Receive notification by email whenever new notices are added to the website.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofcanada.ca/wp-content/themes/ews-build/misc/confirm-subscribe-email-alerts.html",
+        "title": "Email Alert Confirmation - Bank of Canada",
+        "text": "Email Alert Confirmation. This confirms your subscription to the Bank of Canada's Email Alerts. Unsubscribe. To unsubscribe from the email alert ...",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bankofcanada.ca/?p=238233",
+        "title": "Communication par la Banque du Canada des risques liés aux ...",
+        "text": null,
+        "listing_probability": 0.05
       }
     ]
   }

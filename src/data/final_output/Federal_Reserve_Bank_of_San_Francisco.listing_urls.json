@@ -1,24 +1,65 @@
 [
   {
-    "topic": "statistics",
+    "topic": "publications",
     "entries": [
       {
-        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/sf-fed-data-explorer/app/",
-        "title": "Welcome to the SF Fed Data Explorer",
-        "text": "Welcome to the SF Fed Data Explorer. Start by choosing a Data Category tab and the display options and statistics you are interested in.",
-        "listing_probability": 0.1
+        "url": "https://www.frbsf.org/research-and-insights/publications/",
+        "title": "Read the latest data, analysis, and insights from the SF Fed.",
+        "text": "We produce a wide range of publications that share the latest data, analysis, and insights from various teams at the SF Fed.",
+        "listing_probability": 0.98
       },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/",
+        "title": "Discover research and insights from the SF Fed's publications, data, and ...",
+        "text": "Explore the extensive work of the SF Fed: Information, research, and insights on specific topics and subtopics impacting our economy.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/",
+        "title": "Economic Letter - San Francisco Fed",
+        "text": "Brief summaries of SF Fed economic research that explain in reader-friendly terms what our work means for the people we serve.",
+        "listing_probability": 0.92
+      },
+      {
+        "url": "https://www.frbsf.org/publications/community-development-perspectives/",
+        "title": "Community Development Perspectives - San Francisco Fed",
+        "text": "Community Development Perspective Papers was a series that was published until 2018 and provided practitioner-oriented viewpoints on emerging community ...",
+        "listing_probability": 0.92
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/working-papers/2022/10/decomposing-supply-and-demand-driven-inflation/",
+        "title": "Decomposing Supply and Demand Driven Inflation - San Francisco Fed",
+        "text": "I propose a framework to decompose inflation into supply- and demand-driven components. I generate two new data series, the supply and demand-driven ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
       {
         "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/",
         "title": "Data and Indicators - San Francisco Fed",
         "text": "The Economic Research Department provides recurring updates of specific data sets related to its research. Topics include inflation, excess savings,",
-        "listing_probability": 0.8
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/banking-and-economic-data/economic-data/",
         "title": "Economic Data - San Francisco Fed",
         "text": "The following links provide economic data on a national, regional, and/or state level. This data is derived from a variety of sources.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/sf-fed-data-explorer/app/",
+        "title": "Welcome to the SF Fed Data Explorer",
+        "text": "Welcome to the SF Fed Data Explorer. Start by choosing a Data Category tab and the display options and statistics you are interested in.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/",
+        "title": "Monetary Policy Surprises - San Francisco Fed",
+        "text": "This page provides data on both raw surprises, based on changes in money market futures rates, and surprises that are “orthogonalized” with respect to publicly ...",
+        "listing_probability": 0.2
       }
     ]
   },
@@ -29,19 +70,31 @@
         "url": "https://www.frbsf.org/teacher-resources/what-is-the-fed/monetary-policy/",
         "title": "The Fed Explained - Monetary Policy - Federal Reserve Board",
         "text": "The Fed sets the stance of monetary policy to influence short-term interest rates and overall financial conditions with the aim of moving the economy toward ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.02
       },
       {
         "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/11/monetary-policy-stance-is-tighter-than-federal-funds-rate/",
         "title": "Monetary Policy Stance Is Tighter than Federal Funds Rate",
-        "text": "This proxy measure shows that, since late 2021, monetary policy has been substantially tighter than the federal ...",
-        "listing_probability": 0.01
+        "text": "This proxy measure shows that, since late 2021, monetary policy has been substantially tighter than the federal funds rate indicates.",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2016/08/monetary-policy-and-low-r-star-natural-rate-of-interest/",
-        "title": "Monetary Policy in a Low R-star World - San Francisco Fed",
-        "text": "Central banks and governments around the world must be able to adapt policy to changing economic circumstances.",
-        "listing_probability": 0.01
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2024/03/monetary-policy-and-financial-conditions/",
+        "title": "Monetary Policy and Financial Conditions - San Francisco Fed",
+        "text": "Our analysis shows that monetary policy has significant direct effects on financial conditions, as evident from the response to monetary policy surprises.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2025/02/does-monetary-policy-tightening-reduce-inflation/",
+        "title": "Does Monetary Policy Tightening Reduce Inflation?",
+        "text": "Research by Romer and Romer (2024) found that inflation tends to decline when the FOMC expresses a high commitment to disinflation.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2023/09/does-monetary-policy-have-long-run-effects/",
+        "title": "Does Monetary Policy Have Long-Run Effects?",
+        "text": "Monetary policy is often regarded as having only temporary effects on the economy, moderating the expansions and contractions that make up the business cycle.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -52,13 +105,25 @@
         "url": "https://www.frbsf.org/news-and-media/speeches/",
         "title": "Speeches - San Francisco Fed",
         "text": "News & Media. Speeches. Speeches by San Francisco Federal Reserve Bank President and Chief Executive Officer Mary C. Daly: Mary C. Daly's Speeches.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/daily-news-sentiment-index/",
         "title": "Daily News Sentiment Index - San Francisco Fed",
         "text": "The Daily News Sentiment Index is a high frequency measure of economic sentiment based on lexical analysis of economics-related news articles.",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/system-research-san-francisco-fed/2024/06/measuring-news-sentiment-eern/",
+        "title": "Measuring News Sentiment - San Francisco Fed",
+        "text": "This paper demonstrates state-of-the-art text sentiment analysis tools while developing a new time-series measure of economic sentiment.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/speeches/mary-c-daly/",
+        "title": "Mary C. Daly's Speeches - San Francisco Fed",
+        "text": "Speeches and remarks by President and CEO Mary C. Daly. Dynamic Central Bank Communication. June 22, 2025. Western Economic Association International Annual ...",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.frbsf.org/news-and-media/",
@@ -75,7 +140,88 @@
         "url": "https://www.frbsf.org/research-and-insights/publications/working-papers/",
         "title": "Working Papers - San Francisco Fed",
         "text": "Working Papers. Academic research by SF Fed economists and affiliates intended for publication in scholarly journals. Information Acquisition and the Finance ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/news-and-media/news-articles/press-releases/2025/01/community-advisory-council-membership-leadership-announcements-2025/",
+        "title": "Membership and Leadership Announcements for the Federal ...",
+        "text": "News & Media/Press Releases. Membership and Leadership Announcements for the Federal Reserve Bank of San Francisco's Community Advisory Council.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/news-articles/press-releases/2025/01/community-depository-institutions-advisory-council-membership-leadership-announcements-2025/",
+        "title": "Membership and Leadership Announcements for the Federal ...",
+        "text": "The Federal Reserve Bank of San Francisco announced the newest members of the Twelfth District's Community Depository Institutions Advisory Council (CDIAC), ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/news-articles/press-releases/2025/01/seattle-branch-board-of-directors-membership-announcements-2025/",
+        "title": "Membership and Leadership Announcements for the Federal ...",
+        "text": "SEATTLE – The Federal Reserve Bank of San Francisco announced a new appointment and a reappointment to its Seattle Branch Board of Directors ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/news-articles/press-releases/2025/01/portland-branch-board-of-directors-membership-announcements-2025/",
+        "title": "Membership and Leadership Announcements for the Federal ...",
+        "text": "The Federal Reserve Bank of San Francisco announced its newest appointments to its Portland Branch Board of Directors, as well as a new chair.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/news-articles/press-releases/2025/01/economic-advisory-council-membership-announcements-2025/",
+        "title": "Membership Announcements for the Federal Reserve Bank of San ...",
+        "text": "The Federal Reserve Bank of San Francisco announced the newest members of its Economic Advisory Council (EAC), effective January 1, 2025.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/district-circular-letters/2010/02/risk-based-pricing-notice-rules",
+        "title": "Agencies Issue Final Rules on Risk-Based Pricing Notices",
+        "text": "Consumers who receive this 'risk-based pricing' notice will be able to obtain a free credit report to check the accuracy of the report.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/district-circular-letters/2011/08/slhc-subsidiary-dividend-guidelines/",
+        "title": "SR 11-13 Guidance Regarding Prior Notices with Respect to Dividend ...",
+        "text": "Any savings association that is a subsidiary of a savings and loan holding company (SLHC) must provide notice to the Board at least 30 days before declaring a ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/district-circular-letters/2011/03/dodd-frank-credit-score-disclosure-requirements-march-9-2011/",
+        "title": "Federal Reserve Seeks Comment on Proposed Rules on Risk ...",
+        "text": "The Federal Reserve Board and the Federal Trade Commission (FTC) on March 1, 2011 proposed regulations regarding the credit score disclosure requirements ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2025/06/dynamic-central-bank-communication/",
+        "title": "Dynamic Central Bank Communication - San Francisco Fed",
+        "text": "This communication must be consistent enough that people can follow, and dynamic enough that it can adjust to the circumstances that are faced.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2016/07/fed-communication-and-zero-lower-bound/",
+        "title": "Fed Communication and the Zero Lower Bound",
+        "text": "In this Economic Letter, we focus on the use of communication as a policy tool to evaluate how much the zero bound constrained the Fed's ability to conduct ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2025/06/dynamic-central-bank-communication/",
+        "title": "Dynamic Central Bank Communication - San Francisco Fed",
+        "text": "Effective communication requires a dynamic approach and continuous evaluation. What works in one situation ...",
+        "listing_probability": 0.05
       }
     ]
   }

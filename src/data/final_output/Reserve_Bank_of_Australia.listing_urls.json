@@ -6,19 +6,31 @@
         "url": "https://www.rba.gov.au/publications/",
         "title": "Publications | RBA",
         "text": "Listing of RBA publications including: Statement on Monetary Policy; Reserve Bank Bulletin; Financial Stability Review; Annual Reports; Research Discussion ...",
-        "listing_probability": 1.0
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.rba.gov.au/publications/annual-reports/",
         "title": "Annual Reports | RBA",
-        "text": "The Reserve Bank and Payments System Board each issue annual reports. The Reserve Bank report is tabled in parliament. View the latest reports.",
-        "listing_probability": 0.95
+        "text": "The Reserve Bank prepares an annual report of its activities and financial statements and the Payments System Board issues its own annual report.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/smp/",
+        "title": "Statement on Monetary Policy - Reserve Bank of Australia",
+        "text": "The Statement on Monetary Policy (SMP) sets out the RBA's assessment of current economic and financial conditions as well as the outlook that the Monetary ...",
+        "listing_probability": 0.65
       },
       {
         "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/publications/",
         "title": "Publications | Payments & Infrastructure Resources | RBA",
         "text": "A list of useful Australian publications on payments issues.",
-        "listing_probability": 1.0
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/annual-reports/rba/",
+        "title": "Reserve Bank of Australia Annual Report – 2024 | RBA",
+        "text": "Our annual report to Parliament of the RBA's activities and operations, as well as its achievements, performance and financial position at the end of the 2023/ ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -29,18 +41,30 @@
         "url": "https://www.rba.gov.au/statistics/",
         "title": "Statistics | RBA",
         "text": "Statistical tables for a range of economic and financial data produced by the Reserve Bank and other organisations.",
-        "listing_probability": 0.98
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rba.gov.au/statistics/tables/",
+        "title": "Statistical Tables | RBA",
+        "text": "This page lists statistical tables for a range of economic and financial data produced by the Reserve Bank of Australia and other organisations.",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.rba.gov.au/publications/bulletin/",
         "title": "Bulletin | RBA",
         "text": "The RBA's Securitisation Dataset provides timely and detailed data on the individual mortgages underlying Australian residential mortgage-backed securities.",
-        "listing_probability": 0.9
+        "listing_probability": 0.3
       },
       {
         "url": "https://www.rba.gov.au/payments-and-infrastructure/resources/payments-data.html",
         "title": "Payments Statistics | RBA",
         "text": "The Reserve Bank has published monthly and quarterly statistics on Australian payment systems from its Retail Payments Statistics (RPS) collection since 2002.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.rba.gov.au/statistics/historical-data.html",
+        "title": "Historical Data | RBA",
+        "text": "This page lists longer time series of selected statistical tables. On This Page. Reserve Bank of Australia; Assets and Liabilities; Exchange Rates; Government ...",
         "listing_probability": 0.95
       }
     ]
@@ -55,16 +79,28 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.rba.gov.au/education/resources/explainers/how-rba-implements-monetary-policy.html",
-        "title": "How the Reserve Bank Implements Monetary Policy | Explainer",
-        "text": "The Reserve Bank of Australia implements monetary policy using a variety of tools. The primary tool of monetary policy is the cash rate target.",
+        "url": "https://www.rba.gov.au/monetary-policy/about.html",
+        "title": "About Monetary Policy - Reserve Bank of Australia",
+        "text": "The Monetary Policy Board of the Reserve Bank sets the target 'cash rate', which is the market interest rate on overnight funds.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.rba.gov.au/monetary-policy/",
-        "title": "Monetary Policy - Reserve Bank of Australia",
-        "text": "The Reserve Bank is responsible for Australia's monetary policy. Monetary policy involves setting the interest rate on overnight loans in the money market.",
-        "listing_probability": 0.2
+        "url": "https://www.rba.gov.au/education/resources/explainers/how-rba-implements-monetary-policy.html",
+        "title": "How the Reserve Bank Implements Monetary Policy | Explainer",
+        "text": "The Reserve Bank of Australia implements monetary policy using a variety of tools. The primary tool of monetary policy is the cash rate target.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/smp/",
+        "title": "Statement on Monetary Policy - Reserve Bank of Australia",
+        "text": "The Statement on Monetary Policy (SMP) sets out the RBA's assessment of current economic and financial conditions as well as the outlook that the Monetary ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.rba.gov.au/education/resources/explainers/unconventional-monetary-policy.html",
+        "title": "Unconventional Monetary Policy | Explainer | Education | RBA",
+        "text": "Unconventional monetary policy occurs when tools other than changing a policy interest rate are used.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -75,19 +111,31 @@
         "url": "https://www.rba.gov.au/speeches/",
         "title": "Speeches | RBA",
         "text": "Senior officers of the Reserve Bank give speeches and participate in panel discussions on a broad range of topics related to its role and functions.",
-        "listing_probability": 0.95
-      },
-      {
-        "url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-07-24.html",
-        "title": "The RBA's Dual Mandate – Inflation and Employment | Speeches | RBA",
-        "text": "My remarks today centre on the dual objectives of monetary policy: 'price stability', which means maintaining low and stable inflation; and full ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.rba.gov.au/speeches/list.html",
         "title": "All Speeches | RBA",
         "text": "The Governor hosts a media conference eight times a year following the conclusion of each monetary policy meeting.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rba.gov.au/speeches/2025/",
+        "title": "Speeches – 2025 | RBA",
+        "text": "Speeches by senior staff of the Reserve Bank.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-07-24.html",
+        "title": "The RBA's Dual Mandate – Inflation and Employment | Speeches | RBA",
+        "text": "Our overarching goal is to promote the economic prosperity and welfare of the Australian people, both now and into the future. For the Board, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-05-16.html",
+        "title": "Housing Market Cycles and Fundamentals | Speeches | RBA",
+        "text": "A growing population clearly implies that underlying demand for housing is rising over time – all of these extra people need a place to live.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -95,8 +143,71 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.rba.gov.au/publications/rdp/2021/2021-02/our-findings-do-not-call-for-changes-in-research-practices.html",
-        "title": "Our Findings Do Not Call for Changes in Research Practices ...",
+        "url": "https://www.rba.gov.au/publications/rdp/",
+        "title": "Research Discussion Papers | RBA",
+        "text": "We publish the results of longer-term research conducted by our staff in Research Discussion Papers (RDPs), which stimulate discussion and comment on policy- ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/news/",
+        "title": "News & Announcements - Reserve Bank of Australia",
+        "text": "Listing of RBA news & announcements.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rba.gov.au/updates/email-and-sms-service.html",
+        "title": "Subscribe Email and SMS Service - Reserve Bank of Australia",
+        "text": "Subscribe Email and SMS Service. You can subscribe to receive updates via email and/or SMS when new data or information is published.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rba.gov.au/mkt-operations/announcements/",
+        "title": "Announcements | RBA",
+        "text": "In Market Operations. Domestic Market Operations and Liquidity Facilities · Dealing Room Current Operational Notices · Technical Notes.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/annual-reports/psb/2020/psb-announcements-and-reserve-bank-reports.html",
+        "title": "Payments System Board Annual Report – 2020 | RBA",
+        "text": "This section lists developments since mid 2019. The Payments System Board's Annual Report 2006 contained a list of the Board's announcements and related Reserve ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.rba.gov.au/payments-and-infrastructure/debit-cards/least-cost-routing/updates/",
+        "title": "LCR Updates | RBA",
+        "text": "The New Payments Platform · Bulk Electronic Clearing System · Public Interest Framework for the Account-to-Account Payments System.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/securitisations/implementation-arrangements/reporting-notices/",
+        "title": "Reporting Notices - RBA Securitisations Industry Forum",
+        "text": "Reporting Notices. Go to. 28 October 2015 · 25 June 2015 · 14 May 2015 · 1 October 2014 · 17 September 2014 · 15 August 2014 · 31 July 2014 · 12 May 2014.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.rba.gov.au/publications/annual-reports/rba/2022/communication-and-community-engagement.html",
+        "title": "Communication and Community Engagement | Reserve Bank of ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rba.gov.au/publications/annual-reports/rba/2019/communication-and-community-engagement.html",
+        "title": "Communication and Community Engagement | Reserve Bank of ...",
         "text": null,
         "listing_probability": 0.05
       }

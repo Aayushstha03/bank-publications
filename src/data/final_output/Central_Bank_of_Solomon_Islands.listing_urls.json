@@ -9,16 +9,28 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.cbsi.com.sb/publications/quarterly-review/",
+        "title": "Quarterly Review - Central Bank of Solomon Islands |",
+        "text": "The Quarterly Review is prepared by the Economics Research and Statistics Department of the Central Bank of Solomon Islands and published four times a year.",
+        "listing_probability": 0.15
+      },
+      {
         "url": "https://www.cbsi.com.sb/financial-intelligence/publications/",
         "title": "Publications - Central Bank of Solomon Islands |",
         "text": "This section has all the documents which are important to the establishment of the Financial Intelligence Unit (FIU).",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.cbsi.com.sb/category/annual-reports/",
-        "title": "Annual Reports | Central Bank of Solomon Islands",
-        "text": "Central Bank of Solomon Islands Annual Report – 2023 As required by the CBSI Act 2012, CBSI each year must produce an annual report of all its activities ...",
-        "listing_probability": 0.9
+        "url": "https://www.cbsi.com.sb/publications/annual-report/",
+        "title": "Annual Report | Central Bank of Solomon Islands",
+        "text": "The Annual Report is an update of the economic activities in the past year as well as providing challenges and prospects of the economy.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.cbsi.com.sb/publications/monthly-economic-bulletin/",
+        "title": "Monthly Economic Bulletin - Central Bank of Solomon Islands |",
+        "text": "The Monthly Economic Bulletin reports on the monetary aggregates and other macroeconomic indicators relevant to Solomon Islands on a monthly basis.",
+        "listing_probability": 0.15
       }
     ]
   },
@@ -26,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.cbsi.com.sb/statistics/key-statistics/",
-        "title": "Key Statistics - Central Bank of Solomon Islands |",
-        "text": "Other Key Statistics · Inflation Rate Data · Honiara Consumer Price Index · Production Index · Gross Domestic Product · Budgetary Central Government Grants.",
-        "listing_probability": 0.9
-      },
-      {
         "url": "https://www.cbsi.com.sb/statistics/",
         "title": "Statistics | Central Bank of Solomon Islands",
         "text": "The Money and Banking consists of statistics on monetary surveys, aggregates, and interest rates. · Exchange Rates.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsi.com.sb/statistics/key-statistics/",
+        "title": "Key Statistics - Central Bank of Solomon Islands |",
+        "text": "Other Key Statistics · Inflation Rate Data · Honiara Consumer Price Index · Production Index · Gross Domestic Product · Budgetary Central Government Grants.",
         "listing_probability": 0.95
       },
       {
         "url": "https://www.cbsi.com.sb/monthly-economic-bulletin-may-2025/",
         "title": "Monthly Economic Bulletin – May 2025",
         "text": "The Monthly Economic Bulletin for May 2025 is now available. Download. Share:.",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbsi.com.sb/publications/monthly-economic-bulletin/",
+        "title": "Monthly Economic Bulletin - Central Bank of Solomon Islands |",
+        "text": "The Monthly Economic Bulletin reports on the monetary aggregates and other macroeconomic indicators relevant to Solomon Islands on a monthly basis.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsi.com.sb/monthly-economic-bulletin-february-2024/",
+        "title": "Monthly Economic Bulletin – February 2024",
+        "text": "Monthly Economic Bulletin -February 2024. The Monthly Economic Bulletin for February 2024 is now available. Download. Share:.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -55,10 +79,22 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.cbsi.com.sb/financial-stability/foreign-exchange-regulations/",
+        "title": "Foreign Exchange Regulations | Central Bank of Solomon Islands",
+        "text": "This provides for the control of all financial transactions between residents of Solomon Islands and residents of other countries.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.cbsi.com.sb/press-release-regulatory-policy-response-to-covid-19/",
         "title": "Press Release: Regulatory Policy Response to COVID-19",
         "text": "The Central Bank of Solomon Islands (CBSI) wishes to inform the general public that it has waived the following regulatory policy for financial institutions.",
-        "listing_probability": 0.05
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.cbsi.com.sb/cbsi-monetary-policy-response-to-covid-19/",
+        "title": "CBSI Monetary Policy Response to COVID-19",
+        "text": "How the Central Bank of Solomon Islands Support the Economy and Financial System through its monetary policies in response to COVID-19.",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -66,22 +102,34 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.cbsi.com.sb/category/media/speeches/page/5/",
-        "title": "Speeches | Central Bank of Solomon Islands",
-        "text": "Remarks by Deputy Governor Gane Simbe at the official opening of the PFIP Ideation Workshop on saving clubs at the Heritage Park Hotel on 11 September 2017.",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.cbsi.com.sb/media/press-releases/",
         "title": "Press Releases | Central Bank of Solomon Islands",
         "text": "The following are official Press Releases by the Central Bank of Solomon Islands. Press Release No. 8 – CBSI Statement on new Cash Handling Fee and Other Fees ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.cbsi.com.sb/category/media/speeches/",
         "title": "Speeches | Central Bank of Solomon Islands",
         "text": "Statement by CBSI Governor, Dr Luke Forau, at the Launch of the 2024 CBSI Annual Report, on Monday, 28th of April 2025 at the Honiara Hotel.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsi.com.sb/category/media/press-releases/",
+        "title": "Press Releases | Central Bank of Solomon Islands",
+        "text": "Press Release No.7/25 – CBSI Launches Cyber Security Strategy 2025 to Safeguard Financial Stability. Press Release No.7/25 : CBSI Launches Cyber Security ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbsi.com.sb/category/media/speeches/page/5/",
+        "title": "Speeches | Central Bank of Solomon Islands",
+        "text": "Remarks by Deputy Governor Gane Simbe at the official opening of the PFIP Ideation Workshop on saving clubs at the Heritage Park Hotel on 11 September 2017.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbsi.com.sb/news/",
+        "title": "News | Central Bank of Solomon Islands",
+        "text": "The Central Bank of Solomon Islands 2024 Annual Report is now available. Click on the link below to download a copy of the report.",
+        "listing_probability": 0.5
       }
     ]
   },
@@ -92,13 +140,59 @@
         "url": "https://www.cbsi.com.sb/publications/research-papers/cbsi-griffith-university-joint-policy-working-papers/",
         "title": "CBSI & Griffith Working Papers | Central Bank of Solomon Islands",
         "text": "Completed research papers are published on this site with their downloadable links. 1. Do inflation expectation matter for small open economies? Empirical ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.cbsi.com.sb/publications/research-papers/",
         "title": "Research Papers | Central Bank of Solomon Islands",
-        "text": "The Central Bank of Solomon Islands (CBSI) Working Paper Series disseminates work-in-progress research papers by CBSI staff to stimulate economic and financial ...",
-        "listing_probability": 0.99
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cbsi.com.sb/media/announcements/",
+        "title": "Announcements - Central Bank of Solomon Islands |",
+        "text": "The Following are official announcements by the Central Bank of Solomon Islands. Public Notice 04/2025 – FAKE FACEBOOK ACCOUNT OF CBSI GOVERNOR. Jul 3 ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsi.com.sb/category/media/announcements/",
+        "title": "Announcements | Central Bank of Solomon Islands",
+        "text": "Public Notice 03.24 – Attention: Mandatory Licensing Requirement for Foreign Exchange Businesses in Solomon Islands",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsi.com.sb/category/media/announcements/page/7/",
+        "title": "Announcements | Central Bank of Solomon Islands",
+        "text": "The Central Bank of Solomon Islands (CBSI) is aware of recent media reports regarding changes to Pan Oceanic Bank (POB)'s board positions.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsi.com.sb/category/press/announcements/page/5/",
+        "title": "Announcements - Central Bank of Solomon Islands |",
+        "text": "PUBLIC NOTICE: CBSI COVID -19 Precautionary Measures The Central Bank of Solomon Islands (CBSI) wish to inform the general public, clients/customers and ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbsi.com.sb/category/announcements/page/4/",
+        "title": "Category: Announcements - Central Bank of Solomon Islands |",
+        "text": "Exchange Control Notice -05/2021: Relaxation to Foreign Currency Account and overseas investment portfolio- Effective 01st November 2021",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cbsi.com.sb/wp-content/plugins/woocommerce/templates/block-notices/",
+        "title": "Index of /wp-content/plugins/woocommerce ...",
+        "text": "Index of /wp-content/plugins/woocommerce/templates/block-notices ; notice.php, 2024-06-11 07:17, 1.4K.",
+        "listing_probability": 0.01
       }
     ]
   }

@@ -10,7 +10,7 @@
               {
                 "url": "https://www.nationalbanken.dk/en/research/publications",
                 "title": "Publications - Danmarks Nationalbank",
-                "text": "Publications. Economists in the Research Unit produce high-quality research published in refereed journals and participate in the international academic and ...",
+                "text": "Publications. Economists in the Research Unit produce high-quality research published in refereed journals and participate in ...",
                 "source": "Danmarks Nationalbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
                 "position": 1
@@ -24,17 +24,40 @@
                 "position": 2
               },
               {
-                "url": "https://www.nationalbanken.dk/en/research/publications",
-                "title": "Publications",
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2023/danish-government-borrowing-and-debt-2022",
+                "title": "Danish Government Borrowing and Debt 2022 - Danmarks Nationalbank",
+                "text": "A government budget surplus reduced central government debt by approximately kr. 115 billion to kr. 323 billion at the end of 2022, ...",
                 "source": "Danmarks Nationalbank",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nationalbanken.dk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.nationalbanken.dk/media/3grnc3ug/tema-climate.svg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2023-02-09T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/report/2025/oversight-of-the-financial-infrastructure-2024",
+                "title": "Oversight of the financial infrastructure 2024 - Danmarks Nationalbank",
+                "text": "Danmarks Nationalbank oversees the systems and solutions in the Danish financial infrastructure that enable consumers and businesses to exchange payments and ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-01T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/search-our-knowledge-archive?type=Other+publications",
+                "title": "Search the knowledge archive - Danmarks Nationalbank",
+                "text": "The knowledge archive is the complete archive of all previous publications, speeches, press releases, etc. by Danmarks Nationalbank.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:http://www.nationalbanken.dk/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.nationalbanken.dk/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -62,18 +85,37 @@
                 "position": 2
               },
               {
-                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/banking-and-mortgage-lending/microdata-for-banking-and-mortgage-lending/20250626-ny-statistik-om-bank-og-realkreditlaan-paa-virksomhedsstoerrelser",
-                "title": "New statistics on banking and mortgage loans by corporate size",
-                "text": "Danmarks Nationalbank is now publishing a new statistics for banking and mortgage lending based on microdata from the Credit register.",
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/financial-wealth-and-debt",
+                "title": "Financial wealth and debt - Danmarks Nationalbank",
+                "text": "The statistics on financial wealth and debt can provide insight into how companies are financed, among other insights. Have they issued shares or bonds or ...",
                 "source": "Danmarks Nationalbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
-                "published_time": "2025-06-26T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/payments",
+                "title": "Payments - Danmarks Nationalbank",
+                "text": "Quarterly statistics providing an overview of the payment market in Denmark, e.g. credit transfers, ATMs, card terminals and the use of payment cards.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters",
+                "title": "For reporters - Danmarks Nationalbank",
+                "text": "Danmarks Nationalbank uses the data reported by both financial and non-financial companies as a basis for preparing a ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
           "query": {
-            "q": "site:http://www.nationalbanken.dk/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.nationalbanken.dk/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -93,25 +135,47 @@
                 "position": 1
               },
               {
-                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters/revision-policy",
-                "title": "Revision policy - Danmarks Nationalbank",
-                "text": "Revision policy. Danmarks Nationalbank's revision policy is one element of the task of publishing reliable, relevant and consistent financial statistics.",
-                "source": "Danmarks Nationalbank",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
-                "position": 2
-              },
-              {
                 "url": "https://www.nationalbanken.dk/en/frequently-asked-questions/questions-regarding-fixed-exchange-rate-policy",
                 "title": "Questions regarding fixed exchange rate policy - Danmarks Nationalbank",
                 "text": "Here you can find answers to a number of questions regarding fixed exchange rate policy.",
                 "source": "Danmarks Nationalbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters/revision-policy",
+                "title": "Revision policy - Danmarks Nationalbank",
+                "text": "Revision policy. Danmarks Nationalbank's revision policy is one element of the task of publishing reliable, relevant and consistent financial statistics.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/ioeal45r/analysis-no-12-monetary-and-fiscal-policy-in-denmark.pdf",
+                "title": "Monetary and fiscal policy in Denmark - DANMARKS NATIONALBANK",
+                "text": "Fixed exchange rate policy is a way of managing monetary policy. A central bank which pursues a fixed exchange rate policy aims to achieve ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2022-10-27T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/about-us/board-of-governors-group-management-and-departments/economics-and-monetary-policies",
+                "title": "Economics and Monetary Policy - Danmarks Nationalbank",
+                "text": "In Economics and Monetary Policy, we work to ensure stable prices by contributing to monetary policy decisions and providing recommendations for other economic ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:http://www.nationalbanken.dk/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.nationalbanken.dk/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -123,12 +187,36 @@
           "results": {
             "web": [
               {
+                "url": "https://www.nationalbanken.dk/en/rss-feeds",
+                "title": "News from Danmarks Nationalbank as RSS feeds",
+                "text": "Get news from Danmarks Nationalbank as RSS feeds. We offer many different feeds that give you the latest news within different types of content.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-conferences",
                 "title": "Press conferences - Danmarks Nationalbank",
                 "text": "Danmarks Nationalbank conducts two press conferences a year, where we present the outlook for the Danish economy and the development and assessment of monetary ...",
                 "source": "Danmarks Nationalbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/search-our-knowledge-archive?type=statistical+news",
+                "title": "Search the knowledge archive - Danmarks Nationalbank",
+                "text": "The knowledge archive is the complete archive of all previous publications, speeches, press releases, etc. by Danmarks Nationalbank.",
+                "source": "Nationalbanken",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-service",
+                "title": "News service - Danmarks Nationalbank",
+                "text": "News service. Sign up and receive news from Danmarks Nationalbank. When you sign up via the form, we will send an e-mail with a confirmation link.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 4
               },
               {
                 "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/speeches/2024/press-presentation-25-september-2024",
@@ -137,20 +225,12 @@
                 "source": "Danmarks Nationalbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
                 "published_time": "2024-09-25T00:00:00",
-                "position": 2
-              },
-              {
-                "url": "https://www.nationalbanken.dk/en/news-service",
-                "title": "News service - Danmarks Nationalbank",
-                "text": "News service. Sign up and receive news from Danmarks Nationalbank. When you sign up via the form, we will send an e-mail with a confirmation link.",
-                "source": "Danmarks Nationalbank",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.nationalbanken.dk/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.nationalbanken.dk/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -162,17 +242,168 @@
           "results": {
             "web": [
               {
-                "url": "https://www.nationalbanken.dk/en/research",
-                "title": "Research in Danmarks Nationalbanken",
-                "text": "We are an independent research unit established in 2016. We support the policy decisions of Danmarks Nationalbank by providing a conceptual framework to assess ...",
+                "url": "https://www.nationalbanken.dk/media/e2chtyp0/wp-10-2003.pdf",
+                "title": "DANMARKS NATIONALBANK WORKING PAPERS 2003 • 10",
+                "text": "The Working Papers of Danmarks Nationalbank describe research and develop- ment, often still ongoing, as a contribution to the professional ...",
                 "source": "Danmarks Nationalbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2025-01-10T00:00:00",
                 "position": 1
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/kg5hhwew/wp-40-2006.pdf",
+                "title": "DANMARKS NATIONALBANK WORKING PAPERS 2006 • 40",
+                "text": "The Working Papers of Danmarks Nationalbank describe research and development, often still ongoing, as a contribution to the professional debate.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/01clvfvs/wp44.pdf",
+                "title": "DANMARKS NATIONALBANK WORKING PAPERS 2006 • 44",
+                "text": "The Working Papers of Danmarks Nationalbank describe research and development, often still ongoing, as a contribution to the professional debate.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2021/working-paper-house-prices-increasing-returns-and-the-effects-of-government-spending-shocks",
+                "title": "Working Paper: House Prices, Increasing Returns, and the Effects ...",
+                "text": "We report new regional evidence indicating that U.S. house prices increase after positive shocks to fiscal spending.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2021-12-09T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/1fdh31ei/afhandling-gitte-yding-salmansen-dn.pdf",
+                "title": "Essays on Monetary and Fiscal Policy Interactions",
+                "text": "All three papers concern the effects of monetary and fiscal policy in the presence of financial frictions. In the first paper this friction is a ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.nationalbanken.dk/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.nationalbanken.dk/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nationalbanken.dk/en/government-debt/publications-and-announcements",
+                "title": "Publications and announcements - Danmarks Nationalbank",
+                "text": "Read publications and announcements on government debt. Latest publications. See more publications (on Danmarks Nationalbank's main website)",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/webp;base64,UklGRiwDAABXRUJQVlA4ICADAACwEQCdASozADMAPjEOjEYiEREJgCADBLSAaOG+3+S8/N3v9pdwCvf/rP5W6J3+t/lb/MfQB/ANh0+Pf5zjA+lfmZf4rjBpj/9j9Ub+I/YLz1/Pv/N9wf9Vf9D/Xf3d/vp9j40PiiKIq7ODT0Lh228YcFjD9fwjz85TIu+/40EKRKUnsz+8d+ciPB+EQl6e74ScII6biQAA/v/+lFFmn5vdP5NdWubupgdN1zBC5+RpenNguxKjRnap/nDtcHm7oaiiZKyA5G1QOUh4p7dw+stTKZ/9jr3Y5hA1XHrYkxhqPE5RHUD08iWt+Rz2uQ3MmKbxRHFDjqm/2VVlzgVrLDSCWtovIR58MN/M0PZJ0um17pX8M/5cSHBZCqVjkyaGASY+O5WD+GKJoyTtTnV6VrEEDtLQ2HFMEKM11F+fPkDbfy5BEV9BKQpH/Jv3wYgyUswJF4gvFhGYN/ewhd/4einPwsnwaVgQRm5tax2cSXlLNmviN1tUIv0XAUba7de/KFKuuFuytUesXU/80fwYG88EN8Ha9VoeH2q/ZL7iB/iUX8UkSfKgU9h9X//hqZWTUhxUr0L9JR40/sSFA0d/YOkpX/u5ICqtB+IYPbDjVX+umZ9m1uoGiBU3/HJRIttgw0dfo5vmWj2jd1/quWjVVi9er/w6lHpFljCd05KvrcR6/g+mivWxcX24V28bfx+h7Vvb9Gu4c4p7lNKw6vo7//QGCqHiCFX7GqnTkj1Mk+bDN1k9NYy71vTsRj0WAw94p4M+1D19Vv/gxxFBuSoeEhSDj5YDO/f7+Kvj5Uaq/xZZdUatL2i67qed5+G496jE9RqtMs4FuFwScK3PZqhLeRkuHYdXUZJo8Fbe3WooF9sBub44bvJn4cKumt+NZgLbiFUhUxq0InOxPvz1n+DumVfoJySlnvVnm89FQpHibIofKNQTU3X5ONgB545NST4QJ/gHzIEg1SDiv8yobfkTEOB7oy3PY9G08IP43Kb8TT8b2Hzhgapf7tPpcbmva4MorxNMhhGOJGPXQ1BTOSLsvOVibi8nRc+XZ/0IxxC+7XgAAA==",
+                "position": 1
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/market-announcements/2025/the-government-has-issued-a-2-year-bond-in-us-dollar",
+                "title": "The government has issued a 2-year bond in US dollar",
+                "text": "On 24 June 2025, the government issued a bond in US dollar maturing on 1 July 2027. The bond was issued as a bullet bond with a coupon of 3.875 per cent.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/webp;base64,UklGRiwDAABXRUJQVlA4ICADAACwEQCdASozADMAPjEOjEYiEREJgCADBLSAaOG+3+S8/N3v9pdwCvf/rP5W6J3+t/lb/MfQB/ANh0+Pf5zjA+lfmZf4rjBpj/9j9Ub+I/YLz1/Pv/N9wf9Vf9D/Xf3d/vp9j40PiiKIq7ODT0Lh228YcFjD9fwjz85TIu+/40EKRKUnsz+8d+ciPB+EQl6e74ScII6biQAA/v/+lFFmn5vdP5NdWubupgdN1zBC5+RpenNguxKjRnap/nDtcHm7oaiiZKyA5G1QOUh4p7dw+stTKZ/9jr3Y5hA1XHrYkxhqPE5RHUD08iWt+Rz2uQ3MmKbxRHFDjqm/2VVlzgVrLDSCWtovIR58MN/M0PZJ0um17pX8M/5cSHBZCqVjkyaGASY+O5WD+GKJoyTtTnV6VrEEDtLQ2HFMEKM11F+fPkDbfy5BEV9BKQpH/Jv3wYgyUswJF4gvFhGYN/ewhd/4einPwsnwaVgQRm5tax2cSXlLNmviN1tUIv0XAUba7de/KFKuuFuytUesXU/80fwYG88EN8Ha9VoeH2q/ZL7iB/iUX8UkSfKgU9h9X//hqZWTUhxUr0L9JR40/sSFA0d/YOkpX/u5ICqtB+IYPbDjVX+umZ9m1uoGiBU3/HJRIttgw0dfo5vmWj2jd1/quWjVVi9er/w6lHpFljCd05KvrcR6/g+mivWxcX24V28bfx+h7Vvb9Gu4c4p7lNKw6vo7//QGCqHiCFX7GqnTkj1Mk+bDN1k9NYy71vTsRj0WAw94p4M+1D19Vv/gxxFBuSoeEhSDj5YDO/f7+Kvj5Uaq/xZZdUatL2i67qed5+G496jE9RqtMs4FuFwScK3PZqhLeRkuHYdXUZJo8Fbe3WooF9sBub44bvJn4cKumt+NZgLbiFUhUxq0InOxPvz1n+DumVfoJySlnvVnm89FQpHibIofKNQTU3X5ONgB545NST4QJ/gHzIEg1SDiv8yobfkTEOB7oy3PY9G08IP43Kb8TT8b2Hzhgapf7tPpcbmva4MorxNMhhGOJGPXQ1BTOSLsvOVibi8nRc+XZ/0IxxC+7XgAAA==",
+                "published_time": "2025-06-24T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/market-announcements/2025/issuance-strategy-for-2025-is-unchanged-despite-government-financing-of-kommunekredit",
+                "title": "Issuance strategy for 2025 is unchanged despite government ...",
+                "text": "In 2025, the central government will finance KommuneKredit by drawing on the central-government account at Danmarks Nationalbank.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/webp;base64,UklGRiwDAABXRUJQVlA4ICADAACwEQCdASozADMAPjEOjEYiEREJgCADBLSAaOG+3+S8/N3v9pdwCvf/rP5W6J3+t/lb/MfQB/ANh0+Pf5zjA+lfmZf4rjBpj/9j9Ub+I/YLz1/Pv/N9wf9Vf9D/Xf3d/vp9j40PiiKIq7ODT0Lh228YcFjD9fwjz85TIu+/40EKRKUnsz+8d+ciPB+EQl6e74ScII6biQAA/v/+lFFmn5vdP5NdWubupgdN1zBC5+RpenNguxKjRnap/nDtcHm7oaiiZKyA5G1QOUh4p7dw+stTKZ/9jr3Y5hA1XHrYkxhqPE5RHUD08iWt+Rz2uQ3MmKbxRHFDjqm/2VVlzgVrLDSCWtovIR58MN/M0PZJ0um17pX8M/5cSHBZCqVjkyaGASY+O5WD+GKJoyTtTnV6VrEEDtLQ2HFMEKM11F+fPkDbfy5BEV9BKQpH/Jv3wYgyUswJF4gvFhGYN/ewhd/4einPwsnwaVgQRm5tax2cSXlLNmviN1tUIv0XAUba7de/KFKuuFuytUesXU/80fwYG88EN8Ha9VoeH2q/ZL7iB/iUX8UkSfKgU9h9X//hqZWTUhxUr0L9JR40/sSFA0d/YOkpX/u5ICqtB+IYPbDjVX+umZ9m1uoGiBU3/HJRIttgw0dfo5vmWj2jd1/quWjVVi9er/w6lHpFljCd05KvrcR6/g+mivWxcX24V28bfx+h7Vvb9Gu4c4p7lNKw6vo7//QGCqHiCFX7GqnTkj1Mk+bDN1k9NYy71vTsRj0WAw94p4M+1D19Vv/gxxFBuSoeEhSDj5YDO/f7+Kvj5Uaq/xZZdUatL2i67qed5+G496jE9RqtMs4FuFwScK3PZqhLeRkuHYdXUZJo8Fbe3WooF9sBub44bvJn4cKumt+NZgLbiFUhUxq0InOxPvz1n+DumVfoJySlnvVnm89FQpHibIofKNQTU3X5ONgB545NST4QJ/gHzIEg1SDiv8yobfkTEOB7oy3PY9G08IP43Kb8TT8b2Hzhgapf7tPpcbmva4MorxNMhhGOJGPXQ1BTOSLsvOVibi8nRc+XZ/0IxxC+7XgAAA==",
+                "published_time": "2025-03-26T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/market-announcements/2025/opening-of-new-10-year-benchmark-bond-on-5-february-2025",
+                "title": "Opening of new 10-year benchmark bond on 5 February 2025",
+                "text": "On 5 February 2025, the Kingdom of Denmark will issue a new DGB 2.25 per cent 2035 via auction.",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/webp;base64,UklGRiwDAABXRUJQVlA4ICADAACwEQCdASozADMAPjEOjEYiEREJgCADBLSAaOG+3+S8/N3v9pdwCvf/rP5W6J3+t/lb/MfQB/ANh0+Pf5zjA+lfmZf4rjBpj/9j9Ub+I/YLz1/Pv/N9wf9Vf9D/Xf3d/vp9j40PiiKIq7ODT0Lh228YcFjD9fwjz85TIu+/40EKRKUnsz+8d+ciPB+EQl6e74ScII6biQAA/v/+lFFmn5vdP5NdWubupgdN1zBC5+RpenNguxKjRnap/nDtcHm7oaiiZKyA5G1QOUh4p7dw+stTKZ/9jr3Y5hA1XHrYkxhqPE5RHUD08iWt+Rz2uQ3MmKbxRHFDjqm/2VVlzgVrLDSCWtovIR58MN/M0PZJ0um17pX8M/5cSHBZCqVjkyaGASY+O5WD+GKJoyTtTnV6VrEEDtLQ2HFMEKM11F+fPkDbfy5BEV9BKQpH/Jv3wYgyUswJF4gvFhGYN/ewhd/4einPwsnwaVgQRm5tax2cSXlLNmviN1tUIv0XAUba7de/KFKuuFuytUesXU/80fwYG88EN8Ha9VoeH2q/ZL7iB/iUX8UkSfKgU9h9X//hqZWTUhxUr0L9JR40/sSFA0d/YOkpX/u5ICqtB+IYPbDjVX+umZ9m1uoGiBU3/HJRIttgw0dfo5vmWj2jd1/quWjVVi9er/w6lHpFljCd05KvrcR6/g+mivWxcX24V28bfx+h7Vvb9Gu4c4p7lNKw6vo7//QGCqHiCFX7GqnTkj1Mk+bDN1k9NYy71vTsRj0WAw94p4M+1D19Vv/gxxFBuSoeEhSDj5YDO/f7+Kvj5Uaq/xZZdUatL2i67qed5+G496jE9RqtMs4FuFwScK3PZqhLeRkuHYdXUZJo8Fbe3WooF9sBub44bvJn4cKumt+NZgLbiFUhUxq0InOxPvz1n+DumVfoJySlnvVnm89FQpHibIofKNQTU3X5ONgB545NST4QJ/gHzIEg1SDiv8yobfkTEOB7oy3PY9G08IP43Kb8TT8b2Hzhgapf7tPpcbmva4MorxNMhhGOJGPXQ1BTOSLsvOVibi8nRc+XZ/0IxxC+7XgAAA==",
+                "published_time": "2025-01-22T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nationalbanken.dk/en/government-debt/publications-and-announcements/repository-central-government-borrowing-and-debt",
+                "title": "Repository - Central government borrowing and debt",
+                "text": "Each year, the debt management office releases a report on the central government's borrowing and debt. This report provides a detailed review of the borrowing ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/webp;base64,UklGRiwDAABXRUJQVlA4ICADAACwEQCdASozADMAPjEOjEYiEREJgCADBLSAaOG+3+S8/N3v9pdwCvf/rP5W6J3+t/lb/MfQB/ANh0+Pf5zjA+lfmZf4rjBpj/9j9Ub+I/YLz1/Pv/N9wf9Vf9D/Xf3d/vp9j40PiiKIq7ODT0Lh228YcFjD9fwjz85TIu+/40EKRKUnsz+8d+ciPB+EQl6e74ScII6biQAA/v/+lFFmn5vdP5NdWubupgdN1zBC5+RpenNguxKjRnap/nDtcHm7oaiiZKyA5G1QOUh4p7dw+stTKZ/9jr3Y5hA1XHrYkxhqPE5RHUD08iWt+Rz2uQ3MmKbxRHFDjqm/2VVlzgVrLDSCWtovIR58MN/M0PZJ0um17pX8M/5cSHBZCqVjkyaGASY+O5WD+GKJoyTtTnV6VrEEDtLQ2HFMEKM11F+fPkDbfy5BEV9BKQpH/Jv3wYgyUswJF4gvFhGYN/ewhd/4einPwsnwaVgQRm5tax2cSXlLNmviN1tUIv0XAUba7de/KFKuuFuytUesXU/80fwYG88EN8Ha9VoeH2q/ZL7iB/iUX8UkSfKgU9h9X//hqZWTUhxUr0L9JR40/sSFA0d/YOkpX/u5ICqtB+IYPbDjVX+umZ9m1uoGiBU3/HJRIttgw0dfo5vmWj2jd1/quWjVVi9er/w6lHpFljCd05KvrcR6/g+mivWxcX24V28bfx+h7Vvb9Gu4c4p7lNKw6vo7//QGCqHiCFX7GqnTkj1Mk+bDN1k9NYy71vTsRj0WAw94p4M+1D19Vv/gxxFBuSoeEhSDj5YDO/f7+Kvj5Uaq/xZZdUatL2i67qed5+G496jE9RqtMs4FuFwScK3PZqhLeRkuHYdXUZJo8Fbe3WooF9sBub44bvJn4cKumt+NZgLbiFUhUxq0InOxPvz1n+DumVfoJySlnvVnm89FQpHibIofKNQTU3X5ONgB545NST4QJ/gHzIEg1SDiv8yobfkTEOB7oy3PY9G08IP43Kb8TT8b2Hzhgapf7tPpcbmva4MorxNMhhGOJGPXQ1BTOSLsvOVibi8nRc+XZ/0IxxC+7XgAAA==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.nationalbanken.dk/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2022/corporate-climate-communication-is-not-associated-with-fewer-emissions",
+                "title": "Corporate climate communication is not associated with fewer emissions",
+                "text": "Companies are communicating more and more about efforts aimed at reducing their greenhouse gas emissions. However, there is no correlation ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2022-10-05T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/q5rloiqi/lro-tale-ecb-communication-med-plancher.pdf",
+                "title": "SPEECH BY GOVERNOR LARS ROHDE AT THE ECB CENTRAL ...",
+                "text": "It has also been said that Norman – somewhat of a character – enjoyed the secrecy and the mystery that the role of a central banker enabled ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "published_time": "2017-11-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/q5rloiqi/lro-tale-ecb-communication-med-plancher.pdf",
+                "title": "SPEECH BY GOVERNOR LARS ROHDE AT THE ECB CENTRAL BANK ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nationalbanken.dk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///ba128fc7b54ec4d0acdf763d180c6a0ffdadabfb4d694069d9b9a5c47a7d3162",
+                "published_time": "2017-11-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/5ucf3nvk/bank-set-up-kronos2.pdf",
+                "title": "NOTAT BANK SET-UP KRONOS2 – 4-EYES PRINCIPLE + OPTIONAL SWIFT ...",
+                "source": "Danmarks Nationalbank",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nationalbanken.dk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///44d6acbdafe8377404f9c6b620b251ea06334ec5dffaad182e0d4fac5863f39e",
+                "position": 4
+              },
+              {
+                "url": "https://www.nationalbanken.dk/media/oqhlp20v/news-no-2-corporate-co2-communication-is-not-associated-with-fewer-emissions.pdf",
+                "title": "DANMARKS NATIONALBANK",
+                "text": "The EU has taken similar important steps towards establishing common reporting rules. The Taxonomy. Regulation sets common standards for whether a.",
+                "source": "Nationalbanken",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX///+1tbVjY2Pn5+fQ0NCtra2+vr6SkpLHx8fe3t5vb29QUFB8fHyVlZVnZ2dqamqhoaFfX1+kpKTV1dV1dXWMjIxYWFerq6vNzc2Hh4fg4OC5ubk/Pz/Kysr39/ebm5tOT00gIRx6e3gcHBw1NTXw8PBoyfutAAABF0lEQVR4AY2P15KEIBREJQdhJKpXFtkJ/v8v7jzDpq5+O1Udpv8LoV8gxj8AQhkXQjJKRqb0bOwNWzMvaoBuEY54T4Jd7ABjsnkN25ptomPubhCgt42cRh0A3NoCcIyph3LWLcZld8TY3487D8k4A1Ep1EFqmPUfJn3gLe+1g5JQvWTQTPh68g7yicjIReXiXVj6I7jlz/tDP2/I8CG21rTqB85pQaSPLWcsdQ+IbpwMsVWwIlZoq6Fhl/2VWNNrXhadjLz6zkB2QJG1igyNoYOtbLGIA7QR3kMfm143PLfNSoVy6wchx3hgtrAiWe5/Omxh5o3DiwfoYWotoOygmab7nxdVx0EQtOaaPKde51tSntd1Tf/SF1OKE9wFMmnXAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nationalbanken.dk/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

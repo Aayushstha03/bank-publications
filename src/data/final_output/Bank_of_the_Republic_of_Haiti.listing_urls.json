@@ -3,22 +3,22 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.brh.ht/publications/publications-regulieres/",
-        "title": "Publications Régulières - BRH",
-        "text": "Indicateurs CAMEL · Rapport Statistique · Rapport Annuel · Rapport des Auditeurs Indépendants · Bulletin Statistique · Note sur la Politique Monétaire.",
-        "listing_probability": 0.98
-      },
-      {
         "url": "https://www.brh.ht/publications/",
         "title": "Publications - BRH",
         "text": "Publications. Publications régulières · Publications spéciales · Discours et déclarations du Gouverneur · Brochures d'information",
-        "listing_probability": 0.99
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.brh.ht/publications/publications-speciales/",
         "title": "Publications Spéciales - BRH",
         "text": "Publications Spéciales · Stratégie nationale d'inclusion financière (10 ans après) · Note sur le crédit bancaire (Sept 2022 – Sept 2023) – Mai 2024 · Les enquêtes ...",
-        "listing_probability": 0.97
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.brh.ht/notes-de-presse/?act=publications",
+        "title": "Publications - Actualités | BRH",
+        "text": "PUBLICATIONS · Avis aux institutions financières – Vigilance renforcée · AVIS D'ATTRIBUTION DÉFINITIVE DE MARCHÉ · Rapport de Staff du programme de référence – IMF.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -29,19 +29,18 @@
         "url": "https://www.brh.ht/publications/publications-regulieres/bulletin-statistique/",
         "title": "Bulletin statistique - BRH",
         "text": "Le Bulletin Statistique est une publication trimestrielle de la BRH. Il présente diverses statistiques concernant les secteurs réel et monétaire de l'économie, ...",
-        "listing_probability": 0.9
-      },
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
       {
-        "url": "https://www.brh.ht/publications/archives/bulletin-des-affaires-juridiques/",
-        "title": "Bulletin des Affaires Juridiques - BRH",
-        "text": "L'objectif premier de cette publication trimestrielle est de partager avec le public en général, les praticiens en droit (avocats, notaires…) et les ...",
-        "listing_probability": 0.9
-      },
-      {
-        "url": "https://www.brh.ht/publications/publications-speciales/bulletin-du-20eme-anniversaire/",
-        "title": "Bulletin du 20ème Anniversaire - BRH",
-        "text": "Bulletin du 20ème Anniversaire · Le mot du Gouverneur · Missions et organisation de la BRH · La conduite de la politique monétaire · Le système bancaire haïtien.",
-        "listing_probability": 0.1
+        "url": "https://www.brh.ht/la-brh/directions-et-unites/direction-de-la-communication-2/",
+        "title": "Direction de la Communication - BRH",
+        "text": "La Direction de Communication comprend cinq services: Le Service de Communication Interne; Le Service de Planification et d'Appui des Communications Publiques ...",
+        "listing_probability": 0.05
       }
     ]
   }

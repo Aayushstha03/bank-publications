@@ -1,11 +1,34 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bnb.bg/AboutUs/AULegalFramework/AUNationalLegalFramework/AULFLaw/index.htm?dRubric=Publications",
+        "title": "Закони - Българска народна банка",
+        "text": "Закони · Закон за Българската народна банка (211KB) · Закон за Българската народна банка (в сила от датата, посочена в Решение на Съвета на Европейския съюз за ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnb.bg/aboutus/pressoffice/popressreleases/poprtheme/index.htm?forTheme=BNB%20Publications",
+        "title": "Българска народна банка",
+        "text": "Решения на Управителния съвет · Изявления на БНБ · Банкноти и монети · Лицензи и разрешения · Преструктуриране на кредитни институции. Публикации на БНБ.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm?download=xml&search=&lang=EN",
-        "title": "https://www.bnb.bg/Statistics ...",
-        "text": null,
+        "url": "https://www.bnb.bg/Statistics/SDDSPlus/SDDSPlusNationalPage/index.htm",
+        "title": "Национална страница с обобщени данни - Българска народна банка",
+        "text": "The data are provided by Bulgarian National Bank (BNB), National Statistical Institute (NSI), Ministry of Finance (MoF) and Bulgarian Stock Exchange. Real ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bnb.bg/statistics/stexternalsector/stexchangerates/sterforeigncurrencies/index.htm?search=true",
+        "title": "Търсене по дата, период и валута - Българска народна банка",
+        "text": "БНБ публикува курсове на българския лев към отделни чуждестранни валути всеки работен ден за Република България на интернет страницата си до 18:00 ч.",
         "listing_probability": 0.05
       }
     ]

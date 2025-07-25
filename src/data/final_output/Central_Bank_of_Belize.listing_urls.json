@@ -9,5 +9,16 @@
         "listing_probability": 0.9
       }
     ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bz/detail-pages/news/2024/01/08/central-bank-announces-updates-to-online-transaction-fees",
+        "title": "Central Bank Announces Updates to Online Transaction Fees",
+        "text": "The Central Bank of Belize announces updates on electronic funds transfer (EFT) and instant funds transfer (IFT) transaction charges by domestic banks.",
+        "listing_probability": 0.05
+      }
+    ]
   }
 ]

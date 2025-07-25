@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bot.go.tz/Publications/Filter/34",
+        "title": "Annual Reports - Bank of Tanzania",
+        "text": "1. 25 Mar 2025, Regular Publications, Annual Reports - National Payment System Annual Report for 2024, Download. 2. 31 Dec 2024, Regular Publications, Annual ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bot.go.tz/Publications/Filter/1",
+        "title": "Monthly Economic Review - Bank of Tanzania",
+        "text": "Banking and Financial ; 1. 05 Jul 2025, Regular Publications ; 2. 05 Jun 2025, Regular Publications ; 3. 05 May 2025, Regular Publications ; 4. 04 Apr 2025, Regular ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bot.go.tz/DFDI/Publications",
+        "title": "Statistics and Publications - Bank of Tanzania",
+        "text": "The Bank of Tanzania publishes regular and other reports on matters pertaining to access and usage of formal financial products and services.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bot.go.tz/Publications/Filter/2",
+        "title": "Quarterly Economic Bulletin - Bank of Tanzania",
+        "text": "1. 14 Nov 2023, Regular Publications, Quarterly Economic Bulletin - Sep 2023, Download. 2. 21 Aug 2023, Regular Publications, Quarterly Economic Bulletin - Jun ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bot.go.tz/Publications/Filter/41",
+        "title": "Financial Sector Supervision Annual Report - Bank of Tanzania",
+        "text": "1. 16 Oct 2023, Other publications, Financial Sector Supervision Annual Report - Financial Sector Supervision Annual Report 2022, Download. 2. 14 Sep 2022 ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bot.go.tz/Statistics",
+        "title": "Statistics - Bank of Tanzania",
+        "text": null,
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bot.go.tz/Statistics/externalstatistics?code=EXS3&TypeOption=Imports&variableOption=Total%20imports%20of%20goods%20and%20services",
+        "title": "Bank of Tanzania",
+        "text": "Monetary and financial statistics, prices and interest rates, external sector statistics, government finance statistics, national account statistics, other ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bot.go.tz/Statistics/externalstatistics?code=NAS5&TypeOption=GDP%20at%20constant%20prices&variableOption=GDP%20growth",
+        "title": "GDP growth - Bank of Tanzania",
+        "text": "Monetary and financial statistics, prices and interest rates, external sector statistics, government finance statistics, national account statistics, other ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bot.go.tz/BankSupervision/Regulations",
+        "title": "Acts, Regulations, Circulars and Guidelines - Bank of Tanzania",
+        "text": "Bank of Tanzania establishes rules for financial institutions, which are implemented through Regulations, Guidelines and Circulars (directions and notices).",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -3,15 +3,38 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.cba.am/en/Publication/",
+        "title": "Publications | CBA",
+        "text": "The Central Bank of Armenia has joined the Global Financial Innovation Network (GFIN) with the aim of strengthening regulatory capabilities and promoting ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cba.am/en/Publication/?&publication_sphere_id=10",
+        "title": "Publications | CBA - Կենտրոնական բանկ",
+        "text": "THE CENTRAL BANK OF THE REPUBLIC OF ARMENIA BOARD RESOLUTION March 11, 2025; No. 30-N Introducing Changes and Additions to the Republic of Armenia Central Bank ...",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.cba.am/en/reports",
         "title": "Reports | CBA - Կենտրոնական բանկ",
         "text": "(2025.1) Monetary policy program implementation report (Q2 2024 – Q1 2025) A low inflation environment persisted in the Republic of Armenia from the second ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.cba.am/en/Publications",
+        "url": "https://www.cba.am/en/Publications/",
         "title": "Publications | CBA",
         "text": "Core functions · Combating Money Laundering and Terrorism Financing; Publications. Combating Money Laundering and Terrorism Financing.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/statistics/",
+        "title": "Statistics - Կենտրոնական բանկ",
+        "text": "The Central Bank collects, compiles and publishes monetary, financial and external sector statistics in accordance with Article 5, Clause E of the RA Law ...",
         "listing_probability": 0.95
       }
     ]
@@ -20,15 +43,27 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.cba.am/en/history-and-evolution-of-monetary-policy-in-armenia",
-        "title": "History and Evolution of Monetary Policy in Armenia | CBA",
-        "text": "This subsection outlines the early history and evolution of the Armenian monetary policy. It covers the introduction of the Armenian dram in 1993, ...",
+        "url": "https://www.cba.am/en/mpwhatis",
+        "title": "What is Monetary Policy | CBA",
+        "text": "This section provides an overview of the Central Bank of Armenia's (CBA) monetary policymaking, detailing its approach, framework and evolution over time.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.cba.am/en/monetary-policy-tools-and-instruments/",
-        "title": "Monetary Policy Tools and Instruments | CBA",
-        "text": "The CBA board makes decisions on monetary policy and sets the refinancing rate eight times per year, at fixed action dates.",
+        "url": "https://www.cba.am/en/mpdecisions",
+        "title": "How Do We Make Monetary Policy Decisions | CBA",
+        "text": "This section describes the Central Bank of Armenia's framework, procedures, and institutional setup for making monetary policy decisions.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/board-documents/8168/",
+        "title": "Setting the Interest Rates of Monetary Policy Instruments of the Central ...",
+        "text": "Set the Lombard repo facility rate offered by the Central Bank of the Republic of Armenia to be 25%. Set the Deposit facility rate offered by the Central Bank ...",
+        "listing_probability": 0.01
+      },
+      {
+        "url": "https://www.cba.am/en/Understanding-Macro-Prudential%20Policy%20and%20Its%20Operation/",
+        "title": "Understanding Macro-Prudential Policy and Its Operation | CBA",
+        "text": "The macroprudential policy is the central policy that targets systemic risks and their impact on the economy through various instruments.",
         "listing_probability": 0.05
       },
       {
@@ -59,6 +94,111 @@
         "title": "News | CBA",
         "text": "Representatives of the Central Bank of Armenia Participated in the Regional Forum of the Black Sea Trade and Development Bank.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cba.am/en/sitepages/fmcnewsdetails.aspx?newsid=514",
+        "title": "News",
+        "text": "​On 21 May 2020, the Committee established pursuant to the UN Security Council resolutions 1267/1989/2253 approved amendments to the list of individuals and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cba.am/en/sitepages/fmcnewsdetails.aspx?newsid=130",
+        "title": "News",
+        "text": "On October 29 Financial monitoring center of the Central Bank of Armenia hosted a delegation comprised of members of Japanese financial intelligence center.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/announcements",
+        "title": "Announcements | CBA",
+        "text": "The Central Bank of the Republic of Armenia (CBA), located at Vazgen Sargsyan Str. 6, c. Yerevan 0010, announces a pre-qualification procedure to identify ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cba.am/en/sitepages/pmessagesannouncements.aspx?category=%D5%B7%D5%A1%D5%A2%D5%A1%D5%A9%D5%A1%D5%AF%D5%A1%D5%B6+%D5%A1%D5%B4%D6%83%D5%B8%D6%83+%D5%BF%D5%BE%D5%B5%D5%A1%D5%AC%D5%B6%D5%A5%D6%80&pdate=2021",
+        "title": "Messages and Announcements",
+        "text": "Messages and Announcements. Messages and Announcements. By Year: All, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012 ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cba.am/en/announcements/1309/",
+        "title": "Notice on pre-qualification procedure | CBA",
+        "text": "Notice on pre-qualification procedure. Procedure code: CBA-2022-031. Description of the subject of procurement.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/en/announcements/426/",
+        "title": "Warning against the non-public “Unit Asset Fund” private contract ...",
+        "text": "The Central Bank of the RA (CBA) warns the public against the non-public “Unit Asset Fund” Private Contract Investment Fund (The Fund) managed ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/en/announcements/1288",
+        "title": "Notice on pre-qualification procedure | CBA",
+        "text": "The Central Bank of the Republic of Armenia (CBA), located at Vazgen Sargsyan Str. 6, c. Yerevan 0010, announces a pre-qualification procedure ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cba.am/hy/circulars-notices/289",
+        "title": "CBA - Կենտրոնական բանկ",
+        "text": "վարկային կազմակերպություններին · Հայաստանի ավտոապահովագրողների բյուրոյին · ապահովագրական ընկերություններին · ներդրումային ընկերություններին",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cba.am/hy/circulars-notices/277/preview/",
+        "title": "Ինգո Արմենիա» ԱՓԲԸ-ին տրամադրված ...",
+        "text": "Կորել է «Ինգո Արմենիա» ԱՓԲԸ-ին տրամադրված «Դեմիրճյան» մասնաճյուղի գրանցման վկայականը. 2021-05-05. Կորել է «ԻՆԳՈ ԱՐՄԵՆԻԱ» ԱՓԲԸ-ին տրամադրված «ԴԵՄԻՐՃՅԱՆ» ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/hy/circulars-notices/614/",
+        "title": "CBA - Կենտրոնական բանկ",
+        "text": "Մասնագիտացված անձանց մոտ առաջացել են մի շարք խնդիրներ՝ կապված ընթացիկ հաշվետվությունների որոշ ձևերի լրացման հետ: Այս առնչությամբ հայտնում ենք հետևյալը.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/hy/circulars-notices/621/",
+        "title": "«Ապահովագրության և ապահովագրական ...",
+        "text": "Հայաստանի Հանրապետության տարածքում գործող բոլոր ապահովագրական ընկերություններին. Ձեզ ենք ներկայացնում «Ապահովագրության և ապահովագրական գործունեության մասին» ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/hy/circulars-notices/583/",
+        "title": "հաստատելու մասին» ՀՀ ԿԲ խորհրդի ...",
+        "text": "«Ներդրումային ընկերությունների հրապարակվող ֆինանսական հաշվետվությունների օրինակելի ձևերի լրացման ցուցումները» հաստատելու մասին» ՀՀ ԿԲ խորհրդի որոշման նախագծի ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.cba.am/en/communication-framework",
+        "title": "Communication Framework | CBA",
+        "text": "The CBA uses a variety of communications tools to communicate its monetary policy decisions and framework to its various audiences.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/en/strategy_communication",
+        "title": "Communication | CBA - Կենտրոնական բանկ",
+        "text": "Communication. We need to achieve high credibility through accountability and transparency of actions to achieve our goals. Communication will be done by ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cba.am/en/sitepages/pmessagesannouncements.aspx?category=%D5%B7%D5%A1%D5%A2%D5%A1%D5%A9%D5%A1%D5%AF%D5%A1%D5%B6+%D5%A1%D5%B4%D6%83%D5%B8%D5%B7%D5%BF%D5%B6%D5%A5%D6%80&pdate=2021",
+        "title": "Messages and Announcements",
+        "text": "Messages and Announcements. Messages and Announcements. By Year: All, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012 ...",
+        "listing_probability": 0.9
       }
     ]
   }

@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "topic": "estadísticas",
+    "entries": [
+      {
+        "url": "https://www.bc.gob.cu/noticia/20-important-facts-to-understand-what-happens-with-virtual-stores-in-cuba/828",
+        "title": "20 datos importantes para entender qué pasa con las tiendas virtuales ...",
+        "text": "1. ¿Por qué en todas las provincias, excepto La Habana, hay una sola tienda virtual? · 2. ¿Por qué la tienda virtual de Matanzas radica en Cárdenas? · 3. ¿Puedo ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/cuba-en-datos-las-redes-por-las-que-se-llega-al-comercio-electronico/413",
+        "title": "Cuba en Datos: Las redes por las que se llega al comercio electrónico",
+        "text": "En los últimos años, tarjetas magnéticas, compras online, telebanca, POS, IP son términos que se vuelven ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/cuba-en-datos-el-camino-hacia-la-inmunizacion/1084",
+        "title": "Cuba en Datos: El camino hacia la inmunizacion",
+        "text": "Cubadebate comparte con sus lectores algunos datos claves sobre los candidatos vacunales: ¿Cuáles son las formulaciones de los candidatos ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "política_monetaria",
+    "entries": [
+      {
+        "url": "https://www.bc.gob.cu/manual-regulaciones",
+        "title": "Manual de Regulaciones - Banco Central de Cuba",
+        "text": "Capítulo 1. Instituciones financieras del Sistema Bancario Nacional · Capítulo 2. Sobre el capital y reservas · Capítulo 3. Regulaciones de Política Monetaria.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bc.gob.cu/politica-monetaria",
+        "title": "Política Monetaria - Banco Central de Cuba",
+        "text": "La Política Monetaria se define como el conjunto de acciones que ponen en práctica los bancos centrales para controlar los tipos de interés y la cantidad de ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/banco-central-de-cuba-actualiza-las-regulaciones-para-la-importacion-y-exportacion-de-moneda-libremente-convertible/869",
+        "title": "Banco Central de Cuba actualiza las regulaciones para la importación y ...",
+        "text": "La nueva norma estipula además que a la salida del país se pueden exportar libremente hasta cinco mil dólares estadounidenses o su equivalente en otras MLC en “ ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bc.gob.cu/regulaciones-sbancaria",
+        "title": "Regulaciones de Supervisión Bancaria - Banco Central de Cuba",
+        "text": "Regulaciones de Supervisión bancaria · Capítulo 1. Acuerdos del Consejo de Dirección del BCC a controlar por la OSB. · Capítulo 2. Instrucciones OSB. · Capítulo 3.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "noticias",
+    "entries": [
+      {
+        "url": "https://www.bc.gob.cu/info-sala-de-prensa",
+        "title": "Sala de Prensa - Banco Central de Cuba",
+        "text": "Noticias ; Calendario de pago a jubilados y pensionados de la seguridad social, General, 2025-07-17 ; Conocimiento, identidad y diversión apuntalan en BCC ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/conferencia-de-prensa-en-el-bcc/409",
+        "title": "Conferencia de Prensa en el BCC - Banco Central de Cuba",
+        "text": "20 de junio 2019 |. En el Centro de Información Bancaria y Económica del BCC se realizó la Conferencia de Prensa sobre los Canales de Pago Electrónicos, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/dia-de-la-prensa-cubana-la-verdad-tan-alta-como-las-palmas-reales/1884",
+        "title": "Día de la Prensa Cubana, la verdad tan alta como las palmas reales",
+        "text": "Cuba arriba al Día de la Prensa Cubana este 14 de marzo del 2024, en medio de las más difíciles tareas que le ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/directivo-del-bcc-dialoga-con-prensa-latina-sobre-comercio-electronico/321",
+        "title": "Directivo del BCC dialoga con Prensa Latina sobre comercio electrónico",
+        "text": "Banco Central de Cuba | Implementación de Política Monetaria, perfeccionamiento del Sistema de Pago y Supervisión de Instituciones Financieras.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/feliz-dia-de-la-prensa-cubana/1722",
+        "title": "Feliz día de la Prensa Cubana - Banco Central de Cuba",
+        "text": "131 años de la creación del periódico Patria \"para juntar y amar\", así homenajeamos a la Prensa Cubana en su día. Felicidades!! Compartir:.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "comunicación",
+    "entries": [
+      {
+        "url": "https://www.bc.gob.cu/noticia/importancia-de-laa-comunicacion-en-las-organizaciones/1447",
+        "title": "Importancia de la comunicación en las organizaciones - Banco ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/sector-bancario-en-proyeccion-de-implementar-la-ley-de-comunicacion-social/1981",
+        "title": "Sector bancario en proyección de implementar la Ley de ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bc.gob.cu/noticia/directivos-del-sistema-bancario-conceden-entrevistas-a-los-medios-de-comunicacion-sobre-la-resolucion-2762021/1324",
+        "title": "Directivos del sistema bancario conceden entrevistas a los ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

@@ -7,6 +7,30 @@
         "title": "Publications | Sveriges Riksbank - Riksbanken",
         "text": "Under the Riksbank's publications, you will find the latest analyses of monetary policy, financial stability, the payment market and other subjects.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/articles-in-the-monetary-policy-reports/",
+        "title": "In-depth analysis in the Monetary Policy Reports | Sveriges Riksbank",
+        "text": "In-depth analyses are published in the Monetary Policy Reports. These aim to provide a more detailed analysis of issues that are topical and/or particularly ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/publications/economic-review/",
+        "title": "Economic Review | Sveriges Riksbank - Riksbanken",
+        "text": "Economic Review (earlier Quarterly Review) primarily contains articles on topics relevant to the Riksbank's field of operation, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/publications/working-paper-series/",
+        "title": "Working Paper Series | Sveriges Riksbank - Riksbanken",
+        "text": "The Working Paper Series presents research reports on matters in the sphere of activities of the Riksbank that are considered to be of interest to a wider ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/monetary-policy-reports-and-updates/",
+        "title": "Monetary Policy Reports and Updates | Sveriges Riksbank - Riksbanken",
+        "text": "A Monetary Policy Report is published which summarises the basis for the monetary policy decision along with forecasts stretching three years ahead.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -23,13 +47,25 @@
         "url": "https://www.riksbank.se/en-gb/statistics/statistics-on-banknotes-and-coins/",
         "title": "Statistics on banknotes and coins | Sveriges Riksbank",
         "text": "The chart shows the total amount of banknotes and coins, including invalid notes. Excluding commemorative coins. The figures have been rounded off.",
-        "listing_probability": 0.2
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.riksbank.se/en-gb/statistics/historical-monetary-statistics-of-sweden/",
         "title": "Historical Monetary Statistics of Sweden | Sveriges Riksbank",
         "text": "The present project, which involves compiling historical monetary statistics for Sweden is partly inspired by a similar project carried out by Norges bank.",
-        "listing_probability": 0.2
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/statistics/reporting-of-international-bank-statistics-iris/",
+        "title": "International banking statistics | Sveriges Riksbank - Riksbanken",
+        "text": "International banking statistics illustrate the Swedish banking sector's foreign-related activities in various ways. The statistics cover balance sheet items ...",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/statistics/interest-rates-and-exchange-rates/search-interest-rates-and-exchange-rates/",
+        "title": "Search interest rates and exchange rates | Sveriges Riksbank",
+        "text": "You can search for published exchange rates and interest rates in the database at the following time intervals: day, week, month, quarter and year.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -40,7 +76,25 @@
         "url": "https://www.riksbank.se/en-gb/monetary-policy/",
         "title": "The Riksbank's monetary policy",
         "text": "The objective of monetary policy is to maintain a low and stable rate of inflation. More precisely target is to hold CPIF inflation at around 2 per cent a year.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/monetary-policy/what-is-monetary-policy/",
+        "title": "What is monetary policy? | Sveriges Riksbank - Riksbanken",
+        "text": "The objective of monetary policy is to maintain low and stable inflation. The main monetary policy tool is the policy rate.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/monetary-policy/what-is-monetary-policy/evaluation-of-monetary-policy/",
+        "title": "Evaluation of monetary policy | Sveriges Riksbank - Riksbanken",
+        "text": "Transparency and clarity at the Riksbank are important for both democratic oversight and effective monetary policy.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/",
+        "title": "Monetary policy decisions | Sveriges Riksbank - Riksbanken",
+        "text": "The Riksbank normally holds eight monetary policy meetings per year, at which the Executive Board takes decisions on monetary policy. Click on the latest ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -57,13 +111,111 @@
         "url": "https://www.riksbank.se/en-gb/press-and-published/",
         "title": "Press & published | Sveriges Riksbank - Riksbanken",
         "text": "Under the heading \"Press & published\" you can find all of the Riksbank's publications, including reports, press releases and speeches.",
-        "listing_probability": 0.99
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/",
         "title": "Notices and Press releases | Sveriges Riksbank - Riksbanken",
         "text": "The Riksbank is Sweden's central bank. We ensure that money retains its value and that payments can be made safely and efficiently. We also ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/",
+        "title": "Press Releases | Sveriges Riksbank - Riksbanken",
+        "text": "The Riksbank is Sweden's central bank. We ensure that money retains its value and that payments can be made safely and efficiently. We also issue banknotes and ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/publications/working-paper-series/",
+        "title": "Working Paper Series | Sveriges Riksbank - Riksbanken",
+        "text": "The Working Paper Series presents research reports on matters in the sphere of activities of the Riksbank that are considered to be of interest to a wider ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/markets/market-operations/sale-of-government-bonds/auction-announcements/2025/auction-date-2025-05-23/",
+        "title": "Auction date 2025-05-23 | Sveriges Riksbank - Riksbanken",
+        "text": "SPECIAL TERMS AND CONDITIONS FOR THE RIKSBANK'S SALE OF BONDS VIA BID PROCEDURE. Bid procedure, 2025-05-23. Bonds. Bid date. Bid times.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/markets/measures-in-response-to-financial-turmoil/the-riksbanks-measures-in-connection-with-the-corona-pandemic/treasury-bills/auction-announcements/",
+        "title": "Auction announcements | Sveriges Riksbank - Riksbanken",
+        "text": "Auction announcements including the special terms and conditions for the Riksbank's purchases of treasury bills via bid procedure.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/markets/market-operations/sale-of-government-bonds/auction-announcements/",
+        "title": "Auction announcements | Sveriges Riksbank",
+        "text": "Auction announcements including the special terms and conditions for the Riksbank's sales of government bonds via bid procedure.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/markets/measures-in-response-to-financial-turmoil/the-riksbanks-measures-in-connection-with-the-corona-pandemic/corporate-bonds/auction-announcements/",
+        "title": "Auction announcements | Sveriges Riksbank - Riksbanken",
+        "text": "Search interest rates and exchange rates, search annual and monthly average exchange rates, search cross rates, historical exchange rates and discontinued ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/",
+        "title": "Notices and Press releases | Sveriges Riksbank - Riksbanken",
+        "text": "The Riksbank is Sweden's central bank. We ensure that money retains its value and that payments can be made safely and efficiently. We also ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/notices/",
+        "title": "Notices | Sveriges Riksbank",
+        "text": "The Riksbank is Sweden's central bank. We ensure that money retains its value and that payments can be made safely and efficiently. We also issue banknotes and ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/notices/2025/banks-are-encouraged-to-participate-in-the-work-of-enabling-instant-payments-between-different-currencies/",
+        "title": "Banks are encouraged to participate in the work of enabling instant ...",
+        "text": "The Riksbank is inviting Swedish banks to participate in the ongoing work to enable instant cross-currency payments within Europe via the Target Instant ...",
+        "listing_probability": 0.02
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/policy-rate-is-cut-to-2-per-cent/",
+        "title": "Policy rate is cut to 2 per cent | Sveriges Riksbank - Riksbanken",
+        "text": "The Executive Board has therefore decided to cut the policy rate by 0.25 percentage points to 2 per cent.",
+        "listing_probability": 0.02
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/high-political-uncertainty-abroad-increases-stability-risks/",
+        "title": "High political uncertainty abroad increases stability risks - Riksbanken",
+        "text": "The risk of financial instability has increased. In this situation, it is of great importance to safeguard resilience, both in Sweden and globally.",
+        "listing_probability": 0.02
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2025/erik-thedeen-monetary-policy-communication-in-practice/",
+        "title": "Erik Thedéen: Monetary policy communication in practice",
+        "text": "Governor Erik Thedéen spoke about the importance of communication, the Riksbank's choice of transparency and the challenges involved in communicating monetary ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.riksbank.se/en-gb/financial-stability/the-riksbanks-responsibility-with-regard-to-financial-stability/preventing-financial-crises/communication-to-contribute-to-the-stability-and-efficiency-of-the-financial-system/",
+        "title": "Communication to contribute to the stability and efficiency ... - Riksbanken",
+        "text": "The Riksbank's views on the stability and efficiency of the financial system are communicated in several different ways.",
+        "listing_probability": 0.05
       }
     ]
   }

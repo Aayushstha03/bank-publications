@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bdl.gov.lb/publications.php",
+        "title": "Publications - Banque Du Liban",
+        "text": "Annual Report · Monthly Bulletin · Quarterly Bulletin · Monetary Overview.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bdl.gov.lb/intermediatecirculars.php?searchTxt=Statistics%20Reports",
+        "title": "intermediate circulars - Banque Du Liban",
+        "text": "Bank branches, bank certificates, bank facilities risks, banking identity/IBAN, banking regulations, banking secrecy, basic nutritional needs.",
+        "listing_probability": 0.92
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bdl.gov.lb/bulletin.php",
+        "title": null,
+        "text": "Quarterly Bulletin 3rd Quarter 2024 # 182 · Monthly Bulletin # 362 · Quarterly Bulletin 2nd Quarter 2024 # 181 · Quarterly Bulletin 1st Quarter 2024 # 180.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bdl.gov.lb/intermediatecirculars.php?searchTxt=Regulations%20on%20the%20Control%20of%20Financial%20and%20Banking%20Operations%20for%20Fighting%20Money%20Laundering%20and%20Terrorist%20Financing",
+        "title": "laws & regulations - Banque Du Liban",
+        "text": "The Banque Du Liban has regulations on the control of financial and banking operations for fighting money laundering and terrorist financing, and conditions of ...",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bdl.gov.lb/announcements.php",
+        "title": "Financial Announcements - Banque Du Liban",
+        "text": "Institutions regulated by Banque du Liban: Banks, Collective Investment Schemes, Credit and Debit Card Issuers, Detailed list of Exchange Institutions.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bdl.gov.lb/announcements.php?searchTxt=Calculating%20interests,%20expenditures,%20commissions,%20expenses%20and%20charges%20of%20any%20kind",
+        "title": "announcement - Banque Du Liban",
+        "text": "HOME > LAWS & REGULATIONS > ANNOUNCEMENT · Addressed to · All other Institutions regulated by Banque du Liban · Banks · Collective Investment Schemes · Credit and ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bdl.gov.lb/announcements.php?searchTxt=Gradual%20withdrawal%20of%20deposits%20in%20foreign%20currencies%20contracts",
+        "title": "laws & regulations - Banque Du Liban",
+        "text": "HOME > LAWS & REGULATIONS > ANNOUNCEMENT · Addressed to · All other Institutions regulated by Banque du Liban · Banks · Collective Investment Schemes · Credit and ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bdl.gov.lb/announcements.php?searchTxt=Commissions%20and%20fees%20on%20formalities%20and%20requests%20submitted%20to%20BDL",
+        "title": "laws & regulations - Banque Du Liban",
+        "text": "DATE, ANNOUNCEMENT Nb, ANNOUNCEMENT TITLE, VIEW IN, Addressed to, Status. 2024-09-24, 960, استيفاء نفقات وعمولات بالليرة اللبنانية على معاملات وطلبات محددة ...",
+        "listing_probability": 0.8
+      }
+    ]
+  }
+]

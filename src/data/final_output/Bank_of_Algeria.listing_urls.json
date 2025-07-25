@@ -6,13 +6,48 @@
         "url": "https://www.bank-of-algeria.dz/publications-page/",
         "title": "Publications",
         "text": null,
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bank-of-algeria.dz/publications/",
         "title": "Publications",
         "text": null,
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bank-of-algeria.dz/politique-de-communication-avec-les-medias/",
+        "title": "Politique de communication avec les Médias - Banque d'Algérie",
+        "text": "Aller au contenu. Carrière. Formation · Avis d'appels d'offres · Contact · Liens utiles. Français. Arabe. Carrière. Formation · Avis d'appels d'offres · Contact · Liens utiles. Français. Arabe. Carrière. Formation · Avis d'appels d'offres · Contact · Liens utiles. Français.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bank-of-algeria.dz/category/communication/",
+        "title": "Communication - Banque d'Algérie",
+        "text": "Intervention de Mr le gouverneur Rothom FADLI a l'occasion de la rencontre avec les banques et établissements financiers.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bank-of-algeria.dz/communication-de-mr-le-gouverneur-mohammed-laksaci-a-loccasion-de-la-reunion-annuelle-des-directeurs-de-succursales-et-agences-de-la-banque-dalgerie/",
+        "title": "Communication de Mr le Gouverneur Mohammed Laksaci à l'occasion de ...",
+        "text": "Conformément aux dispositions de l'article 2 de l'ordonnance n° 03-11 du 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, le privilège d'émettre sur le territoire national de la monnaie fiduciaire (billets et pièces de monnaie métallique) est délégué par l'Etat à titre exclusif à la Banque ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bank-of-algeria.dz/communication-de-la-banque-dalgerie-a-loccasion-du-5eme-congres-international-sur-la-finance-islamique/",
+        "title": "Communication de la Banque d'Algérie à l'occasion du 5ème ...",
+        "text": "Le Directeur Général du Crédit et de la Réglementation Bancaire Mr. Abdelhamid Bouldanine à participé au 5ème congrès international sur la finance islamique tenu au Centre Universitaire de Tipasa. Le Directeur Général du Crédit et de la Réglementation Bancaire a présenté une intervention portant sur ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bank-of-algeria.dz/communication-mr-gouverneur-au-conseil-monnaie-credit/",
+        "title": "Accélération de l'inflation en 2012 en contexte de décélération monétaire",
+        "text": "Communication de Mr. le Gouverneur au Conseil de la Monnaie et du Crédit : Accélération de l'inflation en 2012 en contexte de décélération monétaire. 18 février 2013. Accélération de l'inflation en 2012 en contexte de décélération monétaire : De la nécessité d'endiguer le phénomène inflationniste en 2013…",
+        "listing_probability": 0.05
       }
     ]
   }

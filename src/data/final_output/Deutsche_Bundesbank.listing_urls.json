@@ -3,21 +3,33 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/important-documents-and-publications-on-the-monetary-policy-framework-626078",
-        "title": "Important documents and publications on the monetary policy ...",
-        "text": null,
-        "listing_probability": 0.9
+        "url": "https://www.bundesbank.de/en/publications/publications-934486",
+        "title": "Publications | Deutsche Bundesbank",
+        "text": "Current publications. You can find further publications in digital form via the navigation on the left or via the search function.",
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.bundesbank.de/en/publications/reports/monthly-reports/current-monthly-reports--764440",
         "title": "Current Monthly Reports | Deutsche Bundesbank",
-        "text": null,
-        "listing_probability": 0.95
+        "text": "Here you will find the latest monthly reports of the Deutsche Bundesbank. They handle with economic topics, including in particular monetary policy.",
+        "listing_probability": 0.99
       },
       {
-        "url": "https://www.bundesbank.de/en/publications/publications-934486",
+        "url": "https://www.bundesbank.de/en/publications/statistics/special-statistical-publications",
+        "title": "Special Statistical Publications | Deutsche Bundesbank",
+        "text": "The Special Statistical Publications contain methodological, legal and reporting-related information on the Bundesbank's statistics. As of 16 April 2020, ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/refereed-publications/recent-publications-604900",
+        "title": "Recent publications | Deutsche Bundesbank",
+        "text": "Selected papers by Bundesbank researchers accepted for publication or recently published.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.bundesbank.de/en/tasks/payment-systems/publications/publications-743346",
         "title": "Publications | Deutsche Bundesbank",
-        "text": "Current publications. You can find further publications in digital form via the navigation on the left or via the search function.",
+        "text": "On this page you can find publications issued by the Bundesbank with regard to payment and settlement systems as well as a selection of documents of other ...",
         "listing_probability": 0.98
       }
     ]
@@ -32,15 +44,27 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bundesbank.de/en/publications/statistics",
-        "title": "Statistics | Deutsche Bundesbank",
-        "text": "Banking statistics, capital market statistics, balance of payment statistics, Seasonally adjusted business statistics, exchange rate statistics, ...",
+        "url": "https://www.bundesbank.de/en/statistics/time-series-databases",
+        "title": "Time series databases | Deutsche Bundesbank",
+        "text": "Current statistical data of the Bundesbank in the form of time series for display and download as CSV- or SDMX-ML-file.",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/vjkre-618014",
-        "title": "Quarterly borrowers statistics (VJKRE - Deutsche Bundesbank",
-        "text": "These statistics provide an insight into the structure of and developments in the lending business with the most important groups of private borrowers.",
+        "url": "https://www.bundesbank.de/en/publications/statistics",
+        "title": "Statistics | Deutsche Bundesbank",
+        "text": "Banking statistics, capital market statistics, balance of payment statistics, Seasonally adjusted business statistics, ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics",
+        "title": "Banking statistics | Deutsche Bundesbank",
+        "text": "The most important results on overall monetary surveys in the euro area, banks, interest rates and the capital market are published in the statistical section.",
+        "listing_probability": 0.4
+      },
+      {
+        "url": "https://www.bundesbank.de/en/statistics/money-and-capital-markets/-/investment-funds-statistics-809480",
+        "title": "Investment funds statistics | Deutsche Bundesbank",
+        "text": "Investment funds statistics Tables of the Statistical Series. DE. Updated issue, see each table for data vintage. Complete download. 11.07.2025 | 3 MB, PDF.",
         "listing_probability": 0.1
       }
     ]
@@ -55,16 +79,22 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/operational-framework-for-implementing-monetary-policy-625964",
+        "title": "Operational framework for implementing monetary policy",
+        "text": "The Eurosystem's operational framework for implementing monetary policy comprises the general rules for Eurosystem monetary policy instruments and procedures.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/review-of-the-operational-framework-for-implementing-monetary-policy-943062",
         "title": "Review of the operational framework for implementing monetary policy",
         "text": "On 13 March 2024, the ECB Governing Council decided on changes to the operational framework for implementing monetary policy.",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework",
-        "title": "Monetary policy framework | Deutsche Bundesbank",
-        "text": "The Eurosystem's operational framework for implementing monetary policy comprises the general rules for Eurosystem monetary policy instruments and procedures.",
-        "listing_probability": 0.7
+        "url": "https://www.bundesbank.de/content/922200",
+        "title": "A primer on optimal policy projections 01/2024 - Deutsche Bundesbank",
+        "text": "The present note describes how to formally state and solve an optimal policy problem based on (i) a baseline projection, (ii) impulse response ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -75,19 +105,25 @@
         "url": "https://www.bundesbank.de/en/press/speeches",
         "title": "Speeches | Deutsche Bundesbank",
         "text": "Here you find speeches of the current and past members of the Executive Board of the Deutsche Bundesbank from the past ten years. Speeches of the former ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bundesbank.de/dynamic/action/en/press/press-releases/730186/press-releases",
         "title": "Press releases | Deutsche Bundesbank",
         "text": "Hier können Sie nach Pressenotizen der Deutschen Bundesbank und Pressemitteilungen der Europäischen Zentralbank suchen.",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bundesbank.de/en/press/press-materials",
         "title": "Press materials | Deutsche Bundesbank",
         "text": "Compilation of press information on special Bundesbank events.",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bundesbank.de/en/press/speeches/central-bank-money-in-the-21st-century--930948",
+        "title": "Central bank money in the 21st century - Deutsche Bundesbank",
+        "text": "Central bank money in the 21st century Speech at the DZ Bank Capital Markets Conference 2024. 24.04.2024 Berlin Joachim Nagel DE.",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -95,21 +131,55 @@
     "topic": "research",
     "entries": [
       {
+        "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/people/632846-632846",
+        "title": "Working Papers and Other Publications - | Deutsche Bundesbank",
+        "text": "Working Papers and Other Publications. The impact of Covid-19 on productivity Bloom N., Bunn P., Mizen P., Smietanka P., Thwaites G. 2021 | VoxEU, 18 January ...",
+        "listing_probability": 0.98
+      },
+      {
         "url": "https://www.bundesbank.de/en/tasks/topics/research-centre-publishes-its-1-000th-discussion-paper-873836",
         "title": "Research Centre publishes its 1,000th discussion paper ...",
         "text": null,
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/your-research-project-at-the-rdsc/your-research-project-at-the-rdsc-617236",
-        "title": "Your research project at the RDSC | Deutsche Bundesbank",
+        "url": "https://www.bundesbank.de/en/bundesbank/green-finance/climate-related-research-paper-of-the-deutsche-bundesbank-894900",
+        "title": "Climate-related research paper of the Deutsche Bundesbank ...",
         "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/homepage/newsletter/rdsc/dataset-updates-807018",
+        "title": "Dataset updates | Deutsche Bundesbank",
+        "text": "The following datasets have been updated by the RDSC and are now available for research projects: CSDB, BISTA, BOP-F, GuV, AUSTA, BOP-HH, PFH, ...",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.bundesbank.de/en/press/press-releases/deutsche-bundesbank-updates-impact-of-basel-iii-reform-package--941878",
+        "title": "Deutsche Bundesbank updates impact of Basel III reform package",
+        "text": "Implementation in the EU of the Basel III reform package will lead to a 3.3% increase in minimum required capital ( MRC ) by 2030 for a sample of 36 German ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bundesbank.de/en/bundesbank/international-central-bank-dialogue/international-central-banking-courses-/central-bank-communication-940936",
+        "title": "Central bank communication | Deutsche Bundesbank",
+        "text": "This course provides an overview of the Bundesbank's external communication work within the Eurosystem. It sheds light on the concepts, channels and content.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/research-areas-and-programme/research-areas-and-programme-869522",
-        "title": "Research Areas and Programme | Deutsche Bundesbank",
-        "text": null,
+        "url": "https://www.bundesbank.de/en/bundesbank/international-central-bank-dialogue/international-central-banking-courses-/central-bank-communication-881890",
+        "title": "Central bank communication - Deutsche Bundesbank",
+        "text": "This course provides an overview of the external communication work of the Deutsche Bundesbank within the Eurosystem.",
         "listing_probability": 0.05
       }
     ]

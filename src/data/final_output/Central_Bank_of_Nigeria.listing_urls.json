@@ -3,16 +3,57 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.cbn.gov.ng/documents/",
+        "title": "Publications & Documents | Central Bank of Nigeria",
+        "text": "Publications and Documents page, with Circulars, Press Releases, Governor's Speeches, Reports, Guidelines etc.",
+        "listing_probability": 1.0
+      },
+      {
         "url": "https://www.cbn.gov.ng/documents/publications.html",
         "title": "All Publications | Central Bank of Nigeria",
         "text": "Find all your publications here. All Publications History | Facts 1996: The West African Institute for Financial and Economic Management (WAIFEM) was ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.cbn.gov.ng/Documents/AML-CFT-Reports.html",
-        "title": "AML/CFT Reports - Central Bank of Nigeria",
-        "text": "Anti-money Laundering & Combating the Financing of Terrorism Report.",
+        "url": "https://www.cbn.gov.ng/Documents/annualreports.html",
+        "title": "Annual Reports | Central Bank of Nigeria",
+        "text": "Annual Reports ... 1956: The Paris Club of Creditors represents only government guaranteed creditors. Members include the United States of America, United Kingdom ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbn.gov.ng/rates/",
+        "title": "Data & Statistics | Central Bank of Nigeria",
+        "text": "Data & Statistics. Crude Oil Price · Daily Crude Oil Price · Discount Windows · Economic/Macro Indicators · Exchange Rates · ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbn.gov.ng/documents/Statbulletin.html",
+        "title": "Annual Statistical Bulletin | Central Bank of Nigeria",
+        "text": "1993: In March 1993, the Nigerian Inter-Bank Settlement System (NIBSS) was incorporated to enhance the speed and effeciency of the national clearing system.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbn.gov.ng/rates/FinancialData.html",
+        "title": "Financial Data | Central Bank of Nigeria",
+        "text": "Opening Balances of Banks/Discount Houses. Rediscounted Bills. Standing Lending Facility (Net). Standing Deposit Facility (Net). Repo. Reverse Repo.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbn.gov.ng/out/2011/publications/statistics/2010/",
+        "title": null,
+        "text": "For further Information Contact The Director, Statistics Department Central Bank of Nigeria Central Business District, P.M.B. 0187 Garki, Abuja",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.cbn.gov.ng/rates/mnycredit.html",
+        "title": "Money and Credit Statistics | Central Bank of Nigeria",
+        "text": "Coverage of Annual Money and Credit Statistics span 1960 - 1992. Coverage of Monthly Money and Credit Statistics commenced in January 1993. History | Facts ...",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -20,10 +61,10 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.cbn.gov.ng/AboutCBN/Dir-Policy.html",
-        "title": "Economic Policy Directorate | Central Bank of Nigeria",
-        "text": "This directorate develops economic policies, strategies and programmes to promote economic growth, stability and sustainability.",
-        "listing_probability": 0.05
+        "url": "https://www.cbn.gov.ng/documents/guidelines.asp",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.95
       }
     ]
   },
@@ -31,16 +72,74 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.cbn.gov.ng/Documents/speeches.html",
+        "url": "https://www.cbn.gov.ng/News/newsarchives.asp",
+        "title": "News - Central Bank of Nigeria",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbn.gov.ng/documents/speeches.html",
         "title": "Speeches | Central Bank of Nigeria",
-        "text": "Speeches ... by the Governor. Home · Documents; Speeches. Speeches. History | Facts. 1933: Payment cards are paper based instruments which were introduced ...",
+        "text": "1967: Dr. Clement Nyong Isong was appointed the second Nigerian Governor of Central Bank of Nigeria, from August 15, 1967 to September 22nd, 1975.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbn.gov.ng/Documents/PressReleases.html",
+        "title": "Press Releases | Central Bank of Nigeria",
+        "text": "Central Bank of Nigeria Press Releases.",
         "listing_probability": 0.95
       },
       {
         "url": "https://www.cbn.gov.ng/NewsArchive/News.html",
         "title": "News Archive | Central Bank of Nigeria",
-        "text": "1957: Mr Loynes, an adviser to the Bank of England, favoured the idea of establishing a Central Bank of Nigeria. His views and recommendations formed the ...",
+        "text": "The ruling allowed SGBN 30 days to meet the condition attached to the forbearance of 80% of its huge debt to CBN.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cbn.gov.ng/documents/CBNWorkingPaperSeries.html",
+        "title": "CBN Working Paper Series | Central Bank of Nigeria",
+        "text": "CBN Working Paper Series ... 1957: Mr Loynes, an adviser to the Bank of England, favoured the idea of establishing a Central Bank of Nigeria. His views and ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbn.gov.ng/Research/",
+        "title": "Research | Central Bank of Nigeria",
+        "text": null,
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.cbn.gov.ng/Research/EconomicReports.html",
+        "title": "Research | Central Bank of Nigeria",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cbn.gov.ng/Documents/Notices.html",
+        "title": "Notices | Central Bank of Nigeria",
+        "text": "The objective of the Association is to promote co-operation in the monetary, banking and financial sphere in the African region and to assist in the formulation ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbn.gov.ng/Documents/FPRCircularsNotices.html",
+        "title": "Financial Policy Regulation Notices and Circulars",
+        "text": "Financial Policy Regulation Notices and Circulars ... 1967: African Development Bank (ADB) Group is a regional multilateral development bank established in 1964, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbn.gov.ng/documents/FmdNotices.html",
+        "title": "Financial Markets Notices | Central Bank of Nigeria",
+        "text": "Financial Markets Notices. Home · Documents; Financial Markets Notices. Financial Markets Notices. History | Facts. 1972: Jos Branch was opened.",
+        "listing_probability": 0.9
       }
     ]
   }

@@ -3,16 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.bceao.int/en/content/other-publications",
-        "title": "Other Publications - BCEAO",
-        "text": "Published in 2000 in three volumes, this work aims to enlighten the reader on the construction of the monetary system of the countries forming the WAMU.",
-        "listing_probability": 0.1
-      },
-      {
         "url": "https://www.bceao.int/en/publications",
         "title": "Publications | BCEAO",
         "text": "Publications · - Any - · Banking Commission Annual Report · Documents d'Etude et d'Analyse Economiques · Financial Inclusion statistics in WAEMU · Quaterly ...",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bceao.int/en/content/other-publications",
+        "title": "Other Publications - BCEAO",
+        "text": "Published in 2000 in three volumes, this work aims to enlighten the reader on the construction of the monetary system of the countries forming the WAMU.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/bceao-2024-annual-report",
+        "title": "BCEAO 2024 Annual Report",
+        "text": "The Annual Report of the Central Bank of West African States (BCEAO) for the year 20244 View BCEAO's annual report for 2024.",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/bceao-2022-annual-report",
+        "title": "BCEAO 2022 Annual Report",
+        "text": "Estimates published by the International Monetary Fund (IMF) put global economic growth at 3.4% in 2022, down from 6.2% a year earlier.",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/report-monetary-policy-wamu-june-2023",
+        "title": "Report on Monetary Policy in WAMU - June 2023 - BCEAO",
+        "text": "The Monetary Policy Report presents the Central Bank's analysis of recent economic trends and outlook. It is a reference document, enabling market players.",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -23,19 +41,7 @@
         "url": "https://www.bceao.int/en/publications/monthly-statistical-bulletin-january-2025",
         "title": "Monthly Statistical Bulletin - January 2025 - BCEAO",
         "text": "Monthly Statistical Bulletin - January 2025. Monthly Bulletin of WAEMU Economic Statistics , 17 March 2025. Download ,. Member States.",
-        "listing_probability": 0.1
-      },
-      {
-        "url": "https://www.bceao.int/en/publications/monthly-statistical-bulletin-december-2023",
-        "title": "Monthly Statistical Bulletin - December 2023 - BCEAO",
-        "text": "Monthly Statistical Bulletin - December 2023. Monthly Bulletin of WAEMU Economic Statistics , 09 February 2024. Monthly Statistical Bulletin - December 2023.",
-        "listing_probability": 0.1
-      },
-      {
-        "url": "https://www.bceao.int/en/publications/monthy-statistical-bulletin-august-2022",
-        "title": "Monthy Statistical Bulletin - August 2022 - BCEAO",
-        "text": "Monthy Statistical Bulletin - August 2022. Monthly Bulletin of WAEMU Economic Statistics , 24 March 2023. Monthy Statistical Bulletin - August 2022.",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
       }
     ]
   },
@@ -46,18 +52,30 @@
         "url": "https://www.bceao.int/en/content/instruments-monetary-policy-implementation",
         "title": "Instruments of Monetary Policy Implementation - BCEAO",
         "text": "The current mechanism for the management of the currency and credit relies on market mechanisms and indirect tools to regulate liquidity.",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.bceao.int/en/content/monetary-policy-committee",
         "title": "The Monetary Policy Committee | BCEAO",
         "text": "The Monetary Policy Committee is responsible for defining monetary policy within WAMU, and its instruments, in line with the provisions of the Statutes.",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.bceao.int/en/content/objectives-monetary-policy",
         "title": "Objectives of Monetary Policy | BCEAO",
         "text": "All information about the objectives of the monetary policy of the BCEAO.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/report-monetary-policy-wamu-june-2023",
+        "title": "Report on Monetary Policy in WAMU - June 2023 - BCEAO",
+        "text": "The Monetary Policy Report presents the Central Bank's analysis of recent economic trends and outlook. It is a reference document, enabling market players.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bceao.int/en/publications/report-monetary-policy-wamu-june-2024",
+        "title": "Report on Monetary Policy in WAMU - June 2024 - BCEAO",
+        "text": "The Monetary Policy Committee (MPC) of the Central Bank of West African States (BCEAO) held its second ordinary meeting of 2024, on Tuesday, ...",
         "listing_probability": 0.05
       }
     ]
@@ -66,10 +84,45 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.bceao.int/en/communique-presse",
+        "title": "Press Release | BCEAO",
+        "text": "Press statement of the meeting of the Monetary Policy Committee of the BCEAO, held in Dakar on June 1, 2016.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.bceao.int/en/communique-presse/press-statement-meeting-monetary-policy-committee-bceao-held-dakar-june-1-2016",
         "title": "Press statement of the meeting of the Monetary Policy Committee of the ...",
         "text": "The Committee reviewed the main trends unfolding recently in the economy and assessed the risk factors that could affect the outlook for price stability and ...",
         "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bceao.int/fr/communique-presse/attention-aux-messages-frauduleux-se-rapportant-la-bceao",
+        "title": "Attention aux messages frauduleux se rapportant à la BCEAO",
+        "text": "La Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO) porte à la connaissance du public que des personnes mal intentionnées produisent des messages, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/fr/communique-presse/communique-de-la-bceao-la-bceao-informe-le-public-que-des-messages-frauduleux-qui",
+        "title": "La BCEAO informe le public que des messages frauduleux qui lui sont ...",
+        "text": "Communiqué de la BCEAO - La BCEAO informe le public que des messages frauduleux qui lui sont imputés sont diffusés sur les réseaux sociaux · Etats membres.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/fr/reglementations/instruction-ndeg005032011-relative-la-communication-des-facteurs-autonomes-de-la",
+        "title": "Instruction n°005/03/2011 relative à la communication des facteurs ...",
+        "text": "Instruction n°005/03/2011 relative à la communication des facteurs autonomes de la liquidité bancaire par les établissements de crédits de l'UMOA.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bceao.int/fr/documents/communication-du-gouverneur-de-la-bceao-sur-le-theme-role-de-la-bceao-dans-le",
+        "title": "Communication du Gouverneur de la BCEAO sur le thème :\"Rôle de la ...",
+        "text": "Communication du Gouverneur de la BCEAO sur le thème :\"Rôle de la BCEAO dans le développement du secteur privé de l'UMOA : Bilan et perspectives ...",
+        "listing_probability": 0.1
       }
     ]
   }

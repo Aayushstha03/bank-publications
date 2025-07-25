@@ -2,6 +2,135 @@
   "Bank Name": "State Bank of Vietnam",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/rm/public/nreport?p=2",
+                "title": "Annual Reports",
+                "text": "The English translation provided by the State Bank of Vietnam Portal may only be used for reference. In case a different interpretation of the translated ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.sbv.gov.vn/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.sbv.gov.vn/w/sbv569029",
+                "title": "Digital transformation of banking sector in 2023",
+                "text": "On May 11, 2023, in Hanoi, the State Bank of Vietnam (SBV) organized a press conference announcing the event of Digital transformation of ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "published_time": "2023-05-11T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.sbv.gov.vn/vi/web/sbv_portal/w/sbv617915",
+                "title": "Đánh giá các công nghệ Big Data cho lĩnh vực tài chính, ngân hàng",
+                "text": "Thông qua việc phân tích các trường hợp ứng dụng thực tế, bài viết cung cấp một đánh giá về các công cụ hỗ trợ trong việc lưu trữ, xử lý, ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "published_time": "2024-11-04T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.sbv.gov.vn/vi/",
+                "title": "Ngân Hàng Nhà Nước Việt nam: Trang Chủ",
+                "text": "Khơi dậy mạnh mẽ tinh thần tự chủ, tự tin, tự lực, tự cường, tự hào dân tộc, khát vọng phát triển đất nước trong kỷ nguyên mới!Khơi dậy mạnh mẽ tinh thần tự chủ ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.sbv.gov.vn/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/mpolicy",
+                "title": "Monetary Policy Objectives",
+                "text": "1.Managing the monetary policy in a firm, proactive, flexible and effective manner, in synchronous and close coordination with the fiscal and other macro- ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.sbv.gov.vn/en/web/sbv_portal/w/directive-03/ct-nhnn-implementing-2-interest-rate-subsidy-policy-from-state-budget-worth-vnd-40-000-billion-in-accordance-with-government-s-decree-no.31/2022/nd-cp-and-sbv-s-circular-no.-03/2022/tt-nhnn",
+                "title": "Directive 03/CT-NHNN implementing 2% interest rate subsidy policy from ...",
+                "text": "On August 16, 2022, the Governor of the State Bank of Vietnam (SBV) issued Directive 03/CT-NHNN on the implementation of the 2% interest rate ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "published_time": "2022-08-23T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.sbv.gov.vn/w/sbv609413",
+                "title": "Monetary policy management to help maintain macroeconomic stability",
+                "text": "In that context, the SBV had identified two key political tasks: maintaining inflation control and macroeconomic stability, and promoting credit ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "published_time": "2024-07-24T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.sbv.gov.vn/vi/web/sbv_portal/w/sbv638416",
+                "title": "SBV been managing to operate monetary policy in flexible manner ...",
+                "text": "SBV been managing to operate monetary policy in flexible manner, in line with practical developments, helping to control inflation and ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "published_time": "2025-06-20T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbv.gov.vn/w/sbv598016",
+                "title": "Prime Minister Pham Minh Chinh chairs a meeting on monetary ...",
+                "text": "On May 16, 2024, Prime Minister Pham Minh Chinh chaired a meeting on the monetary policy and the fiscal policy to continue implementing the ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "published_time": "2024-05-21T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.sbv.gov.vn/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "news",
       "search_result": [
         {
@@ -16,25 +145,41 @@
                 "position": 1
               },
               {
-                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/news/Latestnews/;jsessionid=mXNHvrvR4I1RZuF17Cp3BZNxpBP-OU5-PcKDjoRSbp_OEC415clh!-2000942140!20671555?dDocName=SBV289215&p=2",
-                "title": "Latest News",
-                "text": "Deputy Governor Pham Tien Dzung joins Deputy Prime Minister Nguyen Hoa Binh's working visit to Europe · Deputy Governor Nguyen Ngoc Canh meets IMF's Resident ...",
+                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sm/prerel/otherpre/;jsessionid=ywz5MFLDTISktXxqgiIxiuLcVqObqx6sTRGIoiPrdmxcKmVzzb7q!886119561!386058785?dDocName=SBV483614&p=16",
+                "title": "Other Press Releases",
+                "text": "Other Press Releases. 1. Other Press Releases. Weekly Information on Banking Operations · Other Press Releases · Press Release on issuance of Circular ...",
                 "source": "State Bank of Vietnam",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/news/Latestnews/;jsessionid=Hq1MNhg6TyrRa3wYbwhGGBs2X43XX-m6DQG1V5lzVynlEta3lGt5!20671555!-2000942140?dDocName=SBV288786&p=2",
+                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/news/Latestnews/;jsessionid=mXNHvrvR4I1RZuF17Cp3BZNxpBP-OU5-PcKDjoRSbp_OEC415clh!-2000942140!20671555?dDocName=SBV289215&p=2",
                 "title": "Latest News",
                 "text": "Deputy Governor Pham Tien Dzung joins Deputy Prime Minister Nguyen Hoa Binh's working visit to Europe · Deputy Governor Nguyen Ngoc Canh meets IMF's Resident ...",
                 "source": "State Bank of Vietnam",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/news/Latestnews/;jsessionid=Nhcvh2cWTt_XzLFy7cM9klQ6XUCaojLKtFcatcDqaYhf6penPsK0!-1884756759!2002107570?dDocName=SBV294846&p=3",
+                "title": "Latest News",
+                "text": "Deputy Governor Nguyen Ngoc Canh meets IMF's Resident Representative for Vietnam, Cambodia and Lao PDR. On March 21, 2025, at the headquarters of the State Bank ...",
+                "source": "Ngân Hàng Nhà Nước Việt nam",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sm/prerel/otherpre/;jsessionid=DYwDyCeM8gpWJcqH-I9F6AcCSz16DMXFIsB1VRwidtoNzNs_uYES!1319407843!-1943373754?dDocName=SBV469409&p=13",
+                "title": "Other Press Releases - NHNN",
+                "text": "Other Press Releases. 1. Other Press Releases. Weekly Information on Banking Operations · Other Press Releases · Press release on issuance of Circular ...",
+                "source": "NHNN",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAY1BMVEVHcEyzmnmLXACHVwCAVQC5oYO9qIzIt6GffEq9p4ykhFekhVmkhFiHVwDFs5v////JuKLi2c/BrZPm39bt5+C8porUxrW3n4CwlXL6+PbZzb+eekepi2P08e3f1MjOvqylhlrTUxSLAAAADnRSTlMAviw3CdTp5XashoaFNl/mBTUAAAEsSURBVCiRVVLbssMgCLTttEnOBRFRvOv/f+Uxac803RcZVhF2UeqF67otC8GybOtVfeIHgUIpIYcSEPDrRK1IWXJHR9k5IBmE6z93hxBAAMCn5mGWyH3A/ck9hJxDw1FrbbSObCB0kMfOXVwWMjujNbfjiAYLuItSvziQ+Mjp5pN/Row54E1tjpzlZHbUauMRNGuFwqaWLBgjW3uQpho7wTUC5kVBEdTRzoK+1+Rr9yklWzWWAmoZHmK03feO3InRz1tmvmxjUZuUYjVzTa3Z5rm1VJmjLUM2dcOQac8fTR5tz98THd3OOVFmv/oEtiJ+n3NXyLkCT4X0U6Ehjh4vbXE6kR1NbZNHkjK1x/vJlemGOMmFpiMY4O3KxDcAummN4Ajw6ed7E4jOm/AH2XcgVlz1oPUAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.sbv.gov.vn/webcenter/portal/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.sbv.gov.vn/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]

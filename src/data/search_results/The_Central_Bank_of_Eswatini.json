@@ -8,12 +8,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.centralbank.org.sz/annual-report/",
+                "title": "Annual Reports - Central Bank of Eswatini",
+                "text": "Online Annual Integrated Reports · Annual Economic Review Report: 2024 – 2025 · Annual Economic Review Report: 2023 – 2024 · Annual Economic Review Report: 2022 – ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://www.centralbank.org.sz/reports/",
                 "title": "Reports - Central Bank of Eswatini",
                 "text": "Annual Reports · Quarterly Reports · Bi-Monthly Reports · Monthly Reports · Financial Markets · Financial Regulation · Fintech · Assets & Liabilities.",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.centralbank.org.sz/quarterly-reports/",
@@ -21,7 +29,7 @@
                 "text": "Quarterly Reports ; 2025. March ; 2024. December · September · June · March ; 2023. December · September · June · March ; 2022. December · September · June · March.",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.centralbank.org.sz/consolidated-reports/",
@@ -29,16 +37,25 @@
                 "text": "Consolidated Reports · December 2017 · Bankers-August-2017 · Bankers-July-2017 · Bankers-March-2017 · Bankers-February-2017 · Bankers-January-2017.",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.org.sz/financial-stability-report/",
+                "title": "Financial Stability Reports - Central Bank of Eswatini",
+                "text": "Financial Stability Report June 2023 · Financial Stability Report June 2022 · Financial Stability Report June 2021 · Financial Stability Report June 2020.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Publications reports publications reports pdf",
             "Publications reports publications reports 2022",
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.centralbank.org.sz/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.centralbank.org.sz/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,12 +67,36 @@
           "results": {
             "web": [
               {
+                "url": "https://www.centralbank.org.sz/research-statistics/",
+                "title": "Research - Central Bank of Eswatini",
+                "text": "The Bank publishes statistics on the real monetary, financial and fiscal sector which are relevant to economic policy and its regulatory responsibilities.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://www.centralbank.org.sz/research-bulletin/",
                 "title": "Research Bulletin - Central Bank of Eswatini",
                 "text": "Research Bulletin ; 2024. Volume 8 - May 2024 ; 2022. Volume 6 - March 2022 ; 2021. Volume 5 - March 2021 ; 2020. Volume 4 - March 2020 ; 2019. Volume 3 - March 2019.",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/August2015-min.pdf",
+                "title": "MONEY AND BANKING STATISTICS",
+                "text": "The content of this publication is intended for general information sharing purposes only and is not intended to serve as financial or other advice.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/MRSSeptOct2016-min.pdf",
+                "title": "MONEY AND BANKING STATISTICS",
+                "text": "Gross Official Reserves amounted to E8.2 billion at the end of October 2016, lower than the E7.5 billion recorded in September 2016.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 4
               },
               {
                 "url": "https://www.centralbank.org.sz/research-bulletin-volume-8-may-2024/",
@@ -64,15 +105,7 @@
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
                 "published_time": "2024-07-10T00:00:00",
-                "position": 2
-              },
-              {
-                "url": "https://www.centralbank.org.sz/events/data-analytics/",
-                "title": "Data Analytics - Central Bank of Eswatini",
-                "text": "Time. 1 (Sunday) 9:03 am - 30 (Monday) 9:03 am. CalendarGoogleCal. Comments are closed. Contact. Mahlokohla Street Mbabane, Eswatini",
-                "source": "Central Bank of Eswatini",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 5
               }
             ]
           },
@@ -82,7 +115,7 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.centralbank.org.sz/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.centralbank.org.sz/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -102,30 +135,49 @@
                 "position": 1
               },
               {
-                "url": "https://www.centralbank.org.sz/consumer-related-laws-and-regulations/",
-                "title": "Consumer related laws and regulations - Central Bank of Eswatini",
-                "text": "Consumer related laws and regulations: CBE Guideline on Banking Practice 2018, CBE Guideline on KFS, CCA Amendment Act, Legal Notice 62 of 2016, Legal Notice ...",
-                "source": "Central Bank of Eswatini",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 2
-              },
-              {
                 "url": "https://www.centralbank.org.sz/monetary-policy-statements-2/",
                 "title": "Monetary Policy Statements - Central Bank of Eswatini",
                 "text": "Monetary Policy Statements; Governor's Annual Monetary Policy Statements. 2025. MPCC Statement - 30 May 2025 · MPCC Statement - 21 Mar 2025.",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.sz/consumer-related-laws-and-regulations/",
+                "title": "Consumer related laws and regulations - Central Bank of Eswatini",
+                "text": "Consumer related laws and regulations: CBE Guideline on Banking Practice 2018, CBE Guideline on KFS, CCA Amendment Act, Legal Notice 62 of 2016, Legal Notice ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/NPSOversightPolicyFramework-March2019.pdf",
+                "title": "NPSS Oversight Policy Framework - Central Bank of Eswatini",
+                "text": "Acronym. Definition of Acronym. ACH. Automated Clearing House. BIS. Bank for International Settlement. CBE. Central Bank of Eswatini.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.org.sz/governors-annual-monetary-policy-statement-2025/",
+                "title": "Governors Annual Monetary Policy Statement 2025 – Central Bank",
+                "text": "Governors Annual Monetary Policy Statement 2025 · Related posts · CBE releases updated E20 and E10 · Licensing of Letshego Eswatini Bank (LEB) ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-22T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations examples",
             "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.centralbank.org.sz/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.centralbank.org.sz/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -137,20 +189,28 @@
           "results": {
             "web": [
               {
-                "url": "https://www.centralbank.org.sz/speeches/",
-                "title": "Speeches - Central Bank of Eswatini",
-                "text": "Deputy Governor's Opening Remarks CMA ExchangeControl Quarterly Meeting - June 2025 ; Deputy Governor's Speech - Global Money Week Education Fair March 2025.",
-                "source": "Central Bank of Eswatini",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 1
-              },
-              {
                 "url": "https://www.centralbank.org.sz/press-statements/",
                 "title": "Press Statements - Central Bank of Eswatini",
                 "text": "The Central Bank of Eswatini would like to warn the public about a fraudulent message that is currently doing the rounds.",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.sz/speeches/",
+                "title": "Speeches - Central Bank of Eswatini",
+                "text": "Speeches ; Deputy Governor's Opening Remarks CMA ExchangeControl Quarterly Meeting - June 2025 ; Deputy Governor's Speech - Global Money Week Education Fair March ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
                 "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.sz/category/news/page/34/",
+                "title": "News – Page 34 - Central Bank of Eswatini",
+                "text": "News · Recent Economic Development: Jan – Feb 25 · Johannesburg Stock Exchange (JSE) Award · Eswatini CMA Retail EFT Payment Directive · Monthly Statistical Release ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 3
               },
               {
                 "url": "https://www.centralbank.org.sz/category/press-statements/page/7/",
@@ -158,7 +218,15 @@
                 "text": "The Central Bank of Eswatini has sent its congratulatory message to the Macroeconomic and Financial Management Institute of Eastern and Southern Africa (MEFMI) ...",
                 "source": "Central Bank of Eswatini",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/July2014-copy.pdf",
+                "title": "New Press Release Template (Swazi Observer) - Central Bank of Eswatini",
+                "text": "The underlying rationale for the MPCC to increase the discount rate was supported by key economic indicators in the local economy. These include the recent ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -168,7 +236,197 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.centralbank.org.sz/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.centralbank.org.sz/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/Volume1.pdf",
+                "title": "RESEARCH BULLETIN VOLUME 1 - Central Bank of Eswatini",
+                "text": "Research work from all departments of the Bank will now be published in this platform. The current publication collates research work that has been undertaken ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2024/09/Job-Advert-Final.pdf",
+                "title": "DEPUTY DIRECTOR RESEARCH: BALANCE OF PAYMENTS (BOP ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.org.sz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///de6a30b858510e177077f9cc15e71ecaef3c30159487ddf4e32c98d3fc311c0b",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/04/Research-Bulletin-Volume-6-March-2022.pdf",
+                "title": "Research Bulletin",
+                "source": "Central Bank of Eswatini",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.org.sz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///c7be3d7371e19ed9f5a268a26ec626011e7a8df44f1c317d6fcd0e8e2881e99c",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022"
+          ],
+          "query": {
+            "q": "site:http://www.centralbank.org.sz/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.sz/latest-updates/",
+                "title": "Latest Updates - Central Bank of Eswatini",
+                "text": "The Central Bank of Eswatini (CBE) is pleased to announce the decision to grant a provisional license to a new entrant in the banking space꞉ Letshego […].",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.sz/umntsholi-news/",
+                "title": "Latest Updates - Central Bank of Eswatini",
+                "text": "The Central Bank of Eswatini (CBE) is pleased to announce the decision to grant a provisional license to a new entrant in the banking space.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.sz/umntsholi-news/page/3/",
+                "title": "Latest Updates – Page 3 - Central Bank of Eswatini",
+                "text": "Latest Updates · Monthly Statistical Release February – March 2025 · Eswatini CMA Retail EFT Payment Directive · Johannesburg Stock Exchange (JSE) Award · Recent ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.org.sz/umntsholi-news/page/9/",
+                "title": "Latest Updates – Page 9 - Central Bank of Eswatini",
+                "text": "Latest Updates · MPCC Statement: 19 July 2024 · RED May – June 2024 · Research Bulletin Volume 8 – May 2024 · Monthly Statistical Releases : May – Jun 2024 · Annual ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.org.sz/umntsholi-news/page/7/",
+                "title": "Latest Updates – Page 7 - Central Bank of Eswatini",
+                "text": "Latest Updates · MPCC Statement – 20 Sept 2024 · Recent Economic Developments (RED) · Monthly Statistical Release : Jul – Aug 2024 · Bonds Advert – Sep 2024 · Annual ...",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates stock exchange"
+          ],
+          "query": {
+            "q": "site:http://www.centralbank.org.sz/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.sz/coupon-payment-notices/",
+                "title": "Coupon Payment Notices – Central Bank",
+                "text": "Coupon Payment Notices. 2020 Quarterly Review. 2020-December-Quarterly Review. 2020-June-Quartely-Review. 2020-September-Quarterly Review.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.sz/coupon-payment-notices-2/",
+                "title": "Coupon Payment Notices – Central Bank",
+                "text": "Coupon Payment Notices. Home; Coupon Payment Notices. SG009Notice30Nov2014 · SG011-31JUL2014 · SG011Notice_Jan2015 · SG013Notice_19JUN2015.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.centralbank.org.sz/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/March2014-optimized.pdf",
+                "title": "Confidential Communication template",
+                "source": "Central Bank of Eswatini",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.org.sz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///a371d6321fb315c97d855bd9d45aca0379642a69817f10319aa9bccd01d29dd6",
+                "published_time": "2014-03-13T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/June2014-optimized.pdf",
+                "title": "Confidential Communication template",
+                "source": "Central Bank of Eswatini",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.org.sz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///61c7f8d1859e08189f7a26be8854fa502da209d2c0eb5977637b3cec9b8920ef",
+                "published_time": "2014-06-30T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/June2014-optimized.pdf",
+                "title": "Confidential Communication template",
+                "source": "Central Bank of Eswatini",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.org.sz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///92aa52852371e92c8187ed39901785e2bccfec86f1b2b32a6c1c264517e101d3",
+                "published_time": "2014-06-30T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/September2014-optimized.pdf",
+                "title": "Confidential Communication template",
+                "source": "Central Bank of Eswatini",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.org.sz&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///e925218f596eb554ad89f00e43cef8235b119f1ab2e58474cfd2ccd25a842474",
+                "published_time": "2014-09-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/03/December2013-optimized.pdf",
+                "title": "Confidential Communication template - Central Bank of Eswatini",
+                "text": "2004. 2005. 2006. 2007. 2008. 2009. 2010. 2011. 2012. 2013. REAL SECTOR #. Nominal GDP E' Million/1. 15,636.43. 16,433.04. 19,962.02.",
+                "source": "Central Bank of Eswatini",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEzWkijWkirXkyvWkyvWkyvYlCrUkirVkirUkSrPjinWkytTQzQnLTsyMTgnLTzXkysmLDsnLDo1MzgpLzwqLToqLzwpLjwqLz0YJzwlLDsg29K8AAAAG3RSTlMALorR6P+dQmVXG7QPYi6BdLOMHvM7/8r/6qA0DTfVAAABTUlEQVR4AXXOi66cIBRA0Y284ciAjNrO/39okdwY02mX5ijuBOSmFm2stdp5/haMcVGlpOJi7MJTMtpzU9lGbtE+0szG3VtqvuTM5L/arI5BDP+kI5AVrGtZXzFnH3KltLbK1sRAcvT3CrTd2oCxlfexwUmtLEl+nQx9Rm3diC/YOxpHG++TtdVbnZixw0LlONY7pmz8jOsOCvWM4Rrq9/Eq58403h9xHHp9kMK0Hud3pHSm89i5aFvntu3Y4CUwbe9X2YWkc8omIucp6yFAAkH20QSSmkukdGEIbJ/P1j6tnGOs494+rW2tFRKV3kV676WMIUVkPMfsQiBKL3sJbqnjisuPcp1TkcB/KA8x3cvktPKKH/Uel2itTSTPFBKDjCraqGhd1iEEH71PeM+UKj54H2aMIYUY02yTeG88c1s1FhiH4iEwqGySf/zjH0y9EZTkLvUxAAAAAElFTkSuQmCC",
+                "published_time": "2013-12-03T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.centralbank.org.sz/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

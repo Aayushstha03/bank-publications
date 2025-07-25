@@ -5,7 +5,7 @@
       {
         "url": "https://www.nationalbanken.dk/en/research/publications",
         "title": "Publications - Danmarks Nationalbank",
-        "text": "Publications. Economists in the Research Unit produce high-quality research published in refereed journals and participate in the international academic and ...",
+        "text": "Publications. Economists in the Research Unit produce high-quality research published in refereed journals and participate in ...",
         "listing_probability": 0.95
       },
       {
@@ -13,6 +13,24 @@
         "title": "Publications and announcements - Danmarks Nationalbank",
         "text": "Read publications and announcements on government debt. Latest publications. See more publications (on Danmarks Nationalbank's main website)",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2023/danish-government-borrowing-and-debt-2022",
+        "title": "Danish Government Borrowing and Debt 2022 - Danmarks Nationalbank",
+        "text": "A government budget surplus reduced central government debt by approximately kr. 115 billion to kr. 323 billion at the end of 2022, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/report/2025/oversight-of-the-financial-infrastructure-2024",
+        "title": "Oversight of the financial infrastructure 2024 - Danmarks Nationalbank",
+        "text": "Danmarks Nationalbank oversees the systems and solutions in the Danish financial infrastructure that enable consumers and businesses to exchange payments and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/search-our-knowledge-archive?type=Other+publications",
+        "title": "Search the knowledge archive - Danmarks Nationalbank",
+        "text": "The knowledge archive is the complete archive of all previous publications, speeches, press releases, etc. by Danmarks Nationalbank.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -23,13 +41,25 @@
         "url": "https://www.nationalbanken.dk/en/research/research-data",
         "title": "Research data - Danmarks Nationalbank",
         "text": "The statistics include stock data for assets and liabilities, as well as balances, calculated at the end of each quarter and broken down by instrument and ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.15
       },
       {
-        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/banking-and-mortgage-lending/microdata-for-banking-and-mortgage-lending/20250626-ny-statistik-om-bank-og-realkreditlaan-paa-virksomhedsstoerrelser",
-        "title": "New statistics on banking and mortgage loans by corporate size",
-        "text": "Danmarks Nationalbank is now publishing a new statistics for banking and mortgage lending based on microdata from the Credit register.",
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/financial-wealth-and-debt",
+        "title": "Financial wealth and debt - Danmarks Nationalbank",
+        "text": "The statistics on financial wealth and debt can provide insight into how companies are financed, among other insights. Have they issued shares or bonds or ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/payments",
+        "title": "Payments - Danmarks Nationalbank",
+        "text": "Quarterly statistics providing an overview of the payment market in Denmark, e.g. credit transfers, ATMs, card terminals and the use of payment cards.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters",
+        "title": "For reporters - Danmarks Nationalbank",
+        "text": "Danmarks Nationalbank uses the data reported by both financial and non-financial companies as a basis for preparing a ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -40,18 +70,18 @@
         "url": "https://www.nationalbanken.dk/en/what-we-do/stable-prices-monetary-policy-and-the-danish-economy/monetary-policy-instruments",
         "title": "Learn about monetary policy instruments - Danmarks Nationalbank",
         "text": "The monetary policy interest rates are the current account rate, the lending rate and the certificate of deposit rate and are linked to the loan and placement ...",
-        "listing_probability": 0.1
-      },
-      {
-        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters/revision-policy",
-        "title": "Revision policy - Danmarks Nationalbank",
-        "text": "Revision policy. Danmarks Nationalbank's revision policy is one element of the task of publishing reliable, relevant and consistent financial statistics.",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.nationalbanken.dk/en/frequently-asked-questions/questions-regarding-fixed-exchange-rate-policy",
         "title": "Questions regarding fixed exchange rate policy - Danmarks Nationalbank",
         "text": "Here you can find answers to a number of questions regarding fixed exchange rate policy.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/for-reporters/revision-policy",
+        "title": "Revision policy - Danmarks Nationalbank",
+        "text": "Revision policy. Danmarks Nationalbank's revision policy is one element of the task of publishing reliable, relevant and consistent financial statistics.",
         "listing_probability": 0.05
       }
     ]
@@ -60,22 +90,34 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.nationalbanken.dk/en/rss-feeds",
+        "title": "News from Danmarks Nationalbank as RSS feeds",
+        "text": "Get news from Danmarks Nationalbank as RSS feeds. We offer many different feeds that give you the latest news within different types of content.",
+        "listing_probability": 0.05
+      },
+      {
         "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-conferences",
         "title": "Press conferences - Danmarks Nationalbank",
         "text": "Danmarks Nationalbank conducts two press conferences a year, where we present the outlook for the Danish economy and the development and assessment of monetary ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/speeches/2024/press-presentation-25-september-2024",
-        "title": "Press presentation 25 September 2024 - Danmarks Nationalbank",
-        "text": "See the most recent presentations and speeches ; Signe Krogstrup2 [Portræt] · Climate. 19 June 2025 ; Ulrik Nødgaard1 · Cyber security. 28 May 2025.",
-        "listing_probability": 0.85
+        "url": "https://www.nationalbanken.dk/en/search-our-knowledge-archive?type=statistical+news",
+        "title": "Search the knowledge archive - Danmarks Nationalbank",
+        "text": "The knowledge archive is the complete archive of all previous publications, speeches, press releases, etc. by Danmarks Nationalbank.",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.nationalbanken.dk/en/news-service",
         "title": "News service - Danmarks Nationalbank",
         "text": "News service. Sign up and receive news from Danmarks Nationalbank. When you sign up via the form, we will send an e-mail with a confirmation link.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/speeches/2024/press-presentation-25-september-2024",
+        "title": "Press presentation 25 September 2024 - Danmarks Nationalbank",
+        "text": "See the most recent presentations and speeches ; Signe Krogstrup2 [Portræt] · Climate. 19 June 2025 ; Ulrik Nødgaard1 · Cyber security. 28 May 2025.",
+        "listing_probability": 0.2
       }
     ]
   },
@@ -83,10 +125,56 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.nationalbanken.dk/en/research",
-        "title": "Research in Danmarks Nationalbanken",
-        "text": "We are an independent research unit established in 2016. We support the policy decisions of Danmarks Nationalbank by providing a conceptual framework to assess ...",
-        "listing_probability": 0.9
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2021/working-paper-house-prices-increasing-returns-and-the-effects-of-government-spending-shocks",
+        "title": "Working Paper: House Prices, Increasing Returns, and the Effects ...",
+        "text": "We report new regional evidence indicating that U.S. house prices increase after positive shocks to fiscal spending.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/government-debt/publications-and-announcements",
+        "title": "Publications and announcements - Danmarks Nationalbank",
+        "text": "Read publications and announcements on government debt. Latest publications. See more publications (on Danmarks Nationalbank's main website)",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/market-announcements/2025/the-government-has-issued-a-2-year-bond-in-us-dollar",
+        "title": "The government has issued a 2-year bond in US dollar",
+        "text": "On 24 June 2025, the government issued a bond in US dollar maturing on 1 July 2027. The bond was issued as a bullet bond with a coupon of 3.875 per cent.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/market-announcements/2025/issuance-strategy-for-2025-is-unchanged-despite-government-financing-of-kommunekredit",
+        "title": "Issuance strategy for 2025 is unchanged despite government ...",
+        "text": "In 2025, the central government will finance KommuneKredit by drawing on the central-government account at Danmarks Nationalbank.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/market-announcements/2025/opening-of-new-10-year-benchmark-bond-on-5-february-2025",
+        "title": "Opening of new 10-year benchmark bond on 5 February 2025",
+        "text": "On 5 February 2025, the Kingdom of Denmark will issue a new DGB 2.25 per cent 2035 via auction.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nationalbanken.dk/en/government-debt/publications-and-announcements/repository-central-government-borrowing-and-debt",
+        "title": "Repository - Central government borrowing and debt",
+        "text": "Each year, the debt management office releases a report on the central government's borrowing and debt. This report provides a detailed review of the borrowing ...",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2022/corporate-climate-communication-is-not-associated-with-fewer-emissions",
+        "title": "Corporate climate communication is not associated with fewer emissions",
+        "text": "Companies are communicating more and more about efforts aimed at reducing their greenhouse gas emissions. However, there is no correlation ...",
+        "listing_probability": 0.05
       }
     ]
   }

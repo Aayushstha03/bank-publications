@@ -2,22 +2,104 @@
   "Bank Name": "Bank of Uganda",
   "search_results": [
     {
-      "topic": "monetary_policy",
+      "topic": "publications",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.bou.or.ug/bou/bou-downloads/research/BouWorkingPapers/2018/All/Modelling-Monetary-and-Fiscal-Policy-coordination-in-LICs-the-case-of-Uganda.pdf",
-                "title": "Bank of Uganda - NRU",
-                "text": "Working papers describe on-going research by the author(s) and are published to elicit comments and to further debate. The views expressed in the working ...",
+                "url": "https://www.bou.or.ug/bou/bou-downloads/publications/Annual_Reports/Rprts/All/Annual-Report-2009-2010.pdf",
+                "title": "Annual-Report-2009-2010.pdf",
+                "source": "Bank of Uganda",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAEnUlEQVR4AWJwL/ChKR4cFuzeuFTh3p0bnHf2bdB69eSh8uqeClEQn2oW3Lqw7fWzBwDWyjG6kiyKwjW2bdtt23ZsO1mxvV5s23bStse2bdt7+kuvl7H7xyncW/fsffZBbVWM/TJt668Vz4AdUYmeeex5pxKrM7Spqf452P8niTjYGLF0Z68pqHljebzXL/faMyPubsoMVn9phJDsl3sF/t7BtmNvv9/bck3iXwKEujkFOSxbooHiQG2tjhnwXLRo+tplC579Rj+e01QQiTR67O5mAd6cHl5Wn+yzf3NJuR3S1YbYatDkp7+NYNasWd0c7sx0/SDYzeMZb2urAfYGq0wPwZ4c8F1ZWsK0cIs5Pyb7OL8Q4WytB6qSVOhpafm3OTA731IVqcqUcKVEBsfVel773ppR56kgwvdHnCasmSSiQpYA+9XaWpOhzd63CeDfATQXpk8oqy6/f52jValFTNzthM+hffv3EbZwSHJjorzUWJz+IyDzbr3hq7Vj7lTuyitl8lwgIii0nfshDnsjrd1j161qqQgN7BuJYOvW9bNJYIXLeMU52jhT6+SDCJCkJ8XqR8cp58k1NFwTr70IE7lifzB81kuQJKKiVUs3Vt1+tjZ1N+8iml9JdLZhmB61vUJozQHWAIMR2sJ2694OmTLiNcdyhTKD/V8iarMjiqIzZu37gccZAow19kYAcgoyVuVcfpIO9pZ9aN4kVEBKk9OyK9zPUk5OEhHpDONouVhbvcG+mcxgb0/2kN8iBc2arD9MMjKBThQ5PvavoXVX3ChRntwrgmeIPLSEjtPdqTOFbBjrJaaYd2pnniTkWTNlYtkfApBgZLAxDJHYN557ShyGcX2qm3Dc2FCgwbo48UzC+xrzdHdfiRozUpU94RRBkLL+Q4Al8xbvhz0hEg1VAEBrTYpgShQ8byjy0EDyKJm7mkrraamIjk6IeHhgiqH4q84Rw/BXACSRENO9rEQFsHZ3XVnAjWcYmnGFoSlXnCKMSlp2x6laes3xI4acfM/wo6qIInDBnN2/AoD17kmGAEBH5EICwzBGnHKPsbheoQsvEs8+887XlUcdPsMsSp94ax9S7s1fIkAqi1N9hgHoVNhSQUjTkhj8MWPgkPOTZk2cKEBw/Ms7XU1EADDgINTmufQ+nObPuvULrK+iNHsYgJrNtFxcFTB5lA0LnYHWkUzTPcmeEeQFmWBMacKaOxGZAe4uS532QGFCU7Of8wucT+rvvSR82eLPKF/TqGsuMlikaX47Q6jrlNRkcgDjEQMAmQDx9XT/jGFH5//yLM4LAl0beDbYDJpws8m8ae5ghhf1Ti7Slx8GIRpY806FUZ5bomepyG7e3t8SZJRzN5CH4TXkb9eDLA+Wu82j7OjKHu/LRD80tHUL7e8wLhDGHPrs04/FPiRwBmvkxQ8JDxx3jSjX4SRvjTPEKKC+t9cHiR8ODTVQ6qBnH6oTP5n9W8rFlK0vttFzT/WJtYb0MWpKHCd6BAOw2eWQrzWGGJwjs4ghRTPt6YgXsx2jQzEc82/oq0gWYHxDs0EE45k1yAAGyW7PyWK2/TSat4uGhwUAajd/LgYBpuMAAAAASUVORK5CYII=",
                 "position": 1
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bou.or.ug/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bou.or.ug/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bou.or.ug/bouwebsite/Statistics/",
+                "source": "Bank of Uganda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAEnUlEQVR4AWJwL/ChKR4cFuzeuFTh3p0bnHf2bdB69eSh8uqeClEQn2oW3Lqw7fWzBwDWyjG6kiyKwjW2bdtt23ZsO1mxvV5s23bStse2bdt7+kuvl7H7xyncW/fsffZBbVWM/TJt668Vz4AdUYmeeex5pxKrM7Spqf452P8niTjYGLF0Z68pqHljebzXL/faMyPubsoMVn9phJDsl3sF/t7BtmNvv9/bck3iXwKEujkFOSxbooHiQG2tjhnwXLRo+tplC579Rj+e01QQiTR67O5mAd6cHl5Wn+yzf3NJuR3S1YbYatDkp7+NYNasWd0c7sx0/SDYzeMZb2urAfYGq0wPwZ4c8F1ZWsK0cIs5Pyb7OL8Q4WytB6qSVOhpafm3OTA731IVqcqUcKVEBsfVel773ppR56kgwvdHnCasmSSiQpYA+9XaWpOhzd63CeDfATQXpk8oqy6/f52jValFTNzthM+hffv3EbZwSHJjorzUWJz+IyDzbr3hq7Vj7lTuyitl8lwgIii0nfshDnsjrd1j161qqQgN7BuJYOvW9bNJYIXLeMU52jhT6+SDCJCkJ8XqR8cp58k1NFwTr70IE7lifzB81kuQJKKiVUs3Vt1+tjZ1N+8iml9JdLZhmB61vUJozQHWAIMR2sJ2694OmTLiNcdyhTKD/V8iarMjiqIzZu37gccZAow19kYAcgoyVuVcfpIO9pZ9aN4kVEBKk9OyK9zPUk5OEhHpDONouVhbvcG+mcxgb0/2kN8iBc2arD9MMjKBThQ5PvavoXVX3ChRntwrgmeIPLSEjtPdqTOFbBjrJaaYd2pnniTkWTNlYtkfApBgZLAxDJHYN557ShyGcX2qm3Dc2FCgwbo48UzC+xrzdHdfiRozUpU94RRBkLL+Q4Al8xbvhz0hEg1VAEBrTYpgShQ8byjy0EDyKJm7mkrraamIjk6IeHhgiqH4q84Rw/BXACSRENO9rEQFsHZ3XVnAjWcYmnGFoSlXnCKMSlp2x6laes3xI4acfM/wo6qIInDBnN2/AoD17kmGAEBH5EICwzBGnHKPsbheoQsvEs8+887XlUcdPsMsSp94ax9S7s1fIkAqi1N9hgHoVNhSQUjTkhj8MWPgkPOTZk2cKEBw/Ms7XU1EADDgINTmufQ+nObPuvULrK+iNHsYgJrNtFxcFTB5lA0LnYHWkUzTPcmeEeQFmWBMacKaOxGZAe4uS532QGFCU7Of8wucT+rvvSR82eLPKF/TqGsuMlikaX47Q6jrlNRkcgDjEQMAmQDx9XT/jGFH5//yLM4LAl0beDbYDJpws8m8ae5ghhf1Ti7Slx8GIRpY806FUZ5bomepyG7e3t8SZJRzN5CH4TXkb9eDLA+Wu82j7OjKHu/LRD80tHUL7e8wLhDGHPrs04/FPiRwBmvkxQ8JDxx3jSjX4SRvjTPEKKC+t9cHiR8ODTVQ6qBnH6oTP5n9W8rFlK0vttFzT/WJtYb0MWpKHCd6BAOw2eWQrzWGGJwjs4ghRTPt6YgXsx2jQzEc82/oq0gWYHxDs0EE45k1yAAGyW7PyWK2/TSat4uGhwUAajd/LgYBpuMAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bou.or.ug/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bou.or.ug/bouwebsite/bouwebsitecontent/Supervision/Supervision-Guidelines-and-Circulars/2022/Draft-Amendments-to-the-FI-Liquidity-Regulation-2005-and-Guidelines-on-ILAAP.pdf",
+                "title": "Draft-Amendments-to-the-FI-Liquidity ...",
+                "source": "Bank of Uganda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAEnUlEQVR4AWJwL/ChKR4cFuzeuFTh3p0bnHf2bdB69eSh8uqeClEQn2oW3Lqw7fWzBwDWyjG6kiyKwjW2bdtt23ZsO1mxvV5s23bStse2bdt7+kuvl7H7xyncW/fsffZBbVWM/TJt668Vz4AdUYmeeex5pxKrM7Spqf452P8niTjYGLF0Z68pqHljebzXL/faMyPubsoMVn9phJDsl3sF/t7BtmNvv9/bck3iXwKEujkFOSxbooHiQG2tjhnwXLRo+tplC579Rj+e01QQiTR67O5mAd6cHl5Wn+yzf3NJuR3S1YbYatDkp7+NYNasWd0c7sx0/SDYzeMZb2urAfYGq0wPwZ4c8F1ZWsK0cIs5Pyb7OL8Q4WytB6qSVOhpafm3OTA731IVqcqUcKVEBsfVel773ppR56kgwvdHnCasmSSiQpYA+9XaWpOhzd63CeDfATQXpk8oqy6/f52jValFTNzthM+hffv3EbZwSHJjorzUWJz+IyDzbr3hq7Vj7lTuyitl8lwgIii0nfshDnsjrd1j161qqQgN7BuJYOvW9bNJYIXLeMU52jhT6+SDCJCkJ8XqR8cp58k1NFwTr70IE7lifzB81kuQJKKiVUs3Vt1+tjZ1N+8iml9JdLZhmB61vUJozQHWAIMR2sJ2694OmTLiNcdyhTKD/V8iarMjiqIzZu37gccZAow19kYAcgoyVuVcfpIO9pZ9aN4kVEBKk9OyK9zPUk5OEhHpDONouVhbvcG+mcxgb0/2kN8iBc2arD9MMjKBThQ5PvavoXVX3ChRntwrgmeIPLSEjtPdqTOFbBjrJaaYd2pnniTkWTNlYtkfApBgZLAxDJHYN557ShyGcX2qm3Dc2FCgwbo48UzC+xrzdHdfiRozUpU94RRBkLL+Q4Al8xbvhz0hEg1VAEBrTYpgShQ8byjy0EDyKJm7mkrraamIjk6IeHhgiqH4q84Rw/BXACSRENO9rEQFsHZ3XVnAjWcYmnGFoSlXnCKMSlp2x6laes3xI4acfM/wo6qIInDBnN2/AoD17kmGAEBH5EICwzBGnHKPsbheoQsvEs8+887XlUcdPsMsSp94ax9S7s1fIkAqi1N9hgHoVNhSQUjTkhj8MWPgkPOTZk2cKEBw/Ms7XU1EADDgINTmufQ+nObPuvULrK+iNHsYgJrNtFxcFTB5lA0LnYHWkUzTPcmeEeQFmWBMacKaOxGZAe4uS532QGFCU7Of8wucT+rvvSR82eLPKF/TqGsuMlikaX47Q6jrlNRkcgDjEQMAmQDx9XT/jGFH5//yLM4LAl0beDbYDJpws8m8ae5ghhf1Ti7Slx8GIRpY806FUZ5bomepyG7e3t8SZJRzN5CH4TXkb9eDLA+Wu82j7OjKHu/LRD80tHUL7e8wLhDGHPrs04/FPiRwBmvkxQ8JDxx3jSjX4SRvjTPEKKC+t9cHiR8ODTVQ6qBnH6oTP5n9W8rFlK0vttFzT/WJtYb0MWpKHCd6BAOw2eWQrzWGGJwjs4ghRTPt6YgXsx2jQzEc82/oq0gWYHxDs0EE45k1yAAGyW7PyWK2/TSat4uGhwUAajd/LgYBpuMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bou.or.ug/bou/bou-downloads/research/BouWorkingPapers/2018/All/Modelling-Monetary-and-Fiscal-Policy-coordination-in-LICs-the-case-of-Uganda.pdf",
+                "title": "Bank of Uganda - NRU",
+                "text": "Working papers describe on-going research by the author(s) and are published to elicit comments and to further debate. The views expressed in the working ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAEnUlEQVR4AWJwL/ChKR4cFuzeuFTh3p0bnHf2bdB69eSh8uqeClEQn2oW3Lqw7fWzBwDWyjG6kiyKwjW2bdtt23ZsO1mxvV5s23bStse2bdt7+kuvl7H7xyncW/fsffZBbVWM/TJt668Vz4AdUYmeeex5pxKrM7Spqf452P8niTjYGLF0Z68pqHljebzXL/faMyPubsoMVn9phJDsl3sF/t7BtmNvv9/bck3iXwKEujkFOSxbooHiQG2tjhnwXLRo+tplC579Rj+e01QQiTR67O5mAd6cHl5Wn+yzf3NJuR3S1YbYatDkp7+NYNasWd0c7sx0/SDYzeMZb2urAfYGq0wPwZ4c8F1ZWsK0cIs5Pyb7OL8Q4WytB6qSVOhpafm3OTA731IVqcqUcKVEBsfVel773ppR56kgwvdHnCasmSSiQpYA+9XaWpOhzd63CeDfATQXpk8oqy6/f52jValFTNzthM+hffv3EbZwSHJjorzUWJz+IyDzbr3hq7Vj7lTuyitl8lwgIii0nfshDnsjrd1j161qqQgN7BuJYOvW9bNJYIXLeMU52jhT6+SDCJCkJ8XqR8cp58k1NFwTr70IE7lifzB81kuQJKKiVUs3Vt1+tjZ1N+8iml9JdLZhmB61vUJozQHWAIMR2sJ2694OmTLiNcdyhTKD/V8iarMjiqIzZu37gccZAow19kYAcgoyVuVcfpIO9pZ9aN4kVEBKk9OyK9zPUk5OEhHpDONouVhbvcG+mcxgb0/2kN8iBc2arD9MMjKBThQ5PvavoXVX3ChRntwrgmeIPLSEjtPdqTOFbBjrJaaYd2pnniTkWTNlYtkfApBgZLAxDJHYN557ShyGcX2qm3Dc2FCgwbo48UzC+xrzdHdfiRozUpU94RRBkLL+Q4Al8xbvhz0hEg1VAEBrTYpgShQ8byjy0EDyKJm7mkrraamIjk6IeHhgiqH4q84Rw/BXACSRENO9rEQFsHZ3XVnAjWcYmnGFoSlXnCKMSlp2x6laes3xI4acfM/wo6qIInDBnN2/AoD17kmGAEBH5EICwzBGnHKPsbheoQsvEs8+887XlUcdPsMsSp94ax9S7s1fIkAqi1N9hgHoVNhSQUjTkhj8MWPgkPOTZk2cKEBw/Ms7XU1EADDgINTmufQ+nObPuvULrK+iNHsYgJrNtFxcFTB5lA0LnYHWkUzTPcmeEeQFmWBMacKaOxGZAe4uS532QGFCU7Of8wucT+rvvSR82eLPKF/TqGsuMlikaX47Q6jrlNRkcgDjEQMAmQDx9XT/jGFH5//yLM4LAl0beDbYDJpws8m8ae5ghhf1Ti7Slx8GIRpY806FUZ5bomepyG7e3t8SZJRzN5CH4TXkb9eDLA+Wu82j7OjKHu/LRD80tHUL7e8wLhDGHPrs04/FPiRwBmvkxQ8JDxx3jSjX4SRvjTPEKKC+t9cHiR8ODTVQ6qBnH6oTP5n9W8rFlK0vttFzT/WJtYb0MWpKHCd6BAOw2eWQrzWGGJwjs4ghRTPt6YgXsx2jQzEc82/oq0gWYHxDs0EE45k1yAAGyW7PyWK2/TSat4uGhwUAajd/LgYBpuMAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bou.or.ug/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bou.or.ug/bouwebsite/bouwebsitecontent/FinancialMarkets/tbond_Results/2025/JAN/Press-Release-Report-for-the-2-YR-5-YR-15-YR-T-Bonds-08-JAN-2025.pdf",
+                "source": "Bank of Uganda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAEnUlEQVR4AWJwL/ChKR4cFuzeuFTh3p0bnHf2bdB69eSh8uqeClEQn2oW3Lqw7fWzBwDWyjG6kiyKwjW2bdtt23ZsO1mxvV5s23bStse2bdt7+kuvl7H7xyncW/fsffZBbVWM/TJt668Vz4AdUYmeeex5pxKrM7Spqf452P8niTjYGLF0Z68pqHljebzXL/faMyPubsoMVn9phJDsl3sF/t7BtmNvv9/bck3iXwKEujkFOSxbooHiQG2tjhnwXLRo+tplC579Rj+e01QQiTR67O5mAd6cHl5Wn+yzf3NJuR3S1YbYatDkp7+NYNasWd0c7sx0/SDYzeMZb2urAfYGq0wPwZ4c8F1ZWsK0cIs5Pyb7OL8Q4WytB6qSVOhpafm3OTA731IVqcqUcKVEBsfVel773ppR56kgwvdHnCasmSSiQpYA+9XaWpOhzd63CeDfATQXpk8oqy6/f52jValFTNzthM+hffv3EbZwSHJjorzUWJz+IyDzbr3hq7Vj7lTuyitl8lwgIii0nfshDnsjrd1j161qqQgN7BuJYOvW9bNJYIXLeMU52jhT6+SDCJCkJ8XqR8cp58k1NFwTr70IE7lifzB81kuQJKKiVUs3Vt1+tjZ1N+8iml9JdLZhmB61vUJozQHWAIMR2sJ2694OmTLiNcdyhTKD/V8iarMjiqIzZu37gccZAow19kYAcgoyVuVcfpIO9pZ9aN4kVEBKk9OyK9zPUk5OEhHpDONouVhbvcG+mcxgb0/2kN8iBc2arD9MMjKBThQ5PvavoXVX3ChRntwrgmeIPLSEjtPdqTOFbBjrJaaYd2pnniTkWTNlYtkfApBgZLAxDJHYN557ShyGcX2qm3Dc2FCgwbo48UzC+xrzdHdfiRozUpU94RRBkLL+Q4Al8xbvhz0hEg1VAEBrTYpgShQ8byjy0EDyKJm7mkrraamIjk6IeHhgiqH4q84Rw/BXACSRENO9rEQFsHZ3XVnAjWcYmnGFoSlXnCKMSlp2x6laes3xI4acfM/wo6qIInDBnN2/AoD17kmGAEBH5EICwzBGnHKPsbheoQsvEs8+887XlUcdPsMsSp94ax9S7s1fIkAqi1N9hgHoVNhSQUjTkhj8MWPgkPOTZk2cKEBw/Ms7XU1EADDgINTmufQ+nObPuvULrK+iNHsYgJrNtFxcFTB5lA0LnYHWkUzTPcmeEeQFmWBMacKaOxGZAe4uS532QGFCU7Of8wucT+rvvSR82eLPKF/TqGsuMlikaX47Q6jrlNRkcgDjEQMAmQDx9XT/jGFH5//yLM4LAl0beDbYDJpws8m8ae5ghhf1Ti7Slx8GIRpY806FUZ5bomepyG7e3t8SZJRzN5CH4TXkb9eDLA+Wu82j7OjKHu/LRD80tHUL7e8wLhDGHPrs04/FPiRwBmvkxQ8JDxx3jSjX4SRvjTPEKKC+t9cHiR8ODTVQ6qBnH6oTP5n9W8rFlK0vttFzT/WJtYb0MWpKHCd6BAOw2eWQrzWGGJwjs4ghRTPt6YgXsx2jQzEc82/oq0gWYHxDs0EE45k1yAAGyW7PyWK2/TSat4uGhwUAajd/LgYBpuMAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bou.or.ug/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]

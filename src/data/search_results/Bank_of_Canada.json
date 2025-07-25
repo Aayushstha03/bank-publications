@@ -54,51 +54,37 @@
                 "position": 2
               },
               {
-                "url": "https://www.bankofcanada.ca/publications/",
-                "title": "Publications - Bank of Canada",
+                "url": "https://www.bankofcanada.ca/publications/mpr/",
+                "title": "Monetary Policy Report - Bank of Canada",
+                "text": "A quarterly report of the Bank of Canada's Governing Council, presenting the Bank's base-case projection for inflation and growth in the Canadian economy.",
                 "source": "Bank of Canada",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bankofcanada.ca/wp-content/uploads/2025/03/Annual-report_callout-2x1-1-500x250.jpg",
-                "sublinks": [
-                  {
-                    "title": "Browse all publications",
-                    "url": "https://www.bankofcanada.ca/publications/browse/"
-                  },
-                  {
-                    "title": "Monetary Policy Report",
-                    "url": "https://www.bankofcanada.ca/publications/mpr/"
-                  },
-                  {
-                    "title": "Annual Report and Quarterly...",
-                    "url": "https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/"
-                  },
-                  {
-                    "title": "Business Outlook Survey",
-                    "url": "https://www.bankofcanada.ca/publications/bos/"
-                  },
-                  {
-                    "title": "The Economy, Plain and Simple",
-                    "url": "https://www.bankofcanada.ca/publications/the-economy-plain-and-simple/"
-                  },
-                  {
-                    "title": "Financial Stability Report",
-                    "url": "https://www.bankofcanada.ca/publications/financial-stability-report/"
-                  },
-                  {
-                    "title": "Summary of deliberations",
-                    "url": "https://www.bankofcanada.ca/publications/summary-governing-council-deliberations/"
-                  }
-                ],
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/research/technical-reports/",
+                "title": "Technical reports - Bank of Canada",
+                "text": "Technical reports provide detailed descriptions of staff research project methodologies and model development.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/",
+                "title": "Annual Report and Quarterly Financial Report - Bank of Canada",
+                "text": "The Annual Report outlines the Bank's activities and achievements in 2024. It includes the financial statements and a message from Governor Tiff Macklem.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Publications reports publications reports pdf",
-            "Publications reports publications reports 2021"
+            "Publications reports publications reports 2022"
           ],
           "query": {
-            "q": "site:http://www.bankofcanada.ca/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bankofcanada.ca/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -110,33 +96,85 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bankofcanada.ca/rates/",
+                "title": "Statistics - Bank of Canada",
+                "text": "Find exchange rates, interest rates, price indexes, economic indicators and other statistical information.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "sublinks": [
+                  {
+                    "title": "Banking and financial statistics",
+                    "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/"
+                  },
+                  {
+                    "title": "Exchange rates",
+                    "url": "https://www.bankofcanada.ca/rates/exchange/"
+                  },
+                  {
+                    "title": "Interest rates",
+                    "url": "https://www.bankofcanada.ca/rates/interest-rates/"
+                  },
+                  {
+                    "title": "Daily exchange rates: Lookup",
+                    "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/"
+                  },
+                  {
+                    "title": "Daily exchange rates",
+                    "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/"
+                  },
+                  {
+                    "title": "Daily Digest",
+                    "url": "https://www.bankofcanada.ca/rates/daily-digest/"
+                  },
+                  {
+                    "title": "Historical noon and closing rates",
+                    "url": "https://www.bankofcanada.ca/rates/exchange/legacy-noon-and-closing-rates/"
+                  }
+                ],
+                "position": 1
+              },
+              {
                 "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/",
                 "title": "Banking and financial statistics - Bank of Canada",
                 "text": "Search our statistical data tables—a compilation of banking and financial indicators, including the Bank of Canada's assets and liabilities, credit and monetary ...",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
-                "position": 1
-              },
-              {
-                "url": "https://www.bankofcanada.ca/publications/historical-banking-financial-statistics-and-weekly-financial-statistics/",
-                "title": "Historical Banking Financial Statistics and Weekly Financial Statistics",
-                "text": "Access banking and financial statistics from January 2012 to May 2018. Starting with June 2018, the Banking and Financial Statistics (BFS) publication has been ...",
-                "source": "Bank of Canada",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/annual-report-2024/driving-decisions-with-data/",
-                "title": "Driving decisions with data - Bank of Canada",
-                "text": "In 2024, the Bank began publishing its Monetary Policy Report in a digital format. The interactive report allows Canadians to explore the data and statistics ...",
+                "url": "https://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/product-market-definitions/",
+                "title": "Product market: Definitions, graphs and data - Bank of Canada",
+                "text": "The output gap captures whether the economy is operating above or below its capacity. It is an important determinant of inflationary pressures.",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/historical-selected-credit-measures-formerly-e2/",
+                "title": "Historical selected credit measures (formerly E2) - Bank of Canada",
+                "text": "Data on consumer credit on the books of these lenders are available up to December 1978 in the Statistics Canada publication Consumer Credit (Catalogue 61-004).",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/bank-of-canada-assets-and-liabilities-weekly-formerly-b2/",
+                "title": "Bank of Canada assets and liabilities: Weekly (formerly B2)",
+                "text": "View or download the latest weekly data. For metadata and background information, see the notes. Typically published on Fridays by 14:30 ET.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
           "query": {
-            "q": "site:http://www.bankofcanada.ca/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bankofcanada.ca/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -148,38 +186,57 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/",
-                "title": "Monetary policy - Bank of Canada",
-                "text": "Learn about the objective of Canada's monetary policy and the main instruments used to implement it: the inflation-control target and the flexible exchange ...",
+                "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/renewing-canadas-monetary-policy-framework/",
+                "title": "Renewing Canada's monetary policy framework",
+                "text": "Every five years, the Bank of Canada and the Government of Canada review and renew the agreement on Canada's monetary policy framework.",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/lynx/implementing-monetary-policy/",
-                "title": "Implementing Monetary Policy in the Large Value Transfer System ...",
-                "text": "Renewing Canada's monetary policy framework. Every five years, the Bank of Canada and the Government of Canada review and renew the agreement on Canada's ...",
+                "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/",
+                "title": "Monetary policy - Bank of Canada",
+                "text": "Learn about the objective of Canada's monetary policy and the main instruments used to implement it: the inflation-control target and the flexible exchange ...",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/agreement-inflation-control-target/",
-                "title": "Agreements on the Monetary Policy Framework - Bank of Canada",
-                "text": "In 1991, the Bank of Canada and the Minister of Finance agreed on an inflation-control target framework to guide Canadian monetary policy.",
+                "url": "https://www.bankofcanada.ca/rates/indicators/key-variables/",
+                "title": "Summary of key monetary policy variables - Bank of Canada",
+                "text": "Key variables include inflation-control target, inflation indicators, monetary conditions, monetary aggregates, policy instrument, and overnight rate target.",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/2024/09/staff-discussion-paper-2024-14/",
+                "title": "Monetary Policy Governance: Bank of Canada Practices to Support Policy ...",
+                "text": "In this paper, we examine some desirable and some adverse outcomes associated with different governance structures.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/2024/07/mpr-2024-07-24/",
+                "title": "Monetary Policy Report—July 2024 - Bank of Canada",
+                "text": "Monetary policy is working to reduce price pressures in the Canadian economy. Core inflation is expected to ease gradually, while the path of CPI inflation ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "published_time": "2024-07-24T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
             "Policy regulations guidelines policy regulations examples",
-            "Policy regulations guidelines policy regulations 2021"
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.bankofcanada.ca/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bankofcanada.ca/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -199,34 +256,20 @@
                 "position": 1
               },
               {
+                "url": "https://www.bankofcanada.ca/press/speeches/webcasts/",
+                "title": "Webcasts - Bank of Canada",
+                "text": "The Bank provides live video and audio webcasts, when possible, of major speeches and press conferences presented by the Governor, Senior Deputy Governor and ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
                 "url": "https://www.bankofcanada.ca/press/",
                 "title": "Press - Bank of Canada",
                 "text": "St. John's, Newfoundland and Labrador Governor Tiff Macklem discusses how the trade conflict with the United States has affected the Canadian economy.",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
-                "sublinks": [
-                  {
-                    "title": "Press releases",
-                    "url": "https://www.bankofcanada.ca/press/press-releases/"
-                  },
-                  {
-                    "title": "Webcasts",
-                    "url": "https://www.bankofcanada.ca/press/speeches/webcasts/"
-                  },
-                  {
-                    "title": "Upcoming events",
-                    "url": "https://www.bankofcanada.ca/press/upcoming-events/"
-                  },
-                  {
-                    "title": "Media advisories",
-                    "url": "https://www.bankofcanada.ca/press/media-advisories/"
-                  },
-                  {
-                    "title": "Bank of Canada interest rate...",
-                    "url": "https://www.bankofcanada.ca/2025/04/fad-announcement-release-mpr-april-16-2025/"
-                  }
-                ],
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.bankofcanada.ca/press/press-releases/",
@@ -234,12 +277,20 @@
                 "text": "Recent Bank of Canada press releases include policy rate changes, museum awards, a new deputy governor appointment, and a review of pandemic policy actions.",
                 "source": "Bank of Canada",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/press/browse/",
+                "title": "Browse press - Bank of Canada",
+                "text": "Find press content by keyword, author, content type, location, source, topic or publication date. Contains Search Authors Content Types Locations Research ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bankofcanada.ca/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bankofcanada.ca/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -298,15 +349,201 @@
                 "text": "The report includes papers appearing in external publications and working papers published on the Bank of Canada's website. Page 2. 1 RESEARCH PUBLICATIONS.",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/2023/10/staff-analytical-note-2023-16/",
+                "title": "Machine learning for economics research: when, what and how ...",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofcanada.ca/wp-content/uploads/2023/10/Chart1-Published-research-papers-that-use-machine-learning2018%E2%80%9322.png",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/wp-content/uploads/2023/02/monthly-research-newsletter-december-2022.pdf",
+                "title": "Monthly Research Newsletter - December 2022",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///573764a897c83afaf9289c4c6ca1b0ae7575bbbc416da67a13802d65215e0b79",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2021"
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:http://www.bankofcanada.ca/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.bankofcanada.ca/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+                "title": "Bank of Canada publishes its 2025 schedule for policy interest rate ...",
+                "text": "The scheduled dates for the interest rate announcements for 2025 are as follows: Wednesday, January 29; Wednesday, March 12; Wednesday, April 16 ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "published_time": "2024-08-06T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+                "title": "Bank of Canada publishes its 2024 schedule for policy interest rate ...",
+                "text": "The Bank of Canada today published its 2024 schedule for policy interest rate announcements and the release of the quarterly Monetary Policy Report.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "published_time": "2023-07-27T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofcanada.ca/markets/market-operations-liquidity-provision/covid-19-actions-support-economy-financial-system/covid-19-key-announcements/",
+                "title": "COVID-19: Key announcements - Bank of Canada",
+                "text": "Access news on the Bank's actions to support the economy and financial system during the COVID‐19 pandemic.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+                "title": "Bank of Canada publishes 2023 schedule for interest rate ...",
+                "text": "All rate announcements will take place at 10:00 (ET). Dates for the 2023 publications of the Business Outlook Survey and Canadian Survey of Consumer ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "published_time": "2022-07-26T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/press/announcements/",
+                "title": "Announcements - Bank of Canada",
+                "text": "The Bank of Canada is pleased to announce this year's recipients of its scholarship awards for students with disabilities, Indigenous students, LGBTQ2S+ ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bankofcanada.ca/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofcanada.ca/email-alerts/",
+                "title": "Email alerts - Bank of Canada",
+                "text": "News and events, press releases, media advisories, market notices, digital currencies and fintech, PIVOT, Progam Term, repo operations, public speeches and ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofcanada.ca/markets/market-notices/",
+                "title": "Market notices - Bank of Canada",
+                "text": "Read our notices about financial market activities. Receive notification by email whenever new notices are added to the website.",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofcanada.ca/wp-content/themes/ews-build/misc/confirm-subscribe-email-alerts.html",
+                "title": "Email Alert Confirmation - Bank of Canada",
+                "text": "Email Alert Confirmation. This confirms your subscription to the Bank of Canada's Email Alerts. Unsubscribe. To unsubscribe from the email alert ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/email-alerts/",
+                "title": "Email alerts - Bank of Canada",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofcanada.ca/wp-content/uploads/2024/05/v20-promo-1920x960-1-500x250-1714655823.jpg",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/email-alerts/",
+                "title": "Email alerts - Bank of Canada",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofcanada.ca/wp-content/uploads/2022/01/default-og-image.jpg",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bankofcanada.ca/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofcanada.ca/wp-content/uploads/2022/05/swp2022-20.pdf",
+                "title": "Fed Chairs' Communication During Congressional Testimonies",
+                "text": "Fed Chairs' emotions (words, voice, face) during testimonies, measured by machine learning, affect financial markets, raising S&P500 and ...",
+                "source": "Bank of Canada",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEX///8AAAAjHyAYExUOBQhvbW4TDQ8cGBllYmPAwMCZl5jn5ubNzMx/fX4rJyhTUVJPTE3GxcY1MjI9OjscFxhZVlefnp/c29t5eHjT0tOnpaZraWlzcHElHyFDQEGysbEIAAAg56rOAAAA40lEQVR4AcWSBXLAIBAALwnuEPf8/5VlCtRdd+RkExy+Q/UKSdaZBmGMmlI9koQyDsAZJU8kpZQICUprBVKQWN5LY51z0rvQtsF5GQtriux6eEbfFWmfS1tkrZ9LXYYNAMMwTnKal2GOYRwGgHAv8eqbseHTxmPwK34kN+zrcefTxPex9nj7X2nyaju+bbzLqzVJHnFXQsyrXNUwqBhmIeLOD/gA/kxRLotM2emhYGjq+apKTUkNFFxIUV1X/iO4rJaTufP0SarbWU7HziVtBXUUVZZzLggRMdgK0Q5Vbz/Nb3ADt2USsqqJoyoAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofcanada.ca/wp-content/uploads/2022/05/swp2022-20.pdf",
+                "title": "More Than Words: Fed Chairs' Communication During ...",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///f83eb44995e7055c179139e35ae2ca92814d8fac84e4c0bbdd56e9e3909478ae",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofcanada.ca/wp-content/uploads/2012/02/wp2012-09.pdf",
+                "title": "Central Bank Communication or the Media's Interpretation ...",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///e9b812a76ccc8917f4a9e400cc00f6fc3967ecf068995b551ba48561a1195875",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankofcanada.ca/wp-content/uploads/2010/09/boivin3.pdf",
+                "title": "Data-Rich Short Term Forecasting Methods: Appeal and ...",
+                "source": "Bank of Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///4acca9669ba22e7c5945079f802e5f68c970d3c16f517fe92b73a8bc8f206820",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofcanada.ca/?p=238233",
+                "title": "Communication par la Banque du Canada des risques liés aux ...",
+                "source": "Banque du Canada",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankofcanada.ca&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.banqueducanada.ca/wp-content/uploads/2023/04/disclosure-climate-related-risks-2022-banner-1200x400.jpg",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bankofcanada.ca/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

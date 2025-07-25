@@ -2,6 +2,61 @@
   "Bank Name": "Central Bank of Paraguay",
   "search_results": [
     {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcp.gov.py/documents/20117/1379089/Press+release+CPM+June+2025_.pdf/7976ad9c-fd5e-85c0-459e-66cb7f30ec30?t=1750964688230",
+                "title": "June 24, 2025 At its last meeting, the Monetary Policy Committee (CPM ...",
+                "text": "In the United States, job creation in May surpassed expectations, while the unemployment rate remained at 4.2%. In the same month, ...",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "published_time": "2025-06-24T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/20120/92521/1.B%C3%A1ez_IVJE_BCP_OSP.pdf/6935891b-182a-f0ef-2680-a94bb8d40776?t=1740439033406",
+                "title": "Optimal sustainable monetary policy for commodity-exporting economies",
+                "text": "Macroeconomic environment. ▷ A cash-less economy. ▷ Complete asset markets. ▷ The international perfect risk sharing condition holds.",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/20117/80843/Executive+summary.pdf/e8994f8b-fc9e-aa17-c41a-1fddc5ae6381?t=1750438062437",
+                "title": "Monetary Policy Report | Economic Studies",
+                "text": "International and Regional Economy. The growth prospects for the world economy have improved slightly for this year compared to those.",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/910576/910580/Minutes+CPM+April+2025_vf.pdf/2b24e58a-a160-85ab-5c83-015736883638?t=1747175543676",
+                "title": "Minutes of the Meeting of the Monetary Policy Committee (CPM)*",
+                "text": "In the United States, financial market volatility has increased amid heightened trade tensions. In March, job creation (228,000 jobs) was higher than ...",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/910576/910580/Executive+Summary+IPoM+March+2025_vf.pdf/a0aaf336-bf00-ab27-be51-16e2fcd6e250?t=1747923506793",
+                "title": "Monetary Policy Report | Economic Studies - Banco Central de Paraguay",
+                "text": "Global growth prospects for 2025 have weakened amid still restrictive financial conditions and uncertainty about changes in United States trade policy.",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcp.gov.py/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "news",
       "search_result": [
         {
@@ -24,21 +79,33 @@
                 "position": 2
               },
               {
+                "url": "https://www.bcp.gov.py/documents/20117/0/Press_release_CEOMA_may_16_01_06.pdf/d39cee5e-7960-d7a4-edfb-b364c5887e50?t=1739900519826",
+                "title": "press release – monetary policy meeting",
+                "text": "The CEOMA points out that, as it has been projected, the most recent indicators that measure the inflation trend continue to decelerate at the margin.",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 3
+              },
+              {
                 "url": "https://www.bcp.gov.py/documents/20117/0/Press+release+CPM+June+2022_rev.pdf/06eea9e4-66ec-350f-4c5c-8500f8b0a697?t=1739971154564",
                 "title": "Press Release - Monetary Policy Meeting",
                 "text": "For its decision, the CPM has analyzed the following relevant aspects: 1. On the international scene, the COVID-19 contagion curves have remained at ...",
                 "source": "Banco Central de Paraguay",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bcp.gov.py/documents/20117/0/Press_release_CEOMA_apr_17.pdf/d154d7ba-b985-526c-cfe2-0911d226494b?t=1739903982872",
+                "title": "press release – monetary policy meeting",
+                "text": "The CEOMA highlights that in the international context, while the economic outlook has improved with respect to previous years, a high degree of uncertainty ...",
+                "source": "Banco Central de Paraguay",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bcp.gov.py",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "News speeches press news speeches press 2022",
-            "News speeches press news speeches press 2021"
-          ],
           "query": {
-            "q": "site:http://www.bcp.gov.py/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bcp.gov.py/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]

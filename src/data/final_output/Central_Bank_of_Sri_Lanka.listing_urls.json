@@ -9,16 +9,28 @@
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications",
-        "title": "Statistical Publications | Central Bank of Sri Lanka",
-        "text": null,
-        "listing_probability": 0.98
+        "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports",
+        "title": "Annual Report | Central Bank of Sri Lanka",
+        "text": "Annual Reports · Annual Report 2022 · Annual Report 2021 · Annual Report 2020 · Annual Report 2019 · Annual Report 2018 · Annual Report 2017 · Annual Report 2016.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+        "title": "Annual Report 2022 - Central Bank of Sri Lanka",
+        "text": "The report covers economic, social indicators, national output, fiscal and monetary policy, and the socio-economic crisis of 2022.",
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/other-financial-publications",
         "title": "Other Financial Publications | Central Bank of Sri Lanka",
-        "text": null,
-        "listing_probability": 0.98
+        "text": "Public Debt Management in Sri Lanka · Annual Report - Financial Intelligence Unit of Sri Lanka · Consumer Finances and Socio-Economic Survey · Road Map: Monetary ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports",
+        "title": "Economic and Financial Reports | Central Bank of Sri Lanka",
+        "text": "Read and download monetary policy report of the Central Bank of Sri Lanka. Annual Economic Review Read and download annual economic review.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -32,16 +44,28 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.cbsl.gov.lk/en/statistics/economic-and-social-statistics",
-        "title": "Economic and Social Statistics 2024 - Central Bank of Sri Lanka",
-        "text": "Skip to main content. Home. Search form. Search. English · සිංහල · தமிழ். Search form. Search. Navigation. ABOUT. About the Bank.",
-        "listing_probability": 0.05
-      },
-      {
         "url": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-bulletin",
         "title": "Monthly Bulletin | Central Bank of Sri Lanka",
         "text": "The Central Bank of Sri Lanka Bulletin is issued monthly by the Department of Economic Research under the direction of a Staff Editorial Committee.",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/statistics/data/economic-data-library",
+        "title": "Economic Data Library | Central Bank of Sri Lanka",
+        "text": "Home » Statistics » Data » Economic Data Library. About. Contact Us · Right to Information · FAQ · Glossary · Forms & Downloads · Tender Notices · Careers ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications/sri-lanka-socio-economic-data-folder",
+        "title": "Sri Lanka Socio-Economic Data Folder",
+        "text": "A pocket-size annual publication containing statistical tables and charts on socio economic variables including country comparisons. Released annually.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-indicators",
+        "title": "Monthly Economic Indicators | Central Bank of Sri Lanka",
+        "text": "Monthly Economic Indicators consists of economic data covering real, monetary, fiscal and external sectors. This is one of the sources of releasing short-term ...",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -52,13 +76,25 @@
         "url": "https://www.cbsl.gov.lk/en/financial-system/financial-infrastructure/laws-and-regulations-for-financial-Infrastructure",
         "title": "Laws and Regulations for Financial Infrastructure",
         "text": "Laws and Regulations. 1. Central Bank of Sri Lanka Act, No. 16 of 2023. An act to provide for the establishment of the Central Bank of Sri Lanka; ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-instruments-and-implementation",
-        "title": "Monetary Policy Instruments and Implementation",
-        "text": "The main monetary policy instruments used currently are Overnight Policy Rate (OPR), Open Market Operations (OMO), Standing Facilities and the Statutory Reserve ...",
+        "url": "https://www.cbsl.gov.lk/en/monetary-policy",
+        "title": "Monetary Policy | Central Bank of Sri Lanka",
+        "text": "The Central Bank conducts monetary policy in line with a flexible inflation targeting (FIT) framework, aimed at stabilising inflation at mid single digit levels ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-payments-and-settlements",
+        "title": "Directions Circulars Guidelines on Payments and Settlements",
+        "text": "Circular No. 4 of 2023 Individual Stored Value Limits, Day Limits and Transaction Limits Applicable for Customer e-Money Accounts",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-exchange-control",
+        "title": "Directions Circulars Guidelines on Exchange Control",
+        "text": "Directions issued to Authorized Dealers on Sales of foreign exchange (Form 1) and Purchases of foreign exchange (Form 2)",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.cbsl.gov.lk/en/rates-and-indicators/policy-rates",
@@ -75,19 +111,112 @@
         "url": "https://www.cbsl.gov.lk/en/press/press-releases",
         "title": "Press Releases | Central Bank of Sri Lanka",
         "text": "View and download press releases on monetary policy review, Financial Stability Review, View and download press releases on financial stability review.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/press-releases",
+        "title": "Press Releases | Central Bank of Sri Lanka",
+        "text": "24.07.2025. Open Market Operations - 24 July 2025 ; 24.07.2025. Treasury Bill Issuance held on 23 July 2025 ; 23.07.2025. Open Market Operations - 23 July 2025 ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/Press/Media/Speeches",
+        "title": "Speeches | Central Bank of Sri Lanka",
+        "text": "05.05.2025 | Keynote Speech by the Governor at the Launch of the Sustainable Finance Roadmap 2.0 Download Full Text English PDF",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/press/press-releases/external-sector-performance",
+        "title": "Press Releases - External Sector Performance",
+        "text": "Press Releases-External Sector Performance ; 30.06.2025 External Sector Performance - May 2025 ; 30.05.2025 External Sector Performance - April 2025 ; 30.04.2025 ...",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.cbsl.gov.lk/en/press",
         "title": "Press | Central Bank of Sri Lanka",
         "text": "View and find information on press conferences. Speeches. View and find information on important speeches by central bank officers and industry experts.",
+        "listing_probability": 0.6
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/monetary-policy-announcements",
+        "title": "Monetary Policy Decision Announcement Dates",
+        "text": "17.07.2025 Date of Announcement of the Monetary Policy Review - No. 4 of 2025 ; 15.05.2025 Date of Announcement of the Monetary Policy Review - No. 3 of 2025",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/Press-Releases/Monetary-Policy-Review-Announcements",
+        "title": "Monetary Policy Committee Announcement Dates",
+        "text": "15.05.2025. Date of Announcement of the Monetary Policy Review - No. 3 of 2025 ; 19.03.2025. Date of Announcement of the Monetary Policy Review - No. 2 of 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/node/28",
+        "title": "Schedule of Key Interest Rate Announcements and Monetary ...",
+        "text": "Eight times a year, the Bank announces its decision on the setting of its key policy interest rate.",
         "listing_probability": 0.85
       },
       {
-        "url": "https://www.cbsl.gov.lk/en/Speeches",
-        "title": "Speeches | Central Bank of Sri Lanka",
-        "text": "28.08.2024 | Keynote Speech of Governor at the “37th OPA Annual Conference” on “Sri Lanka's Sustained Economic Growth”",
-        "listing_probability": 0.15
+        "url": "https://www.cbsl.gov.lk/si/Press-Releases/Monetary-Policy-Review-Announcements",
+        "title": "Monetary Policy Committee Announcement Dates",
+        "text": "15.05.2025. මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දෙනු ලබන දිනය - 2025 අංක 3 · 19.03.2025. මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දෙනු ලබන දිනය - 2025 අංක 2 · 20.01.2025. මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දෙනු ලබන දිනය ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/ta/Press-Releases/Monetary-Policy-Review-Announcements",
+        "title": "Monetary Policy Committee Announcement Dates",
+        "text": "19.03.2025. 2025 இன் 02ஆம் இலக்க நாணயக் கொள்கை மீளாய்விற்கான திகதி அறிவிப்பு · 20.01.2025. 2025 இன் 01ஆம் இலக்க நாணயக் கொள்கை மீளாய்விற்கான திகதி அறிவிப்பு · 19.11.2024. 2024 இன் 06ஆம் இலக்க நாணயக் கொள்கை ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/press/media/notices",
+        "title": "Notices | Central Bank of Sri Lanka",
+        "text": "Calling bids for the purchase and removal of obsolete, used, unserviceable and surplus items stored at the Central Bank of Sri Lanka",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/tenders",
+        "title": "Procurement Notices | Central Bank of Sri Lanka",
+        "text": "Calling for bids for media buying services for the “Collective digital payments promotion campaign by banks - 2025”",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/taxonomy/term/70",
+        "title": "Notices | Central Bank of Sri Lanka",
+        "text": "Open Market Operations - 06 February 2024 · about Open Market Operations - 06 February 2024 ; Open Market Operations - 07 June 2022 · about Open Market Operations ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/overview",
+        "title": "Monetary Policy Communication | Central Bank of Sri Lanka",
+        "text": "Monetary Policy Communication. The Central Bank is committed to the greatest possible degree of transparency related to its monetary policy conduct.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/monetary-policy-communication",
+        "title": "Monetary Policy Communication | Central Bank of Sri Lanka",
+        "text": "Monetary Policy Communication · Overview. The Central Bank is committed to the greatest possible degree of transparency related to its monetary policy conduct.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.cbsl.gov.lk/en/node/13674",
+        "title": "Public awareness in relation to defrauding individuals through ...",
+        "text": "Public awareness in relation to defrauding individuals through scam calls, text messages, email messages and social media networks | Central ...",
+        "listing_probability": 0.05
       }
     ]
   }

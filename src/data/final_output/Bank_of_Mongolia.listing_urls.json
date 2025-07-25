@@ -7,6 +7,12 @@
         "title": "Search: International publications - Mongolbank.mn",
         "text": "Please type in English. Depending on your language preferences it searches for the content in your preferred language.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.mongolbank.mn/mn/search?k=International%20publications",
+        "title": "Хайлт: International publications - Mongolbank.mn",
+        "text": "Нүүр; Хайлт; International publications. Вэб сайтын хэлний тохиргоо Монгол үед монгол, Англи үед англи агуулгаас хайлт хийнэ.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -14,14 +20,8 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.mongolbank.mn/en/p/research-and-statistics-department",
+        "url": "https://www.mongolbank.mn/en/category/6605",
         "title": "Research And Statistics Department - Mongolbank.mn",
-        "text": "Статистик, тайлан мэдээллийг хэрэглэгчдэд илүү хүртээмжтэй байлгах, ашиглахад хялбар болгох чиглэлээр тогтмол хөгжүүлэх. Судалгааны хэлтсийн чиг үүрэг.",
-        "listing_probability": 0.7
-      },
-      {
-        "url": "https://www.mongolbank.mn/en/search?k=Data%20envelopment%20analysis",
-        "title": "Search: Data envelopment analysis - Mongolbank.mn",
         "text": "The official website of The Central Bank of Mongolia.",
         "listing_probability": 0.95
       }
@@ -31,22 +31,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
+        "url": "https://www.mongolbank.mn/en/p/1094",
+        "title": "Monetary policy framework - Mongolbank.mn",
+        "text": "The main objective of monetary policy is concerned with maintaining price stability in the long-run by taking into account of short run influences on the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/p/2073",
+        "title": "Monetary Policy - Mongolbank.mn",
+        "text": "Monetary Policy · Regulation on calculating and controlling reserve requirements · Regulation on central bank overnight repo financing · Regulation on central bank ...",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.mongolbank.mn/en/p/monetary-policy",
         "title": "Monetary Policy - Mongolbank.mn",
         "text": "Monetary Policy. Monetary Policy Statement. Monetary Policy Guidelines. Inflation report. Monetary Policy Committee. Regulation on MPC. Members.",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.mongolbank.mn/en/p/monetary-policy-committee",
-        "title": "Monetary Policy Committee - Mongolbank.mn",
-        "text": "Monetary Policy Committee · Monetary Policy Statement · Monetary Policy Strategy · Monetary Policy Instruments · Monetary Policy Guidelines · Inflation Report ...",
-        "listing_probability": 0.85
+        "url": "https://www.mongolbank.mn/en/p/1601",
+        "title": "Policy and Strategy - Mongolbank.mn",
+        "text": "Policy and strategic document outlining the policy, regulations, implementation plan, objectives, actions, and M&E indicators under the framework of ...",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.mongolbank.mn/en/p/monetary-policy-guidelines",
-        "title": "Monetary Policy Guidelines - Mongolbank.mn",
-        "text": "Монголбанкнаас өргөн барьсан төслийг УИХ хэлэлцэж Төв банкнаас дараагийн жилд баримтлах үндсэн чиглэлийг УИХ-ын тогтоолын хавсгараар баталдаг байна.",
-        "listing_probability": 0.1
+        "url": "https://www.mongolbank.mn/en/p/4054",
+        "title": "Regulations on Banking Supervision - Mongolbank.mn",
+        "text": "Regulations on Banking Supervision. Regulation on setting and monitoring prudential ratios to banking operation; Regulation on asset classification, ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -58,6 +70,58 @@
         "title": "News, information - Mongolbank.mn",
         "text": "Brief history of the Bank of Mongolia, Former Governors, Difference Between Central Bank and Commercial Bank, BOM History, Structure of the Bank of Mongolia.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/category/5010",
+        "title": "News - Mongolbank.mn",
+        "text": "The official website of The Central Bank of Mongolia.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/category/9300",
+        "title": "News brief - Mongolbank.mn",
+        "text": "The official website of The Central Bank of Mongolia.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.mongolbank.mn/mn/category/news",
+        "title": "Мэдээ, мэдээлэл - Mongolbank.mn",
+        "text": "Мэдээ, мэдээлэл · Журмын төсөлд санал авч байна · А. · Мөнгөний бодлогын мэдэгдэл - 2025-04 · Мөнгөний бодлогын хорооны хурлын хураангуй тэмдэглэл 2025 оны 6 дугаар ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.mongolbank.mn/en/r/360",
+        "title": "Bank of Mongolia's economist has received an \"Outstanding ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/r/5191",
+        "title": "Research Conference\" was held in honor of the Financial ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mongolbank.mn/en/p/6000",
+        "title": "Statistic and Research",
+        "text": null,
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.mongolbank.mn/en/research/1632",
+        "title": "A text mining analysis of monetary policy communication in Mongolia",
+        "text": "A text mining analysis of monetary policy communication in Mongolia. Tuesday, May 13, 2025 | Bank of Mongolia's working paper series - Macroeconomics.",
+        "listing_probability": 0.05
       }
     ]
   }

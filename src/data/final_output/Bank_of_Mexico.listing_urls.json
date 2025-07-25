@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/quarterly-reports/quarterly-reports-prices-banc.html",
+        "title": "Quarterly reports, prices, Banco de México",
+        "text": "Reports analyzing inflation and economic developments to meet the objective of maintaining a low and stable inflation environment.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/financial-system-reports/financial-system-reports-supe.html",
+        "title": "Financial stability reports - Banco de México",
+        "text": "Reports that show the status of the Mexican financial system stability from the perspective of the central bank.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/annual-reports/annual-reports-economy-banco-.html",
+        "title": "Annual reports, economy, Banco de México",
+        "text": "Reports detailing the monetary policy implementation and the Bank's activities in the national and international economic situation context.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/regional-economic-reports/regional-economic-reports-sta.html",
+        "title": "Regional economic reports - Banco de México",
+        "text": "Reports detailing the indicators and analysis that the Banco de México produces about the different regions of the country.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/statistics/rss-indicators-banco-mexico.html",
+        "title": "RSS, indicators, Banco de México",
+        "text": "Automated newsfeed of the main statistical variables for the analysis of the economic and financial situation published by Banco de México.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/monetary-policy-announcements.html",
+        "title": "Monetary policy statements, rate target, Banco de México",
+        "text": "Target interest rate statements through which nominal variables are affected that have an impact on the determinants of inflation.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/monetary-policy-programs/monetary-policy-programs-infl.html",
+        "title": "Monetary policy programs - Banco de México",
+        "text": "In January of each year, the central bank must send to both the President and Congress, the guidelines defining monetary policy to be implemented during the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banxico.org.mx/regulations-and-supervision/relevant-legislation-regulari.html",
+        "title": "Relevant legislation, regularions, Banco de México",
+        "text": "Relevant legislation includes Bank Savings Protection Law, Business Bankruptcy Law, Credit Institutions Law, and Law to Regulate Financial Technology ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/news/news.html",
+        "title": "News - Banco de México",
+        "text": "05/29/2025, Minutes of the meeting of Banco de México's Governing Board on the occasion of the monetary policy decision announced on May 15, 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/monetary-policy-announcements.html",
+        "title": "Monetary policy statements, rate target, Banco de México",
+        "text": "Monetary policy statements ; 06/26/25, The target for the overnight interbank funding rate is decreased by 50 basis points. Full text ; 05/15/25, The target for ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/announcements-and-minutes-tas.html",
+        "title": "Statements and minutes, target rate, Banco de México",
+        "text": "Statements and minutes of the target interest rate through which nominal variables are affected that have an impact on the determinants of inflation.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/viewers2/JSP/docsInvestigacionAnio_en.jsp?static=y",
+        "title": "Banco de México working papers",
+        "text": "Summary: This study examines the energy efficiency and environmental performance of Mexico's manufacturing sector across regions.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/monetary-policy-announcements.html",
+        "title": "Monetary policy statements, rate target, Banco de México",
+        "text": "Monetary policy statements ; 06/26/25, The target for the overnight interbank funding rate is decreased by 50 basis points. Full text ; 05/15/25, The target for ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/other-announcements/other-announcements-communica.html",
+        "title": "Other announcements, communication, Banco de México",
+        "text": "Other announcements ; 03/20/20, Measures to provide MXN and USD liquidity and to improve the functioning of domestic markets. Full text ; 01/15/20, Publication of ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.banxico.org.mx/publications-and-press/other-announcements/other-announcements-communica.html",
+        "title": "Other announcements, communication, Banco de México",
+        "text": "Various announcements of Banco de México's actions related to any function entrusted by Law.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

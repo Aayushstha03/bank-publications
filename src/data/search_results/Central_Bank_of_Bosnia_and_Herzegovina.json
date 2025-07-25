@@ -2,29 +2,148 @@
   "Bank Name": "Central Bank of Bosnia and Herzegovina",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbbh.ba/Content/Read/1242",
+                "title": "Reports and statistics - The Central Bank of Bosnia and Herzegovina",
+                "text": "Reports and statistics · Statistics RTGS and GC · Annual reports - Payment Systems in BH · Annual reports - Card Operations in BH.",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbbh.ba/press/ShowNews/1637",
+                "title": "CBBH has expanded the list of flagship analytical reports with the ...",
+                "text": "CBBH has expanded the list of flagship analytical reports with the Macroeconomic Imbalances Report · Speeches and Presentations · International ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "published_time": "2025-07-01T00:00:00",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbbh.ba/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.cbbh.ba/data/dokumenti/pdf/panorama_necto_manual_en.pdf",
-                "title": "MANUAL FOR USING THE STATISTICS PORTAL OF THE ...",
-                "text": "1 Access to statistics portal ..................................................................................................................... 2.",
+                "url": "https://www.cbbh.ba/content/read/915",
+                "title": "Statistics web portal CBBH",
+                "text": "Advanced Release Calendar · Data Access - Statistics web portal · Data according to earlier methodologies · Data Compilation Forms · Methodological Explanations.",
                 "source": "Central Bank of Bosnia",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
                 "position": 1
+              },
+              {
+                "url": "https://www.cbbh.ba/content/read/480",
+                "title": "Forms for BoP Statistics Data Collection",
+                "text": "Forms for BoP Statistics Data Collection: Statistics, Single Registry of Legal Entities Accounts, Central Registry of Credits, Statistics, Web portal of the ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbbh.ba/content/read/935",
+                "title": "Data according to earlier methodologies",
+                "text": "Dear User, on this link you can find the old presentation archive of the statistics, published by the Central Bank of Bosnia and Herzegovina.",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbbh.ba/content/read/1105",
+                "title": "Forms for BOP Statistics Data Collection",
+                "text": "Forms for BOP Statistics Data Collection: BoP Form 3 - Post Office and Telecommunication Services, BoP Form 4 - Services of International Transactions on ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbbh.ba/content/DownloadAttachment/?id=dd674004-c13e-45c4-a383-cc23c178e17a&langTag=en",
+                "title": "PAYMENT TRANSACTIONS STATISTICS IN REAL-TIME ...",
+                "text": "Five banks with the largest share in the number of transactions in RTGS and Giro Clearing system account for of the total number of RTGS and Giro Clearing ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbbh.ba/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbbh.ba/press/readfaq/1",
+                "title": "Monetary policy in Bosnia and Herzegovina",
+                "text": "1. What is currency board? · 2. Which are the features of the currency board in BH? · 3. Does the currency board represent an obstacle for BH ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "published_time": "2021-11-06T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbbh.ba/press/ShowNews/1561",
+                "title": "A Successful Investment Policy of the CBBH in the Period of Crisis",
+                "text": "Vice Governor said that the CBBH has been carefully following up with all the existing risks which may result in inflation higher than expected, ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "published_time": "2024-07-03T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbbh.ba/content/DownloadAttachment/?id=827ded5d-b359-4ffd-b597-a981cfdb368d&langTag=en",
+                "title": "Monetary Policy and the Gendered Labor Market Dynamics",
+                "text": "A monetary policy shock of one standard deviation works differently for men and women in the developing economies (Figure 1).",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbbh.ba/press/ShowNews/297",
+                "title": "New RR Regulations to Take Effect From June 1",
+                "text": "The amendments to Article 36 of the Law had four elements. The first is related to an extension of the reserve base to include foreign currency ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "published_time": "2003-04-24T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbbh.ba/content/DownloadAttachment/?id=934b4150-d24e-4814-89db-0778c2c43c7e&langTag=hr",
+                "title": "Initial Monetary Policy Response to the COVID-19 Pandemic in Inflation ...",
+                "text": "The paper investigates several aspects of this exceptionality among inflation targeters, by looking at: ○ the scope of the adopted measures.",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "published_time": "2021-11-04T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin excel",
-            "Statistics bulletin data statistics data bulletin 2022",
-            "Statistics bulletin data statistics data bulletin 2021"
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.cbbh.ba/?lang=en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.cbbh.ba/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -36,36 +155,72 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbbh.ba/press/ShowNews/882",
-                "title": "Invitation to a Regular Press Conference",
-                "text": "The Central Bank of Bosnia and Herzegovina (CBBH) organizes its regular annual press conference. The topic will be the operations of the ...",
+                "url": "https://www.cbbh.ba/content/read/1167?lang=en",
+                "title": "Speeches and presentations",
+                "text": "Presentations · Presentation available in local languages only · Personal Finance Management Skills - Basic Things You Need to Know (Available in Local Languages ...",
                 "source": "Central Bank of Bosnia",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
-                "published_time": "2013-03-04T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.cbbh.ba/press/ShowNews/952",
-                "title": "Press release - The Central Bank of Bosnia and Herzegovina",
-                "text": "Press release · Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation ...",
+                "url": "https://www.cbbh.ba/press/",
+                "title": "Public Announcements - The Central Bank of Bosnia and Herzegovina",
+                "text": "Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation of the Law on Freedom of Access ...",
                 "source": "Central Bank of Bosnia",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
-                "published_time": "2014-10-12T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.cbbh.ba/press/ShowNews/535",
-                "title": "Press Release - The Central Bank of Bosnia and Herzegovina",
-                "text": "Regarding the statement which was made by the Republika Srpska (RS) Prime Minister Milorad Dodik on the startup of the constitutional suit ...",
+                "url": "https://www.cbbh.ba/press/read",
+                "title": "The Central Bank of Bosnia and Herzegovina",
+                "text": "Here you can find speeches and presentations of the CBBH officials, domestic and international experts on the issues in the area of monetary policy and finance.",
                 "source": "Central Bank of Bosnia",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
-                "published_time": "2008-01-02T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbbh.ba/press/edukacija/673?lang=en",
+                "title": "Capital Markets - The Central Bank of Bosnia and Herzegovina",
+                "text": "The BiH financial market has a capital market, but not a developed money market. The financial market instruments are relatively underdeveloped.",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbbh.ba/press/audio/",
+                "title": "Multimedia - The Central Bank of Bosnia and Herzegovina",
+                "text": "Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation of the Law on Freedom of Access ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.cbbh.ba/?lang=en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.cbbh.ba/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbbh.ba/press/ShowNews/1258",
+                "title": "CBBH improved existing and launched new communication ...",
+                "text": "The CBBH has decided to take this step in order to improve the transparency of the institution, facilitate access to the information on its ...",
+                "source": "Central Bank of Bosnia",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbbh.ba",
+                "published_time": "2020-05-22T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbbh.ba/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -1,24 +1,99 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/research/brp/index.htm",
+        "title": "BOJ Reports & Research Papers : 日本銀行 Bank of Japan",
+        "text": "The latest releases of reports and research papers. Financial System Report. The Financial System Report is published biannually with two objectives: to present ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.boj.or.jp/en/research/rs_all/index.htm",
+        "title": "List of Reports & Research Papers List by Year - 日本銀行",
+        "text": "List of Reports & Research Papers List by Year ; 2025 · 2024 · 2023 · 2022 · 2021 ; 2020 · 2019 · 2018 · 2017 · 2016 ; 2015 · 2014 · 2013 · 2012 · 2011.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boj.or.jp/en/research/rs_all_2023/index.htm",
+        "title": "List of Reports & Research Papers 2023 : 日本銀行 Bank of Japan",
+        "text": "Table :List of Reports & Research Papers 2023 List (excluding Research Papers Released by IMES). Date, Dec. 21, 2023. Author, ABE Nobuhiro, KAWASUMI Yusuke, ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boj.or.jp/en/research/rs_all_2024/index.htm",
+        "title": "List of Reports & Research Papers 2024 : 日本銀行 Bank of Japan",
+        "text": "The Bank of Japan released reports in 2024, including 'Impact of the Fund-Provisioning Measure' and 'Assessing the Long-Term Impact of Monetary Policy'.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
     "topic": "statistics",
     "entries": [
       {
         "url": "https://www.boj.or.jp/en/statistics/index.htm",
         "title": "Statistics : 日本銀行 Bank of Japan",
         "text": "Statistics · Outline of Statistics and Statistical Release Schedule · Bank of Japan Statistics · Currency · Financial Markets · Financial Institutions Accounts.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.boj.or.jp/en/statistics/outline/index.htm",
         "title": "Outline of Statistics and Statistical Release Schedule - 日本銀行",
         "text": "The Bank compiles and publishes a variety of statistics, as well as reviews the compilation procedures for its statistics.",
-        "listing_probability": 0.1
+        "listing_probability": 0.2
       },
       {
         "url": "https://www.boj.or.jp/en/statistics/boj/index.htm",
         "title": "Bank of Japan Statistics - 日本銀行",
         "text": "Bank of Japan Statistics: Currency, Financial Markets, Financial Institutions, Accounts, Deposits and Loans, Market Flow of Funds Related to BIS/FSB, Payment ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/sj/index.htm",
+        "title": "Flow of Funds : 日本銀行 Bank of Japan",
+        "text": "Overview of Japan, US, and the Euro area Note: The overview is renewed once a year after the Flow of Funds Accounts is released in June.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/set/kess/index.htm",
+        "title": "Payment and Settlement Statistics : 日本銀行 Bank of Japan",
+        "text": "Report market operations in each fiscal year, payment and settlement systems, report regional economic report.",
         "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/mopo/outline/index.htm",
+        "title": "Outline of Monetary Policy : 日本銀行 Bank of Japan",
+        "text": "At MPMs, the Policy Board discusses the economic and financial situation, decides the guideline for money market operations and the Bank's monetary policy ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boj.or.jp/en/mopo/index.htm",
+        "title": "Monetary Policy : 日本銀行 Bank of Japan",
+        "text": "Outline of Monetary Policy · Monetary Policy Meetings · Monetary Policy Releases · Monetary Policy Measures · Outlook for Economic Activity and Prices · Reports to ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+        "title": "Monetary Policy Meetings : 日本銀行 Bank of Japan",
+        "text": "A list of scheduled dates of the meetings; policy statements; minutes of the meetings; and the Outlook for Economic Activity and Prices (the Outlook Report).",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/whatsnew/index.htm",
+        "title": "News List : 日本銀行 Bank of Japan",
+        "text": "Jan. 31, 2025 Financial SystemSpeech by Exective Director KOUGUCHI Hirohide at the CAFT Workshop(How Will Digitalization Change Japan's Financial Services and ...",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -38,10 +113,79 @@
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e20.htm",
-        "title": "Firms' Interest Payment Burden and Productivity under a Low ... - 日本銀行",
-        "text": "Papers in the Bank of Japan Working Paper Series are circulated to stimulate discussion and comment. Views expressed are those of the authors ...",
+        "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2021/index.htm",
+        "title": "Bank of Japan Working Paper Series 2021 - 日本銀行",
+        "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/announcements/education/oshiete/seisaku/b37.htm/",
+        "title": "What is the Complementary Deposit Facility? : 日本銀行 Bank of Japan",
+        "text": "Under the Complementary Deposit Facility, the Bank applies interest rates to financial institutions' excess reserves.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.boj.or.jp/en/announcements/education/oshiete/seisaku/b42.htm/",
+        "title": "How have the Bank's guidelines for market operations changed?",
+        "text": "In March 2024, the Bank decided to change the monetary policy framework and to set the uncollateralized overnight call rate as the policy interest rate. Since ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/outline/notice_2018/not180328a.htm",
+        "title": "Updates of the Guides to Flow of Funds Accounts - Statistics - 日本銀行",
+        "text": "The \"Guide to Japan's Flow of Funds Accounts\" and \"Compilation Method of Japan's Flow of Funds Accounts\" were updated and posted on this website.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boj.or.jp/en/announcements/education/oshiete/intl/index.htm",
+        "title": "International Activities : 日本銀行 Bank of Japan",
+        "text": "International Activities · What are the major international forums in which the Bank participates? · How are foreign currency assets held by the Bank managed?",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/statistics/outline/notice_all/index.htm",
+        "title": "Notices of Changes and Corrections List by Year : 日本銀行 Bank of Japan",
+        "text": "Notices of Changes and Corrections List by Year ; 2025 · 2024 · 2023 · 2022 · 2021 ; 2020 · 2019 · 2018 · 2017 · 2016 ; 2015 · 2014 · 2013 · 2012 · 2011.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/outline/general_notice/index.htm",
+        "title": "Notices of Changes and Revisions of Statistics : 日本銀行 Bank of Japan",
+        "text": "Outline of Statistics and Statistical Release Schedule, Notices of Changes and Corrections, Explanations of Statistics, Notices of Changes and Revisions Notes",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/outline/notice_2021/index.htm",
+        "title": "Notices of Changes and Corrections 2021 : 日本銀行 Bank of Japan",
+        "text": "Notices of Changes and Corrections 2021 ; Sept. 10, 2021 · Revision of Data in \"Regular Derivatives Market Statistics in Japan\" · Aug. 31, 2021 · Changes in Items ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.boj.or.jp/en/statistics/outline/notice_2025/index.htm",
+        "title": "Notices of Changes and Corrections 2025 : 日本銀行 Bank of Japan",
+        "text": "Notices of Changes and Corrections 2025 ; July 14, 2025 · Alteration in \"Bank of Japan Accounts (Every Ten Days)\" · July 11, 2025 · Revision of \"Monetary Survey\".",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.boj.or.jp/en/research/wps_rev/lab/lab14e01.htm",
+        "title": "Research Lab) Central Bank Communication and the Management ...",
+        "text": null,
+        "listing_probability": 0.1
       }
     ]
   }

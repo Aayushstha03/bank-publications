@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bot.or.th/en/research-and-publications.html",
+        "title": "Research and Publications - Bank of Thailand",
+        "text": "Research and Publications. Find researches, articles, and other publications from the Bank of Thailand.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bot.or.th/en/research-and-publications/research-and-publications-list.html",
+        "title": "Research and Publications",
+        "text": "Economic and Financial Index and Indicators · Regional Economic and Financial Statistics · BOT API · Statistical Articles and Publications · Statistics and ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication/Monetary-Policy-Report/mpr-previous-reports.html",
+        "title": "Monetary Policy Report -- Previous Reports",
+        "text": "Report Name. Report Title. Report Quarter. Report Year. Document Link. MPR_2024_Q4.pdf, Monetary Policy Report (full version) Q4 2024, Q4, 2024.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.bot.or.th/en/research-and-publications/reports/payment-data-indicators.html",
+        "title": "Payment Data Indicators - Bank of Thailand",
+        "text": "The Payment Data Indicators include key statistics and indicators of payment transactions in Thailand, including fund transfers and payments, released monthly.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bot.or.th/en/thai-economy/state-of-thai-economy/macro-monthly-previous-reports.html",
+        "title": "Previous Economic and Monetary Monthly Reports - Bank of Thailand",
+        "text": "Previous reports include quarterly tables, monthly tables, press releases, and slides, with 252 total results.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bot.or.th/en/statistics.html",
+        "title": "Statistics - Bank of Thailand",
+        "text": "Data relating to transactions in the money market and capital market, such as exchange rates, interest rates in the money market and reference interest rates.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bot.or.th/en/statistics/monetary-statistic.html",
+        "title": "Monetary Statistics - Bank of Thailand",
+        "text": "BOT will discontinue the publication of 34 data tables, starting from January 2025 onward. The historical data can be accessed at >> Click",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bot.or.th/en/statistics/financial-institutions.html",
+        "title": "Financial Institutions - Bank of Thailand",
+        "text": "BOT will discontinue the publication of 34 data tables, starting from January 2025 onward. Bank of Thailand; Home · Statistics and Dissemination ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bot.or.th/en/statistics/economic-and-financial-index-and-indicators.html",
+        "title": "Economic and Financial Index and Indicators - Bank of Thailand",
+        "text": "BOT will discontinue the publication of 34 data tables, starting from January 2025 onward. Bank of Thailand; Home · Statistics and Dissemination ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bot.or.th/en/statistics/financial-market-statistics.html",
+        "title": "Financial Markets - Bank of Thailand",
+        "text": "Exchange Rates, Interest Rate and Fee, Daily Foreign Exchange Rates, click here, Daily Interest Rates of Commercial Banks, click here.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bot.or.th/en/laws-and-rules/bot-takes-responsibilities-and-other-relevant-laws-and-regulations.html",
+        "title": "Laws and Rules in BOT's Responsibility - Bank of Thailand",
+        "text": "The BOT Act sets out the objectives, scope of working and organization structure of the Bank of Thailand in accordance with the international central banking ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+        "title": "Financial Institutions and Financial Service Providers Policy",
+        "text": "The BOT formulated its financial institution and financial service provider policies and supervisory standards under 4 ...",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+        "title": "Monetary Policy",
+        "text": "Learn about monetary policy in Thailand here. Start with an overview and learn about how monetary policy is determined.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bot.or.th/en/news-and-media.html",
+        "title": "News and Media - Bank of Thailand",
+        "text": "Bank of Thailand Hosts 30th EMEAP Gover. 23 Jul 2025 ; Press Release on the Economic and Monetary Conditions for May 2025. 30 Jun 2025 ; Appointment, Rotation and ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bot.or.th/en/news-and-media/speeches.html",
+        "title": "speeches - Bank of Thailand",
+        "text": "Money20/20 Keynote Presentation on “From Open Finance to an Inclusive Digital Society” by Deputy Governor Roong Mallikamas. 22 Apr 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bot.or.th/en/news-and-media/news.html",
+        "title": "News - Bank of Thailand",
+        "text": "Economic and Financial Index and Indicators · Regional Economic and Financial Statistics · BOT API · Statistical Articles and Publications · Statistics and ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bot.or.th/en/news-and-media/news/news-20250630-2.html",
+        "title": "Press Release on the Economic and Monetary Conditions for May 2025",
+        "text": "The Bank of Thailand monitors Thailand's economic and monetary conditions each month and the overall economic condition in each quarter.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bot.or.th/en/news-and-media/news/news-20250530.html",
+        "title": "Press Release on the Economic and Monetary Conditions for April 2025",
+        "text": "The Bank of Thailand monitors Thailand's economic and monetary conditions each month and the overall economic condition in each quarter.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bot.or.th/th/research-and-publications/articles-and-publications/bot-magazine/Phrasiam-66-3/Inspiration_communication-hackathon.html",
+        "title": "BOT Communication Hackathon 2023 สื่อสารอย่างสร้างสรรค์ ให้ ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bot.or.th/th/news-and-media/activities/BOTCommuHackathon.html",
+        "title": "โครงการ BOT Communication Hackathon",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

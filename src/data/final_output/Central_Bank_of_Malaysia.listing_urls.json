@@ -6,7 +6,31 @@
         "url": "https://www.bnm.gov.my/publications",
         "title": "Publications - Bank Negara Malaysia",
         "text": "Monthly and quarterly statistical reports that contain monetary & banking developments, economic reviews, as well as various other statistical data.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/publications/mhs",
+        "title": "Monthly Highlights and Statistics - Bank Negara Malaysia",
+        "text": "These publications aim to be the primary source for monthly updates and statistics on economic and financial developments.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bnm.gov.my/payment-systems-publications",
+        "title": "Publications - Bank Negara Malaysia",
+        "text": "Publications · Financial Stability and Payment Systems Report · EMEAP publication · Research Papers on Payment Systems ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bnm.gov.my/publications/fsr/index",
+        "title": "Financial Stability Review - Bank Negara Malaysia",
+        "text": "Financial Stability Review ; 03 Oct. 2024, Financial Stability Review - First Half 2024 ; 20 Mar. 2024, Financial Stability Review - Second Half 2023 ; 09 Oct.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/publications/ar2023?pr",
+        "title": "BNM Annual Report 2023 - Bank Negara Malaysia",
+        "text": "As part of our statutory obligations, we are publishing our Annual Report for the year ending 31 December 2023. This publication details our roles and functions ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -14,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.bnm.gov.my/-/monthly-highlights-statistics-in-march-2023",
-        "title": "Monthly Highlights & Statistics in March 2023 - Bank Negara Malaysia",
-        "text": "Bank Negara Malaysia (BNM) is pleased to inform that from August 2022 onwards, the publication of statistical tables related to loans/financing will be revised ...",
-        "listing_probability": 0.1
+        "url": "https://www.bnm.gov.my/publications/mhs",
+        "title": "Monthly Highlights and Statistics - Bank Negara Malaysia",
+        "text": "These publications aim to be the primary source for monthly updates and statistics on economic and financial developments.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/msb-2024",
+        "title": "Monthly Highlights & Statistics 2024 - Bank Negara Malaysia",
+        "text": "These publications aim to be the primary source for monthly updates and statistics on economic and financial developments.",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bnm.gov.my/rates-statistics",
         "title": "Rates & Statistics - Bank Negara Malaysia",
         "text": "Statistics Homepage\n\nBNM publishes daily rates and trading volumes from the Kuala Lumpur foreign exchange market, interbank money market, and government bond ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bnm.gov.my/payment-statistics",
         "title": "Payment Statistics - Bank Negara Malaysia",
         "text": "Statistics on Payment and Settlement Systems in Selected Countries. For general enquiries: BNMTELELINK Contact Centre 1-300-88-5465 Monday - Friday 9am - 5pm.",
-        "listing_probability": 0.85
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bnm.gov.my/-/quarterly-bulletin-1q-2025",
+        "title": "Quarterly Bulletin 1Q 2025 - Bank Negara Malaysia",
+        "text": "Key Highlights for 1Q 2025 · GDP grew by 4.4% · Headline inflation moderated to 1.5% · Continued improvement in the labour market · The ringgit remained stable ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -37,21 +73,33 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bnm.gov.my/sandbox/regulations",
-        "title": "Sandbox: Understanding Regulations - Bank Negara Malaysia",
-        "text": "Step 1: Determine applicable scope of regulated activity or entity · Step 2: Identify definition of regulated activity or entity under the legislation or ...",
-        "listing_probability": 0.1
+        "url": "https://www.bnm.gov.my/legislation-guidelines",
+        "title": "Legislation & Guidelines - Bank Negara Malaysia",
+        "text": "Legislation & Guidelines. Acts. Money Services Business Act 2011 (Act731) · Anti-Money Laundering and Anti-Terrorism Financing Act 2001 (Act 613) ...",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.bnm.gov.my/-/policy-doc-msb-sector-onboarding",
+        "url": "https://www.bnm.gov.my/guidelines/standards",
+        "title": "Guidelines/Standards - Bank Negara Malaysia",
+        "text": "Payment System · Overview on Malaysian Payment Systems · Malaysian Payment Systems · Legal Framework · Financial Services Act 2013 and Islamic Financial Services ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/-/pd-amlcftcpftfs-fi",
         "title": "Policy Document on Anti-Money Laundering, Countering Financing ...",
-        "text": "The policy document sets out the minimum requirements and standards that an approved licensed Money Services Business must observe in implementing non ...",
+        "text": "This policy document incorporates the recent updates to the Financial Action Task Force's Standards and enhances clarity on the AML/CFT/CPF requirements ...",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.bnm.gov.my/-/policy-document-on-shareholder-suitability-notification-and-application-procedures",
-        "title": "Policy Document on Shareholder Suitability - Bank Negara Malaysia",
-        "text": "Policy Document on Shareholder Suitability - Notification and Application Procedures. Release Date: 04 Jun 2019.",
+        "url": "https://www.bnm.gov.my/-/pd-adjusters",
+        "title": "Policy Document on Registration Procedures and Requirements on ...",
+        "text": "This policy document aims to enhance the professionalism of registered adjusters in managing their business and dealing with customers.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bnm.gov.my/-/pd-codeconduct-wholesalefinmkt",
+        "title": "Policy Document on Code of Conduct for Malaysia Wholesale Financial ...",
+        "text": "This policy document sets out principles to be observed by market participants to help ensure an orderly functioning of the wholesale financial markets.",
         "listing_probability": 0.05
       }
     ]
@@ -63,19 +111,31 @@
         "url": "https://www.bnm.gov.my/speeches-interviews",
         "title": "Speeches & Interviews - Bank Negara Malaysia",
         "text": "17 Jun 2025. Governor's Welcoming Address at Sasana Symposium 2025 ; 28 May 2025. Governor's Closing Remark at the IMF's 20th Public Debt Management Forum ; 26 ...",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bnm.gov.my/speeches",
         "title": "Speeches - Bank Negara Malaysia",
         "text": "Overview on Malaysian Payment Systems · Malaysian Payment Systems · Introduction of Payment System · The importance of Payment System · Role of Bank Negara ...",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bnm.gov.my/press-releases-main",
         "title": "Press Releases - Bank Negara Malaysia",
-        "text": "20 Dec 2021. BNM's Disaster Relief Facility 2022 for MSMEs Affected by the Recent Floods ; 15 Dec 2021. BNM Launches LFSA's 25th Anniversary Commemorative Coins.",
-        "listing_probability": 0.95
+        "text": "Bank Negara Malaysia press releases include monetary and financial developments, international reserves, disaster relief, commemorative coins, and currency ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bnm.gov.my/speeches-interviews/-/tag/zamani",
+        "title": "Speeches & Interviews - Bank Negara Malaysia",
+        "text": "Date, Title. 20 Jul 2010. Deputy Governor's Keynote Address at International Financial Crime and Terrorism Financing Conference 2010. 02 Jun 2010.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bnm.gov.my/press-release-2025",
+        "title": "Press release 2025 - Bank Negara Malaysia",
+        "text": "12 Jun 2025. BNM Enhances Flexibility for Corporates with a Full Rollout of the Qualified Resident Investor Programme ; 09 Jun 2025. International Reserves of ...",
+        "listing_probability": 1.0
       }
     ]
   },
@@ -87,6 +147,64 @@
         "title": "Research Papers - Bank Negara Malaysia",
         "text": "Some of these projects result in working papers, or published as feature articles in our flagship publications, or in peer-reviewed journals. Working Papers.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bnm.gov.my/web/mifc/-/marc-affirms-ratings-on-george-kent-s-debt-papers",
+        "title": "MARC affirms ratings on George Kent's debt papers - The ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/announcements",
+        "title": "Announcements - Bank Negara Malaysia",
+        "text": "Latest Announcement for Foreign Exchange Policy ; 17 Apr 2025. Notice: Export of Goods (EOG) Reporting System Issue ; 15 Nov 2024. Foreign Exchange Policy ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/notices-announcements",
+        "title": "Public Notices - Bank Negara Malaysia",
+        "text": "Date, Title. 04 Jul 2025. Financial Consumer Alert update. 20 Jun 2025. Exposure Draft on Capital Adequacy Framework (Internal ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/notices-announcements/-/tag/notices-2022",
+        "title": "Notices & Announcements - Bank Negara Malaysia",
+        "text": "Content with tag notices-2022 . ; 15 Dec 2022. Exposure Draft on Hajah and Darurah ; 02 Dec 2022. Policy Document on Climate Risk Management and Scenario Analysis.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.gov.my/announcements/-/asset_publisher/JDbVDmpoXZyO/content/online-fep-submission-temporarily-unavailable-on-5-and-6-september-20-1",
+        "title": "Announcements - Bank Negara Malaysia",
+        "text": "Foreign Exchange Policy · Overview and Policies · Submission Of Application And Report · Announcements · Contact Us ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bnm.gov.my/notices-announcements/-/tag/notices-2021",
+        "title": "Notices & Announcements - Bank Negara Malaysia",
+        "text": "Content with tag notices-2021 . ; 27 Dec 2021. Ruling of the BNM Shariah Advisory Council at its 217th Meeting ; 15 Dec 2021. Exposure Draft on Payment System ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bnm.gov.my/notices-announcements",
+        "title": "Public Notices - Bank Negara Malaysia",
+        "text": "Date, Title. 04 Jul 2025. Financial Consumer Alert update. 20 Jun 2025. Exposure Draft on Capital Adequacy Framework (Internal ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bnm.gov.my/-/foreign-exchange-notices",
+        "title": "Foreign Exchange Notices - Bank Negara Malaysia",
+        "text": "The Foreign Exchange Notices set out-- (a) approvals of the Bank for transactions which otherwise are prohibited under section 214(2) read together with ...",
+        "listing_probability": 0.9
       }
     ]
   }

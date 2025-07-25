@@ -8,12 +8,20 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbs.sc/Publications/BoardSecretaryPub.html",
-                "title": "Board Secretary Reports - Central Bank Of Seychelles",
-                "text": "Board Secretary Reports ... Statistical Bulletins ... Financial Statements ... CBS Balance Sheet ... Financial Surveillance Report ... Applicable Bank Interest Rate.",
+                "url": "https://www.cbs.sc/Publications/AnnualReports.html",
+                "title": "Annual Report - Central Bank Of Seychelles",
+                "text": "Overview · Others · Government Bills and Bonds · Securities Purchase and Re-Sell · Liability Management · Statistics · FX Market · Open Market Operations.",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 1
+              },
+              {
+                "url": "https://www.cbs.sc/Publications/AMLCFT.html",
+                "title": "AML CFT - Central Bank Of Seychelles",
+                "text": "Strategic Plan, Annual Reports, Reserves Management Reports, Monetary Policy Reports, Monthly Reviews, Key Economic Developments, Board Secretary Reports",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 2
               },
               {
                 "url": "https://www.cbs.sc/Publications/SupervisionReports.html",
@@ -21,20 +29,33 @@
                 "text": "Financial Surveillance Report 2023 · Financial Surveillance Report 2022 · Financial Surveillance Report 2021 · Financial Surveillance Report 2020 · Financial ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://www.cbs.sc/AMLCFT/Publications.html",
-                "title": "Publications - Central Bank Of Seychelles",
-                "text": "Publications · FIU Annual Reports · National Risk Assessment Reports · Mutual Evaluation Reports.",
+                "url": "https://www.cbs.sc/Publications/ResearchWorkingPapers.html",
+                "title": "Research & Working Papers - Central Bank Of Seychelles",
+                "text": "This page is dedicated to publishing analyses, briefs, discussion papers and other publications to provide greater insights, broaden understanding and stimulate ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.cbs.sc/Publications/StrategicPlan.html",
+                "title": "Strategic Plan - Central Bank Of Seychelles",
+                "text": "Strategic Plan, Annual Reports, Reserves Management Reports, Monetary Policy Reports, Monthly Reviews, Key Economic Developments, Board Secretary Reports",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:http://www.cbs.sc/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.cbs.sc/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -54,29 +75,41 @@
                 "position": 1
               },
               {
-                "url": "https://www.cbs.sc/Statistics/StatisticsOverview.html",
-                "title": "Statistics Overview - Central Bank Of Seychelles",
-                "text": "The statistics presented on this page are broadly categorised into the four main macroeconomic sectors, namely the Monetary and Financial Sector, External ...",
+                "url": "https://www.cbs.sc/Publications/StatisticalBulletins.html",
+                "title": "Statistical Bulletin - Central Bank Of Seychelles",
+                "text": "Statistical Bulletins, Financial Statements, CBS Balance Sheet, Financial Surveillance Report, Applicable Bank Interest Rate, Comparative Bank Charges",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.cbs.sc/Downloads/ConsumerProtection/ComplaintsData/Consumer%20Complaints%20Data%20-%20H1%20and%20H2%202024.pdf",
-                "title": "Consumer Complaints Data for January to December 2024",
-                "text": "The charts below provide an overview of complaints recorded by the following Financial Service Providers. (FSPs) regulated by the Central Bank of Seychelles ...",
+                "url": "https://www.cbs.sc/Statistics/StatisticsOverview.html",
+                "title": "Statistics Overview - Central Bank Of Seychelles",
+                "text": "The statistics presented on this page are broadly categorised into the four main macroeconomic sectors, namely the Monetary and Financial Sector, External ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbs.sc/Statistics/fxarchiverates.html",
+                "title": "Exchange Archived Rates - Central Bank Of Seychelles",
+                "text": "Exchange Rates of the 3 Main Currencies. USD Buying USD Selling. Euro Buying Euro Selling. UK Pound Buying UK Pound Selling.",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbs.sc/Aboutus/ResearchStatistic.html",
+                "title": "Research and Statistics Division - Central Bank Of Seychelles",
+                "text": "The Statistics Unit provides the Division with the necessary data to perform its functions. Additionally, via set schedules the Unit is responsible in ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Statistics bulletin data statistics data bulletin 2022",
-            "Statistics bulletin data statistics data bulletin 2021"
-          ],
           "query": {
-            "q": "site:http://www.cbs.sc/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.cbs.sc/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -88,39 +121,53 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbs.sc/Downloads/monetaryfiles/Operational%20Guidelines%20for%20Minimum%20Reserve%20Requirement%20March%202025.pdf",
-                "title": "Operational Guidelines for Minimum Reserve Requirement March 2025 ...",
-                "text": "The Bank reserves the rights to amend any of the provisions in the document on the basis of its monetary policy stance and/or to reflect market conditions ...",
+                "url": "https://www.cbs.sc/Aboutus/SanctionCompliancePolicy.html",
+                "title": "Sanction Compliance Policy - Central Bank Of Seychelles",
+                "text": "The Sanctions Compliance Policy outlines the guiding principles of the Central Bank of Seychelles (CBS) to fulfil its obligations in adhering to sanctions.",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.cbs.sc/Downloads/publications/aml/Anti-Bribery%20and%20Corruption%20Policy.pdf",
-                "title": "Anti-Bribery and Corruption Policy 2023 - Central Bank Of Seychelles",
-                "text": "III.\n\nThe objective of the Policy is to provide information and guidance to the Board, employees and all counterparties of the Bank on standards of behaviour to ...",
+                "url": "https://www.cbs.sc/Downloads/legislations/Guidelines%20for%20Outsourcing.pdf",
+                "title": "OUTSOURCING GUIDELINES For Banks and Other Financial Institutions",
+                "text": "APPLICABILITY. These guidelines are applicable on all future outsourcing arrangements and those previously entered into by financial institution and other ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.cbs.sc/Downloads/monetaryfiles/RepurchaseAgreement/Operational%20Guidelines%20on%20Reverse%20Repurchase%20Agreement%20-%20Amended%20December%202024.pdf",
-                "title": "Open Market Operations December 2024 - Central Bank Of Seychelles",
-                "text": "Open Market Operations (OMOs) operates through an auction mechanism. It is used by the Central. Bank of Seychelles (thereafter referred to as the Bank) to ...",
+                "url": "https://www.cbs.sc/Downloads/monetaryfiles/Operational%20Guidelines%20for%20Minimum%20Reserve%20Requirement%20March%202025.pdf",
+                "title": "Operational Guidelines for Minimum Reserve Requirement March 2025 ...",
+                "text": "The Bank reserves the rights to amend any of the provisions in the document on the basis of its monetary policy stance and/or to reflect market conditions ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/covid19/Operational%20Measures/Operational%20Guidelines%20for%20the%20Purchase%20and%20Re-sell%20of%20Government%20Securities.amended%20May2021.pdf",
+                "title": "Guidelines for the Purchase and Re-sell of Government Securities",
+                "text": "The securities issued by the government, known as government securities, include Treasury bills. (T-bills) and Treasury bonds (T-bonds) issued under the ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbs.sc/monetary/MonetaryPolicy.html",
+                "title": "Monetary Policy - Central Bank of Seychelles",
+                "text": "What is Monetary Policy? Monetary Policy refers to decisions taken by Central Banks to manage the availability of money in an economy.",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
-            "Policy regulations guidelines policy regulations examples",
-            "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.cbs.sc/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.cbs.sc/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -132,33 +179,194 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbs.sc/MediaCenter/Speeches.html",
-                "title": "Speeches - Central Bank of Seychelles",
-                "text": "Remarks by Mr. Brian Commettant- Launching of the Youth for Youth Financial Education Ambassadors Programme -Second Cohort.",
+                "url": "https://www.cbs.sc/MediaCenter/PressRelease.html",
+                "title": "Press Release - Central Bank of Seychelles",
+                "text": "27 Jun, 2025. Financial Stability Committee publishes its report for 2024 ; 25 Jun, 2025. Outcome of the Q1 2025 Financial Stability Committee discussions ; 24 ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.cbs.sc/AMLCFT/News.html",
-                "title": "AML/CFT News - Central Bank Of Seychelles",
-                "text": "Press Releases ; 01-Oct-2019, Seychelles benefits from the expertise of a resident advisor to undertake reforms to strengthen the countrys AML-CFT framework ...",
+                "url": "https://www.cbs.sc/MediaCenter/Speeches.html",
+                "title": "Speeches - Central Bank of Seychelles",
+                "text": "Remarks by Mr. Brian Commettant- Launching of the Youth for Youth Financial Education Ambassadors Programme -Second Cohort.",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.cbs.sc/Downloads/legislations/Press%20Release%20FX%20Act%2011%2009%2009.pdf",
-                "title": "Press Release - Central Bank Of Seychelles",
-                "text": "The introduction of the new foreign exchange regime requires that providers of goods and services who were previously advertising in a foreign currency, ...",
+                "url": "https://www.cbs.sc/MediaCenter/PressRelations.html",
+                "title": "Press Relations - Central Bank Of Seychelles",
+                "text": "Speeches/Messages · Featured Publications · Calendar of Media Engagements · Video Gallery · Press Relations. Media Centre; Press Relations ...",
                 "source": "Central Bank Of Seychelles",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbs.sc/CollateralRegistry/PressRelease.html",
+                "title": "Press Release - Central Bank Of Seychelles",
+                "text": "Overview. What is Monetary Policy? The Current Framework. Others. Monetary Policy Instruments · Monetary Policy Technical Committee. Government Securities ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbs.sc/AMLCFT/News.html",
+                "title": "AML/CFT News - Central Bank Of Seychelles",
+                "text": "Seychelles has started drafting a law, appointed a national committee, launched a national strategy, and submitted progress reports on AML/CFT measures.",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.cbs.sc/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbs.sc/Downloads/publications/research/Climate%20change%20and%20its%20implications%20for%20inflation%20in%20the%20SADC%20region.pdf",
+                "title": "Climate change and its implications for inflation in the SADC ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cbs.sc&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///5ca6192e8de0be2c750ce13400da968dec0232a3cec8fb1740a51304cf5d16e4",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/publications/research/Climate%20change%20and%20its%20implications%20for%20inflation%20in%20the%20SADC%20region.pdf",
+                "title": "Climate change and its implications for inflation in the SADC ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cbs.sc&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///67ea5cc1f5488dce11ed03c572e38c335326ee6929430fbfe22dc84818c10408",
+                "position": 2
               }
             ]
           },
           "query": {
-            "q": "site:http://www.cbs.sc/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.cbs.sc/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbs.sc/MediaCenter/Notices.html",
+                "title": "Public Notices - Central Bank Of Seychelles",
+                "text": "Showing for 2025 ; 09 May, 2025. Notice - Temporary Downtime of the Seychelles Electronic Funds Transfer (SEFT) System ; 02 May, 2025. Notice - Generator Test - ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbs.sc/Alerts.html",
+                "title": "Alerts - Central Bank Of Seychelles",
+                "text": "Home; Alerts. Alerts. There are no current alerts issued. Home · Disclaimer · Public Holidays · Enquiry · Contact Us · About Us · Vacancies · Useful Links.",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbs.sc/Consumer/ConsumerAlert.html",
+                "title": "Consumer Alerts and Update - Central Bank Of Seychelles",
+                "text": "Consumer Laws · Consumer Complaint Handling · Consumer Complaint Data · Consumer Alert and Update · Consumer Awareness · Comparative Bank Charges and Fees.",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/legislations/2015.06.22%20Letter%20to%20all%20banks%20scam%20alerts%20and%20notices.pdf",
+                "title": "central bank of seychelles",
+                "text": "This is to advise that information pertaining to scams and notices relating to matters falling under the ambit of the Financial Services Authority (FSA) are ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/CollateralRegistry/Legislations/SI%2033%202021%20-%20Secured%20Transactions%20(Filing%20Notices%20Security)%202021.pdf",
+                "title": "SI 33 2021 - Secured Transactions (Filing Notices ... - Official Gazette",
+                "text": "operation on 3 May, 2021. Interpretation. 2. In these regulations, unless the context otherwise requires —.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "published_time": "2021-04-23T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbs.sc/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbs.sc/Aboutus/Communication.html",
+                "title": "Communications - Central Bank Of Seychelles",
+                "text": "The communications function was established in 2015, with the aim of having a more coordinated approach to both internal and external communication.",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/legislations/Guidelines%20on%20communication%20between%20CBS%20and%20the%20internal%20audit%20function%20of%20banks%20and%20other%20financial%20institutions.pdf",
+                "title": "CENTRAL BANK OF SEYCHELLES P. O. Box 701 Victoria, Seychelles",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cbs.sc&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///1c590d73472ebb592141a245afb9faa593a23da33c3165bbcf13bc00048f711a",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/legislations/Guidelines%20on%20communication%20between%20CBS%20and%20the%20internal%20audit%20function%20of%20banks%20and%20other%20financial%20institutions.pdf",
+                "title": "CENTRAL BANK OF SEYCHELLES P. O. Box 701 Victoria, Seychelles",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cbs.sc&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///4be9a057d7259dabaa10fa93a12e50594cdb4f7dfd631da326239d152fcae501",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/publications/aml/Directives/Directives%20to%20all%20FIs%20-%20Communication%20Mechanism%20-%20Correspondent%20Banks.pdf",
+                "title": "Directives to all FIs - Communication Mechanism - Correspondent Banks",
+                "text": "A correspondent banking arrangement involves one bank (the correspondent) providing a deposit account or other liability account, ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "published_time": "2021-05-12T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbs.sc/Downloads/mediaCenter/messages/Corporate%20Compliance%20and%20Ethics%20Week%202021%20-%20Message%20from%20the%20Governor.pdf",
+                "title": "Corporate Compliance and Ethics Week 2021 Message from the ...",
+                "text": "Joining organisations globally to celebrate Corporate Compliance and Ethics Week for the first time this year is yet another step taken by the Central Bank ...",
+                "source": "Central Bank Of Seychelles",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABR1BMVEUAAADw6NTg2Jzg0IDg0ITg0Ijw6NDo6LzYyHjo4LTw8Nz4+Pz4+PDw6Mjo4Lz48OTYyHzw6MTw8ODo4Ljw8NjYyHD4+Ozw6Mzw6MDYwGjYyGz48ODo4LD48OjYwGTIsCDAoATIqATQsATIqCDYyGTYyGjAqCDYwGD4+Oj4+PTo4MDIsCi4oATAqBjAqBDY0IDIqBjAoBTAoBDAoAzAqBTQwGD48OzIqCTQqATIsDTIsDDIsCzo4Kzg0Izo6MDQwFTAqBzQwFjIqBTQuDDQuFDQuETIuEDIsBzg2KDIqCjIqBzo6MTo2KTIqAzQwFzQuEzAoAjQuEjYyHTQuDzo2KDY0Hzw8NTQsBTg2Jjg0JDgyHTIsCTo4KjIqBDIqAjg2JTo2KjQuEDQuFT4+PjYyIDAqAjAqCTYyGDQwFDQuDTQsDDw8OTAqARmLoLUAAAAAXRSTlMAQObYZgAAAuJJREFUeAFlE2VD4zD0dU169TbUIEtLUlZ2SNcpOsfh3N0d/v/nwzWe5wpXQyrJMsIYIVRS4O64pyJNN05epqVh1b6FdlykmMQ6fU94kuIj17mOtwISRrYu3SthXNKUiWPk5BS5wnvUL7OYJNNcpKngM5UTUTHVLvmpyVicccE5n53l/PhRjQEMei4jzu7D3PxCyhd5XvMmaznnPJ2OwNKDMzsKAiDVRYM3W+2OE1fzVpM3RJ1ouuWe4AkCWFpe4asLfE0UhoHEOp9Z42JZ7zq9PgC4OkAnnW2KTnutjQB6tbXagLeG6cjUJRfALwyTcDEebWwW+ZZrmsV2rm7ubI4FJ1GIFdj1HKkq9vZrBwAlqj140M16AN2H9T3xyLFYCZDvlWfF/gADzPUZDk30gJkGyI/3xVCJfBmKUPJ468kTB57SsmM/e+Y5evYc4ie8xW0rRoAj+8VK+ymFQPTNCST5L3WTiCokz/O09CrG0NP93mue4kiMmB296R+8iWzWEfbblL9GRHkLWNLJO5c+U9+/OA0KtgFgdyEIKirV9LgHKFQ+fGwO80/bnqFrCUByXBZk61M7b34s6XMY0ATRM0ppttljns/cgvke621WgoBSS5mTAb1SlNX3+fLOU+wDvLGizwA6frwzk0+vKXG5gF1m+18qQeJuIWY/QIqEHtgMfXWTIHugELsEPg4J47Xmk9oWpnPGt8H37xQ/HT9p1jhzQiQBuJFiPKgGwdReF3V3JX+3+4MtJM+C5IH0xXcBgGCA76s/x79MC+NOHCYIT5oL9Z9rc9/nUP+iYEL0+xkw8fgFpbt/RNdQf8sxQOSelRwNj99/Z0bt9sL6bnd9er81WPhnAYSZc1m0AM6DSjWg6lSiBrTSeXAIMEfJVdnHJ2eynx6tpFy0M+9m2Z/IOLUmtN+oz97Y4cl7MiM3Wu8l8s8MOsXCSevdad6Clb8bsWMYZa2407xn7V/IqHCRLF9v//9FlWWvqyIytgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbs.sc/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

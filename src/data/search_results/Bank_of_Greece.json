@@ -16,29 +16,48 @@
                 "position": 1
               },
               {
-                "url": "https://www.bankofgreece.gr/en/the-bank/culture/publications",
-                "title": "Publications",
-                "text": "They primarily aim to underline and highlight the role of the Bank of Greece in the country's financial, social and cultural development.",
-                "source": "Τράπεζα της Ελλάδος",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
-                "position": 2
-              },
-              {
                 "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/publications-list",
                 "title": "Publications-list",
                 "text": "The publications of the Bank of Greece below, are available in pdf format and you can search for the one that may interest you.",
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/ecb-publications",
+                "title": "ECB-Publications",
+                "text": "The Economic Bulletin presents the economic and monetary information which forms the basis for the ECB Governing Council's policy decisions.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/the-bank/culture/publications",
+                "title": "Publications",
+                "text": "They primarily aim to underline and highlight the role of the Bank of Greece in the country's financial, social and cultural development.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/other-publications",
+                "title": "Other-Publications",
+                "text": "Other publications of the Bank of Greece include studies on the functioning of the Greek and the euro area economies as well as records of discontinued ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Publications reports publications reports pdf",
-            "Publications reports publications reports free"
+            "Publications reports publications reports examples",
+            "Publications reports publications reports free",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.bankofgreece.gr/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.bankofgreece.gr/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,12 +69,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bankofgreece.gr/en/publications-and-research/research/economic-bulletin",
+                "title": "Economic-Bulletin",
+                "text": "The Economic Bulletin publishes research papers on issues of relevance to the Greek economy. Featuring articles and studies of topical interest.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.bankofgreece.gr/en/statistics/monetary-and-banking-statistics",
                 "title": "Monetary-and-banking-statistics",
                 "text": "The Bank of Greece publishes on a monthly (or quarterly) basis data on bank deposits and credit, as well as on the key monetary aggregates.",
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.bankofgreece.gr/en/main-tasks/markets/hdat/statistical-data",
@@ -63,7 +90,7 @@
                 "text": "The data series are presented on a daily basis for the last 30 trading days and on a monthly basis from March 1999. The current year's daily trading volumes in ...",
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.bankofgreece.gr/en/the-bank/organisation/organisation-chart/statistics-directorate",
@@ -71,12 +98,20 @@
                 "text": "The purpose of Bank of Greece statistics is to provide reliable information to the general public and researchers in Greece and abroad.",
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/Target2Documents/T2%20UDFS%20CRDM%202.2.pdf",
+                "title": "Common Reference Data Management (CRDM)",
+                "text": "The User Detailed Functional Specifications (UDFS) of the Common Reference Data Management (CRDM) common component are part of the ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "published_time": "2021-04-01T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bankofgreece.gr/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.bankofgreece.gr/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -92,7 +127,7 @@
                 "title": "Monetary policy",
                 "text": "Monetary policy refers to decisions taken by central banks and influencing the cost and availability of money in an economy.",
                 "source": "Τράπεζα της Ελλάδος",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "favicon": "data:image/png;base64,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",
                 "position": 1
               },
               {
@@ -100,16 +135,32 @@
                 "title": "Monetary policy decisions and operational framework for monetary ...",
                 "text": "Learn about monetary policy decisions and the operational framework for monetary policy implementation.",
                 "source": "Τράπεζα της Ελλάδος",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAABHVBMVEUAAKABApoAAKMAAJ8BAJsAAJcAA5jX//7n//4AAJwAAKcAAKXh///U///c//7j///4//fP//wCBZIVNrvs//rr///c//ry//wAAKv4//4HAJQNIK9Nnumb6/3G/fnQ//p9s+UdLbKF0vW8//8iQMQGDaODvetThNczU8R0qOJafNFjhtRljdh8xfNwuO5jqOdJcs1Xlt6/7/0ABoup4/gtY8wABn+i4fcKLbccT8c4idtjvfE/fNMCF7MAAHKZy++v9f0AHIorYK6c3f8QQaIveeA0a9C/6PgNN8oOLMSE0vC+3fE5XtFiidxenNwjScVwousIG74kVtVCg+nU7vV9vfsvaNssaOYAB7mDp+Sm0exSbc1zieEeOagBCHIp8AsdAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIyOjA5OjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIyOjA5OjAxKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/PhisOucAAAOBSURBVDiNPZR5Y6JIEMUb6BYamkNFuTbxiGgOb3SCGTtmd3bDODEhTpxsNnt8/4+x1WCm/hL756vHq2qRgiuVsFKpSJKEKQmjX05OW622b8hIURRMMaZyDVGpqCPU6Z6dnlZbpz1ZFhSFUgyAcAkBhaW4X4VqtdQBAkhoAfRTqehHyXlVVQFSrQsDlZBSQJj8hCRyySzVBMrqxwiqaCc8fQgJilwxVUCq1Y2VEgKtD+goRYbMBMg8QqVQoQTGSQliMrTVEhpxVLwdJFBARLw+OUIaQKZpWWNZQCCDMUZgvAxJ+JbCKw2Mg5A1kUtLwGC5gMAOIRUQI1OrgBibyR/tisSFEi5zgJxM0U612UApAxdzKdoRcjROpXRuWWBJs6YfEJwqCRinUSeioEYVGi8gTdXS1GXhm5Di+0+IRLPF/PopFaOk8UhjlsU0c6XIMiW4fvP585rfovqm4bmufX0OU0LKTDBMm9ehHYlnd1W12Zr8ivqO43ga005WMAC6OmOWrWkLyJLG7YbbbLqu+hua9TcLk9nMuj6HHeJdm9maO+LwcdbwNNt1m19+R3HM09242rDtu3FP1v8wTcbYQOf3woZmnoyX0S0sHXg0ppnneY0uN75eQwTXW39oBw3X/LbuIEpvxWKJLaxvHM9p5vq+a1bP7o1t5mjs7CYSh0ZSQrD29YfA8wa6P7FZl9OdMHMjKwb8HiBUKEEtbc+b+MbattcIPXpNB9zregkpWCjBzOMn1xn5Rs6sHBvPDSeDG2MIJT1Bfm/W3rQfd5ERXTQXWz899LcyH2tZLutpvlrl6T5BzyxwAqisp/DZ3fJt//J9z++/jXqy/5zZzWbr7iVBC3Y4zOfzg/2DG3y9833u+2/pbuv7vcWBaZDMjwTVQbGXRlH6Ch441HYP5Rv+60s97S0fnyd/JoiE5X5jxGN5199svkD1VwrfdWAtJar7b58Q/F/AtsGOw4DQMICwPM91nojMY9gEWExFBwjOaSzhmHOEp26gwRK47pogiAgyplREUFwUHO/+al8Ml/X1u8aa1fb0az4dzC7rYj2FEtyTihTmDUfM7t7Is8BtR+ErxO8575GADAGFIQn/DhzXdZ1HXZ8FD50QXznCmZuDFAKIKnAjwqVT1CWkc7g0FPRP8Rh898EZeKqFtVot+ffhcMiy9zwkfJDWkmRqw+Mhy0Mo8t//CShwpuH0zRoAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy/monetary-policy-instruments",
-                "title": "The operational framework for the monetary policy | Bank of Greece",
-                "text": "The Eurosystem's monetary policy instruments include: Open market operations. The Eurosystem's open market operations play an important role in monetary policy.",
-                "source": "Τράπεζα της Ελλάδος",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "url": "https://www.bankofgreece.gr/RelatedDocuments/Regul_2019_2088_en.pdf",
+                "title": "REGULATIONS - EUR-Lex - European Union",
+                "text": "On 25 September 2015, the UN General Assembly adopted a new global sustainable development framework: the 2030 Agenda for Sustainable ...",
+                "favicon": "data:image/png;base64,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",
+                "published_time": "2016-10-05T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofgreece.gr/RelatedDocuments/6thWorkshop_Schmidt_presentation.pdf",
+                "title": "Passive Monetary Policy and Active Fiscal Policy in a Monetary Union",
+                "text": "“Fiscal backing” is the idea that fiscal policy can be passive most of the time, even all the time on the RE equilibrium path, but it must turn active in ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,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",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/RelatedDocuments/HDAT_Operating_Regulations.pdf",
+                "title": "Operating Regulations of the Electronic Secondary Securities ...",
+                "text": "OPERATING REGULATIONS. OF THE ELECTRONIC SECONDARY SECURITIES MARKET (HDAT). PART 1. GENERAL PROVISIONS. Article 1. Definitions. For the purposes and the ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,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",
+                "position": 5
               }
             ]
           },
@@ -118,7 +169,7 @@
             "Policy regulations guidelines policy regulations 2021"
           ],
           "query": {
-            "q": "site:https://www.bankofgreece.gr/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.bankofgreece.gr/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -138,25 +189,47 @@
                 "position": 1
               },
               {
-                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list",
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?category=c5722683-e7a9-40c8-adab-dc8bdfde8c1d&sorting=date",
                 "title": "News-list",
-                "text": "Today, the Bank of Greece published the latest issue of its Economic Bulletin (No. 61 / July 2025). The articles published in the Economic Bulletin reflect the ...",
+                "text": "Welcome speech of Dimitris Malliaropulos at the Opening Ceremony of the 2025 Annual Meeting of the European Financial Management Association ... Ladies and ...",
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=4ec750cc-3087-45a9-8949-78a768bc289a&year=all&sorting=date",
-                "title": "News-list",
-                "text": "News list · Commentary on the Balance Sheet and Profit and Loss Account for financial year 2024 · Balance Sheet and Profit and Loss Account for financial year ...",
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=a21c63fc-844d-462b-a5c1-ba83511d2d57",
+                "title": "Speech by the Governor of the Bank of Greece Yannis Stournaras titled ...",
+                "text": "Today, I would like to discuss how central banks can harness the transformative potential of artificial intelligence (AI) in their mission to ...",
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "published_time": "2025-06-06T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=268ef31d-1f21-449d-a0d1-54233aeef884",
+                "title": "Speech by the Governor of the Bank of Greece Yannis Stournaras \"The ...",
+                "text": "I will share with you our experience in dealing with NPLs in Greece and I will then outline the key challenges ahead for the banking system in the euro area.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "published_time": "2024-09-27T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=76af0fc2-8bd6-4c1a-a167-52c286e7d74d",
+                "title": "speech of Dimitris Malliaropulos at the Opening Ceremony of the 2025 ...",
+                "text": "25/06/2025 - Speeches · I. The U.S. Dollar as a Global Safe Asset: The Exorbitant Privilege · II. Economic Costs: Trade Deficits and Overvaluation.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press 2021"
+          ],
           "query": {
-            "q": "site:https://www.bankofgreece.gr/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.bankofgreece.gr/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -174,11 +247,153 @@
                 "source": "Τράπεζα της Ελλάδος",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
                 "position": 1
+              },
+              {
+                "url": "https://www.bankofgreece.gr/Publications/Paper200756.pdf",
+                "title": "Working Paper",
+                "text": "ABSTRACT. Monetary authorities intervene in the currency markets in order to pursue a monetary rule and/or to smooth exchange rate volatility caused by ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofgreece.gr/Publications/Paper200522.pdf",
+                "title": "Working Paper",
+                "text": "ABSTRACT. This paper considers an international oligopoly where firms simultaneously choose both the amount of output produced and the proportion of R&D ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankofgreece.gr/Publications/Paper200416.pdf",
+                "title": "Working Paper",
+                "source": "www.bankofgreece.gr",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bankofgreece.gr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///332e1e3310c5c2a471ad1a96b48a488c4452027e622e8c9fb2526eae9a1c2603",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/publications-and-research/research",
+                "title": "Research",
+                "source": "www.bankofgreece.gr",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bankofgreece.gr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bankofgreece.gr/PublishingImages/tiles/ereynitiki-drastiriotita-1.png",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bankofgreece.gr/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.bankofgreece.gr/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?category=4bce81e8-17f0-4dc6-ac52-8c9074d2f682",
+                "title": "Announcements | Bank of Greece",
+                "text": "See the full text of the Decisions of the 92nd Annual Ordinary General Meeting of Shareholders of the Bank of Greece – Voting results below. Dividend for ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=a9457d3f-23b0-4be0-ac8d-d2d902a72a3f&sorting=date&category=4bce81e8-17f0-4dc6-ac52-8c9074d2f682",
+                "title": "Announcements | Bank of Greece",
+                "text": "News list · Decisions of the 92nd Annual Ordinary General Meeting of Shareholders of the Bank of Greece – Voting results · Dividend for financial year 2024.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/main-tasks/markets/hdat/decisions-announcements",
+                "title": "Decisions-Announcements",
+                "text": "Announcement: Hellenic Republic Exchange and tender offer _ Supplementary ( December 6, 2021) · Announcement: Hellenic Republic New 10-year Greek Government Bond ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=4ec750cc-3087-45a9-8949-78a768bc289a&sorting=date&category=4bce81e8-17f0-4dc6-ac52-8c9074d2f682",
+                "title": "Announcements | Bank of Greece",
+                "text": "The Bank of Greece, in accordance with Article 14 of Law 3556/2007 and further to the relevant notification it received on 12 August 2020, announces that, ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?category=59da8f59-abfa-4946-b211-7b0169dc44c1&sorting=date&topic=0113750e-7929-45a6-8356-326df947bfba",
+                "title": "Announcements | Bank of Greece",
+                "text": "On Tuesday, 25 February 2025, the Bank of Greece, in collaboration with the Ministry of Environment and Energy and the Green Fund, organised the second ...",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bankofgreece.gr/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankofgreece.gr/AmiSeCoT2S/files/relevant/Messages-Templates-ver7.pdf",
+                "title": "Bank of Greece Securities Settlement System (BOGS)",
+                "source": "www.bankofgreece.gr",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bankofgreece.gr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///66c5153655eb8a009f368276990bf03da560e895fddae14210aa7619106d5e22",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankofgreece.gr/RelatedDocuments/Introduction_euro_one_year_after_2003_c36_02.pdf",
+                "title": "COMMUNICATION FROM THE COMMISSION TO THE COUNCIL, THE ...",
+                "source": "EUR-Lex - European Union",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bankofgreece.gr&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///54b4645361fee77743656954804e8c1cff1d584381f31bb4c067cf27c72ce649",
+                "published_time": "2003-02-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankofgreece.gr/RelatedDocuments/ANNEX_4_SWIFT_MESSAGES_ISO_15022_EN.pdf",
+                "title": "BANK OF GREECE SWIFT MESSAGES ISO 15022",
+                "text": "INTRODUCTION ............................................................................................................ 4. 2. SWIFT MESSAGES .",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankofgreece.gr/RelatedDocuments/%CE%91%CE%9D%CE%9D%CE%95%CE%A7_4%20_SWIFT_MESSAGES_ISO_15022_EN.pdf",
+                "title": "SWIFT MESSAGES ISO 15022_EN",
+                "text": "4.2 ΜΤ541 TRANSFER OF SECURITIES VERSUS PAYMENT (MT541 RECEIVE AGAINST. PAYMENT) .",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "published_time": "2015-06-01T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankofgreece.gr/AmiPayT2S/files/relevant/T2S_Auto_collateralisation.pdf",
+                "title": "T2S Auto-collateralisation - Static Data Set-up and Messages",
+                "text": "This presentation provides detailed steps of CMB configuration as well as messages and process flows involved in the auto-collateralisation in T2S.",
+                "source": "Τράπεζα της Ελλάδος",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAJkfJqim0OzM//+24/QHCZwUGaObwucoMq2Iqt1uidANEaBEVbtXbcU3RbV1I+FXAAAAcUlEQVR4AWMAAiEjBghwNg6AMIyNBWCMBBgDqkYZzBCvYJhswhA1m6HYuOGwOYOxJQP3YatNtpctHzAwsBmzKzgDaUaBw7uWWoG1yJyQu6Bsw7AtQPTW2rhtzxgYWBOMjblBBjGbpJQ6O4AZvALGBgwA27oZ8GShWyoAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bankofgreece.gr/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

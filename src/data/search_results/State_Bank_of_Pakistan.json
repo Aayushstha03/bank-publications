@@ -8,33 +8,68 @@
           "results": {
             "web": [
               {
-                "url": "https://www.sbp.org.pk/publications/others/Price-List-SBP-Publications.pdf",
-                "title": "SBP Publications and Their Prices",
+                "url": "https://www.sbp.org.pk/publications/index2.asp",
+                "title": "Publications - State Bank of Pakistan",
+                "text": "The State Bank of Pakistan publishes weekly, monthly, quarterly, bi-annual, and annual publications, including reports on the economy, finance, and banking.",
                 "source": "State Bank of Pakistan",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///1cd37d1c9cff2d42d7a2c75b90a879b0cd5f5f1e093f1231c600bba89d966aff",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.sbp.org.pk/reports/quarterly/fy09/first/URDU/Title.pdf",
-                "title": "Khifs\\SBP\\MPRC\\RD\\Urdu Translation\\Quarterly reports\\Q1FY09 ...",
-                "source": "www.sbp.org.pk",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///6c55d7c4439132938405b9a7f918fa6844e470e4c1e9708f64ba68e28c1742b0",
+                "url": "https://www.sbp.org.pk/reports/annual/index.htm",
+                "title": "SBP Annual Reports - State Bank of Pakistan",
+                "text": "SBP annual reports include 'Annual Report (State of the Economy)' and 'Statistical Supplement' reports, available in both English and Urdu versions.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "Publications / Annual Reports",
+                    "url": "https://www.sbp.org.pk/reports/annual/arFY18/Anul-index-eng-18.htm"
+                  },
+                  {
+                    "title": "English Version",
+                    "url": "https://www.sbp.org.pk/reports/annual/aarFY24/Annual-index-eng-24.htm"
+                  },
+                  {
+                    "title": "Urdu Version",
+                    "url": "https://www.sbp.org.pk/reports/annual/aarFY24/Annual-index-urd-24.htm"
+                  }
+                ],
                 "position": 2
               },
               {
-                "url": "https://www.sbp.org.pk/reports/annual/arfy08/Vol%201%20Urdu/List-terms.pdf",
-                "title": "khifs\\SBP\\MPRC\\RD\\Urdu Translation\\Annual reports\\Annual ...",
-                "source": "www.sbp.org.pk",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///028ad7a8852d5d9a1a33291c08412f2913e8971f28b20e74743c46e31b7c9d9e",
+                "url": "https://www.sbp.org.pk/psd/reports/index.htm",
+                "title": "Payment Systems Review - State Bank of Pakistan",
+                "text": "The State Bank of Pakistan provides quarterly payment system reviews and reports, including the 3rd quarter of 2024-25.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/reports/annual/arFY17/Vol-1/anul-index-eng.htm",
+                "title": "Publications / Annual Reports - State Bank of Pakistan",
+                "text": "Download Complete Report (7,872 MB) · Title (Size in pdf 379 KB) · Letter of Transmittal (Size in pdf 167 KB) · The Team (Size in pdf 156 KB) · Contents (Size in ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/reports/annual/arfy08/index.htm",
+                "title": "Publications / Annual Reports - State Bank of Pakistan",
+                "text": "1, Economic Outlook (Size in pdf 525 KB) ; 2, Economic Growth, Savings and Investment (Size in pdf 1.11 MB) ; 3, Prices (Size in pdf 642 KB) ; 5, Public Finance ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:http://www.sbp.org.pk/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.sbp.org.pk/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -46,41 +81,70 @@
           "results": {
             "web": [
               {
-                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2022/Aug/Complete.pdf",
-                "title": "Statistical Bulletin August 2022 - State Bank of Pakistan",
-                "text": "A part of the data in this publication have already been uploaded on EasyData portal and remaining bit will be updated soon.",
+                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/index.htm",
+                "title": "Monthly Statistical Bulletin - State Bank of Pakistan",
+                "text": "Annual. Research & Paper Series. Research & Paper Series. Occasional. Occasional. All. All. Publications / Monthly. Statistical Bulletin. 2025.",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
-                "published_time": "2022-08-23T00:00:00",
+                "sublinks": [
+                  {
+                    "title": "2024",
+                    "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2024/index.htm"
+                  },
+                  {
+                    "title": "2023",
+                    "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2023/index.htm"
+                  },
+                  {
+                    "title": "2012",
+                    "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2012/index.htm"
+                  }
+                ],
                 "position": 1
               },
               {
-                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2022/Sep/Complete.pdf",
-                "title": "Statistical Bulletin September 2022 - State Bank of Pakistan",
-                "text": "State Bank of Pakistan (SBP) collects, validates, compiles, disseminates, maintains and provides accurate, reliable and timely statistics to policy makers, ...",
+                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2024/Nov/MSB-Nov-24.pdf",
+                "title": "Statistical Bulletin - State Bank of Pakistan",
+                "text": "State Bank of Pakistan (SBP) produces reliable and timely statistics pertaining to central banking and related areas of interest for the use ...",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "published_time": "2024-11-05T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2022/May/ExternalSector.pdf",
-                "title": "SBP Monthly Statistical Bulletin - State Bank of Pakistan",
-                "text": "PERIOD. 2012-13. 2013-14. 2014-15. 2015-16. 2016-17. 2017-18. 2018-19. 2019-20. 2020-21. 2021-22. Jul. 94.3779. 100.4754. 98.6543 101.7194. 104.7388.",
+                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2025/May/MSB-May-25.pdf",
+                "title": "Statistical - State Bank of Pakistan",
+                "text": "State Bank of Pakistan (SBP) produces reliable and timely statistics pertaining to central banking and related areas of interest for the use ...",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "published_time": "2025-05-06T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2021/Feb/ExternalSector.pdf",
+                "title": "SBP Monthly Statistical Bulletin - State Bank of Pakistan",
+                "text": "PERIOD. 2011-12. 2012-13. 2013-14. 2014-15. 2015-16. 2016-17. 2017-18. 2018-19. 2019-20. 2020-21. Jul. 86.0204. 94.3779 100.4754. 98.6543. 101.7194.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/ecodata/MFSM_Dep_CS.pdf",
+                "title": "(STATISTICS & DATA SERVICES DEPARTMENT) STATE BANK OF ...",
+                "text": "Items. May-25P. Net Foreign Assets. 65,405. Claims on nonresidents. 7,290,179 less: Liabilities to nonresidents. 7,224,773. Domestic claims. 50,219,063.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Statistics bulletin data statistics data bulletin today",
             "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin 2022 pdf",
-            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin excel",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.sbp.org.pk/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.sbp.org.pk/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -92,39 +156,55 @@
           "results": {
             "web": [
               {
-                "url": "https://www.sbp.org.pk/l_frame/Regulations-LOLR-facility-for-Banks.pdf",
-                "title": "Regulations for Lender of Last Resort (LOLR) Facility under Section 17G ...",
-                "text": "Banks are important players in the financial system. Deposit-taking banks transform both liquidity and credit risks i.e. they extend relatively longer terms ...",
+                "url": "https://www.sbp.org.pk/publications/prudential/PRs-Microfinance-Banks-2025.pdf",
+                "title": "PRUDENTIAL REGULATIONS FOR MICROFINANCE BANKS (MFBs)",
+                "text": "In view of business growth and technological innovations in the sector, SBP has further strengthened the regulations in.",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "published_time": "2025-05-16T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.sbp.org.pk/psd/2023/C3-Enclosure-Regulations-EMIs.pdf",
-                "title": "Regulations for Electronic Money Institutions (EMIs)",
-                "text": "ACRONYMS. ADC. Alternative Delivery Channel. ANM. Agent Network Management. AML/CFT/CPF. Anti-Money Laundering, Combating the Financing of ...",
-                "source": "State Bank of Pakistan",
+                "url": "https://www.sbp.org.pk/bprd/2017/CL29-Annex.pdf",
+                "title": "banking policy & regulations department",
+                "text": "State Bank of Pakistan compiles a booklet of Regulations from time to time for convenience of users. The amendments are made in these regulations through ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
-                "published_time": "2023-06-21T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.sbp.org.pk/bprd/2019/C10-Branchless-Banking-Regulations.pdf",
-                "title": "Branchless Banking Regulations - State Bank of Pakistan",
-                "text": "1 Introduction. 1.1 Background a) Branchless Banking (BB) represents a significantly cheaper alternative to conventional.",
+                "url": "https://www.sbp.org.pk/publications/prudential/PRs-IPF-June-24.pdf",
+                "title": "PRUDENTIAL REGULATIONS - State Bank of Pakistan",
+                "text": "The related party exposures shall be subject to the following: a) Loans given to employees under the Bank's/DFI's respective Human Resource policies duly ...",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
-                "published_time": "2019-12-30T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/guidelines/index2.asp",
+                "title": "Guidelines - State Bank of Pakistan",
+                "text": "Licensing Guidelines ; Guidelines and Criteria for Setting Up a Commercial Bank ; Licensing Requirements and Guidelines for Setting Up Microfinance Banks ; Policy ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/guidelines/Mobile-C2.pdf",
+                "title": "GUIDELINES FOR MOBILE BANKING OPERATIONS OF MICROFINANCE ...",
+                "text": "licensed branch or areas/location within a radius of 50 Kilo Meters of the licensed branch could be covered through mobile banking.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.sbp.org.pk/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.sbp.org.pk/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -136,71 +216,219 @@
           "results": {
             "web": [
               {
-                "url": "https://www.sbp.org.pk/dfmd/press.pdf",
-                "title": "Press Communiqué Rescheduling Government of Pakistan Market ...",
-                "text": "Government of Pakistan MTB Auction originally scheduled to be held on 05-Jun-19 with settlement date of. 06-Jun-19 has been rescheduled due to Eid-ul-Fitr ...",
+                "url": "https://www.sbp.org.pk/press/releases.asp",
+                "title": "Press Releases - State Bank of Pakistan",
+                "text": "Press Releases. Press Releases ...",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.sbp.org.pk/press/2019/Pr1-04-Sep-19.pdf",
-                "title": "Press Release - Defence - Kashmir Day",
-                "text": "The Government of Pakistan has decided to commemorate Friday, September 6, 2019 as “Defence. Day” as well as “Kashmir Solidarity Day”.",
+                "url": "https://www.sbp.org.pk/ibd/speeches.htm",
+                "title": "Islamic Banking Department - State Bank of Pakistan",
+                "text": "What's New? Speeches · Online Tenders · Web Links · Educational Resources · Regulatory Returns · Library · Rupey ko Pehchano · Events · Zahid Husain Memorial ...",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.sbp.org.pk/press/2014/Warehouse-09-May-14.pdf",
-                "title": "PRESS RELEASE - State Bank of Pakistan",
-                "text": "The Deputy Governor Saeed Ahmad highlighted the importance of mass awareness of the initiative and advised to share with all stakeholders including farmers'.",
+                "url": "https://www.sbp.org.pk/finance/press.asp",
+                "title": "Press Releases - State Bank of Pakistan",
+                "text": "31-08-2017, SBP issues fresh banknotes worth Rs. 168 billion on Eid Ul Azha 2017 (31.08.2017) · Click Here ; 23-06-2017, Fresh Note Issuance on Eid-ul-Fitr 2017 ...",
                 "source": "State Bank of Pakistan",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/press/2024/index2.asp",
+                "title": "2024 - State Bank of Pakistan",
+                "text": "The future of banking in Pakistan will be driven by innovation, transparency, and an unwavering commitment to customer satisfaction: Governor SBP(30-11-2024).",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/press/2025/index2.asp",
+                "title": "2025 - State Bank of Pakistan",
+                "text": "Governor SBP stresses sound Macroeconomic Policies and Financial Inclusion as pillars for Pakistan's Economy at Women Entrepreneurs Finance Code Launch ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
           "query": {
-            "q": "site:http://www.sbp.org.pk/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.sbp.org.pk/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
     },
     {
-      "topic": "research",
+      "topic": "announcements",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.sbp.org.pk/research/bulletin/2010/vol6/Backpage.pdf",
-                "title": "The SBP-Research Bulletin greatly acknowledges the services ...",
-                "source": "www.sbp.org.pk",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///7dd25b121da11367cbac675a4ad22e7266530929aa02bdc6691713e88fcd1b3c",
+                "url": "https://www.sbp.org.pk/rtgs/presentations/ppt.asp",
+                "title": "Latest Updates for Banks - State Bank of Pakistan",
+                "text": "Presentations ; Centralized Netting Presentation ; Provision of Consolidated Nets. (Size in PDF 201 KB) ; NIFT Clearing and Settlement Proposal for Banks. (Size in ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.sbp.org.pk/research/bulletin/2018/Vol-14.1/Complete.pdf",
-                "title": "RESEARCH BULLETIN",
+                "url": "https://www.sbp.org.pk/reports/annual/arFY08/Vol2/Annexure-A.pdf",
+                "title": "AChronology of Policy Announcements",
                 "source": "State Bank of Pakistan",
                 "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///4bae21cf4589e4ca46fe476dd1a62ec923d3149bff6fd0051a717d468006e0e1",
+                "image": "x-raw-image:///15e14dc319a43ea6a266588acf4d80e22d081bf674978494ae46a72ee2f5b44b",
+                "published_time": "2008-06-28T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.sbp.org.pk/research/bulletin/2009/vol5/Title.pdf",
-                "title": "RESEARCH BULLETIN",
+                "url": "https://www.sbp.org.pk/reports/annual/arFY21/Vol-1/Annexure-A.pdf",
+                "title": "A Chronology of Important Policy Announcements",
                 "source": "State Bank of Pakistan",
                 "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///96bc427bb2a56b18b6ccac206493ec38321a88d70d80312ddd8e909ba2a18739",
+                "image": "x-raw-image:///a4ff0bc682d7ae21d3f8e540987fdc7b227b3b6f3e62556ef0219abccb7677ee",
+                "published_time": "2021-03-10T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/tenders/EvalReport/2016/DG-10-Jun-2016.pdf",
+                "title": "C:\\Users\\Mukkarram Khan\\Desktop\\Updates\\scan0059",
+                "source": "State Bank of Pakistan",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///0adc0e26715aeedc0a4f1383263ba4f089ccedc79ef066eb0c843d59f631001b",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/stats/Balance/2020/Citi_Bank.pdf",
+                "title": "Final Initialled Q4 2021.xlsx",
+                "source": "Citi.com",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///e4e41b8dc1590dc89a566270b8982e8b2dbf49c339830ff29c2ff510c6b00d4b",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.sbp.org.pk/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.sbp.org.pk/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.sbp.org.pk/sbp_bsc/PB-Notices-FAQs.asp",
+                "title": "Notices/FAQs - State Bank of Pakistan",
+                "text": "Instructions to Banks ; Extension in Last Date for Encashment/Conversion/Redemption of Rs.40,000/-, Rs.25,000/-, Rs.15,000/- & Rs.7,500/- Denomination National ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.sbp.org.pk/sbp_bsc/PPB-Notices-FAQs.asp",
+                "title": "Notices/FAQs - State Bank of Pakistan",
+                "text": "National Saving Schemes Customer Facilitation Portal. Premium Prize Bonds (Registered) Notices/FAQs. Prize Bonds Draw Schedule CY 2024.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.sbp.org.pk/sbp_bsc/bsc/epd/cases.pdf",
+                "title": "EXPORT OVERDUE CASES. ?? To issue show cause and legal notices ...",
+                "text": "EXPORT OVERDUE CASES. ?? To issue show cause and legal notices to the defaulter exporter for non-realization of proceeds.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/tenders/2017/TNDR-05-JUN-17.pdf",
+                "title": "TNDR-05-JUN-17.pdf",
+                "text": "Ref No. GSU/Auct/2017/- 5695. Dated: 02.06.2017....... /......................",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/tenders/2017/TNDR-27-JUL-17.pdf",
+                "title": "TNDR-27-JUL-17.pdf",
+                "text": "Ref No. GSU/Auct/2017/- 7440. Dated: 27.07.2017....... /.................",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.sbp.org.pk/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.sbp.org.pk/tenders/2021/TNDR-26-May-21.pdf",
+                "title": "INVITATION TO BID CONTINUOUS AND UNINTERRUPTED MANAGEMENT ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///308f0c8ee679fb62b0fbc40f39f2192d71be05d1444afec81e75974affcd99f7",
+                "position": 1
+              },
+              {
+                "url": "https://www.sbp.org.pk/tenders/2023/TNDR-19-Jun-23-1.pdf",
+                "title": "Continuous and Uninterrupted Management Services for PABX's ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///0eb022149d70ec33c4b09c67b744c9f2a550ea0bec113bde977edb6286b02caa",
+                "position": 2
+              },
+              {
+                "url": "https://www.sbp.org.pk/tenders/2020/TNDR4-29-Oct-20.pdf",
+                "title": "Consumables of Computer, Non Computer and Communication Items ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///c4181030e0841bc24cfc1b195f7f37a8bbbe6afd1027ba2f0225ffa1c7c4ede9",
+                "position": 3
+              },
+              {
+                "url": "https://www.sbp.org.pk/tenders/2022/TNDR-16-Dec-22.pdf",
+                "title": "Supply of Computer Consumables, Non-Computer Consumables and ...",
+                "source": "State Bank of Pakistan",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbp.org.pk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///5b3e9fa390edbaad61a6b8359f6bfaf732ffeaafda98da445dec39dbe97f342b",
+                "position": 4
+              },
+              {
+                "url": "https://www.sbp.org.pk/Media/pdf/CommunicationPolicy.pdf",
+                "title": "Communication Policy - State Bank of Pakistan",
+                "text": "Effective communication is key to demonstrate transparency and accountability of an institution. This entails prompt and proper flow of information.",
+                "source": "State Bank of Pakistan",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAgVBMVEX////d6uK00L6ixa+py7fU5dvt9PCNup+Ru6HH28/z+PVwq4jN4dWWv6aJuJucw6vq8+4AZwB7sJC20sH6/fxAj192rYtQmW7u9fGjyLIAdC7m8OotjVhZm3EAeDXH4NJjonwAbBgAcCMohU0SfkFHkmMAaQ9conk2kV5zqIax1MBQnAC0AAABb0lEQVR4Aa3R1WKEMBQE0IkV4jQ3aHYX1uX//6/u7WMH56AZ/EsYF5Krv+SuqrVR1ikf2E+LAoBGc98APHy3RBlQ9wltDUB35ot16KthhFSY4ljCCt2neckhNTA0602G8iqz9G6FjNRltii1AHpf5OKZfsNKBkZYtjPsMvDdPpNEE14ti+x52sqppd0urqdw2MnxSOwFdaRGuc52p3ma4inZMw2RsnhB4ZQkq3Nvn3BOMbhSk1D+Bf0d8Zg2rajnzUQete0v8szfMJ7loT0eV7WcdrPnT8/1FVC9IkBjvb6Kuex70LQcj5a/Iy9gyo6LVvAWTu2nhTnk+NqHNE7iKQX8ZZshGfRbd8F3ThXKN5SBGeTZxKN8b0brykY5F8ZI3W4kbxGSEd6SGoY06Cg5E3VRQa/MZy05AdB2AWewZ3mGDl8KLU960TMXclTJuBIKvsR0TuVDYyOVRKUz+B6quLojDqYrwu8w4WOsBcM/5BG9yBjdC8fO3gAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.sbp.org.pk/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

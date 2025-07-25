@@ -1,4 +1,283 @@
 {
   "Bank Name": "Central Bank of Venezuela",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publicaciones",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.org.ve/bcv/publicaciones",
+                "title": "Publicaciones periódicas | Banco Central de Venezuela",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcv.org.ve/publicacionestmp",
+                "title": "Publicaciones Económicas | Banco Central de Venezuela",
+                "text": "Desde sus inicios, el Instituto ha sido un importante productor y editor de información relacionada con el conocimiento económico y social venezolana.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcv.org.ve/catalogo/informes-la-asamblea-nacional",
+                "title": "Informes a la Asamblea Nacional | Banco Central de Venezuela",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcv.org.ve&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcv.org.ve/system/files/styles/large/private/publicaciones/portadas/portada_informe_an_2011.jpg?itok=mDp48GR1",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/publicaciones/docu162.pdf",
+                "title": "POVERTY DYNAMICS IN VENEZUELA: 2000-2013.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcv.org.ve&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///109ee35e43d66177b7a11e40a27835d862239dba61c9fcfcf5125f9ab4654e6c",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcv.org.ve/publicaciones/ndeg-118-impacto-de-la-politica-fiscal-y-monetaria-en-el-ciclo-economico-de-venezuela",
+                "title": "N° 118: Impacto de la política fiscal y monetaria en el ciclo ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcv.org.ve&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcv.org.ve/system/files/publicaciones/portadas/portada118.png",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publicaciones informes publicaciones informes 2022",
+            "Publicaciones informes publicaciones informes 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bcv.org.ve/ (inurl:publicaciones OR inurl:informes) OR (intitle:publicaciones OR intitle:informes)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "estadísticas",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.org.ve/sistemas-de-pago/slbtr/estadisticas",
+                "title": "Estadísticas | Banco Central de Venezuela",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcv.org.ve/tipopublicacion/boletin",
+                "title": "Boletín | Banco Central de Venezuela",
+                "text": "Publicación impresa o electrónica de carácter periódico, editada bajo un mismo título por alguna dependencia u organismo auxiliar (generalmente con ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/publicaciones/anuariofinanciero2016.pdf",
+                "title": "ANUARIO DE ESTADÍSTICAS DEL SECTOR FINANCIERO",
+                "text": "ADR. American Depositary Receipts. ADS. American Depositary Share. Banap. Banco Nacional de Ahorro y Préstamo. Banavih. Banco Nacional de Vivienda y Habitat.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcv.org.ve/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.bcv.org.ve%2Fsystem%2Ffiles%2Fpublicaciones%2Finformeasambleanac03.pdf",
+                "title": "D:\\Datos\\INFORME ASAMBLEA\\INFOR",
+                "text": "to presenta a la Asamblea Nacional la evaluación de la aplicación de sus políticas en. el contexto de las demás políticas públicas, así como un análisis del ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcv.org.ve/estadisticas-internacionales-de-diamantes-2016",
+                "title": "Estadísticas Internacionales de Diamantes 2016",
+                "text": "Fuente: https://kimberleyprocessstatistics.org/static/pdfs/public_statistics/2016/2016GlobalSummary.pdf.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcv.org.ve/ (inurl:estadísticas OR inurl:boletín OR inurl:datos) OR (intitle:estadísticas OR intitle:datos OR intitle:boletín)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "política_monetaria",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.org.ve/politica-cambiaria-y-monetaria",
+                "title": "Política Cambiaria y Monetaria - Banco Central de Venezuela |",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/publicaciones/bcvoz_econ_3-2019.pdf",
+                "title": "mecanismos para la articulación y dinamización del mercado cambiario",
+                "text": "La política cambiaria se refiere al conjunto de acciones que tiene como propósito incidir sobre el precio de las divisas y en.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/publicaciones/bcvozecon012019.pdf",
+                "title": "El Banco Central de Venezuela y su política monetaria: actuación reciente",
+                "text": "La crisis económica venezolana actual se ha manifestado a través de grandes desbalances macroeconómicos; reflejo de un modelo rentista que, sobre el amparo ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/publicaciones/docu118.pdf",
+                "title": "impacto de la política fiscal y monetaria en el ciclo económico de ...",
+                "text": "En este trabajo se realiza una descomposición de las series de producto e inflación en Venezuela utilizando datos trimestrales desde 1984 hasta el 1er ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcv.org.ve/lineamientos-de-politica-monetaria-semestre-i-2006",
+                "title": "Lineamientos de Política Monetaria, semestre I 2006",
+                "text": "Lineamientos de Política Monetaria correspondiente al primer semestre del año 2006.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Política regulaciones directrices política regulaciones pdf",
+            "Política regulaciones directrices política regulaciones 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bcv.org.ve/ (inurl:política OR inurl:regulaciones OR inurl:directrices) OR (intitle:política OR intitle:regulaciones)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "noticias",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.org.ve/comunicados-de-prensa/notas-de-prensa",
+                "title": "Notas de Prensa | Banco Central de Venezuela",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/estados_financieros/notas_estados_financieros_al_31.12.2012.pdf",
+                "title": "Últimas Noticias - Banco Central de Venezuela |",
+                "text": "El Banco Central de Venezuela (en lo sucesivo “BCV”, “Instituto” o “Banco”) fue creado según la Ley del 8 de septiembre de 1939 e inicia sus operaciones el ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/estados_financieros/notas_estados_financieros_al_30.06.2017.pdf",
+                "title": "Últimas Noticias - Banco Central de Venezuela |",
+                "text": "NOTA 1.- CONSTITUCIÓN, OBJETIvO Y OPERACIONES. El Banco Central de venezuela (en lo sucesivo BCv, Instituto o Banco) fue creado según la Ley.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/documentos/aviso280907.pdf",
+                "title": "Aviso 8x52 Comunicado de Prensa EL UNIVERSAL-9b def.pmd",
+                "text": "Con motivo de la proximidad del 1° de octubre de 2007, fecha a partir de la cual los precios de los bienes y servicios deben mostrarse,.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/documentos/oro070806.pdf",
+                "title": "oro aviso prensa - Banco Central de Venezuela |",
+                "text": "El Directorio del Banco Central de Venezuela, con el propósito de contribuir a fomentar el mercado nacional del oro y su democratización, ...",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcv.org.ve/ (inurl:noticias OR inurl:discursos OR inurl:prensa) OR (intitle:noticias OR intitle:discursos OR intitle:prensa)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "avisos",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.org.ve/Publicaciones/tipopublicacion/avisos",
+                "title": "Avisos | Banco Central de Venezuela",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcv.org.ve/bcv/plan-anual-de-compras/servicio-de-mantenimiento-y-restauracion-de-avisos-de-senalizacion",
+                "title": "SERVICIO DE MANTENIMIENTO Y RESTAURACION DE AVISOS DE ...",
+                "text": "MANTENIMIENTO Y REPARACIÓN DE AVISOS (NO ESTACIONE) DE SEÑALIZACIÓN METALICOS DE LA SUBSEDE MARACAIBO.",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcv.org.ve/system/files/documentos_juridicos/aviso_oficial_tasas_de_interes_enero_2021.pdf",
+                "title": "BANCO CENTRAL DE VENEZUELA - Directorio Legislativo",
+                "text": "Tasa activa estipulada durante el mes de diciembre de 2020 aplicable a los supuestos a que se refieren los artículos 128, 130, 142.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "published_time": "2021-01-14T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcv.org.ve/ (inurl:avisos OR inurl:alertas) OR (intitle:avisos OR intitle:alertas)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "comunicación",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcv.org.ve/bcv/servicios-de-comunicacion",
+                "title": "Servicios de comunicación | Banco Central de Venezuela",
+                "source": "Banco Central de Venezuela |",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEUAYpYAXJIAYJWOqsOGpL8AVI94m7lijbAAV5Brk7QAW5Jcia6WsMe1xtb////q7vOpvtH6+/yvwtPI1eHz9vhxlrYbaJm/ztwAT4ujuc4ATIqbtMksb50AR4dDeqTS3Obg5+4AQISWsFlQAAAAtklEQVR4AeVQhWHEMBCTKRyFmfdfsoZyu8HLcIx4FYiAL/79l+5TWiullbEmEyml4iS1qijLC61QsqrrhkUm0rpt267PI5IqGWqWGDnNJm8aYxbGJhm7co6bfkWiNoGd03GU5Do09QjI/ZQr+wPzlTqjw45MU2ewVgkJXutSWM5HXjbyy4iZt2ydZI0Jnr7/ltaFcjFAaCj+3lBmlRdrS/6OEgsgyz35uwRfeE+z/9cHZxV4IbwBJvwMfr+a7s0AAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcv.org.ve/ (inurl:comunicación OR inurl:mensajes) OR (intitle:comunicación OR intitle:mensajes)"
+          }
+        }
+      ]
+    }
+  ]
 }

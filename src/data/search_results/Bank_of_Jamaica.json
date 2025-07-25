@@ -2,22 +2,178 @@
   "Bank Name": "Bank of Jamaica",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/econ_stats/econ_stats_jun2011.pdf",
+                "title": "Jun 2011 - Bank of Jamaica",
+                "text": "Pages. Figures 1-6. 1. Monetary Aggregates. 2. Commercial Banks Assets and Liabilities. 2. Commercial Banks Deposits and Loans.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2011-06-01T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/econ_stats/econ_stats_nov2011.pdf",
+                "title": "Nov 2011 - Bank of Jamaica",
+                "text": "Pages. Figures 1-6. 1. Monetary Aggregates. 2. Commercial Banks Assets and Liabilities. 2. Commercial Banks Deposits and Loans.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2011-11-01T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/econ_stats/econ_stats_mar2011.pdf",
+                "title": "Mar 2011 - Bank of Jamaica",
+                "text": "Pages. Figures 1-6. 1. Monetary Aggregates. 2. Commercial Banks Assets and Liabilities. 2. Commercial Banks Deposits and Loans.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2011-03-01T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/econ_stats/econ_stats_feb2012.pdf",
+                "title": "Feb 2012 - Bank of Jamaica",
+                "text": "Pages. Figures 1-6. 1. Monetary Aggregates. 2. Commercial Banks Assets and Liabilities. 2. Commercial Banks Deposits and Loans.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2012-02-01T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/stats_digest/stats_digest_feb2005.pdf",
+                "title": "S:\\My Webs\\eip\\Publications\\Sta - Bank of Jamaica",
+                "text": "OTHER FINANCIAL INSTITUTIONS .................................................................................................. 36- 52.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2005-02-14T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/news/remittance_bulletin-_dec_2019_(002).pdf",
+                "title": "Remittances Bulletin - Bank of Jamaica",
+                "text": "December 2019: Net remittance inflows of US$212.0 million increased by 6.8 per cent or. US$13.5 million relative to December. 2018 (Chart 1).",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/remittance_bulletin-_september_2020.pdf",
+                "title": "Remittances Bulletin - Bank of Jamaica",
+                "text": "September 2020: Net remittance inflows of US$239.2 million increased by 38.4 per cent or. US$66.3 million relative to September. 2019 (Chart 1).",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/remittance_bulletin-_sep_2018.pdf",
+                "title": "Remittances Bulletin - Bank of Jamaica",
+                "text": "September 2018: Net remittance inflows of US$165.5 million decreased by 7.7 per cent or. US$13.7 million relative to. September 2017 (Chart 1).The.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/remittance_bulletin-_july_2020.pdf",
+                "title": "Remittances Bulletin - Bank of Jamaica",
+                "text": "July 2020: Net remittance inflows of US$274.7 million increased by 43.8 per cent or. US$83.7 million relative to July 2019. (Chart 1).",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/rem_updates/rem_updates_apr2020.pdf",
+                "title": "Remittances Bulletin - Bank of Jamaica",
+                "text": "April 2020: Net remittance inflows of US$159.7 million decreased by 8.8 per cent or. US$15.4 million relative to April 2019. (Chart 1).The decrease was.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "monetary_policy",
       "search_result": [
         {
           "results": {
             "web": [
               {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_Monetary_Policy_Management_in_Jamaica_.pdf",
+                "title": "Monetary Policy Management in Jamaica",
+                "text": "The monetary policy framework simply defines the process of transmission for policy actions taken and the impact on the final objective. The flow from policy ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
                 "url": "https://www.boj.org.jm/uploads/news/macroprudential-policy-tools-for-jamaica-discussionpaper.pdf",
                 "title": "MACROPRUDENTIAL Policy tools FOR JAMAICA",
                 "text": "Macroprudential policy describes the instruments and approach available to Bank of. Jamaica for the management of systemic risk. This discussion paper is ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_Tax_Policy_and_Economic_Growth_in_Jamaica.pdf",
+                "title": "Tax Policy and Economic Growth in Jamaica",
+                "text": "To examine the impact of Government's tax policy measures, the tax policy variable is defined as the share of tax revenue that is raised from a given tax as ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/boj_monetary_policy_and_financial_stability_communication_strategy.pdf",
+                "title": "BANK OF JAMAICA MONETARY POLICY AND FINANCIAL ...",
+                "text": "3.4 Monetary Policy Communication Practices\n\n1 Monetary policy operations revolve around a schedule of monetary policy decisions and ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2018-11-05T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "http://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_monetary_policy_rules_and_the_transmission_mechanism_in_jamaica.pdf",
+                "title": "Monetary Policy Rules and the Transmission Mechanism in Jamaica",
+                "text": "Abstract. This paper uses an aggregated small-scale macroeconomic model to study the monetary transmission mechanism in Jamaica.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations ppt",
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2021"
+          ],
           "query": {
-            "q": "site:http://www.boj.org.jm/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.boj.org.jm/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -45,18 +201,145 @@
                 "position": 2
               },
               {
-                "url": "https://www.boj.org.jm/uploads/news/bank_of_jamaica_30-day_cd_auction_press_release_30_nov_2020.pdf",
-                "title": "News Release 30 November 2020 - Bank of Jamaica",
+                "url": "https://www.boj.org.jm/uploads/news/bank_of_jamaica_30-day_cd_auction_press_release_25_jan_2021.pdf",
+                "title": "News Release 25 January 2021 - Bank of Jamaica",
                 "text": "Bank of Jamaica announces the issue of a 30-day fixed rate Certificate of Deposit. This instrument will be allocated through a competitive ...",
                 "source": "Bank of Jamaica",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
-                "published_time": "2020-11-30T00:00:00",
+                "published_time": "2021-01-25T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/news_release_7_may_2020.pdf",
+                "title": "News Release: 7 May 2020 - Bank of Jamaica",
+                "text": "Note: Statutory cash reserve and current accounts of commercial banks are held at the Bank of Jamaica. 1/ Transaction balances and excess ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2020-05-07T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/boj_omo_press_release_19_march_2015.pdf",
+                "title": "News Release 19 March 2015 Offer of Instruments by the Bank of Jamaica ...",
+                "text": "(i) The offer of BOJ VR-CD 2016L is for an unlimited amount. The tenor of this instrument is 364- days. The instrument re-prices quarterly ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2015-03-19T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.boj.org.jm/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.boj.org.jm/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_The_Lead-lag_Structure_of_Interest_Rate_Relationships_in_Jamaica.pdf",
+                "title": "Working Paper The Lead-lag Structure of Interest Rate Relationships in ...",
+                "text": "This paper analyses the lead-lag relationship between overnight and thirty-day interest rates in the private money market as well as the response of these ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_Exploring_the_Contribution_of_Permanent_and_Temporary_Shocks_to_the_Real_Effective_Exchange_Rate_on_the_Current_Account_Imbalance_in_Jamaica.pdf",
+                "title": "Working Paper - Bank of Jamaica",
+                "text": "This paper reviews the relationship between the real effective exchange rate (REER) and current account imbalances, with a view to determining the proportion of ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_The_Effects_of_U.S._Unconventional_Monetary_Policy_on_Asset_Prices_Selected_in_Latin_America_and_Caribbean_Economies.pdf",
+                "title": "1 Working Paper The Effects of U.S. Unconventional Monetary Policy on ...",
+                "text": "Using a series of SVAR models, this study evaluates the relative effects of U.S. unconventional monetary policy shocks on asset prices in selected Latin ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_Estimating_Fundamental_Equilibrium_Exchange_Rate_for_Jamaica.pdf",
+                "title": "Working Paper Estimating Jamaica's Fundamental Equilibrium ...",
+                "source": "CERT",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.boj.org.jm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///268aedf344974bcb2d798c35d246906af2f56ed5ed843e300dd58e153191f2e0",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/papers_pamphlets/papers_pamphlets_Estimating_Fundamental_Equilibrium_Exchange_Rate_for_Jamaica.pdf",
+                "title": "Working Paper Estimating Jamaica's Fundamental Equilibrium ...",
+                "source": "CERT",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.boj.org.jm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///124c9e20cb1a2e6e8b8c0e1ad7fac4ea4365b84111c01c9afe83aec27aa06f69",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/news/press_release_-_monetary_policy_decision_schedule_2018.pdf",
+                "title": "Bank of Jamaica Monetary Policy 2018 Schedule for Policy Interest ...",
+                "text": "This public commitment to a schedule for announcing monetary policy decisions is intended to improve the transparency of Bank of Jamaica's ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/webp;base64,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",
+                "published_time": "2018-02-13T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.org.jm/uploads/pdf/JamClear-Communication-Framework-with-External-Participants.pdf",
+                "title": "JamClear® Communication Framework With External Participants",
+                "text": "Overview. A key principle of business continuity is communication. Financial regulatory authorities, such as the Central Bank and ...",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2021-01-18T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.org.jm/uploads/news/boj_monetary_policy_and_financial_stability_communication_strategy.pdf",
+                "title": "BANK OF JAMAICA MONETARY POLICY AND FINANCIAL ...",
+                "text": "1.1 Mandate of Bank of Jamaica. In October 2018, the Government tabled in Parliament a Bill for proposed amendments.",
+                "source": "Bank of Jamaica",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEVHcEz////////////////////////////////////////////////V1daHh4jh4eHPz8/Jycp6enu5ubmTk5TCwsP09PT4+Pjc3N1vb3Cnp6izs7RjY2Sampvw8PDo6OihoaFPT1AoKCk5OToAAACg/AP/AAAADHRSTlMAr5ozt2YY539H0N67354EAAABgUlEQVQokWWS13bjMAxE5SrbGRawN1FSdv//G0MpllvwyHuAwQzRdVtdQFwpTrh0f+orzJoBXs/h65P1WiE2CO2V7t/ZkTi5aOGcAjgdX9nVFR2UlPDcmn+1uOvr0OKZMdUzgWoNWHwZfB05MI6eKJCT00xmfLYeOZOoYNK3jcCK0fypipi/0wgWsJbJKNjYQQxeDoAIYoUp5UEc7vCUafq27TWzX1qMzKc73Bv9P69yQ11ysEOyZn+HO9X8rT2BWQe4aYLabcuqNE/rPD6yts04iElt6+4iRu4WTcPITN5l0KNzz0mpZWzQUkaqXlnPN81LMlzpu2bLKpSY0varV5nEumxi0ja/TUHLR36ILQEBMYsW/yLeHh7x3QooaeeEYEO7kyWG2wOerA7ZBmJWrwjanh6ww4wRsmpbUWuD83Nq27flbrMRgqqcEgb5doG9Yq13MUOamHq/sDOK/P1MVFZwfoPdAZyvXj3nOHQfde5FjJzHKPrzJ1sM3drZ4vZi4gehGCIaED2DBwAAAABJRU5ErkJggg==",
+                "published_time": "2018-11-05T00:00:00",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.org.jm/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -7,6 +7,30 @@
         "title": "Publications & Research - Central Bank of Malta",
         "text": "The Central Bank of Malta's main publications are the Quarterly Review, the Annual Report and the Financial Stability Report.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankmalta.org/all-pubs-res",
+        "title": "All Publications & Research - Central Bank of Malta",
+        "text": "All Publications & Research ; FSR, Financial Stability Report 2024 ; Economic Update, Economic Update 6/2025 ; CRFDR, Climate-Related Financial Disclosures Report ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.centralbankmalta.org/misc-reports-pubs",
+        "title": "Miscellaneous Reports & Publications - Central Bank of Malta",
+        "text": "Miscellaneous Reports & Publications ; The Malta Government Stocks Market - 2023 in Review, Therese Lethridge, Emmanuel Farrugia, Kimberley C. Agius ; Analysis of ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.centralbankmalta.org/all-pubs-res-2023",
+        "title": "All Publications & Research 2023 - Central Bank of Malta",
+        "text": "All Publications & Research 2023 ; Outlook 2023:4 - Box 1, The effect of a rise in minimum wages on average wage growth ; Outlook for the Maltese Economy, Outlook ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.centralbankmalta.org/ext-pub",
+        "title": "External Publications - Central Bank of Malta",
+        "text": "External Publications ; Report on monetary policy tools, strategy and communication, Andrea Tosato & co-authors ; A strategic view on the economic and inflation ...",
+        "listing_probability": 1.0
       }
     ]
   },
@@ -23,13 +47,19 @@
         "url": "https://www.centralbankmalta.org/weekly-bulletin-report",
         "title": "Weekly Bulletin Report - Central Bank of Malta",
         "text": "The Weekly Bulletin Report is published on a weekly basis and provides an overview on the developments in the local bond market that occurred during the ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.centralbankmalta.org/research-bulletin",
         "title": "Research Bulletin - Central Bank of Malta",
         "text": "The Research Bulletin is an annual publication meant to showcase, in a concise and approachable manner, part of the Bank's research.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankmalta.org/collecting",
+        "title": "Collecting, compiling, disseminating and publishing statistics",
+        "text": "The Central Bank of Malta collects and compiles a wide variety of monetary, financial and other macroeconomic statistics.",
+        "listing_probability": 0.2
       }
     ]
   },
@@ -37,22 +67,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.centralbankmalta.org/policy-notes-2024",
-        "title": "Policy Notes 2024 - Central Bank of Malta",
-        "text": "List of policy notes for 2024.",
-        "listing_probability": 0.98
+        "url": "https://www.centralbankmalta.org/file.aspx?f=93168",
+        "title": "An overview of the ECB's monetary policy strategy - European Union",
+        "text": "The new monetary policy strategy of the European Central Bank (ECB) was published on 8 July 2021. While the mandate is conferred upon the ECB by the.",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.centralbankmalta.org/macro-prudential-policy",
-        "title": "Macroprudential policy - Central Bank of Malta",
-        "text": "The main objective of macro-prudential policy is to reduce the build-up of risks in the financial sector and significant spill-overs to the real economy.",
+        "url": "https://www.centralbankmalta.org/file.aspx?f=40",
+        "title": "Oversight Policy Document - Central Bank of Malta",
+        "text": "Payment systems provide channels through which funds may be transferred among credit institutions and other institutions to discharge the payment ...",
         "listing_probability": 0.05
       },
       {
         "url": "https://www.centralbankmalta.org/monetary-policy",
         "title": "Monetary policy - Central Bank of Malta",
         "text": "The primary objective of monetary policy in the euro area is price stability, which implies avoiding prolonged inflation and deflation.",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbankmalta.org/policy-notes-2024",
+        "title": "Policy Notes 2024 - Central Bank of Malta",
+        "text": "List of policy notes for 2024.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankmalta.org/macro-prudential-policy",
+        "title": "Macroprudential policy - Central Bank of Malta",
+        "text": "The main objective of macro-prudential policy is to reduce the build-up of risks in the financial sector and significant spill-overs to the real economy.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -60,22 +102,34 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.centralbankmalta.org/news/93/2025/11290",
-        "title": "News Releases 2025 - Central Bank of Malta",
-        "text": "The latest business dialogue held between the Central Bank of Malta and non-financial corporations shows that in the second quarter of 2025, ...",
-        "listing_probability": 0.1
-      },
-      {
         "url": "https://www.centralbankmalta.org/news",
         "title": "News - Central Bank of Malta",
         "text": "News · News Releases · Releases - ECB/ESRB/EBA.",
-        "listing_probability": 0.9
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbankmalta.org/news/93/2025/11290",
+        "title": "News Releases 2025 - Central Bank of Malta",
+        "text": "The latest business dialogue held between the Central Bank of Malta and non-financial corporations shows that in the second quarter of 2025, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbankmalta.org/news/93/2025/11284",
+        "title": "News Releases 2025 - Central Bank of Malta",
+        "text": "The Central Bank of Malta has released its seventeenth edition of the Financial Stability Report (Report), providing a comprehensive ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbankmalta.org/en/news/93/2025/11283",
+        "title": "News Releases 2025 - Central Bank of Malta",
+        "text": "The Acting Governor of the Central Bank of Malta participates in the IMF-World Bank constituency meeting in Varese, Italy.",
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.centralbankmalta.org/en/news/14/2025/11280",
         "title": "News Releases 2025 - Central Bank of Malta",
         "text": "Bank officials gave presentations on a wide range of related topics, including best practice in AML/CFT, payments policy and compliance and the ...",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
       }
     ]
   },
@@ -86,7 +140,7 @@
         "url": "https://www.centralbankmalta.org/methodologies-research-working-papers",
         "title": "Methodologies, Research & Working Papers - Central Bank of Malta",
         "text": "Financial Stability: Working Papers and Other Studies · Home · Financial Stability · Working Papers and Other Studies · Methodologies, Research & Working Papers.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.centralbankmalta.org/working-papers-2024",
@@ -99,6 +153,34 @@
         "title": "Working Papers 2022 - Central Bank of Malta",
         "text": "Working Papers 2022 ; Working Paper, Title ; 06/22, Assessing the impacts of the COVID-19 wage supplement scheme: A microsimulation study ; 05/22, MEDSEA-FIN: An ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbankmalta.org/wp-2025",
+        "title": "Working Papers 2025 - Central Bank of Malta",
+        "text": "Working Papers 2025 ; Working Paper, Title ; 4/25, Where does Malta's P2P rental market fit? A case study for 2023 ; 3/25, Analysis of the payment habits in Malta ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbankmalta.org/coronavirus",
+        "title": "Coronavirus (COVID-19) Updates - Central Bank of Malta",
+        "text": "The Bank has suspended both incoming and outgoing business and training travel until further notice. · In line with the World Health Organisation advice on the ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.centralbankmalta.org/en/ext-pub-2025-4",
+        "title": "Report on monetary policy tools, strategy and communication",
+        "text": "The report underscores the importance of a monetary policy strategy that enables the Governing Council to effectively respond to major changes in the inflation ...",
+        "listing_probability": 0.05
       }
     ]
   }

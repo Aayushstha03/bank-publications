@@ -6,7 +6,25 @@
         "url": "https://www.mas.gov.sg/publications",
         "title": "Publications - Monetary Authority of Singapore",
         "text": "Showing 1 - 10 of 1008 results · Financial Sector Development Fund Annual Report · Annual Reports. Published Date: 15 July 2025. Annual Report 2024/2025.",
-        "listing_probability": 1.0
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.mas.gov.sg/publications/sustainability-report",
+        "title": "Publications - Monetary Authority of Singapore",
+        "text": "Find information related to publications using the search bar below. Search suggestions.",
+        "listing_probability": 0.4
+      },
+      {
+        "url": "https://www.mas.gov.sg/publications/financial-stability-review",
+        "title": "Publications - Monetary Authority of Singapore",
+        "text": "The MAS publishes annual Financial Stability Reviews, which contain analyses and results of assessments of Singapore's financial system.",
+        "listing_probability": 0.4
+      },
+      {
+        "url": "https://www.mas.gov.sg/publications/monographs-or-information-paper/2024",
+        "title": "Publications - Monetary Authority of Singapore",
+        "text": "MAS publishes on topics like AI risk management, ESG funds, proliferation financing, and anti-money laundering strategies.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -17,7 +35,7 @@
         "url": "https://www.mas.gov.sg/statistics/monthly-statistical-bulletin",
         "title": "Monthly Statistical Bulletin - Monetary Authority of Singapore",
         "text": "The Monthly Statistical Bulletin (MSB) provides key monetary, banking and financial market statistics to inform market participants, analysts and the wider ...",
-        "listing_probability": 0.85
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.mas.gov.sg/statistics",
@@ -26,10 +44,22 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.mas.gov.sg/statistics/monthly-statistical-bulletin/data-on-housing-and-bridging-loans",
+        "title": "Data on Housing and Bridging Loans - Monetary Authority of Singapore",
+        "text": "Get data on housing and bridging loans, new loans limits granted, average loan-to-value ratio as well as non-performing loan (NPL).",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.mas.gov.sg/statistics/monthly-statistical-bulletin/i-17a-credit-and-charge-card-statistics",
         "title": "I.17A Credit and Charge Card Statistics",
         "text": "I.17A Credit and Charge Card Statistics ; Number of Principal Cardholders, 6,271,929, 6,237,819 ; Number of Supplementary Cardholders, 928,425 ...",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.mas.gov.sg/statistics/insurance-statistics",
+        "title": "Insurance Statistics - Monetary Authority of Singapore",
+        "text": "View yearly insurance statistics, including key financial indicators, industry data, and life and general insurance returns.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -37,22 +67,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.mas.gov.sg/regulation/regulations-and-guidance",
+        "url": "https://www.mas.gov.sg/regulation/regulations-and-guidance?content_type=Guidelines",
         "title": "Regulations and Guidance - Monetary Authority of Singapore",
-        "text": "Provides guidance to financial institutions operating online trading and investment platforms on the use of Two-factor authentication to ...",
-        "listing_probability": 0.95
+        "text": "Guidelines on processes and controls to prevent money laundering and countering the financing of terrorism, in relation to general insurance and reinsurance ...",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management/Guidelines.aspx",
-        "title": "Regulations and Guidance - Monetary Authority of Singapore",
-        "text": "Guidelines for variable capital companies on Notice VCC-N01 on the prevention of money laundering and countering the financing of terrorism.",
-        "listing_probability": 0.95
+        "url": "https://www.mas.gov.sg/regulation/guidelines/guidelines-to-notice-psn01-on-aml-and-cft",
+        "title": "Guidelines to Notice PSN01 on Prevention of Money Laundering ...",
+        "text": "These guidelines provide guidance to payment service providers on the requirements in Notice PSN01 on Prevention of Money Laundering and Countering the ...",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.mas.gov.sg/regulation/regulations-and-guidance?topics=Conduct",
+        "url": "https://www.mas.gov.sg/regulation/payments/regulations-and-guidance",
         "title": "Regulations and Guidance - Monetary Authority of Singapore",
-        "text": "Guidelines on fit and proper criteria for all relevant persons carrying out any activity regulated by MAS. Fit and Proper Criteria.",
-        "listing_probability": 0.95
+        "text": "MAS is governed by the MAS Act, which confers on it powers to issue legal instruments for regulation and supervision of financial institutions.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/guidelines/guidelines-to-mas-notice-faa-n06-on-prevention-of-money-laundering-and-cft",
+        "title": "Guidelines to Notice FAA-N06 on Prevention of Money Laundering ...",
+        "text": "Guidelines for financial advisers on the requirements in Notice FAA-N06 for the prevention of money laundering and countering the financing of terrorism.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/guidelines/guideline-sfa-04-g05-on-licensing-registration-and-conduct-of-business-for-fund-managers",
+        "title": "Guidelines on Licensing and Conduct of Business for Fund Management ...",
+        "text": "These guidelines set out the eligibility criteria and application procedures for licensed fund management companies (LFMCs) and venture capital fund managers ( ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -60,13 +102,13 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.mas.gov.sg/news?content_type=Speeches",
+        "url": "https://www.mas.gov.sg/news",
         "title": "News - Monetary Authority of Singapore",
         "text": "Mr Chia Der Jiun, Managing Director of MAS, spoke on economic developments and monetary policy as well as the developments in Singapore's financial sector.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.mas.gov.sg/news",
+        "url": "https://www.mas.gov.sg/news?content_type=Speeches",
         "title": "News - Monetary Authority of Singapore",
         "text": "Mr Chia Der Jiun, Managing Director of MAS, spoke on economic developments and monetary policy as well as the developments in Singapore's financial sector.",
         "listing_probability": 0.95
@@ -75,7 +117,19 @@
         "url": "https://www.mas.gov.sg/news?focus_areas=International%20Engagement&focus_areas=FinTech&focus_areas=Sustainable%20Finance&focus_areas=Digital%20Currencies",
         "title": "News - Monetary Authority of Singapore",
         "text": "News Type ; Media Releases (165) ; Speeches (67) ; Videos (7) ; Parliamentary Replies (5) ; Letters to Editor (1) ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.mas.gov.sg/news?focus_areas=Sustainable%20Finance",
+        "title": "News - Monetary Authority of Singapore",
+        "text": "Media Releases Published Date: 12 November 2024 Singapore Commits US$500 Million in Matching Concessional Funding to Support Decarbonisation in Asia.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.mas.gov.sg/news?focus_areas=Enforcement",
+        "title": "News - Monetary Authority of Singapore",
+        "text": "Read the latest news and announcements.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -83,10 +137,91 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no-29",
-        "title": "Review of Literature & Empirical Research on Corporate ...",
-        "text": null,
+        "url": "https://www.mas.gov.sg/publications/staff-papers/1997/mas-occasional-papers-no--3--dec-1997",
+        "title": "Whither the Renminbi - Monetary Authority of Singapore",
+        "text": "1 Is the renminbi undervalued or overvalued? This question has perplexed analysts because of conflicting signals from the economy.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.mas.gov.sg/publications/monographs-or-information-paper/2023/working-paper-on-accelerating-the-early-retirement-of-coal-assets-through-carbon-credits",
+        "title": "Working Paper on Accelerating the Early Retirement of Coal-Fired ...",
+        "text": "A working paper which sets out how high-integrity carbon credits can be utilised as a complementary financing instrument to accelerate and scale the early ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.mas.gov.sg/bonds-and-bills/cmtbs-information-for-institutions/announcements",
+        "title": "Announcements - Monetary Authority of Singapore",
+        "text": "Get notified whenever news and updates are posted on this website. Contact Us · Go to MAS LinkedIn; Go to MAS Twitter; Go to MAS Youtube.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/circulars/circular-on-updates-to-singapore-ml-nra-and-tf-nra",
+        "title": "Circular on Updates to Singapore's (I) Money Laundering National Risk ...",
+        "text": "This circular highlights to financial institutions (FIs) Singapore's updated ML NRA and TF NRA, and reminds FIs to identify, assess and understand ML/TF risks.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/circulars/id19_23",
+        "title": "ID 19/23 Updates to Guidelines on Outsourcing",
+        "text": "Informs all insurers on the expectation to submit their outsourcing registers to MAS annually by 31 March of each year or upon MAS' request.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/interest-rate-benchmarks-transition/circular-updates-and-faqs-on-supervisory-expectations-for-benchmarks-transition",
+        "title": "Updates and FAQs on Supervisory Expectations for Benchmarks ...",
+        "text": "MAS has extended the timeline for financial institutions (FIs) to cease new JPY LIBOR derivatives contracts that mature after end-December 2021.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.mas.gov.sg/regulation/notices/notice-sfa-04-n02",
+        "title": "Notice SFA 04-N02 to Capital Markets Intermediaries on Prevention of ...",
+        "text": "Requirements for capital markets intermediaries on anti-money laundering (AML) and countering the financing of terrorism (CFT).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulations-and-financial-stability/regulations-guidance-and-licensing/commercial-banks/notices",
+        "title": "Regulations and Guidance - Monetary Authority of Singapore",
+        "text": "Showing 1 - 10 of 156 results · Notices. 30 June 2025 · Notices. 30 June 2025 · Notices. 18 December 2024 · Notices. 10 December 2024 · Notices.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/notices/notice-626",
+        "title": "Notice 626 Prevention of Money Laundering and Countering the ...",
+        "text": "Requirements for banks on anti-money laundering (AML) and countering the financing of terrorism (CFT).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.mas.gov.sg/regulation/notices/psn04-notice-on-submission-of-regulatory-returns",
+        "title": "PSN04 Notice on Submission of Regulatory Returns",
+        "text": "This Notice applies to all licensees, and sets out the periodic regulatory reporting of information related to the licensees' payment services.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.mas.gov.sg/regulation/external-publications/due-diligence-and-transparency-regarding-cover-payment-messages-related-to-crossborder-wire-transfers",
+        "title": "Due Diligence and Transparency Regarding Cover Payment ...",
+        "text": "Basel Committee on Banking Supervision (BCBS)'s paper on supervisory expectations related to payment messages for cover payments.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.mas.gov.sg/search?q=snaphack%2C%E3%80%902024%20TelegramChannel%3AKunghac%E3%80%91my%20snapchat%20was%20hacked%20reddit%2Csnapchat%20hack%20deleted%20messages%2Chack%20my%20snapchat%20account%2Csnapchat%20streak%20hack%2Chack%20into%20my%20old%20snapchat%2Chack%20someones%20snapchat%20reddit%2Csnapchat%20got%20hacked%2Csecret%20hacks%20on%20snapchat%2Cmspy%20snapchat%20hack%2Csnaphack%20v3%2C....25b2",
+        "title": "Search - Monetary Authority of Singapore",
+        "text": "Dear Sir, I refer to \"Shopkeeper refused to take my 5-cent coins\" (The New Paper Speak Up, 2 October 2006). 2 Under the Currency Act, ...",
+        "listing_probability": 0.95
       }
     ]
   }

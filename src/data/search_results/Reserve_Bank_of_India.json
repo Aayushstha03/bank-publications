@@ -1,4 +1,386 @@
 {
   "Bank Name": "Reserve Bank of India",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/Scripts/Publications.aspx?publication=Annual",
+                "title": "Annual - RBI",
+                "text": "This question is for testing whether you are a human visitor and to prevent automated spam submission. Red dot Audio is not supported in your browser. bottle",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "sublinks": [
+                  {
+                    "title": "RBI Annual Reports",
+                    "url": "https://rbi.org.in/Scripts/AnnualReportMainDisplay.aspx"
+                  },
+                  {
+                    "title": "RBI handbook of statistics",
+                    "url": "https://www.rbi.org.in/scripts/annualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20Economy"
+                  },
+                  {
+                    "title": "Trends and Progress in Banking",
+                    "url": "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Trend%20and%20Progress%20of%20Banking%20in%20India"
+                  },
+                  {
+                    "title": "Handbook of statistics of Indian",
+                    "url": "https://www.rbi.org.in/scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States"
+                  },
+                  {
+                    "title": "State Finances",
+                    "url": "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=State%20Finances%20:%20A%20Study%20of%20Budgets"
+                  },
+                  {
+                    "title": "Tical Tables Relating to Banks...",
+                    "url": "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Statistical%20Tables%20Relating%20to%20Banks%20in%20India"
+                  },
+                  {
+                    "title": "RBI's Report on Currency and...",
+                    "url": "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Report%20on%20Currency%20and%20Finance"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.rbi.org.in/history/Mis_Reports.html",
+                "title": "RBI History - Miscellany - Reports",
+                "text": "The Bank publishes two statutory reports, the Annual Report of the Bank and the Report on Trend and Progress of Banking in India. These reports along with the ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbi.org.in/upload/Publications/PDFs/60610.pdf",
+                "title": "Reserve Bank of India Occasional Papers - RBI",
+                "text": "The objective of the Reserve Bank of India Occasional Papers is to publish high quality research produced by the staff of the Reserve Bank of India on.",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 3
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/ECS/PDFs/75429.pdf",
+                "title": "reports - RBI",
+                "text": "REPORTS. REPORT NO: R-1. Appendix-IX. Electronic Clearing Service (Credit Clearing). Data Validation Report (DVR). Part- A. User Details.",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 4
+              },
+              {
+                "url": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18729",
+                "title": "Reserve Bank of India - Publications",
+                "text": "Today, the Reserve Bank released the results of the November 2018 round of its Consumer Confidence Survey (CCS). The survey was conducted in ...",
+                "source": "Reserve Bank of India",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2018-12-05T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list"
+          ],
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States",
+                "title": "Handbook of Statistics - RBI",
+                "text": "This question is for testing whether you are a human visitor and to prevent automated spam submission. Red dot Audio is not supported in your browser. bottle",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQFCS02062025.pdf",
+                "title": "Reserve Bank of India Department of Statistics and Information ...",
+                "text": "The Reserve Bank has been conducting FCS Survey for a long time because it is not only beneficial for the researchers but also helpful for ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2025-06-02T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbi.org.in/annualdata/annual_index.html",
+                "title": "Annual Account Data - RBI",
+                "text": "Annual Accounts Data of. Scheduled Commercial Banks. Query Level: Individual Bank, Bank Group-Wise. Year, Amount in. 1990, 1991, 1992, 1993, 1994, 1995 ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 3
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/CPISFAQs03062024.pdf",
+                "title": "Reserve Bank of India Department of Statistics and Information ...",
+                "text": "General Information. The Coordinated Portfolio Investment Survey (CPIS) is a voluntary data collection exercise conducted under the auspices ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2024-06-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.rbi.org.in/rbioecdflc2017/Downloads/Conference%20PPTs/08th%20Nov%202017/5.%20Session%201.3%20-%20Uma%20Shankar%20-%20Financial%20literacy%20in%20india%20-%20data%20and%20policy.pdf",
+                "title": "Financial literacy in india - data & policy - RBI",
+                "text": "Curriculum based education -. Sustainable, Scalable & Cost. Effective. Financial competencies such as simple interest, compounding and.",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/upload/publications/pdfs/36171.pdf",
+                "title": "Uniform Regulations and Rules for Bankers' Clearing Houses - RBI",
+                "text": "(i) abide by the Regulations and Rules of the Clearing House. (ii) represent his/her bank in the House. (iii) refrain from any activity that may bring ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbi.org.in/upload/Notification/pdfs/16416.pdf",
+                "title": "New Licensing Policy for Urban Co-operative Banks (UCBs) - RBI",
+                "text": "Reserve Bank of India has recently reviewed the licensing policy for Urban Co-operative. Banks (UCBs) pursuant to the recommendations of the High Power ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/Content/PDFs/71077.pdf",
+                "title": "the reserve bank of india scheduled banks' regulations, 1951",
+                "text": "Provided that the information already supplied by a scheduled bank under regulations 4 and 5 of the regulations which are superseded by these regulations shall ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 3
+              },
+              {
+                "url": "https://www.rbi.org.in/upload/ECM/pdfs/supplement.pdf",
+                "title": "SUPPLEMENT Exchange Control Regulations Applicable to Nepal ...",
+                "text": "Before issuing rupee travellers cheques to foreign tourists in India, authorised dealers should ascertain whether such tourists are also visiting Nepal and if ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 4
+              },
+              {
+                "url": "https://www.rbi.org.in/upload/notification/pdfs/67158.pdf",
+                "title": "Annex Revised Guidelines on Corporate Debt Restructuring (CDR ...",
+                "text": "1 Background. 1.1. In spite of their best efforts and intentions, sometimes corporates find themselves in financial difficulty because of factors beyond ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations"
+          ],
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/commonman/english/Scripts/speeches.aspx",
+                "title": "Speeches - Reserve Bank of India",
+                "text": "Home - Speeches. Note: Please click on the below links of your choice to read the Speeches. You can also conveniently use the various search options listed ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbi.org.in/CommonPerson/urdu/Scripts/speeches.aspx?Id=2871",
+                "title": "Reserve Bank of India - Speeches",
+                "text": "Home >> Speeches. Note : To obtain an aligned printout please download the (3631.00 kb ) version to your machine and then use respective software to print ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/ENP336BR0813.pdf",
+                "title": "प्रेस प्रकाशनी press release - भारतीय ररज़िव बैंक - RBI",
+                "text": "Dr. Manmohan Singh, the Hon'ble Prime Minister, released the fourth volume of the. Reserve Bank of India's history at a function held today in New Delhi.",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 3
+              },
+              {
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=60034",
+                "title": "Press Release - RBI",
+                "text": "As announced vide the Press Release 2024-2025/1933 dated January 15, 2025, the Reserve Bank will be conducting daily Variable Rate Repo ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2025-03-21T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.rbi.org.in/scripts/SearchResults.aspx?search=Raghuram+Rajan&sp=speeches",
+                "text": "This question is for testing whether you are a human visitor and to prevent automated spam submission. Red dot Audio is not supported in your browser. bottle",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press pdf",
+            "Best news speeches press news speeches press"
+          ],
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/home.aspx/Webservice/Home.aspx/Scripts/OccasionalPublications.aspx?head=Working%20Papers",
+                "text": "This question is for testing whether you are a human visitor and to prevent automated spam submission. Red dot Audio is not supported in your browser. bottle",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/74MCFCNR010713.pdf",
+                "title": "ž父７跟「 梗{辅改 じ ˆ ______ RESERVE BANK OF INDIA - RBI",
+                "text": "Please refer to the Master Circular DBOD No. Dir. BC.8/ 13.03.00/2012-13 dated July · 2, 2012 consolidating the instructions/guidelines ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2013-07-01T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/75IRD01072013F.pdf",
+                "title": "भारतीय रज़व बक - RBI",
+                "text": "Please refer to the Master Circular DBOD No. Dir. BC. 1 /13.03.00/2012-13 dated · July 2, 2012 consolidating the instructions/guidelines ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2013-07-01T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/65MCE290613FL.pdf",
+                "title": "DBOD - MC Export Credit - 2009 - RBI",
+                "text": "CONTENTS. Sr.No. Particulars. Page. No. A. Purpose. 3. B. Classification. 3. C. Previous instructions consolidated.",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CSMA0612013.pdf",
+                "title": "Charges Levied by Banks for Sending SMS Alerts - RBI",
+                "text": "Banks should charge customers based on actual SMS alert usage, ensuring charges are levied on all customers on actual usage basis.",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2013-12-06T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbi.org.in/commonman/images/FAME202426022024.pdf",
+                "title": "Financial Awareness Messages (FAME) - RBI",
+                "text": "Financial literacy is a combination of awareness, knowledge, skills, attitude and behavior for sound financial decisions. It includes money management, ...",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "position": 1
+              },
+              {
+                "url": "https://www.rbi.org.in/hindi1/Upload/Tenders/PDFs/WC06092023FL_HIN.PDF",
+                "title": "भारतीय रज़वर्ब क/Reserve Bank of India संचार िवभाग/Department of ...",
+                "text": "संचार िवभाग (डीओसी), जन जाग कता अिभयान (पीएसी) के िलए 'आईसीसी   केट िव  कप 2023' के. दौरान 'स्टार स्पोट्सर्' (टीवी) और 'िडज्नी हॉटस्टार' (िडिजटल) पर िवज्ञापन जारी करनेहेतुसूचीब .",
+                "source": "RBI",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nys3LTc3Nzc3NzE3Nzc3Nzc3Nzc3NzcrNy43Nzc3KzM3Ny01N//AABEIACAAIAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGAwQFB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASITFRIjJBYQYTFFKBFZGh0fH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDACExUWER/9oADAMBAAIRAxEAPwDqvxBeJKNTBSbPnlctI/liHc+/tooLZV3LdPcGklByQ0srLjsQB0HTvq7UTwT1rSVbbQpMz7jhcZwuSeP91FWRVV1Raq11UEtOpxiN8nHToOudY9bNQn1r01CDV0ttwtDiSjlliC4y6SEoeMkspzx+2lfw5fBc4zFOFWpQZO3yuPuGjdBb75R5qanx7cB42YtvT25xnHpj8nVyNYKG4w/Thw6Sbz22McED86Ss02H74yihxqtQsVLdTHVRqUbdDJuUEEE5Gc9+P51m1Utvgnb9NmajjdSriCkkOSfXAGOOvfTe+Wf63E9OVWoUYIbyyDsex7H00dlnrrbGqSQODuYsJUYqBjgKwBGorFpsecydAw2GksPhRrncqoMxWVJaaVRIuOAOOMH10gtdPJVV671zxGofOdwHJOfUf3qBBXXMtH8p5I3XGI0KAc8HcRjp166V2a2Cghy5UykY8PlQfaNTGLUYc5laBR93/9k=",
+                "published_time": "2023-09-06T00:00:00",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rbi.org.in/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

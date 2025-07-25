@@ -24,12 +24,28 @@
                 "position": 2
               },
               {
+                "url": "https://www.boz.zm/research-papers.htm",
+                "title": "FSD Reports - Bank of Zambia",
+                "text": "This page contains reports related to Financial Sector Development. The reports are on surveys undertaken by BoZ or other FSD stakeholders.",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
                 "url": "https://www.boz.zm/news-and-publications.htm",
                 "title": "News and Publications - Bank of Zambia",
                 "text": "News and Publications ; 02-06-2025, May 2025 Monetary Policy Report ; 30-05-2025, BoZ Congratulates Nalishebo on AfDB Election ; 23-05-2025, Monetary Policy ...",
                 "source": "Bank of Zambia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.boz.zm/news-and-publications.htm",
+                "title": "News and Publications",
+                "source": "Bank of Zambia",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.boz.zm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.boz.zm/images/boz-logo.png",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.boz.zm/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.boz.zm/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -61,7 +77,7 @@
               {
                 "url": "https://www.boz.zm/financial-and-other-statistics-booklet.htm",
                 "title": "Financial and Other Statistics Booklet - Bank of Zambia",
-                "text": "The Booklet on Financial and Other Statistics is an annual publication which provides a statistical overview of the various aspects of the Zambian economy ...",
+                "text": "The booklet is an annual publication providing a statistical overview of the Zambian economy and financial system, supplementing other Bank publications.",
                 "source": "Bank of Zambia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
                 "position": 2
@@ -73,6 +89,22 @@
                 "source": "Bank of Zambia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.boz.zm/payment-systems-statistics.htm",
+                "title": "Payment Systems Statistics - Bank of Zambia",
+                "text": "The Bank of Zambia provides statistics on large value, retail payment systems, domestic and international remittances, including ZIPSS, EFT, Cheque, PoS, ATMs, ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.boz.zm/monetary-and-financial-statistics-New.htm",
+                "title": "Monetary and Financial Statistics - Bank of Zambia",
+                "text": "Bank of Zambia · Statistics; Monetary and Financial Statistics. Statistics · Monetary and Financial Statistics · Payment Systems Statistics ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -82,7 +114,7 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:https://www.boz.zm/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.boz.zm/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -102,20 +134,36 @@
                 "position": 1
               },
               {
-                "url": "https://www.boz.zm/acts-and-regulations.htm",
-                "title": "Acts and Regulations - Bank of Zambia",
-                "text": "Acts and Regulations · Bank of Zambia Act, 2022 · Currency Act · Bank of Zambia Act ...",
-                "source": "Bank of Zambia",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
-                "position": 2
-              },
-              {
                 "url": "https://www.boz.zm/monitory-policy-framework.htm",
                 "title": "Monetary Policy Framework - Bank of Zambia",
                 "text": "The BoZ uses the monetary policy framework in which the Policy Rate is the key interest rate in signalling the monetary policy stance.",
                 "source": "Bank of Zambia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.boz.zm/monetary-policy-report.htm",
+                "title": "Monetary Policy Report - Bank of Zambia",
+                "text": "Bank of Zambia · Monetary Policy; Monetary Policy Report. Monetary Policy · Objectives of Monetary Policy · Monetary Policy Framework.",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.boz.zm/acts-and-regulations.htm",
+                "title": "Acts and Regulations - Bank of Zambia",
+                "text": "Acts and Regulations · Bank of Zambia Act, 2022 · Currency Act · Bank of Zambia Act ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.boz.zm/monetary-policy-instruments.htm",
+                "title": "Monetary Policy Instruments - Bank of Zambia",
+                "text": "Key elements of prudential guidelines remove some discretion from bank management and replace it with rules in decision making.",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -125,7 +173,7 @@
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:https://www.boz.zm/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.boz.zm/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -139,37 +187,52 @@
               {
                 "url": "https://www.boz.zm/news-and-publications.htm",
                 "title": "News and Publications - Bank of Zambia",
-                "text": "Recent Bank of Zambia news includes press statements, monetary policy reports, financial stability statements, and public notices, such as the liquidation of ...",
+                "text": "News and Publications ; 11-05-2024, Press Statement: Extension of Payment of Depositors of Investrust Bank PLC (In Possession) ; 29-04-2024, Press Statement: FX ...",
                 "source": "Bank of Zambia",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "favicon": "data:image/png;base64,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",
                 "position": 1
+              },
+              {
+                "url": "https://www.boz.zm/Press_Statement_Mutilation_of_Currency.pdf",
+                "title": "Press Statement: Mutilation of the Zambian Currency - Bank of Zambia",
+                "text": "Lusaka, Tuesday April 8, 2025 – Following the launch of the new family of the Zambian currency on Monday March 31, 2025, the Bank has noted with great ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,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",
+                "position": 2
               },
               {
                 "url": "https://www.boz.zm/MyBucks-Press-Statement.pdf",
                 "title": "PRESS STATEMENT - Public now",
-                "text": "The Bank of Zambia took possession of ECSPONENT FINANCIAL SERVICES LIMITED (MyBucks Zambia) due to insolvency on February 16th, 2025, at 16:23 ...",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "text": "NOTICE IS HEREBY GIVEN that pursuant to Section 64 of the Banking and Financial Services. Act (BFSA), No. 7 of 2017, the Bank of Zambia has ...",
+                "favicon": "data:image/png;base64,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",
                 "published_time": "2025-02-16T00:00:00",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://www.boz.zm/STABILITY-AND-RESILIENCE-FACILITY-PRESS-STATEMENT.pdf",
-                "title": "stability and resilience facility press statement - Bank of Zambia",
-                "text": "The Bank of Zambia wishes to announce the launch of the Stability and Resilience Facility (SRF) to safeguard financial stability and enhance ...",
+                "url": "https://www.boz.zm/PRESS-RELEASE-ON-CRYPTOCURRENCIES.pdf",
+                "title": "Press Release On Cryptocurrencies - Bank of Zambia",
+                "text": "The Bank of Zambia (BoZ) has observed an increasing public interest in cryptocurrencies as evidenced by the growing number of enquiries that.",
                 "source": "Bank of Zambia",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
-                "published_time": "2024-12-27T00:00:00",
-                "position": 3
+                "favicon": "data:image/png;base64,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",
+                "position": 4
+              },
+              {
+                "url": "https://www.boz.zm/Press_Statement_FX_Deposits_Investrust_Bank_PLC_In_Possession.pdf",
+                "title": "PRESS STATEMENT - Bank of Zambia",
+                "text": "Further to the Notice on the initial payment of up to K500,000.00 per deposit account, issued on 25 April, 2024, the Bank of Zambia hereby ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,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",
+                "published_time": "2024-04-29T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "News speeches press news speeches press today",
-            "News speeches press news speeches press pdf",
-            "News speeches press news speeches press 2022"
+            "News speeches press news speeches press pdf"
           ],
           "query": {
-            "q": "site:https://www.boz.zm/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.boz.zm/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -195,11 +258,40 @@
                 "source": "Bank of Zambia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
                 "position": 2
+              },
+              {
+                "url": "https://www.boz.zm/Call_For_Research_Papers_2023.pdf",
+                "title": "Call for Research Papers: BoZ Working Papers Series",
+                "text": "The Bank of Zambia (Bank) publishes research papers on various issues of interest to the Zambian economy in a Working Papers Series as part of information ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.boz.zm/NonlinearERPTResearchBoZWorkingPaper.pdf",
+                "title": "BoZ Working Paper Series A non-linear analysis of the exchange ...",
+                "text": "The BoZ Working Papers Series describe research in progress by the author(s) and are published to elicit comments and to encourage debate. The views ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.boz.zm/Investor_Perception_Index_Final_..pdf",
+                "title": "WP/2020/1 BoZ WORKING PAPER SERIES Investor Perception Index",
+                "text": "The paper assesses how Zambia's overall foreign investor perceptions have evolved over the period 2016 to 2018. The study also shows how disaggregated ...",
+                "source": "Bank of Zambia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////59PD7+PP+/PrgxbTnz7jv4tjMoofoyaf36t3ly7XXron54r355crx1K323LfwzqP+9ej62KHvz6nhsXvuwITPklXjxanhrnDt17/x4M3Dg0fNnHX17OTktX/Dily1c0Hm0MLSmmDevZ/FlXahURLLkVrSqYjPoX2sZjPMmm+8g2Hgt4ruxo7879y3cjqyc0nYqn3DjmahVSjuxZLt3dCpXiXow5jgu5i6flHoy6zYspXwx5HZomTDhlGyaSi8eDqbRQB5W8YaAAABAElEQVR4AWIgHgDoIockhoIoita3bZsd29j/pjJPvx6fqkuKJjOG5Sgi5AVRIkJZUTWiqq4bJsnVsnXHJelqniP6AQMy2gmjOEkzEEq5K8dFWYFxuFppmrYTKGgdpVeGsZ1AXb6f07RFi+UKUA3W4wYNW2OpMrjqrmz3rWobhwOuezyhsXeMpXkOY0xV6FrxsNjNjlhf/ifkp+vNcNfXg9PM/fEPZtuloSuDY14uRYGZakvddEWx3irrO4Nd8vDy5+WSvMp1Bcz+fPqKsl6fdhQ+QlT7iaK8T92dAU6Zk884dN1UgcN/3un4/SJoeKa6DyzbtiwDHkpTFPMbEBGZAQCKexovmht4ZgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022"
+          ],
           "query": {
-            "q": "site:https://www.boz.zm/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.boz.zm/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
           }
         }
       ]

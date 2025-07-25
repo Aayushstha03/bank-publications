@@ -12,13 +12,25 @@
         "url": "https://cbl.gov.ly/en/reports/annual-reports/",
         "title": "Annual Reports - مصرف ليبيا المركزي",
         "text": "Annual Reports ; Annual report 2013. 2013 ; Annual report 2012. 2012 ; Annual report 2011. 2011 ; Annual report 2010. 2010.",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
       },
       {
         "url": "https://cbl.gov.ly/en/reports/supervisory-reports/",
         "title": "Supervisory reports - مصرف ليبيا المركزي",
         "text": "Supervisory reports ; Annual Report of the Banking and Money Supervision Department, 2008. 2008. Download ; Annual Report of the Banking and Monetary Supervision ...",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://cbl.gov.ly/publications/",
+        "title": "منشورات - مصرف ليبيا المركزي",
+        "text": "document icon. منشور 12/2024. بشأن تعميم التعليمات الخاصة بمكافحة قرصنة البريد الإلكتروني والجريمة المالية الإلكترونية ; document icon. منشور 14/2024. بشأن إحالة ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://cbl.gov.ly/reports/annual-reports/",
+        "title": "تقارير سنوية - مصرف ليبيا المركزي",
+        "text": "تقارير سنوية ; document icon. التقرير السنوي 2013. 2013 ; document icon. التقرير السنوي 2012. 2012 ; document icon. التقرير السنوي 2011. 2011 ; document icon.",
+        "listing_probability": 1.0
       }
     ]
   },
@@ -29,13 +41,25 @@
         "url": "https://cbl.gov.ly/en/economic-bulletin/",
         "title": "Economic Bulletin - The Central Bank of Libya - مصرف ليبيا المركزي",
         "text": "Economic Bulletin · 2025 1st Quarter Economic Bulletin · 2024 4th Quarter Economic Bulletin · 2024 3rd Quarter Economic Bulletin · 2024 2nd Quarter Economic ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
-        "url": "https://cbl.gov.ly/en/economic-bulletin/2024-1st-quarter-economic-bulletin/",
-        "title": "2024 1st Quarter Economic Bulletin - مصرف ليبيا المركزي",
-        "text": "Economic Bulletin · Monetary and Banking Statistics · Revenue and Expenditures · Annual Reports · Indicators of Banking Sector · Consumer Price Index.",
-        "listing_probability": 0.1
+        "url": "https://www.cbl.gov.ly/en/monetary-and-banking/",
+        "title": "Monetary and Banking Statistics - The Central Bank of Libya",
+        "text": "Monetary and Banking Statistics ; Assets &Liabilities of Comm. Banks 2004 – Mar,2025. Download ; Assets and Liabilities of Central bank of Libya ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://cbl.gov.ly/en/foreign-trade-statis/",
+        "title": "Foreign Trade Statistics - The Central Bank of Libya - مصرف ليبيا المركزي",
+        "text": "Foreign Trade Statistics ; Foreign Tarde Report First Half of 2023 – 2024. Download ; Foreign Tarde Report 2020 – 2023. Download ; Foreign Tarde Report 2019 – 2022.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://cbl.gov.ly/en/economic-bulletin/20251st-quarter-economic-bulletin/",
+        "title": "2025 1st Quarter Economic Bulletin - مصرف ليبيا المركزي",
+        "text": "Economic Bulletin · Monetary and Banking Statistics · Revenue and Expenditures · Annual Reports · Indicators of Banking Sector.",
+        "listing_probability": 0.08
       }
     ]
   },
@@ -49,10 +73,22 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://cbl.gov.ly/en/exchange-rate-policy/",
+        "title": "Exchange Rate Policy - The Central Bank of Libya - مصرف ليبيا المركزي",
+        "text": "The following summarizes the evolution of the exchange rate policy implemented by the Central Bank of Libya (CBL) since its inception up to now.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://cbl.gov.ly/en/monetary-policy-2/",
         "title": "Monetary Policy - The Central Bank of Libya - مصرف ليبيا المركزي",
         "text": "The committee reviewed the general economic and financial situation of the country, evaluated the efficiency of monetary policy, and observed the development ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://cbl.gov.ly/en/law/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-11-%D9%84%D8%B3%D9%86%D8%A9-2004-%D9%85%D8%8C-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B6%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%AF%D8%AE%D9%84/",
+        "title": "Law No. 11 of 2004 Regarding Income Tax and Its Executive ...",
+        "text": "Law No. 11 of 2004 Regarding Income Tax and Its Executive Regulations (March 10, 2004) - The Central Bank of Libya.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -63,19 +99,42 @@
         "url": "https://cbl.gov.ly/en/category/news/",
         "title": "News - مصرف ليبيا المركزي",
         "text": "Governor of the Central Bank of Libya meets with the Minister of Labor and Rehabilitation and the Minister of Education · Governor of the Central Bank of Libya ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://cbl.gov.ly/en/press-statement/",
         "title": "Press Statement - مصرف ليبيا المركزي",
         "text": "News · Press Statement.",
-        "listing_probability": 0.9
+        "listing_probability": 0.4
+      },
+      {
+        "url": "https://cbl.gov.ly/en/blog/page/3/",
+        "title": "News - The Central Bank of Libya - مصرف ليبيا المركزي",
+        "text": "News · Revenue and Expenditure Statement, April 2025 · Statement: · Governor of the Central Bank of Libya discusses with Minister of Oil and Gas of the Government ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://cbl.gov.ly/en/page/31/?page_id=0.7484616838084968",
+        "title": "News - The Central Bank of Libya - مصرف ليبيا المركزي",
+        "text": "Summary of the speech of Mr.Saddek Omar Elkaber, Governor of the Central Bank of Libya on 5-6-2018 at the press conference held concerning the Libyan ...",
+        "listing_probability": 0.05
       },
       {
         "url": "https://cbl.gov.ly/en/press-statement1-monetary-policy-committee/",
         "title": "Press Statement(1): Monetary Policy Committee - مصرف ليبيا المركزي",
         "text": "News · Press Statement(1): Monetary Policy Committee.",
-        "listing_probability": 0.05
+        "listing_probability": 0.02
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://cbl.gov.ly/en/category/announcements/",
+        "title": "Announcements - مصرف ليبيا المركزي",
+        "text": "Announcements · CBL Revenue and Expenditure Statement for the period from 1st Jan to 31st May, 2023 ,, · HE Saddek Omar Elkaber Governor of the CBL and the CBL's ...",
+        "listing_probability": 0.98
       }
     ]
   }

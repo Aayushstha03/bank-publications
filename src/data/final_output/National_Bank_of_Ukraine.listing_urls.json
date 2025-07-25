@@ -14,15 +14,33 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://bank.gov.ua/en/open-data",
-        "title": "Open Data",
-        "text": "National Bank of Ukraine; Open Data. Open Data. Public information in the open data. This page is available only in Ukrainian. Please, switch the language ...",
+        "url": "https://bank.gov.ua/en/statistic/nbustatistic",
+        "title": "Statistics at the National Bank of Ukraine",
+        "text": "The central bank gathers, compiles, and disseminates statistics data. The NBU's statistics meet international standards and the best practices of the IMF, the ...",
+        "listing_probability": 0.5
+      },
+      {
+        "url": "https://bank.gov.ua/en/statistic/sector-financial",
+        "title": "Financial Sector Statistics",
+        "text": "Financial sector statistics (monetary and financial statistics) reflect the economic and financial relations of banks and non-bank financial institutions.",
         "listing_probability": 0.9
       },
       {
-        "url": "https://bank.gov.ua/en/archive-news/all/23710782-the-statistics-available-in-the-macroeconomic-indicators-subsection-have-been-extended-with-new-data",
-        "title": "The statistics available in the “Macroeconomic indicators” page ...",
-        "text": "With a view to making data search more convenient, time series of data are grouped into four categories: prices, economic activity, labor market and social ...",
+        "url": "https://bank.gov.ua/en/statistic",
+        "title": "Statistics",
+        "text": "The NBU publishes economic, financial, external sector, and macroeconomic data, including external trade, financial relations, and data from the State ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bank.gov.ua/en/statistic/sector-external",
+        "title": "External Sector Statistics",
+        "text": "The NBU compiles external sector statistics that reflect Ukraine's role in the international trade of goods, services, and capital.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://bank.gov.ua/en/statistic/sdds",
+        "title": "Special Data Dissemination Standard",
+        "text": "The Special Data Dissemination Standard (SDDS) is an IMF standard for financial and external sector statistics, accessible via the DSBB.",
         "listing_probability": 0.1
       }
     ]
@@ -31,21 +49,27 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://bank.gov.ua/en/archive-news/all/59678295-nbu-to-harmonize-its-regulations-in-line-with-updated-legislation",
-        "title": "NBU To Harmonize Its Regulations in Line With Updated Legislation",
-        "text": "The National Bank of Ukraine (NBU) intends to update own regulations in line with the current national legislation, particularly, the Law of Ukraine On ...",
+        "url": "https://bank.gov.ua/en/legislation/Decision_Prostir_26032020_57-6_Regulations_requirements_manufacturers_personalizers",
+        "title": "Regulations",
+        "text": "Regulations · Official publication · Document search · Regulatory principles of activity NBU · Regulatory activity of Nationa Bank of Ukraine.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://bank.gov.ua/en/monetary",
+        "title": "Monetary Policy",
+        "text": "The priority of monetary policy is to achieve and maintain price stability. With low and stable inflation, the incomes and savings of Ukrainians are protected ...",
         "listing_probability": 0.05
       },
       {
-        "url": "https://bank.gov.ua/en/archive-news/all/27564488-national-bank-of-ukraine-streamlines-the-rules-and-regulations-governing-the-use-of-e-money",
-        "title": "National Bank of Ukraine Streamlines the Rules and Regulations ...",
-        "text": "Resolution No. 65 allows individuals to receive electronic money issued by nonresident issuers from nonresidents through international online payment systems.",
-        "listing_probability": 0.05
+        "url": "https://bank.gov.ua/en/files/vVrAkjBFBVYlRdb",
+        "title": "Monetary Policy Guidelines for the Duration of Martial Law",
+        "text": "View file. Monetary Policy Guidelines for the Duration of Martial Law. Monetary Policy Guidelines for the Duration of Martial Law ...",
+        "listing_probability": 0.0
       },
       {
-        "url": "https://bank.gov.ua/en/archive-news/all/12757687-procedures-and-regulations-for-ukrainian-banks-at-the-end-of-accounting-year",
-        "title": "Procedures and regulations for Ukrainian Banks at the end of ...",
-        "text": "On 29 and 30 December, 2014, the SEP will receive initial payments until 22.00. On 30 December, 2014, all client transactions must be completed. On 31 December, ...",
+        "url": "https://bank.gov.ua/en/monetary/tools",
+        "title": "Monetary Policy Instruments",
+        "text": "Under the regime of flexible inflation targeting, the NBU ensures that inflation is brought to the 5% target within a policy horizon of three years at most, ...",
         "listing_probability": 0.05
       }
     ]
@@ -54,10 +78,16 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://bank.gov.ua/en/news",
-        "title": "News",
-        "text": "Main News · NBU June 2025 Inflation Update · International Reserves at USD 45.1 Billion in June · Ukraine's Government Borrows Equivalent of Almost UAH 240 Billion ...",
-        "listing_probability": 0.95
+        "url": "https://bank.gov.ua/en/news/all/vistup-golovi-natsionalnogo-banku-andriya-pishnogo-pid-chas-presbrifingu-schodo-rishen-z-monetarnoyi-politiki-21333",
+        "title": "Speech by NBU Governor Andriy Pyshnyy at Press Briefing on ...",
+        "text": "Dear colleagues, The Board of the National Bank of Ukraine has decided to keep its key policy rate at 15.5%. This will support the sustainability of the FX ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all",
+        "title": "All news",
+        "text": "Event calendar, Questions and Answers, Research, Publications, Regulations, BankID, NBU Tariffs and Services, Open Data, Contacts, Sitemap, Records per page",
+        "listing_probability": 0.98
       },
       {
         "url": "https://bank.gov.ua/en/news/direct-speech",
@@ -66,10 +96,96 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://bank.gov.ua/en/news/all",
-        "title": "All news",
-        "text": "All news ; Olena Avramenko Named Best Chief Audit Executive of 2025 by Institute of Internal Auditors. 18 Jul 2025 11:00 ; Ukrainian Banks Sign Dozen of Deals ...",
+        "url": "https://bank.gov.ua/en/news",
+        "title": "News",
+        "text": "Main News · NBU June 2025 Inflation Update · International Reserves at USD 45.1 Billion in June · Ukraine's Government Borrows Equivalent of Almost UAH 240 Billion ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/research",
+        "title": "Research",
+        "text": "NBU Working Papers · External Publications · Research Priorities. Research Events. Annual Research Conferences · Events for Students and Young Researchers.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/zaproshuyemo-do-uchasti-u-viii-schorichniy-doslidnitskiy-konferentsiyi-tsentrobankiv-ukrayini-ta-polschi-manevruyuchi-u-minlivomu-landshafti-tsentralni-banki-v-umovah-novoyi-realnosti-2021-chervnya-2024-roku",
+        "title": "Call for Papers for 8th Annual Research Conference Navigating ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/anons-vidkritiy-doslidnitskiy-seminar-z-analizu-vzayemozvyazku-mij-individualnim-spojivannyam-ta-monetarnoyu-politikoyu",
+        "title": "Announcement: Open Research Seminar on (Dis-) Aggregate ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://events.bank.gov.ua/ARConference/2025/en.html",
+        "title": "Research Conference 2025",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/news/announcements",
+        "title": "Announcements for Media",
+        "text": "New Announcement: Open Research Seminar on the impact of fiscal policy on GDP and inflation in Ukraine",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-onovlyuye-pidhodi-do-viznachennya-pereliku-valyut-do-yakih-vstanovlyuyetsya-ofitsiyniy-kurs-grivni",
+        "title": "NBU Updates Approaches to Determining the List of Currencies ...",
+        "text": "The list of foreign currencies for setting the official hryvnia exchange rate on a daily basis will include 41 currencies and SDRs (special drawing rights).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/aktualizovano-prioriteti-doslidjen-natsionalnogo-banku",
+        "title": "NBU Updates Research Priorities",
+        "text": "The National Bank of Ukraine (NBU) has updated its priority research areas. This revised list outlines the key focus of research interests ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://bank.gov.ua/en/news/all/onovleno-perelik-valyut-do-yakih-vstanovlyuyetsya-ofitsiyniy-kurs-grivni",
+        "title": "NBU Updates Currency List for Official Hryvnia Exchange Rates",
+        "text": "The National Bank of Ukraine has updated the list of currencies for which the official hryvnia exchange rate is set. The updates are effective 31 March 2025.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/archive-news/all/2150802-in-the-first-half-of-the-year-the-sep-participants-effected-the-initial-payments-and-sent-the-electronic-settlement-notices-amounting-to-over-uah-5-trillion",
+        "title": "In the first half of the year, the SEP participants effected the initial ...",
+        "text": "In the first half of the year, the SEP participants effected the initial payments and sent the electronic settlement notices amounting to over UAH 5 trillion.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bank.gov.ua/en/archive-news/all/9065099-in-the-first-half-of-2014-the-sep-participants-effected-1564-million-initial-payments-and-sent-the-electronic-settlement-notices-totaling-uah-66943-billion",
+        "title": "In the first half of 2014, the SEP participants effected 156.4 million ...",
+        "text": "In the first half of 2014, the SEP participants effected 156.4 million initial payments and sent the electronic settlement notices totaling UAH 6,694.3 billion.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://bank.gov.ua/en/news/all/vpliv-komunikatsiy-tsentralnogo-banku-na-makrofinansovi-pokazniki-tetyana-yuhimenko-ta-oleg-sorochan-eng",
+        "title": "Impact of the Central Bank's Communication on Macrofinancial ...",
+        "text": "Abstract: This study explores the impact of central bank communications on a range of macrofinancial indicators. Specifically, we examine ...",
+        "listing_probability": 0.05
       }
     ]
   }

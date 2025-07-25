@@ -6,13 +6,25 @@
         "url": "https://www.bportugal.pt/en/page/list-publications-banco-de-portugal",
         "title": "List of publications of the Banco de Portugal",
         "text": "#Lusofonia · Annual Report · Annual Report on Cooperation · Banking Conduct Supervision Report · Bank Lending Survey · Central Balance Sheet Studies · Coincident ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bportugal.pt/en/page/list-publications-banco-de-portugal?f%5B0%5D=pub_type_bdp%3A898",
+        "title": "List of publications of the Banco de Portugal | Banco de Portugal",
+        "text": "Publications — Banco de Portugal. Fulltext search. Atividade. #Lusofonia #Lusofonia; Annual Report Annual Report; Banking Conduct Supervision Report Banking ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bportugal.pt/en/page/list-publications-banco-de-portugal?f%5B0%5D=pub_type_bdp%3A900",
+        "title": "List of publications of the Banco de Portugal",
+        "text": "Publications — Banco de Portugal ; 2025. Report on cash issuance – 2024. /en/publicacao/report-cash-issuance-2024 · Apr 2025. Report on cash issuance – 2024 ; 2024.",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bportugal.pt/en/comunicado/banco-de-portugals-publications-available-through-new-app",
-        "title": "Banco de Portugal's publications available through new app ...",
-        "text": null,
-        "listing_probability": 0.05
+        "title": "Banco de Portugal's publications available through new app",
+        "text": "With this app the user, in addition to viewing the Bank's publications free of charge, may download and save publications for consultation offline. This app ...",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -23,19 +35,25 @@
         "url": "https://www.bportugal.pt/en/page/statistics",
         "title": "Statistics | Banco de Portugal",
         "text": "The Banco de Portugal collects and compiles monetary, financial, foreign exchange and balance of payments statistics.",
-        "listing_probability": 0.85
-      },
-      {
-        "url": "https://www.bportugal.pt/en/page/i-statistics-currency-issuance",
-        "title": "I. Statistics on currency issuance | Banco de Portugal",
-        "text": "Access the data domain Cash issuance of BPstat and explore the various tables matching the Statistical Bulletin publication in the sections below. To download ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bportugal.pt/en/comunicado/statistical-press-release-statistics-corporations-central-balance-sheet-database-2nd-3",
-        "title": "2016 Statistics on corporations in the Central Balance Sheet Database",
-        "text": "Banco de Portugal releases today, in table A.19 of the Statistical Bulletin and in BPstat, statistics on corporations in the Central Balance Sheet Data-.",
-        "listing_probability": 0.1
+        "url": "https://www.bportugal.pt/en/node/52400",
+        "title": "Economic and Financial Data for Portugal",
+        "text": "The statistics presented in this page are produced by Banco de Portugal (BdP), Statistics Portugal (INE), Budget General Directorate (DGO), and NYSE Euronext.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bportugal.pt/en/page/economic-bulletin-accessible-summary",
+        "title": "Economic Bulletin accessible summary | Banco de Portugal",
+        "text": "The Economic Bulletin is Banco de Portugal's leading publication on economic analysis. The Bulletin conveys the institutional view of Banco de Portugal.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bportugal.pt/en/page/c-balance-payments-and-international-investment-position-statistics",
+        "title": "C. Balance of payments and international investment position ...",
+        "text": "Access the data domains External statistics, Balance of payments, International investment position, International banking statistics on a consolidated basis.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -43,22 +61,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-63",
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-65",
         "title": "Monetary policy decisions - European Central Bank",
-        "text": "12 December 2024. The Governing Council today decided to lower the three key ECB interest rates by 25 basis points.",
-        "listing_probability": 0.05
+        "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-3",
-        "title": "Monetary policy decisions - European Central Bank",
-        "text": "The Governing Council today decided to raise the three key ECB interest rates by 50 basis points and it expects to raise them further.",
-        "listing_probability": 0.05
+        "url": "https://www.bportugal.pt/consultapublica/consulta-sobre-orientacoes-relativas-politicas-procedimentos-e-controlos-internos",
+        "title": "Consultation Paper - European Banking Authority",
+        "text": "Please clearly indicate in the consultation form if you wish your comments to be disclosed or to be treated as confidential.",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions",
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-62",
         "title": "Monetary policy decisions - European Central Bank",
-        "text": "The Governing Council is determined to ensure that inflation returns to its 2% medium-term target in a timely manner. It therefore today decided ...",
-        "listing_probability": 0.05
+        "text": "The Governing Council today decided to lower the deposit facility rate – the rate through which it steers the monetary policy stance – by 25 basis points.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-57",
+        "title": "Monetary policy decisions - European Central Bank",
+        "text": "The Governing Council today decided to keep the three key ECB interest rates unchanged. The incoming information has broadly confirmed its previous assessment.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -69,19 +93,31 @@
         "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-statement-27",
         "title": "PRESS CONFERENCE - European Central Bank",
         "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-statement-26",
         "title": "PRESS CONFERENCE - European Central Bank",
         "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-statement-25",
         "title": "PRESS CONFERENCE - European Central Bank",
         "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bportugal.pt/en/intervencoes",
+        "title": "List of Public speeches | Banco de Portugal",
+        "text": "Invited lecture by Pedro Duarte Neves, “Main economic and financial trends: the key challenges ahead for the banking sector”, at AFI Escuela de Finanzas, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/monetary-policy-decisions-66",
+        "title": "Monetary policy decisions - European Central Bank",
+        "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -89,16 +125,79 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.bportugal.pt/en/page/banco-de-portugal-research-agenda",
-        "title": "Banco de Portugal Research Agenda | Banco de Portugal",
-        "text": null,
-        "listing_probability": 0.9
+        "url": "https://www.bportugal.pt/en/papers",
+        "title": "List of papers | Banco de Portugal",
+        "text": "Banco de Portugal Economic Studies · Economic Bulletin Articles · Financial Stability Articles · Occasional Papers · Other Contributions · Working Papers ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/paper/ecb-boe-and-fed-monetary-policy-announcements-price-and-volume-effects-european-securities",
+        "title": "ECB, BoE and Fed Monetary-Policy announcements - Banco de Portugal",
+        "text": "This paper assesses the announcement effects of the policy measures taken by the European Central Bank, the Bank of England and the Federal Reserve on European ...",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bportugal.pt/en/evento/workshop-empirical-research-ai-era-bplim",
-        "title": "WORKSHOP ON EMPIRICAL RESEARCH IN THE AI ERA | BPLIM | Banco ...",
+        "url": "https://www.bportugal.pt/en/comunicado/ecb-launches-consultation-updates-options-and-discretions-policies",
+        "title": "ECB launches consultation on updates to options and discretions ...",
+        "text": "The European Central Bank (ECB) today launched a public consultation on updates to its harmonised policies for exercising the options and discretions.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/banco-de-portugal-updates-historical-series-portuguese-banking-sector-1",
+        "title": "Banco de Portugal updates historical series on the Portuguese banking ...",
+        "text": "Banco de Portugal updates today the long series on the Portuguese banking sector with information for 2020.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/banco-de-portugal-updates-non-financial-corporations-indicators-central-balance-sheet",
+        "title": "Banco de Portugal updates the non-financial corporations indicators ...",
+        "text": "Banco de Portugal publishes today the Sector Tables and Enterprise Sector Tables concerning 2015, compiled based on the Simplified Corporate Information.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bportugal.pt/en/comunicado/banco-de-portugal-updates-indicators-corporations-central-balance-sheet-database-2018",
+        "title": "Banco de Portugal updates indicators on corporations in the Central ...",
+        "text": "The Banco de Portugal updates Historical series of the Portuguese banking sector · Interest rates and amounts of new loans and deposits: ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/form/alerts-form",
+        "title": "Alert Subscription | Banco de Portugal",
+        "text": "AGIL · Balance of Payments · Banco de Portugal · Bank loans and deposits · Banknotes and coins · Cheques · Collector coins · Commemorative coin ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bportugal.pt/en/node/49357",
+        "title": "Communication on central bank statistics: unlocking the next ...",
         "text": null,
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bportugal.pt/en/evento/seminar-learning-prices-public-communication-and-welfare",
+        "title": "Seminar: \"Learning from Prices: Public Communication and ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bportugal.pt/en/perguntas-frequentes/cope",
+        "title": "FAQ about Communication of external transactions and positions",
+        "text": "Communication of external transactions and positions · Can I/must I report financial transactions that have no impact on bank settlements? Yes, you can/must ...",
+        "listing_probability": 0.0
       }
     ]
   }

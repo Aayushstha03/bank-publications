@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.qcb.gov.qa/en/Pages/MonetaryPolicyTools.aspx",
+        "title": "Monetary Policy Tools - Qatar Central Bank",
+        "text": "The formal framework for the exchange rate policy is a fixed parity between the Qatari riyal (QR) and the United States dollar (USD) at QR 3.64 per USD. Hence, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.qcb.gov.qa/en/news/pages/may7-1.aspx",
+        "title": "Monetary Policy Instruments - May 2025 - Qatar Central Bank",
+        "text": "About Us. Board of Directors. The Governor. The Deputy Governor. Assistant Governors. Organization Structure. Core Principles. Brief History ...",
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.qcb.gov.qa/en/News/Pages/19feb24.aspx",
+        "title": "Qatar Central Bank will launch FAWRAN instant payment service",
+        "text": "Qatar Central Bank will launch FAWRAN instant payment service. Page Image 2/19/2024 Page Content qcb logo Disclaimer Site map Address",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.qcb.gov.qa/en/News/Pages/12NOV1.aspx",
+        "title": "Qatar Central Bank Governor Meets with the Ambassador of the French ...",
+        "text": "Qatar Central Bank Governor meets with the Ambassador of the French Republic to the State of Qatar.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.qcb.gov.qa/en/News/pages/10june24.aspx",
+        "title": "Qatar Central Bank announces the launch of \"Himyan\" national card ...",
+        "text": "The National Awareness Campaign for Information Security. Contact Us Careers Procurement Qatar Central Bank announces the launch of \"Himyan\" national card ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.qcb.gov.qa/en/News/Pages/Qatar-Central-Bank-Governor-meets.aspx",
+        "title": "Qatar Central Bank Governor meets with the Global Head of the ...",
+        "text": "Qatar Central Bank Governor meets with the Global Head of the Financial and Strategic Investors Group at BlackRock.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.qcb.gov.qa/en/News/Pages/30JUN.aspx",
+        "title": "Qatar Central Bank Governor Meets with the Ambassador of the ...",
+        "text": "About Us. Board of Directors. The Governor. The Deputy Governor. Assistant Governors. Organization Structure. Core Principles. Brief History ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

@@ -1,12 +1,81 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jul-sep2012/bbquarterly.php",
+        "title": "Publications - Bangladesh Bank",
+        "text": "Bangladesh Bank Quarterly Editor : Dr. Hassan Zaman Chief Economist Coordinator: Begum Sultana Razia General Manager Research Department Team Members",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/apr-jun2011/bbquarterly.php",
+        "title": "Publications - Bangladesh Bank",
+        "text": "Bangladesh Bank Quarterly Editor : Dr. Md Akhtaruzzaman Economic Adviser Co-editor: Md. Shahidul Alam General Manager Research Department",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bb.org.bd/smespd_portal/publications.html",
+        "title": "Publications - | SME & Special Programmes Department",
+        "text": "Small and Medium Enterprise (SME) Credit Policies & Programmes, Bangla · English ; Bangladesh Bank Initiatives for Women Entrepreneurship Development, Bangla.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jul-sep2017/bbquarterly.php",
+        "title": "Publications",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bb.org.bd/pub/monthly/econtrds/nov19/econtrds.php",
+        "title": "Publications",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bb.org.bd/aboutus/dept/stat/surveyforms.php",
+        "title": "Statistics Department - Bangladesh Bank",
+        "text": "The basic objective of this statistical survey is to identify the sources through which Foreign Direct Investment (FDI) come into Bangladesh and vice versa.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bb.org.bd/recentupcoming/governormsg.php",
+        "title": "Governor's speeches and addresses - Bangladesh Bank",
+        "text": "Date, Governor's Speeches and Addresses in Recent Events (link). 29/07/21, BB Governor's Address at Monetary Policy Statement announcement for FY2021-22 ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bb.org.bd/mediaroom/circulars/aml/sep0702aml01.html",
+        "title": "Press Release-Circulars-AML - Bangladesh Bank",
+        "text": "Economic Data · Economic Trends · Annual Report · Other Links · Home | About Bangladesh Bank | Economic Data | Convertibility of Taka | Financial System ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bb.org.bd/museum/taka_mus.php",
+        "title": "Donor's news - Bangladesh Bank",
+        "text": "Bangladesh Bank Received Ancient Coin for Taka Jadughar from M.A. Kasem(12/06/2013) details.. Bangladesh Bank Received Ancient Coin for Taka Jadughar from Engr.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
     "topic": "research",
     "entries": [
       {
         "url": "https://www.bb.org.bd/pub/research/workingpaper/workingpaperlist.php",
         "title": "Working Paper Series - Bangladesh Bank",
         "text": "Research Work · Working Papers. 1 to 20 of 88, First | Next | Previous | Last. Working Papers. WP 2103, Determinants of Commercial Bank Lending Rates in ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.99
       }
     ]
   }

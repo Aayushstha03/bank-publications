@@ -30,15 +30,32 @@
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.snb.ch/en/news-publications/research-report",
+                "title": "SNB Research Report",
+                "text": "The SNB Research Report provides an overview of the SNB's research activities during the previous year. It is published mid-year. Subscribe ...",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.snb.ch/en/news-publications/annual-report-overview",
+                "title": "Annual Report - www-snb-ch",
+                "text": "The Annual Report of the Swiss National Bank, comprising the Accountability Report and the Business and Financial Report, is published at the end of March.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Publications reports publications reports list",
-            "Publications reports publications reports free"
+            "Publications reports publications reports free",
+            "Publications reports publications reports 2022"
           ],
           "query": {
-            "q": "site:http://www.snb.ch/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.snb.ch/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,12 +67,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.snb.ch/en/news-publications/statistics-overview",
+                "title": "Statistical Publications: Overview - www-snb-ch",
+                "text": "Reports, focus articles, press releases and data. The SNB publishes statistical data in reports, focus articles, press releases and on its data portal.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/statistics-pub/publication-history/monthly-statistical-bulletin",
                 "title": "Monthly Statistical Bulletin - www-snb-ch",
                 "text": "The publication 'Monthly Statistical Bulletin' was discontinued in September 2015. The relevant data can be consulted and downloaded via the SNB data portal.",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics",
@@ -63,7 +88,15 @@
                 "text": "On the data.snb.ch data portal, the SNB publishes data of importance for monitoring the economy as well as for monetary policy.",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
+              },
+              {
+                "url": "https://www.snb.ch/en/services-events/digital-services/datenportal",
+                "title": "SNB data portal",
+                "text": "On the data portal, the SNB publishes data which is of importance for monitoring the economy as well as for monetary policy.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 4
               },
               {
                 "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/statistics-pub/publication-history/bank-monthly-statistical-bulletin",
@@ -71,16 +104,17 @@
                 "text": "The publication 'Monthly Bulletin of Banking Statistics' was discontinued in January 2016. The relevant data can be consulted and downloaded via the SNB data ...",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
+            "Statistics bulletin data statistics data bulletin today",
             "Statistics bulletin data statistics data bulletin 2022",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.snb.ch/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.snb.ch/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -92,12 +126,47 @@
           "results": {
             "web": [
               {
+                "url": "https://www.snb.ch/dam/jcr:bd390819-aec9-423a-84ee-cd1ad042e4a7/snb_legal_geldpol_instr.en.pdf",
+                "title": "Guidelines of the Swiss National Bank on monetary policy instruments",
+                "text": "The Swiss National Bank (SNB) pursues a monetary policy serving the interests of the country as a whole. In accordance with art. 5 para.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2024-06-17T00:00:00",
+                "position": 1
+              },
+              {
                 "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy",
                 "title": "The SNB's monetary policy | Swiss National Bank",
                 "text": "The SNB's monetary policy strategy consists of three elements: a definition of price stability, a medium-term inflation forecast and the SNB policy rate.",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 1
+                "sublinks": [
+                  {
+                    "title": "Monetary policy decisions",
+                    "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/decisions"
+                  },
+                  {
+                    "title": "Monetary policy strategy",
+                    "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/strategy"
+                  },
+                  {
+                    "title": "The implementation of...",
+                    "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/implementation"
+                  },
+                  {
+                    "title": "Foreign exchange operations",
+                    "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/foreign-exchange-operations"
+                  }
+                ],
+                "position": 2
+              },
+              {
+                "url": "https://www.snb.ch/dam/jcr:17c7cb74-7d66-4a13-adc9-8ea1dcc5a086/snb_legal_richtlinien.en.pdf",
+                "title": "Investment Policy Guidelines of the Swiss National Bank (SNB)",
+                "text": "These guidelines define the scope of the Swiss National Bank's investment activity and make this scope transparent to the public. They detail the.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 3
               },
               {
                 "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/implementation",
@@ -105,7 +174,7 @@
                 "text": "Here you will find all of the SNB's monetary policy decisions, sorted by year.",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 2
+                "position": 4
               },
               {
                 "url": "https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/strategy",
@@ -113,16 +182,16 @@
                 "text": "The objective of the SNB's monetary policy is to ensure price stability in the medium and long term. Short-term price fluctuations, however, cannot be ...",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
-            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations pdf",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.snb.ch/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.snb.ch/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -142,13 +211,30 @@
                 "position": 1
               },
               {
+                "url": "https://www.snb.ch/en/news-publications/media-releases",
+                "title": "Press releases - www-snb-ch",
+                "text": "Press releases · SNB planning new cash logistics centre · Swiss National Bank extends and expands Project Helvetia · Swiss balance of payments and international ...",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
                 "url": "https://www.snb.ch/en/publications/communication/speeches-restricted/ref_20250619_mslanmargpe",
                 "title": "Introductory remarks, news conference - www-snb-ch",
                 "text": "Introductory remarks, news conference ; Martin Schlegel, Chairman of the Governing Board ; Antoine Martin, Vice Chairman of the Governing Board.",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
                 "published_time": "2025-06-19T00:00:00",
-                "position": 2
+                "position": 3
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/communication/speeches/2021/ref_20211216_amr",
+                "title": "Introductory remarks, news conference - www-snb-ch",
+                "text": "News conference of the Swiss National Bank, Zurich. Download file now. Introductory remarks, news conference. Author(s). Andréa M. Maechler",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2021-12-16T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.snb.ch/en/news-publications",
@@ -156,16 +242,17 @@
                 "text": "News & Publications · New on the website · Press releases · Ad hoc announcements · Economic publications · Quarterly Bulletin · Quarterly Bulletin (from 1998 on) ...",
                 "source": "SNB BNS",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
             "News speeches press news speeches press today",
-            "News speeches press news speeches press 2022"
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.snb.ch/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.snb.ch/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -181,33 +268,165 @@
                 "title": "SNB Working Papers",
                 "text": "SNB Working Papers present research in progress. Their aim is to elicit comments and to further debate. The opinions expressed in the working papers are ...",
                 "source": "SNB BNS",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAqFBMVEX////+/////v/+/v////7+/v79/v/+//4AABMAABIAABUAABcAAAwAAA8AAA4AABnz9Pba3N/LztPo6esjJDkjJDrh4+YaIDggIzYqLURISlxOUGI8QVQAAB0UGDA2OlBgXm4wM0USFitUV2lYXm5hZnYSFS1RV2MmKz5ZXmpTUmYIDSZLS2A5PlAlKULJzNIKDSd4d4SMjZdra30wNE6MjJqamaIRGi5Zr8/3AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAyOjE5OjQ4KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA2VDAyOjE5OjQ4KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/PgLlI44AAAQKSURBVEiJfVaLVts4EJVGL9txCMU4gQScJmkpLBQoZen//9nOHT3sAN05OY4s6c77YaWV0pofmchhg3+GjDaGlPGkSOEH0opkRUae1qrxkOQIT220xpFSlhkydy/n6i8UgXKbyahymUaIfocY15pfCHpp0Wp6kkCiFhvkiqV6Io+O2b2TlBkRbKXMjuW4EGFgSYLppuQVO88455hf9AScqhyJv41NnL8O/Tmo7/vVbgm3G3G34hviQgN3BDvVZn1StUwnbdvUe8aoUEKgTbnF4AlqM98fmL59+37TDIzJBnO4ER/oxtoBEwrmR3vr42pXryCHlMSbrDE6pChAhqUJ5uI0ri6rVZd8mdSjwO+GstxPMLeCyQGQm5a88LeWnLP2IybKyQaJ/RZyYZZz4cgexoh3J7pN3BW9AcV0yYK7iIGcRjA6Bj1CgGGtXMwfnTL5btQNGINE4DoCkiEWaYqEOhKfMDZhponP8bUxREp9gqHsgwJgi7UTjJx2/2yv1uv1BnT4UxfdFvey9/DAh1c/z1TQOmQR3VA3VV2Bal5dJO6Ps+umamS/rprqCXJCjnF3vrgfboZh2O/5t99FOWH7jD1sD8P9bHHG+qV0ZiO7i/lh+aXQMsV+stX9qgUTQw9Pd+ftd/X/9AKMcZIHEvH3mKkrU3a+VJBjoj2C6QVTQvHO/ZTlcDGXtIwYI0UrJZUM4oboNbKT1MscGGVHH/Tt76li+mMLihiN3Izadf3J76MbH5vWm2CCc7kPdv1i2Ca6urrcpDx4eHzdbl9fX7F7gfhwFYgcipjr2WwxmzUNYp5z57G6Xswa3uQkaYAhCk6nQdLtnodVpufmvOTb81Bov0d8gvHwDB8aiX6k7tAWTDWcpV2kxCkXkQ3oIR/M/TrWaTV00xMOBmrOJB/RWHh37e1pDC9jlpxck+CSRf+Y1mhcH4ARkp543Jlt8GkWSO/J2z8Khut0mdTQQRac2NOZhYX9DCOgxJmDauA3F4eKGjE9ewgGjX00ZRnPEqjjpG0jttmBm7ZHf4KcOfqOKlPTmOCszLbY3HSxdNNeptXuJPk6z9M4S6QNWjVmOWNObv4Fvb2t6j/LkuNyrtGykHQ2uixP5U09q+egumkYI18VsNfiuhXdeCIEB+uy99ZzZCsSdlYxhpV3IRYOppfKMXXFAfz/5eks09OTV7FxSqvBZZGD7xgpasx+Om7dYgaxCgFySLRBrctXlGY2nEtOGoKJIynazefcPPkDwbAyJDnKPmdnMxdjZKpw0gbe8sbJ9wuT9zjUjicKwyQ+3hsfOw02cYUf8oq1J++1j8TM5UgJK14YlZgyC+ah4q4WjtgCEh+BaF0eE8Vzzml+dRAZQsjZEryWyZc1kRFn/wNe9jqfQNlWaQAAAABJRU5ErkJggg==",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.snb.ch/en/the-snb/mandates-goals/research",
-                "title": "Research at the SNB | Swiss National Bank",
-                "text": "Academic conferences, publications, lectures: You can find all relevant information on the Swiss National Bank's research activities here.",
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_01",
+                "title": "Central bank information and pure monetary policy surprises in ...",
+                "text": "Studying the effects of pure monetary policy and central bank information surprises reveals that both types of surprises affect financial assets ...",
                 "source": "SNB BNS",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAqFBMVEX////+/////v/+/v////7+/v79/v/+//4AABMAABIAABUAABcAAAwAAA8AAA4AABnz9Pba3N/LztPo6esjJDkjJDrh4+YaIDggIzYqLURISlxOUGI8QVQAAB0UGDA2OlBgXm4wM0USFitUV2lYXm5hZnYSFS1RV2MmKz5ZXmpTUmYIDSZLS2A5PlAlKULJzNIKDSd4d4SMjZdra30wNE6MjJqamaIRGi5Zr8/3AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAyOjE5OjQ4KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA2VDAyOjE5OjQ4KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/PgLlI44AAAQKSURBVEiJfVaLVts4EJVGL9txCMU4gQScJmkpLBQoZen//9nOHT3sAN05OY4s6c77YaWV0pofmchhg3+GjDaGlPGkSOEH0opkRUae1qrxkOQIT220xpFSlhkydy/n6i8UgXKbyahymUaIfocY15pfCHpp0Wp6kkCiFhvkiqV6Io+O2b2TlBkRbKXMjuW4EGFgSYLppuQVO88455hf9AScqhyJv41NnL8O/Tmo7/vVbgm3G3G34hviQgN3BDvVZn1StUwnbdvUe8aoUEKgTbnF4AlqM98fmL59+37TDIzJBnO4ER/oxtoBEwrmR3vr42pXryCHlMSbrDE6pChAhqUJ5uI0ri6rVZd8mdSjwO+GstxPMLeCyQGQm5a88LeWnLP2IybKyQaJ/RZyYZZz4cgexoh3J7pN3BW9AcV0yYK7iIGcRjA6Bj1CgGGtXMwfnTL5btQNGINE4DoCkiEWaYqEOhKfMDZhponP8bUxREp9gqHsgwJgi7UTjJx2/2yv1uv1BnT4UxfdFvey9/DAh1c/z1TQOmQR3VA3VV2Bal5dJO6Ps+umamS/rprqCXJCjnF3vrgfboZh2O/5t99FOWH7jD1sD8P9bHHG+qV0ZiO7i/lh+aXQMsV+stX9qgUTQw9Pd+ftd/X/9AKMcZIHEvH3mKkrU3a+VJBjoj2C6QVTQvHO/ZTlcDGXtIwYI0UrJZUM4oboNbKT1MscGGVHH/Tt76li+mMLihiN3Izadf3J76MbH5vWm2CCc7kPdv1i2Ca6urrcpDx4eHzdbl9fX7F7gfhwFYgcipjr2WwxmzUNYp5z57G6Xswa3uQkaYAhCk6nQdLtnodVpufmvOTb81Bov0d8gvHwDB8aiX6k7tAWTDWcpV2kxCkXkQ3oIR/M/TrWaTV00xMOBmrOJB/RWHh37e1pDC9jlpxck+CSRf+Y1mhcH4ARkp543Jlt8GkWSO/J2z8Khut0mdTQQRac2NOZhYX9DCOgxJmDauA3F4eKGjE9ewgGjX00ZRnPEqjjpG0jttmBm7ZHf4KcOfqOKlPTmOCszLbY3HSxdNNeptXuJPk6z9M4S6QNWjVmOWNObv4Fvb2t6j/LkuNyrtGykHQ2uixP5U09q+egumkYI18VsNfiuhXdeCIEB+uy99ZzZCsSdlYxhpV3IRYOppfKMXXFAfz/5eks09OTV7FxSqvBZZGD7xgpasx+Om7dYgaxCgFySLRBrctXlGY2nEtOGoKJIynazefcPPkDwbAyJDnKPmdnMxdjZKpw0gbe8sbJ9wuT9zjUjicKwyQ+3hsfOw02cYUf8oq1J++1j8TM5UgJK14YlZgyC+ah4q4WjtgCEh+BaF0eE8Vzzml+dRAZQsjZEryWyZc1kRFn/wNe9jqfQNlWaQAAAABJRU5ErkJggg==",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2025-01-20T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.snb.ch/public/publication/en/www-snb-ch/publications/research/research-report/research_report_2022/0_en/research_report_2022.en.pdf",
-                "title": "Research Report 2022 - www-snb-ch",
-                "text": "The number of working papers decreased from 39 to 34, and fewer SNB Working. Papers were published than in the previous year (2022: 14, 2021: 20). With regard ...",
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_03",
+                "title": "The demand for safe assets - www-snb-ch",
+                "text": "This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price ...",
                 "source": "SNB BNS",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAqFBMVEX////+/////v/+/v////7+/v79/v/+//4AABMAABIAABUAABcAAAwAAA8AAA4AABnz9Pba3N/LztPo6esjJDkjJDrh4+YaIDggIzYqLURISlxOUGI8QVQAAB0UGDA2OlBgXm4wM0USFitUV2lYXm5hZnYSFS1RV2MmKz5ZXmpTUmYIDSZLS2A5PlAlKULJzNIKDSd4d4SMjZdra30wNE6MjJqamaIRGi5Zr8/3AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAyOjE5OjQ4KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA2VDAyOjE5OjQ4KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/PgLlI44AAAQKSURBVEiJfVaLVts4EJVGL9txCMU4gQScJmkpLBQoZen//9nOHT3sAN05OY4s6c77YaWV0pofmchhg3+GjDaGlPGkSOEH0opkRUae1qrxkOQIT220xpFSlhkydy/n6i8UgXKbyahymUaIfocY15pfCHpp0Wp6kkCiFhvkiqV6Io+O2b2TlBkRbKXMjuW4EGFgSYLppuQVO88455hf9AScqhyJv41NnL8O/Tmo7/vVbgm3G3G34hviQgN3BDvVZn1StUwnbdvUe8aoUEKgTbnF4AlqM98fmL59+37TDIzJBnO4ER/oxtoBEwrmR3vr42pXryCHlMSbrDE6pChAhqUJ5uI0ri6rVZd8mdSjwO+GstxPMLeCyQGQm5a88LeWnLP2IybKyQaJ/RZyYZZz4cgexoh3J7pN3BW9AcV0yYK7iIGcRjA6Bj1CgGGtXMwfnTL5btQNGINE4DoCkiEWaYqEOhKfMDZhponP8bUxREp9gqHsgwJgi7UTjJx2/2yv1uv1BnT4UxfdFvey9/DAh1c/z1TQOmQR3VA3VV2Bal5dJO6Ps+umamS/rprqCXJCjnF3vrgfboZh2O/5t99FOWH7jD1sD8P9bHHG+qV0ZiO7i/lh+aXQMsV+stX9qgUTQw9Pd+ftd/X/9AKMcZIHEvH3mKkrU3a+VJBjoj2C6QVTQvHO/ZTlcDGXtIwYI0UrJZUM4oboNbKT1MscGGVHH/Tt76li+mMLihiN3Izadf3J76MbH5vWm2CCc7kPdv1i2Ca6urrcpDx4eHzdbl9fX7F7gfhwFYgcipjr2WwxmzUNYp5z57G6Xswa3uQkaYAhCk6nQdLtnodVpufmvOTb81Bov0d8gvHwDB8aiX6k7tAWTDWcpV2kxCkXkQ3oIR/M/TrWaTV00xMOBmrOJB/RWHh37e1pDC9jlpxck+CSRf+Y1mhcH4ARkp543Jlt8GkWSO/J2z8Khut0mdTQQRac2NOZhYX9DCOgxJmDauA3F4eKGjE9ewgGjX00ZRnPEqjjpG0jttmBm7ZHf4KcOfqOKlPTmOCszLbY3HSxdNNeptXuJPk6z9M4S6QNWjVmOWNObv4Fvb2t6j/LkuNyrtGykHQ2uixP5U09q+egumkYI18VsNfiuhXdeCIEB+uy99ZzZCsSdlYxhpV3IRYOppfKMXXFAfz/5eks09OTV7FxSqvBZZGD7xgpasx+Om7dYgaxCgFySLRBrctXlGY2nEtOGoKJIynazefcPPkDwbAyJDnKPmdnMxdjZKpw0gbe8sbJ9wuT9zjUjicKwyQ+3hsfOw02cYUf8oq1J++1j8TM5UgJK14YlZgyC+ah4q4WjtgCEh+BaF0eE8Vzzml+dRAZQsjZEryWyZc1kRFn/wNe9jqfQNlWaQAAAABJRU5ErkJggg==",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2025-02-11T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2024/working_paper_2024_05",
+                "title": "The role of hedge funds in the Swiss franc foreign exchange market",
+                "text": "This paper investigates the role of hedge funds within the Swiss franc (CHF) foreign exchange (FX) market, using a novel and comprehensive flow dataset.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2024-04-30T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_02",
+                "title": "Global value chains in a world of uncertainty and automation",
+                "text": "This paper shows that higher uncertainty, in combination with better automation technologies, has likely contributed to that trend reversal.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2025-02-07T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.snb.ch/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.snb.ch/en/publications/financial-markets/snb_bills_new",
+                "title": "Announcements and conditions for new SNB Bills auctions (in Swiss ...",
+                "text": "Announcements and conditions for new SNB Bills auctions (in Swiss francs). 23 July 2025. Download file now. Announcements and conditions for new SNB Bills ...",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.snb.ch/en/news-publications/media_releases_adhoc",
+                "title": "Ad hoc announcements pursuant to Art. 53 of the Listing Rules (LR)",
+                "text": "26.06.2024 SNB Governing Board: Martin Schlegel to become Chairman, Antoine Martin Vice Chairman and Petra Tschudin new Member",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/surveys/information",
+                "title": "Latest Survey updates - www-snb-ch",
+                "text": "Latest Survey updates · New or changed survey documents. 16 July 2025. List of institutes obliged to hold minimum reserves MIREL 25.07. 15 July 2025. Supervisory ...",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2013/working_paper_2013_11",
+                "title": "Time variation in asset price responses to macro announcements",
+                "text": "Although the effects of economic news announcements on asset prices are well established, these relationships are unlikely to be stable.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2013-11-27T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2022/working_paper_2022_06",
+                "title": "Public debt management announcements under \"beat-the ...",
+                "text": "Public debt managers auction bonds to primary dealers (PDs) who may sell them to traders in the secondary market.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2022-06-22T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2022"
+            "Announcements updates announcements updates stock exchange",
+            "Announcements updates announcements updates 2022"
           ],
           "query": {
-            "q": "site:http://www.snb.ch/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.snb.ch/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.snb.ch/dam/jcr:8d1d5781-7aa0-44cf-9b8f-87c99d116848/sem_2025_05_13_defiore.n.pdf",
+                "title": "Communication Pass-Through and Inflation Expectations - www-snb-ch",
+                "text": "BIS Working Papers are written by members of the Monetary and Economic. Department of the Bank for International Settlements, and from time ...",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/research/working-papers/2020/working_paper_2020_17",
+                "title": "Does communication influence executives' opinion of central bank ...",
+                "text": "We analyze the economic impact of central banks sensed by business executives in a sample of 61 countries from 1998 to 2016.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2020-09-04T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/speeches/2006/ref_20060624_tjn/0_en/ref_20060624_tjn.en.pdf",
+                "title": "Communication in Monetary Policy: Experiences of the Swiss ...",
+                "source": "www-snb-ch",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.snb.ch&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///1b09bca6155b6fd6a1bf21ee307d1282c93cd27142ecfbc660829598cfb7fd6f",
+                "position": 3
+              },
+              {
+                "url": "https://www.snb.ch/public/publication/fr/www-snb-ch/publications/communication/press-releases/2016/pre_20160711/0_fr/pre_20160711.fr.pdf",
+                "title": "Susanne Mühlemann nommée nouvelle cheffe de la ...",
+                "source": "SNB",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.snb.ch&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///54dd8b266b61f1830c83a7b9a8004ade39f9dca0c423b807e099f0edd4723d59",
+                "position": 4
+              },
+              {
+                "url": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20240620",
+                "title": "Monetary policy assessment of 20 June 2024 - www-snb-ch",
+                "text": "The current banknote series, monetary policy, annual report, current interest rates and exchange rates, responsibilities and goals of the SNB.",
+                "source": "SNB BNS",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////t7vDf4eTm6OqSlp8AABUAABAAAB1lbHmVm6MAACKorLOytbu5u8EAACtqcn8AABL4+fkAACbz9PWdoqqLj5hWXm48SFvZ2t0AAB8AAAC/wsfS1NcADDUAFTkAAC8nNk3Jy889WZgbAAAAmElEQVR4AbWShRHEIBAAcYu7W/9NPse7W7IJcrM4oM3BxEEfSsa5EEKqh1Ibz/eDMHos48Tm6TOZ/SjzhxIXzKJLCTKsNERFfZCEG25pWpCicXXZnWSOKQABdXT8JIWPbujFhzK4lfVZygEYDSxoGl1gjpKWCqgkyHCOICj7x4ew8tm+vjK59H0dPpZMwjMx6qEknaNHW7MDOcYKgGgYrJ8AAAAASUVORK5CYII=",
+                "published_time": "2024-06-20T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.snb.ch/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -6,19 +6,31 @@
         "url": "https://www.bccr.fi.cr/en/publications",
         "title": "Publications - Banco Central de Costa Rica",
         "text": "In this section you can find the documents published by the Central Bank of Costa Rica related to economic and financial reports and monetary programs.",
-        "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.bccr.fi.cr/en/Deposit-Guarantee-Fund/reports",
-        "title": "Reports - Banco Central de Costa Rica",
-        "text": "The purpose of this section is to present annual and other reports produced while carrying out the activities of the DGF.",
-        "listing_probability": 0.97
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/inflation-reports",
         "title": "Inflation reports - Banco Central de Costa Rica",
         "text": "​​​​​​​​​​Inflation reports​​ ; pdf, See document · June 2019 Inflation report (Spanish), 06/07/2019 ; pdf, See document · December 2018 Inflation report (Spanish) ...",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/Deposit-Guarantee-Fund/reports",
+        "title": "Reports - Banco Central de Costa Rica",
+        "text": "The purpose of this section is to present annual and other reports produced while carrying out the activities of the DGF.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/transparency/accountability/managment-reports",
+        "title": "Managment Reports - Banco Central de Costa Rica",
+        "text": ": Final management reports ‎(52) ; : Rationale on payment of allowances to members of the Board of Directors of the BCCR ‎(2) ; : Scales and salary policies ‎(7) ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/publications/international-conventions",
+        "title": "International Conventions - Banco Central de Costa Rica",
+        "text": "​​​​International Agreements ; pdf, /en/publications/InternationalAgreements/Desembolso_del_Prestamo_Banco_Mundial.pdf ; pdf, /en/publications/ ...",
+        "listing_probability": 1.0
       }
     ]
   },
@@ -29,19 +41,25 @@
         "url": "https://www.bccr.fi.cr/en/economic-indicators/business-statistics",
         "title": "Business Statistics - Banco Central de Costa Rica",
         "text": "​The business and work statistics published on this site are calculated based on data from the Registry of Economic Variables (Revec) prepared by the Banco ...",
-        "listing_probability": 0.9
-      },
-      {
-        "url": "https://www.bccr.fi.cr/en/payments-system/claims/statistics-on-claims",
-        "title": "Statistics on claims - San José - Banco Central de Costa Rica",
-        "text": "Statistics on Claims SINPE services and payment cards (Spanish) ; SINPE claims entities contacts​ (Spanish)​​​​ ; ​Cards claims (Spanish)​​​​​.",
-        "listing_probability": 0.95
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.bccr.fi.cr/en/economic-indicators/construction-statistics",
         "title": "Construction statistics - Banco Central de Costa Rica",
         "text": "General price index for construction inputs, by type of project, construction price index by Central Product Classification, quarterly economic activity index.",
-        "listing_probability": 0.95
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/payments-system/claims/statistics-on-claims",
+        "title": "Statistics on claims - San José - Banco Central de Costa Rica",
+        "text": "Statistics on Claims SINPE services and payment cards (Spanish) ; SINPE claims entities contacts​ (Spanish)​​​​ ; ​Cards claims (Spanish)​​​​​.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/payments-system/sinpe-service-statistics",
+        "title": "SINPE Service Statistics - Banco Central de Costa Rica",
+        "text": "In 2012 the amount of payments made through SINPE grew by 11% as compared to 2011, with the main reason for this ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -49,9 +67,9 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bccr.fi.cr/en/payments-system/sinpe-fees-and-charges/fees-specified-in-the-payment-system-regulations",
-        "title": "Fees Specified in the Payment System Regulations",
-        "text": "Fees are published in the Payment System Regulations and are enforceable in all entities associated with SINPE. Among these fees are the amounts for monthly ...",
+        "url": "https://www.bccr.fi.cr/en/banknotes-coins/use-of-images-guidelines",
+        "title": "Use of images guidelines - Banco Central de Costa Rica",
+        "text": "It is forbidden to reproduce a banknote or coin on both sides using the same support. In the case of banknotes, printed designs must be reproduced in a markedly ...",
         "listing_probability": 0.1
       },
       {
@@ -59,6 +77,18 @@
         "title": "Exchange Policy Foreign Sector - Banco Central de Costa Rica",
         "text": "imagen7. Monetary Policy Inflation. Monetary policy releases​​ · Macroeconomic programs · Comments on the national economy · Inflation reports · Exchange Policy ...",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/publications/monetary-policy-inflation/monetary-policy-releases",
+        "title": "Monetary policy releases​​ - Banco Central de Costa Rica",
+        "text": "​​​​​​​​​Monetary Policy releases​​ ; pdf, See document · Monetary Policy release 03-2023 (Spanish), 21/04/2023 ; pdf, See document · Monetary Policy release 01- ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/payments-system/sinpe-fees-and-charges/fees-specified-in-the-payment-system-regulations",
+        "title": "Fees Specified in the Payment System Regulations",
+        "text": "Fees are published in the Payment System Regulations and are enforceable in all entities associated with SINPE. Among these fees are the amounts for monthly ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -66,22 +96,51 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.bccr.fi.cr/en/news",
-        "title": "News - Banco Central de Costa Rica",
-        "text": "​​​​​​​​​​​​​​News​ ; https://edicion.bccr.fi.cr/en/news/Paginas/News.aspx · Financial intermediaries' weighted offered rate and effective interest rate in ...",
-        "listing_probability": 0.98
-      },
-      {
         "url": "https://www.bccr.fi.cr/en/press-releases",
         "title": "Press Releases - Banco Central de Costa Rica",
         "text": "Press Releases · Moneda conmemorativa de los 175 años de la Fundación de la República · Nuevas Cuentas Ambientales 2022 · Seguridades de los nuevos billetes de ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/news",
+        "title": "News - Banco Central de Costa Rica",
+        "text": "​​​​​​​​​​​​​​News​ ; https://edicion.bccr.fi.cr/en/news/Paginas/News.aspx · Financial intermediaries' weighted offered rate and effective interest rate in ...",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bccr.fi.cr/en/press-releases/speeches-and-lectures",
         "title": "Speeches and lectures - San José - Banco Central de Costa Rica",
         "text": "​​​​​​​​Speeches and lectures​​​ ; pdf, Ver presentación · Presentation Review of the 2020-2021 Macroeconomic Program (spanish), 30/07/2020 ; pdf, Ver ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/news/2022-news",
+        "title": "2022 News - Banco Central de Costa Rica",
+        "text": "2022 News​​​ ; https://edicion.bccr.fi.cr/en/news/Paginas/News.aspx · Financial intermediaries' weighted offered rate and Effective interest rate in dollar ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/news?Paged=TRUE&PagedPrev=TRUE&p_FechaPublicacionDocumento=20231004+06:00:00&p_Created=20231004+21:45:15&p_ID=1159&PageFirstRow=61&&View=%7BE3CDD7E8-3025-41C3-8886-182C6350B718%7D",
+        "title": "News - Banco Central de Costa Rica",
+        "text": "Nothing found - sorry ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2021",
+        "title": "Economic Research Seminar 2021",
+        "text": null,
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bccr.fi.cr/en/research/economic-research-seminar-2020",
+        "title": "Economic Research Seminar 2020",
+        "text": null,
+        "listing_probability": 0.9
       }
     ]
   }

@@ -1,12 +1,64 @@
 [
   {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bi.go.id/en/iru/economic-market-data/srbi/default.aspx",
+        "title": "Ownership of Bank Indonesia Rupiah Securities (SRBI)",
+        "text": "Ownership of Bank Indonesia Rupiah Securities (SRBI). Ownership of Bank Indonesia Rupiah Securities (SRBI) · Highlight News & Government Press Release ...",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bi.go.id/en/iru/email-archive/Pages/Fiscal%20Highlight.aspx",
+        "title": "Fiscal Policy Highlights and Macroeconomic Framework for the ...",
+        "text": "With regard to budget financing, policy will be aimed primarily at covering the fiscal deficit, meeting debt amortization obligations and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bi.go.id/en/publikasi/laporan/Pages/Tinjauan-Kebijakan-Moneter-Agustus-2022.aspx",
+        "title": "Monetary Policy Review - August 2022 - Bank Indonesia",
+        "text": "Information about the rupiah as the currency of the Republic of Indonesia managed by Bank Indonesia pursuant to prevailing laws and regulations.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
     "topic": "news",
     "entries": [
       {
         "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/default.aspx",
         "title": "News Release - Bank Indonesia",
         "text": "Information about the organisation, transformation and history of Bank Indonesia as the central bank of the Republic of Indonesia. Main Functions · Monetary.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bi.go.id/en/iru/highlight-news/Pages/Global%20Bond%20INDO-15.aspx",
+        "title": "The Government of Indonesia Issued USD1 billion Global Bond, INDO-15",
+        "text": "The Government of Indonesia Issued USD1 billion Global Bond, INDO-15 ... 6. Even though the market was still in volatile, we offered lower price ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2511623.aspx",
+        "title": "Indonesia and Malaysia Announce the Commercial Launch of the Cross ...",
+        "text": "Bank Indonesia (BI) and Bank Negara Malaysia (BNM) today announced the commercial launch of the Indonesia-Malaysia cross-border QR payment ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2614424.aspx",
+        "title": "BI-Rate Held at 6.25%: Strengthening Stability and Maintaining Growth ...",
+        "text": "Global financial market uncertainty remains high despite a solid world economic outlook. Global economic growth in 2024 is forecast at 3.2% in ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_266524.aspx",
+        "title": "Inflation Under Control in March 2024 - Bank Indonesia",
+        "text": "Low core inflation was maintained. Core inflation in March 2024 stood at 0.23% (mtm), up from 0.14% (mtm) the month earlier, primarily in response to a seasonal ...",
+        "listing_probability": 0.1
       }
     ]
   }

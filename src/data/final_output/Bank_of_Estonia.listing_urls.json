@@ -5,14 +5,32 @@
       {
         "url": "https://www.eestipank.ee/en/publications",
         "title": "Publications | Eesti Pank",
-        "text": null,
+        "text": "All publications, Annual Report, Estonian Economy and Monetary Policy, Financial Stability Review, Labour Market Review, Financing of the Economy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/annual-reports",
+        "title": "Annual reports | Publications | Eesti Pank",
+        "text": "Annual reports ; 2016. 31.12.2016: Eesti Pank. Annual report 1993 – 2016 ; 1939. 31.12.1939: Annual Report of Eesti Pank (1929- 1939) ; 1928. 31.12.1928: Eesti ...",
         "listing_probability": 0.98
       },
       {
         "url": "https://www.eestipank.ee/en/publications/archive",
-        "title": "Archive | Publications | Eesti Pank",
-        "text": null,
-        "listing_probability": 0.99
+        "title": "Archive | Publications - Eesti Pank",
+        "text": "All publications, Annual Report, Estonian Economy and Monetary Policy, Financial Stability Review, Labour Market Review, Financing of the Economy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/annual-report",
+        "title": "Annual Report | Publications - Eesti Pank",
+        "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/working-papers",
+        "title": "Working Papers | Publications - Eesti Pank",
+        "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -30,6 +48,18 @@
         "title": "Statistics Department | Eesti Pank",
         "text": "The Statistics Department consists of three divisions. The Financial Sector Statistics Division produces statistics for the financial sector.",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.eestipank.ee/en/data-protection",
+        "title": "Processing of personal data at Eesti Pank",
+        "text": "The principles for processing personal data at Eesti Pank and your rights concerning your own personal data are explained here.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/calendar/statistical-release-financial-accounts-statistics-q1-2025-22052025",
+        "title": "STATISTICAL RELEASE. Financial accounts statistics Q1 2025",
+        "text": "STATISTICAL RELEASE. Financial accounts statistics Q1 2025. 11. July. 2025 - 08:00. Add to your calendar.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -37,22 +67,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.eestipank.ee/en/monetary-policy/monetary-policy-instruments",
-        "title": "Monetary policy instruments | Eesti Pank",
-        "text": "Monetary policy instruments · Open market operations · Standing facilities · Reserve requirement for credit institutions · Forward guidance.",
-        "listing_probability": 0.05
-      },
-      {
         "url": "https://www.eestipank.ee/en/monetary-policy",
         "title": "Monetary policy | Eesti Pank",
         "text": "As a member of the Eurosystem, Eesti Pank participates in setting its monetary policy, taking the decisions needed for it, and implementing those decisions.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.eestipank.ee/en/monetary-policy/operational-framework",
+        "title": "Operational framework - monetary policy - Eesti Pank",
+        "text": "The Eurosystem uses a set of monetary policy instruments and procedures to achieve its primary objective of maintaining price stability.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2024/estonian-economy-and-monetary-policy-22024",
-        "title": "Estonian Economy and Monetary Policy 2/2024 - Eesti Pank",
-        "text": "Increasing demand will contribute to growth in the economy alongside the expected increase in foreign trade, primarily because the purchasing power of people ...",
-        "listing_probability": 0.01
+        "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2024/estonian-economy-and-monetary-policy-32024",
+        "title": "Estonian Economy and Monetary Policy 3/2024 - Eesti Pank",
+        "text": "The Estonian Economy and Monetary Policy is an Eesti Pank review released four times a year that summarises the main recent events in the global and Estonian ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.eestipank.ee/en/monetary-policy/central-bank-reserves",
+        "title": "Central bank reserves | Eesti Pank",
+        "text": "It sets out the rules and limits on financial assets not used for monetary policy that are used by national central banks for meeting their domestic ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2025/estonian-economy-and-monetary-policy-12025",
+        "title": "Estonian Economy and Monetary Policy 1/2025 - Eesti Pank",
+        "text": "GDP in Estonia started to grow at the end of last year having contracted for two and a half years. Growth is expected to become more embedded in the economy ...",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -63,19 +105,31 @@
         "url": "https://www.eestipank.ee/en/press",
         "title": "Press releases | Eesti Pank",
         "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.eestipank.ee/en/press/speeches-and-presentations/2001-01",
+        "title": "October 2001 - Press releases | Eesti Pank",
+        "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.eestipank.ee/en/press/2005-12",
+        "title": "Press releases - Eesti Pank",
+        "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.eestipank.ee/en/press/economic-policy-statements",
         "title": "Press releases - Eesti Pank",
         "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.eestipank.ee/en/press/economic-policy-statements/2017-07",
-        "title": "Press releases | Eesti Pank",
+        "url": "https://www.eestipank.ee/en/press/speeches-and-presentations/2002-01",
+        "title": "June 2002 - Press releases | Eesti Pank",
         "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
-        "listing_probability": 0.92
+        "listing_probability": 0.9
       }
     ]
   },
@@ -87,6 +141,59 @@
         "title": "Working Papers | Publications - Eesti Pank",
         "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/working-papers/2025/12025-nicolas-reigl-determinants-non-performing-loans-empirical-analysis-across-major-sectors",
+        "title": "1/2025 Nicolas Reigl. Determinants of Non-Performing Loans - Eesti Pank",
+        "text": "This paper investigates the determinants of non-performing bank loans (NPLs) across six key sectors in Estonia from 2005 to 2023, employing a dynamic linear ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/working-papers/2021/22021-nicolas-reigl-expectational-errors-and-business-cycle-fluctuations-europe",
+        "title": "2/2021 Nicolas Reigl. Expectational Errors and Business Cycle ...",
+        "text": "Empirical Economics. This paper investigates how supply noise and demand noise contribute to business cycle fluctuations in three major European economies. A ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/publications/working-papers/2021/52021-eva-branten-role-risk-attitudes-and-expectations-household-borrowing-estonia",
+        "title": "5/2021 Eva Branten. The role of risk attitudes and expectations in ...",
+        "text": "This study investigates the relations between risk attitudes and expectations and different aspects of borrowing by households in Estonia. The central research ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.eestipank.ee/en/publications/working-papers/2021/82021-luca-alfieri-diana-gabrielyan-communication-reaction-function-european-central-bank-analysis",
+        "title": "8/2021 Luca Alfieri, Diana Gabrielyan. The Communication ...",
+        "text": "The communication reaction function measures the response of the central bank's communications to the indicators normally ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.eestipank.ee/en/technical-requirements-submission-reports",
+        "title": "Formatting report messages - Eesti Pank",
+        "text": "General description of the report message. A report message is an XML document with a structure and content set out in the XML schemas ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/en/press/price-growth-june-was-driven-mobile-communication-services-07072010",
+        "title": "Price growth in June was driven by mobile communication services",
+        "text": "Price growth in June was driven by communication services - consumer prices increased by 0.4 percentage points due to the increase in ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.eestipank.ee/en/calendar/open-seminar-communication-policy-revisited-ecb-tone-and-term-structure-06052016",
+        "title": "Open seminar „Communication policy revisited: The ECB tone and the ...",
+        "text": "Open seminar „Communication policy revisited: The ECB tone and the term structure“. Seminars. 10. May2016. 11:00 - 12:30.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eestipank.ee/kalender/professor-otmar-issingu-avalik-loeng-teemal-communication-accountability-transparency-challenges-24052019",
+        "title": "Professor Otmar Issingu avalik loeng teemal „Communication ...",
+        "text": "Loeng on osa Eesti Panga 100. aastapäevale pühendatud loengusarjast. Osalemine on kutsetega. Loeng kestab orienteeruvalt 1,5 tundi. Eesti Panga ...",
+        "listing_probability": 0.05
       }
     ]
   }

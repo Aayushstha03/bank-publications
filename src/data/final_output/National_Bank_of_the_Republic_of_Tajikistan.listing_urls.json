@@ -1,18 +1,94 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.nbt.tj/en/jurnal/",
+        "title": "Editions and Publications",
+        "text": "Editions and Publications. Phone: + (992) 44 600-32-27. Fax: + (992) 44 600-32-35. Е-mail: info@nbt.tj. NBT hot line",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbt.tj/en/jurnal/?section=150&clear_cache=Y",
+        "title": "Editions and Publications",
+        "text": "In the section of branch publications readers can be familiarized with monetary review, securities market review, certain macroeconomic indicators, average ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbt.tj/en/comments/",
+        "title": "Comments on publications",
+        "text": "Response to the article “USD 50 million can be missed by some Tajik families whose main income is remittances” which was published on the websites of news ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
     "topic": "statistics",
     "entries": [
       {
         "url": "https://www.nbt.tj/en/statistics/statistical_bulletin.php",
         "title": "Banking statistics bulletin",
-        "text": "Banking statistics bulletin. БМТ. 17 July 2025,Thursday. Exchange rate · Тоҷ Рус Eng · About us · Functions · Structure · Banking legislation · Organizational ...",
-        "listing_probability": 0.8
+        "text": "Banking statistics bulletin. БМТ. 23 July 2025,Wednesday. Exchange rate · Тоҷ Рус Eng · About us · Functions · Structure · Banking legislation · Organizational ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://nbt.tj/en/statistics/monetary_sector.php",
+        "title": "Monetary sector",
+        "text": "Monetary Survey of the National Bank of Tajikistan · Depository Corporations Survey · Financial Corporations Survey · Monetary aggregates · Interest · Securities.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://nbt.tj/en/statistics/tavozuni-pardokhti-jt/savdoi-molu-khikhmatrasonihoi-berunai-jumhurii-tojikiston/jadvali_tahlili_sodirot.php",
+        "title": "Analytical table of export and import of goods by country",
+        "text": "Analytical table of export and import of goods by country.",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.nbt.tj/en/statistics/tavozuni-pardokhti-jt/mavkei-sarmoyaguzorihoi-baynalmilalii-jt/?month=03&year=2023",
         "title": "Statistics",
         "text": "A statistical report reflecting the value of financial assets of residents of the Republic of Tajikistan also in form of claims to non-residents and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://nbt.tj/en/statistics/tavozuni-pardokhti-jt/tavozuni-pardokhti-jumhurii-tojikiston/peshnihodi-tahlil.php",
+        "title": "Balance of Payments of the Republic of Tajikistan",
+        "text": "— Statistics of Balance of Payments and International Investment Position Department of the IMF · — On cooperation of Republic of Tajikistan with the IMF · — ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.nbt.tj/en/monetary_policy/fishang.php",
+        "title": "Monetary Policy Instruments",
+        "text": "In order to ensure efficient implementation of the monetary policy, control its operational target, banking system liquidity condition and the short-term ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbt.tj/en/normative/",
+        "title": "Instructions and Regulations",
+        "text": "Instructions include: No. 215 on reserve and loan loss provision fund, No. 198 on microcredit fund procedures, and No. 197 on microcredit organization ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbt.tj/en/monetary_policy/maksad.php",
+        "title": "Monetary Policy Objective and Tasks",
+        "text": "The main monetary policy objective is long-term price stability, achieved by controlling money supply, liquidity, and interest rates, promoting real economic ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbt.tj/en/monetary_policy/main.php",
+        "title": "Monetary Policy",
+        "text": "Monetary policy includes a process of controlling the money supply in economy, the liquidity level of banking system and the short-term interest rates.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nbt.tj/en/monetary_policy/strategiya.php",
+        "title": "Monetary Policy Strategy of the Republic of Tajikistan for 2021-2025",
+        "text": "This Strategy has been prepared with the aim of determining the main directions of monetary policy, the formation of an effective mechanism for the development ...",
+        "listing_probability": 0.01
       }
     ]
   },
@@ -22,20 +98,43 @@
       {
         "url": "https://www.nbt.tj/en/news/",
         "title": "News",
-        "text": "News · Results of the auction · Meeting with the delegation of the International Rating Agency \"Standard & Poor's\" · Results of the auction · Results of the auction.",
+        "text": "On July 14, 2025, the Chairman of National Bank of Tajikistan Firdavs Tolibzoda met with the delegation of analysts of the International Rating Agency \"Standard ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbt.tj/en/suboti-moliyavi/rezaahbor/rezaakhbor.php",
+        "title": "Press-release",
+        "text": "Press release the fifrth meeting of National Financial Stability Council in the RT · Press release the fourth meeting of National Financial Stability ...",
         "listing_probability": 1.0
       },
       {
-        "url": "https://www.nbt.tj/en/financial_monitoring/news/494282",
+        "url": "https://nbt.tj/en/financial_monitoring/news/489541",
         "title": "News",
         "text": "29.11.2024 Plenary Week of the Eurasian Group on Combating Money Laundering and the Financing of Terrorism. From November 25 to 29 of this year, ...",
-        "listing_probability": 0.0
+        "listing_probability": 0.1
       },
       {
-        "url": "https://nbt.tj/en/news/?PAGEN_6=396",
+        "url": "https://nbt.tj/en/news/?PAGEN_6=7&PAGEN_1=5",
         "title": "News",
-        "text": "Results of the auction. The securities auction of the National Bank of Tajikistan on issue К252007063 was held on Junе 18, 2025 and its results as following ...",
-        "listing_probability": 0.9
+        "text": "The Chairman of National Bank of Tajikistan Firdavs Tolibzoda held a meeting with the delegation of the International Finance Corporation on discussion of a new ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nbt.tj/en/financial_monitoring/news/459221/Disb?view_result=Y&PAGEN_1=7",
+        "title": "News",
+        "text": "National list of persons, connected with terrorism was updated. 18.06.2021 List established under UNSC resolution was changed. Committee established pursuant to ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://nbt.tj/en/financial_monitoring/vzaim_pravovym_aktam.php",
+        "title": "Communication on legislative acts, international standards and ...",
+        "text": "Communication on legislative acts, international standards and principles to financial institutions and DNFBP.",
+        "listing_probability": 0.05
       }
     ]
   }

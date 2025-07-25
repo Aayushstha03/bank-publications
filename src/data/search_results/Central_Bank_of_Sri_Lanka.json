@@ -16,30 +16,77 @@
                 "position": 1
               },
               {
-                "url": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications",
-                "title": "Statistical Publications | Central Bank of Sri Lanka",
+                "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports",
+                "title": "Annual Report | Central Bank of Sri Lanka",
+                "text": "Annual Reports · Annual Report 2022 · Annual Report 2021 · Annual Report 2020 · Annual Report 2019 · Annual Report 2018 · Annual Report 2017 · Annual Report 2016.",
                 "source": "Central Bank of Sri Lanka",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cbsl.gov.lk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_images/publications/ess_2023_e_thumbnail.png",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "sublinks": [
+                  {
+                    "title": "Annual Report 2017",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2017"
+                  },
+                  {
+                    "title": "Annual Report 2022",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022"
+                  },
+                  {
+                    "title": "Annual Economic Review",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-economic-review"
+                  },
+                  {
+                    "title": "Financial Statements and...",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/financial-statements-operations"
+                  },
+                  {
+                    "title": "Annual Report 2021",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2021"
+                  },
+                  {
+                    "title": "Annual Report 2020",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2020"
+                  },
+                  {
+                    "title": "2019",
+                    "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2019"
+                  }
+                ],
                 "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+                "title": "Annual Report 2022 - Central Bank of Sri Lanka",
+                "text": "The report covers economic, social indicators, national output, fiscal and monetary policy, and the socio-economic crisis of 2022.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 3
               },
               {
                 "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/other-financial-publications",
                 "title": "Other Financial Publications | Central Bank of Sri Lanka",
+                "text": "Public Debt Management in Sri Lanka · Annual Report - Financial Intelligence Unit of Sri Lanka · Consumer Finances and Socio-Economic Survey · Road Map: Monetary ...",
                 "source": "Central Bank of Sri Lanka",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cbsl.gov.lk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_images/publications/public-debt-management-cover-page-e.jpg",
-                "position": 3
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports",
+                "title": "Economic and Financial Reports | Central Bank of Sri Lanka",
+                "text": "Read and download monetary policy report of the Central Bank of Sri Lanka. Annual Economic Review Read and download annual economic review.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 5
               }
             ]
           },
           "related": [
             "Publications reports publications reports pdf",
             "Publications reports publications reports free",
-            "Publications reports publications reports 2022"
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.cbsl.gov.lk/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -55,35 +102,50 @@
                 "title": "Statistics | Central Bank of Sri Lanka",
                 "text": "Statistics. Statistical Tables. Real Sector. View statistical tables on real sector. External Sector. View statistical tables on external sector.",
                 "source": "Central Bank of Sri Lanka",
-                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
                 "position": 1
-              },
-              {
-                "url": "https://www.cbsl.gov.lk/en/statistics/economic-and-social-statistics",
-                "title": "Economic and Social Statistics 2024 - Central Bank of Sri Lanka",
-                "text": "Skip to main content. Home. Search form. Search. English · සිංහල · தமிழ். Search form. Search. Navigation. ABOUT. About the Bank.",
-                "source": "Central Bank of Sri Lanka",
-                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
-                "position": 2
               },
               {
                 "url": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-bulletin",
                 "title": "Monthly Bulletin | Central Bank of Sri Lanka",
                 "text": "The Central Bank of Sri Lanka Bulletin is issued monthly by the Department of Economic Research under the direction of a Staff Editorial Committee.",
                 "source": "Central Bank of Sri Lanka",
-                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/statistics/data/economic-data-library",
+                "title": "Economic Data Library | Central Bank of Sri Lanka",
+                "text": "Home » Statistics » Data » Economic Data Library. About. Contact Us · Right to Information · FAQ · Glossary · Forms & Downloads · Tender Notices · Careers ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications/sri-lanka-socio-economic-data-folder",
+                "title": "Sri Lanka Socio-Economic Data Folder",
+                "text": "A pocket-size annual publication containing statistical tables and charts on socio economic variables including country comparisons. Released annually.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-indicators",
+                "title": "Monthly Economic Indicators | Central Bank of Sri Lanka",
+                "text": "Monthly Economic Indicators consists of economic data covering real, monetary, fiscal and external sectors. This is one of the sources of releasing short-term ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 5
               }
             ]
           },
           "related": [
             "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin 2022 pdf",
             "Statistics bulletin data statistics data bulletin 2022",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.cbsl.gov.lk/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -103,12 +165,28 @@
                 "position": 1
               },
               {
-                "url": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-instruments-and-implementation",
-                "title": "Monetary Policy Instruments and Implementation",
-                "text": "The main monetary policy instruments used currently are Overnight Policy Rate (OPR), Open Market Operations (OMO), Standing Facilities and the Statutory Reserve ...",
+                "url": "https://www.cbsl.gov.lk/en/monetary-policy",
+                "title": "Monetary Policy | Central Bank of Sri Lanka",
+                "text": "The Central Bank conducts monetary policy in line with a flexible inflation targeting (FIT) framework, aimed at stabilising inflation at mid single digit levels ...",
                 "source": "Central Bank of Sri Lanka",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
                 "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-payments-and-settlements",
+                "title": "Directions Circulars Guidelines on Payments and Settlements",
+                "text": "Circular No. 4 of 2023 Individual Stored Value Limits, Day Limits and Transaction Limits Applicable for Customer e-Money Accounts",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-exchange-control",
+                "title": "Directions Circulars Guidelines on Exchange Control",
+                "text": "Directions issued to Authorized Dealers on Sales of foreign exchange (Form 1) and Purchases of foreign exchange (Form 2)",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 4
               },
               {
                 "url": "https://www.cbsl.gov.lk/en/rates-and-indicators/policy-rates",
@@ -116,12 +194,16 @@
                 "text": "Overnight Policy Rate (OPR) is the policy interest rate of the Central Bank under the single policy interest rate mechanism (wef 27 November 2024).",
                 "source": "Central Bank of Sri Lanka",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
-                "position": 3
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021"
+          ],
           "query": {
-            "q": "site:http://www.cbsl.gov.lk/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -137,24 +219,40 @@
                 "title": "Press Releases | Central Bank of Sri Lanka",
                 "text": "View and download press releases on monetary policy review, Financial Stability Review, View and download press releases on financial stability review.",
                 "source": "Central Bank of Sri Lanka",
-                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
                 "position": 1
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/press-releases",
+                "title": "Press Releases | Central Bank of Sri Lanka",
+                "text": "24.07.2025. Open Market Operations - 24 July 2025 ; 24.07.2025. Treasury Bill Issuance held on 23 July 2025 ; 23.07.2025. Open Market Operations - 23 July 2025 ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/Press/Media/Speeches",
+                "title": "Speeches | Central Bank of Sri Lanka",
+                "text": "05.05.2025 | Keynote Speech by the Governor at the Launch of the Sustainable Finance Roadmap 2.0 Download Full Text English PDF",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/press/press-releases/external-sector-performance",
+                "title": "Press Releases - External Sector Performance",
+                "text": "Press Releases-External Sector Performance ; 30.06.2025 External Sector Performance - May 2025 ; 30.05.2025 External Sector Performance - April 2025 ; 30.04.2025 ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
+                "position": 4
               },
               {
                 "url": "https://www.cbsl.gov.lk/en/press",
                 "title": "Press | Central Bank of Sri Lanka",
                 "text": "View and find information on press conferences. Speeches. View and find information on important speeches by central bank officers and industry experts.",
                 "source": "Central Bank of Sri Lanka",
-                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
-                "position": 2
-              },
-              {
-                "url": "https://www.cbsl.gov.lk/en/Speeches",
-                "title": "Speeches | Central Bank of Sri Lanka",
-                "text": "28.08.2024 | Keynote Speech of Governor at the “37th OPA Annual Conference” on “Sri Lanka's Sustained Economic Growth”",
-                "source": "Central Bank of Sri Lanka",
-                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
-                "position": 3
+                "favicon": "data:image/webp;base64,UklGRooEAABXRUJQVlA4IH4EAABwFQCdASozADAAPjEKjEYiEREMqCADBLUAXx1JfxV6Dbc7wZk0fMlOA8QzcAdADeJ+fU9jn9uaFByb+bfzL9s+TEy2/ScMfvv8bvVH/eN8gxd/vtJL4n2gB+RP+l7KX8949/ov/vf4j4B/1V/2H5w/E71PP7AMGPR6ai1nexH/SRr74WevfPt4t9Ba9vmDUn6DX4pqoHiliPl+WoOoGCQLU+5SlvLAjBh1hLqXQr5sSv6SNaAA/v/+w4kIiyDTq60l3Ic4x086pWozc/az4bv6siGpCWiNVu91exV+cd/6/7D7z5Dv+i0aNwuo4cqv7/N8QHsG+0h+7fRm2eCyBfqRVOoC7Sk99vniQh4IJk2OXOMJ7Ii13JnCUEn5SYjSz1y18NDmNn4T3NtI7uX1+GA9CB7RM51CHMiDJPLRLSF3BVn+6zkBpqHo8X6BsMavEd75Za9H53smfAv3AqjlrIviqDzI1sIp/wmRikk3GZcitEiBugUPNdRQmeNnBs03xXPFmMiYj6mRn/mtM9ta+fewj/pBUwXraRwnH6ox+bylQoFijisAhrnmu+gvhSSqumLiNMrhviVbVn3WzEiISUZ7y+AtG7tQY23+3O0A2V0xuVAmOS2bgxoCkoEeWDUoo1qauhgAYhMwMMC/RQRnjuWo6G64gigBdmkrULUc7o8qOOhuIPe/dcDPMoaQ3zSK9Q9eGEmhxbno+1qnRHiOOBf8qrCOuHQ63KnVt6Kx/cZgOYv+BGs0qmlDKOCub3x6qW+qke7vG5HoDkV8Pzxhg3RSvRohzX3mK82rbMBUdnx+5XZLQwr20vYHJlr+VG22zMmI+dXo101SOF4UZYVHJ7UkiR//2za2fbngLPDj+XfnPnKNwUvEdJXK19aPG9vmp7byCOle1bCzG3/7IbDLwpohu7Tduf+N9M0P1qPWwHtUsCPnVOqZoAHQ2f6lbkDSdhKjP46nBP9CNYSaCyIVePFxvGltf+pUPK0mAUeB5zJ1OR/GB0avru508TxSttnoIEaCotLQoj9rCQ+/3D+YNGRjwmRfDv+6ViRYvpTOCjfrJFWSqHo0TGbV2JFnEQ5oAd8WVL2P440vwm6O+gzRosW/cb7t5gKXfIFmK6ufuJN4RCaKvpfJ37nQaBpXg8BjWeSLGdIH33Ary2T+HmjfFZlBC+glhfdaz9PIQAFUkG2ZRdxhP5DGztM6JW8KOvC5oBxteJvu55I/X1paTSt/D1PaH/dX8AgWSQC/gncBcfNF7TF2pEEjqZayHhlBFDvneJkvzTUBsejFzhbchCaa1Zrnh6+DTH7DQ1mw8rfgJo2wxq6rljGGkSlTo1Znblo2kFk8bVSgY/1uSz8Hn4U4grxbsy56AtoSEu8MhYssG+0J84yIxBxq+1LLmFR35neXrEtmlRJ83h5moK3tHmAP2rl/T29/feK4RBKSMgbfxsdW9KwmXQod+wbf1QR03dwranLffzHczui98kxzPCZxTMs9YGRb9KryJyabF9MttZjymFIFeHwMY5b/MlBUAAAA",
+                "position": 5
               }
             ]
           },
@@ -165,7 +263,198 @@
             "News speeches press news speeches press 2022"
           ],
           "query": {
-            "q": "site:http://www.cbsl.gov.lk/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/research/spillover_of_exchange_rate_misalignment_case_of_nepal_from_india_fulltext.pdf",
+                "title": "Spillover of Exchange Rate Misalignment : Case of Nepal from ...",
+                "text": "The exchange rate movement and alignment with macroeconomic fundamentals are a matter of concern for policymakers. In this study, we assess the equilibrium ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/monetary-policy-announcements",
+                "title": "Monetary Policy Decision Announcement Dates",
+                "text": "17.07.2025 Date of Announcement of the Monetary Policy Review - No. 4 of 2025 ; 15.05.2025 Date of Announcement of the Monetary Policy Review - No. 3 of 2025",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/Press-Releases/Monetary-Policy-Review-Announcements",
+                "title": "Monetary Policy Committee Announcement Dates",
+                "text": "15.05.2025. Date of Announcement of the Monetary Policy Review - No. 3 of 2025 ; 19.03.2025. Date of Announcement of the Monetary Policy Review - No. 2 of 2025.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/node/28",
+                "title": "Schedule of Key Interest Rate Announcements and Monetary ...",
+                "text": "Eight times a year, the Bank announces its decision on the setting of its key policy interest rate.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "published_time": "2016-02-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/si/Press-Releases/Monetary-Policy-Review-Announcements",
+                "title": "Monetary Policy Committee Announcement Dates",
+                "text": "15.05.2025. මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දෙනු ලබන දිනය - 2025 අංක 3 · 19.03.2025. මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දෙනු ලබන දිනය - 2025 අංක 2 · 20.01.2025. මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දෙනු ලබන දිනය ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/ta/Press-Releases/Monetary-Policy-Review-Announcements",
+                "title": "Monetary Policy Committee Announcement Dates",
+                "text": "19.03.2025. 2025 இன் 02ஆம் இலக்க நாணயக் கொள்கை மீளாய்விற்கான திகதி அறிவிப்பு · 20.01.2025. 2025 இன் 01ஆம் இலக்க நாணயக் கொள்கை மீளாய்விற்கான திகதி அறிவிப்பு · 19.11.2024. 2024 இன் 06ஆம் இலக்க நாணயக் கொள்கை ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbsl.gov.lk/en/press/media/notices",
+                "title": "Notices | Central Bank of Sri Lanka",
+                "text": "Calling bids for the purchase and removal of obsolete, used, unserviceable and surplus items stored at the Central Bank of Sri Lanka",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/tenders",
+                "title": "Procurement Notices | Central Bank of Sri Lanka",
+                "text": "Calling for bids for media buying services for the “Collective digital payments promotion campaign by banks - 2025”",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/press/notices/notice_20120608_leasing_establishments_registered_with_cbsl_e.pdf",
+                "title": "NOTICE TO THE PUBLIC - Central Bank of Sri Lanka",
+                "text": "Abans Finance PLC. 21. Alliance Finance Co. PLC. 22. AMW Capital Leasing PLC. 23. Arpico Finance Co. PLC. 24. Asia Asset Finance PLC. 25. Asian Finance Ltd.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/taxonomy/term/70",
+                "title": "Notices | Central Bank of Sri Lanka",
+                "text": "Open Market Operations - 06 February 2024 · about Open Market Operations - 06 February 2024 ; Open Market Operations - 07 June 2022 · about Open Market Operations ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/press/notices/notice_20250724_issue_of_122000_million_treasury_bonds_e.pdf",
+                "title": "Issue of Rs.122000 million Treasury Bonds - Central Bank of Sri Lanka",
+                "text": "Bids are invited from the Primary Dealers in Treasury Bonds on the basis of clean prices (exclusive of accrued interest from the date of ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "published_time": "2025-07-24T11:21:39.949807",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbsl.gov.lk/en/faq/bank-communication",
+                "title": "Bank Communication - FAQs - Central Bank of Sri Lanka",
+                "text": "For all inquiries, please send an email message to Or call on our general number at 011-247-7000 If you wish to speak with someone about a specific matter, ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/overview",
+                "title": "Monetary Policy Communication | Central Bank of Sri Lanka",
+                "text": "Monetary Policy Communication. The Central Bank is committed to the greatest possible degree of transparency related to its monetary policy conduct.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/press/pr/press_20221212_e_scams_e.pdf",
+                "title": "Public awareness in relation to defrauding individuals through ...",
+                "text": "In recent times, a rapid increase in the number of complaints filed by aggrieved parties has been observed in relation to defrauding money ...",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "published_time": "2022-12-12T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/monetary-policy-communication",
+                "title": "Monetary Policy Communication | Central Bank of Sri Lanka",
+                "text": "Monetary Policy Communication · Overview. The Central Bank is committed to the greatest possible degree of transparency related to its monetary policy conduct.",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbsl.gov.lk/en/node/13674",
+                "title": "Public awareness in relation to defrauding individuals through ...",
+                "text": "Public awareness in relation to defrauding individuals through scam calls, text messages, email messages and social media networks | Central ...",
+                "source": "Central Bank of Sri Lanka",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzg3NTc3NzY3Nzc3Nzc1NTc1Mzc3LS03NTc3NTc1NS03Lv/AABEIABoAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABgcFBP/EACsQAAIBAgQDBwUAAAAAAAAAAAECAwQRAAUhMQYSQRMiUWFxgaEyUpGxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAmEQACAgEDAwMFAAAAAAAAAAABAgADEQQhMQUS8BNBUTJhcZGx/9oADAMBAAIRAxEAPwCyZnWGkppXj5DKqFlV2tfy0BNydNsMSAMmOBmI+Y8Zw01T2dVmfYyqwJjiUvYdQwANj5XxR6/wIQp6XqLV7lG3nzN7h7PzWBeaeGaAoWWUPq1jr0tfrbTY6aYsSwPt7zJdQ9LdrjEZQQQCNQdjicpiVxlJKk1XJEAZoqVjD3teblYiw36e9sU3fSJq0aq16huMj+ybZXT5VLl7z1lVAkgZAWeMsQSPkkhv7gTe94s7UBxv7+fadVab/UwuQN5tcNUy0+eZjl8BaajCROwtp2lxb83O3hjVpbGsVHbmD+pkPpldud/1K1ljSNl8BlBEnIOYWtY4Imc5OHPMuerVZqdiJYwe792n78/C464iQGGDJAkHIk/m4ChzCpd6aGrprNeSOMqFX05yPi4GKTU443hmrrVirhgD+Zt8OcMxR0yR06PFCWV3dxdpD1JOh20tawv7iaV9pyeYP1WrfUtlo8oAihV2AsMTzMsMRjwKq31KD6jDxQw0UMKKf//Z",
+                "published_time": "2022-12-12T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbsl.gov.lk/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -1,4 +1,107 @@
 {
   "Bank Name": "Central Reserve Bank of El Salvador",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publicaciones",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcr.gob.sv/2021/04/13/revista-del-consejo-monetario-centroamericano-abre-espacio-para-recibir-publicaciones-para-segundo-volumen-2021/",
+                "source": "Banco Central de Reserva",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEUxOUUwOUUwOUQsNUEvN0QsNEFiZ244P0oqM0BKUFkjLTvCwsOYmp4nMD5PVV5VWmPl5ONDSlQwOEQwOEVvc3ne3d1FTFY9RE9obXN1eH6ztLafoaQlLzx7foOAg4iVl5sdKDeIi5CkpqiMj5Oztba/v8FaX2i8vb/V1dX2hASxAAABnklEQVR4AX1SBWKEMBCcGCwSrmwOdzj7/wsbWuoycZ3ZZOAhIH3Z8aV5xzGh9NdFKY+OAkwQat/5ckTsNUUGcZJa2OxjVb5W5vSUMxvHdC6gBdxLkvtJozgsBQtmcFUaJgbcQWzqk2ItIJkB1tBNzocwIeO26wU0aNiPQsTJSO+8zpKEqlQ/lewbcK/eA1bKOa9oyuepmc9jpeE86xFgECgwL+tYZ3XWbg0Jx8MLq0S8rr2Ix2VtlvG0rOdLrmScDK+swlqhoyTZWhNkYdK11xkcK8YhCDrcknqozvVt2NaRJFgeisiyLpN1zaMoqG/J2sZgS/AQzk6TdXF634Z62m5bej8T06UhCADUNOSrblum0UseLjnDjsHx/EQCmNOnum3GdXs60T5njg+TbmcNo7ZY78WSKeEZxQ7ssFPXg209nIfhRAy6nOndDXT2rBrGkiXlO3a5GQi4IxiCCf1Y7ztDv2o+vOTgVPbIWVe9MMEj1Puk/PAgh2fN8XWzOj/TD1cySZhb5inVF+9J4XwtPIySewPhm739gn9c/2P8DE5SGmiQTEkAAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcr.gob.sv/ (inurl:publicaciones OR inurl:informes) OR (intitle:publicaciones OR intitle:informes)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "estadísticas",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcr.gob.sv/servicios/base-de-datos-economica/",
+                "source": "Banco Central de Reserva",
+                "favicon": "data:image/webp;base64,UklGRtgDAABXRUJQVlA4IMwDAACQFACdASozADMAPjEOjEYiEREKACADBLSAY4rQXnkvm8G/Er7E9Xcl89m/Hf8kNYK/hX9e/Gv8nM5u+X/4D8ptYl/LP8Nxg0xX+T/7700P8j7gPan85/8z3A/5F/Qv9R+afdm9Ev9qktayI+1TcL6h5fHXulwZLRGqz+jDVh+0JYaTF/8QkqeVY20f8qcQLdgnRGM2FKkJP2bAqyVqo83BFa2fHPq8enYHCXlUAAD+/4elfxrAuTOibFnVbgokl3t+xp/yGEotJ70nTKd0osp7xQs1zGenwANMf47HjPsN4Zvf0+l4n73OEqWCAAR0G/iespMrnpnitVlkr/IIKbTlPLf+cwr///7i7//Ir6dyEz1CwYWwD+LFeTf1cXzU+FZDTmQrgEZymi3Sq/qlCDqHg06hyZVEoOzU0mYV60xFUjNYPzbGrVTiUAAdqPASZndV7cckXB7uSFPDRDfhnm/9n9zNZwTB/TUFlV7v1mWa1tHydf/E9cy3edY7KsAyDcp4H81Yn0P2dS0XerwZnScCCAkWIYpPd25s2a2845+zuxgFhK+8ixKZ+5MqAiQinMSPHccYYX0+eT6DtkCqXJcZIgYmBpQtT245FNEVV1pwkeuk3b6ox7fy/+jucaM64d1dkSkBoESdiI9lFx8FqHjACix8rK1o2PILd1uVT4wa7Bt8Oeywbv/FTULCcR64ITY6N/+i17KmUm6oMuDT8L+PzzHbClq5LkgrtLbXTpyTP8EW9TRCasACFnZcLLNtGDul9iy2Or9Rmudfdhn0u0Nv92A44u0zhESbnQlwMUkDoCUrMj18ob6ODP/nJYQdU1Ha6doXmaxZ+54cHk2AkL7yMnZqbGffy+LXukErhNwjjxQed0h/rlzxQm+nI9/tm/JW/MvnH6C/DfqZlni8rEY8qmBCsW/c7SqK58eqiMFvnQLlkNfzYP1+Pwz/vTAdsTclQNRG1UlO+nJuw5x7HnP86ghbI4oJPtB19RKiVbJ1eQ6ELimnPGFj1+/MWUFvE043+YECMxBOaGO6GHFMulFlK/+GEqoXbnvW5Eb2usBkwmHo6Ohx6x3dmhf0uVnFHbNjiRobLFXvgLiYluK7f2JW7WrUaihrfbwpfyJbcc6JtEsOtEsAZuGvoDGuVw0Gz5ZDVvjckUNZw8jJPzwUemz0OVN8lmBi6+LFncalAMs0qRMPEC/1tv8WKKMA1ep8F3aT+bzP4g4KWscp9Dl6s9QHH7kEqM9w29OKYghn16y4oRtNL/eEcTjzKTpHhN8UwFBbNxK9arr4mBomAAA=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcr.gob.sv/ (inurl:estadísticas OR inurl:boletín OR inurl:datos) OR (intitle:estadísticas OR intitle:datos OR intitle:boletín)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "política_monetaria",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcr.gob.sv/regulaciones/upload/NRP-05.pdf?v=1553034389",
+                "title": "NRP-05.pdf - BCR",
+                "source": "Banco Central de Reserva",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEUxOUUwOUUwOUQsNUEvN0QsNEFiZ244P0oqM0BKUFkjLTvCwsOYmp4nMD5PVV5VWmPl5ONDSlQwOEQwOEVvc3ne3d1FTFY9RE9obXN1eH6ztLafoaQlLzx7foOAg4iVl5sdKDeIi5CkpqiMj5Oztba/v8FaX2i8vb/V1dX2hASxAAABnklEQVR4AX1SBWKEMBCcGCwSrmwOdzj7/wsbWuoycZ3ZZOAhIH3Z8aV5xzGh9NdFKY+OAkwQat/5ckTsNUUGcZJa2OxjVb5W5vSUMxvHdC6gBdxLkvtJozgsBQtmcFUaJgbcQWzqk2ItIJkB1tBNzocwIeO26wU0aNiPQsTJSO+8zpKEqlQ/lewbcK/eA1bKOa9oyuepmc9jpeE86xFgECgwL+tYZ3XWbg0Jx8MLq0S8rr2Ix2VtlvG0rOdLrmScDK+swlqhoyTZWhNkYdK11xkcK8YhCDrcknqozvVt2NaRJFgeisiyLpN1zaMoqG/J2sZgS/AQzk6TdXF634Z62m5bej8T06UhCADUNOSrblum0UseLjnDjsHx/EQCmNOnum3GdXs60T5njg+TbmcNo7ZY78WSKeEZxQ7ssFPXg209nIfhRAy6nOndDXT2rBrGkiXlO3a5GQi4IxiCCf1Y7ztDv2o+vOTgVPbIWVe9MMEj1Puk/PAgh2fN8XWzOj/TD1cySZhb5inVF+9J4XwtPIySewPhm739gn9c/2P8DE5SGmiQTEkAAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcr.gob.sv/ (inurl:política OR inurl:regulaciones OR inurl:directrices) OR (intitle:política OR intitle:regulaciones)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "noticias",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcr.gob.sv/category/noticias/",
+                "title": "Noticias - BCR",
+                "source": "Banco Central de Reserva",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEUxOUUwOUUwOUQsNUEvN0QsNEFiZ244P0oqM0BKUFkjLTvCwsOYmp4nMD5PVV5VWmPl5ONDSlQwOEQwOEVvc3ne3d1FTFY9RE9obXN1eH6ztLafoaQlLzx7foOAg4iVl5sdKDeIi5CkpqiMj5Oztba/v8FaX2i8vb/V1dX2hASxAAABnklEQVR4AX1SBWKEMBCcGCwSrmwOdzj7/wsbWuoycZ3ZZOAhIH3Z8aV5xzGh9NdFKY+OAkwQat/5ckTsNUUGcZJa2OxjVb5W5vSUMxvHdC6gBdxLkvtJozgsBQtmcFUaJgbcQWzqk2ItIJkB1tBNzocwIeO26wU0aNiPQsTJSO+8zpKEqlQ/lewbcK/eA1bKOa9oyuepmc9jpeE86xFgECgwL+tYZ3XWbg0Jx8MLq0S8rr2Ix2VtlvG0rOdLrmScDK+swlqhoyTZWhNkYdK11xkcK8YhCDrcknqozvVt2NaRJFgeisiyLpN1zaMoqG/J2sZgS/AQzk6TdXF634Z62m5bej8T06UhCADUNOSrblum0UseLjnDjsHx/EQCmNOnum3GdXs60T5njg+TbmcNo7ZY78WSKeEZxQ7ssFPXg209nIfhRAy6nOndDXT2rBrGkiXlO3a5GQi4IxiCCf1Y7ztDv2o+vOTgVPbIWVe9MMEj1Puk/PAgh2fN8XWzOj/TD1cySZhb5inVF+9J4XwtPIySewPhm739gn9c/2P8DE5SGmiQTEkAAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcr.gob.sv/ (inurl:noticias OR inurl:discursos OR inurl:prensa) OR (intitle:noticias OR intitle:discursos OR intitle:prensa)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "avisos",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcr.gob.sv/category/avisos/",
+                "source": "Banco Central de Reserva",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEUxOUUwOUUwOUQsNUEvN0QsNEFiZ244P0oqM0BKUFkjLTvCwsOYmp4nMD5PVV5VWmPl5ONDSlQwOEQwOEVvc3ne3d1FTFY9RE9obXN1eH6ztLafoaQlLzx7foOAg4iVl5sdKDeIi5CkpqiMj5Oztba/v8FaX2i8vb/V1dX2hASxAAABnklEQVR4AX1SBWKEMBCcGCwSrmwOdzj7/wsbWuoycZ3ZZOAhIH3Z8aV5xzGh9NdFKY+OAkwQat/5ckTsNUUGcZJa2OxjVb5W5vSUMxvHdC6gBdxLkvtJozgsBQtmcFUaJgbcQWzqk2ItIJkB1tBNzocwIeO26wU0aNiPQsTJSO+8zpKEqlQ/lewbcK/eA1bKOa9oyuepmc9jpeE86xFgECgwL+tYZ3XWbg0Jx8MLq0S8rr2Ix2VtlvG0rOdLrmScDK+swlqhoyTZWhNkYdK11xkcK8YhCDrcknqozvVt2NaRJFgeisiyLpN1zaMoqG/J2sZgS/AQzk6TdXF634Z62m5bej8T06UhCADUNOSrblum0UseLjnDjsHx/EQCmNOnum3GdXs60T5njg+TbmcNo7ZY78WSKeEZxQ7ssFPXg209nIfhRAy6nOndDXT2rBrGkiXlO3a5GQi4IxiCCf1Y7ztDv2o+vOTgVPbIWVe9MMEj1Puk/PAgh2fN8XWzOj/TD1cySZhb5inVF+9J4XwtPIySewPhm739gn9c/2P8DE5SGmiQTEkAAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcr.gob.sv/ (inurl:avisos OR inurl:alertas) OR (intitle:avisos OR intitle:alertas)"
+          }
+        }
+      ]
+    }
+  ]
 }

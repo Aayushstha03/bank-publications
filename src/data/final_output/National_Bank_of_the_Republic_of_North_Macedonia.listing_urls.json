@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-annual-reports.nspx",
+        "title": "ANNUAL REPORTS",
+        "text": "ANNUAL REPORTS. Annual report 2014 (The Role of the National Bank in the Payment System of the Republic of Macedonia page 61 to 65).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/publikacii-ps-en.nspx",
+        "title": "English - Publications",
+        "text": "Publications · ANNUAL REPORTS · Quarterly information (available only in Macedonian language) · Red Book of the Payment, Clearing and Settlement Systems in the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbrm.mk/analitichki_prilozi_vo_kvartalnitie_izvieshtai-en.nspx",
+        "title": "Analytical appendices in quarterly reports",
+        "text": "- Is Okun's law applied in Macedonia? - The influence of the monetary policy on the bank credit policy - Lending Survey analysis. Quarterly Report, October 2012.",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-informacii-redk-en.nspx",
+        "title": "Reports",
+        "text": "For more detailed information on the released statistical data, please contact us at contact.statistika@nbrm.mk or+389 2 3215 181 ext.103 (or 110/108) ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.nbrm.mk/statistika-en.nspx",
+        "title": "English - Statistics",
+        "text": "Statistical data published on the web site of the National Bank can be used free of charge by all users. When using the data, the source of data needs to be ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbrm.mk/platiezhna_statistika-en.nspx",
+        "title": "English - Payment Statistics",
+        "text": "The reporting agents submit data on payment accounts, payment cards, payment card accepting devices, payment transactions by type of payment services.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbrm.mk/monetarna_statistika_i_statistika_na_kamatni_stapki-en.nspx",
+        "title": "Monetary and Interest Rates Statistics",
+        "text": "We publish data on total deposits received and loans granted, individually by banks, savings houses, and by groups of banks. Also, we publish data on Deposits ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.nbrm.mk/postavienost_na_monietarnata_politika-en.nspx",
+        "title": "English - Design of monetary policy",
+        "text": "The National Bank supports the economic policy and the financial stability of the country, without jeopardizing the accomplishment of its primary objective.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/promieni_na_osnovnata_kamatna_stapka_na_nbrm-en.nspx",
+        "title": "Changes to the National Bank policy rate",
+        "text": "The National Bank of the Republic of North Macedonia adjusts the monetary policy setup to ensure the maintenance of price stability.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-mmf-monetarnata-politika-e-soodvetna-a-bankarskiot-sistem-i-natamu-e-zdrav-en.nspx",
+        "title": "Monetary policy is appropriate and the banking system remains healthy",
+        "text": "The IMF staff concluding statement describes the monetary policy as appropriately accommodative. Against a background of moderate economic activity, low ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.nbrm.mk/ghovori65890b6a-en.nspx",
+        "title": "English - Speeches",
+        "text": "Address of the President of the Assembly of the Republic of Macedonia, Trajko Veljanoski at the 20th anniversary of the monetary independence, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbrm.mk/soopshtienija_za_piechat-en.nspx",
+        "title": "Press release",
+        "text": "Concrete steps from the National Bank to reduce and simplify the payment fees in the country and in SEPA. Read more.. INFLATION. EXCHANGE RATES. Counrty.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-press_release_26_may_2008.nspx",
+        "title": "Press release of the NBRM",
+        "text": "Governors of 14 states attended the meeting. The newest global macroeconomic developments and the consequences from the crises on the international financial ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/soopstenija_fin_edu-en.nspx?_page=3",
+        "title": "Press Release",
+        "text": "The Financial Education Project provides organization of educational visits for children and young students from primary, secondary and university education.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-press-release-of-the-nbrm-28-march-2017.nspx",
+        "title": "Press release of the NBRM, 28 March 2017",
+        "text": "The ultimate goal of this project is faster and safer cross-border payments in euro and reduction of cost for the benefit of the broader economy ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-soopstenie-05092024-en.nspx",
+        "title": "Working Paper by the National Bank's team at the Irving Fisher Committee ...",
+        "text": "Working Paper by the National Bank's team at the Irving Fisher Committee and BIS International Statistics Conference. Skopje, 5 September 2024.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-8th-research-conference---call-for-papers-en.nspx",
+        "title": "8th Research Conference - Call for Papers, 30 - 31 March 2020",
+        "text": "The Conference will encompass two high-level policy-oriented panel discussions by distinguished guest speakers from international institutions, central banks ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-soopstenie-18092020-2-en.nspx",
+        "title": "36th Research Club session",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-soopstenie-26092021-en.nspx",
+        "title": "Call to young researchers: National Bank Annual Award for ...",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.nbrm.mk/oghlasi-en.nspx",
+        "title": "English - Notices",
+        "text": "Notices · Coin blanks for minting 20,000,000 pieces, 132 tonnes, of coins in denomination of Denar 10 · INFLATION · EXCHANGE RATES · NATIONAL BANK POLICY RATES ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbrm.mk/ns-newsarticle-soopstenie-02122024-en.nspx",
+        "title": "National Bank Informs and Alerts the Citizens",
+        "text": "Skopje, 2 December 2024. The National Bank informs citizens to be careful due to the frequent incidents of fake profiles, applications and individuals who, ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

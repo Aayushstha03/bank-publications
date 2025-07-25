@@ -12,13 +12,19 @@
         "url": "https://www.nbb.be/en/publications-and-research",
         "title": "Publications & Research | National Bank of Belgium",
         "text": "Publications · Annual reports · Economic and financial publications · Statistical publications · Opinions and ad hoc studies · Other publications · ECB publications ...",
-        "listing_probability": 0.92
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.nbb.be/en/publications-and-research/publications/economic-and-financial-publications",
         "title": "Economic and financial publications | National Bank of Belgium",
-        "text": "Economic Review. The Economic Review contains articles on key economic, financial and monetary developments. · Financial Stability Report · FMI & Payments Report.",
-        "listing_probability": 0.97
+        "text": "The National Bank of Belgium publishes the Economic Review, Financial Stability Report, FMI & Payments Report, and Working Papers.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nbb.be/en/publications-and-research/economic-and-financial-publications/fmi-payments-report",
+        "title": "FMI & Payments Report | National Bank of Belgium",
+        "text": "The FMI & Payments Report provides a detailed overview of developments relevant to financial market infrastructures and payment services.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -29,42 +35,25 @@
         "url": "https://www.nbb.be/en/statistics",
         "title": "Statistics | National Bank of Belgium",
         "text": "Here you can access all publications and figures, a comprehensive calendar of upcoming updates and an overview of all contact details per statistical domain.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.nbb.be/en/statistical-updates/foreign-trade-statistics-monthly-bulletin-f-n-2025-01",
-        "title": "Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-01)",
-        "text": "Statistical update. Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-01). Publication. Release date. 15 Apr 2025 - 11:00. Period. 2025-01.",
-        "listing_probability": 0.05
-      },
-      {
-        "url": "https://www.nbb.be/en/statistical-updates/press-release-foreign-trade-statistics-f-n-2025-04",
-        "title": "Press release - Foreign Trade Statistics (F-N) (2025-04)",
-        "text": "Statistical update. Press release - Foreign Trade Statistics (F-N) (2025-04). Publication. Release date. 15 Jul 2025 - 11:00. Period. 2025-04.",
-        "listing_probability": 0.05
-      }
-    ]
-  },
-  {
-    "topic": "monetary_policy",
-    "entries": [
-      {
-        "url": "https://www.nbb.be/en/monetary-policy/general-framework/monetary-policy-implementation",
-        "title": "Monetary policy implementation | National Bank of Belgium",
-        "text": "The implementaton of monetary policy by the Eurosystem aims to steer short-term market interest rates by using the ECB's key interest rates as anchorage points.",
+        "url": "https://www.nbb.be/en/statistical-updates/foreign-trade-statistics-monthly-bulletin-f-n-2025-04",
+        "title": "Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-04)",
+        "text": "Statistical update. Foreign Trade Statistics - Monthly Bulletin (F-N) (2025-04). Publication. Release date. 15 Jul 2025 - 11:00. Period. 2025-04.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.nbb.be/en/monetary-policy/general-framework/institutional-framework-monetary-policy",
-        "title": "Institutional framework of monetary policy | National Bank of Belgium",
-        "text": "The monetary policy of the EMU is conducted by the Eurosystem, which is made up of the ECB and the NCBs of the EU Member States whose currency is the euro.",
-        "listing_probability": 0.05
+        "url": "https://www.nbb.be/en/statistics/foreign-trade/publications-and-figures",
+        "title": "Publications and figures | National Bank of Belgium",
+        "text": "NBB.Stat, the National Bank of Belgium's database for macroeconomic statistics, features foreign trade data. These data are also available in the monthly and ...",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.nbb.be/en/monetary-policy/general-framework/monetary-policy-decision-making",
-        "title": "Monetary policy decision-making | National Bank of Belgium",
-        "text": "The Governing Council assesses economic, monetary and financial developments and takes its monetary policy decisions every six weeks. At the other meetings, the ...",
-        "listing_probability": 0.05
+        "url": "https://www.nbb.be/en/statistics/general",
+        "title": "General | National Bank of Belgium",
+        "text": "Here, you have access to the most recent statistical press releases and statistics. You can consult the data series via the online NBB.",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -72,10 +61,22 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.nbb.be/en/statistical-updates/press-release-consumer-confidence-indicator-2025-07",
-        "title": "Press release - Consumer confidence indicator (2025-07)",
-        "text": "Consumer confidence remains stable and above its long-term average. View the infographic on the evolution of consumer confidence in July.",
-        "listing_probability": 0.05
+        "url": "https://www.nbb.be/en/news-service",
+        "title": "News service | National Bank of Belgium",
+        "text": "Subscribe to our newsletters ... Sign up to receive email notifications for seminars, conferences and other events. Follow us on social media ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbb.be/en/statistical-updates/press-release-net-international-investment-position-and-balance-payments-1",
+        "title": "Press release - Net international investment position and balance of ...",
+        "text": "The net international investment position has weakened to €339.4 billion or 54.9% of GDP. Financial transactions are broadly in balance.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbb.be/en/statistical-updates/press-release-financial-accounts-belgium-2025-i",
+        "title": "Press release - Financial accounts of Belgium (2025-I)",
+        "text": "Net financial wealth of Belgian households dipped at the end of the first quarter of 2025. Total financial assets fell by almost €5 billion ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -86,7 +87,64 @@
         "url": "https://www.nbb.be/en/publications-and-research/economicfinancial-publications/working-papers",
         "title": "Working Papers | National Bank of Belgium",
         "text": "The working papers published by the National Bank deal with economic or financial subjects relevant to our activities. They are intended for a specialist ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.nbb.be/en/activities/financial-supervision-and-resolution/cross-cutting-and-international-aspects/all-news?quick_search=&sort_bef_combine=date_DESC&type%5B4585%5D=4585&reference_number=&before_date=&after_date=",
+        "title": "All news and updates on financial supervision | National Bank of ...",
+        "text": "Search circulars, legislation and other documents related to financial supervision, such as news, publications and cooperation agreements. Show filters.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nbb.be/en/statistical-updates",
+        "title": "Statistical update overview | National Bank of Belgium",
+        "text": "Statistical update overview · Balance of payments · Business confidence · Consumer confidence · Financial Accounts · Financial institutions · Financial markets.",
         "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.nbb.be/en/protocol-concerning-processing-external-breach-alerts-and-protection-files-application-act-28",
+        "title": "Protocol concerning the processing of external breach alerts and ...",
+        "text": "Protocol concerning the processing of external breach alerts and protection files in application of the Act of 28 November 2022.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nbb.be/en/financial-oversight/prudential-supervision/publications",
+        "title": "Publications and public notices | National Bank of Belgium",
+        "text": "Publications and public notices. NBB prudential supervision publications · Publications in the Belgian Official Gazette. Counters Boulevard de Berlaimont 3",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbb.be/fr/statistical-updates/statistiques-economiques-decennales-notices-1941-1950-0",
+        "title": "Statistiques économiques décennales - Notices (1941-1950)",
+        "text": "Mise à jour statistique. Statistiques économiques décennales - Notices (1941-1950). Publication. Date de parution. 31 déc 1950 - 1:00. Période. 1941-1950.",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.nbb.be/en/activities/financial-supervision-and-resolution/cross-cutting-and-international-aspects/all-594",
+        "title": "Communication NBB_2024_10 to candidate shareholders and ...",
+        "text": "Communication NBB_2024_10 to persons intending to acquire, increase, reduce or transfer a qualifying holding in the capital of a financial institution.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nbb.be/en/media/17663",
+        "title": "Communication",
+        "text": "The framework for external functions2 is not new, but was recently reviewed following the entry into force of the Law of 27 June 20213, which ...",
+        "listing_probability": 0.05
       }
     ]
   }

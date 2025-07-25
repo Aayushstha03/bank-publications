@@ -1,4 +1,428 @@
 {
   "Bank Name": "Bank of Thailand",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/en/research-and-publications.html",
+                "title": "Research and Publications - Bank of Thailand",
+                "text": "Research and Publications. Find researches, articles, and other publications from the Bank of Thailand.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/en/research-and-publications/research-and-publications-list.html",
+                "title": "Research and Publications",
+                "text": "Economic and Financial Index and Indicators · Regional Economic and Financial Statistics · BOT API · Statistical Articles and Publications · Statistics and ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication/Monetary-Policy-Report/mpr-previous-reports.html",
+                "title": "Monetary Policy Report -- Previous Reports",
+                "text": "Report Name. Report Title. Report Quarter. Report Year. Document Link. MPR_2024_Q4.pdf, Monetary Policy Report (full version) Q4 2024, Q4, 2024.",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bot.or.th/en/research-and-publications/reports/payment-data-indicators.html",
+                "title": "Payment Data Indicators - Bank of Thailand",
+                "text": "The Payment Data Indicators include key statistics and indicators of payment transactions in Thailand, including fund transfers and payments, released monthly.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bot.or.th/en/thai-economy/state-of-thai-economy/macro-monthly-previous-reports.html",
+                "title": "Previous Economic and Monetary Monthly Reports - Bank of Thailand",
+                "text": "Previous reports include quarterly tables, monthly tables, press releases, and slides, with 252 total results.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/en/statistics.html",
+                "title": "Statistics - Bank of Thailand",
+                "text": "Data relating to transactions in the money market and capital market, such as exchange rates, interest rates in the money market and reference interest rates.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "sublinks": [
+                  {
+                    "title": "Monetary Statistics",
+                    "url": "https://www.bot.or.th/en/statistics/monetary-statistic.html"
+                  },
+                  {
+                    "title": "Daily Foreign Exchange Rates",
+                    "url": "https://www.bot.or.th/en/statistics/exchange-rate.html"
+                  },
+                  {
+                    "title": "Financial Institutions",
+                    "url": "https://www.bot.or.th/en/statistics/financial-institutions.html"
+                  },
+                  {
+                    "title": "Economic and Financial Index...",
+                    "url": "https://www.bot.or.th/en/statistics/economic-and-financial-index-and-indicators.html"
+                  },
+                  {
+                    "title": "Financial Markets",
+                    "url": "https://www.bot.or.th/en/statistics/financial-market-statistics.html"
+                  },
+                  {
+                    "title": "Regional Economic and...",
+                    "url": "https://www.bot.or.th/en/statistics/regional-economic-and-financial-statistics.html"
+                  },
+                  {
+                    "title": "Daily Interest Rates of...",
+                    "url": "https://www.bot.or.th/en/statistics/interest-rate.html"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/en/statistics/monetary-statistic.html",
+                "title": "Monetary Statistics - Bank of Thailand",
+                "text": "BOT will discontinue the publication of 34 data tables, starting from January 2025 onward. The historical data can be accessed at >> Click",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/en/statistics/financial-institutions.html",
+                "title": "Financial Institutions - Bank of Thailand",
+                "text": "BOT will discontinue the publication of 34 data tables, starting from January 2025 onward. Bank of Thailand; Home · Statistics and Dissemination ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bot.or.th/en/statistics/economic-and-financial-index-and-indicators.html",
+                "title": "Economic and Financial Index and Indicators - Bank of Thailand",
+                "text": "BOT will discontinue the publication of 34 data tables, starting from January 2025 onward. Bank of Thailand; Home · Statistics and Dissemination ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bot.or.th/en/statistics/financial-market-statistics.html",
+                "title": "Financial Markets - Bank of Thailand",
+                "text": "Exchange Rates, Interest Rate and Fee, Daily Foreign Exchange Rates, click here, Daily Interest Rates of Commercial Banks, click here.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin excel"
+          ],
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/en/laws-and-rules/bot-takes-responsibilities-and-other-relevant-laws-and-regulations.html",
+                "title": "Laws and Rules in BOT's Responsibility - Bank of Thailand",
+                "text": "The BOT Act sets out the objectives, scope of working and organization structure of the Bank of Thailand in accordance with the international central banking ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/en/our-roles/monetary-policy/about-monetary-policy.html",
+                "title": "About Monetary Policy - Bank of Thailand",
+                "text": "The Bank of Thailand pursues three goals with its monetary policy: medium-term price stability, sustainable economic ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+                "title": "Financial Institutions and Financial Service Providers Policy",
+                "text": "The BOT formulated its financial institution and financial service provider policies and supervisory standards under 4 ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+                "title": "Monetary Policy",
+                "text": "Learn about monetary policy in Thailand here. Start with an overview and learn about how monetary policy is determined.",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2564/EngPDF/25640171.pdf",
+                "title": "Policy Guideline Know Your Merchant (KYM) 4 October 2021 (B.E. 2564 ...",
+                "text": "The KYM guideline aims to manage merchant risks, set standards for risk monitoring, and ensure secure payment systems, addressing fraud and ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "published_time": "2021-10-04T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations ppt",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/en/news-and-media.html",
+                "title": "News and Media - Bank of Thailand",
+                "text": "Bank of Thailand Hosts 30th EMEAP Gover. 23 Jul 2025 ; Press Release on the Economic and Monetary Conditions for May 2025. 30 Jun 2025 ; Appointment, Rotation and ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/en/news-and-media/speeches.html",
+                "title": "speeches - Bank of Thailand",
+                "text": "Money20/20 Keynote Presentation on “From Open Finance to an Inclusive Digital Society” by Deputy Governor Roong Mallikamas. 22 Apr 2025.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/en/news-and-media/news.html",
+                "title": "News - Bank of Thailand",
+                "text": "Economic and Financial Index and Indicators · Regional Economic and Financial Statistics · BOT API · Statistical Articles and Publications · Statistics and ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bot.or.th/en/news-and-media/news/news-20250630-2.html",
+                "title": "Press Release on the Economic and Monetary Conditions for May 2025",
+                "text": "The Bank of Thailand monitors Thailand's economic and monetary conditions each month and the overall economic condition in each quarter.",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "published_time": "2025-06-30T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bot.or.th/en/news-and-media/news/news-20250530.html",
+                "title": "Press Release on the Economic and Monetary Conditions for April 2025",
+                "text": "The Bank of Thailand monitors Thailand's economic and monetary conditions each month and the overall economic condition in each quarter.",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-30T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022"
+          ],
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/th/research-and-publications/research/discussion-paper-and-policy-paper/dp102003chirathep_thai.pdf",
+                "title": "discussion paper - Bank of Thailand",
+                "text": "The paper aims to answer three key questions pertinent to medium-term macroeconomic and monetary policy formulation. First, are current financial conditions of ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/th/research-and-publications/seminars/economic-seminars/2553/26-mar-2553-paper-mutjalin-sunsanee-bit.pdf",
+                "title": "ก ก (BITs)",
+                "text": "... #$! % & $ก' (ก % &ก ) * & ก () (&. (Agreement on Promotion and Reciprocal Protection of Investments) A$ BC (ก D. ก (Bilateral Investment Treaties: BITs) ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/th/research-and-publications/reports/bot-report/annual-report/AnnualReport_2551.pdf",
+                "title": "ك'π ھا 2551",
+                "text": "\" 3 (Commercial papers) ,7% ! ' # -# $. $% -$ - = , % - ;3 7% -$ # $% DE -7% $ 0 0 E 7-. 8 7% C - # E $% -$. 1 ! \" - # 8 #. $% & -8 - !7% - % $% 0. \"( 0 # E ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/en/our-roles/payment-systems/payment-systems-notification---circulars/announcements/3.4_Letter_of_Agreement.pdf",
+                "title": "(Unofficial Translation) * Letter of Agreement Procedures for ...",
+                "text": "(Unofficial Translation) *. Letter of Agreement. Procedures for Members of Highly Important Payment Systems to Enter Business.",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/en/our-roles/payment-systems/payment-systems-notification---circulars/announcements/3.5_%20Power_of_Attorney.pdf",
+                "title": "(Unofficial Translation) * Power of Attorney",
+                "text": "This power of attorney authorizes someone to sign documents related to the Bank of Thailand's regulation, and it takes effect from a specified date. It must be ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/en/our-roles/payment-systems/payment-systems-notification---circulars/announcements/3.2_SorRohKho_2-2561_ProceduresforBN.pdf",
+                "title": "แบบที่ 9 - Bank of Thailand",
+                "text": "(Unofficial Translation) *. Notification of the Bank of Thailand. No. Sor.Ror.Khor. 2/2561. Re: Procedures for BAHTNET Service Users to Enter into ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/en/our-roles/payment-systems/payment-systems-notification---circulars/announcements/3.6_Template_for_Status.pdf",
+                "title": "Template for Status Report for Members of Highly Important ...",
+                "text": "(Unofficial Translation) *. Template for Status Report for Members of Highly Important Payment Systems to. Enter Business Rehabilitation or Bankruptcy ...",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bot.or.th/content/dam/bot/documents/en/our-roles/payment-systems/payment-systems-notification---circulars/announcements/3.1_SorRohKho_1-2561_ProceduresforMembers.pdf",
+                "title": "แบบที่ 10 ระเบียบ ธปท (ภายนอก) - Bank of Thailand",
+                "text": "(Unofficial Translation) *. Regulation of the Bank of Thailand. No. Sor.Ror.Khor. 1/2561. Re: Procedures for Members of Highly Important Payment System to ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates stock exchange",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bot.or.th/th/research-and-publications/articles-and-publications/bot-magazine/Phrasiam-66-3/Inspiration_communication-hackathon.html",
+                "title": "BOT Communication Hackathon 2023 สื่อสารอย่างสร้างสรรค์ ให้ ...",
+                "source": "www.bot.or.th",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bot.or.th&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bot.or.th/content/dam/bot/bot-magazine/communication-hackathon/share-from-website-2.jpg",
+                "position": 1
+              },
+              {
+                "url": "https://www.bot.or.th/th/research-and-publications/articles-and-publications/bot-magazine/Phrasiam-66-3/Inspiration_communication-hackathon.html",
+                "title": "BOT Communication Hackathon 2023 สื่อสารอย่างสร้างสรรค์ ให้ ...",
+                "source": "www.bot.or.th",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bot.or.th&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://s7ap1.scene7.com/is/image/bot/DSC01048?ts=1692168193623&dpr=off",
+                "position": 2
+              },
+              {
+                "url": "https://www.bot.or.th/th/news-and-media/activities/BOTCommuHackathon.html",
+                "title": "โครงการ BOT Communication Hackathon",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bot.or.th&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://img.youtube.com/vi/6iVi7bhu9CM/hqdefault.jpg",
+                "position": 3
+              },
+              {
+                "url": "https://www.bot.or.th/th/news-and-media/activities/BOTCommuHackathon.html",
+                "title": "โครงการ BOT Communication Hackathon",
+                "source": "ธนาคารแห่งประเทศไทย",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bot.or.th&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://img.youtube.com/vi/1a-QLQuTPPo/hqdefault.jpg",
+                "position": 4
+              },
+              {
+                "url": "https://www.bot.or.th/th/research-and-publications/articles-and-publications/bot-magazine/Phrasiam-66-3/Inspiration_communication-hackathon.html",
+                "title": "BOT Communication Hackathon 2023 สื่อสารอย่างสร้างสรรค์ ให้รู้เท่าทันภัย ...",
+                "text": "กระตุกให้ตระหนัก-ระวังมิจฉาชีพหลอก. วัตถุประสงค์สำคัญของโครงการคือเพื่อสร้างความตระหนักรู้ให้แก่ประชาชนทุกเพศ ทุกวัย ทุกอาชีพ ให้รู้เท่าทันมิจฉาชี ...",
+                "source": "Bank of Thailand",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEwdS28AMGBBYX8ANWECM2EEPGV3jqODmatogJdEZYJIZoRddo8cSW4APWYANGCOoLEALl2drrwAOmSUqLiouMVJZ4RZdY8wVHbN2N+3xtHr8PMAHVQZRmwFcMltAAAADnRSTlMAiBO7UTFt/v7+nPjYpEsZUSgAAAFySURBVCiRbZPZcsMgDEW9CzKpBQKx+/9/s/KWtJnc8Ys4aEXuureGeZrmofuioVfm1GP+RKP3yaLIboqe//CkPOKa3CpyqwVa3myhYNcV9bZT1Igb9y8/Sri7BIVCUeHq7E0HFXYmx6XIlQS4x+Yz72jswVzyVXxD2U2MsLOZTiYKRTWr4Yhjj6JGcwZd0ajsc+DTlgoEmqNGUauFFFO5TOuHbr4ySgumZoIUXnDqpjuqraHUHOEypaW+Wy7oWoVoantDeLygzTmTDPgfvMNihcw153siEvYhBV2ezJyzZKXors6kUXNedDpwCR600ddtLwMczywIkXzk4P3p6ZI53uRo1EUNoDlmc4/veJfnYWFkEucQtbcvR5m835yzko51NOAbJyvbwNcy9IxJFSJPpDSrUjg0Gu9V+OEt+KAUHF8EaPR8L1HvdYPoA5ioosHEY/dHsyZttxRjSi2Qmj42d3rKPqt9sWHpvmha+n6Z/vwPvzj/JITHjg0QAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bot.or.th/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

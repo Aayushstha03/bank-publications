@@ -11,14 +11,26 @@
       {
         "url": "https://www.stlouisfed.org/publications/at-a-glance",
         "title": "About Publications - Federal Reserve Bank of St. Louis",
-        "text": "The St. Louis Fed's annual reports highlight the work and impact made by Bank staff over the previous year. Community Development Outlook Survey.",
+        "text": "The St. Louis Fed's annual reports highlight the work and impact made by Bank staff over the previous year. Community Development ...",
         "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/page-one-economics",
+        "title": "Page One Economics | St. Louis Fed",
+        "text": "Page One Economics are short overviews of current economic events or financial topics. Essays are written by our economic education specialists.",
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.stlouisfed.org/community-development/publications",
         "title": "Community Development Publications & Reports | St. Louis Fed",
         "text": "Community Development publishes articles about economic development and economic equity and inequality in this blog.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/review",
+        "title": "Review | St. Louis Fed",
+        "text": "This journal of scholarly research published by the St. Louis Fed delves into monetary policy, macroeconomics, and more.",
+        "listing_probability": 0.88
       }
     ]
   },
@@ -26,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.stlouisfed.org/community-development/bank-on-national-data-hub",
+        "title": "Bank On National Data Hub - Federal Reserve Bank of St. Louis",
+        "text": "The Bank On National Data (BOND) Hub to present metrics from financial institutions related to account openings, account usage and consistency, and online ...",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.stlouisfed.org/publications/page-one-economics/2025/jun/data-releases-with-fred",
         "title": "Data Releases with FRED | St. Louis Fed",
         "text": "The FRED® online database provides access to more than 826,000 data series organized in more than 300 releases that look like the publications ...",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.stlouisfed.org/community-development/bank-on-national-data-hub",
-        "title": "Bank On National Data Hub - Federal Reserve Bank of St. Louis",
-        "text": "The Bank On National Data (BOND) Hub to present metrics from financial institutions related to account openings, account usage and consistency, and online ...",
-        "listing_probability": 0.05
+        "url": "https://www.stlouisfed.org/research/regional-economy",
+        "title": "Regional Economic Data & Reports | St. Louis Fed",
+        "text": "Explore graphs and maps of Eighth Federal Reserve District data including population, employment, and housing. These are powered by FRED.",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.stlouisfed.org/publications/page-one-economics/2021/11/15/data-units-in-fred",
         "title": "Data Units in FRED® | St. Louis Fed",
         "text": "This article describes the range of data units available in FRED for new data users and can serve as a reference for advanced data users.",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/on-the-economy/data/economy-at-a-glance",
+        "title": "U.S. Economy at a Glance, Powered by FRED, the St. Louis Fed's ...",
+        "text": "These eight FRED charts show key financial and economic indicators and provide a snapshot of the U.S. economy at a glance.",
+        "listing_probability": 0.7
       }
     ]
   },
@@ -49,21 +73,33 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.stlouisfed.org/bank-supervision/federal-banking-regulations",
-        "title": "Federal Banking Rules & Regulations | St. Louis Fed",
-        "text": "Below is a searchable list of US banking regulations from 2022-24 (final, interim final, open for comment, or proposed).",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.stlouisfed.org/in-plain-english/the-fed-implements-monetary-policy",
         "title": "How the Fed Implements Monetary Policy with Its Tools: In Plain English",
         "text": "When the FOMC adjusts the target range for the federal funds rate, the Federal Reserve uses its monetary policy tools to implement ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.stlouisfed.org/federal-banking-regulations/Report?RuleId=47812",
-        "title": "Rules and Regulations - GovInfo",
-        "text": "This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to ...",
+        "url": "https://www.stlouisfed.org/bank-supervision/federal-banking-regulations",
+        "title": "Federal Banking Rules & Regulations | St. Louis Fed",
+        "text": "Below is a searchable list of US banking regulations from 2022-24 (final, interim final, open for comment, or proposed).",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.stlouisfed.org/education/monetary-policy-lecture-guide",
+        "title": "Lecture Guide: How the Federal Reserve Implements Monetary Policy",
+        "text": "This lesson teaches how the Federal Open Market Committee (FOMC) conducts monetary policy to achieve its dual mandate of promoting price stability and maximum ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/education/economic-lowdown-video-series/monetary-policy",
+        "title": "Monetary Policy, Part 1: The Fed and the Dual Mandate | Video Assignment",
+        "text": "This video assignment explains how the Fed adjusts the target range for the federal funds rate to set off a chain of events in the economy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/in-plain-english/expansionary-and-contractionary-policy",
+        "title": "Expansionary & Contractionary Monetary Policy | In Plain English",
+        "text": "The goal of contractionary monetary policy is to decrease the rate of demand for goods and services, not to stop it.",
         "listing_probability": 0.1
       }
     ]
@@ -72,10 +108,16 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.stlouisfed.org/from-the-president/remarks",
+        "title": "President Alberto Musalem's Speeches and Remarks | St. Louis ...",
+        "text": "View remarks, commentary, speeches, media interviews and other content from Alberto G. Musalem, president and CEO of the Federal Reserve Bank of St. Louis.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.stlouisfed.org/news-releases",
         "title": "Newsroom and Press Releases | St. Louis Fed",
         "text": "Find news releases, headlines, media advisories and contacts, press kit, and other media resources from the Federal Reserve Bank of St. Louis.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.stlouisfed.org/publications/regional-economist/july-1996/news-bulletins-from-the-eighth-federal-reserve-district",
@@ -84,10 +126,16 @@
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.stlouisfed.org/publications/regional-economist/january-1997/news-bulletins-from-the-eighth-federal-reserve-district",
-        "title": "Pieces of Eight: News Bulletins from the Eighth Federal Reserve ...",
-        "text": "The 45-minute presentation outlines the Fed's responsibilities in formulating monetary policy, providing financial services, and supervising and regulating ...",
-        "listing_probability": 0.05
+        "url": "https://www.stlouisfed.org/from-the-president/former-presidents",
+        "title": "Former St. Louis Fed Presidents",
+        "text": "Below are the former leaders of the St. Louis Fed, along with links to their bios and to archives of other materials where available.",
+        "listing_probability": 0.6
+      },
+      {
+        "url": "https://www.stlouisfed.org/from-the-president/remarks/2025/remarks-on-economic-outlook-and-monetary-policy",
+        "title": "Remarks on the Economic Outlook and Monetary Policy",
+        "text": "The outlook for continued solid economic growth looks good, the labor market is healthy, and financial conditions are supportive.",
+        "listing_probability": 0.02
       }
     ]
   },
@@ -101,10 +149,103 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.stlouisfed.org/publications",
+        "title": "Publications & Blogs | St. Louis Fed",
+        "text": "St. Louis Fed publications and blogs cover topics including the economy, financial institutions and community development.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.stlouisfed.org/research",
         "title": "Economic Research | St. Louis Fed",
         "text": "View Cutting-Edge Research in Our Working Papers. Get the latest on economic trends, policy and data. Subscribe to our monthly Research newsletter. Sign Up ...",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/regional-economist/january-2007/working-hard-or-hardly-working-the-evolution-of-leisure-in-the-united-states",
+        "title": "Working Hard or Hardly Working? Leisure in the U.S. | St. Louis Fed",
+        "text": "Numerous economic studies suggest that the number of hours that the average American works in a year has fallen by about 550 hours from 1900 to 2005.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.stlouisfed.org/on-the-economy/2019/september/white-working-class-national-trends-then-now",
+        "title": "The White Working Class: National Trends, Then and Now | St. Louis Fed",
+        "text": "Between 2015 and 2018, the white working class shrank by 2.6 million people and its share decreased to 40% of the population in 2018.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/bank-supervision/financial-regulatory-reporting/regulatory-reports-updates",
+        "title": "Financial & Regulatory Reporting: Reporting Updates | St. Louis Fed",
+        "text": "Find information regarding upcoming reporting requirements, including deadline dates, recent form updates, contact information and reporting tips.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.stlouisfed.org/bank-supervision/financial-regulatory-reporting/regulatory-reports-updates/fry9sp-video",
+        "title": "Video: Complete the FR Y‑9SP (Without Losing Your Mind)",
+        "text": "For individuals preparing the FR Y-9SP report, click on the links below for job aids that address the most common reporting problems and frustrations.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/fomcspeak/loretta-mester/2017/03/mar-speech-updates-on-the-economy-and-the-federal-reserves-payments-system-improvement-initiative",
+        "title": "Updates on the Economy and the Federal Reserve's Payments ...",
+        "text": "Platforms for making payments, including ACH, check, and credit and debit card systems, are lagging behind the technological advances. The ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/email-alerts/applications-notices",
+        "title": "Application Notices | St. Louis Fed Email Alerts",
+        "text": "Sign up to receive email alerts. For further information, please contact Holly Rieser at (314) 444-4713 or 1-800-333-0810, ext. 4444713.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/email-alerts",
+        "title": "Banking Supervision and Regulation Email Alerts",
+        "text": "The St. Louis Fed provides e-mail alerts for the information related to application notices; consumer affairs guidance and letters; credit and payment risk ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.stlouisfed.org/bank-supervision/applications-and-notices",
+        "title": "Application Filings and Notices - Federal Reserve Bank of St. Louis",
+        "text": "The St. Louis Fed has a variety of resources to help banking institutions file applications, notices and complete other transactions.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.stlouisfed.org/email-alerts/h2-reports",
+        "title": "H.2 Reports | St. Louis Fed Email Alerts",
+        "text": "Sign up to receive email alerts on H.2 Reports. The H.2 reports are released each Monday. You may obtain the exact time by calling (202) 452-3206.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.stlouisfed.org/publications/review/2019/02/14/gauging-market-responses-to-monetary-policy-communication",
+        "title": "Gauging Market Responses to Monetary Policy Communication",
+        "text": "In this vein, central bank communication takes many forms, from economic forecasts and official reports, to speeches, interviews, testimonies ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.stlouisfed.org/on-the-economy/2019/january/evolution-monetary-policy-communication",
+        "title": "The Evolution of Monetary Policy Communication | St. Louis Fed",
+        "text": "How has Fed communication changed in recent years? This post focuses on how the FOMC's policy statements and public remarks by Fed officials ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.stlouisfed.org/publications/page-one-economics/2013/04/01/prices-the-marketplaces-communication-system",
+        "title": "Prices: The Marketplace's Communication System",
+        "text": "Prices serve two main purposes in a market economy. First, they send signals. A signal is a way to reveal credible information to another party.",
+        "listing_probability": 0.05
       }
     ]
   }

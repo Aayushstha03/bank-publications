@@ -2,31 +2,232 @@
   "Bank Name": "Central Bank of Iraq",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-169925354420769.pdf",
+                "title": "Year of Publication",
+                "text": "2011. The Central Bank. Directory. Central Banking. Publications London. 1. 2016. The Central Bank. Directory. Central Banking.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://cbi.iq/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://cbi.iq/documents/Table%20of%20interest%20rates-En.pdf",
+                "title": "A Tabel of interest rates Posted by the Commercial Banks for January 2013",
+                "text": "1. Rafidain Bank. 4.00. 5.00. 5.50. 6.00. 9.00. 9.00. 9.00. 10.00. 11.00. 1.00. 1.50. 1.75. 2.00. 8.00. 9.00. 10.00. 3.50. 4.50. 5.00. 6.50. 10.00. 10.00.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 1
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-160984166268831.pdf",
+                "title": "Annual Report 2019 Statistics & Research Department www.cbi.iq",
+                "text": "2019. 2018. Statement. Currency (Iraqi Dinar). 262.9. 254.8. Gross Domestic Product in Current Prices (GDP) ( IQD trillion ).",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 2
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-164491584783038.pdf",
+                "title": "Annual Economic Report 2020 Statistics & Research Department ...",
+                "text": "Iraqi Dinar Exchange Rate against the US dollar in Parallel Market. Price ( IQD). 49.8. 42.1. Cash Credit Balance by Commercial Banks ( IQD trillion ).",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 3
+              },
+              {
+                "url": "https://cbi.iq/documents/Financial%20Stability%20Report-en.2015.pdf",
+                "title": "Central Bank of Iraq Statistics & Research Dept. Financial Stability ...",
+                "text": "The Central bank of Iraq performs its regulatory, supervisory and control role on banks and intermediary financial institutions to maintain a.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbi.iq/documents/Financial%20Stability%20Report-en.2014.pdf",
+                "title": "Central Bank of Iraq Statistics & Research Dept. Financial Market ...",
+                "text": "The Central bank of Iraq performs its regulatory, supervisory and control role on banks and intermediary financial institutions to maintain a.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://cbi.iq/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://cbi.iq/documents/banking_law_f.pdf",
+                "title": "ANNEX A IRAQ BANKING LAW Section 1",
+                "text": "“branch” means a place of business forming a legally dependent part of a bank where all or some banking activities are conducted; for the purposes of this ...",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 1
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-1690264742523.pdf",
+                "title": "Monetary Policy Report of Central Bank of Iraq 2022",
+                "text": "CONTENTS. Page No. INTRODUCTION. a-b. Chapter One: Money Supply Developments & Monetary Policy Instruments 1-10. First: Money Supply Developments.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 2
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-17255287899887.pdf",
+                "title": "Monetary Policy Report of Central Bank of Iraq 2023",
+                "text": "Introduction. The year of 2023 witnessed relative economic stability after many developments, including the Russian-Ukrainian war which directly affected.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 3
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-156982096564694.pdf",
+                "title": "CBI announces amendments to the regulations for the declaration of",
+                "text": "funds entering and leaving Iraq\n\nThe Central Bank of Iraq is eager to clarify the instructions and regulations for the declaration of funds ...",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "published_time": "2019-09-25T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-157588788957546.pdf",
+                "title": "Regulations for opening a banking office",
+                "text": "15- All surfaces must be covered with water repellents to prevent water leakage.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "published_time": "2019-11-12T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:https://cbi.iq/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "news",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://cbi.iq/language/change/english/https:----cbi.iq--news--index--59",
-                "title": "CENTRAL BANK OF IRAQ | News",
-                "text": "Calling for intensifying efforts ... CBI participates in two Arab meetings. The Central Bank of Iraq participated in the meetings of the Board of Dire .",
+                "url": "https://cbi.iq/language/change/english/https:----cbi.iq--news--section--142--?",
+                "title": "CENTRAL BANK OF IRAQ | Erbil Branch Directorate Kurdistan Region",
+                "text": "The Central Bank organizes a workshop on basic standards for detecting counterfeit currency · The Central Bank of Iraq organizes a workshop on national and ...",
                 "source": "البنك المركزي العراقي",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
                 "position": 1
               },
               {
-                "url": "https://cbi.iq/language/change/arabic/https:----cbi.iq--news--tag--news--section--135",
-                "title": "الاخبار - news - البنك المركزي العراقي",
-                "text": "Menu Toggle navigation. الرئيسية; عن البنك. البنك المركزي العراقي · المحافظ · نائب المحافظ · تاريخ البنك المركزي · المحافظين · أهداف البنك · هيكلية البنك ...",
+                "url": "https://cbi.iq/language/change/english/https:----cbi.iq--news--section--135--?",
+                "title": "CENTRAL BANK OF IRAQ | Mosul Branch Directorate",
+                "text": "The Central Bank participates in the Mosul Justice Forum marathon · The Central Bank holds awareness lectures in three government departments · The Central Bank ...",
                 "source": "البنك المركزي العراقي",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 2
+              },
+              {
+                "url": "https://cbi.iq/language/change/english/https:----cbi.iq--news--index--59",
+                "title": "CENTRAL BANK OF IRAQ | News",
+                "text": "Calling for intensifying efforts ... CBI participates in two Arab meetings. The Central Bank of Iraq participated in the meetings of the Board of Dire .",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 3
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-153440623633444.pdf",
+                "title": "A statement on the circulation of some local media news on the issuance ...",
+                "text": "Statement: Some local media have been circulating over the past two days news on the issuance of lists to monitor Iraqi banks claiming that.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 4
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-152982769175801.pdf",
+                "title": "(Press release) CBI allows cash withdrawals from points of sale and ...",
+                "text": "The Central Bank of Iraq decided to allow citizens to withdraw cash from the points of sale deployed at the agents of electronic.",
+                "source": "البنك المركزي العراقي",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbi.iq",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://cbi.iq/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://cbi.iq/documents/Financial%20Stability%20Report-en.2015.pdf",
+                "title": "Central Bank of Iraq Statistics & Research Dept. Financial ...",
+                "source": "cbi.iq",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cbi.iq&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///75731d184d76e5aaae063fccb82c4ec613dbd08cd50334ea1e1f3416f61a23e0",
+                "position": 1
+              },
+              {
+                "url": "https://cbi.iq/static/uploads/up/file-157466944654590.pdf",
+                "title": "Annual Report 2018 Statistics & Research Department www.cbi.iq",
+                "source": "cbi.iq",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cbi.iq&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///f347f2504eea6675eb0a55beafcc3f9595a1b16a7f1749efe0e59692b66ca6f6",
                 "position": 2
               }
             ]
           },
           "query": {
-            "q": "site:https://cbi.iq/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://cbi.iq/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
           }
         }
       ]

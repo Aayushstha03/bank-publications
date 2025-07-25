@@ -7,6 +7,24 @@
         "title": "Publications - Centrale Bank Curacao & Sint Maarten",
         "text": "Publications · Advance Release Calendar 2025 · Annual Report · Economic Bulletins · Financial Stability Reports · Press Releases · Speeches & Presentations.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/announcements",
+        "title": "Announcements - Centrale Bank Curacao en Sint Maarten",
+        "text": "Our Corporate Communications Department is available from Monday to Friday from 08:00 to 17:00 hrs. We will normally reply to all media calls and e-mails ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/financial-stability-reports",
+        "title": "Financial Stability Reports - Centrale Bank Curacao & Sint Maarten",
+        "text": "The Financial Stability Report for the monetary union of Curaçao and Sint Maarten presents an overview of recent macro financial developments and risks.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/annual-report",
+        "title": "Annual Report - Centrale Bank Curacao & Sint Maarten",
+        "text": "As of 2022, the CBCS issues the Annual Report in full and as a separate document instead of the Condensed Financial Statement.",
+        "listing_probability": 0.15
       }
     ]
   },
@@ -20,10 +38,22 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.cw/statistics-dashboards/monetary-and-financial-statistics",
-        "title": "Monetary and Financial Statistics - Centrale Bank van Curacao en Sint ...",
-        "text": "Monetary and Financial Statistics · International Reserves Statement · Official Legal Interest Rates · Monetary Tables · Breakdown Deposits and ...",
-        "listing_probability": 0.9
+        "url": "https://www.centralbank.cw/statistics-dashboards/monetary-and-financial-statistics/monetary-tables",
+        "title": "Monetary Tables - Centrale Bank van Curacao en Sint Maarten",
+        "text": "Home · Statistics dashboards · Monetary and financial statistics; Monetary tables. Print. Monetary Tables. Monetary Tables up to April 2025.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.cw/event-calendar/events/symposium-better-data-better-decisions",
+        "title": "Symposium 'Better Data, Better Decisions: A CBCS Symposium on ...",
+        "text": "The purpose of this symposium, that took place on May 22nd in Sint Maarten, was to engage key economic stakeholders in a dialogue on the importance of data and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/annual-reports-quarterly-bulletins/2020/quarterly-bulletin-2020-i",
+        "title": "Quarterly Bulletin 2020-I - Centrale Bank Curacao & Sint Maarten",
+        "text": "The first quarter of 2020 was dominated by the rapid global spread of the COVID-19 corona virus. In an effort to slow the spread of the virus, governments ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -37,16 +67,28 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.cw/legislation-guidelines/foreign-exchange-regulations",
-        "title": "Foreign Exchange Regulations - Centrale Bank Curacao & Sint ...",
-        "text": "The foreign exchange regulations in the countries of Curaçao and Sint Maarten are based on the Foreign Exchange Regulation Curaçao and Sint Maarten (2010).",
-        "listing_probability": 0.1
+        "url": "https://www.centralbank.cw/legislation-guidelines/general-guidelines",
+        "title": "General Guidelines - Centrale Bank Curacao & Sint Maarten",
+        "text": "Guidance notes for the Supervisory Board of Supervised Financial Institutions · Guidelines for Statement of Regulatory Compliance · Summary ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.cw/legislation-guidelines/credit-institutions/guidelines",
+        "title": "Credit Institution Guidelines - Centrale Bank Curacao & Sint Maarten",
+        "text": "Guidelines · Guideline for the Sound Management of Liquidity Risk · Guideline for Sound Stress Testing Practices · LOLR Policy Guidelines ...",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.centralbank.cw/legislation-guidelines/credit-institutions/supervisory-regulations",
         "title": "Supervisory Regulations - Centrale Bank Curacao & Sint Maarten",
         "text": "Supervisory Regulations I - Restrictions on credit extension to principal shareholders, Supervisory Directors, Executive Officers (and their ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/announcements/2023/announcement-updated-policy-guidelines-on-exemption-regulations-for-investment-institutions",
+        "title": "Announcement Updated Policy Guidelines on Exemption ...",
+        "text": "The updated policy elaborates more in depth on the two criteria for Professional Parties1: 1) a minimum subscription amount and 2) the transferability of ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -57,19 +99,82 @@
         "url": "https://www.centralbank.cw/publications/press-releases/2025",
         "title": "Press Releases 2025 - Centrale Bank van Curacao en Sint Maarten",
         "text": "PB2025-033 Supervisory Board emphasizes diligent handling of former Executive Director's resignation · PB2025-032 Allegations of counterfeit Cg 20 banknotes ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.centralbank.cw/publications/press-releases",
         "title": "Press Releases - Centrale Bank Curacao & Sint Maarten",
         "text": "Our Corporate Communications department is available on weekdays from 8AM to 5PM by telephone +599 9 434 5720 or +599 9 434 5587.",
-        "listing_probability": 0.2
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.centralbank.cw/functions/resolution/ennia/press-releases",
         "title": "Press Releases Ennia - Centrale Bank Curaçao & Sint Maarten",
         "text": "2023. PB2023-040 Agreement between parties on ENNIA resolution; PB2023-033 Ennia restructuring process update; PB2023-028 Court Issues Interlocutory ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/speeches-presentations",
+        "title": "Speeches & Presentations - Centrale Bank Curacao & Sint Maarten",
+        "text": "2025. Opening speech by Richard Doornbosch On the Occasion of the 25th International Annual International Leadership Conference - June 6, 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.cw/girobank-nv/girobank-nv-press-releases-announcements",
+        "title": "Girobank NV - Press Releases & Announcements",
+        "text": "Press releases · PB 2021-040 Girobank will charge monthly administration fee · PB 2021-006 Start payouts Girobank credit balances · PB 2020-025 ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/publications/announcements",
+        "title": "Announcements - Centrale Bank Curacao en Sint Maarten",
+        "text": "Our Corporate Communications Department is available from Monday to Friday from 08:00 to 17:00 hrs. We ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.cw/functions/market-operations-payments/government-loans-sint-maarten/announcements",
+        "title": "Announcement - Centrale Bank Curacao & Sint Maarten",
+        "text": "Centrale Bank van Curaçao en Sint Maarten announces a new bond issue on behalf of the Government of the Country of Sint Maarten.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.cw/publications/announcements/2025",
+        "title": "Announcements 2025 - Centrale Bank Curacao & Sint Maarten",
+        "text": "2025 · Official Exchange Rates for Use by the Commercial Banks · Quick Links · Functions · Legislation & guidelines · Statistics · Publications.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.cw/girobank-nv/girobank-nv-press-releases-announcements",
+        "title": "Girobank NV - Press Releases & Announcements",
+        "text": "Announcements ; Customer letter regarding discontinuation of Girobank's banking services - June 15, 2021 (NED) (PAP) (ENG) ; Pay-out of current and ...",
         "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/warning-notices",
+        "title": "Warning Notices - Centrale Bank Curacao & Sint Maarten",
+        "text": "Warning Notices · Jurisdictions under Increased Monitoring June 2025 · High Risk Jurisdictions subject to a Call for Action June 2025 · Warning Notice Payment ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cw/publications/press-releases/2023/pb2023-030-cbcs-holds-1st-regional-central-bank-communication-workshop",
+        "title": "PB2023-030 CBCS Holds 1st Regional Central Bank ...",
+        "text": "WILLEMSTAD/PHILIPSBURG — Communication professionals at regional central banks commonly encounter shared challenges as their organizations move from traditional ...",
+        "listing_probability": 0.05
       }
     ]
   }

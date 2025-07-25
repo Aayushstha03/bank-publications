@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.sbv.gov.vn/w/sbv569029",
+        "title": "Digital transformation of banking sector in 2023",
+        "text": "On May 11, 2023, in Hanoi, the State Bank of Vietnam (SBV) organized a press conference announcing the event of Digital transformation of ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.sbv.gov.vn/vi/web/sbv_portal/w/sbv617915",
+        "title": "Đánh giá các công nghệ Big Data cho lĩnh vực tài chính, ngân hàng",
+        "text": "Thông qua việc phân tích các trường hợp ứng dụng thực tế, bài viết cung cấp một đánh giá về các công cụ hỗ trợ trong việc lưu trữ, xử lý, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.sbv.gov.vn/vi/",
+        "title": "Ngân Hàng Nhà Nước Việt nam: Trang Chủ",
+        "text": "Khơi dậy mạnh mẽ tinh thần tự chủ, tự tin, tự lực, tự cường, tự hào dân tộc, khát vọng phát triển đất nước trong kỷ nguyên mới!Khơi dậy mạnh mẽ tinh thần tự chủ ...",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.sbv.gov.vn/en/web/sbv_portal/w/directive-03/ct-nhnn-implementing-2-interest-rate-subsidy-policy-from-state-budget-worth-vnd-40-000-billion-in-accordance-with-government-s-decree-no.31/2022/nd-cp-and-sbv-s-circular-no.-03/2022/tt-nhnn",
+        "title": "Directive 03/CT-NHNN implementing 2% interest rate subsidy policy from ...",
+        "text": "On August 16, 2022, the Governor of the State Bank of Vietnam (SBV) issued Directive 03/CT-NHNN on the implementation of the 2% interest rate ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.sbv.gov.vn/w/sbv609413",
+        "title": "Monetary policy management to help maintain macroeconomic stability",
+        "text": "In that context, the SBV had identified two key political tasks: maintaining inflation control and macroeconomic stability, and promoting credit ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.sbv.gov.vn/vi/web/sbv_portal/w/sbv638416",
+        "title": "SBV been managing to operate monetary policy in flexible manner ...",
+        "text": "SBV been managing to operate monetary policy in flexible manner, in line with practical developments, helping to control inflation and ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.sbv.gov.vn/w/sbv598016",
+        "title": "Prime Minister Pham Minh Chinh chairs a meeting on monetary ...",
+        "text": "On May 16, 2024, Prime Minister Pham Minh Chinh chaired a meeting on the monetary policy and the fiscal policy to continue implementing the ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

@@ -6,19 +6,31 @@
         "url": "https://www.centralbankbahamas.com/publications",
         "title": "Publications - Central Bank of The Bahamas",
         "text": "Click to download PDF files of the quarterly, monthly, yearly publications providing information about the economic developments & much more…",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.centralbankbahamas.com/bank-supervision/reports-and-publications",
         "title": "REPORTS AND PUBLICATIONS - Central Bank of The Bahamas",
         "text": "This publication provides a single touchpoint that highlights the milestones achieved by the GFSR in our continued strengthening of the supervisory and ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.centralbankbahamas.com/publications/annual-reports",
         "title": "Annual Reports - Central Bank of The Bahamas",
         "text": "Search Publications · Annual Report & Statement of Accounts, 2024 · Annual Report & Statement of Accounts, 2023 · Annual Report & Statement of Accounts, 2022.",
-        "listing_probability": 0.99
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/publications/qer",
+        "title": "Quarterly Economic Review - Central Bank of The Bahamas",
+        "text": "Click to read and download PDF files of the quarterly economic review for various years.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/publications/qsd",
+        "title": "Quarterly Statistical Digest - Central Bank of The Bahamas",
+        "text": "Click to read and download PDF files of the quarterly statistical digest for various years.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -26,21 +38,27 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.centralbankbahamas.com/bank-supervision/aml-cft-data-and-statistics",
-        "title": "AML/CFT Data and Statistics - Central Bank of The Bahamas",
-        "text": "AML/CFT Data and Statistics: Core Functions, Monetary Policy Overview, Objectives, Chronology, Money & Credit Aggregates, Movements in External Reserves.",
-        "listing_probability": 0.9
-      },
-      {
         "url": "https://www.centralbankbahamas.com/statistics",
         "title": "Statistics - Central Bank of The Bahamas",
         "text": "The Bank, via the Research Department compiles and publishes a range of monetary and financial statistics. These include domestic banking statistics.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/bank-supervision/aml-cft-data-and-statistics",
+        "title": "AML/CFT Data and Statistics - Central Bank of The Bahamas",
+        "text": "AML/CFT Data and Statistics: Core Functions, Monetary Policy Overview, Objectives, Chronology, Money & Credit Aggregates, Movements in External Reserves.",
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.centralbankbahamas.com/key-payments-statistics",
         "title": "Key Payments Statistics - Central Bank of The Bahamas",
         "text": "The semi-annual survey of retail bank charges for the period ending June 2024, conducted by the Central Bank of The Bahamas, is featured in this report.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/news/press-releases/central-bank-releases-summary-report-from-aml-data-return-submissions",
+        "title": "CENTRAL BANK RELEASES SUMMARY REPORT FROM AML ...",
+        "text": "The Central Bank of the Bahamas (the Central Bank) has today released a summary of its analysis of the AML Data Returns submitted by banks and trust companies.",
         "listing_probability": 0.1
       }
     ]
@@ -49,22 +67,16 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.centralbankbahamas.com/bank-supervision/financial-industry-regulations",
-        "title": "Financial Industry Regulations - Central Bank of The Bahamas",
-        "text": "Financial Industry Regulations ; Attorney General's Directive 2019 · Banks and Trust Companies (Administrative Monetary Penalties) Regulations, 2016 ; 2019-10-15 ...",
+        "url": "https://www.centralbankbahamas.com/bank-supervision/guidelines",
+        "title": "Guidelines - Central Bank of The Bahamas",
+        "text": "Click to download documents discussing guidelines & regulations pertaining to licensing, regulations, supervision of banks,trust companies operating in ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbankbahamas.com/exchange-control-notes-and-guidelines/exchange-control-notices/exchange-control-regulations-ec-12-sundry-payments",
-        "title": "Exchange Control Regulations EC 12 Sundry Payments",
-        "text": "Exchange Control Regulations EC 12 Sundry Payments Where appropriate, the notices are superseded by subsequent publication of new measures.",
-        "listing_probability": 0.05
-      },
-      {
-        "url": "https://www.centralbankbahamas.com/news/press-releases/press-release-the-bahamas-capital-regulations-2022",
-        "title": "Press Release: The Bahamas Capital Regulations, 2022",
-        "text": "The Central Bank of The Bahamas announces that The Bahamas Capital Regulations, 2022 were gazetted and took effect as of 15 July, 2022.",
-        "listing_probability": 0.05
+        "url": "https://www.centralbankbahamas.com/exchange-control-notes-and-guidelines",
+        "title": "Exchange Control Notes and Guidelines",
+        "text": "Latest Exchange Controls ; Application for Permit to Retain Existing Foreign Currency Facility or Asset Outside of The Bahamas, 2022-10-04 ; Residents Investments ...",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -72,22 +84,34 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.centralbankbahamas.com/news",
+        "title": "News - Central Bank of The Bahamas",
+        "text": "Press Release: The Central Bank of The Bahamas Upgrades its Real Time Gross Settlement (RTGS) Infrastructure",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.centralbankbahamas.com/news/press-releases",
         "title": "Press Releases - Central Bank of The Bahamas",
         "text": "Latest monthly news which keeps one updated about the latest press releases in Bahamas.",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbankbahamas.com/news",
-        "title": "News - Central Bank of The Bahamas",
-        "text": "Press Release: The Central Bank of The Bahamas Upgrades its Real Time Gross Settlement (RTGS) Infrastructure",
-        "listing_probability": 0.1
-      },
-      {
         "url": "https://www.centralbankbahamas.com/bank-supervision/speeches-and-presentations",
         "title": "Speeches and Presentations - Central Bank of The Bahamas",
         "text": "Speeches and Presentations ... In addition to specific industry guidelines and regulations, there are other notes and notices that the Bank Supervision Department ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/exchange-control-notes-and-guidelines/exchange-control-notes-and-guidelines-press-releases",
+        "title": "Press Releases - Central Bank of The Bahamas",
+        "text": "Press Releases ; Press Release: Resumption of Foreign Currency Purchases through the Bahamian Depository Receipts Program and the Investment Currency Market ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/news/general-news",
+        "title": "General News - Central Bank of The Bahamas",
+        "text": "Latest monthly news which keeps one updated about the financial developments in Bahamas.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -98,19 +122,94 @@
         "url": "https://www.centralbankbahamas.com/publications/working-papers",
         "title": "Working Papers - Central Bank of The Bahamas",
         "text": "Working Papers · Search Publications · Global Warming and The Bahamas · Working Paper: Two Benefits of Capital Controls for Macroeconomic Stability in The Bahamas.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbankbahamas.com/career/research-intern",
-        "title": "Research Intern avenues - Central Bank of the Bahamas",
-        "text": null,
+        "url": "https://www.centralbankbahamas.com/bank-supervision/aml-cft-working-papers-and-consultative-documents",
+        "title": "AML/CFT Working Papers and Consultative Documents",
+        "text": "AML/CFT Working Papers and Consultative Documents. Core Functions, Monetary Policy Overview, Objectives, Chronology, Money & Credit Aggregates, Movements in ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/publications/working-papers/working-paper",
+        "title": "Working Paper: Financial Inclusion and Central Bank Digital Currency ...",
+        "text": "Working Paper: Financial Inclusion and Central Bank Digital Currency in The Bahamas. Published: Friday September 23rd, 2022. Abstract.",
         "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbankbahamas.com/past-auction-announcements",
+        "title": "Past Auction Announcements - Central Bank of The Bahamas",
+        "text": "Below is a list of past auction notices. Click on an issue to download and view it. These announcements are typically posted in Adobe® PDF format.",
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.centralbankbahamas.com/t-b-donaldson-research-competition-flyer",
-        "title": "T B Donaldson Research Competition Flyer- Central Bank of the ...",
-        "text": null,
-        "listing_probability": 0.02
+        "url": "https://www.centralbankbahamas.com/news/t-bill-auction-announcements",
+        "title": "T-Bill Tender IPO - Central Bank of The Bahamas",
+        "text": "Bahamas Government Treasury Bill Term Sheet - April 2025, 14 Mar 2025 Bahamas Government Treasury Bill Term Sheet, Bahamas Government Treasury Bill Term Sheet.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/news/t-bill-auction-announcements/bahamas-government-treasury-bill-term-sheet-10",
+        "title": "BAHAMAS GOVERNMENT TREASURY BILL TERM SHEET",
+        "text": "BAHAMAS GOVERNMENT TREASURY BILL TERM SHEET. Tender Date: 19th June 2025. Instructions for participation in the Treasury Bill Tender are outlined below.",
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.centralbankbahamas.com/bank-supervision/warning-notices",
+        "title": "Warning Notices - Central Bank of The Bahamas",
+        "text": "These notices are issued by the Central Bank to alert the public and the financial services sector, that named individuals and/or companies, may be operating ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/alerts",
+        "title": "Alerts - Central Bank of The Bahamas",
+        "text": "Latest News · Public Procurement · Warning Notices ; Regulated Entities · Events · Links ; Blog · FAQs · Alerts ; Bahamas Securities Portal · Bahamas Registered ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/bank-supervision/general-notices",
+        "title": "General Notices - Central Bank of The Bahamas",
+        "text": "Notes and notices that the Bank Supervision Department publishes, covering an array of financial sector issues. These documents are listed below in reverse ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/bank-supervision/notes-and-notices",
+        "title": "Notes and Notices - Central Bank of The Bahamas",
+        "text": "Notes and notices that the Bank Supervision Department publishes, covering an array of financial sector issues. These documents are listed below in reverse ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/exchange-control-notes-and-guidelines/exchange-control-notices",
+        "title": "Exchange Control Notices - Central Bank of The Bahamas",
+        "text": "Exchange Control Notices / Guidance Notes for Licensees ; Revised Schedule of Delegated Authority for Commercial Banks & Money Transfer Businesses for Current ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.centralbankbahamas.com/bank-supervision/aml-cft-communication",
+        "title": "AML/CFT Communication - Central Bank of The Bahamas",
+        "text": "AML/CFT Communication. Core Functions. Monetary Policy · Overview · Objectives · Chronology · Money & Credit Aggregates · Movements in External Reserves.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.centralbankbahamas.com/index.php/news/public-procurement/cbob-rfp-sand-dollar-communication-consultancy-services",
+        "title": "CBOB RFP Sand Dollar Communication Consultancy Services",
+        "text": "Request for Proposal Project Sand Dollar Communication Consultancy Services (Inclusive of Family Island Engagement and Community Relations Services)",
+        "listing_probability": 0.05
       }
     ]
   }

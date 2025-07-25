@@ -24,12 +24,28 @@
                 "position": 2
               },
               {
-                "url": "https://www.norges-bank.no/en/news-events/publications/Regional-network-reports/",
-                "title": "Regional Network reports - Norges Bank",
+                "url": "https://www.norges-bank.no/en/news-events/publications/Annual-Report/",
+                "title": "Annual Report - Norges Bank",
                 "text": "Annual Report · Documentation Note · Economic Commentaries · Expectations Survey · External evaluations · Financial Infrastructure Report · Financial Stability Report",
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.norges-bank.no/en/topics/about/climate-and-the-economy/publications/",
+                "title": "Norges Bank's publications about climate change",
+                "text": "Publications and reports. Climate risk, petroleum resources and the Norwegian real exchange rate Staff Memo 7/2025; Insurance companies can manage the costs ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/publications/Financial-Stability-report/",
+                "title": "Financial Stability Report - Norges Bank",
+                "text": "Financial Stability Report 2025 H1. Financial Stability Report. 20 May 2025. November 2024. Financial Stability Report 2024 H2. Financial Stability Report.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.norges-bank.no/en/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.norges-bank.no/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -59,29 +75,46 @@
                 "position": 1
               },
               {
-                "url": "https://www.norges-bank.no/en/topics/Statistics/nowa-data/",
-                "title": "Nowa data - Norges Bank",
-                "text": "The Nowai (Nowa index) is an index representing the cumulative return on an investment earning daily compound interest at the Nowa rate.",
-                "source": "Norges Bank",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
-                "position": 2
-              },
-              {
                 "url": "https://www.norges-bank.no/en/topics/Statistics/money-market-data/",
                 "title": "Money market data - Norges Bank",
                 "text": "Norges Bank publishes aggregated money market data based on bank's reporting to Norges Bank (RPD). Data are published approximately at 11 am each working day.",
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.norges-bank.no/en/topics/Statistics/payment-statistics/",
+                "title": "Payment statistics - Norges Bank",
+                "text": "Norge Bank publishes annual statistics on developments in retail payment services. The statistics include the number and value of customer transactions.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.norges-bank.no/en/topics/Statistics/Historical-monetary-statistics/",
+                "title": "Historical Monetary and Financial Statistics for Norway (HMFS)",
+                "text": "The database contains data for consumer prices, house prices, nominal wages, short term and long term interest rates, money and credit aggregates, bank lending",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.norges-bank.no/en/topics/Statistics/open-data/",
+                "title": "Data warehouse for open data - Norges Bank",
+                "text": "Norges Bank's API for open data offers programmatic access to selected datasets published by the bank.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Statistics bulletin data statistics data bulletin today",
             "Statistics bulletin data statistics data bulletin 2022",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:https://www.norges-bank.no/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.norges-bank.no/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -101,9 +134,9 @@
                 "position": 1
               },
               {
-                "url": "https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/contracts-forms-regulations/",
-                "title": "Regulations and forms - Norges Bank",
-                "text": "Banks' participation in NBO is regulated by an account maintenance and settlement agreement between the individual bank and Norges Bank.",
+                "url": "https://www.norges-bank.no/en/topics/Monetary-policy/monetary-policy-strategy/",
+                "title": "Norges Bank's monetary policy strategy statement",
+                "text": "The task of monetary policy is to ensure low and stable inflation and to help keep employment as high as possible. The Monetary Policy Regulation states ...",
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 2
@@ -115,15 +148,28 @@
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/news/News-items/2025/2025-05-02-monetary-policy-regulation/",
+                "title": "Review of the monetary policy regulation - Norges Bank",
+                "text": "The Ministry of Finance will conduct a review of the Monetary Policy Regulation, laid down by Royal Decree of 13 December 2019.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2025-05-02T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.norges-bank.no/en/topics/about/Organisation/Monetary-Policy/",
+                "title": "Monetary Policy - Norges Bank",
+                "text": "The unit is responsible for the monetary policy analysis on which policy rate forecasts and policy rate decisions are based.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Policy regulations guidelines policy regulations pdf",
-            "Policy regulations guidelines policy regulations 2022"
-          ],
           "query": {
-            "q": "site:https://www.norges-bank.no/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.norges-bank.no/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -157,6 +203,23 @@
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/news/",
+                "title": "News - Norges Bank",
+                "text": "Articles and opinion pieces, balance sheets, circulars, news items, press releases, speeches, submissions.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/news/Speeches/2025/2025-06-19-pc/",
+                "title": "Policy rate reduced - Norges Bank",
+                "text": "Introductory statement by Governor Ida Wolden Bache at the press conference following the announcement of the policy rate on 19 June 2025.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-19T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -165,7 +228,7 @@
             "News speeches press news speeches press 2022"
           ],
           "query": {
-            "q": "site:https://www.norges-bank.no/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.norges-bank.no/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -177,38 +240,151 @@
           "results": {
             "web": [
               {
-                "url": "https://www.norges-bank.no/en/topics/Research/",
-                "title": "Research - Norges Bank",
-                "text": "The objective of the Norges Bank Academic Programme (NBAP) is to promote macroeconomic and financial economic research and education in Norway.",
+                "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/",
+                "title": "Working Papers - Norges Bank",
+                "text": "Re-visiting the Relationship Between Oil Prices and Monetary Policy Working Papers 21 Mar 2025 Author: Hilde C. Bjørnland, Jamie L. Cross, and Jonas Hölz",
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.norges-bank.no/en/topics/Research/policy-for-research/",
-                "title": "Policy for research in Norges Bank Central Banking",
-                "text": "Researchers in NBR should spend on average 50 percent of their work time on undirected research and 50 percent on directed research.",
+                "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2017/62017/",
+                "title": "Forward guidance through interest rate projections: does it work?",
+                "text": "Norges Bank's Working Papers present research projects and reports that are generally not in their final form. Other analyses by Norges Bank's ...",
                 "source": "Norges Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
-                "published_time": "2024-01-09T00:00:00",
+                "published_time": "2017-04-19T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.norges-bank.no/en/topics/Research/",
-                "title": "Research",
+                "url": "https://www.norges-bank.no/globalassets/upload/english/publications/working-papers/2010/norges_bank_working_paper_2010_10.pdf?v=09032017122205",
+                "title": "Working paper 2010/10: Policy analysis in real time using IMF's ...",
+                "text": "Little research has been conducted on the real time data implications for models used for policy analysis in developing and emerging economies. This paper ...",
                 "source": "Norges Bank",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.norges-bank.no&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.norges-bank.no/globalassets/upload/images/forskere-i-norges-bank-nb-17579--foto_nils_stian_aasheim-16-9.jpg?v=12122022153629&mode=crop&width=800&height=450",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2008/WP-200819/",
+                "title": "Does the law of one price hold in international financial markets ...",
+                "text": "This paper investigates the validity of the law of one price (LOP) in international financial markets by examining the frequency, size and duration of ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.norges-bank.no/en/topics/Research/",
+                "title": "Research - Norges Bank",
+                "text": "The objective of the Norges Bank Academic Programme (NBAP) is to promote macroeconomic and financial economic research and education in Norway.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
             "Research working papers papers research working papers ') 2021",
-            "Research working papers papers research working papers ') 2020"
+            "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:https://www.norges-bank.no/en/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.norges-bank.no/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2013/WP-201311/",
+                "title": "Announcements of interest rate forecasts: Do policymakers stick to ...",
+                "text": "Abstract If central banks value the ex-post accuracy of their forecasts, previously announced interest rate paths might affect the current policy rate.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.norges-bank.no/contentassets/bbd4a63e690b48819313c5b27414b205/23-mai-2024---agenda-sfxc.pdf?v=03062024142129",
+                "title": "and today's agenda • GFXC updates and suggested course of action for ...",
+                "text": "Status Working Groups with participation from SFXC members. • WG on Adherence to FX Global Code • WG on FX Settlement Risk (Thomas Bengtsson ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2024-05-23T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.norges-bank.no/contentassets/ff72f3a57edf43f292e077d76ae379e5/norges_bank_working_paper_2013_11.pdf?v=09032017123138",
+                "title": "Announcements of interest rate forecasts: Do policymakers stick to ...",
+                "text": "If central banks value the ex-post accuracy of their forecasts, previously an- nounced interest rate paths might affect the current policy ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.norges-bank.no/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.norges-bank.no/en/topics/about/Mission-core-responsibilities/Legislation/executive-board-documents/principles-for-external-communication-by-norges-bank/",
+                "title": "Principles for external communication by Norges Bank",
+                "text": "The purpose of these communication principles is to contribute to safeguarding Norges Bank's reputation and ensuring trust in Norges Bank.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2021-10-27T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/news/Speeches/2008/Speech-Qvigstad-04112008/",
+                "title": "Transparency and central bank communication - Norges Bank",
+                "text": "Most central banks communicate future policy intentions in one way or another. The majority of central banks communicate indirectly through ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2008-11-04T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.norges-bank.no/contentassets/aa4e77e2ce7148cf94c42bdb0502c87a/staff_memo_02_2013.pdf?v=09032017123136",
+                "title": "Monetary policy committees and communication - Norges Bank",
+                "text": "There have also been considerable changes in the degree of transparency and in communication.",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2019/202019/",
+                "title": "The macroeconomic effects of forward communication - Norges Bank",
+                "text": "This paper provides an empirical assessment of the power of forward guidance at different horizons, shedding new light on the strength of the “forward guidance ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2019-11-06T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.norges-bank.no/en/news-events/news/News-items/2020/2020-01-23-committee-communication/",
+                "title": "Continuity in monetary policy communication - Norges Bank",
+                "text": "Norges Bank's communication shall be transparent, accountable and clear. Information about the orientation of monetary policy will be published ...",
+                "source": "Norges Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////x8vQ/R1udoKmWmqNQV2hWXG1FTWD09Pbu7vAAABEAABXJy9B5fooAACYACzIAABwFGDgAAC4wOlAAACxxd4Susbjj5eeFiZTb3OAAABmipq4AAB9kankiLke/wsd1PuiNAAAAaklEQVR4Ad3QtQHAMAwAQYXZHKb9pwwzaAB/e92DdhmmBXO24055/g2DMIphKiF0KjTuyDgJZhR8ir2QSgS5ShHkLEOQsxxBVZQVglA3CEKrEISOIhg0LwzpFJkR+ii8o+G5U8523/RBt0Zn9Ap4+7h9ywAAAABJRU5ErkJggg==",
+                "published_time": "2020-01-23T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.norges-bank.no/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

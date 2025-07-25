@@ -17,11 +17,20 @@
               },
               {
                 "url": "https://www.bcb.gov.br/en/publications/bcreports",
-                "title": "BCB Reports - Banco Central do Brasil",
-                "text": "Access to the Banco Central do Brasil´s Reports: Direct Investment Report; Financial Citizenship; International Reserves Management Report; Research Report ...",
+                "title": "BCB Reports - Banco Central",
+                "text": "BCB Reports · BCB Annual Report · Direct Investment Report · Financial Citizenship · International Reserves Management Report · Report on Social, Environmental and ...",
                 "source": "Banco Central do Brasil",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
                 "position": 2
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/publications/inflationreport",
+                "title": "Inflation Report - Banco Central do Brasil",
+                "text": "The inflation report presents the policy guidelines adopted by the Monetary Policy Committee (Copom), considerations about recent economic developments, and ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "published_time": "2024-12-19T00:00:00",
+                "position": 3
               },
               {
                 "url": "https://www.bcb.gov.br/en/publications/externalpublicationsresearch",
@@ -29,16 +38,24 @@
                 "text": "The research developed by the BCB staff is published externally in several outlets, such as journals, chapters in books and conference volumes.",
                 "source": "Banco Central do Brasil",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/publications/inflationreport/202312",
+                "title": "Inflation Report - Banco Central",
+                "text": "The inflation report presents the policy guidelines adopted by the Monetary Policy Committee (Copom), considerations about recent economic developments, ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.bcb.gov.br/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.bcb.gov.br/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -61,12 +78,12 @@
                     "url": "https://www.bcb.gov.br/en/statistics/fiscalstatistics"
                   },
                   {
-                    "title": "External sector statistics",
-                    "url": "https://www.bcb.gov.br/en/statistics/externalsectorallpubs"
-                  },
-                  {
                     "title": "Payments System Statistics",
                     "url": "https://www.bcb.gov.br/en/financialstability/paymentssystemstatistics"
+                  },
+                  {
+                    "title": "External sector statistics",
+                    "url": "https://www.bcb.gov.br/en/statistics/externalsectorstatistics"
                   },
                   {
                     "title": "Financial system statistics",
@@ -74,18 +91,26 @@
                   },
                   {
                     "title": "Open market statistics",
-                    "url": "https://www.bcb.gov.br/en/statistics/openmarketpressrelease"
+                    "url": "https://www.bcb.gov.br/en/statistics/openmarketallpubs"
                   },
                   {
                     "title": "Monetary and credit statistics",
                     "url": "https://www.bcb.gov.br/en/statistics/monetarycreditallpubs"
                   },
                   {
-                    "title": "Methodological notes",
-                    "url": "https://www.bcb.gov.br/en/statistics/methnotespressreleases"
+                    "title": "Special series",
+                    "url": "https://www.bcb.gov.br/en/statistics/specialseries"
                   }
                 ],
                 "position": 1
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/financialstability/pixstatistics",
+                "title": "Pix Statistics - Banco Central do Brasil",
+                "text": "Description: Amount of Pix transactions settled monthly in the SPI and non-SPI settled Pix transactions, considering payment orders and returns in the period.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 2
               },
               {
                 "url": "https://www.bcb.gov.br/en/statistics/monetarycreditstatistics",
@@ -94,7 +119,16 @@
                 "source": "Banco Central do Brasil",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
                 "published_time": "2025-06-27T00:00:00",
-                "position": 2
+                "position": 3
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/statistics/externalsectorstatistics",
+                "title": "External sector statistics - Banco Central",
+                "text": "The balance of payments current account recorded a deficit of USD 2.9 billion in May 2025, compared with a deficit of USD 2.5 billion in May 2024.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-25T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.bcb.gov.br/en/statistics/openmarketpressrelease",
@@ -103,12 +137,121 @@
                 "source": "Banco Central do Brasil",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
                 "published_time": "2025-06-27T00:00:00",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcb.gov.br/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.bcb.gov.br/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gov.br/en/monetarypolicy",
+                "title": "Monetary Policy - Banco Central do Brasil",
+                "text": "The BCB conducts monetary policy to achieve its main mandate. The Selic rate is the main instrument of monetary policy. It is the average interest rate charged ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/monetarypolicy/committee",
+                "title": "Monetary Policy Committee (Copom) - Banco Central do Brasil",
+                "text": "The Monetary Policy Committee (Copom) of the Banco Central do Brasil (BCB) is responsible for setting the target for the policy interest rate – the Selic rate.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/financialstability/fxpolicy",
+                "title": "Foreign exchange policy - Banco Central do Brasil",
+                "text": "The CMN establishes the guidelines for the financial relationships between the economy and the rest of the world, the FX market operations, the rules for the ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/publications/copomminutes",
+                "title": "Minutes of the Monetary Policy Committee — Copom",
+                "text": "The members of Copom analyzed the recent performance and prospects for the Brazilian and international economies, under the monetary policy framework.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-24T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/publications/mpr-boxes",
+                "title": "Monetary Policy Report Boxes - Banco Central do Brasil",
+                "text": "The Monetary Policy Report (named Inflation Report between 1999 and 2024) presents the policy guidelines adopted by the Monetary Policy Committee (Copom), ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcb.gov.br/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gov.br/en/about/presentatspeechs",
+                "title": "Presentations and speeches - Banco Central do Brasil",
+                "text": "Presentations and speeches. All speeches are also available in the BCB's Portuguese website. 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016 ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/pressreleasesbyyear",
+                "title": "Press releases by year - Banco Central",
+                "text": "Wednesday, 29 Copom increases the Selic rate to 13.25% pa Wednesday, 29 BCB conducts its 1st Cyber Exercise with supervised institutions.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/about/presentatspeechs?ano=2021",
+                "title": "Presentations and speeches - Banco Central do Brasil",
+                "text": "Presentations and speeches. All speeches are also available in the BCB's Portuguese website. 2025 2024 2023 2022 2021 2020 2019 2018 2017",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcb.gov.br/ingles/infecon/mab/previous/mab200607comments.pdf",
+                "title": "PRESS RELEASE - Banco Central do Brasil",
+                "text": "6. 2. 6. 45. 5. 64. LTN. 1. 0. 1. 1. 0. 3. LFT. 1. 1. 2. 1. 0. 5. LFT-B. 0. 0. 1. 0. 0. 1. NTN-B. 2. 0. 2. 38. 0. 43. NTN-C. 1. 0. 0. 5. 0. 6. NTN-F.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/pressreleasesbyyear?ano=2020",
+                "title": "Press releases by year - Banco Central do Brasil",
+                "text": "Friday, 18 · BIS evaluates the retail payment services in Latin America and the Caribbean · Friday, 18 · Agenda BC# - BCB announces the rules for the Cycle 1 of ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcb.gov.br/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -120,17 +263,139 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bcb.gov.br/en/publications/workingpaperseries",
+                "title": "Working Paper Series - Banco Central do Brasil",
+                "text": "Created in 1999, Working Paper Series is the main vehicle for the dissemination of the Banco Central do Brasil´s research. Find the latest Working Papers.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/wps36.pdf",
+                "title": "Working Paper Series - Banco Central",
+                "text": "This paper asks if inflation targeting is a viable alternative for emerging markets, focusing on fast passthrough, forecasting difficulty, dollarization, and ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/wps03.pdf",
+                "title": "Working Paper Series - Banco Central do Brasil",
+                "text": "The Brazilian position on the issue of private sector participation in the efforts to forestall and resolve emerging markets crises is that ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
                 "url": "https://www.bcb.gov.br/en/publications/research",
                 "title": "BCB Research - Banco Central do Brasil",
                 "text": "The results of the BCB's research activities are disseminated in this Research Hub, particularly in the Working Paper Series, with more than 600 publications.",
                 "source": "Banco Central do Brasil",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gov.br/en/publications/bestworkingpaperaward",
+                "title": "Best Working Paper Award - Banco Central do Brasil",
+                "text": "The award was created in 2016 and comprises two categories: Economics; and Banking and Finance. The choice of the winners is conducted in two stages.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2022"
+          ],
+          "query": {
+            "q": "site:https://www.bcb.gov.br/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gov.br/content/about/legislation_norms_docs/resolution-387-esg-climate-responsibility-policy.pdf",
+                "title": "BCB RESOLUTION NO. 387, OF JUNE 5, 2024 Updates Banco ...",
+                "text": "DISCLAIMER: This document represents the best effort of Banco Central do Brasil (BCB) to provide an English version of the original ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "published_time": "2024-06-05T00:00:00",
                 "position": 1
+              },
+              {
+                "url": "https://www.bcb.gov.br/conteudo/eventos/Documents/Seminarios-Riscos-Estabilidade-Financeira-Economia-Bancaria/2017_XIISemRiscosBCB/10.08/2.3%20Parallel%20II%20-%2014h30/slides%20Miao.pdf",
+                "title": "Are Credit Rating Agencies Discredited? Price Effects from ...",
+                "text": "H7: CDS spreads responds less in absolute value to CRA announcements in the post-GFC period compared to the pre-GFC period.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "published_time": "2017-08-10T00:00:00",
+                "position": 2
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcb.gov.br/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.bcb.gov.br/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gov.br/pec/wps/ingl/wps555.pdf",
+                "title": "Seeing the Forest for the Trees: using hLDA models to ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcb.gov.br&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///672f6dfab30c5ff07d0a048a12649da07b0a710937817343ab5d795b4cbb480b",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcb.gov.br/pec/wps/ingl/wps555.pdf",
+                "title": "Seeing the Forest for the Trees: using hLDA models to ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcb.gov.br&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7cf2831d13412905398cf8ab546923b4d2e5124499b1a90e1d0e4fdc12dfa1a4",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcb.gov.br/pec/wps/ingl/wps555.pdf",
+                "title": "Seeing the Forest for the Trees: using hLDA models to ...",
+                "source": "Banco Central do Brasil",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcb.gov.br&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///49eba69ba0af6af6453b94dfd23074c0ef4f6ac3f0fcbbd37c84039a60bdaec8",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcb.gov.br/content/agendas/Documentos/Conferencia_anual_bc/2025/14/Sessao_1A_Vanessa_Cardeal/1A1A_ARISMENDI-ZAMBRANO-Informativeness_of_Fed_Chair-Communication.pdf",
+                "title": "Informativeness of the Federal Reserve Chair Communication's ...",
+                "source": "www.bcb.gov.br",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bcb.gov.br&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7b3c84b2e981282c773d7eb0a55cc2d63e0df9fc4a135120ddc72437893fe329",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gov.br/content/agendas/Documentos/Conferencia_anual_bc/2025/14/Sessao_1A_Vanessa_Cardeal/1A1A_ARISMENDI-ZAMBRANO-Informativeness_of_Fed_Chair-Communication.pdf",
+                "title": "Informativeness of the Federal Reserve Chair Communication's ...",
+                "text": "What we do: We propose to measure the management communication risk profile of the different Federal Reserve.",
+                "source": "Banco Central do Brasil",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX////29vb6+vr8/PzDwsLd3NzPzs+1tbXv7+/q6urW1dV2d3Z6d3hkZGS/v7/j4uIyMTEAAABPT09KSEg5OTlWVFQ/PDxJSUkuLC2OjIyHh4ecnJzn5+ejo6NqaWmvrKwTDxAnHB+UlJQbGhs5MjTLyMgUAAcqKiqnrVVqAAABEklEQVR4AY3QBYLDIBBA0WkoGyA6ENd673/DhaHuP54XBX5sEbw3tuTv8S8UQAn5SCqKlX94mKQPluWo/VO5wfDBCsTSo6oeUBi0qIAxRshcF6wtNnHbdqnDpG3bfiBhPFv0nUaXyUAV6BoZ4UBflybTNEUZQBZPthl8HJfuyYPN/WggBxs748rhYw+YcvANij1gisajnG7/k+MsB9leBqEgZDILCBtjzPpmhFL3gDgWhD6TcpvD3m6XnQKb6MdNbnFryrIirMpSxxlQAZMafTOAytG243BOEFbtngEMsz04DPCAkwSqw0MANxhprY9n7IsBbmJCCLkxqaIyCY+xEXeVbUff+VDQI2UUvEhwaoAf+we4txTyEpGhlgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcb.gov.br/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

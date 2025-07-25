@@ -1,1 +1,228 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/pubblicazioni/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Publications - Banca d'Italia",
+        "text": "Banca d'Italia's publications are economic, financial, historical, and legal in nature and give an account of the Bank's activities.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/two-new-publications-highlight-banca-d-italia-s-commitment-to-sustainability/",
+        "title": "Two new publications highlight Banca d'Italia's commitment to sustainability",
+        "text": "The Activity and Sustainability Report is how the Bank presents its activities to Parliament, the Government and the general public. As of this ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/pubblicazioni/menu/pubblicazioni-istituzionali.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Institutional publications - Banca d'Italia",
+        "text": "The Annual Report contains a comprehensive analysis of the key developments in the Italian and international economy in the previous year and the early months ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/release-of-the-annual-reports-on-the-regional-economies-2025/",
+        "title": "Release of the annual reports on the Regional Economies - 2025",
+        "text": "From 9 June to 2 July the annual reports on the Regional Economies will be published on this website, according to the schedule below (only in Italian).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/pubblicazioni/menu/statistiche.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Statistical publications - Banca d'Italia",
+        "text": "This is a monthly publication of statistics on monetary policy, banks' balance sheets and bank interest rates. Most of the statistics are harmonized at the ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/pubblicazioni/bollettino-statistico/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Statistical Bulletin (discontinued) - Banca d'Italia",
+        "text": "Since 16 January 2017 Banca d'Italia's statistical data has been published in the Statistics series with a new layout and renewed contents.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bancaditalia.it/statistiche/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Statistics - Banca d'Italia",
+        "text": "This section provides statistical data on Italy's balance of payments and international investment position, as well as other statistics on external ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/pubblicazioni/moneta-banche/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Banks and Money: National Data - Banca d'Italia",
+        "text": "This is a monthly publication of statistics on monetary policy, banks' balance sheets and bank interest rates. Most of the statistics are harmonized at the ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bancaditalia.it/statistiche/tematiche/stat-storiche/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Historical statistics - Banca d'Italia",
+        "text": "The historical statistics are divided into two main topics 'Economy' and 'Money, banking and finance'. A space is dedicated to micro-data and other large ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/compiti/polmon-garanzie/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "The implementation of monetary policy and emergency liquidity ...",
+        "text": "Banca d'Italia is responsible for the implementation of monetary policy, together with the other national central banks.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/compiti/polmon-garanzie/controparti-politica/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Monetary policy counterparties - Banca d'Italia",
+        "text": "To qualify for participation in monetary policy operations, counterparties must be financially sound, both on an individual and consolidated basis. The ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/a-general-framework-to-assess-the-smooth-implementation-of-monetary-policy-an-application-to-the-introduction-of-the-digital-euro/",
+        "title": "A general framework to assess the smooth implementation of monetary ...",
+        "text": "This paper proposes a methodological framework for estimating the maximum amount of digital euro (D€) that is consistent with a smooth monetary ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bancaditalia.it/compiti/polmon-garanzie/esito-riesame-strategia-pol-mon/dichiarazione-strategia/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "The ECB's monetary policy strategy statement - Banca d'Italia",
+        "text": "The primary objective of the ECB is to maintain price stability in the euro area. Without prejudice to the price stability objective, the Eurosystem shall ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/compiti/risoluzione-gestione-crisi/normativa/fonti-nazionali-bdi/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "National legislation - Banca d'Italia rules and regulations",
+        "text": "The primary legislative sources empower Banca d'Italia to regulate some aspects of managing crises in banking and financial intermediaries.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/pubblicazioni/interventi-governatore/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Speeches by the Governor - Banca d'Italia",
+        "text": "The section contains all the speeches by the Governor. You can also see: Interviews, Latest publications.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/interventi/governatore/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Speeches by the Governor - Banca d'Italia",
+        "text": "All the statements and the interviews by the Governor of Banca d'Italia Fabio Panetta.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/compiti/risoluzione-gestione-crisi/risorse/interventi/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Speeches - Banca d'Italia",
+        "text": "Here you can access Banca d'Italia's multimedia content (audio, video, press), interviews, official statements, in-depth articles and media kits. Go to the page ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/chi-siamo/funzioni-governance/direttorio/fabio-panetta/interventi/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Speeches - Banca d'Italia",
+        "text": "Here you can access Banca d'Italia's multimedia content (audio, video, press), interviews, official statements, in-depth articles and media kits. Go to the page ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/comunicati/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Press releases - Banca d'Italia",
+        "text": "Banca d'Italia's press releases announce major events and initiatives, such as the issuing of publications, memoranda of understanding with other ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/new-releases-of-working-papers-occasional-papers-and-newsletter-of-the-economic-research-23-april-2025/?com.dotmarketing.htmlpage.language=1",
+        "title": "New releases of Working Papers, Occasional Papers and Newsletter ...",
+        "text": "Today Banca d'Italia has released two new Working papers (nn. 1486-1487), four new Occasional Papers (nn. 932-935) and the No. 78 of the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/focus/sostenibilita/studi-convegni/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Economic research and sustainability statistics - Banca d'Italia",
+        "text": "Research in the climate and energy field is disseminated through Banca d'Italia's scientific series ('Working Papers' and 'Occasional Papers'), essays and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/new-releases-of-working-papers-and-occasional-papers-of-banca-d-italia-17-june-2025/",
+        "title": "New releases of Working Papers and Occasional Papers of Banca d'Italia",
+        "text": "Today Banca d'Italia has released two new Working Papers (nn. 1488-1489) and five new Occasional Papers (nn. 943-947).",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/latest-updates-on-the-fight-against-usury/?com.dotmarketing.htmlpage.language=1",
+        "title": "Latest updates on the fight against usury - Banca d'Italia",
+        "text": "The Bank of Italy updates and streamlines the information published on its website on the fight against usury (Law 108/96) in order to take account of changes.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/ecb-updates-its-climate-change-related-statistical-indicators/",
+        "title": "ECB updates its climate change-related statistical indicators",
+        "text": "These indicators provide systemic insights into how financial markets are addressing the green transition and how financial institutions might ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/compiti/operazioni-cambi/avvisi/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Notices - Banca d'Italia",
+        "text": "Notices · Data Pubblicazione: 26 June 2025. Rial if the Islamic Republic of Iran - suspension · Data Pubblicazione: 9 June 2025 · Data Pubblicazione: 28 March 2025.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/chi-siamo/lavorare-bi/informazioni-concorsi/emanati/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Banca d'Italia - Notices of past recruitment competitions (selection ...",
+        "text": "The notices issued for past recruitment competitions are set out below, inclusive of thecorresponding exam syllabuses. The information that can be derived ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/notice-to-market-operators-electronic-tender-notices/?com.dotmarketing.htmlpage.language=1",
+        "title": "Notice to market operators. Electronic tender notices - Banca d'Italia",
+        "text": "Market operators intending to use the service are invited to register on the Electronic Tender Portal (https://gareappalti.bancaditalia.it), accepting the \" ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bancaditalia.it/compiti/risoluzione-gestione-crisi/fondi-risol-crisi/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Notices - Banca d'Italia",
+        "text": "Notices · Data Pubblicazione: 31 October 2024 · Data Pubblicazione: 28 December 2023 · Data Pubblicazione: 3 November 2023 · Data Pubblicazione: 26 May 2023 · Data ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bancaditalia.it/chi-siamo/bandigara/avvisi/index.html?com.dotmarketing.htmlpage.language=1",
+        "title": "Bank of Italy - Notices about awarded tenders (launched when Legislative ...",
+        "text": "In this section, you will find the notices about awarded tenders that were launched when Legislative Decree 163/2006, now repealed, was in force.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/communication-by-the-bank-of-italy-regulation-eu-2023-1114-on-markets-in-crypto-assets-micar/",
+        "title": "Regulation (EU) 2023/1114 on Markets in Crypto-assets (MiCAR)",
+        "text": "Following its Communication on Decentralized Technology in Finance and Crypto-assets issued on 15 June 2022, today the Bank of Italy has ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bancaditalia.it/media/notizia/the-bank-of-italy-in-conversation-with-communication-experts",
+        "title": "Banca d'Italia - The Bank of Italy in conversation with ...",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

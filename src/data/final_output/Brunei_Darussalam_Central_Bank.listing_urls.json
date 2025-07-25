@@ -7,6 +7,12 @@
         "title": "Publications - BDCB",
         "text": "Find out more about BDCB's announcements here. Publication Type Press Releases Reports Education and Awareness Speeches Announcements Year",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bdcb.gov.bn/publications?flt_types%5B0%5D=01HGMSNAJXZHM7W8ZWPCCQ29JS",
+        "title": "Publications - BDCB",
+        "text": "Publications. Find out more about BDCB's announcements here. Publication Type. Press Releases. Reports. Education and Awareness. Speeches. Announcements.",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -30,6 +36,12 @@
         "title": "Monetary and Financial Statistics - BDCB",
         "text": "Monetary and Financial Statistics. Select options. Interest Rates. Central Bank Survey. Depository Corporations Survey. Other Depository Corporations Survey.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bdcb.gov.bn/statistics/performance-review-of-banks-and-finance-companies",
+        "title": "Performance Review Or Banks And Finance Companies - BDCB",
+        "text": "Performance Review Of Banks And Finance Companies. Browse by Financial Institution Indicators, Structure of Financial System, Assets.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -40,19 +52,19 @@
         "url": "https://www.bdcb.gov.bn/regulatory/regulations?flt_sector%5B0%5D=01hhe1s38s6cvn9x970sycryhy",
         "title": "Regulations - BDCB",
         "text": "Topics: Conduct and Consumer Protection, Consumer Finance Disclosure Framework, Financial Reporting, Governance, Licensing, Authorisation And Registration",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bdcb.gov.bn/monetary-policy",
         "title": "Monetary Policy - BDCB",
-        "text": null,
-        "listing_probability": 0.7
+        "text": "Learn more about BDCB's monetary policy framework, monetary operations and other related information.",
+        "listing_probability": 0.3
       },
       {
         "url": "https://www.bdcb.gov.bn/monetary-policy/monetary-policy-framework",
         "title": "Monetary Policy Framework - BDCB",
-        "text": null,
-        "listing_probability": 0.2
+        "text": "Brunei Darussalam's monetary system is based on the Currency Board Arrangement, which is underpinned by the Currency Interchangeability Agreement (CIA)",
+        "listing_probability": 0.05
       }
     ]
   }

@@ -3,10 +3,92 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.sama.gov.sa/en-US/EconomicReports/pages/annualreport.aspx",
+        "title": "Annual Reports",
+        "text": "Annual Report · Type · Name · Published Date · Title.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.sama.gov.sa/en-US/payment/pages/publications.aspx",
         "title": "Publications",
         "text": "Home · News. Supervision. Rulebook. Licenses. Licensed Entities · Banks · Finance · Payments · Licensed Money Exchange Centers · Credit Information.",
-        "listing_probability": 0.98
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-us/economicreports/pages/annualreport.aspx?paged=true&p_sortbehavior=0&p_samasortorder=45%2E0000000000000&p_id=41&pagefirstrow=256&&view={0bf8da9d-5cf3-4408-95cc-240396b022f3}",
+        "title": "Annual Reports",
+        "text": "Annual Reports ; Fifty Eighth Annual Report, 2/1/2024, docicon ; Fifty Seventh Annual Report, 7/14/2021, docicon ; Fifty sixth Annual Report, 8/17/2020 ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-us/economicreports/pages/annualreport.aspx?View={e672847e-173c-4344-be1f-66280d034f46}&SortField=SAMAFAQSortOrder&SortDir=Asc",
+        "title": "Annual Reports",
+        "text": "Annual Report ; Second Annual Report.pdf, Second Annual Report, 6/19/2014, Second Annual Report ; Third Annual Report.pdf, Third Annual Report, 6/19/2014, Third ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.sama.gov.sa/en-US/EconomicReports/pages/monthlystatistics.aspx",
+        "title": "Monthly Statistics",
+        "text": "Annual Reports · Monthly Statistics · Inflation Report · Statistical Report · Data Request · API · Open Data Portal Summary and Objectives · Key Economic Developments ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/EconomicReports/pages/quarterlystatistics.aspx",
+        "title": "Quarterly Statistics - Saudi Central Bank",
+        "text": "Annual Reports · Monthly Statistics · Inflation Report · Statistical Report · Data Request · API · Open Data Portal Summary and Objectives ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/EconomicReports/Pages/Summary.aspx",
+        "title": "Open Data Portal Summary and Objectives",
+        "text": "The Open Data Portal aims to provide a specific set of public data for researchers, specialists, the private and public sectors, and international and regional ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/EconomicReports/pages/database.aspx",
+        "title": "Saudi Central Bank Portal For Open Data",
+        "text": "Monetary and Financial Statistics · Clearing and Payment Systems · Bank Branches and Remittance Centers · Exchange Rates and Interest Rates · Insurance Sector.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-us/indices/pages/special_data_dissemination_standard.aspx",
+        "title": "Special Data Dissemination Standard",
+        "text": "Weekly Point of Sales Transactions · Weekly Money Supply · Special Data Dissemination StandardCurrently selected · Weekly Points Of Sale Transactions ...",
+        "listing_probability": 0.8
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.sama.gov.sa/en-US/Laws/pages/bankingrulesandregulations.aspx",
+        "title": "Banking Rules And Regulations",
+        "text": "Banking Rules And Regulations. Banking · Finance · Insurance · Money Exchangers · Credit information · Consumer Protection · Open Banking Policy ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/News/Pages/news-853.aspx",
+        "title": "SAMA Issues Implementing Regulations for Law of Payments ...",
+        "text": "The Saudi Central Bank (SAMA) announces the issuance of the Implementing Regulations for the Law of Payments and Payment Services.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/AntiMoney/pages/rulesandregulations.aspx",
+        "title": "Rules and Regulations",
+        "text": "Law of Terrorism Crimes and Financing · Anti-Money Laundering Law.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/LawsRegulations/Pages/default.aspx",
+        "title": "Laws and Regulations Home",
+        "text": "Home · News. Supervision. Rulebook. Licenses. Licensed Entities · Banks · Finance · Payments · Licensed Money Exchange Centers · Credit Information.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -20,16 +102,68 @@
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.sama.gov.sa/en-US/News/Pages/SAMA%E2%80%99sPressReleaseontheIssuanceofSixLicensesforConductingFinanceActivitiesintheKingdom.aspx",
-        "title": "SAMA's Press Release on the Issuance of Six Licenses for ...",
-        "text": "1. A license for real estate finance activity to The Saudi Investment Bank; · 2. A license for financial leasing activity, and SMEs and productive assets finance ...",
+        "url": "https://www.sama.gov.sa/en-US/News/pages/allspeech.aspx",
+        "title": "All Speech",
+        "text": "H.E. SAMA Governor Ayman Al-Sayari's Speech at the 48th Annual Meeting of the Council of Arab Central Banks and Monetary Authorities' Governors. On the occasion ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-us/news/pages/allspeech.aspx?speech=%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8",
+        "title": "All Speech",
+        "text": "All · Governor · Vice Governor.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/News/Pages/News20040515.aspx",
+        "title": "SPEECH BY H.E. DR. MUHAMMED AL-JASSER VICE GOVERNOR ...",
+        "text": "Home · News. Supervision. Rulebook. Licenses. Licensed Entities · Banks · Finance · Payments · Licensed Money Exchange Centers · Credit Information.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.sama.gov.sa/en-us/news/pages/news30092015.aspx",
-        "title": "Press release",
-        "text": "For the Liquidity Coverage Ratio, Saudi Arabia was deemed 'largely compliant'. The banking sector maintains a very high liquidity position, ...",
-        "listing_probability": 0.08
+        "url": "https://www.sama.gov.sa/en-US/News/Pages/News20040329.aspx",
+        "title": "A Speech by H.E. the Governor of SAMA Standards for Regulations ...",
+        "text": "Home · News. Supervision. Rulebook. Licenses. Licensed Entities · Banks · Finance · Payments · Licensed Money Exchange Centers · Credit Information.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.sama.gov.sa/en-US/EconomicResearch/pages/workingpapers.aspx",
+        "title": "Working Papers",
+        "text": "Working Papers ; An Empirical Analysis of Behavioral Finance in the Saudi Stock Market.pdf. An Empirical Analysis of Behavioral Finance in the Saudi Stock Market.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/EconomicResearch/Pages/Joint_Research_Program.aspx",
+        "title": "Joint Research Program",
+        "text": "Overview: This program is one of the Saudi Central Bank (SAMA) initiatives that aim to support research in economics and finance.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.sama.gov.sa/en-US/News/Pages/news13112019.aspx",
+        "title": "SAMA Updates the Actuarial Regulations for Insurance and ...",
+        "text": "The Saudi Arabian Monetary Authority (SAMA) announces the updating of the actuarial regulations of insurance and reinsurance companies, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-us/news/pages/news-604.aspx",
+        "title": "SAMA Updates Rules on Disclosure of Interest Rates on Financing and ...",
+        "text": "The Saudi Arabian Monetary Authority (SAMA) announces the issuance of the updated version of the Rules on Disclosure of Interest Rates on ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.sama.gov.sa/en-US/News/pages/news-775.aspx",
+        "title": "Saudi Central Bank Updates its Regulatory Sandbox Framework",
+        "text": "The Saudi Central Bank (SAMA) announced that it has updated the Framework of its Regulatory Sandbox.",
+        "listing_probability": 0.1
       }
     ]
   }

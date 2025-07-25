@@ -16,29 +16,41 @@
                 "position": 1
               },
               {
-                "url": "https://www.bnm.gov.my/publications",
-                "title": "Publications - Bank Negara Malaysia",
+                "url": "https://www.bnm.gov.my/publications/mhs",
+                "title": "Monthly Highlights and Statistics - Bank Negara Malaysia",
+                "text": "These publications aim to be the primary source for monthly updates and statistics on economic and financial developments.",
                 "source": "Bank Negara Malaysia",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bnm.gov.my/documents/20124/3036198/mhs_cover.png",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bnm.gov.my/publications",
+                "url": "https://www.bnm.gov.my/payment-systems-publications",
                 "title": "Publications - Bank Negara Malaysia",
+                "text": "Publications · Financial Stability and Payment Systems Report · EMEAP publication · Research Papers on Payment Systems ...",
                 "source": "Bank Negara Malaysia",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bnm.gov.my/documents/20124/17523457/fsr24-carousel.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bnm.gov.my/publications/fsr/index",
+                "title": "Financial Stability Review - Bank Negara Malaysia",
+                "text": "Financial Stability Review ; 03 Oct. 2024, Financial Stability Review - First Half 2024 ; 20 Mar. 2024, Financial Stability Review - Second Half 2023 ; 09 Oct.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/publications/ar2023?pr",
+                "title": "BNM Annual Report 2023 - Bank Negara Malaysia",
+                "text": "As part of our statutory obligations, we are publishing our Annual Report for the year ending 31 December 2023. This publication details our roles and functions ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Publications reports publications reports list",
-            "Publications reports publications reports 2022"
-          ],
           "query": {
-            "q": "site:http://www.bnm.gov.my/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bnm.gov.my/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,12 +62,20 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bnm.gov.my/-/monthly-highlights-statistics-in-march-2023",
-                "title": "Monthly Highlights & Statistics in March 2023 - Bank Negara Malaysia",
-                "text": "Bank Negara Malaysia (BNM) is pleased to inform that from August 2022 onwards, the publication of statistical tables related to loans/financing will be revised ...",
+                "url": "https://www.bnm.gov.my/publications/mhs",
+                "title": "Monthly Highlights and Statistics - Bank Negara Malaysia",
+                "text": "These publications aim to be the primary source for monthly updates and statistics on economic and financial developments.",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 1
+              },
+              {
+                "url": "https://www.bnm.gov.my/msb-2024",
+                "title": "Monthly Highlights & Statistics 2024 - Bank Negara Malaysia",
+                "text": "These publications aim to be the primary source for monthly updates and statistics on economic and financial developments.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 2
               },
               {
                 "url": "https://www.bnm.gov.my/rates-statistics",
@@ -63,7 +83,37 @@
                 "text": "Statistics Homepage\n\nBNM publishes daily rates and trading volumes from the Kuala Lumpur foreign exchange market, interbank money market, and government bond ...",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
-                "position": 2
+                "sublinks": [
+                  {
+                    "title": "Payment Statistics",
+                    "url": "https://www.bnm.gov.my/payment-statistics"
+                  },
+                  {
+                    "title": "Monthly Highlights and Statistics",
+                    "url": "https://www.bnm.gov.my/publications/mhs"
+                  },
+                  {
+                    "title": "National Summary Data Page",
+                    "url": "https://www.bnm.gov.my/national-summary-data-page-for-malaysia"
+                  },
+                  {
+                    "title": "Exchange Rates",
+                    "url": "https://www.bnm.gov.my/exchange-rates"
+                  },
+                  {
+                    "title": "Currency Converter",
+                    "url": "https://www.bnm.gov.my/currency-converter"
+                  },
+                  {
+                    "title": "Statement of Assets & Liabilities",
+                    "url": "https://www.bnm.gov.my/bnmstatement/-/tag/bnmstats-2024"
+                  },
+                  {
+                    "title": "Interest Rates & Volumes",
+                    "url": "https://www.bnm.gov.my/interest-rates-volumes"
+                  }
+                ],
+                "position": 3
               },
               {
                 "url": "https://www.bnm.gov.my/payment-statistics",
@@ -71,18 +121,20 @@
                 "text": "Statistics on Payment and Settlement Systems in Selected Countries. For general enquiries: BNMTELELINK Contact Centre 1-300-88-5465 Monday - Friday 9am - 5pm.",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/-/quarterly-bulletin-1q-2025",
+                "title": "Quarterly Bulletin 1Q 2025 - Bank Negara Malaysia",
+                "text": "Key Highlights for 1Q 2025 · GDP grew by 4.4% · Headline inflation moderated to 1.5% · Continued improvement in the labour market · The ringgit remained stable ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin excel",
-            "Statistics bulletin data statistics data bulletin 2022",
-            "Statistics bulletin data statistics data bulletin 2021"
-          ],
           "query": {
-            "q": "site:http://www.bnm.gov.my/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bnm.gov.my/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -94,37 +146,56 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bnm.gov.my/sandbox/regulations",
-                "title": "Sandbox: Understanding Regulations - Bank Negara Malaysia",
-                "text": "Step 1: Determine applicable scope of regulated activity or entity · Step 2: Identify definition of regulated activity or entity under the legislation or ...",
+                "url": "https://www.bnm.gov.my/legislation-guidelines",
+                "title": "Legislation & Guidelines - Bank Negara Malaysia",
+                "text": "Legislation & Guidelines. Acts. Money Services Business Act 2011 (Act731) · Anti-Money Laundering and Anti-Terrorism Financing Act 2001 (Act 613) ...",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.bnm.gov.my/-/policy-doc-msb-sector-onboarding",
-                "title": "Policy Document on Anti-Money Laundering, Countering Financing ...",
-                "text": "The policy document sets out the minimum requirements and standards that an approved licensed Money Services Business must observe in implementing non ...",
+                "url": "https://www.bnm.gov.my/guidelines/standards",
+                "title": "Guidelines/Standards - Bank Negara Malaysia",
+                "text": "Payment System · Overview on Malaysian Payment Systems · Malaysian Payment Systems · Legal Framework · Financial Services Act 2013 and Islamic Financial Services ...",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bnm.gov.my/-/policy-document-on-shareholder-suitability-notification-and-application-procedures",
-                "title": "Policy Document on Shareholder Suitability - Bank Negara Malaysia",
-                "text": "Policy Document on Shareholder Suitability - Notification and Application Procedures. Release Date: 04 Jun 2019.",
+                "url": "https://www.bnm.gov.my/-/pd-amlcftcpftfs-fi",
+                "title": "Policy Document on Anti-Money Laundering, Countering Financing ...",
+                "text": "This policy document incorporates the recent updates to the Financial Action Task Force's Standards and enhances clarity on the AML/CFT/CPF requirements ...",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "published_time": "2024-02-05T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bnm.gov.my/-/pd-adjusters",
+                "title": "Policy Document on Registration Procedures and Requirements on ...",
+                "text": "This policy document aims to enhance the professionalism of registered adjusters in managing their business and dealing with customers.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "published_time": "2023-06-01T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/-/pd-codeconduct-wholesalefinmkt",
+                "title": "Policy Document on Code of Conduct for Malaysia Wholesale Financial ...",
+                "text": "This policy document sets out principles to be observed by market participants to help ensure an orderly functioning of the wholesale financial markets.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
-            "Policy regulations guidelines policy regulations 2021"
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.bnm.gov.my/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bnm.gov.my/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -154,21 +225,31 @@
               {
                 "url": "https://www.bnm.gov.my/press-releases-main",
                 "title": "Press Releases - Bank Negara Malaysia",
-                "text": "20 Dec 2021. BNM's Disaster Relief Facility 2022 for MSMEs Affected by the Recent Floods ; 15 Dec 2021. BNM Launches LFSA's 25th Anniversary Commemorative Coins.",
+                "text": "Bank Negara Malaysia press releases include monetary and financial developments, international reserves, disaster relief, commemorative coins, and currency ...",
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bnm.gov.my/speeches-interviews/-/tag/zamani",
+                "title": "Speeches & Interviews - Bank Negara Malaysia",
+                "text": "Date, Title. 20 Jul 2010. Deputy Governor's Keynote Address at International Financial Crime and Terrorism Financing Conference 2010. 02 Jun 2010.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/press-release-2025",
+                "title": "Press release 2025 - Bank Negara Malaysia",
+                "text": "12 Jun 2025. BNM Enhances Flexibility for Corporates with a Full Rollout of the Qualified Resident Investor Programme ; 09 Jun 2025. International Reserves of ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "News speeches press news speeches press today",
-            "News speeches press news speeches press pdf",
-            "News speeches press news speeches press 2022",
-            "News speeches press news speeches press 2021"
-          ],
           "query": {
-            "q": "site:http://www.bnm.gov.my/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bnm.gov.my/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -186,11 +267,204 @@
                 "source": "Bank Negara Malaysia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
                 "position": 1
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/826852/Financial_Stress_and_Monetary_Policy_in_ASEAN-5.pdf",
+                "title": "Bank Negara Malaysia Working Papers WP6/2015 The Transmission ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///86d624dcbc8a5ab9864eb7d9fb10fda9e6b189544a2bad1de7a436cdb6bb05f2",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnm.gov.my/web/mifc/-/marc-affirms-ratings-on-george-kent-s-debt-papers",
+                "title": "MARC affirms ratings on George Kent's debt papers - The ...",
+                "source": "MIFC",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.mifc.com/documents/6319173/6382968/market+5.jpg/438c9f5f-e359-371a-cc38-fa7d58a18884?t=1646565849130",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bnm.gov.my/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnm.gov.my/announcements",
+                "title": "Announcements - Bank Negara Malaysia",
+                "text": "Latest Announcement for Foreign Exchange Policy ; 17 Apr 2025. Notice: Export of Goods (EOG) Reporting System Issue ; 15 Nov 2024. Foreign Exchange Policy ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnm.gov.my/notices-announcements",
+                "title": "Public Notices - Bank Negara Malaysia",
+                "text": "Date, Title. 04 Jul 2025. Financial Consumer Alert update. 20 Jun 2025. Exposure Draft on Capital Adequacy Framework (Internal ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnm.gov.my/notices-announcements/-/tag/notices-2022",
+                "title": "Notices & Announcements - Bank Negara Malaysia",
+                "text": "Content with tag notices-2022 . ; 15 Dec 2022. Exposure Draft on Hajah and Darurah ; 02 Dec 2022. Policy Document on Climate Risk Management and Scenario Analysis.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnm.gov.my/announcements/-/asset_publisher/JDbVDmpoXZyO/content/online-fep-submission-temporarily-unavailable-on-5-and-6-september-20-1",
+                "title": "Announcements - Bank Negara Malaysia",
+                "text": "Foreign Exchange Policy · Overview and Policies · Submission Of Application And Report · Announcements · Contact Us ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/notices-announcements/-/tag/notices-2021",
+                "title": "Notices & Announcements - Bank Negara Malaysia",
+                "text": "Content with tag notices-2021 . ; 27 Dec 2021. Ruling of the BNM Shariah Advisory Council at its 217th Meeting ; 15 Dec 2021. Exposure Draft on Payment System ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bnm.gov.my/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/60360/Foreign+Exchange+Notices_Consolidated.pdf",
+                "title": "Foreign Exchange Policy Notices - Bank Negara Malaysia",
+                "text": "Terms used in the FEP Notices shall have the same meanings assigned to them in the FSA, the IFSA and the IA, unless otherwise defined or the ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "published_time": "2024-11-15T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnm.gov.my/notices-announcements",
+                "title": "Public Notices - Bank Negara Malaysia",
+                "text": "Date, Title. 04 Jul 2025. Financial Consumer Alert update. 20 Jun 2025. Exposure Draft on Capital Adequacy Framework (Internal ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnm.gov.my/-/foreign-exchange-notices",
+                "title": "Foreign Exchange Notices - Bank Negara Malaysia",
+                "text": "The Foreign Exchange Notices set out-- (a) approvals of the Bank for transactions which otherwise are prohibited under section 214(2) read together with ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/60360/Notice+7_Export+of+Goods.pdf",
+                "title": "Notice 7 - Export of Goods - Bank Negara Malaysia",
+                "text": "(c) earlier than or in accordance with the payment date of the export contract which shall not exceed six (6) months from the date of shipment.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/60360/Notice+4_Payment+and+Receipt.pdf",
+                "title": "Notice 4 Foreign Exchange Policy Notices Page 1 of 10 NOTICE 4",
+                "text": "A person is allowed to make or receive a payment arising from any transaction approved in writing by the Bank under the FEP Notices or otherwise approved in.",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bnm.gov.my/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.bnm.gov.my/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/810293/Session+6+-+Effective.pdf/be75e430-22f5-ef6e-46a3-ce96cfc63b81?t=1583918574805",
+                "title": "Communication of statistics",
+                "source": "Bank Negara Malaysia",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///4ccf0de74878349676ec3d889849ce04fa54f28be8d129001d4d5ae3d18f1862",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/810293/Session+6+-+Effective.pdf/be75e430-22f5-ef6e-46a3-ce96cfc63b81?t=1583918574805",
+                "title": "Communication of statistics",
+                "source": "Bank Negara Malaysia",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///3c7950a04de3dee85b3067487601dcb32939dddfc6da351297754ae8cdb8521b",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/809730/S02_03_Slide_KimLengYeah.pdf",
+                "title": "Enhancing the communication of statistics for better ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///f2f2260016526063e3e3be5cdf7b4ac40afa9eb82766e9755fbdab6d9c1ee196",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/810293/Session+4+-+Effective+research+written+in+economics%2C+finance+and+statisticians.pdf/d518a347-7273-af57-deba-c2f1d96596b0?t=1583918602367",
+                "title": "Communication of statistics",
+                "source": "Bank Negara Malaysia",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnm.gov.my&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///d4a27bb21bd9ab8695f19fd76fd51d6a298b54c7c09ac42d393bd2cda90d658e",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnm.gov.my/documents/20124/810293/Session+6+-+Effective.pdf/be75e430-22f5-ef6e-46a3-ce96cfc63b81?t=1583918574805",
+                "title": "Effective written communication for practitioners - Bank Negara Malaysia",
+                "text": "There is no clear, universally accepted definition of “systemic importance.” Systemic importance is not a binary concept but can be measured along a ...",
+                "source": "Bank Negara Malaysia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEVHcEwAIWwAAAkABzYADEIAAAgAGV0AAAMAEkgACR4AEFEvYYBcXIEACDIAAAAAIWIAEVMJIm4AG2EAHF4AAAcAAAkACjIW0vUAEUoIaJT+/vxcXn4AHFYAKWkAACBHcLEABUrc3OOSlKDb2ukALpAAUK41XI3///8AHWoAGGYAH24AD1sAAlMAAlkAF2AAEmMOLHgAAko4QoAAAkQABWF5fZ8AInSMialeZJInO4cAADkAFGzp5O2zscVIS3svNW7HxtrV1eBPVov19flncKAXIGmfobkAJF5gks+/wMxAUpp7t/+tg2CeAAAAJ3RSTlMA7SGw7krwU3Eu7y777AeMzCPMqTuO2iHaOyafs/7u+I5sbIvxs+qYkR9dAAAB00lEQVQokY2SV3faQBSEESpIAtHBEFOcul1a9YLo1cn//z9ZSY7DMXnIfdR3Rjt37tRq/zVPU7UhRp0+PbK6PpsoimWNZ3rvA2rqclezbeJmrtYf6MYdahsvJmG2zcLjns3nV61jtN+h8aKxbUwoAQAc+MbjUudda3QkvgZg69IjAF4aH3gkdZpvUJeiUGhaPmXJIfDihEdY0ivWG2AcXAAIfeIghOAhSTiGg161Qx9ClO3B2icIQ4R4Esce6uvFvsOZJCANQZ4xB68cB3LP89Jv36cCqhMoIKHlo+dTGJ48GqSnaKIK2FAwxtB2dwDEobBbjU+tRgkjARHbgLuJXaLcQUKqz7tkUzAMzRJauFS2BHkNietmAASrCJdQHQtD0KZFRhklTvH/gPPruDA0lDXh1naP4OIWKbALiFfLuSlPyxC6tjjWGexZmmKEaJ77/HbtliHUPj1TYtMwp6ufPEIOAy2W3ny5XoX7WSHEP26ot8MYBUlO2fK2eAteSJXsde8zL18HMNidAufXj9Gfk9Wao9bap4SctxBHSeCky9HforSNrwtXuHKQWMqxyWJ0VxOh/fLc1YpjIvSxYOXDujy2FNOcyA/VLPYdVqUe1h/Zv+Y37VRQkdHjB9AAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Communication messages communication messages pdf",
+            "Communication messages communication messages examples"
+          ],
+          "query": {
+            "q": "site:http://www.bnm.gov.my/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -9,42 +9,51 @@
             "web": [
               {
                 "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/publications/",
-                "title": "Hong Kong Monetary Authority - Publications",
+                "title": "Publications - Hong Kong Monetary Authority",
+                "text": "Publications: Annual Report, Sustainability Report, Half-Yearly Monetary & Financial Stability Report, Quarterly Bulletin",
                 "source": "Hong Kong Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hkma.gov.hk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.hkma.gov.hk/media/eng/publication-and-research/sustainability-report/sustain-report.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
                 "published_time": "2023-04-17T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/publications/",
-                "title": "Hong Kong Monetary Authority - Publications",
+                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/research/external-publications/",
+                "title": "External Publications - Hong Kong Monetary Authority",
+                "text": "The following is a list of publications whose articles or chapters are contributed, in part or entirely, by HKMA staff.",
                 "source": "Hong Kong Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hkma.gov.hk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.hkma.gov.hk/media/eng/publication-and-research/Annual-Report.jpg",
-                "published_time": "2023-04-17T00:00:00",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2024-07-31T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/publications/",
-                "title": "Hong Kong Monetary Authority - Publications",
+                "url": "https://www.hkma.gov.hk/eng/key-functions/banking/fintech-knowledge-hub/fintech-publications/",
+                "title": "Fintech Publications - Hong Kong Monetary Authority",
+                "text": "Fintech-related publications and content published by the HKMA and other organisations within the Fintech ecosystem.",
                 "source": "Hong Kong Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hkma.gov.hk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.hkma.gov.hk/media/eng/publication-and-research/Quarterly-Bulletin.jpg",
-                "published_time": "2023-04-17T00:00:00",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-02-27T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/key-functions/reserves-management/exchange-fund-statistics-and-publications/",
+                "title": "Exchange Fund Statistics and Publications",
+                "text": "HKMA reports to the public on the investment performance of the Exchange Fund via press releases twice a year, as well as through regular briefings.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/publications/quarterly-bulletin/",
+                "title": "Quarterly Bulletin - Hong Kong Monetary Authority",
+                "text": "Quarterly Bulletin · 2025. MarchJune · 2024. MarchJuneSeptemberDecember · 2023. MarchJuneSeptemberDecember · 2022. MarchJuneSeptemberDecember · 2021. MarchJune ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Publications reports publications reports pdf",
-            "Publications reports publications reports ppt",
-            "Publications reports publications reports list",
-            "Publications reports publications reports 2022",
-            "Publications reports publications reports 2021"
-          ],
           "query": {
-            "q": "site:https://www.hkma.gov.hk/eng (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.hkma.gov.hk/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -75,7 +84,7 @@
               {
                 "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/",
                 "title": "Data & Statistics - Hong Kong Monetary Authority",
-                "text": "Daily Monetary Statistics, Monthly Statistical Bulletin, Economic & Financial Data for Hong Kong, CMU Bond Price Bulletin",
+                "text": "Daily Monetary Statistics, Monthly Statistical Bulletin, Economic & Financial Data for Hong Kong, CMU ...",
                 "source": "Hong Kong Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
                 "sublinks": [
@@ -94,16 +103,31 @@
                 ],
                 "published_time": "2022-08-02T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/publications/quarterly-bulletin/",
+                "title": "Quarterly Bulletin - Hong Kong Monetary Authority",
+                "text": "Quarterly Bulletin · 2025. MarchJune · 2024. MarchJuneSeptemberDecember · 2023. MarchJuneSeptemberDecember · 2022. MarchJuneSeptemberDecember · 2021. MarchJune ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/quarterly-bulletin/qb200706/E_63.pdf",
+                "title": "STATISTICAL APPENDICES - Hong Kong Monetary Authority",
+                "text": "Detailed and updated monetary and financial statistics can be found in the HKMA on-line Monthly Statistical Bulletin. The.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Statistics bulletin data statistics data bulletin pdf",
             "Statistics bulletin data statistics data bulletin excel",
             "Statistics bulletin data statistics data bulletin 2022"
           ],
           "query": {
-            "q": "site:https://www.hkma.gov.hk/eng (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.hkma.gov.hk/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -115,36 +139,57 @@
           "results": {
             "web": [
               {
+                "url": "https://www.hkma.gov.hk/eng/regulatory-resources/regulatory-guides/guidelines/",
+                "title": "Guidelines - Hong Kong Monetary Authority",
+                "text": "Guidelines that are currently in effect can be found on this webpage. Guidelines that are outdated or superseded by subsequent documents are housed under ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.hkma.gov.hk/eng/regulatory-resources/regulatory-guides/supervisory-policy-manual/",
                 "title": "Supervisory Policy Manual - Hong Kong Monetary Authority",
                 "text": "This Manual sets out the HKMA's latest supervisory policies and practices, the minimum standards authorized institutions (AIs) / approved money brokers (AMBs) ...",
                 "source": "Hong Kong Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
                 "published_time": "2025-03-17T00:00:00",
-                "position": 1
-              },
-              {
-                "url": "https://www.hkma.gov.hk/eng/other-information/privacy-policy-statement/",
-                "title": "Privacy Policy Statement - Hong Kong Monetary Authority",
-                "text": "It is our policy to meet fully recognised standards of personal data privacy protection in complying with the applicable requirements of the Personal Data ( ...",
-                "source": "Hong Kong Monetary Authority",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
-                "published_time": "2021-10-28T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.hkma.gov.hk/eng/about-us/the-hkma-information-centre/exhibition-area/policy-section/",
-                "title": "Policy Section - Hong Kong Monetary Authority",
-                "text": "The Policy Section explains the work of the HKMA and related financial concepts. Guide to the Policy Section (Click ...",
+                "url": "https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/aml-cft-related-information-for-stored-value-facility-licensees/statutory-guidelines/",
+                "title": "Statutory Guidelines - Hong Kong Monetary Authority",
+                "text": "Statutory Guidelines are issued by the Monetary Authority (MA) under the Payment Systems and Stored Value Facilities Ordinance and/or the Anti-Money Laundering ...",
                 "source": "Hong Kong Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
-                "published_time": "2019-10-14T00:00:00",
+                "published_time": "2023-05-25T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/ordinances-statutory-guidelines/",
+                "title": "Ordinances & Statutory Guidelines - Hong Kong Monetary Authority",
+                "text": "Statutory Guidelines are issued by the Monetary Authority (MA) under the BO and/or AMLO which set out the relevant AML/CFT statutory and regulatory ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2023-05-25T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/doc/key-functions/banking-stability/supervisory-policy-manual/CG-5.pdf",
+                "title": "CG-5 Guideline on a Sound Remuneration System",
+                "text": "CG-5 Guideline on a Sound Remuneration System Issue Date: 29 Jul 2021 CG-5.pdf (621.4 KB) Topic: Corporate Governance - Remuneration",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:https://www.hkma.gov.hk/eng (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.hkma.gov.hk/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -166,23 +211,72 @@
               {
                 "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
                 "title": "Press Releases - Hong Kong Monetary Authority",
-                "text": "Press Releases · Scam alert related to banks · Tender results of 10-year HKD HKSAR Institutional Government Bonds · Tender results of the re-opening of 3-year HKD ...",
+                "text": "Press Releases · Scam alert related to banks · Tender results of 3-year RMB HKSAR Institutional Government Bonds · Tender results of 1-year RMB HKSAR Institutional ...",
                 "source": "Hong Kong Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "sublinks": [
+                  {
+                    "title": "Speeches",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/"
+                  },
+                  {
+                    "title": "10 Items",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/fraudulent-websites-e-mails-and-telephone-system-and-other-fraud-cases/"
+                  },
+                  {
+                    "title": "Enforcement Actions",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/enforcement/"
+                  },
+                  {
+                    "title": "Stored Value Facilities and...",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/stored-value-facilities-and-retail-payment-systems/"
+                  },
+                  {
+                    "title": "Base Rate",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/base-rate/"
+                  },
+                  {
+                    "title": "Fintech",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/fintech/"
+                  },
+                  {
+                    "title": "Prudential Measures and...",
+                    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/prudential-measures-and-other-mortgage-related-matters/"
+                  }
+                ],
                 "position": 2
               },
               {
-                "url": "https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/speeches-publications/",
-                "title": "Speeches & Publications - Hong Kong Monetary Authority",
-                "text": "The senior management of the HKMA delivers speeches & issues publications and those related to AML/CFT are covered below.",
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/05/20250521-3/",
+                "title": "Government welcomes passage of the Stablecoins Bill",
+                "text": "The Government welcomed the passage of the Stablecoins Bill by the Legislative Council today (21 May) to establish a licensing regime for fiat-referenced ...",
                 "source": "Hong Kong Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-05-21T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/",
+                "title": "News and Media - Hong Kong Monetary Authority",
+                "text": "News and Media · Press Releases · Speeches · inSight · R & M Column · Forthcoming Events · Photo Gallery · Videos.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2021-01-06T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/04/20250408-8/",
+                "title": "HKMA and banking sector support SMEs from various industries",
+                "text": "The HKMA and the banking sector introduced 9 measures to support SMEs' access to financing and continuous development in March 2024.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-04-08T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.hkma.gov.hk/eng (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.hkma.gov.hk/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -194,37 +288,223 @@
           "results": {
             "web": [
               {
-                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/research/",
-                "title": "Hong Kong Monetary Authority - Research",
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/research/research-memorandums/2021/RM06-2021.pdf",
+                "title": "Effect of Climate-related Risk on the Pricing of Bank Loans",
+                "text": "Climate change is being increasingly recognised as a major emerging risk to financial stability. For instance, a disorderly transition to a ...",
                 "source": "Hong Kong Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hkma.gov.hk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.hkma.gov.hk/media/eng/publication-and-research/Other-Research-Papers.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2021-08-13T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/research/",
-                "title": "Hong Kong Monetary Authority - Research",
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/research/working-papers/pre2007/RM_macro_and_banking.pdf",
+                "title": "macroeconomic conditions and banking performance",
+                "text": "This paper provides a preliminary study of the determinants of retail bank profitability in Hong Kong, focusing particularly on net interest margins.",
                 "source": "Hong Kong Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hkma.gov.hk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.hkma.gov.hk/media/eng/publication-and-research/External-Publications.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/research/",
-                "title": "Hong Kong Monetary Authority - Research",
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2024/AR2024_E.pdf",
+                "title": "Annual Report - Hong Kong Monetary Authority",
+                "text": "The HKMA maintains currency stability, promotes financial system stability, helps maintain Hong Kong's financial center status, and manages the ...",
                 "source": "Hong Kong Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hkma.gov.hk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.hkma.gov.hk/media/eng/publication-and-research/Hong-Kong-Institute-for-Monetary-Research.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-04-25T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/research/working-papers/HKMAWP10_03_full.pdf",
+                "title": "Alfred Wong and Tom Fong - Hong Kong Monetary Authority",
+                "text": "Paper 19/2009. International Monetary Fund (2009): \"Assessing the Systemic Implications of Financial. Linkages\", Global Financial Stability ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/quarterly-bulletin/qb9702/fa04.pdf",
+                "title": "financial market development and the real economy in hong kong",
+                "text": "Levine, R. (1996) \"Financial Development and. Economic Growth: Views and Agenda\" World. Bank Policy Research working paper 1678.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2022"
-          ],
           "query": {
-            "q": "site:https://www.hkma.gov.hk/eng (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.hkma.gov.hk/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/06/20250626-3/",
+                "title": "HKMA and SFC conclude annual updates to Financial Services ...",
+                "text": "The Hong Kong Monetary Authority (HKMA) and Securities and Futures Commission (SFC) today (26 June) issued joint consultation conclusions on the annual updates.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+/v/+/////v/+/v79/v/8+/359/v7/v3NvM/QwdLu6fDFtMlOFVf//vzWydeOdJnBrsHj2+bc0d2YdZpUHFdLDE2qjqw9AUaae59HDE7v6fG3nrlvP3JGCUy8p79iMWhPF1ejg6WWbZOacJaXa5dyMm1mH156RXuCUoKLX4xuOHNeI2J2PHVaFVvj2OhgLGh5T3tuO26ggJ+wk6+Mao5UHlY2ADyCT4KJXoaYd5q6pLrazd6ul62hhqd4Tn2fhZ/r8vC2mLrf0+rSwtthM2RZKmSbdaHBs8JrQmqEZIROI1lpRnVJFk5uQ3qngKd6XIhF+j3dAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjM2OjM1KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "published_time": "2025-06-26T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/quarterly-bulletin/qb200509/ka.pdf",
+                "title": "KEY ANNOUNCEMENTS - Hong Kong Monetary Authority",
+                "text": "6 July 2005. The Legislative Council passes the Banking (Amendment) Ordinance 2005. The main purpose of the Ordinance is to amend the Banking Ordinance to ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+/v/+/////v/+/v79/v/8+/359/v7/v3NvM/QwdLu6fDFtMlOFVf//vzWydeOdJnBrsHj2+bc0d2YdZpUHFdLDE2qjqw9AUaae59HDE7v6fG3nrlvP3JGCUy8p79iMWhPF1ejg6WWbZOacJaXa5dyMm1mH156RXuCUoKLX4xuOHNeI2J2PHVaFVvj2OhgLGh5T3tuO26ggJ+wk6+Mao5UHlY2ADyCT4KJXoaYd5q6pLrazd6ul62hhqd4Tn2fhZ/r8vC2mLrf0+rSwtthM2RZKmSbdaHBs8JrQmqEZIROI1lpRnVJFk5uQ3qngKd6XIhF+j3dAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjM2OjM1KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "position": 2
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/quarterly-bulletin/qb200606/E_49_50.pdf",
+                "title": "KEY ANNOUNCEMENTS - Hong Kong Monetary Authority",
+                "text": "23 March 2006. In a speech titled “A financial development strategy for Hong Kong” delivered at the. Pan-Pearl River Delta Financial Services Forum, ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+/v/+/////v/+/v79/v/8+/359/v7/v3NvM/QwdLu6fDFtMlOFVf//vzWydeOdJnBrsHj2+bc0d2YdZpUHFdLDE2qjqw9AUaae59HDE7v6fG3nrlvP3JGCUy8p79iMWhPF1ejg6WWbZOacJaXa5dyMm1mH156RXuCUoKLX4xuOHNeI2J2PHVaFVvj2OhgLGh5T3tuO26ggJ+wk6+Mao5UHlY2ADyCT4KJXoaYd5q6pLrazd6ul62hhqd4Tn2fhZ/r8vC2mLrf0+rSwtthM2RZKmSbdaHBs8JrQmqEZIROI1lpRnVJFk5uQ3qngKd6XIhF+j3dAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjM2OjM1KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/fatf-related-statments-update/",
+                "title": "FATF-related Statements & Updates - Hong Kong Monetary Authority",
+                "text": "The Financial Action Task Force (FATF) leads global action to tackle money laundering, terrorist and proliferation financing.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+/v/+/////v/+/v79/v/8+/359/v7/v3NvM/QwdLu6fDFtMlOFVf//vzWydeOdJnBrsHj2+bc0d2YdZpUHFdLDE2qjqw9AUaae59HDE7v6fG3nrlvP3JGCUy8p79iMWhPF1ejg6WWbZOacJaXa5dyMm1mH156RXuCUoKLX4xuOHNeI2J2PHVaFVvj2OhgLGh5T3tuO26ggJ+wk6+Mao5UHlY2ADyCT4KJXoaYd5q6pLrazd6ul62hhqd4Tn2fhZ/r8vC2mLrf0+rSwtthM2RZKmSbdaHBs8JrQmqEZIROI1lpRnVJFk5uQ3qngKd6XIhF+j3dAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjM2OjM1KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "published_time": "2025-06-16T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/quarterly-bulletin/qb200706/E_58_59.pdf",
+                "title": "KEY ANNOUNCEMENTS - Hong Kong Monetary Authority",
+                "text": "7 May 2007. The results of the latest survey on residential mortgage loans in negative equity shows that the number of such loans decreased by about 1,800 ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+/v/+/////v/+/v79/v/8+/359/v7/v3NvM/QwdLu6fDFtMlOFVf//vzWydeOdJnBrsHj2+bc0d2YdZpUHFdLDE2qjqw9AUaae59HDE7v6fG3nrlvP3JGCUy8p79iMWhPF1ejg6WWbZOacJaXa5dyMm1mH156RXuCUoKLX4xuOHNeI2J2PHVaFVvj2OhgLGh5T3tuO26ggJ+wk6+Mao5UHlY2ADyCT4KJXoaYd5q6pLrazd6ul62hhqd4Tn2fhZ/r8vC2mLrf0+rSwtthM2RZKmSbdaHBs8JrQmqEZIROI1lpRnVJFk5uQ3qngKd6XIhF+j3dAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjM2OjM1KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.hkma.gov.hk/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/06/20250618-5/",
+                "title": "HKMC alerts public of fraudulent website",
+                "text": "HKMC alerts public of fraudulent website · 16 Jul 2025. Scam alert related to banks · 16 Jul 2025. Hong Kong Deposit Protection Board Annual ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-06-18T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/01/20240118-4/",
+                "title": "The HKMA alerts the public to an online video purported to be ...",
+                "text": "The HKMA alerts the public to an online video purported to be interview with our Chief Executive · 30 Jun 2025. Scam alert related to banks · 30 ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2024-01-18T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/04/20240418-3/",
+                "title": "The HKMA alerts the public to bogus messages and documents",
+                "text": "These messages and documents demand money transfers to pay charges or taxes in order to recover frozen assets or payments made to fraudsters.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2024-04-18T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2021/03/20210305-7/",
+                "title": "The HKMA alerts the public to phishing scams via hyperlinks ...",
+                "text": "Members of the public should stay alert to any SMS or emails purported to be sent by banks. They are advised not to click on the hyperlinks ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2021-03-05T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2020/09/20200910-3/",
+                "title": "The HKMA alerts public on bogus messages",
+                "text": "The HKMA alerts public on bogus messages ; 16 Jul 2025. Scam alert related to banks ; 16 Jul 2025. Hong Kong Deposit Protection Board Annual ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2020-09-10T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.hkma.gov.hk/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/01/20250124-7/",
+                "title": "Phishing instant messages related to Industrial and Commercial Bank of ...",
+                "text": "Instant Message Alert – Phishing instant messages related to Industrial and Commercial Bank of China (Asia) Limited.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-01-24T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/04/20250407-4/",
+                "title": "Instant Message and Website Alert - Hong Kong Monetary Authority",
+                "text": "Instant Message and Website Alert – Phishing messages and fraudulent websites related to Octopus Cards Limited.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2025-04-07T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.hkma.gov.hk/media/eng/doc/key-functions/banking-stability/consumer-corner/digital_key_item_d.pdf",
+                "title": "How important are digital keys? Hong Kong Mon",
+                "text": "Do Do Cheng: I shop online but I will definitely read the messages from my bank. If you ignore them you may not be aware even when your digital key is ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/04/20240412-4/",
+                "title": "Phishing messages and fraudulent websites related to UnionPay App",
+                "text": "Instant Message and Website Alert – Phishing messages and fraudulent websites related to UnionPay App.",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2024-04-12T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/08/20240807-4/",
+                "title": "Phishing messages and fraudulent websites related to Octopus Cards ...",
+                "text": "Instant Message and Website Alert – Phishing messages and fraudulent websites related to Octopus Cards Limited ; 17 Jul 2025. Tender of 10-year ...",
+                "source": "Hong Kong Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA5FBMVEX////9//z+//3//v/6//n/+v/7//r59P7h1+O5qruahJ2MdJCSdpaVg5j//P/RwdKMcZF+XoOvk7PDqse8pr/Kqs+tibLw4/F5XH2Ia4zFr8jDsMa1pbjJvcrPxNDJq8iEZYjazNttS3DGoMa+pLy0rrTu7u65mrt5Vnna1tvl4eb59vlwVXX/+P+mk6lSLFdnOm9oMnBDAEvOudH1+PRPIVZSEVpFAFCfg6Pq2uz///zbx95OFVani6lCBkqAaoNIG05BDUiLapBZKGFyTHiVcZvPys+wkLXPq9Pv4fGmlqhkSmgzLgeVAAACPElEQVR4AWIAA0AT1LWYKhQE5+yhayACBqWKXVoM2GtML///Pxdvn9fdqYzAOeEXiAsCOP6Ai5IAWVG1RrNxoyoy6L8jiHTjtmVatmW171oNg4P+3hicTtf1/CAMw8D3ol7D+S15NYv7g+Fo/Pt7rFqTaQwiDp0Ds07bVHQ9cRwvJQAzfzBVGNPBBSZnlulQXtzPH8oKgkRI/HaWEwNJ0O5sh6TFzF2u1htOOhgSe1NwAcS3WRRgB2B/fyj9cVClnBBY0y1Aun20ZShVnHqnwzLyzlbKwVN/YwKQz3YI4/F0yfb9ddPULDdBjWBym4K2HVfxlutVedLiMjDsYaMqzEJNrF4CGE9V/PzUmr/cZUHTtzPbfTqtVmfZ68aA+2ok4WLhVG/Vuxq1mob/fDhpjqh2jevRY9BhHsrDU1zHaD6sy7kC8p+qq6xHDOrycDg8vmsfR6133mw5xt5TCNSBkl3aX9fH00sxb7sTmTMJM6s1u1axDOCprG/9z7iu9FhBAN4mTym4WBy9FL3T6bLZwlgeLocIElL1zgQ44qkb6zdPkyoHBbXxxcQO4a/5BH77PhzznIMDynK1WmvYORNTywUwiT770VfKBEacwy7LvgLZb3+PQRB0hqpl+QkInEupWd+SoZ0ZYCLqd4L70vbDHGCA7qSh2e4EINJxBWHb30S2FyZJ8hb40fE7xl+QRKndubWsydCy7GbHzxn7e+S6xOAYN+dzp9fdVI5O0n9MTuAMuvyZJOm1nSTqqPEDhu9GRkA36eoAAAAASUVORK5CYII=",
+                "published_time": "2024-08-07T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.hkma.gov.hk/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

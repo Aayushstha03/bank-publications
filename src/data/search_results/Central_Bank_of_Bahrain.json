@@ -17,18 +17,36 @@
                 "position": 1
               },
               {
+                "url": "https://www.cbb.gov.bh/publications/",
+                "title": "Publications & Data | CBB",
+                "source": "Central Bank of Bahrain",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbb.gov.bh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.cbb.gov.bh/wp-content/uploads/2022/04/Capture-320x410.jpg",
+                "published_time": "2025-03-05T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbb.gov.bh/media-center/cbb-participates-in-wef-publications/",
+                "title": "CBB participates in WEF Publications | CBB",
+                "source": "Central Bank of Bahrain",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbb.gov.bh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.cbb.gov.bh/wp-content/uploads/2021/12/Yasmeen-website.jpg",
+                "published_time": "2021-12-02T00:00:00",
+                "position": 3
+              },
+              {
                 "url": "https://www.cbb.gov.bh/media-center/cbb-participates-in-wef-publications/",
                 "title": "CBB participates in WEF Publications - Central Bank of Bahrain",
                 "text": "The whitepapers contributed by Ms. Al-Sharaf, explore the potential role that central banks and public institutions could take with respect to ...",
                 "source": "Central Bank of Bahrain",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
                 "published_time": "2021-12-02T00:00:00",
-                "position": 2
+                "position": 4
               }
             ]
           },
           "query": {
-            "q": "site:http://www.cbb.gov.bh/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.cbb.gov.bh/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -40,11 +58,12 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbb.gov.bh/media_category/monthly-bulletin/",
-                "title": "Media Categories Monthly Bulletin | CBB - Central Bank of Bahrain",
-                "text": "Central Bank of Bahrain (CBB) announces that the BD 35 million monthly issue of Government Treasury Bills has been oversubscribed by 101%.",
+                "url": "https://www.cbb.gov.bh/publications/",
+                "title": "Publications & Data | CBB - Central Bank of Bahrain",
+                "text": "Publications & Data · Annual Reports · Statistical Bulletin · Central Bank Survey · Annual Manpower Survey · Compliance & Enforcement Report – ...",
                 "source": "Central Bank of Bahrain",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "published_time": "2025-03-05T00:00:00",
                 "position": 1
               },
               {
@@ -57,18 +76,35 @@
                 "position": 2
               },
               {
+                "url": "https://www.cbb.gov.bh/media_category/monthly-bulletin/",
+                "title": "Media Categories Monthly Bulletin | CBB - Central Bank of Bahrain",
+                "text": "Central Bank of Bahrain (CBB) announces that the BD 35 million monthly issue of Government Treasury Bills has been oversubscribed by 101%.",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
                 "url": "https://www.cbb.gov.bh/media-center/cbb-monthly-statistical-bulletin-february-2020/",
                 "title": "CBB Monthly Statistical Bulletin February 2020",
                 "text": "The Central Bank of Bahrain (CBB) monthly statistical bulletin for February 2020 indicated an overall improvement in monetary and banking indicators",
                 "source": "Central Bank of Bahrain",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
                 "published_time": "2020-04-07T00:00:00",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.cbb.gov.bh/media-center/cbb-monthly-statistical-bulletin-january-2020/",
+                "title": "CBB Monthly Statistical Bulletin January 2020",
+                "text": "The total value of outstanding loans and credit facilities provided by retail banks amounted to BD 9,674.6 million at end of January 2020 ...",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "published_time": "2020-03-15T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.cbb.gov.bh/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.cbb.gov.bh/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -89,20 +125,37 @@
                 "position": 1
               },
               {
-                "url": "https://www.cbb.gov.bh/monetary-policy/",
-                "title": "Monetary Policy | CBB - Central Bank of Bahrain",
-                "text": "The Central Bank of Bahrain (CBB) is responsible for setting and implementing monetary policy in the Kingdom of Bahrain.",
+                "url": "https://www.cbb.gov.bh/wp-content/uploads/2023/08/ESG-Reporting-Guidelines-Document.pdf",
+                "title": "ESG Reporting Guidelines - Central Bank of Bahrain",
+                "text": "The company should provide a statement of policies it applies to prohibit child/and or forced labour within the company, and if it considers policies that ...",
                 "source": "Central Bank of Bahrain",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.cbb.gov.bh/wp-content/uploads/2018/12/CBB-RTGS-membership-regulations.pdf",
-                "title": "Real Time Gross Settlement System (Membership) Regulations, 2007",
-                "text": "1. These Regulations may be abbreviated to “RTGS System (Membership) Regulations, 2007.” 2. These Regulations shall come into force on such date, as may be ...",
+                "url": "https://www.cbb.gov.bh/monetary-policy/",
+                "title": "Monetary Policy | CBB - Central Bank of Bahrain",
+                "text": "The Central Bank of Bahrain (CBB) is responsible for setting and implementing monetary policy in the Kingdom of Bahrain.",
                 "source": "Central Bank of Bahrain",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbb.gov.bh/wp-content/uploads/2024/07/Guidelines-for-Participating-in-Government-Securities-Offerings.pdf",
+                "title": "Guidelines for Participating in Government Securities Offerings",
+                "text": "3. Subscription Policy Confirmation: Investors must contact their chosen financial institution or broker to confirm the subscription policy and the minimum ...",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbb.gov.bh/media-center/central-bank-of-bahrain-issues-revised-collective-investment-undertakings-regulations/",
+                "title": "Central Bank of Bahrain issues revised Collective Investment ...",
+                "text": "The new regulations emphasize on the importance of key areas such as the corporate governance requirements, high standards of business conduct, ...",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "published_time": "2022-03-29T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -111,7 +164,7 @@
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.cbb.gov.bh/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.cbb.gov.bh/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -132,18 +185,43 @@
                 "position": 1
               },
               {
+                "url": "https://www.cbb.gov.bh/press-kit/",
+                "title": "Media Kit | CBB - Central Bank of Bahrain",
+                "text": "Primary Logo Original Where possible these logo should always be used. They are intended to be used on lighter backgrounds.",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "published_time": "2024-03-03T00:00:00",
+                "position": 2
+              },
+              {
                 "url": "https://www.cbb.gov.bh/media-center/the-central-bank-of-bahrain-issues-instructions-for-press-releases-concerning-financial-results-for-public-shareholding-companies/",
                 "title": "The Central Bank of Bahrain issues Instructions for Press Releases ...",
                 "text": "The CBB has issued on Thursday, 9 th January 2020, instructions in relation to press releases pertaining to the financial results of public shareholding ...",
                 "source": "Central Bank of Bahrain",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
                 "published_time": "2020-01-12T00:00:00",
-                "position": 2
+                "position": 3
+              },
+              {
+                "url": "https://www.cbb.gov.bh/wp-content/uploads/2019/01/Template-press-release-Shortend-English-V5-final.pdf",
+                "title": "Instructions for Publication of the Shareholding Companies' Financial ...",
+                "text": "Public shareholding companies listed on the Bahrain Bourse are required to comply with the following requirements and guidelines (as a minimum) when ...",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbb.gov.bh/press-kit/attachment/4/",
+                "title": "4 | CBB - Central Bank of Bahrain",
+                "text": "4 CENTRAL BANK OF BAHRAIN Building 96, Road 1702 Block 317, Diplomatic Area Manama Kingdom of Bahrain QUICK LINKS FOLLOW US",
+                "source": "Central Bank of Bahrain",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEX////8///v9PSycnDX29usmJjKZWLVwcDg4eLAwMCbbWzDQz7NQz7jysnEenifpaXq7Oy/r6/IOTP4Kx7tLyXUnpzRv77EysrfzMzdrazEYV6Xbm2/jIu8kZDDaGW3W1m8oqK5VlPbMSjRIBXdHxK/SkbjPDS7T0uora2hkJCzvL2qjo3HdHLiLyahIx2qf36emJmvRkKWYWCdS0izYmDk6OjW0tLCn57eAACvo6OgVVPi9PXavLvTi4nJWlbtPDPG1tardXTRFAC/IBd+fRNtAAABG0lEQVR4Ab3OVYLCMBRA0ZeQKQmaegete3F32f+aRnH45v60yYnB+0IY3Q5z5EPIn/4pKxRL5avlKwBVfhqIkqzI6hUR0XRqIMCIw2et3mi2hPLFhLZp2Y7r+YEeRrpO4ySXnhGLQinrON1evzsYjsKQIZ2O4RwbpyaBS5plEHwdTqb4BvPybH4d4WqTM0hgiqkGXWjKJr2iuhjTJp0t7dVamMyWiZ+JNzs1naqB0lY2flZTArFYMxFcE8eivD3l7tp77cb4wSTOyZRU0wnchhk5nlCekDXcV0zO6KHDI/JK1v7fSNYtDg+ZzLZ/b8yVZyo8RU3R/3lNVEzRMzLgPdvqy8ps/IyEcTVUS6lN4VXz2dSMdQyv4xze0TcXmyMMHaA6WAAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.cbb.gov.bh/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.cbb.gov.bh/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]

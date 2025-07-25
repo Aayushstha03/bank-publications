@@ -8,33 +8,49 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/important-documents-and-publications-on-the-monetary-policy-framework-626078",
-                "title": "Important documents and publications on the monetary policy ...",
-                "source": "Deutsche Bundesbank",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bundesbank.de/resource/image/659004/ratio16x9/432/243/e1b4c014641e580c0c5e24d7941985be/8FC62E5C438B1A414A1F97370BB4FBF3/730C411B9F78532AF6E641B7A556B729/buecher-gestapelt.jpg",
-                "position": 1
-              },
-              {
-                "url": "https://www.bundesbank.de/en/publications/reports/monthly-reports/current-monthly-reports--764440",
-                "title": "Current Monthly Reports | Deutsche Bundesbank",
-                "source": "Deutsche Bundesbank",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bundesbank.de/resource/image/659110/ratio16x9/432/243/e2176bb858c515c07e7a7b930c8dbe87/EC628399D3FFB16BD2C65038C8B87C09/472B63F073F071307366337C94F8C870/lupe-publikationen.jpg",
-                "position": 2
-              },
-              {
                 "url": "https://www.bundesbank.de/en/publications/publications-934486",
                 "title": "Publications | Deutsche Bundesbank",
                 "text": "Current publications. You can find further publications in digital form via the navigation on the left or via the search function.",
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bundesbank.de/en/publications/reports/monthly-reports/current-monthly-reports--764440",
+                "title": "Current Monthly Reports | Deutsche Bundesbank",
+                "text": "Here you will find the latest monthly reports of the Deutsche Bundesbank. They handle with economic topics, including in particular monetary policy.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bundesbank.de/en/publications/statistics/special-statistical-publications",
+                "title": "Special Statistical Publications | Deutsche Bundesbank",
+                "text": "The Special Statistical Publications contain methodological, legal and reporting-related information on the Bundesbank's statistics. As of 16 April 2020, ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/refereed-publications/recent-publications-604900",
+                "title": "Recent publications | Deutsche Bundesbank",
+                "text": "Selected papers by Bundesbank researchers accepted for publication or recently published.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/en/tasks/payment-systems/publications/publications-743346",
+                "title": "Publications | Deutsche Bundesbank",
+                "text": "On this page you can find publications issued by the Bundesbank with regard to payment and settlement systems as well as a selection of documents of other ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bundesbank.de/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bundesbank.de/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -54,25 +70,41 @@
                 "position": 1
               },
               {
-                "url": "https://www.bundesbank.de/en/publications/statistics",
-                "title": "Statistics | Deutsche Bundesbank",
-                "text": "Banking statistics, capital market statistics, balance of payment statistics, Seasonally adjusted business statistics, exchange rate statistics, ...",
+                "url": "https://www.bundesbank.de/en/statistics/time-series-databases",
+                "title": "Time series databases | Deutsche Bundesbank",
+                "text": "Current statistical data of the Bundesbank in the form of time series for display and download as CSV- or SDMX-ML-file.",
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/vjkre-618014",
-                "title": "Quarterly borrowers statistics (VJKRE - Deutsche Bundesbank",
-                "text": "These statistics provide an insight into the structure of and developments in the lending business with the most important groups of private borrowers.",
+                "url": "https://www.bundesbank.de/en/publications/statistics",
+                "title": "Statistics | Deutsche Bundesbank",
+                "text": "Banking statistics, capital market statistics, balance of payment statistics, Seasonally adjusted business statistics, ...",
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics",
+                "title": "Banking statistics | Deutsche Bundesbank",
+                "text": "The most important results on overall monetary surveys in the euro area, banks, interest rates and the capital market are published in the statistical section.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/en/statistics/money-and-capital-markets/-/investment-funds-statistics-809480",
+                "title": "Investment funds statistics | Deutsche Bundesbank",
+                "text": "Investment funds statistics Tables of the Statistical Series. DE. Updated issue, see each table for data vintage. Complete download. 11.07.2025 | 3 MB, PDF.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bundesbank.de/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bundesbank.de/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -92,25 +124,46 @@
                 "position": 1
               },
               {
-                "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/review-of-the-operational-framework-for-implementing-monetary-policy-943062",
-                "title": "Review of the operational framework for implementing monetary policy",
-                "text": "On 13 March 2024, the ECB Governing Council decided on changes to the operational framework for implementing monetary policy.",
+                "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/operational-framework-for-implementing-monetary-policy-625964",
+                "title": "Operational framework for implementing monetary policy",
+                "text": "The Eurosystem's operational framework for implementing monetary policy comprises the general rules for Eurosystem monetary policy instruments and procedures.",
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework",
-                "title": "Monetary policy framework | Deutsche Bundesbank",
-                "text": "The Eurosystem's operational framework for implementing monetary policy comprises the general rules for Eurosystem monetary policy instruments and procedures.",
+                "url": "https://www.bundesbank.de/en/tasks/banking-supervision/legal-basis/national-legal-basis/regulations-915566",
+                "title": "Regulations | Deutsche Bundesbank",
+                "text": "Supervisory law sets the legal framework that institutions have to adhere to when they are formed and when they conduct business.",
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/en/tasks/monetary-policy/monetary-policy-framework/review-of-the-operational-framework-for-implementing-monetary-policy-943062",
+                "title": "Review of the operational framework for implementing monetary policy",
+                "text": "On 13 March 2024, the ECB Governing Council decided on changes to the operational framework for implementing monetary policy.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/content/922200",
+                "title": "A primer on optimal policy projections 01/2024 - Deutsche Bundesbank",
+                "text": "The present note describes how to formally state and solve an optimal policy problem based on (i) a baseline projection, (ii) impulse response ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "published_time": "2024-01-25T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:http://www.bundesbank.de/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bundesbank.de/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -135,6 +188,7 @@
                 "text": "Hier können Sie nach Pressenotizen der Deutschen Bundesbank und Pressemitteilungen der Europäischen Zentralbank suchen.",
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "published_time": "2025-04-30T00:00:00",
                 "position": 2
               },
               {
@@ -144,11 +198,28 @@
                 "source": "Bundesbank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/en/press/press-contact/press-contact-618654",
+                "title": "Press contact | Deutsche Bundesbank",
+                "text": "If you have any questions, please do not hesitate to contact our Press and Media Communications team.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/en/press/speeches/central-bank-money-in-the-21st-century--930948",
+                "title": "Central bank money in the 21st century - Deutsche Bundesbank",
+                "text": "Central bank money in the 21st century Speech at the DZ Bank Capital Markets Conference 2024. 24.04.2024 Berlin Joachim Nagel DE.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "published_time": "2024-04-24T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bundesbank.de/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bundesbank.de/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -160,33 +231,185 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/people/632846-632846",
+                "title": "Working Papers and Other Publications - | Deutsche Bundesbank",
+                "text": "Working Papers and Other Publications. The impact of Covid-19 on productivity Bloom N., Bunn P., Mizen P., Smietanka P., Thwaites G. 2021 | VoxEU, 18 January ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bundesbank.de/resource/blob/702974/a74817d66e65bdaafe11a061ab342b54/mL/1996-05-01-dkp-05-data.pdf",
+                "title": "The role of wealth in money demand - Deutsche Bundesbank",
+                "text": "The discussion about the role of wealth as adeterminant of the demand for money is not a new one. Already in the early 1960s an animated discussion ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
                 "url": "https://www.bundesbank.de/en/tasks/topics/research-centre-publishes-its-1-000th-discussion-paper-873836",
                 "title": "Research Centre publishes its 1,000th discussion paper ...",
                 "source": "Deutsche Bundesbank",
                 "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
                 "image": "https://www.bundesbank.de/resource/image/643090/ratio16x9/432/243/253e5401ab50d592cec0c0337928b7f1/9BC030E72C7570FEE30B519B0F1A1E07/D2F0313951545890162460C5AA5FC761/buecher-schnellhefter.jpg",
+                "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/en/bundesbank/green-finance/climate-related-research-paper-of-the-deutsche-bundesbank-894900",
+                "title": "Climate-related research paper of the Deutsche Bundesbank ...",
+                "source": "Deutsche Bundesbank",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bundesbank.de/resource/image/659116/ratio16x9/957/538/a05afcc46f84386e8014c2733fcf8b1/09A95295D989F5F181827CB76540E604/7F9536FF16AFA68EDE79EB6E396C5BC4/liniendiagramm-1.jpg",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/resource/blob/704040/44f6d3c2f3f57996c5cc1c93cf022309/472B63F073F071307366337C94F8C870/2016-09-05-dkp-33-data.pdf",
+                "title": "Optimal unemployment insurance and international risk sharing",
+                "source": "SSRN",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///6c6aee49141f8e50959e06930c31f324d26c57f040738f04fbc5bb4517c6ae1d",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.bundesbank.de/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bundesbank.de/dynamic/action/en/tasks/cash-management/frequently-asked-questions/frequently-asked-questions-about-changes-updates-to-the-reported-customer-data-in-the-customer-data-reporting-form/908546/frequently-asked-questions-about-changes-updates-to-the-reported-customer-data-in-the-customer-data-reporting-form",
+                "title": "Frequently asked questions about changes/updates to the reported ...",
+                "text": "You will find answers to frequently asked questions from various areas of cash handling.",
+                "source": "Deutsche Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/your-research-project-at-the-rdsc/your-research-project-at-the-rdsc-617236",
-                "title": "Your research project at the RDSC | Deutsche Bundesbank",
-                "source": "Deutsche Bundesbank",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bundesbank.de/resource/blob/852444/288ff2062ff478e9c7d5ff1362057f01/472B63F073F071307366337C94F8C870/fdsz-forschungsprojekt-data.png",
+                "url": "https://www.bundesbank.de/en/homepage/newsletter/rdsc/dataset-updates-807018",
+                "title": "Dataset updates | Deutsche Bundesbank",
+                "text": "The following datasets have been updated by the RDSC and are now available for research projects: CSDB, BISTA, BOP-F, GuV, AUSTA, BOP-HH, PFH, ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.bundesbank.de/en/bundesbank/research/research-centre/research-areas-and-programme/research-areas-and-programme-869522",
-                "title": "Research Areas and Programme | Deutsche Bundesbank",
-                "source": "Deutsche Bundesbank",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bundesbank.de/resource/image/869774/ratio3x2/432/288/43844af5d7e4a76e12878e776ac0547a/IS/mL/visualisation-background.jpg",
+                "url": "https://www.bundesbank.de/resource/blob/830236/abc1d5989bf2af5830d913975510fd37/mL/benutzerhinweise-data.pdf",
+                "title": "User guide on downloading Statistical Series and updates",
+                "text": "... on downloading Statistical Series and updates. An overview of all the Bundesbank's Statistical Series, broken down by topic, can be found at:.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/en/press/press-releases/deutsche-bundesbank-updates-impact-of-basel-iii-reform-package--941878",
+                "title": "Deutsche Bundesbank updates impact of Basel III reform package",
+                "text": "Implementation in the EU of the Basel III reform package will lead to a 3.3% increase in minimum required capital ( MRC ) by 2030 for a sample of 36 German ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "published_time": "2024-10-08T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/resource/blob/808568/5b6400fb6235e7d56abbecb042264493/mL/2019-09-26-frankfurt-rosolia-data.pdf",
+                "title": "Central Bank Announcements: Big News for Little People?",
+                "text": "Our main irrelevance result – no impact of announcements on either beliefs or confidence of consumers - indicatres poor.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "published_time": "2019-09-26T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bundesbank.de/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.bundesbank.de/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bundesbank.de/en/service/reporting-systems/external-sector/faq-and-notices/faq-and-notices-619372",
+                "title": "FAQ and notices | Deutsche Bundesbank",
+                "text": "On this page you will find frequently asked questions ( FAQ ) and notices on reports in external sector. Reporting made simple. Own particular reporting path ...",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bundesbank.de/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bundesbank.de/en/bundesbank/international-central-bank-dialogue/international-central-banking-courses-/central-bank-communication-940936",
+                "title": "Central bank communication | Deutsche Bundesbank",
+                "text": "This course provides an overview of the Bundesbank's external communication work within the Eurosystem. It sheds light on the concepts, channels and content.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bundesbank.de/en/bundesbank/international-central-bank-dialogue/international-central-banking-courses-/central-bank-communication-881890",
+                "title": "Central bank communication - Deutsche Bundesbank",
+                "text": "This course provides an overview of the external communication work of the Deutsche Bundesbank within the Eurosystem.",
+                "source": "Bundesbank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEX///8bbKcAX6AAYaEAXqA/e6/9/fn+/v7989z825T++vD85K77x037sgD82Y386cD7tgD7xkT85bX6+PH81Hv/5qf8/Pz/9NUDaatRdIj7+/v7uABfgofmsRvLpjclaJH6+vrUqiu2nU0AWKUkbqMPZJz5+fn4+Pj39/f56c36ylqJiW+nlVhmh572+f/5258AXKL16c9VdoD29vb19fX5zmvTqjH09PStmlHz8/P07uP7vSDy8vLy7ub40YpxAAABS0lEQVR4Aa3RBZbCMBRA0SBpcHfqilamwSr739b81Mf1Yf/kUkfvVKs3mpgN/4XcKyRZMHCtdodNKaZrqXU5wvX6LUIGb3E4GndQdzIls/68xEXadNAmCwLvSXdZawIySJAMYXWRRdBqneNms1m0t7NNGeIFUcIMkCzLm1ZvspCL0EpRNcyAfeTpYiqXIb1pNFM0TVOeymYlVGs2DcwAWdZuf9ibVhmpScfTGcCCj+30X6GrbHGCu521b3nWroyrufwTJjAh3/d3O9sv2y1qrutiDkaGvu1UdbF6gptAGFJKd07/QstkXrhKeAETut1u1Bt0bUpvaVReiXcNczACQja1vUxtb6G7sNsNw0fSbTieBTca0IcTdpOnIsMqQxYNZ3bgHPb2ZNtKnifHMEqLoyCyL6PoEdhBirCYYtrDC2L4sd5D0Ef0IUI/wGc+UVZX3n6gCQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bundesbank.de/resource/blob/636588/cd6fc384bb0fcbc2332c2200ba691bd7/mL/2022-06-23-eltville-5-enders-data.pdf",
+                "title": "Central bank's stabilization and communication policies when ...",
+                "source": "www.bundesbank.de",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///44a194416baf30757875e2cfd1951e5edebf522c937ee529f57cbebdad55eef2",
+                "position": 3
+              },
+              {
+                "url": "https://www.bundesbank.de/resource/blob/808544/2e12eda913213a1ac625accc0b1cab7c/mL/2019-09-26-frankfurt-istrefi-data.pdf",
+                "title": "Central Bank Communication that Works: Lessons from Lab ...",
+                "source": "Deutsche Bundesbank",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///95679f8c66e969552eb8ef881988327da5a681cb99d49cf9543431261d128fea",
+                "position": 4
+              },
+              {
+                "url": "https://www.bundesbank.de/resource/blob/706440/4071080eb429f70040fe5babc508a691/mL/2004-04-information-communication-technology-data.pdf",
+                "title": "The significance of information and communication technology ...",
+                "source": "Deutsche Bundesbank",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bundesbank.de&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///023d99b215d97ab986810b3aac0c0ec68b9210228a9baa96ac003daa113ba00a",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bundesbank.de/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

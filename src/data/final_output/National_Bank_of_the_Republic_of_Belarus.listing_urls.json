@@ -3,10 +3,10 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.nbrb.by/engl/payment/publications",
-        "title": "Payment System of the Republic of Belarus. Publications",
-        "text": "All documents are in PDF format. Use Adobe Acrobat Reader to view. Book \"Payment systems in the Republic of Belarus\" (September 2001) · Payments and securities ...",
-        "listing_probability": 0.98
+        "url": "https://www.nbrb.by/engl/publications/report",
+        "title": "Report of the National Bank of the Republic of Belarus",
+        "text": "HOME PAGE; BANK TODAY; MONETARY POLICY; FINANCIAL STABILITY; BANKING SECTOR; NON-CREDIT FINANCIAL ORGANIZATIONS; PAYMENT MARKET AND DIGITAL TECHNOLOGY ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -17,7 +17,13 @@
         "url": "https://www.nbrb.by/engl/publications/bulletin",
         "title": "Statistics Bulletin | National Bank of the Republic of Belarus",
         "text": "Home Page · → STATISTICS. Exchange rates; External sector statistics; Monetary and financial statistics; Monetary policy instruments; Financial markets ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbrb.by/engl/statistics/timetable",
+        "title": "National Bank of the Republic of Belarus",
+        "text": "Home Page · → STATISTICS. Exchange rates; External sector statistics; Monetary and financial statistics; Monetary policy instruments; Financial markets ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -25,16 +31,22 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.nbrb.by/engl/mp/target/exrate-policy",
-        "title": "Exchange Rate Policy of the National Bank of the Republic of Belarus",
-        "text": "The rules of the exchange rate policy are aimed at: smoothing the daily fluctuations of the currency basket value;; ensuring the positive balance of the ...",
-        "listing_probability": 0.1
+        "url": "https://www.nbrb.by/engl/legislation/ondkp",
+        "title": "Republic of Belarus Monetary Policy Guidelines",
+        "text": "The Republic of Belarus Monetary Policy Guidelines for 2025 were approved by Resolution of the Board of the National Bank No. 325, dated October 2024.",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.nbrb.by/engl/mp/target/percent-policy",
-        "title": "Interest Rate Policy of the National Bank of the Republic of Belarus",
-        "text": "The interest rate policy of the National Bank of the Republic of Belarus is a complex of measures designed to regulate the price of money in the economy.",
-        "listing_probability": 0.1
+        "url": "https://www.nbrb.by/engl/legislation/cpdkp",
+        "title": "Target Indicators of the Monetary Policy of the Republic of Belarus",
+        "text": "The Board of the National Bank approves the Monetary Policy Guidelines, which reveal the focus of the National Bank's actions designed to achieve target ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nbrb.by/engl/press/15733",
+        "title": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have ...",
+        "text": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have been approved. The corresponding decision was taken by Resolution of the ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -52,6 +64,24 @@
         "title": "Press Service of the National Bank of the Republic of Belarus",
         "text": "The functions of the press service in the National Bank of the Republic of Belarus are carried out by Information and Public Relations Department.",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbrb.by/news",
+        "title": "Новости | Национальный банк Республики Беларусь",
+        "text": "Новости · Статистика · Аналитика · Пресс-релизы.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.nbrb.by/engl/press/15733",
+        "title": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have ...",
+        "text": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have been approved. The corresponding decision was taken by Resolution of the ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nbrb.by/engl/press/12612",
+        "title": "As at July 1, 2022, gold and foreign exchange reserves of the Republic ...",
+        "text": "At that, in June the Government repaid external and domestic foreign exchange liabilities worth about USD210 million in the equivalent. In ...",
+        "listing_probability": 0.05
       }
     ]
   }

@@ -12,24 +12,40 @@
                 "title": "Financial Stability Reports - BANK AL-MAGHRIB",
                 "text": "This report gives a review of the events which emerged at the macroeconomic level in the international and national scene, the associated risks.",
                 "source": "BANK AL-MAGHRIB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "favicon": "data:image/webp;base64,UklGRjgEAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSBQCAAARkKttt2k7Y4wZ27aT1kl3kipPrsCu7Mpo3du2zUuwncrGWnPM51kDM5cQEQwcSW1z5woBH2mPACFWBMX6Y7eMqENEqLQgoZKEtsui+Ybv/H5yXUCHojPDtvv/MKeP8+ojGUuFoIsBjTZnY6rA35fWzwxkLQAdLibDf+uMExBJm3Vc5wtyhW7FztYq1uZF7Wx5okwOUnmsO5HjM8U02FGwpm7xxgAEc60WAHXWpIoa2sB3e4O9RSSoPbfUq1jB8vlwHQmgnuWkz6pHtXH4oMZNNvq1tWUa368hi6EvxGKRPBc/HRrUA4Rej5QOGf/D+Gq4mjpeSy6rFDnnwKq12lNKXpmTPUCVbIq6058abvxrtLCdEhsoKfF867W/jG6jRu/ckvnPtMMFq24rsxa753i/X4ezUUtWQtgocE95PJJqdb8Q/YpSli9GBSTsekEL4kxKU/KHMfq7a33ba8Znj/k1nvSLC+0ua0FOTjPxj2UB0LDzqdIprTKa1Px3Y2NAsq3jjn+ZO8TCYnsL45VQosYbZM7xZHP7ISKFEIjCqt+5ZbzcEAT28xbUW/BVQizi2TbKJyCUFRFivZmfkxPEV3sQ2plIpRdDnck/HNv1XujRJgyBMIz9Zvq19hJFlFsoZ5jwkSXbpfaY/X+QsimxtWd9YS5PdAFAb+EkMYXUX/K9ONLJudUgFgB115xKoM6Mza0gEwUIVlA4IP4BAAAQCgCdASokACQAPpEgpFIloSWllxCwEglsALb79wAa6eGPtgLtE3mVHETZo5MSJ9h1AGn/XYVI7FlhIsbpN5dZpMB5XHcRfkdDErKEjFMBbJSpUZ3ArsVYAAD++W7vJbqodzqPYwUXyAapmNpuOiQTSfk+MAVXsN8nYwUdUesPJdvJfebUvv44DH9601r3V42M3+yUtZQnce2ibxXNKKzB4MRRUvmeBSuM4dXFaCWO1cYiqbjOTl4XAK1mhbSA2CpvByJQUJoZERQ148W0X7TLX1BbC320/0/6+hS4kG9PpuM35/5QtPXMWMyt/tCG9nzXklr4X5hYNpzBlPr0vtbTZCp/RkSncdBPQvaiQGxSFGBgiW2BRgvLWwEPSvzsoD4G9Bytvam2GEX0EUWJu7p/9P+ko/CfZjhEIKe6NcNaO26EvVX5gduf750+NkhVgdip7c9rC+YoXGWWDClBNQteEYXjX0JqgMxgdPfdiNs6pgExrwpf0+e2rJ/3QqXwrDj90DhpJs40uielfkPgDy9IVTt4Tanb0HLqY1N5pGjYhdaQEBv+PNqqIaSGdZv2uFa404rvkph172T98QWzVvNejAc8SwBPVsK5WfaHP/91Yy9BfUGmuAH1v0nakHxB55YRl4t/2T7Oc4fb0HxynBmIYpDT8cs0XFt78AAAAAA=",
                 "position": 1
               },
               {
-                "url": "https://www.bkam.ma/en/Publications-and-research/Institutional-publications",
-                "title": "Institutional publications - BANK AL-MAGHRIB",
-                "text": "About us; Monetary Policy; Banking supervision; Systems and means of payment; FINANCIAL STABILITY; Markets; Banknotes and coins; Publications and Research ...",
+                "url": "https://www.bkam.ma/en/Publications-and-research/Institutional-publications/Annual-report-presented-to-his-majesty-the-king",
+                "title": "Annual Report presented to His Majesty the King - BANK AL-MAGHRIB",
+                "text": "Annual Report presented to His Majesty the King · Annual Report 2023 · Quick access · Latest Publications · News · Services to customers of credit institutions · Find ...",
                 "source": "BANK AL-MAGHRIB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "favicon": "data:image/webp;base64,UklGRjgEAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSBQCAAARkKttt2k7Y4wZ27aT1kl3kipPrsCu7Mpo3du2zUuwncrGWnPM51kDM5cQEQwcSW1z5woBH2mPACFWBMX6Y7eMqENEqLQgoZKEtsui+Ybv/H5yXUCHojPDtvv/MKeP8+ojGUuFoIsBjTZnY6rA35fWzwxkLQAdLibDf+uMExBJm3Vc5wtyhW7FztYq1uZF7Wx5okwOUnmsO5HjM8U02FGwpm7xxgAEc60WAHXWpIoa2sB3e4O9RSSoPbfUq1jB8vlwHQmgnuWkz6pHtXH4oMZNNvq1tWUa368hi6EvxGKRPBc/HRrUA4Rej5QOGf/D+Gq4mjpeSy6rFDnnwKq12lNKXpmTPUCVbIq6058abvxrtLCdEhsoKfF867W/jG6jRu/ckvnPtMMFq24rsxa753i/X4ezUUtWQtgocE95PJJqdb8Q/YpSli9GBSTsekEL4kxKU/KHMfq7a33ba8Znj/k1nvSLC+0ua0FOTjPxj2UB0LDzqdIprTKa1Px3Y2NAsq3jjn+ZO8TCYnsL45VQosYbZM7xZHP7ISKFEIjCqt+5ZbzcEAT28xbUW/BVQizi2TbKJyCUFRFivZmfkxPEV3sQ2plIpRdDnck/HNv1XujRJgyBMIz9Zvq19hJFlFsoZ5jwkSXbpfaY/X+QsimxtWd9YS5PdAFAb+EkMYXUX/K9ONLJudUgFgB115xKoM6Mza0gEwUIVlA4IP4BAAAQCgCdASokACQAPpEgpFIloSWllxCwEglsALb79wAa6eGPtgLtE3mVHETZo5MSJ9h1AGn/XYVI7FlhIsbpN5dZpMB5XHcRfkdDErKEjFMBbJSpUZ3ArsVYAAD++W7vJbqodzqPYwUXyAapmNpuOiQTSfk+MAVXsN8nYwUdUesPJdvJfebUvv44DH9601r3V42M3+yUtZQnce2ibxXNKKzB4MRRUvmeBSuM4dXFaCWO1cYiqbjOTl4XAK1mhbSA2CpvByJQUJoZERQ148W0X7TLX1BbC320/0/6+hS4kG9PpuM35/5QtPXMWMyt/tCG9nzXklr4X5hYNpzBlPr0vtbTZCp/RkSncdBPQvaiQGxSFGBgiW2BRgvLWwEPSvzsoD4G9Bytvam2GEX0EUWJu7p/9P+ko/CfZjhEIKe6NcNaO26EvVX5gduf750+NkhVgdip7c9rC+YoXGWWDClBNQteEYXjX0JqgMxgdPfdiNs6pgExrwpf0+e2rJ/3QqXwrDj90DhpJs40uielfkPgDy9IVTt4Tanb0HLqY1N5pGjYhdaQEBv+PNqqIaSGdZv2uFa404rvkph172T98QWzVvNejAc8SwBPVsK5WfaHP/91Yy9BfUGmuAH1v0nakHxB55YRl4t/2T7Oc4fb0HxynBmIYpDT8cs0XFt78AAAAAA=",
                 "position": 2
               },
               {
-                "url": "https://www.bkam.ma/en/Financial-stability/Publications/Annual-report-on-financial-stability-reports",
-                "title": "Annual report on financial Stability Reports - BANK AL-MAGHRIB",
-                "text": "This report gives a review of the events which emerged at the macroeconomic level in the international and national scene, the associated risks.",
+                "url": "https://www.bkam.ma/en/Banking-supervision/Publications",
+                "title": "Indicators and publications - BANK AL-MAGHRIB",
+                "text": "Under the Banking law, Bank Al -Maghrib publishes an annual report on banking supervision. This report, entitled \"Annual report on the control, activity and ...",
                 "source": "BANK AL-MAGHRIB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "favicon": "data:image/webp;base64,UklGRjgEAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSBQCAAARkKttt2k7Y4wZ27aT1kl3kipPrsCu7Mpo3du2zUuwncrGWnPM51kDM5cQEQwcSW1z5woBH2mPACFWBMX6Y7eMqENEqLQgoZKEtsui+Ybv/H5yXUCHojPDtvv/MKeP8+ojGUuFoIsBjTZnY6rA35fWzwxkLQAdLibDf+uMExBJm3Vc5wtyhW7FztYq1uZF7Wx5okwOUnmsO5HjM8U02FGwpm7xxgAEc60WAHXWpIoa2sB3e4O9RSSoPbfUq1jB8vlwHQmgnuWkz6pHtXH4oMZNNvq1tWUa368hi6EvxGKRPBc/HRrUA4Rej5QOGf/D+Gq4mjpeSy6rFDnnwKq12lNKXpmTPUCVbIq6058abvxrtLCdEhsoKfF867W/jG6jRu/ckvnPtMMFq24rsxa753i/X4ezUUtWQtgocE95PJJqdb8Q/YpSli9GBSTsekEL4kxKU/KHMfq7a33ba8Znj/k1nvSLC+0ua0FOTjPxj2UB0LDzqdIprTKa1Px3Y2NAsq3jjn+ZO8TCYnsL45VQosYbZM7xZHP7ISKFEIjCqt+5ZbzcEAT28xbUW/BVQizi2TbKJyCUFRFivZmfkxPEV3sQ2plIpRdDnck/HNv1XujRJgyBMIz9Zvq19hJFlFsoZ5jwkSXbpfaY/X+QsimxtWd9YS5PdAFAb+EkMYXUX/K9ONLJudUgFgB115xKoM6Mza0gEwUIVlA4IP4BAAAQCgCdASokACQAPpEgpFIloSWllxCwEglsALb79wAa6eGPtgLtE3mVHETZo5MSJ9h1AGn/XYVI7FlhIsbpN5dZpMB5XHcRfkdDErKEjFMBbJSpUZ3ArsVYAAD++W7vJbqodzqPYwUXyAapmNpuOiQTSfk+MAVXsN8nYwUdUesPJdvJfebUvv44DH9601r3V42M3+yUtZQnce2ibxXNKKzB4MRRUvmeBSuM4dXFaCWO1cYiqbjOTl4XAK1mhbSA2CpvByJQUJoZERQ148W0X7TLX1BbC320/0/6+hS4kG9PpuM35/5QtPXMWMyt/tCG9nzXklr4X5hYNpzBlPr0vtbTZCp/RkSncdBPQvaiQGxSFGBgiW2BRgvLWwEPSvzsoD4G9Bytvam2GEX0EUWJu7p/9P+ko/CfZjhEIKe6NcNaO26EvVX5gduf750+NkhVgdip7c9rC+YoXGWWDClBNQteEYXjX0JqgMxgdPfdiNs6pgExrwpf0+e2rJ/3QqXwrDj90DhpJs40uielfkPgDy9IVTt4Tanb0HLqY1N5pGjYhdaQEBv+PNqqIaSGdZv2uFa404rvkph172T98QWzVvNejAc8SwBPVsK5WfaHP/91Yy9BfUGmuAH1v0nakHxB55YRl4t/2T7Oc4fb0HxynBmIYpDT8cs0XFt78AAAAAA=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bkam.ma/en/Financial-stability/Publications/Articls/Financial-stability-reports",
+                "title": "Financial Stability Reports - BANK AL-MAGHRIB",
+                "text": "An annual report on the stability of the Moroccan financial market. This report gives a review of the events which emerged at the macroeconomic level.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/webp;base64,UklGRjgEAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSBQCAAARkKttt2k7Y4wZ27aT1kl3kipPrsCu7Mpo3du2zUuwncrGWnPM51kDM5cQEQwcSW1z5woBH2mPACFWBMX6Y7eMqENEqLQgoZKEtsui+Ybv/H5yXUCHojPDtvv/MKeP8+ojGUuFoIsBjTZnY6rA35fWzwxkLQAdLibDf+uMExBJm3Vc5wtyhW7FztYq1uZF7Wx5okwOUnmsO5HjM8U02FGwpm7xxgAEc60WAHXWpIoa2sB3e4O9RSSoPbfUq1jB8vlwHQmgnuWkz6pHtXH4oMZNNvq1tWUa368hi6EvxGKRPBc/HRrUA4Rej5QOGf/D+Gq4mjpeSy6rFDnnwKq12lNKXpmTPUCVbIq6058abvxrtLCdEhsoKfF867W/jG6jRu/ckvnPtMMFq24rsxa753i/X4ezUUtWQtgocE95PJJqdb8Q/YpSli9GBSTsekEL4kxKU/KHMfq7a33ba8Znj/k1nvSLC+0ua0FOTjPxj2UB0LDzqdIprTKa1Px3Y2NAsq3jjn+ZO8TCYnsL45VQosYbZM7xZHP7ISKFEIjCqt+5ZbzcEAT28xbUW/BVQizi2TbKJyCUFRFivZmfkxPEV3sQ2plIpRdDnck/HNv1XujRJgyBMIz9Zvq19hJFlFsoZ5jwkSXbpfaY/X+QsimxtWd9YS5PdAFAb+EkMYXUX/K9ONLJudUgFgB115xKoM6Mza0gEwUIVlA4IP4BAAAQCgCdASokACQAPpEgpFIloSWllxCwEglsALb79wAa6eGPtgLtE3mVHETZo5MSJ9h1AGn/XYVI7FlhIsbpN5dZpMB5XHcRfkdDErKEjFMBbJSpUZ3ArsVYAAD++W7vJbqodzqPYwUXyAapmNpuOiQTSfk+MAVXsN8nYwUdUesPJdvJfebUvv44DH9601r3V42M3+yUtZQnce2ibxXNKKzB4MRRUvmeBSuM4dXFaCWO1cYiqbjOTl4XAK1mhbSA2CpvByJQUJoZERQ148W0X7TLX1BbC320/0/6+hS4kG9PpuM35/5QtPXMWMyt/tCG9nzXklr4X5hYNpzBlPr0vtbTZCp/RkSncdBPQvaiQGxSFGBgiW2BRgvLWwEPSvzsoD4G9Bytvam2GEX0EUWJu7p/9P+ko/CfZjhEIKe6NcNaO26EvVX5gduf750+NkhVgdip7c9rC+YoXGWWDClBNQteEYXjX0JqgMxgdPfdiNs6pgExrwpf0+e2rJ/3QqXwrDj90DhpJs40uielfkPgDy9IVTt4Tanb0HLqY1N5pGjYhdaQEBv+PNqqIaSGdZv2uFa404rvkph172T98QWzVvNejAc8SwBPVsK5WfaHP/91Yy9BfUGmuAH1v0nakHxB55YRl4t/2T7Oc4fb0HxynBmIYpDT8cs0XFt78AAAAAA=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Report-on-monetary-policy",
+                "title": "Report on monetary policy - BANK AL-MAGHRIB",
+                "text": "Monetary Policy Report - March 2024, Monetary Policy Report - June 2024, Monetary Policy Report - September 2024, Monetary Policy Report - December 2024.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/webp;base64,UklGRjgEAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSBQCAAARkKttt2k7Y4wZ27aT1kl3kipPrsCu7Mpo3du2zUuwncrGWnPM51kDM5cQEQwcSW1z5woBH2mPACFWBMX6Y7eMqENEqLQgoZKEtsui+Ybv/H5yXUCHojPDtvv/MKeP8+ojGUuFoIsBjTZnY6rA35fWzwxkLQAdLibDf+uMExBJm3Vc5wtyhW7FztYq1uZF7Wx5okwOUnmsO5HjM8U02FGwpm7xxgAEc60WAHXWpIoa2sB3e4O9RSSoPbfUq1jB8vlwHQmgnuWkz6pHtXH4oMZNNvq1tWUa368hi6EvxGKRPBc/HRrUA4Rej5QOGf/D+Gq4mjpeSy6rFDnnwKq12lNKXpmTPUCVbIq6058abvxrtLCdEhsoKfF867W/jG6jRu/ckvnPtMMFq24rsxa753i/X4ezUUtWQtgocE95PJJqdb8Q/YpSli9GBSTsekEL4kxKU/KHMfq7a33ba8Znj/k1nvSLC+0ua0FOTjPxj2UB0LDzqdIprTKa1Px3Y2NAsq3jjn+ZO8TCYnsL45VQosYbZM7xZHP7ISKFEIjCqt+5ZbzcEAT28xbUW/BVQizi2TbKJyCUFRFivZmfkxPEV3sQ2plIpRdDnck/HNv1XujRJgyBMIz9Zvq19hJFlFsoZ5jwkSXbpfaY/X+QsimxtWd9YS5PdAFAb+EkMYXUX/K9ONLJudUgFgB115xKoM6Mza0gEwUIVlA4IP4BAAAQCgCdASokACQAPpEgpFIloSWllxCwEglsALb79wAa6eGPtgLtE3mVHETZo5MSJ9h1AGn/XYVI7FlhIsbpN5dZpMB5XHcRfkdDErKEjFMBbJSpUZ3ArsVYAAD++W7vJbqodzqPYwUXyAapmNpuOiQTSfk+MAVXsN8nYwUdUesPJdvJfebUvv44DH9601r3V42M3+yUtZQnce2ibxXNKKzB4MRRUvmeBSuM4dXFaCWO1cYiqbjOTl4XAK1mhbSA2CpvByJQUJoZERQ148W0X7TLX1BbC320/0/6+hS4kG9PpuM35/5QtPXMWMyt/tCG9nzXklr4X5hYNpzBlPr0vtbTZCp/RkSncdBPQvaiQGxSFGBgiW2BRgvLWwEPSvzsoD4G9Bytvam2GEX0EUWJu7p/9P+ko/CfZjhEIKe6NcNaO26EvVX5gduf750+NkhVgdip7c9rC+YoXGWWDClBNQteEYXjX0JqgMxgdPfdiNs6pgExrwpf0+e2rJ/3QqXwrDj90DhpJs40uielfkPgDy9IVTt4Tanb0HLqY1N5pGjYhdaQEBv+PNqqIaSGdZv2uFa404rvkph172T98QWzVvNejAc8SwBPVsK5WfaHP/91Yy9BfUGmuAH1v0nakHxB55YRl4t/2T7Oc4fb0HxynBmIYpDT8cs0XFt78AAAAAA=",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.bkam.ma/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bkam.ma/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -67,13 +83,29 @@
                 "position": 2
               },
               {
+                "url": "https://www.bkam.ma/en/Statistics/Banking-sector-statistics/Structure-of-the-banking-system",
+                "title": "Structure of the banking system - BANK AL-MAGHRIB",
+                "text": "Structure of the banking system. By the end of 2022, the number of accredited credit institutions and similar bodies in Morocco reached 90.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bkam.ma/en/content/view/full/283084",
+                "title": "Publication of Monetary Statistics - BANK AL-MAGHRIB",
+                "text": "Publication of Monetary Statistics · Quick access · Latest Publications · News · Services to customers of credit institutions · Find information about · For an ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
                 "url": "https://www.bkam.ma/en/content/download/827321/9026545/BKAM%20monetary%20statistics%20May%202025.pdf",
                 "title": "Monetary statistics - Mai 2025",
                 "text": "In May 2025, money supply grew by 7.8 percent year-on-year, after 6.9 percent the previous month, to reach MAD 1,918.6 billion.",
                 "source": "BANK AL-MAGHRIB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
                 "published_time": "2025-05-20T00:00:00",
-                "position": 3
+                "position": 5
               }
             ]
           },
@@ -83,7 +115,7 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.bkam.ma/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bkam.ma/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -95,12 +127,28 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bkam.ma/en/Monetary-policy/Strategic-framework/Presentation",
+                "title": "Presentation - BANK AL-MAGHRIB",
+                "text": "The Bank seeks to conduct monetary policy in a transparent manner and to explain its decisions to all stakeholders and the general public.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bkam.ma/pedagogic/What-bank-al-maghrib-does/Monetary-policy",
+                "title": "Monetary policy - BANK AL-MAGHRIB",
+                "text": "Monetary policy refers to all the decisions taken by the Bank with the ultimate goal of preserving price stability.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
                 "url": "https://www.bkam.ma/en/Publications-and-research/Analysis-documents/Report-on-monetary-policy",
                 "title": "Report on monetary policy - BANK AL-MAGHRIB",
                 "text": "Monetary Policy Report - March 2024, Monetary Policy Report - June 2024, Monetary Policy Report - September 2024, Monetary Policy Report - December 2024.",
                 "source": "BANK AL-MAGHRIB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
-                "position": 1
+                "position": 3
               },
               {
                 "url": "https://www.bkam.ma/en/Procurement/Procurement-regulations",
@@ -108,20 +156,20 @@
                 "text": "The Procurement Regulations of Bank Al-Maghrib represent a reference in this area. They set the terms and conditions of the Bank's procurements of activities, ...",
                 "source": "BANK AL-MAGHRIB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 4
               },
               {
-                "url": "https://www.bkam.ma/en/Banknotes-and-coins/Maintenance-of-the-currency-quality/Clean-note-policy",
-                "title": "Clean Note Policy - BANK AL-MAGHRIB",
-                "text": "The Clean Note Policy is the whole set of knowledge, organizations and tools relating to controlling the quality of currency in circulation.",
+                "url": "https://www.bkam.ma/en/Monetary-policy/Institutional-framework/Mission",
+                "title": "Mission - BANK AL-MAGHRIB",
+                "text": "Bank Al-Maghrib exerts every effort to ensure greater transparency of its monetary policy decision and facilitate its understanding by the general public.",
                 "source": "BANK AL-MAGHRIB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bkam.ma/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bkam.ma/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -155,15 +203,169 @@
                 "source": "BANK AL-MAGHRIB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bkam.ma/en/Monetary-policy/Strategic-framework/Monetary-policy-decisions/Press-release",
+                "title": "Press release - BANK AL-MAGHRIB",
+                "text": "Bank Al-Maghrib Board Meeting ; Bank Al-Maghrib's Board Meeting - June 24, 2025. Published : 24/06/2025 ; Bank Al-Maghrib's Board Meeting - March 18, 2025.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bkam.ma/en/Financial-stability/Publications/Press-releases",
+                "title": "Press releases - BANK AL-MAGHRIB",
+                "text": "Press releases · Meeting of the Coordination and Systemic Risk Monitoring Committee - 2024 · Quick access · Latest Publications · News · Services to customers of ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "News speeches press news speeches press today",
-            "News speeches press news speeches press 2022"
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.bkam.ma/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bkam.ma/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bkam.ma/en/content/download/537375/5661882/version/2/file/DT-eng-N3.pdf",
+                "title": "Working Paper - BANK AL-MAGHRIB",
+                "text": "ABSTRACT. Using a simple New Keynesian model of a monetary union that incorporates financial frictions, we show that country-targeted macroprudential policy ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bkam.ma/en/Publications-and-research/Research2/Working-paper/2020",
+                "title": "2020 - BANK AL-MAGHRIB",
+                "text": "summary : The objective of this paper is to estimate the size of the shadow economy in Morocco over the period 1988-2018. The CDA and MIMIC approaches are ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bkam.ma/en/Publications-and-research/Research2/Working-paper/2021",
+                "title": "2021 - BANK AL-MAGHRIB",
+                "text": "The Morocco Policy Analysis model (MOPAM) was created in the Bank Al-Maghrib to simulate the impact of external developments, domestic macroeconomic policies, ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bkam.ma/content/download/787992/8754705/version/1/file/Short+term+Finance+Long+term+Effects+Theory.pdf",
+                "title": "Working paper - Short-term Finance, Long-term Effects",
+                "text": "ABSTRACT: We study the effect of working capital loan guarantee programs on firm growth and their aggregate implications.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bkam.ma/en/Publications-and-research/Research2/Events/Third-annual-conference-of-the-regional-research-network-of-central-banks-of-the-middle-east-and-north-africa-mena-september-14-and-15-2023",
+                "title": "BANK AL-MAGHRIB - Third annual conference of the Regional ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bkam.ma&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bkam.ma/var/bkam/storage/images/media/images/video-conf-1406233/8785332-1-fre-FR/video-conf-140623.png",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2022",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.bkam.ma/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bkam.ma/content/download/776052/8673280/Avis%20%20d'ouverture%20des%20%C3%A9chantillons%20prospectus%20notices%20et%20autres%20documents%20techniques%20-135_BKAM_2022.pdf",
+                "title": "AMENAGEMENT INTERIEUR D'UN PLATEAU BUREAU DE BANK AL",
+                "text": "En application des dispositions prises dans le cadre de l'état d'urgence sanitaire décrété à l'échelle nationale pour la gestion de.",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bkam.ma/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bkam.ma/en/Press-releases/Press-releases/Archives/Regional-seminar-on-central-bank-transparency-and-communication-in-monetary-policy",
+                "title": "Regional seminar on “Central bank transparency and communication in ...",
+                "text": "Home · Press releases · Press releases · Archives · Regional seminar on “Central bank transparency and communication in monetary policy” ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADSklEQVR4AV2TA3CraRSGnzhFbHSa29lqbdu2vaO1reHatm3bW9u23cZ/0vzINd/Bh3Pe46MKL06ASoVarSG2MsHSbD++0F4kYovBut+fereg+PAvbJ7iN5dmezHojRQUH0ZkcQR/4V44fGVo2QbZrILZ6mdxpr+4o+bdiujSsDcenjq2eK+zrDqj6UmNVs+OUG9Lzrd413leLm/859lGGPAWlgVwBXOZGvj7ibGuv57LN/vRG/JQFHmrgawsotHosNgDxCPz7taqFyt0hhXLVP/ufPJIEW1/r8FkV0glx28e6/vv63QqRk6enayibDSgWWdRlkTG+ip1Nb88vo484xxq3oMfXwuiUmdp/c1Kw88hfIVeZsf/Orvh75crdNocjLnWjQZMVg/pVITfP73lH0HoLVWrS6j62IndnuHCe7pxFiWo+96JkNBgzAsyP9F0WHv1uxVavXGjAVmW6az78H0pkzrUF3LQ32AijBYxnaW/ei98gQDlB0cZ78mnq8JNIORlYuj/w2r+fP5nAM2JB9kebv73uRuCOxUxPWThq5dD7H/YCr7iJL3VPjxr4lj9S/z3QQCLW6L8oDBZycVI96/FOp3ZrJXldGB9B2RZhRDTcfjpCxx76RiypOKnNxTCywZm63xkFdjnxHmEhBFZEZEyUaZGaxs073z853eJ2FJosKNyz+I9tOSa4Y/3C+iusqNRm0hFnIgZkXxnCpVKi907RyopsP/xd1xUtveZn2tlMcPhp95/lUZr0MyMfXrZ/LiN4XoLhjwJux8CpfP489LrDDqILQukU4vsddgdD+539PWfAahi4RnUKjU6fT6/f37H01Mjf92mN/owGvMQVxX0uRKZlAFFkdDoZnF6j3zt8NPuuzbX5CAjCqjX78BqKoKQXCFUfvTtu+x/2b1aXRyIkmNWIKtGb0yhM4TJyyv90Fuw57VpIYIkZVCt3yFg3UW9zlsCIbHA3odf81jxHpffEl5cIhEVkMUsyVgCY27RZxZb4eWimETZSN52FzYakcQ0q0IUT3D353fZ//wbFEkkFpnEH9r/A5ev/CJRFMgqEmwkA6AF2NaILK4SX5mmqPz4l3PMPosQnfOtKTnqxv72H5BlCVCxLdYC+VN66DjVwgcAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bkam.ma/musee/Retrospective/Conference-la-monnaie-en-tant-que-vecteur-de-communication-a-travers-les-epoques",
+                "title": "BANK AL-MAGHRIB - Conférence \"La monnaie en tant que vecteur ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bkam.ma&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bkam.ma/var/bkam/storage/images/media/mediatheque-du-site-musee/images/conference-monnaie/affiche/7836515-1-fre-FR/affiche_large.jpg",
+                "position": 2
+              },
+              {
+                "url": "https://www.bkam.ma/en/Press-releases/Press-releases/Archives/Regional-seminar-on-central-bank-transparency-and-communication-in-monetary-policy",
+                "title": "BANK AL-MAGHRIB - Regional seminar on “Central bank ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bkam.ma&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bkam.ma/extension/bkam_socle/design/bkam/images/contenu/espace_pedagogique.jpg",
+                "position": 3
+              },
+              {
+                "url": "https://www.bkam.ma/content/download/360854/3034360/Forum%20internationnal%20des%20finances%20et%20des%20affaires.pdf",
+                "title": "Veuillez trouver ci-joint la communication de Monsieur le ...",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bkam.ma&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///763e40d7a7e22636193c1901b93d0dab3fe6b7dd014a41bce3d7b77c94d075ac",
+                "published_time": "2003-12-05T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bkam.ma/content/download/796898/8815709/version/2/file/Circulaire+n%C2%B0+9W2022+relative+aux+modalite%CC%81s+de+communication+par+les+socie%CC%81te%CC%81s+de+financement+collaboratif+aux+contributeurs+de+la+situation+pe%CC%81riodique+de+suivi+de+-+FR.pdf",
+                "title": "Circulaires crowdfunfing - FR",
+                "source": "BANK AL-MAGHRIB",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bkam.ma&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7d9dd00df1fa1d9ac71adb90e3791b61e582fc7c771497d99554b2f8237d3203",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bkam.ma/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

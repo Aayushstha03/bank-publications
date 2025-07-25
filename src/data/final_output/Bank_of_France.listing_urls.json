@@ -6,13 +6,31 @@
         "url": "https://www.banque-france.fr/en/publications-and-statistics/publications",
         "title": "Publications | Banque de France",
         "text": "Discover all Banque de France publications. Publications, Statistics, Statistical Tools, Eco Notepad, All publications.",
-        "listing_probability": 1.0
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.banque-france.fr/en/publications-and-research",
         "title": "Publications and research | Banque de France",
         "text": "The Banque de France publishes a wide range of documents, including its Annual Report, the Banque de France Bulletin on financial and economic themes.",
-        "listing_probability": 1.0
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-research/our-main-publications/annual-reports",
+        "title": "Annual reports page 1 sur 3 - Banque de France",
+        "text": "In its Annual Report, the Banque de France presents the actions implemented during the year to fulfil its three core missions.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/banque-de-france-annual-report-2024-key-figures",
+        "title": "Banque de France Annual Report 2024 – Key figures",
+        "text": "GDP growth in France stood at 1.1% in 2024. It is expected to be a little lower in 2025 at 0.7%, but to pick up more sharply in 2026 and 2027.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/banque-de-france-annual-report-2023",
+        "title": "Banque de France Annual Report 2023",
+        "text": "The Annual Report describes the action taken by the Banque de France over the year to fulfil its three core missions: monetary strategy, financial stability ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -20,22 +38,28 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.banque-france.fr/en/publications-and-research/our-main-publications/banque-de-france-bulletin",
+        "title": "Banque de France Bulletin",
+        "text": "The Banque de France Bulletin covers a range of economic and financial subjects monitored, addressed or studied by central banks.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.banque-france.fr/en/publications-and-statistics/statistics",
         "title": "Statistics page 1 sur 1064 - Banque de France",
-        "text": "Upcoming releases · Banque de France Monthly Monetary Statement - 2025-06 · Money and the financing of the economy - 2025-06 · Interest rates on deposits - 2025-06.",
-        "listing_probability": 0.98
+        "text": "All statistical releases · Upcoming releases · Money and the financing of the economy - 2025-06 · Interest rates on deposits - 2025-06 · Access to bank financing ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/statistics/statistics-studies-cp-mtn",
+        "title": "Statistics and studies on commercial paper and medium-term notes",
+        "text": "The Banque de France's statistical publications on the NEU CP – NEU MTN market provide aggregate data on outstanding commercial paper and medium-term notes.",
+        "listing_probability": 0.7
       },
       {
         "url": "https://www.banque-france.fr/en/statistics",
         "title": "Statistics | Banque de France",
         "text": "The Banque de France publishes a wide range of statistical series. You can search them by theme and/or sub-theme and/or date.",
-        "listing_probability": 0.85
-      },
-      {
-        "url": "https://www.banque-france.fr/en/publications-and-research/our-main-publications/banque-de-france-bulletin",
-        "title": "Banque de France Bulletin",
-        "text": "The Banque de France Bulletin covers a range of economic and financial subjects monitored, addressed or studied by central banks.",
-        "listing_probability": 0.15
+        "listing_probability": 0.9
       }
     ]
   },
@@ -46,19 +70,31 @@
         "url": "https://www.banque-france.fr/en/monetary-strategy/operational-framework/business-continuity-regulations",
         "title": "Business continuity and regulations | Banque de France",
         "text": "The General Documentation sets out monetary policy procedures and instruments currently in force. It is regularly updated to reflect changes in the monetary ...",
-        "listing_probability": 0.05
-      },
-      {
-        "url": "https://www.banque-france.fr/en/governors-interventions/future-money-regulatory-and-policy-issues-related-introduction-cbdcs",
-        "title": "The Future of Money : Regulatory and Policy Issues related to the ...",
-        "text": "I am very pleased to share with you a few thoughts on the challenges which have emerged in the field of money and the associated payments ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.banque-france.fr/en/governors-interventions/policy-mix-world-supply-shocks",
         "title": "The policy mix in a world of supply shocks | Banque de France",
         "text": "Monetary policy affects demand indirectly, via interest rates, while fiscal policy acts directly, via public spending such as investment or ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/financial-stability/institutional-framework/macroprudential-policy",
+        "title": "Macroprudential policy | Banque de France",
+        "text": "France's macroprudential policy, which is aimed at preventing threats to the financial system and preserving financial stability.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/monetary-strategy/means-of-payment/national-cash-management-policy",
+        "title": "National Cash Management Policy - Banque de France",
+        "text": "The Banque de France's cash management activities are based on a dual principle of neutrality and freedom of choice of means of payment.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/monetary-strategy/operational-framework/collateral/monetary-policy-collateral",
+        "title": "Monetary policy collateral | Banque de France",
+        "text": "Monetary policy collateral refers to the guarantees that banks provide to the Banque de France in return for the liquidity it provides.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -72,16 +108,22 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.banque-france.fr/en/press-release",
+        "title": "Press releases - Banque de France",
+        "text": "Press releases. Find press releases from the Banque de France and the European Central Bank. Latest. Default image. ECB press release.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.banque-france.fr/en/news",
+        "title": "News - Banque de France",
+        "text": "All news ; Visuel RSE. Measuring the carbon footprint of French direct investment abroad · Responsible investment ; Groupe de personnes et concept de réseau de ...",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.banque-france.fr/en/news-and-events",
         "title": "News and events | Banque de France",
         "text": "Governor's speeches ; Speech Governor · 14th of May 2025 ; Speech Financial inclusion · 31st of March 2025 ; Hearing Governor · 26th of March 2025 ; Interview Governor",
         "listing_probability": 0.9
-      },
-      {
-        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/coordinating-message-media-coverage-fed-news-and-market-reactions",
-        "title": "Coordinating the Message: Media Coverage of Fed News and Market ...",
-        "text": "This paper examines the homogeneity in media coverage of the Federal Reserve from 1998 to 2021 and its impact on financial markets.",
-        "listing_probability": 0.05
       }
     ]
   },
@@ -92,13 +134,71 @@
         "url": "https://www.banque-france.fr/en/publications-and-research/our-main-publications/working-papers",
         "title": "Working papers page 1 sur 38 - Banque de France",
         "text": "The Working Paper Series showcases research work being conducted at the Banque de France on the development of analytical tools for use in macroeconomic ...",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/reproducibility-economics-research-case-study",
         "title": "The Reproducibility of Economics Research: A Case Study",
         "text": "We describe and present the results of a large reproduction exercise in which we assess the reproducibility of research articles published in the American ...",
-        "listing_probability": 0.01
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/quality-and-diversity-research-ranking-academic-journals",
+        "title": "Quality and Diversity of Research: a Ranking of Academic ...",
+        "text": null,
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/press-release/ecbs-governing-council-updates-its-monetary-policy-strategy",
+        "title": "ECB's Governing Council updates its monetary policy strategy",
+        "text": "ECB's Governing Council updates its monetary policy strategy · Governing Council confirms symmetric 2% inflation target over the medium term · Symmetry requires ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/central-banks-announcements-and-market-inflation-expectations",
+        "title": "Central banks' announcements and market inflation expectations",
+        "text": "This post investigates how monetary policy announcements in the US and the euro area have affected inflation expectations since 2021.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.banque-france.fr/en/press-release/ecb-updates-guide-internal-models",
+        "title": "ECB updates Guide to internal models - Banque de France",
+        "text": "The European Central Bank (ECB) today published its final revised Guide to internal models, following a public consultation which ended in September 2023.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/ecb-communication-and-its-impact-financial-markets",
+        "title": "ECB Communication and its Impact on Financial Markets",
+        "text": "This paper examines market reactions to both ECB Governing Council (ECBGC) meetings and inter-meeting communication (IMC) events.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/central-bank-communication-uncertainty",
+        "title": "Central Bank Communication of Uncertainty | Banque de France",
+        "text": "The purpose of this paper is to examine how central bankers communicate their confidence and uncertainty in their policy deliberation process.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/towards-more-clarity-central-bank-communication",
+        "title": "Towards more clarity in central bank communication | Banque de France",
+        "text": "Central banks are shifting toward greater clarity in communicating their policy decisions, as reflected in simpler and engaging versions of monetary policy ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/clear-consistent-and-inclusive-ecb-communication",
+        "title": "Clear, consistent and inclusive ECB communication | Banque de France",
+        "text": "Post n°244. To ensure public understanding and trust, the ECB has to explain better what it does to all the people it serves.",
+        "listing_probability": 0.1
       }
     ]
   }

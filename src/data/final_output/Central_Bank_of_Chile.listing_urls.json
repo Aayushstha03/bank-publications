@@ -1,1 +1,235 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/areas/monetary-policy/research",
+        "title": "Research & publications - Banco Central de Chile",
+        "text": "The Bank's researchers conduct numerous studies in the economic and financial fields, among others. These studies are published in specialized journals around ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/areas/investigation/publications-in-magazines",
+        "title": "Publications in magazines - Banco Central de Chile",
+        "text": "“What explains monetary policy rate uncertainty? Evidence from the Americas”. Applied Economics Letters. Albagli, E., Arias, A. &, Kirchner, M. (2025). “ ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/news-publications?categoria=Eventos%2FCursos",
+        "title": "News and Publications - Banco Central de Chile",
+        "text": "News and Publications ; Filter by category. Events. Press. Events. Regulations. Publications ; Filter by topic. Courses. Courses ; Filter by subtopic. Filter by ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/news-publications?categoria=Eventos%2FConferencia%20Anual",
+        "title": "News and Publications - Banco Central de Chile",
+        "text": "News and Publications ; Filter by category. Events. Press. Events. Regulations ; Filter by topic. Filter by topic. Workshops. Conferences. Seminars. Courses.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/news-publications?categoria=Eventos/Seminarios",
+        "title": "News and Publications - Banco Central de Chile",
+        "text": "News and Publications ; Filter by category. Events. Press. Events ; Filter by topic. Seminars. Seminars. Pagos digitales ; Filter by year. Filter by year. 2022.",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/areas/statistics",
+        "title": "Statistics and Data - Banco Central de Chile",
+        "text": "The Central Bank has to publish the main national macroeconomic statistics in a timely manner, including those related to currency, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/sexta-conferencia-estadistica-el-poder-de-los-datos-para-un-mundo-inteligente",
+        "title": "Sixth Statistics Conference - The power of data for a smart world",
+        "text": "Sixth Statistics Conference. \"The Power of Data for a Smart World\". Date: June 3-4, 2025. Place: Hotel Intercontinental, Santiago, Chile",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/areas/statistics/dissemination-with-international-organizations",
+        "title": "Special Data Dissemination Standards IMF",
+        "text": "Dates of publication of economic statistics during the next twelve months. This calendar is updated, at least, once a month, and published in compliance with ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/areas/statistics/external-sector/foreign-trade-of-goods",
+        "title": "Foreign Trade of Goods - Banco Central de Chile",
+        "text": "Foreign trade statistics are measured according to the criteria set in the Balance of Payments Manual by the International Monetary Fund (IMF), version 6.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/areas/monetary-policy",
+        "title": "Monetary Policy - Banco Central de Chile",
+        "text": "The monetary policy of the Central Bank of Chile must protect the value of the national currency, the peso, aiming at keeping inflation stable and low.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/en/news-and-publications/normative/summary-of-monetary-and-financial-standards",
+        "title": "Compendium of Monetary and Financial Regulations and its Manual",
+        "text": "Compilation of regulations issued by the Central Bank of Chile using the powers conferred by the Constitutional Organic Law to regulate the amount of money ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcentral.cl/en/news-and-publications/normative/summary-of-regulation-of-internationals-change",
+        "title": "Compendium of International Exchange Regulations and its Manual",
+        "text": "This Compendium comprehends the general rules applicable to foreign exchange that must be observed by entities that are part of the Formal Exchange Market.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/contenido-general-normativa-2",
+        "title": "Content: Internal Regulations - Banco Central de Chile",
+        "text": "The Board of the Central Bank of Chile has the authority to issue the necessary internal regulations for its proper functioning and that of the Bank.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/en/areas/monetary-politics/monetary-policy-meeting-rpm",
+        "title": "Monetary Policy Meeting (RPM) - Banco Central de Chile",
+        "text": "Monetary Policy Meetings are the decision-making instance in which the Board of the Central Bank of Chile sets the level of the Monetary Policy Rate.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/news-publications?categoria=Eventos/Workshops",
+        "title": "News and Publications - Banco Central de Chile",
+        "text": "News and Publications ; Filter by category. Events. Press. Events. Regulations. Publications ; Filter by topic. Workshops. Workshops ; Filter by subtopic. Filter ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/working-papers-n-912",
+        "title": "Working Papers N° 912: Monetary Policy Press Releases",
+        "text": "In this paper, we examine and compare the information contained in the monetary press releases of a group of inflation targeting countries using linguistic ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/detalle/documento-de-trabajo-n-938",
+        "title": "Working Papers N° 938: Using the Press as A Real-Time Economic ...",
+        "text": "This indicator captures the emotional tone of economic and opinion news by making use of an extensive —and novel— purpose-built dictionary in Spanish. This ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/news-publications?categoria=Eventos%2FConferencia%20Anual",
+        "title": "News and Publications - Banco Central de Chile",
+        "text": "News and Publications ; Filter by category. Events. Press. Events. Regulations ; Filter by topic. Filter by topic. Workshops. Conferences. Seminars. Courses.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcentral.cl/en/web/banco-central/news-publications?categoria=Eventos%2FCursos",
+        "title": "News and Publications - Banco Central de Chile",
+        "text": "News and Publications ; Filter by category. Events. Press. Events. Regulations. Publications ; Filter by topic. Courses. Courses ; Filter by subtopic. Filter by ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/content/-/detalle/documento-de-trabajo-n-726",
+        "title": "Working Papers N° 726: Leverage Restrictions in a Business Cycle ...",
+        "text": "We modify an otherwise standard medium-sized DSGE model, in order to study the macroeconomic effects of placing leverage restrictions on financial ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/working-papers-n-902",
+        "title": "Working Papers N° 902: The Internal Labor Markets of Business Groups",
+        "text": "This paper provides micro evidence of labor mobility inside business groups. We show that worker flows between firms in the same group are stronger than with ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/en/areas/monetary-policy/research",
+        "title": "Research & publications - Banco Central de Chile",
+        "text": "Research papers. The continuous process of research conducted by the Bank's staff on different subjects is collected in a series of working papers and studies ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-1020",
+        "title": "Working Papers N° 1020: Financial advisory firms, asset reallocation ...",
+        "text": "Research-Papers. Working Papers N° 1020: Financial advisory firms, asset reallocation and price pressure in the FOREX market.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/15-years-of-new-growth-economics-what-have-we-learnt-4",
+        "title": "Working papers N° 172: 15 Years of New Growth Economics",
+        "text": "Description. Paul Romer's paper Increasing Returns and Long Run Growth, now 15 years old, led to resurgence in the research on economic growth.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/content/-/detalle/heterogeneity-inattention-and-bayesian-updates-7",
+        "title": "Heterogeneity, Inattention and Bayesian Updates",
+        "text": "Heterogeneity, Inattention and Bayesian Updates . Home; News and publications; Seminarios online. Seminarios online. Wednesday, March 20, 2019 ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/documents/33528/4300517/S1_P4_Tovar.pdf/5379bd50-55e4-3bcd-2b49-38827abf170d?t=1696938301946",
+        "title": "Presentation on the Updates to the International Statistical Standards",
+        "text": "The pervasive nature of digitalization makes it difficult to isolate and quantify the economic impact of digitalization.",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.bcentral.cl/web/banco-central/content/-/details/heterogeneity-inattention-and-bayesian-updates-7",
+        "title": "Heterogeneity, Inattention and Bayesian Updates",
+        "text": "Heterogeneity, Inattention and Bayesian Updates. Home; Noticias y publicaciones; Seminarios online. Seminarios online. miércoles 20 de marzo de 2019 ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/contenido/-/details/heterogeneity-inattention-and-bayesian-updates-6",
+        "title": "Heterogeneity, Inattention and Bayesian Updates",
+        "text": "Heterogeneity, Inattention and Bayesian Updates. 8 de julio de 2019. Expositor: Javier Turén, Pontificia Universidad Católica de Chile. Comparte:.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bcentral.cl/en/detalle-eventos/-/asset_publisher/Exzd7l9NC3Y6/content/documentos-de-politica-economica-n-50",
+        "title": "Economic Policy Papers N° 50: Communication Strategies and ...",
+        "text": "Central banks' communication policies have changed dramatically over the last decades. They have moved from being very secretive to much more transparency ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/details/volume-27",
+        "title": "Volume 28, Serie Banca Central: Independence, Credibility, and ...",
+        "text": "An excellent collection of research on an important and timely topic of central bank independence, credibility, and ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/en/content/-/detalle/financial-surveillance-and-communication-recent-and-future-challenges-from-the-chilean-experience-4",
+        "title": "Economic Policy Papers N° 61: Financial Surveillance and ...",
+        "text": "In this paper we present practical examples of the communication of financial stability issues in the Central Bank of Chile´s Financial Stability Report, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcentral.cl/documents/33528/133214/pgs_20092022.pdf/16c42711-3ccb-c920-ab18-242e8b6a7e0a?t=1663686346317",
+        "title": "Communication on Central Bank Statistics: unlocking the next level ...",
+        "text": "Communicating on statistics calls for being transparent and ensuring that high quality standards are followed.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcentral.cl/documents/d/banco-central/ipom_sep2017_rec_cambios_procesos_eng",
+        "title": "box - adjustments to the monetary policy decision-making process and ...",
+        "text": "By publishing the Report the day after the MPM, the Board will have the opportunity of strengthening the communication of the reasons behind the decisions made ...",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

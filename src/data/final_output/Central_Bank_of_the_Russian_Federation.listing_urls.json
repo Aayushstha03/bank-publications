@@ -18,7 +18,13 @@
         "url": "https://www.cbr.ru/eng/statistics/macro_itm/dkfs/",
         "title": "Monetary and Financial Statistics | Bank of Russia",
         "text": "The Statistics Department of the Bank of Russia which is responsible for the monetary and financial statistics compilation.",
-        "listing_probability": 0.1
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.cbr.ru/eng/statistics/statpubl/",
+        "title": "Statistics digests | Bank of Russia",
+        "text": "Statistical publication 'Financial accounts of the system of national accounts of the Russian Federation' No. 5 • 2012 – 2023",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -26,10 +32,10 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.cbr.ru/eng/ec_research/variations-in-the-effects-of-a-single-monetary-policy-the-case-of-russian-regions/",
-        "title": "Variations in the Effects of a Single Monetary Policy",
-        "text": "This paper analyses regional heterogeneity in the reaction of core inflation to shocks of a common monetary policy on the example of Russia.",
-        "listing_probability": 0.05
+        "url": "https://www.cbr.ru/eng/dkp/",
+        "title": "Monetary Policy | Bank of Russia",
+        "text": "Monetary policy is a part of state economic policy aimed at improving Russian citizens' welfare. Its priority is to ensure price stability.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -43,16 +49,96 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.cbr.ru/eng/banking_sector/news/",
-        "title": "News | Bank of Russia",
-        "text": "NewsSpeechesWhat's new. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
-        "listing_probability": 0.98
-      },
-      {
         "url": "https://www.cbr.ru/eng/inside/news/",
         "title": "News | Bank of Russia",
         "text": "NewsPress releasesSpeeches. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbr.ru/eng/cash_circulation/news/",
+        "title": "News | Bank of Russia",
+        "text": "NewsPress releasesSpeechesWhat's new. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbr.ru/eng/banking_sector/news/",
+        "title": "News | Bank of Russia",
+        "text": "01 July 2025 News Social bank accounts and deposits now accessible to low-income individuals 30 June 2025 News Digital ruble today and tomorrow: Bank of Russia ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbr.ru/eng/press/keypr/",
+        "title": "Bank of Russia cuts the key rate by 100 bp to 20.00% p.a.",
+        "text": "On 6 June 2025, the Bank of Russia Board of Directors decided to cut the key rate by 100 basis points to 20.00% per annum.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cbr.ru/eng/ec_research/ser/",
+        "title": "Bank of Russia Working Papers",
+        "text": "Bank of Russia Working Papers · Environmental and Climate Factors of Corporate Lending in Russia · Financial literacy impact on the inflation expectations' ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cbr.ru/eng/params/",
+        "title": "Bank of Russia's latest operational announcements",
+        "text": "Latest operational announcements, deposit auctions, REPO auctions, Bank of Russia bonds, auctions, factors affecting banking sector liquidity.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbr.ru/eng/hd_base/dirrepoauctionparam/",
+        "title": "Repo Auction Announcements | Bank of Russia",
+        "text": "Repo Auction Results: BoR Repos On the estimation of the limits on the Bank of Russia auction-based liquidity providing (absorbing) operations.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.cbr.ru/eng/dkp/depoparams/",
+        "title": "Deposit Auction Announcements | Bank of Russia",
+        "text": "Deposit Auction Announcements ; 03.06.2025, Fine-tuning auction, 1 day ; 06.05.2025, Fine-tuning auction, 1 day ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbr.ru/eng/hd_base/obr/odrpi/",
+        "title": "Bank of Russia Bond Auction Announcements",
+        "text": "Bank of Russia bond auction announcements include auction date, security number, settlement, issue, maturity, coupon type, rate, amount offered, and minimum ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cbr.ru/Content/SaveToPdf/Page?url=%2Fpress%2Fevent%2F%3Fid%3D9611",
+        "title": "Regulator recommends banks to give more scam alerts to their customers",
+        "text": "The recommendations suggest that information on how to avoid phone and Internet scams is placed in online banking applications, on bank websites, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbr.ru/Content/SaveToPdf/Page?url=/press/pr/?file=01062020_133215pr_eng_20200601_01.htm",
+        "title": "Notices of intent to buy Asian-Pacific Bank's equity considered",
+        "text": "Given that the parties concerned lack confidence due to the COVID-19 pandemic and in order to expand the range of bidders and achieve an adequate price for ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "http://www.cbr.ru/Content/SaveToPdf/Page?url=%2Fpress%2Fevent%2F%3Fid%3D12275",
+        "title": "Communication with consumers via financial institutions ...",
+        "text": null,
+        "listing_probability": 0.05
       }
     ]
   }

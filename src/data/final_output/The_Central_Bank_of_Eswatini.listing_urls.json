@@ -3,10 +3,16 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.centralbank.org.sz/annual-report/",
+        "title": "Annual Reports - Central Bank of Eswatini",
+        "text": "Online Annual Integrated Reports · Annual Economic Review Report: 2024 – 2025 · Annual Economic Review Report: 2023 – 2024 · Annual Economic Review Report: 2022 – ...",
+        "listing_probability": 0.99
+      },
+      {
         "url": "https://www.centralbank.org.sz/reports/",
         "title": "Reports - Central Bank of Eswatini",
         "text": "Annual Reports · Quarterly Reports · Bi-Monthly Reports · Monthly Reports · Financial Markets · Financial Regulation · Fintech · Assets & Liabilities.",
-        "listing_probability": 0.98
+        "listing_probability": 0.99
       },
       {
         "url": "https://www.centralbank.org.sz/quarterly-reports/",
@@ -19,6 +25,12 @@
         "title": "Consolidated Reports - Central Bank of Eswatini",
         "text": "Consolidated Reports · December 2017 · Bankers-August-2017 · Bankers-July-2017 · Bankers-March-2017 · Bankers-February-2017 · Bankers-January-2017.",
         "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.centralbank.org.sz/financial-stability-report/",
+        "title": "Financial Stability Reports - Central Bank of Eswatini",
+        "text": "Financial Stability Report June 2023 · Financial Stability Report June 2022 · Financial Stability Report June 2021 · Financial Stability Report June 2020.",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -26,22 +38,22 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.centralbank.org.sz/research-statistics/",
+        "title": "Research - Central Bank of Eswatini",
+        "text": "The Bank publishes statistics on the real monetary, financial and fiscal sector which are relevant to economic policy and its regulatory responsibilities.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.centralbank.org.sz/research-bulletin/",
         "title": "Research Bulletin - Central Bank of Eswatini",
         "text": "Research Bulletin ; 2024. Volume 8 - May 2024 ; 2022. Volume 6 - March 2022 ; 2021. Volume 5 - March 2021 ; 2020. Volume 4 - March 2020 ; 2019. Volume 3 - March 2019.",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.centralbank.org.sz/research-bulletin-volume-8-may-2024/",
         "title": "Research Bulletin Volume 8 – May 2024 - Central Bank of Eswatini",
         "text": "Research Bulletin Volume 8 – May 2024 · Related posts · Monthly Statistical Release: May – June 2025 · CBE Governor Tackles How US Tariffs ...",
         "listing_probability": 0.05
-      },
-      {
-        "url": "https://www.centralbank.org.sz/events/data-analytics/",
-        "title": "Data Analytics - Central Bank of Eswatini",
-        "text": "Time. 1 (Sunday) 9:03 am - 30 (Monday) 9:03 am. CalendarGoogleCal. Comments are closed. Contact. Mahlokohla Street Mbabane, Eswatini",
-        "listing_probability": 0.01
       }
     ]
   },
@@ -55,16 +67,22 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.centralbank.org.sz/monetary-policy-statements-2/",
+        "title": "Monetary Policy Statements - Central Bank of Eswatini",
+        "text": "Monetary Policy Statements; Governor's Annual Monetary Policy Statements. 2025. MPCC Statement - 30 May 2025 · MPCC Statement - 21 Mar 2025.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.centralbank.org.sz/consumer-related-laws-and-regulations/",
         "title": "Consumer related laws and regulations - Central Bank of Eswatini",
         "text": "Consumer related laws and regulations: CBE Guideline on Banking Practice 2018, CBE Guideline on KFS, CCA Amendment Act, Legal Notice 62 of 2016, Legal Notice ...",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.centralbank.org.sz/monetary-policy-statements-2/",
-        "title": "Monetary Policy Statements - Central Bank of Eswatini",
-        "text": "Monetary Policy Statements; Governor's Annual Monetary Policy Statements. 2025. MPCC Statement - 30 May 2025 · MPCC Statement - 21 Mar 2025.",
-        "listing_probability": 0.95
+        "url": "https://www.centralbank.org.sz/governors-annual-monetary-policy-statement-2025/",
+        "title": "Governors Annual Monetary Policy Statement 2025 – Central Bank",
+        "text": "Governors Annual Monetary Policy Statement 2025 · Related posts · CBE releases updated E20 and E10 · Licensing of Letshego Eswatini Bank (LEB) ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -72,22 +90,80 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.centralbank.org.sz/speeches/",
-        "title": "Speeches - Central Bank of Eswatini",
-        "text": "Deputy Governor's Opening Remarks CMA ExchangeControl Quarterly Meeting - June 2025 ; Deputy Governor's Speech - Global Money Week Education Fair March 2025.",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.centralbank.org.sz/press-statements/",
         "title": "Press Statements - Central Bank of Eswatini",
         "text": "The Central Bank of Eswatini would like to warn the public about a fraudulent message that is currently doing the rounds.",
-        "listing_probability": 0.1
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.sz/speeches/",
+        "title": "Speeches - Central Bank of Eswatini",
+        "text": "Speeches ; Deputy Governor's Opening Remarks CMA ExchangeControl Quarterly Meeting - June 2025 ; Deputy Governor's Speech - Global Money Week Education Fair March ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.org.sz/category/news/page/34/",
+        "title": "News – Page 34 - Central Bank of Eswatini",
+        "text": "News · Recent Economic Development: Jan – Feb 25 · Johannesburg Stock Exchange (JSE) Award · Eswatini CMA Retail EFT Payment Directive · Monthly Statistical Release ...",
+        "listing_probability": 0.99
       },
       {
         "url": "https://www.centralbank.org.sz/category/press-statements/page/7/",
         "title": "Press statements – Page 7 - Central Bank of Eswatini",
         "text": "The Central Bank of Eswatini has sent its congratulatory message to the Macroeconomic and Financial Management Institute of Eastern and Southern Africa (MEFMI) ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.sz/latest-updates/",
+        "title": "Latest Updates - Central Bank of Eswatini",
+        "text": "The Central Bank of Eswatini (CBE) is pleased to announce the decision to grant a provisional license to a new entrant in the banking space꞉ Letshego […].",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.org.sz/umntsholi-news/",
+        "title": "Latest Updates - Central Bank of Eswatini",
+        "text": "The Central Bank of Eswatini (CBE) is pleased to announce the decision to grant a provisional license to a new entrant in the banking space.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.org.sz/umntsholi-news/page/3/",
+        "title": "Latest Updates – Page 3 - Central Bank of Eswatini",
+        "text": "Latest Updates · Monthly Statistical Release February – March 2025 · Eswatini CMA Retail EFT Payment Directive · Johannesburg Stock Exchange (JSE) Award · Recent ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.centralbank.org.sz/umntsholi-news/page/9/",
+        "title": "Latest Updates – Page 9 - Central Bank of Eswatini",
+        "text": "Latest Updates · MPCC Statement: 19 July 2024 · RED May – June 2024 · Research Bulletin Volume 8 – May 2024 · Monthly Statistical Releases : May – Jun 2024 · Annual ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.centralbank.org.sz/umntsholi-news/page/7/",
+        "title": "Latest Updates – Page 7 - Central Bank of Eswatini",
+        "text": "Latest Updates · MPCC Statement – 20 Sept 2024 · Recent Economic Developments (RED) · Monthly Statistical Release : Jul – Aug 2024 · Bonds Advert – Sep 2024 · Annual ...",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.sz/coupon-payment-notices/",
+        "title": "Coupon Payment Notices – Central Bank",
+        "text": "Coupon Payment Notices. 2020 Quarterly Review. 2020-December-Quarterly Review. 2020-June-Quartely-Review. 2020-September-Quarterly Review.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.sz/coupon-payment-notices-2/",
+        "title": "Coupon Payment Notices – Central Bank",
+        "text": "Coupon Payment Notices. Home; Coupon Payment Notices. SG009Notice30Nov2014 · SG011-31JUL2014 · SG011Notice_Jan2015 · SG013Notice_19JUN2015.",
+        "listing_probability": 0.95
       }
     ]
   }

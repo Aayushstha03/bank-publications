@@ -1,4 +1,348 @@
 {
   "Bank Name": "Central Bank of Luxembourg",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcl.lu/en/publications/index.html",
+                "title": "Publications - Banque centrale du Luxembourg",
+                "text": "The BCL releases several publications each year, such as an Annual Report, Economic Bulletins, a Financial Stability Review and Working Papers.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcl.lu/en/Research/publications/index.html",
+                "title": "Publications - Banque centrale du Luxembourg",
+                "text": "BCL staff publish their research in the BCL working paper series to disseminate new results and promote discussion and feedback.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcl.lu/en/Financial-Stability-and-Prudential-supervision/stabilite_financiere/Research-and-analyses/Publications/index.html",
+                "title": "Publications - Banque centrale du Luxembourg",
+                "text": "Research and Publications Research objectives and priorities Conferences, workshops and seminars Publications Research Cooperation Surveys conducted by the BCL",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcl.lu/en/publications/Annual-reports/index.html",
+                "title": "BCL Annual Report - Banque centrale du Luxembourg",
+                "text": "The BCL, according to its organic law, publishes each year a report on its activities, including the report of its financial auditor.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcl.lu/en/About/missions_bcl/recherche_publications/index.html",
+                "title": "Research and publications - Banque centrale du Luxembourg",
+                "text": "Each year the BCL releases several publications, including a financial stability review, containing analyses on current economic and financial issues.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bcl.lu/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcl.lu/en/statistics/index.html",
+                "title": "Statistics - Banque centrale du Luxembourg",
+                "text": "The published statistics on pages «Statistics» are either directly compiled by the BCL, or by other national and international institutions.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcl.lu/en/statistics/series_statistiques_luxembourg/index.html",
+                "title": "Statistical tables - Banque centrale du Luxembourg",
+                "text": "Statistical tables ; 1, Monetary policy statistics ; 2, Monetary and financial developments in the euro area and Luxembourg ; 3, Capital markets and interest rates.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcl.lu/en/payment-systems/Payment-Statistics/index.html",
+                "title": "Payment statistics - Banque centrale du Luxembourg",
+                "text": "ECB payment statistics. The ECB regularly publishes detailed payment statistics with data sourced from the BCL's CDDP collection.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcl.lu/en/statistics/series_statistiques_luxembourg/13_investment_funds/index.html",
+                "title": "Investment funds - Banque centrale du Luxembourg",
+                "text": "Statistical tables · Monetary policy statistics · Monetary and financial developments in the euro area and Luxembourg · Capital markets and interest rates ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcl.lu/en/Regulatory-reporting/Etablissements_credit/Statistiques-bancaires-et-monetaires/index.html",
+                "title": "Monetary and financial statistics - Banque centrale du Luxembourg",
+                "text": "Statistics, statistical tables, release calendar, statistical press releases, regulatory reporting, credit institutions, payment institutions / electronic ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
+          "query": {
+            "q": "site:https://www.bcl.lu/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcl.lu/en/Legal-Framework/documents_national/regulations/index.html",
+                "title": "Regulations of the Banque centrale du Luxembourg",
+                "text": "Regulations of the Banque centrale du Luxembourg are published in the Official Gazette and on this website. Consolidated versions of certain BCL regulations are ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcl.lu/en/Monetary-policy/instruments/index.html",
+                "title": "Monetary policy instruments - Banque centrale du Luxembourg",
+                "text": "The Eurosystem has a set of monetary policy instruments and procedures at its disposal to achieve its main objective of maintaining price stability in the euro ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcl.lu/en/Monetary-policy/instruments/open_market_op/4-types-d_operations-open-market/index.html",
+                "title": "Four types of open market operations - Banque centrale du Luxembourg",
+                "text": "1. Main refinancing operations are regular liquidity-providing reverse transactions with a frequency and maturity of one week.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcl.lu/en/Regulatory-reporting/Etablissements_credit/AnaCredit/Re_-man-et-circu/index.html",
+                "title": "Regulations, manual, circulars and circular letters",
+                "text": "Regulations, manual, circulars and circular letters ; Last update ; Regulations, 16.03.2017 ; Manual, 31.05.2019 ; Circular, 21.04.2017 ; Circular letters, 16.01.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcl.lu/en/Monetary-policy/index.html",
+                "title": "Monetary Policy - Banque centrale du Luxembourg",
+                "text": "The Eurosystem is responsible for the formulation of the single monetary policy, monetary policy decisions and their implementation in the euro area.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcl.lu/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcl.lu/en/Media-and-News/index.html",
+                "title": "Media and News - Banque centrale du Luxembourg",
+                "text": "Press releases · Statistical press releases · Publications · Governor's speeches · Governor's interviews · Conferences · Photos.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcl.lu/en/Media-and-News/Press-releases/index.html",
+                "title": "Press releases - Banque centrale du Luxembourg",
+                "text": "01Jul Consumer confidence survey The Banque centrale du Luxembourg's consumer confidence indicator has declined significantly in June 2025.(...) June 2025.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcl.lu/en/publications/Speeches/index.html",
+                "title": "Governor's speeches - Banque centrale du Luxembourg",
+                "text": "17Nov Beyond the Horizon of the Luxembourg Presidency: A Central Banker's Perspective - Speech by Gaston Reinesch, Governor Speech by Mr. Gaston Reinesch, ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcl.lu/en/Media-and-News/statistics_communiques/index.html",
+                "title": "Statistical press releases - Banque centrale du Luxembourg",
+                "text": "Statistical press releases, regulatory reporting, credit institutions, payment institutions / electronic money institutions, securitisation vehicles.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcl.lu/en/payment-systems/Reporting/News/index.html",
+                "title": "News - Banque centrale du Luxembourg",
+                "text": "About the BCL, monetary history, the BCL within the Eurosystem, the BCL's missions, organisation, the BCL's independence, opening days, reception of the public.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bcl.lu/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcl.lu/en/publications/Working-papers/1/BCLWP001.pdf",
+                "title": "CAHIER D'ETUDES WORKING PAPER",
+                "text": "The present paper proposes to describe and analyse the Luxembourg labour market from a central bank's point of view. In order to set the appropriate basic.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcl.lu/en/publications/Working-papers/44/BCLWP044.pdf",
+                "title": "CAHIER D'ÉTUDES WORKING PAPER N° 44",
+                "text": "In particular, we will look at the relationship between collateral policy and interest rate policy, and see how central banks could use ...",
+                "source": "Banque centrale du Luxembourg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcl.lu/en/publications/Working-papers/17/BCLWP017.pdf",
+                "title": "CAHIER D'ÉTUDES WORKING PAPER N° 17",
+                "text": "Recent research on micro consumer prices has shown that the frequency of price change positively depends on the level of inflation prevailing over the sample ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcl.lu/en/Research/publications/index.html",
+                "title": "Publications - Banque centrale du Luxembourg",
+                "text": "BCL staff publish their research in the BCL working paper series to disseminate new results and promote discussion and feedback.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcl.lu/en/publications/Working-papers/20/BCLWP020.pdf",
+                "title": "CAHIER D'ÉTUDES WORKING PAPER N° 20",
+                "text": "The aim of this paper is to provide an assessment of the housing market in Luxembourg . ... (1'). On peut montrer que cette équation récursive admet une solution ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcl.lu/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcl.lu/fr/cadre_juridique/documents_nationaux/conditions_generales/annexes_new/CG_annexe_10_03_23.pdf",
+                "title": "BCL MESSAGES USER GUIDE",
+                "text": "With respect to the messages used in TARGET-LU, the present guide provides some examples on how messages addressed to BCL in TARGET-LU could be built to ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcl.lu/fr/cadre_juridique/documents_nationaux/conditions_generales/annexes_new/CG_Annexe_15_f_BCL_SWIFT_User_Guide_2025.pdf",
+                "title": "BCL MESSAGES USER GUIDE",
+                "text": "This guide provides information in relation to messages exchanged with BCL in the following areas: 1. Payments (in TARGET-LU) and securities market (in ECMS).",
+                "source": "Banque centrale du Luxembourg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcl.lu/en/Media-and-News/Press-releases/2023/02/Sanctions/index.html",
+                "title": "Communication from the BCL on the Luxembourg financial system's ...",
+                "text": "The purpose of this communication is to inform about the financial interactions of the Luxembourg financial system with counterparties ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "published_time": "2023-02-17T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcl.lu/fr/systeme_paiement/TARGET-Services/New-T2/2021-11-24-BCL-TARGET-Consolidation-Training---session-n_12---RTGS-A2A-main-messages.pdf",
+                "title": "RTGS A2A main messages - Target Consolidation Training",
+                "text": "UDFS contains the links to MyStandards for the messages guidelines. ➢ T2 messages can be tested in the MyStandards Readiness Portal.",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "published_time": "2021-11-24T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcl.lu/fr/systeme_paiement/TARGET-Services/New-T2/2021-11-23-BCL-TARGET-Consolidation-Training---session-n_9---CLM-A2A-messages.pdf",
+                "title": "CLM A2A messages - Target Consolidation Training",
+                "text": "Camera off by default. ▫ Microphone off by default. ▫ Questions allowed in the chat or by raising hand. ▫ In case of too many questions, ...",
+                "source": "Banque centrale du Luxembourg (BCL)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX///9ttc7+/v6XytzN5e5Rp8T2+vy12ebv9/oxl7nj8fb29vbt6+u+v8G1trnY1NYOSAz3AAAAZ0lEQVR4AWPAAhgVoAwTmEgAmExgYBcA0ewGDIwGQJqpk4GBdckiBu4DwgoMnE3hDGfZpjMwcCZoMjximMLAxKDA4POPgRnIOPAASPxjYNAUmKn0TqmygPmzxyJms8bcE0AzFFDtBgDumBOcVvDxtQAAAABJRU5ErkJggg==",
+                "published_time": "2021-11-23T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Communication messages communication messages pdf",
+            "Communication messages communication messages examples"
+          ],
+          "query": {
+            "q": "site:https://www.bcl.lu/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

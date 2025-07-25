@@ -24,17 +24,33 @@
                 "position": 2
               },
               {
+                "url": "https://www.cbcg.me/en/publications/regular-publications/central-bank-of-montenegro-annual-report",
+                "title": "Central Bank of Montenegro Annual Report - CBCG",
+                "text": "CBCG Annual Report gives an overview of the basic activities of the Central Bank's organizational units in the past year.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
                 "url": "https://www.cbcg.me/en/core-functions/financial-stability/indicators-and-reports",
                 "title": "Indicators and Reports - CBCG",
                 "text": "The Central Bank uses several quantitative and qualitative indicators in order to assess the situation regarding financial stability.",
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.cbcg.me/en/publications/regular-publications/cbcg-macroeconomic-report/annual-report",
+                "title": "Annual Report - CBCG",
+                "text": "Central Bank of Montenegro Macroeconomic Report 2023 - Download full text PDF · Macroeconomic Environment in Montenegro in 2023 · Real Sector Developments.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.cbcg.me/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.cbcg.me/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -46,17 +62,17 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbcg.me/en/statistics/statistical-data",
-                "title": "Statistical Data - CBCG",
-                "text": "Statistical Data · Monetary and Financial Statistics · Financial Soundness Indicators · Interest Rates · T-bills Statistics · Capital Market · International Economic ...",
+                "url": "https://www.cbcg.me/en/publications/regular-publications/cbcg-bulletin",
+                "title": "CBCG Bulletin",
+                "text": "The Bulletin is a monthly publication by the Central Bank of Montenegro, giving an overview of the main statistical data on monetary developments.",
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.cbcg.me/en/publications/regular-publications/cbcg-bulletin",
-                "title": "CBCG Bulletin",
-                "text": "The Bulletin is a monthly publication by the Central Bank of Montenegro, giving an overview of the main statistical data on monetary developments.",
+                "url": "https://www.cbcg.me/en/statistics/statistical-data",
+                "title": "Statistical Data - CBCG",
+                "text": "Statistical Data · Monetary and Financial Statistics · Financial Soundness Indicators · Interest Rates · T-bills Statistics · Capital Market · International Economic ...",
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
                 "position": 2
@@ -68,16 +84,31 @@
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbcg.me/en/about-us/legislation/regulations/statistics",
+                "title": "Statistics - CBCG",
+                "text": "Balance of payments statistics · Statistics of monetary financial institutions · Statistics of other financial institutions · Interest rates statistics.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbcg.me/en/statistics/enhanced-general-data-dissemination-system-egdds",
+                "title": "Enhanced General Data Dissemination System (e-GDDS)",
+                "text": "The e-GDDS was established by the IMF's Executive Board in May 2015 to support improved data transparency, encourage statistical development, and help create ...",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin 2022",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:https://www.cbcg.me/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.cbcg.me/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -97,12 +128,20 @@
                 "position": 1
               },
               {
+                "url": "https://www.cbcg.me/en/core-functions/supervision-of-compliance-and-protection-of-rights/protection-of-the-rights-of-credit-institutions-clients-and-users-of-financial-services/central-banks-policy-in-the-area-of-consumer-protection",
+                "title": "Central Bank's Policy in the Area of Consumer Protection - CBCG",
+                "text": "The CBCG pursues the consumer protection policy by continuously aligning the regulatory framework with relevant EU regulations and undertaking activities.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
                 "url": "https://www.cbcg.me/en/about-us/history-goals-and-functions/policy-for-the-attainment-of-objectives-and-the-exercising-of-functions",
                 "title": "Policy for the Attainment of Objectives and the Exercising of Functions",
                 "text": "The CBCG Policy for attainment of objectives and the exercising of functions defines the guidelines for the main activities of the CBCG.",
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.cbcg.me/en/core-functions/monetary-policy",
@@ -110,12 +149,20 @@
                 "text": "The CBCG pursues monetary policy in a specific foreign exchange regime. The existing foreign exchange regime in Montenegro is dollarisation (euroisation).",
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.cbcg.me/en/core-functions/supervision/aqr/guidelines-for-portfolio-selection",
+                "title": "Guidelines for Portfolio Selection - CBCG",
+                "text": "The guidelines prescribe the organisation, data, and methodology for conducting portfolio selection, which is the starting point for the entire AQR process.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.cbcg.me/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.cbcg.me/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -149,11 +196,28 @@
                 "source": "CBCG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbcg.me/en/financial-stability-council/press-releases",
+                "title": "Press Releases - CBCG",
+                "text": "Press Releases: 17/06/2025 Meeting of the Financial Stability Council, 24/03/2025 Adopted Financial Sector's Roadmap towards Sustainable Finance.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbcg.me/en/public-relations/news/press-releases/press-release?id=2758",
+                "title": "Press Release - CBCG",
+                "text": "The Central Bank of Montenegro's independence is key to its operation under the Constitution of Montenegro and the Central Bank of Montenegro ...",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "published_time": "2025-05-20T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.cbcg.me/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.cbcg.me/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -175,7 +239,54 @@
             ]
           },
           "query": {
-            "q": "site:https://www.cbcg.me/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.cbcg.me/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/journal/vol11/jcbtp-2022-0022.pdf",
+                "title": "Who Should You Listen to in a Crisis? Differences in Communication of ...",
+                "text": "Abstract: Communication has become a vital part of modern mon- etary policy, and its importance is even higher during a crisis when.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/journal/vol8/no2/jcbtp-2019-0011.pdf",
+                "title": "Central Bank Communication and Monetary Policy Predictability under ...",
+                "text": "Abstract: Modern central banks increasingly value monetary policy transparency, and attempt to build credibility by communicating.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbcg.me/repec/cbk/journl/vol5no3-9.pdf",
+                "title": "Over-reaction to Policy Signals, and Central Bank Optimal ... - CBCG",
+                "text": "Abstract: This paper reviews the theoretical arguments and counter arguments regarding central bank optimal communication policy.",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbcg.me/en/public-relations/news/press-releases/cbcg-governor-and-ceos-of-banks-on-the-implementation-of-the-decision-on-interim-measures-simplify-procedures-and-communication-with-clients",
+                "title": "CBCG Governor and CEOs of banks on the implementation of the ...",
+                "text": "The CBCG will fully support the commercial banks in implementing the Decision on interim measures through daily communication and continuous ...",
+                "source": "CBCG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///80bagYWZwaWp1+osdSgrQaWZ1okr5ulsBMfrIASJIITJWeudVKfbEASJKsw9sya6eowNkMUJcwaqaYtNIQU5e2yt/I1+bQ3OoCSZJWhbZymcE2bqiQr8+wxtwITZXG1eZ8oMa+0OK2yt8gXp8+dKxaiLjS3uuivNYqZqPc5e+kvddMfrISVJlUhLVkj7y4y+DC0+TG1eYCSJKqwdoeXJ2Kqsw8cqt4ncXG1eayx90WV5uattOkvdcCSZJCd65DzFsrAAAAQHRSTlMAyeXjfqzjlJCy//Ves/1Qy1bwzmTtRjMt+qeLxmtN9jWBPkfcv6MqWtIfWa/qqJlFOjj6U+BxwYY3TOdjV/y7RpGqZAAAAIhJREFUeAGUSrUBAkAMvOT9cR0AW4D9x8BpcKlwt8AGRM/wf9GvnproRvb+0neKwo9JItzcNvFkq+HpCkc3wAJIEsM5/PYiW/Lbr1CG92VUQwMxRhECRPCI8ocOjOjXIowl2UdzdeKM6wBmCmgtiSv4qgC0t4ASULwApFgby84pDtp+Zs9MhucApOwcLYc1mjAAAAAASUVORK5CYII=",
+                "published_time": "2020-03-20T00:00:00",
+                "position": 4
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.cbcg.me/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

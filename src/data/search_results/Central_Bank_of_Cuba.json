@@ -1,4 +1,240 @@
 {
   "Bank Name": "Central Bank of Cuba",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publicaciones",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bc.gob.cu/storage/manual-regulaciones/December2020/qeRu6jTNQOn3OzjrRuo0.pdf",
+                "title": "P-GOC[10-2020].pdf - Ministerio de Finanzas y Precios",
+                "text": "GOC-2020-855-EX72. RESOLUCIÓN CONJUNTA MFP- MINCEX No. 5-2020. POR CUANTO: El Decreto-Ley 17 “De la Implementación del Proceso de Ordena-.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "published_time": "2020-12-10T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bc.gob.cu/ (inurl:publicaciones OR inurl:informes) OR (intitle:publicaciones OR intitle:informes)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "estadísticas",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bc.gob.cu/noticia/20-important-facts-to-understand-what-happens-with-virtual-stores-in-cuba/828",
+                "title": "20 datos importantes para entender qué pasa con las tiendas virtuales ...",
+                "text": "1. ¿Por qué en todas las provincias, excepto La Habana, hay una sola tienda virtual? · 2. ¿Por qué la tienda virtual de Matanzas radica en Cárdenas? · 3. ¿Puedo ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/cuba-en-datos-las-redes-por-las-que-se-llega-al-comercio-electronico/413",
+                "title": "Cuba en Datos: Las redes por las que se llega al comercio electrónico",
+                "text": "En los últimos años, tarjetas magnéticas, compras online, telebanca, POS, IP son términos que se vuelven ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "published_time": "2019-06-21T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/cuba-en-datos-el-camino-hacia-la-inmunizacion/1084",
+                "title": "Cuba en Datos: El camino hacia la inmunización",
+                "text": "Cubadebate comparte con sus lectores algunos datos claves sobre los candidatos vacunales: ¿Cuáles son las formulaciones de los candidatos ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "published_time": "2021-03-30T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bc.gob.cu/ (inurl:estadísticas OR inurl:boletín OR inurl:datos) OR (intitle:estadísticas OR intitle:datos OR intitle:boletín)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "política_monetaria",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bc.gob.cu/manual-regulaciones",
+                "title": "Manual de Regulaciones - Banco Central de Cuba",
+                "text": "Capítulo 1. Instituciones financieras del Sistema Bancario Nacional · Capítulo 2. Sobre el capital y reservas · Capítulo 3. Regulaciones de Política Monetaria.",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bc.gob.cu/politica-monetaria",
+                "title": "Política Monetaria - Banco Central de Cuba",
+                "text": "La Política Monetaria se define como el conjunto de acciones que ponen en práctica los bancos centrales para controlar los tipos de interés y la cantidad de ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/banco-central-de-cuba-actualiza-las-regulaciones-para-la-importacion-y-exportacion-de-moneda-libremente-convertible/869",
+                "title": "Banco Central de Cuba actualiza las regulaciones para la importación y ...",
+                "text": "La nueva norma estipula además que a la salida del país se pueden exportar libremente hasta cinco mil dólares estadounidenses o su equivalente en otras MLC en “ ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bc.gob.cu/regulaciones-sbancaria",
+                "title": "Regulaciones de Supervisión Bancaria - Banco Central de Cuba",
+                "text": "Regulaciones de Supervisión bancaria · Capítulo 1. Acuerdos del Consejo de Dirección del BCC a controlar por la OSB. · Capítulo 2. Instrucciones OSB. · Capítulo 3.",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bc.gob.cu/storage/investigaciones/March2018/j7NtiSo4UCT5pccMRO15.pdf",
+                "title": "ESQUEMA GENERAL DE POLÍTICA MONETARIA",
+                "text": "Olga Pérez Soto, Profesora Titular, Universidad de La Habana. La presente investigación propone un esquema de política monetaria para su utilización por el ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Política regulaciones directrices política regulaciones pdf",
+            "Política regulaciones directrices política regulaciones 2022",
+            "Política regulaciones directrices política regulaciones 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bc.gob.cu/ (inurl:política OR inurl:regulaciones OR inurl:directrices) OR (intitle:política OR intitle:regulaciones)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "noticias",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bc.gob.cu/info-sala-de-prensa",
+                "title": "Sala de Prensa - Banco Central de Cuba",
+                "text": "Noticias ; Calendario de pago a jubilados y pensionados de la seguridad social, General, 2025-07-17 ; Conocimiento, identidad y diversión apuntalan en BCC ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/conferencia-de-prensa-en-el-bcc/409",
+                "title": "Conferencia de Prensa en el BCC - Banco Central de Cuba",
+                "text": "20 de junio 2019 |. En el Centro de Información Bancaria y Económica del BCC se realizó la Conferencia de Prensa sobre los Canales de Pago Electrónicos, ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/dia-de-la-prensa-cubana-la-verdad-tan-alta-como-las-palmas-reales/1884",
+                "title": "Día de la Prensa Cubana, la verdad tan alta como las palmas reales",
+                "text": "Cuba arriba al Día de la Prensa Cubana este 14 de marzo del 2024, en medio de las más difíciles tareas que le ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "published_time": "2024-03-13T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/directivo-del-bcc-dialoga-con-prensa-latina-sobre-comercio-electronico/321",
+                "title": "Directivo del BCC dialoga con Prensa Latina sobre comercio electrónico",
+                "text": "Banco Central de Cuba | Implementación de Política Monetaria, perfeccionamiento del Sistema de Pago y Supervisión de Instituciones Financieras.",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/feliz-dia-de-la-prensa-cubana/1722",
+                "title": "Feliz día de la Prensa Cubana - Banco Central de Cuba",
+                "text": "131 años de la creación del periódico Patria \"para juntar y amar\", así homenajeamos a la Prensa Cubana en su día. Felicidades!! Compartir:.",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "published_time": "2023-03-14T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bc.gob.cu/ (inurl:noticias OR inurl:discursos OR inurl:prensa) OR (intitle:noticias OR intitle:discursos OR intitle:prensa)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "comunicación",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bc.gob.cu/noticia/importancia-de-laa-comunicacion-en-las-organizaciones/1447",
+                "title": "Importancia de la comunicación en las organizaciones - Banco ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bc.gob.cu&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bc.gob.cu//storage/noticias/February2022/14.png",
+                "published_time": "2022-02-09T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/importancia-de-laa-comunicacion-en-las-organizaciones/1447",
+                "title": "Importancia de la comunicación en las organizaciones - Banco ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bc.gob.cu&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bc.gob.cu//storage/noticias/February2022/23.png",
+                "published_time": "2022-02-09T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/sector-bancario-en-proyeccion-de-implementar-la-ley-de-comunicacion-social/1981",
+                "title": "Sector bancario en proyección de implementar la Ley de ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bc.gob.cu&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bc.gob.cu//storage/noticias/November2024/Captura%20de%20pantalla%20(5).png",
+                "published_time": "2024-11-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/directivos-del-sistema-bancario-conceden-entrevistas-a-los-medios-de-comunicacion-sobre-la-resolucion-2762021/1324",
+                "title": "Directivos del sistema bancario conceden entrevistas a los ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bc.gob.cu&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "http://www.bc.gob.cu//storage/noticias/October2021/La%20clase%20del%2087%20de%20La%20Esperanza%20recauda%2010%20mil%20euros%20para%20la%20biblioteca.png",
+                "position": 4
+              },
+              {
+                "url": "https://www.bc.gob.cu/noticia/importancia-de-laa-comunicacion-en-las-organizaciones/1447",
+                "title": "Importancia de la comunicación en las organizaciones - Banco Central de ...",
+                "text": "Los mensajes tienen relación con la tarea o con factores humanos (coordinación, participación en la ...",
+                "source": "Banco Central de Cuba",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOBAMAAAC88gOBAAAAMFBMVEXHoQXHoQXHoQXHoQXHoQVHcEzHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQXHoQUrUg4OAAAAEHRSTlNXnpKrIwAvGGwO/MnjPUl+1d2iFgAAALNJREFUeAFjYFQCAWXXUChgME0AshNKTTthAiILV4fOOnxUjBEusDTYdEGoqrjSVbhA6LKjoaqit1Myr1wDC6ybusBsz1Gxhh+M06ZNBQpIXmk8uuYJq7iCi9uTd6EgATagwHVW0cbat3x1rr6+MC0KSS037nW03m0HGbp2a6iqgu3c9BJWdl9fsLXrQlU1Pl5ruQqxdvHq0KqNR8X/v+1vhTq9NDT0gqtpwbTMqSABDM8BAEWGWOmE9fbeAAAAAElFTkSuQmCC",
+                "published_time": "2022-02-09T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bc.gob.cu/ (inurl:comunicación OR inurl:mensajes) OR (intitle:comunicación OR intitle:mensajes)"
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,448 @@
 {
   "Bank Name": "Czech National Bank",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/en/economic-research/research-publications/",
+                "title": "Research publications - Czech National Bank",
+                "text": "The Czech National Bank discloses its research results through two research series – CNB Working Papers and CNB Research and Policy Notes.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/en/about_cnb/publications/",
+                "title": "Publications - Czech National Bank",
+                "text": "The CNB publications are available in the PDF format. Proceedings of the Czech National Bank Workshop on Monetary Policy: Inflation Targeting Frameworks ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/en/monetary-policy/monetary-policy-reports/",
+                "title": "Monetary Policy Reports - Czech National Bank",
+                "text": "The first section of the Monetary Policy Report contains the forecast for economic developments abroad, as they have a considerable impact on the Czech economy.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/en/financial-stability/publications-on-financial-stability/",
+                "title": "Financial stability reports - Czech National Bank",
+                "text": "The CNB's main publications in the area of financial stability and macroprudential policy are the spring and autumn editions of the Financial Stability Report.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/en/about_cnb/publications/publications-monetary-policy/",
+                "title": "Publications – Monetary policy - Czech National Bank",
+                "text": "Publications – Monetary policy. Monetary policy reports · Central bank monitoring · Global Economic Outlook · The mandate of the Czech National Bank ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/en/statistics/",
+                "title": "Statistics - Czech National Bank",
+                "text": "The Czech National Bank in its area of competence compiles and publishes statistics, in particular monetary and financial statistics, balance of payments ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/en/statistics/money_and_banking_stat/monetary-statistics-monthly-bulletin/",
+                "title": "Monetary statistics – Monthly Bulletin - Czech National Bank",
+                "text": "This publication contains selected economic indicators of the Czech Republic, produced as part of the CNB's monetary statistics. Tables 1 and 2 compare key ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/en/statistics/supervisory-stat/",
+                "title": "Supervisory statistics - Czech National Bank",
+                "text": "Supervisory statistics comprise the collection, processing and publication of data used to monitor compliance with regulatory rules.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/en/payments/certis/statistical-data/",
+                "title": "Statistical data - Czech National Bank",
+                "text": "The daily average of these transactions was 3.9 million and the average daily value was CZK 1,534 billion.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/statistics/.galleries/money_and_banking_stat/mbs_international_documents/download/ecb_2024_1988_en.pdf",
+                "title": "Regulation (EU) 2024/1988 of the European Central Bank of 27 June ...",
+                "text": "This regulation concerns statistics on investment funds, amending a previous regulation to collect more frequent and additional data.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "published_time": "2024-06-27T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2014_11_en",
+                "title": "EBA/GL/2014/11 (guidelines on impediments to resolvability)",
+                "text": "These guidelines complete the set of EBA regulatory deliverables on resolution planning and resolvability assessment. Where resolution authorities identify ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2016_03_en",
+                "title": "Guidelines - European Banking Authority",
+                "text": "Guidelines set the EBA view of appropriate supervisory practices within the European System of Financial Supervision or of how Union law should be applied ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2017_16_en",
+                "title": "Guidelines on PD estimation, LGD estimation and treatment of ...",
+                "text": "The European Banking Authority (EBA) published today its final Guidelines on the estimation of risk parameters for non-defaulted exposures.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2020_06_en_fin_rep",
+                "title": "Final Report – Guidelines on loan origination and monitoring",
+                "text": "The European Banking Authority (EBA) developed the Guidelines on loan origination and monitoring in response to the Council of the European ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "published_time": "2020-05-29T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/en/supervision-financial-market/legislation/otc-derivatives-and-securitisation/laws-and-regulations/",
+                "title": "Laws and regulations - Czech National Bank",
+                "text": "Acts and directly binding EU regulations. Crowdfunding. Regulation (EU) 2020/1503 of the European Parliament and of the Council on European (external link) ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/en/public/media-service/speeches-conferences-seminars/presentations-and-speeches/index.html",
+                "title": "Presentations and speeches - Czech National Bank",
+                "text": "Presentations and speeches in Czech are published in the Czech version of this page. Speeches delivered by CNB representatives at conferences organised by ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/en/cnb-news/press-releases/",
+                "title": "Press releases - Czech National Bank",
+                "text": "Thanks to tight monetary policy, open communication and a strong koruna policy, the Czech National Bank (CNB) succeeded in taming double-digit inflation in 2022 ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/en/public/media-service/governors-speeches-and-interviews/",
+                "title": "Governor's speeches and interviews - Czech National Bank",
+                "text": "Read CNB Governor Aleš Michl's selected speeches and interviews in which he explains how the central bank is fighting inflation and what steps it is taking ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/en/cnb-news/news/",
+                "title": "News - Czech National Bank",
+                "text": "Non-financial corporations' demand for loans as perceived by banks declined overall and in a small section of the banking market in 2025 Q2.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/en/economic-research/cnb-research-news/index.html",
+                "title": "CNB Research News - Czech National Bank",
+                "text": "CNB Research News offers a quarterly summary of the Czech National Bank's research activities, as well as invitations to forthcoming events.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press youtube",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/",
+                "title": "Working paper - Czech National Bank",
+                "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the CNB´s research projects as well as the other ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/research_publications/cnb_wp/cnbwp_2008_10.pdf",
+                "title": "WORKING PAPER SERIES 10",
+                "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the CNB's research projects as well as the other ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/research_publications/cnb_wp/cnbwp_2008_02.pdf",
+                "title": "WORKING PAPER SERIES 2",
+                "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the CNB's research projects as well as the other ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/research_publications/cnb_wp/cnbwp_2014_02.pdf",
+                "title": "WORKING PAPER SERIES 2 - ČNB",
+                "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the CNB's research projects as well as the other ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/research_publications/cnb_wp/cnbwp_2011_15.pdf",
+                "title": "WORKING PAPER SERIES 15",
+                "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the CNB's research projects as well as the other ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/en/cnb-news/news/CNB-WP-17-2023-Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis-00001",
+                "title": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect ...",
+                "text": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect Stock Prices? A Meta-Analysis. Share. News · Press releases · Calendar.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis-00001/",
+                "title": "Do Shareholder Activism Announcements Affect Stock Prices ...",
+                "text": "We find that the estimates of stock price reactions, adjusted for publication selection bias, range from 0% to 1.5%. We observe stronger stock price responses ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/research_publications/cnb_wp/cnbwp_2023_17.pdf",
+                "title": "Do Shareholder Activism Announcements Affect Stock Prices ...",
+                "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the. CNB's research projects as well as the other ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/cs/ekonomicky-vyzkum/publikace-vyzkumu/cnb-working-paper-series/Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis/",
+                "title": "Do Shareholder Activism Announcements Affect Stock Prices ...",
+                "text": "Provádíme metaanalýzu 1 973 odhadů reakce cen akcií na aktivismus akcionářů získaných z 67 studií. Odhady reakce cen akcií očištěné o publikační selektivitu se ...",
+                "source": "CNB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/cs/cnb-news/aktuality/CNB-WP-17-2023-Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis",
+                "title": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect ...",
+                "text": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect Stock Prices? A Meta-Analysis. Sdílejte. Aktuality · Tiskové zprávy · Kalendář.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "published_time": "2024-01-23T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/en/supervision-financial-market/conduct-of-supervision/public-notices/",
+                "title": "Public notices - Czech National Bank",
+                "text": "These notices summarise the findings and are long term in nature. Information on specific entities is available on the Lists and registers page.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/en/supervision-financial-market/consumer-protection-and-financial-literacy/consumer-protection/notices-about-activities/",
+                "title": "Notices about activities - Czech National Bank",
+                "text": "Notice regarding the activities of entities operating under the names Witt Finance and Wittington Investments Limited SA",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/en/supervision-financial-market/consumer-protection-and-financial-literacy/consumer-protection/notices-about-activities/Notice-about-the-activities-of-The-Unicornex-Group-s.r.o./",
+                "title": "Notice about the activities of The Unicornex Group s.r.o.",
+                "text": "The Unicornex Group currently holds no authorisation to provide payment services or any other services on the Czech financial market and its activities are not ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/en/supervision-financial-market/conduct-of-supervision/public-notices/Notice-for-credit-institutions/",
+                "title": "Notice for credit institutions - Czech National Bank",
+                "text": "The Czech National Bank hereby notifies foreign credit institutions carrying on their business in the Czech Republic on the basis of authorisation granted in ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/en/supervision-financial-market/consumer-protection-and-financial-literacy/consumer-protection/notices-about-activities/Notice-about-the-activities-of-ESOS-International-Ltd.-and-KADEKY-INTERNATIONAL-s.r.o./",
+                "title": "Notice about the activities of ESOS International Ltd. and KADEKY ...",
+                "text": "The Czech National Bank wishes to warn the public about the activities of the company ESOS International Ltd., which is presenting itself as a company ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/seminars_workshops/2025/20250320_keynote_orphanides_slides.pdf",
+                "title": "Challenges for monetary policy and its communication",
+                "text": "It seems to me that this failure of the economists to guide policy more successfully is closely connected with their propensity to imitate ...",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "published_time": "2025-03-20T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.cnb.cz/en/public/media-service/interviews-articles/Central-bankers-communication-puzzle-QA-with-Czech-Vice-Governor",
+                "title": "Central bankers' communication puzzle – Q&A with Czech Vice ...",
+                "text": "What in your personal view is a clear signal of the transparency of a central bank? · How much more open could your central bank become?",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.cnb.cz/en/cnb-news/press-releases/The-CNBs-new-inflation-target-and-changes-in-monetary-policy-communication-00001",
+                "title": "The CNB's new inflation target and changes in monetary policy ...",
+                "text": "The CNB announces the new inflation target as annual consumer price index growth of 2% (with a tolerance band of ± 1%), effective from January 2010.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.cnb.cz/en/cnb-news/news/Communication-of-Forecasts-and-Board-Decisions-CNBs-practice-and-experience",
+                "title": "Communication of Forecasts and Board Decisions – CNB's practice ...",
+                "text": "Communication of Forecasts and Board Decisions – CNB's practice and experience. Share. News · Press releases · Calendar. Stay in touch Newsletter.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/Inflation-Targeting-and-Communication-Should-the-Public-Read-Inflation-Reports-or-Tea-Leaves-00001",
+                "title": "Should the Public Read Inflation Reports or Tea Leaves?",
+                "text": "Inflation-targeting central banks have a respectable track record at explaining their policy actions and corresponding inflation outturns.",
+                "source": "Česká národní banka",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEX////5+fnv7+/q6ur19fXR0dCOjo12dnVtbWzd3d16enl5eXiurq2UlJO0tLOwsK/m5uZ8fHuEhIOBgYCioqGmpqW6urmJiYm9vbzW1tWcnJzExMTKysqBQQ7/AAAAw0lEQVR4Ad3OhQGEMAxA0VRzJEVCcdh/zqucrsBHw8PgbiltrNa2nKajTr3JecRH8yAsihwwxaFYYG67fpAxTnmMYxfnpVtlTsMmccivY++5qSguH1EBEBuo2FD8wTXhTjNUXOGQ5Y06cLp+0vVBS6wz0g4TJfvFNEj7wnPkAH+vBVhlXwsCtNgACJsvDry+8cqvPCkWLQhzHF84lX8OzMeybbGgkoQSzvMQgdzuMcV1uJAC5ryBmjJDSkFuGHQeNNyqJ/i+DQ/dcXv9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cnb.cz/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

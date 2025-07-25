@@ -3,22 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.bcrg-guinee.org/categories/publications/autres-publications/",
-        "title": "Autres publications – BCRG",
-        "text": null,
-        "listing_probability": 0.95
+        "url": "https://www.bcrg-guinee.org/publications/",
+        "title": "Publications - BCRG",
+        "text": "Publications · Rapports annuels · Notes et bulletins périodiques · Études et recherches · Autres publications · Liens utile · Liens rapide · Localisation · Liens utile.",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bcrg-guinee.org/categories/publications/",
-        "title": "Publications – BCRG",
-        "text": null,
-        "listing_probability": 0.99
+        "title": "Publications - BCRG",
+        "text": "Publications ; Rapport d'activité de la Direction de la Supervision des Banques pour l'année 2023 · 13 juin 2025 ; Rapport du Comité de Politique Monétaire du ...",
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.bcrg-guinee.org/categories/publications/page/2/",
-        "title": "Publications – Page 2 – BCRG",
+        "url": "https://www.bcrg-guinee.org/publications/autres-publications/",
+        "title": "Autres publications - BCRG",
+        "text": "Autres publications · Rapport du commissaire aux comptes sur les états financiers · Le plan stratégique 2022-2024 de la Banque Centrale de la République de Guinée ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcrg-guinee.org/publications/rapports-annuels/",
+        "title": "Rapports annuels - BCRG",
+        "text": "Rapports annuels · Rapport d'activité de la Direction de la Supervision des Banques pour l'année 2023 · Rapport annuel de la BCRG pour l'année 2022 · Rapport du ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcrg-guinee.org/categories/publications/autres-publications/",
+        "title": "Autres publications – BCRG",
         "text": null,
-        "listing_probability": 0.99
+        "listing_probability": 1.0
       }
     ]
   },
@@ -36,6 +48,29 @@
         "title": "Bulletin statistique Janvier 2022 - BCRG",
         "text": "Bulletin statistique Janvier 2022. Loading PDF 113% ... Jacob KOLIE. Author: Jacob KOLIE. DSI. Facebook X-twitter Linkedin Youtube. Liens utile.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcrg-guinee.org/bulletin-mensuel-dinformations-et-de-statistiques-aout-2022/",
+        "title": "Bulletin mensuel d'informations et de statistiques – Août 2022 - BCRG",
+        "text": "Bulletin mensuel d'informations et de statistiques – Août 2022. Loading PDF 120% ... Share. Page Précedente. 1/48. Page Suivante. Zoom Avant. Zoom Arrière.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bcrg-guinee.org/communication-lors-du-seminaire-fmi-sur-les-per-ssa-oct-2022-vf/",
+        "title": "Communication lors du séminaire FMI sur les PER SSA oct 2022 VF - BCRG",
+        "text": "Communication lors du séminaire FMI sur les PER SSA oct 2022 VF. Télécharger. Loading PDF 100% ... Share. Page Précedente. 1/6. Page Suivante. Zoom Avant.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcrg-guinee.org/communication-relative-a-la-2eme-reunion-du-conseil-dadministration-du-fonds-de-garantie-des-depots-des-etablissements-de-credit-de-la-categorie-banque/",
+        "title": "Communiqué de presse de la session ordinaires du conseil d'Administration",
+        "text": "Communiqué de presse de la session ordinaires du conseil d'Administration · le Rapports d'activités LBC/FT et le rapport de conformité ...",
+        "listing_probability": 0.2
       }
     ]
   }

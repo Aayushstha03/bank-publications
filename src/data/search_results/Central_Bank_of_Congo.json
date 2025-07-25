@@ -1,4 +1,300 @@
 {
   "Bank Name": "Central Bank of Congo",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcc.cd/publications",
+                "title": "Publications - Banque Centrale du Congo",
+                "text": "La deuxième passe en revue les politiques conjoncturelles et structurelles mises en œuvre en 2023 et pré ...",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "Autres publications",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/autres_publications"
+                  },
+                  {
+                    "title": "Rapports annuels",
+                    "url": "https://www.bcc.cd/publications/rapports-annuels-0"
+                  },
+                  {
+                    "title": "Notes de conjoncture",
+                    "url": "https://www.bcc.cd/publications/notes-de-conjoncture"
+                  },
+                  {
+                    "title": "Condensé d'informations...",
+                    "url": "https://www.bcc.cd/publications/condense-informations-statistiques"
+                  },
+                  {
+                    "title": "Bulletin de statistiques",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/bulletin_de_statistiques"
+                  },
+                  {
+                    "title": "Rapports sur la Politique...",
+                    "url": "https://www.bcc.cd/publications/rapports-politique-monetaire"
+                  },
+                  {
+                    "title": "Flash marchés",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/flash_marches"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.bcc.cd/sites/all/themes/bccbl/js/pdfjs-1.3.91/web/viewer.html?file=https://www.bcc.cd/sites/default/files/publications/bul_stat_dec_18.pdf",
+                "title": "bul_stat_dec_18.pdf",
+                "text": "Thumbnails Document Outline Attachments. Find: Previous. Next. Highlight all. Match case. Presentation Mode Open Print Download Current View.",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcc.cd/publications",
+                "title": "Publications",
+                "source": "Banque Centrale du Congo",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bcc.cd&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcc.cd/sites/default/files/page_de_garde_rapport_sur_la_politique_monetaire_en_2022.jpg",
+                "sublinks": [
+                  {
+                    "title": "Autres publications",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/autres_publications"
+                  },
+                  {
+                    "title": "Rapports annuels",
+                    "url": "https://www.bcc.cd/publications/rapports-annuels-0"
+                  },
+                  {
+                    "title": "Notes de conjoncture",
+                    "url": "https://www.bcc.cd/publications/notes-de-conjoncture"
+                  },
+                  {
+                    "title": "Condensé d'informations...",
+                    "url": "https://www.bcc.cd/publications/condense-informations-statistiques"
+                  },
+                  {
+                    "title": "Bulletin de statistiques",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/bulletin_de_statistiques"
+                  },
+                  {
+                    "title": "Rapports sur la Politique...",
+                    "url": "https://www.bcc.cd/publications/rapports-politique-monetaire"
+                  },
+                  {
+                    "title": "Flash marchés",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/flash_marches"
+                  }
+                ],
+                "position": 3
+              },
+              {
+                "url": "https://www.bcc.cd/publications",
+                "title": "Banque Centrale du Congo",
+                "source": "Banque Centrale du Congo",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bcc.cd&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcc.cd/sites/default/files/gouverneur_kabedi_mbuyi_malangu_new.png",
+                "sublinks": [
+                  {
+                    "title": "Autres publications",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/autres_publications"
+                  },
+                  {
+                    "title": "Rapports annuels",
+                    "url": "https://www.bcc.cd/publications/rapports-annuels-0"
+                  },
+                  {
+                    "title": "Notes de conjoncture",
+                    "url": "https://www.bcc.cd/publications/notes-de-conjoncture"
+                  },
+                  {
+                    "title": "Condensé d'informations...",
+                    "url": "https://www.bcc.cd/publications/condense-informations-statistiques"
+                  },
+                  {
+                    "title": "Bulletin de statistiques",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/bulletin_de_statistiques"
+                  },
+                  {
+                    "title": "Rapports sur la Politique...",
+                    "url": "https://www.bcc.cd/publications/rapports-politique-monetaire"
+                  },
+                  {
+                    "title": "Flash marchés",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/flash_marches"
+                  }
+                ],
+                "position": 4
+              },
+              {
+                "url": "https://www.bcc.cd/publications",
+                "title": "Banque Centrale du Congo",
+                "source": "Banque Centrale du Congo",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bcc.cd&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bcc.cd/sites/all/themes/bccblold/logo.png",
+                "sublinks": [
+                  {
+                    "title": "Autres publications",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/autres_publications"
+                  },
+                  {
+                    "title": "Rapports annuels",
+                    "url": "https://www.bcc.cd/publications/rapports-annuels-0"
+                  },
+                  {
+                    "title": "Notes de conjoncture",
+                    "url": "https://www.bcc.cd/publications/notes-de-conjoncture"
+                  },
+                  {
+                    "title": "Condensé d'informations...",
+                    "url": "https://www.bcc.cd/publications/condense-informations-statistiques"
+                  },
+                  {
+                    "title": "Bulletin de statistiques",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/bulletin_de_statistiques"
+                  },
+                  {
+                    "title": "Rapports sur la Politique...",
+                    "url": "https://www.bcc.cd/publications/rapports-politique-monetaire"
+                  },
+                  {
+                    "title": "Flash marchés",
+                    "url": "https://www.bcc.cd/bcc/publications-redirect/flash_marches"
+                  }
+                ],
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022"
+          ],
+          "query": {
+            "q": "site:https://www.bcc.cd/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcc.cd/publications/bulletin-de-statistiques/bulletin-dinformations-statistiques-juin-2024",
+                "title": "bulletin d'informations statistiques juin 2024 - Banque Centrale du Congo",
+                "text": "BULLETIN D'INFORMATIONS STATISTIQUES JUIN 2024. Télécharger. BULLETIN D'INFORMATIONS STATISTIQUES JUIN 2024. Thumbnails Document Outline Attachments.",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcc.cd/publications/bulletin-de-statistiques",
+                "title": "Bulletin de statistiques - Banque Centrale du Congo",
+                "text": "mai 2025. BULLETIN D'INFORMATIONS STATISTIQUES AVRIL 2025. Voir télécharger · avril 2025. BULLETIN D'INFORMATIONS STATISTIQUES MARS 2025. Voir télécharger.",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcc.cd/publications/bulletin-de-statistiques/bulletin-dinformations-statistiques-decembre-2021",
+                "title": "bulletin d'informations statistiques decembre 2021",
+                "text": "BULLETIN D'INFORMATIONS STATISTIQUES DECEMBRE 2021. Accueil Publications Bulletin de statistiques BULLETIN D'INFORMATIONS STATISTIQUES DECEMBRE 2021.",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcc.cd/sites/default/files/publications/bulletin_dinformations_statistiques_novembre_2023.pdf",
+                "title": "Bulletin mensuel d'informations statistiques novembre 2023",
+                "text": "Le Bulletin mensuel d'informations statistiques a été élaboré par la Direction de la Recherche et des Statistiques. Tous droits réservés. Les ...",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcc.cd/publications/bulletin-de-statistiques/bulletin-dinformations-statistiques-fevrier-2022",
+                "title": "bulletin d'informations statistiques fevrier 2022",
+                "text": "BULLETIN D'INFORMATIONS STATISTIQUES FEVRIER 2022. Télécharger. BULLETIN D'INFORMATIONS STATISTIQUES FEVRIER 2022. Thumbnails Document Outline Attachments.",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022 pdf",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bcc.cd/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/historique-bons-du-tresor/communication-de-l-encours-bons-du-tresor",
+                "title": "Communication de l'encours Bons du TRESOR",
+                "text": "Tous Les Enregistrements ; Mercredi, 1 avril 2009 · Evolution des opérations de BTR du 04/02 au 01/04/2009 ; Mercredi, 25 février 2009 · Evolution des opérations ...",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcc.cd/system/files_force/bonsbcc/annonce_de_ladjudication_des_bons_bcc_du_24_11_2021.pdf/?download=1",
+                "title": "Chers collègues",
+                "text": "Nous vous transmettons, pour communication aux banques, la fourchette d'appel d'offres, pour l'opération d'adjudication de ce.",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "published_time": "2021-11-24T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/bons-bcc/communication-de-encours/evolution-des-operations-de-btr-du-0404-au-05062008",
+                "title": "Evolution des opérations de BTR du 04/04 au 05/06/2008",
+                "text": "Evolution des opérations de BTR du 04/04 au 05/06/2008. Accueil Opérations et marchés Domaine opérationnel Opérations de Politique monétaire Bons BCC ...",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/bons-bcc/communication-de-encours/evolution-des-operations-de-btr-du-0402-au-01042009",
+                "title": "Evolution des opérations de BTR du 04/02 au 01/04/2009",
+                "text": "Evolution des opérations de BTR du 04/02 au 01/04/2009. Accueil Opérations et marchés Domaine opérationnel Opérations de Politique monétaire Bons BCC ...",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/bons-bcc/communication-de-encours/evolution-des-operations-de-btr-du-0701-au-25022009",
+                "title": "Evolution des opérations de BTR du 07/01 au 25/02/2009",
+                "text": "Evolution des opérations de BTR du 07/01 au 25/02/2009 · Taux et indicateurs · Publications: Rapports · Flux des Publications · Evolution des ...",
+                "source": "Banque Centrale du Congo",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEyIze8AoeJ0xu2n2vMAfdiY0/FQuOm04fVsw+yj2fOp2/Oh1/Kv3vSr3fTC5/i75PbM6/ma0/Ewq+RDseZwwuvY8PtcuumFyu4apeIAnuEAmt8Am98pKcMVAAAADnRSTlMAmiRk9hfMSP6Jqtvt2zpLO0YAAADOSURBVCiRzZHJbgMxDEMn6zgJKmrz2v7/d9bGpM2ec3iS8QCaoqbpozXPr9lR5PgCbVDcCzZP0PokqMpe5LS+ZyswkimpCWN1GyRIEMnubi59DJdgu70wcbJohOic+kP2u4UdGESMbMlrM+2ZmAh8GI5b6YghTaX/aU2igDuW7fwPww+CaS5NgQHDgGdb6Delqpks8sX2LxA1IlM1L3odaFmFzWCatEbm61WWEqhFz9k14q6EUd8X1dppTI/1jeKZYsHT4ofenGx6f+xP0C89ng/2v7ae4QAAAABJRU5ErkJggg==",
+                "published_time": "2009-02-25T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcc.cd/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

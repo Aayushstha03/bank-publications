@@ -30,6 +30,22 @@
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.dnb.nl/en/publications/research-publications/",
+                "title": "Research Publications | De Nederlandsche Bank",
+                "text": "My DNB is your personal portal with De Nederlandsche Bank (DNB). Here you can access the Reporting Service, Supervision Services, Digital Exchange Requests and ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/en/publications/publications-dnb/?s=annual+report&p=1&l=10",
+                "title": "Publications DNB | De Nederlandsche Bank",
+                "text": "In the 20 May 2025 report DNB finds that the outlook for financial stability in the Netherlands has deteriorated due to geopolitical tensions and ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -38,7 +54,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.dnb.nl/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.dnb.nl/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -66,21 +82,33 @@
                 "position": 2
               },
               {
-                "url": "https://www.dnb.nl/en/statistics/access-to-statistics-through-api-services/",
-                "title": "Access to statistics through API Services - De Nederlandsche Bank",
-                "text": "DNB is making its current datasets available through the API in phases. Which datasets are currently available can be found when you access the DNB Statistics ...",
+                "url": "https://www.dnb.nl/en/login/dlr/statistical-reporting/banks/payment-statistics/",
+                "title": "Payment Statistics | De Nederlandsche Bank",
+                "text": "Payment statistics are data on payments and payment systems. We require these data in order to monitor developments in the payment markets.",
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.dnb.nl/en/login/dlr/statistical-reporting/macroeconomic-statistics-reporting-mesrep/",
+                "title": "Macroeconomic Statistics Reporting (MESREP) - De Nederlandsche Bank",
+                "text": "The MESREP information page provides news, links to the user documentation, frequently asked questions, the reporting calendar and contact information.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/en/statistics/dashboards/",
+                "title": "Dashboards | De Nederlandsche Bank",
+                "text": "In the dashboards below, we present the main trends in the financial sector and the balance of payments. The charts in the dashboards are updated in real-time.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Statistics bulletin data statistics data bulletin excel",
-            "Statistics bulletin data statistics data bulletin 2021"
-          ],
           "query": {
-            "q": "site:https://www.dnb.nl/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.dnb.nl/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -92,12 +120,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.dnb.nl/media/n5uczwsr/explanatory-guide-to-dnb-s-policy-statements.pdf",
+                "title": "Explanatory guide to DNB's policy statements",
+                "text": "A policy rule does not require an explicit statutory basis in the relevant supervisory laws and regulations, but the law or regulation must allow DNB ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/explanatory-guide-to-dnb-s-policy-statements/",
                 "title": "Explanatory guide to DNB's policy statements - De Nederlandsche Bank",
                 "text": "The most common policy statements are supervisory regulations, policy rules, Q&As and Good practices 1 . These statements all have a different status.",
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/laws-and-eu-regulations/",
@@ -105,7 +141,7 @@
                 "text": "Laws and EU Regulations. Laws. Financial Supervision Act · Anti-Money Laundering and Anti-Terrorist Financing Act · Enforcement.",
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/prudent-policy-dnb-s-policy-making-process/",
@@ -113,17 +149,25 @@
                 "text": "Our Explanatory guide to DNB's policy statements provides more information about the meaning as well as the legal status of good practices, Q&As, policy rules ...",
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/open-book-supervision-themes/prudential-supervision/compliance-guidelines-and-recommendations-of-the-european-supervisory-authorities/",
+                "title": "Compliance Guidelines and Recommendations of the European ...",
+                "text": "The aim of these guidelines and recommendations is to promote the consistency, efficiency and effectiveness of supervisory practices.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "published_time": "2021-12-21T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
-            "List of policy regulations guidelines policy regulations",
-            "Policy regulations guidelines policy regulations 2022"
+            "List of policy regulations guidelines policy regulations"
           ],
           "query": {
-            "q": "site:https://www.dnb.nl/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.dnb.nl/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -143,9 +187,9 @@
                 "position": 1
               },
               {
-                "url": "https://www.dnb.nl/en/sector-news/",
-                "title": "Sector news | De Nederlandsche Bank",
-                "text": "To stimulate the dialogue between DNB and the banking sector and to provide more insight into the Anti-Money Laundering and Countering the Financing of ...",
+                "url": "https://www.dnb.nl/en/contact/press-officers/",
+                "title": "Press officers | De Nederlandsche Bank",
+                "text": "Journalists can contact our press officers for press enquiries or interview requests.",
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
                 "position": 2
@@ -157,6 +201,22 @@
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.dnb.nl/en/sector-news/",
+                "title": "Sector news | De Nederlandsche Bank",
+                "text": "To stimulate the dialogue between DNB and the banking sector and to provide more insight into the Anti-Money Laundering and Countering the Financing of ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/en/general-news/?nt=QmxvZw%2C",
+                "title": "General news - De Nederlandsche Bank",
+                "text": "Telephone: 0800 020 1068 (freephone in the Netherlands) or +31 20 524 9111 (if you call us from abroad) on business days between 9:00 and 15:30. Email: info@dnb ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -165,7 +225,7 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:https://www.dnb.nl/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.dnb.nl/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -177,21 +237,203 @@
           "results": {
             "web": [
               {
+                "url": "https://www.dnb.nl/en/research/publications/",
+                "title": "Publications | De Nederlandsche Bank",
+                "text": "DNB staff publish their research in the DNB Working Paper series, which are intended for publication in leading economics and finance peer-reviewed journals.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.dnb.nl/en/publications/research-publications/",
                 "title": "Research Publications | De Nederlandsche Bank",
                 "text": "The Dynamic Relationship between Delinquency Rates, Funding and Market Liquidity and Asset Prices in Private Commercial Real Estate Markets.",
                 "source": "De Nederlandsche Bank (DNB)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://www.dnb.nl/media/migcxwsl/dnb-research-program-2024.pdf",
+                "title": "DNB Working Paper DNB Research Program 2024",
+                "text": "This paper tests the relative performance of various types of inflation expectations in the data, so as to get a better understanding about how inflation.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.dnb.nl/en/repec/dnbwpp/",
+                "title": "Working papers",
+                "text": "dnbwpp.rdf.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/media/czpnnmuc/working_paper_no-757.pdf",
+                "title": "A literature review of securities holdings statistics research ... - SSRN",
+                "text": "Work in progress: The following 21 working papers related to the field of banking and finance (see Table A1) include research on interconnectedness (Wang et al.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2021"
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2020"
           ],
           "query": {
-            "q": "site:https://www.dnb.nl/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.dnb.nl/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dnb.nl/media/pwxmjpd4/wp_704_update_01092021.pdf",
+                "title": "Effects of LTV announcements in EU economies - De Nederlandsche Bank",
+                "text": "Earlier empirical studies on the effects of macroprudential policies focus on imple- mentation dates and, in most cases, ignore potential anticipation ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASozADMAPjEQjEYiEREIgCADBLOAZY7gAAQUqDpt+jab4bDrJGCBN/24gAD+/Bvd//Ehf+JC/8SF/4kL/+Fa0Ya2dBbZ0E+e2ct/yWiwwo6j4S8h6p8W7Bbgn94ioUhd5sDYN2qNcGgBIqHT7KbHe7yvlpZGA76bSck2Dl5oV71aMwAA",
+                "position": 1
+              },
+              {
+                "url": "https://www.dnb.nl/media/h13pborh/overview_additional_data_requests_202506.pdf",
+                "title": "dnb public",
+                "text": "The Short Term Exercise was initiated in order to complement ITS data needed for the SREP. Some components of the STE will become part of ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASozADMAPjEQjEYiEREIgCADBLOAZY7gAAQUqDpt+jab4bDrJGCBN/24gAD+/Bvd//Ehf+JC/8SF/4kL/+Fa0Ya2dBbZ0E+e2ct/yWiwwo6j4S8h6p8W7Bbgn94ioUhd5sDYN2qNcGgBIqHT7KbHe7yvlpZGA76bSck2Dl5oV71aMwAA",
+                "published_time": "2025-06-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.dnb.nl/media/utvehlpz/overview_additional_data_requests.pdf",
+                "title": "Click here Updates are done at least twelve times a year before the end ...",
+                "text": "The Basel Committee on Banking Supervision is conducting this data collection exercise as input into the methodology to assess the.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASozADMAPjEQjEYiEREIgCADBLOAZY7gAAQUqDpt+jab4bDrJGCBN/24gAD+/Bvd//Ehf+JC/8SF/4kL/+Fa0Ya2dBbZ0E+e2ct/yWiwwo6j4S8h6p8W7Bbgn94ioUhd5sDYN2qNcGgBIqHT7KbHe7yvlpZGA76bSck2Dl5oV71aMwAA",
+                "published_time": "2023-06-30T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.dnb.nl/media/mt3nbypk/pcaf-updates-from-implementing-ghc-accounting-for-the-financial-sector-in-the-netherlands.pdf",
+                "title": "Updates from implementing GHG accounting for the financial sector in ...",
+                "text": "The Partnership for Carbon Accounting Financials, or PCAF, is an industry-led partnership to standardise greenhouse gas (GHG) accounting for the financial ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASozADMAPjEQjEYiEREIgCADBLOAZY7gAAQUqDpt+jab4bDrJGCBN/24gAD+/Bvd//Ehf+JC/8SF/4kL/+Fa0Ya2dBbZ0E+e2ct/yWiwwo6j4S8h6p8W7Bbgn94ioUhd5sDYN2qNcGgBIqHT7KbHe7yvlpZGA76bSck2Dl5oV71aMwAA",
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/media/sdmf0uid/overview_additional_data_requests.pdf",
+                "title": "Click here Updates are done at least twelve times a year before the end ...",
+                "text": "Additional data for SREP/RAS will be gathered as part of the STE data collection, the data must be submitted to the ECB at the same.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASozADMAPjEQjEYiEREIgCADBLOAZY7gAAQUqDpt+jab4bDrJGCBN/24gAD+/Bvd//Ehf+JC/8SF/4kL/+Fa0Ya2dBbZ0E+e2ct/yWiwwo6j4S8h6p8W7Bbgn94ioUhd5sDYN2qNcGgBIqHT7KbHe7yvlpZGA76bSck2Dl5oV71aMwAA",
+                "published_time": "2022-10-01T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:https://www.dnb.nl/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dnb.nl/en/login/dlr/information-and-documentation/notices-and-messages/2021-10-19-dnb-has-started-the-optimization-of-the-validation-process-of-xbrl-reports/",
+                "title": "2021-10-19 DNB has started the optimization of the validation ...",
+                "text": "DNB has started a process to optimize the validation of XBRL reports via the DLR. The purpose of this is to provide the reporting institutions ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "published_time": "2021-10-19T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.dnb.nl/en/login/dlr/information-and-documentation/notices-and-messages/2020-05-15-dnb-extends-the-methods-used-for-identification-of-entities/",
+                "title": "2020-05-15 DNB extends the methods used for identification of entities",
+                "text": "As of 1 May 2020 DNB add new methods for the identification of entities.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "published_time": "2020-05-15T00:00:00",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.dnb.nl/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dnb.nl/media/1lpnxn0n/working-paper-475.pdf",
+                "title": "Communication about future policy rates in theory and practice: A Survey",
+                "text": "We discuss the theoretical rationale for central bank communication about future policy rates as part of inflation targeting or of forward guidance. We also.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.dnb.nl/media/mz1disre/ecms-does-not-process-messages-in-real-time.pdf",
+                "title": "Eurosystem Collateral Management System",
+                "text": "ESMIG provides two communication modes (Real-Time and Store and Forward) which are implemented in two distinct MQ channels.",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "published_time": "2023-07-04T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.dnb.nl/en/publications/research-publications/working-paper-2022/744-central-bank-communication-ith-the-general-public-promise-or-false-hope/",
+                "title": "Central Bank Communication ith the General Public: Promise or False ...",
+                "text": "This article surveys a rapidly-growing literature on central bank communication with the public. We first discuss why and how such communication ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "published_time": "2022-05-02T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.dnb.nl/en/green-economy/sustainable-finance-platform/working-group-on-sustainability-communication/",
+                "title": "Working Group on Sustainability Communication",
+                "text": "The Working Group on Sustainability Communication includes communication experts from the financial sector who ...",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.dnb.nl/en/login/dlr/supervisory-reports/banks/news-and-messages/news/2025/2025-07-22-reporting-templates-and-filing-indicators-no-new-publication-regarding-dpm-4-1/",
+                "title": "22-07-2025 Reporting templates and filing indicators: no new publication ...",
+                "text": "For these templates, we refer to the overview published by the EBA on its website (under Templates categorisation (Refers to an external site)).",
+                "source": "De Nederlandsche Bank (DNB)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEUSJqoMIqkAEqcAHqgHIakAF6c6RrOiptamqtieo9Vrc8IAAKViab4pOK9ET7WPlM9cZb3///+5u9+/weLq6/YACabIyuYAAKJudsNZYrz4+fytsNuXm9Hx8vlVXrvk5vQAAJzb3e96gMeFi8scLq3U1uynsgA+AAAAqklEQVR4AWIYkmAUMDIBap8KA4ZBIIjzJcbF3bP/iHUdoO8uQkjGpOCMCSWF0F85Y+nkAh1SxAXFoaWE81dSeqQZ8uKEMqhQEyjPg3eyQRAEbdcPGCs4mmaP76TiRTf1eTLMcBYl0uonGaRLP8ztCkdDuKGWX2OrHX0/VA73sfPQic9BeY6sojaojttBUwujXq9E3nsWKDNKvvvIeN8U6vOolPKu7nz3/gkX7C8LOy4gwNwAAAAASUVORK5CYII=",
+                "published_time": "2025-07-23T09:12:51.388464",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.dnb.nl/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

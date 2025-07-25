@@ -16,29 +16,47 @@
                 "position": 1
               },
               {
-                "url": "https://www.clevelandfed.org/publications",
-                "title": "Publications",
+                "url": "https://www.clevelandfed.org/publications/cd-reports",
+                "title": "Community Development Reports - Federal Reserve Bank of Cleveland",
+                "text": "Our Community Development reports provide research and analysis on community and economic development issues in our region.",
                 "source": "Federal Reserve Bank of Cleveland",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clevelandfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/annual-reports/publications-annual-reports1.jpg?w=364&hash=B064A772047981061D6788656809B5DA",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.clevelandfed.org/publications",
-                "title": "Publications",
+                "url": "https://www.clevelandfed.org/publications/regional-policy-report",
+                "title": "Regional Policy Report - Federal Reserve Bank of Cleveland",
+                "text": "Regional Policy Reports are mid-length, economically focused essays that provide public policymakers and other stakeholders insightful analysis of policy ...",
                 "source": "Federal Reserve Bank of Cleveland",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clevelandfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/cd-reports/publications-community-development1.jpg?w=364&hash=91D3CBC54105E6138A317C61C11251AC",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/cd-reports/2022/db-20220804-does-job-quality-affect-occupational-mobility",
+                "title": "Does Job Quality Affect Occupational Mobility?",
+                "text": "An analysis of the 2011 to 2017 period found that occupational mobility varies by job quality to the detriment of workers in low-quality occupations.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/beige-book",
+                "title": "Fourth District Beige Book - Federal Reserve Bank of Cleveland",
+                "text": "The Beige Book is a Federal Reserve System publication about current economic conditions across the 12 Federal Reserve Districts.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-16T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Publications reports publications reports pdf",
             "Publications reports publications reports examples",
             "Publications reports publications reports 2022"
           ],
           "query": {
-            "q": "site:http://www.clevelandfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.clevelandfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,20 +68,37 @@
           "results": {
             "web": [
               {
-                "url": "https://www.clevelandfed.org/publications/cleveland-fed-district-data-brief",
-                "title": "Cleveland Fed District Data Brief",
-                "text": "District Data Briefs offer accessible, short-form data analyses that allow our regional economists to highlight some of the data they examine and share ...",
-                "source": "Federal Reserve Bank of Cleveland",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
-                "position": 1
-              },
-              {
                 "url": "https://www.clevelandfed.org/indicators-and-data",
                 "title": "Indicators and Data - Federal Reserve Bank of Cleveland",
                 "text": "The Cleveland Fed maintains a broad range of indicators and datasets that are available for download, including median CPI, median PCE inflation, ...",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/cleveland-fed-district-data-brief",
+                "title": "Cleveland Fed District Data Brief",
+                "text": "District Data Briefs offer accessible, short-form data analyses that allow our regional economists to highlight some of the data they examine and share ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 2
+              },
+              {
+                "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+                "title": "Inflation Nowcasting - Federal Reserve Bank of Cleveland",
+                "text": "Inflation Nowcasting 2025:Q3 Source: Federal Reserve Bank of Cleveland calculations based on data from Bureau of Labor Statistics, Bureau of Economic Analysis.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/indicators-and-data/survey-of-firms-inflation-expectations",
+                "title": "Survey of Firms' Inflation Expectations - Federal Reserve Bank of Cleveland",
+                "text": "The Survey of Firms' Inflation Expectations (SoFIE) is a nationally representative, quarterly survey of chief executive officers (CEOs) and other top ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-12T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.clevelandfed.org/banking-and-payments/institution-data",
@@ -71,12 +106,12 @@
                 "text": "The Federal Reserve Bank of Cleveland collects data from hundreds of financial institutions, including depository institutions, bank holding companies, ...",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.clevelandfed.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.clevelandfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -96,30 +131,47 @@
                 "position": 1
               },
               {
-                "url": "https://www.clevelandfed.org/collections/press-releases/2022/pr-20220907-update-on-fed-funds-rates-based-on-7-simple-monetary-policy-rules",
-                "title": "Update on Fed Funds Rates Based on 7 Simple Monetary Policy Rules",
-                "text": "The median federal funds rate across seven policy rules and three economic forecasts rises from 3.67 percent in 2022:Q3 to 4.08 percent in 2024:Q3.",
+                "url": "https://www.clevelandfed.org/publications/economic-commentary/2012/ec-201216-policy-rules-in-macroeconomic-forecasting-models",
+                "title": "Policy Rules in Macroeconomic Forecasting Models",
+                "text": "This Commentary describes how some of the Cleveland Fed's macroeconomic forecasting models have been modified to use a Taylor rule for monetary policy.",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
-                "published_time": "2022-09-07T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.clevelandfed.org/publications/economic-commentary/2013/ec-201308-monetary-policy-tightening-and-long-term-interest-rates",
-                "title": "Monetary Policy Tightening and Long-Term Interest Rates",
-                "text": "Some financial market participants are concerned that long-term interest rates may increase more than should be expected when the Committee starts to tighten.",
+                "url": "https://www.clevelandfed.org/collections/speeches/2025/sp-20250416-approaching-monetary-policy-with-heart-brains-and-courage",
+                "title": "Fed 101: Approaching Monetary Policy with Heart, Brains, and ...",
+                "text": "The Fed monitors the financial landscape for emerging risks while enforcing rules and regulations that aim ...",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/collections/speeches/2024/sp-20240528-forward-guidance-and-monetary-policy-communications",
+                "title": "Forward Guidance and Monetary Policy Communications: Use Your ...",
+                "text": "The effectiveness of forward guidance as a policy tool in extraordinary times can be enhanced by improving monetary policy communications in normal times.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/collections/speeches/2023/sp-20230710-update-on-economy-and-monetary-policy",
+                "title": "An Update on the Economy and Monetary Policy",
+                "text": "The Federal Reserve has been tightening the stance of monetary policy. We have raised the target range of the federal funds rate by 5 percentage points.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.clevelandfed.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.clevelandfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -139,29 +191,42 @@
                 "position": 1
               },
               {
-                "url": "https://www.clevelandfed.org/collections/press-releases",
-                "title": "Press Releases - Federal Reserve Bank of Cleveland",
-                "text": "President Hammack spoke at a monetary policy forum on June 24, 2025. Press Release. Cleveland Fed forms Financial Markets Advisory Council.",
-                "source": "Federal Reserve Bank of Cleveland",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
-                "position": 2
-              },
-              {
                 "url": "https://www.clevelandfed.org/news-and-events",
                 "title": "News and Events - Federal Reserve Bank of Cleveland",
                 "text": "Explore the latest from the Cleveland Fed. Press Releases, View recent press releases from our Bank, Speeches, Read speeches by our president and other leaders.",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.clevelandfed.org/collections/press-releases",
+                "title": "Press Releases - Federal Reserve Bank of Cleveland",
+                "text": "President Hammack spoke at a monetary policy forum on June 24, 2025. Press Release. Cleveland Fed forms Financial Markets Advisory Council.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/collections/press-releases/2025/pr-20250716-presidents-speech-community-development-adventure",
+                "title": "President's Speech: “The Cleveland Fed's Excellent Community ...",
+                "text": "President Hammack gave keynote remarks at the Cuyahoga County Community College's Corporate College 20-Year Anniversary Celebration on July ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-16T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/collections/speeches/2025/sp-20250416-approaching-monetary-policy-with-heart-brains-and-courage",
+                "title": "Fed 101: Approaching Monetary Policy with Heart, Brains, and ...",
+                "text": "Subscribe to receive notifications about President Hammack's upcoming speaking engagements and text from her latest speeches. First name*.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "News speeches press news speeches press today",
-            "News speeches press news speeches press 2021"
-          ],
           "query": {
-            "q": "site:http://www.clevelandfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.clevelandfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -173,33 +238,209 @@
           "results": {
             "web": [
               {
-                "url": "https://www.clevelandfed.org/center-for-inflation-research/inflation-working-papers",
-                "title": "Working Papers About Inflation - Federal Reserve Bank of Cleveland",
-                "text": "Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual publication in ...",
+                "url": "https://www.clevelandfed.org/publications/working-paper",
+                "title": "Working Paper - Federal Reserve Bank of Cleveland",
+                "text": "Working Papers are preliminary versions of technical papers containing the results and discussions of current research.",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/1987/wp-8708-the-structure-of-the-female-male-wage-difference-pdf.pdf",
-                "title": "Working Paper 8708 THE STRUCTURE OF THE ...",
-                "text": "The composition of the femalelmale wage differential is studied in five industries, using Bureau of Labor Statistics (BLS) Industry Wage Surveys. Page 4 ...",
+                "url": "https://www.clevelandfed.org/center-for-inflation-research/inflation-working-papers",
+                "title": "Working Papers About Inflation - Federal Reserve Bank of Cleveland",
+                "text": "Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual publication in ...",
                 "source": "Federal Reserve Bank of Cleveland",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.clevelandfed.org/research",
-                "title": "Research - Federal Reserve Bank of Cleveland",
-                "text": "Working Papers. Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual ...",
-                "source": "Federal Reserve Bank of Cleveland",
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/1987/wp-8710-monetary-policy-in-an-economy-pdf.pdf",
+                "title": "Working Paper 8710 MONETARY POLICY I N AN ECONOMY WITH ...",
+                "text": "This paper considers the role of monetary policy in an economy with rational expectations and a nominal wage contracting constraint. To this end, a monetary ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2020/wp-2033-even-keel-and-the-great-inflation-pdf.pdf",
+                "title": "Even Keel and the Great Inflation - Federal Reserve Bank of Cleveland",
+                "text": "Working papers of the Federal Reserve Bank of Cleveland are preliminary materials circulated to stimulate discussion and critical comment on research in ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2020/wp-2025-information-inequality-in-pandemic-pdf.pdf",
+                "title": "COVID-3.pdf - Federal Reserve Bank of Cleveland",
+                "text": "\"Information and. Inequality in the Time of a Pandemic.\" Federal Reserve Bank of Cleveland. Working Paper No. 20-25. https://doi.org/10.26509/frbc-wp-202025.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.clevelandfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.clevelandfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.clevelandfed.org/publications/working-paper/1985/wp-8502-federal-reserve-credibility-and-the-markets-response-to-the-weekly-m1-announcements",
+                "title": "Federal Reserve Credibility and the Market's Response to the Weekly ...",
+                "text": "This paper provides new evidence on the issue of Federal Reserve System credibility by examining the response pattern of asset prices to the weekly M1 ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/working-paper/1986/wp-8605-rival-stock-price-reactions-to-large-bhc-acquisition-announcements",
+                "title": "Rival Stock Price Reactions to Large BHC Acquisition ...",
+                "text": "An examination of whether multimarket contacts among geographically diversified bank holding companies adversely affect competition.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/cd-reports/2020/db-20200902-data-updates-measuring-evictions-during-the-covid-19-crisis",
+                "title": "Data Updates: Measuring Evictions during the COVID-19 Crisis",
+                "text": "These data updates capture weekly eviction filing counts for 63 jurisdictions across the US, representing approximately 13 percent of renter households in the ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2016/wp-1610-competitors-stock-price-reaction-to-mass-layoff-announcements-pdf.pdf",
+                "title": "working paper - Federal Reserve Bank of Cleveland",
+                "text": "Working papers of the Federal Reserve Bank of Cleveland are preliminary materials circulated to stimulate discussion and critical comment on research in ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2016/wp-1610-competitors-stock-price-reaction-to-mass-layoff-announcements-pdf.pdf",
+                "title": "w o r k i n g p a p e r",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clevelandfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///40b7eb338cf6f4afd7a16c708c7d2b0529a827bd4bb19d8ee7296ee565358398",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.clevelandfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.clevelandfed.org/publications/working-paper/2022/wp-2003r-advance-layoff-notices-and-aggregate-job-loss",
+                "title": "Advance Layoff Notices and Aggregate Job Loss",
+                "text": "We collect data from Worker Adjustment and Retraining Notification (WARN) Act notices and establish their usefulness as an indicator of aggregate job loss.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/working-paper/2020/wp-2003-advance-layoff-notices-and-labor-market-forecasting",
+                "title": "Advance Layoff Notices and Labor Market Forecasting",
+                "text": "We collect rich establishment-level data about advance layoff notices filed under the Worker Adjustment and Retraining Notification (WARN) Act since January ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/economic-commentary/2019/ec-201921-advance-layoff-notices-as-labor-market-indicator",
+                "title": "Using Advance Layoff Notices as a Labor Market Indicator",
+                "text": "We use advance layoff notices filed under the Worker Adjustment and Retraining Notification (WARN) Act as an indicator of current and imminent labor market ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/banking-and-payments/applications",
+                "title": "Application Filings and Notices - Federal Reserve Bank of Cleveland",
+                "text": "FedEZFile is the Federal Reserve System's single technology tool that offers an easy, immediate, and secure way for financial organizations.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/economic-commentary/2019/ec-201921-advance-layoff-notices-as-labor-market-indicator/ec-201921-appendix.pdf",
+                "title": "Appendix to “Using Advance Layoff Notices as a Labor Market ...",
+                "text": "This appendix provides some details of the dynamic factor model (DFM) and the regressions used to produce Table 1. The DFM is as follows.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.clevelandfed.org/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.clevelandfed.org/publications/economic-commentary/2012/ec-201209-communication-credibility-and-price-stability-lessons-learned-from-japan",
+                "title": "Communication, Credibility, and Price Stability: Lessons Learned ...",
+                "text": "Over the past couple of decades, central banks have been taking steps to increase the transparency of their monetary policies through clearer communications ...",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.clevelandfed.org/publications/working-paper/2024/wp-2421-collusion-in-repeated-auctions-with-costless-communication",
+                "title": "Collusion in Repeated Auctions with Costless Communication",
+                "text": "In this paper, we present a model of repeated first-price private value auctions in which the bidders have access to a cheap talk communication mechanism.",
+                "source": "Federal Reserve Bank of Cleveland",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/events/2021/inflation-2021/day-1-papers/12-weber--effective-policy-communication-targets-versus-instruments.pdf",
+                "title": "Effective Policy Communication: Targets versus Instruments",
+                "text": "Abstract. Communication targeting households and firms has become a stand-alone policy tool of many central banks.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAUVBMVEVHcEymvc+Cobqvw9OQq8Le6O+Lp7/6/f58nLf///+mvc8IV4lkj68/dZ0AToRPgKTL1+JYhqnl7PFxmLWovM4wbJa6y9n8/f4cYI+YsseDpL2fO2GcAAAAC3RSTlMAhcKI3mTCO+sajKopKsUAAAGHSURBVCiRbVKLcuwgCHV3041beYhEJf7/hxaTtpvbuZhxCEfgDJwQfmx9PKNqfD7W8Nc+YmUCVmbG+PEP9FqQQRIDoyhhXV5vbAV2DLT0XtQfgMhv7VUQFGCMveWmw12zH/Q189ASWUbrRslQxOCsvFSFmtxqF8p4eCC2HDyN8IikRMc3HQSok3NEgYSEbOcLQ/9JgBydjRc1QVUVTURJYaj6SwBew42FwYv03vZWil+9oBMGxFt4MrcdSUovv8bE24Z0D3HATom2frEZaKgxDNNJL18z2+SsqEFZnSaN0o6Tp6mDzghCFJ4T4Lzn7TytsQdQJYYnoPwPFJZ7eBCBl63lDRafbwKimw8hiaVBl8xMmkxS9cVEnwoV4DeI2h2mOAfvDbFuuZYTdGdn9LaHWBYinS33M883Xqp3XM5li8/dtu7RLbsW+j7XKd8yWlGqgLRuWKG34SoiXi8Ck6pjr5awDfE/uIjXpekhZFGZN16leYgaXVbkkpb6R9RH7c97hBHvt3fFL8flJ4B2qJFOAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/events/2021/inflation-2021/day-1-papers/12-weber--effective-policy-communication-targets-versus-instruments.pdf",
+                "title": "Effective Policy Communication: Targets versus Instruments",
+                "source": "European Central Bank",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clevelandfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///dcd7f672d8219295412d9053d5c8fd3f675d44d5874940e2e792dcc28c8c59c2",
+                "position": 4
+              },
+              {
+                "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/events/2021/inflation-2021/presentations/weberpresentationen.pdf",
+                "title": "Effective Policy Communication: Targets versus Instruments",
+                "source": "European Central Bank",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clevelandfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///bbf5b68af31730f4d32de73caae2d0e30d389c936137e5b09acdf79b7213aa34",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.clevelandfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

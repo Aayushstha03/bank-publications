@@ -6,19 +6,31 @@
         "url": "https://www.beac.int/publications/",
         "title": "Publications - BEAC",
         "text": "Notes sur les finances publiques · Tests Prévisionnels de Conjoncture · Revues de la Stabilité Financière · Rapports Annuels · Bulletins du marché monétaire ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.beac.int/supervision-bancaire/publications/",
         "title": "Publications - BEAC",
         "text": "Publications · La Commission Bancaire de l'Afrique Centrale · Présentation · Organigramme · Règlements de la COBAC · Instructions de la COBAC · Cadre réglementaire ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.beac.int/publications/rapports-annuels/",
+        "title": "Rapports Annuels - BEAC",
+        "text": "Documents · Réforme des systèmes et moyens de paiement de la CEMAC · Système de Gros Montants Automatisé (SYGMA) · Système de Télécompensation en Afrique Centrale ...",
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.beac.int/p-des-changes/publications/",
         "title": "Publications - BEAC",
         "text": "Documents · La BEAC. La BEAC · Le Fonctionnement de la BEAC · Politique monétaire. Stratégie de politique monétaire · Billets et pièces. Rôle de la BEAC · Systèmes",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.beac.int/publications/rapports-annuels/rapports-annuels-de-la-banque/",
+        "title": "Rapports Annuels de la Banque - BEAC",
+        "text": "Rapports Annuels de la Banque ; Rapport annuel 2023, 2 MB, BEAC ; Annual Report 2020, 2 MB, BEAC ; Rapport annuel 2022, 4 MB, BEAC ; Rapport annuel 2021, 5 MB, BEAC ...",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -38,8 +50,30 @@
     "entries": [
       {
         "url": "https://www.beac.int/wp-content/plugins/sitepress-multilingual-cms/compatibility/elastic-press/",
-        "title": "Index of /wp-content/plugins/sitepress-multilingual-cms/compatibility ...",
-        "text": "Index of /wp-content/plugins/sitepress-multilingual-cms/compatibility/elastic-press. [ICO], Name · Last modified · Size · Description. [PARENTDIR] ...",
+        "title": "Index of /wp-content/plugins/sitepress ... - BEAC",
+        "text": "Index of /wp-content/plugins/sitepress-multilingual-cms/compatibility/elastic-press ; [PARENTDIR], Parent Directory ; [ ], class-wpml-compatibility-elastic-press- ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.beac.int/wp-content/plugins/sitepress-multilingual-cms/classes/notices/",
+        "title": "Index of /wp-content/plugins/sitepress-multilingual-cms/classes/notices",
+        "text": "Index of /wp-content/plugins/sitepress-multilingual-cms/classes/notices ; [ ], class-wpml-notice-render.php, 2017-12-14 09:11, 8.2K.",
+        "listing_probability": 0.01
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.beac.int/wp-content/plugins/sitepress-multilingual-cms/vendor/yoast/whip/src/messages/",
+        "title": "Index of /wp-content/plugins/sitepress-multilingual-cms/vendor/yoast ...",
+        "text": "Index of /wp-content/plugins/sitepress-multilingual-cms/vendor/yoast/whip/src/messages ; [ ], Whip_BasicMessage.php, 2017-12-14 09:11, 684.",
         "listing_probability": 0.01
       }
     ]

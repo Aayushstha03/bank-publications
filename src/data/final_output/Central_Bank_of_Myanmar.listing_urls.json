@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "http://www.cbm.gov.mm/content/monetary-policy",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbm.gov.mm/?q=news",
+        "title": "NEWS - Central Bank of Myanmar",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -14,15 +14,49 @@
                 "source": "المصرف المركزي",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
                 "position": 1
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/publications/cbuae-annual-reports/central-bank-annual-report-2024/",
+                "title": "Central Bank Annual Report 2024 - CBUAE",
+                "text": "Home · News and Publications · Publications · Central Bank Annual Report 2024.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "published_time": "2025-06-26T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/",
+                "title": "News and Insights",
+                "text": "All the latest news and updates from the Central Bank of the UAE.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+                "title": "CBUAE | Publications",
+                "source": "www.centralbank.ae",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centralbank.ae&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.centralbank.ae/media/5rmd2zza/payment-systems-supervision-banner-bg.jpg",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/",
+                "title": "News and Insights",
+                "source": "www.centralbank.ae",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centralbank.ae&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.centralbank.ae/media/rv0k5h4j/thumb-national-summit-on-counter-terrorist-financing-and-sanctions.png",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Publications reports publications reports pdf",
             "Publications reports publications reports 2022",
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.centralbank.ae/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.centralbank.ae/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -57,6 +91,22 @@
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
                 "published_time": "2025-02-19T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.centralbank.ae/media/5yndp1cv/statistical-bulletin-february-2024.pdf",
+                "title": "2024 رياربف Monthly Statistical Bulletin - Banking & Monetary ...",
+                "text": "Contents. Pages. Pages. 1. Selected Monetary and Banking Indicators. 4. 30. Deposits distributed Residents / Non Residents ( All Banks ).",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.ae/media/feplq1ic/monthly-banking-operations-statisitics-2019-2024-_july-2024.pdf",
+                "title": "Monthly Banking Operations Statistics (2019- 2024)",
+                "text": "Jan 19. 7,449,500. 17,914,477,800. 17,921,927,300. 5,145,811. 17,847,285,255. 17,852,431,066. 2,259,992. 105,388,415,902. 273,727,310,342. 632,716,362,970.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 5
               }
             ]
           },
@@ -65,7 +115,7 @@
             "Statistics bulletin data statistics data bulletin excel"
           ],
           "query": {
-            "q": "site:https://www.centralbank.ae/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.centralbank.ae/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -77,22 +127,37 @@
           "results": {
             "web": [
               {
-                "url": "https://www.centralbank.ae/en/our-operations/payments-and-settlements/regulations-and-standards/",
-                "title": "Regulations and Standards - CBUAE",
-                "text": "The UAE 'Regulatory Framework for Stored Values and Electronic Payment Systems', issued on 13 December 2016, is the basis on which the Central Bank of the UAE ...",
+                "url": "https://www.centralbank.ae/en/our-operations/supervision/bank-guidelines/",
+                "title": "Bank Guidelines - CBUAE",
+                "text": "The most up to date guidelines for banks licensed to operate in the UAE, prepared by the Central Bank of the UAE Regulatory Department.",
                 "source": "المصرف المركزي",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
-                "published_time": "2023-06-06T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.centralbank.ae/en/our-operations/anti-money-laundering-aml/docs/cbuae-regulations/amended-chapter-16-of-the-standards-for-the-regulations-regarding-licensing-and-monitoring-of-exchange-business/",
-                "title": "Amended Chapter 16 of the Standards for the Regulations Regarding ...",
-                "text": "Download Amended Chapter 16 of the Standards for the Regulations Regarding Licensing and Monitoring of Exchange Business.",
+                "url": "https://www.centralbank.ae/en/our-operations/payments-and-settlements/regulations-and-standards/",
+                "title": "Regulations and Standards - CBUAE",
+                "text": "The policy objective is to ensure the safe, sound and efficient operation of designated RPS, in compliance with relevant international ...",
                 "source": "المصرف المركزي",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
-                "published_time": "2022-07-25T00:00:00",
+                "published_time": "2023-06-06T00:00:00",
                 "position": 2
+              },
+              {
+                "url": "https://www.centralbank.ae/media/oe5kkapw/financial-regulations-for-insurance-companies.pdf",
+                "title": "Financial Regulations for Insurance Companies",
+                "text": "Insurance Authority Board Decision ................................................................................................ 6. Preamble .",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.ae/en/our-operations/supervision/insurance-guidelines/",
+                "title": "CBUAE | Insurance Guidelines",
+                "text": "The CBUAE and our supervision function diligently regulates insurance providers against a set group of guidelines, policies, and regulations to ensure that all ...",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 4
               },
               {
                 "url": "https://www.centralbank.ae/en/our-operations/monetary-policy-and-domestic-markets/",
@@ -100,16 +165,17 @@
                 "text": "The Central Bank of the UAE is mandated to define and implement its monetary policy objectives through the formulation of the Dirham Monetary Framework.",
                 "source": "المصرف المركزي",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
+            "Policy regulations guidelines policy regulations pdf",
             "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:https://www.centralbank.ae/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.centralbank.ae/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -128,16 +194,20 @@
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
                 "sublinks": [
                   {
-                    "title": "CBUAE | Media Center",
+                    "title": "Press Releases",
                     "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/media-center-news-room-press-releases-announcements/"
                   },
                   {
-                    "title": "CBUAE Imposes Financial...",
-                    "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/cbuae-imposes-financial-sanction-on-a-bank-operating-in-the-uae/"
+                    "title": "CBUAE Imposes a financial...",
+                    "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/cbuae-imposes-a-financial-sanction-of-aed-200-million-on-an-exchange-house/"
                   },
                   {
                     "title": "The Central Bank of the UAE...",
                     "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/the-central-bank-of-the-uae-cbuae-announced-it-will-lower-interest-rates-applied-to-the-issuance-of-its-certificates-of-deposits-in-line-with-the-decrease-in-interest-rates-on-us-dollar/"
+                  },
+                  {
+                    "title": "CBUAE issues new AED100...",
+                    "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/cbuae-issues-new-aed100-banknote/"
                   },
                   {
                     "title": "Central Bank announces the...",
@@ -161,6 +231,31 @@
                 "source": "المصرف المركزي",
                 "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
                 "position": 2
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/cbuae-s-2024-achievements-drive-momentum-towards-a-bright-future-for-the-financial-sector/",
+                "title": "CBUAE's 2024 Achievements Drive Momentum Towards a Bright Future ...",
+                "text": "Download CBUAE's 2024 Achievements Drive Momentum Towards a Bright Future for the Financial Sector",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "published_time": "2025-01-29T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.ae/media/fotlz5ux/pressrel4-7-2006.pdf",
+                "title": "Press Release",
+                "text": "The National Anti-Money Laundering Coninlittee of the. UAE held its meeting No.: (212006) on Sunday, 2\". July. 2006, in Jebel Hafeet Hotel - city of Al-Ain, ...",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+                "title": "Publications - CBUAE",
+                "text": "We provide the public with historical Central Bank of the UAE reports and their iterations published previously, as part of our commitment to data transparency.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 5
               }
             ]
           },
@@ -170,7 +265,149 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:https://www.centralbank.ae/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.centralbank.ae/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.ae/en/research-and-statistics/",
+                "title": "CBUAE | Research and Statistics",
+                "source": "www.centralbank.ae",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centralbank.ae&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.centralbank.ae/media/jdopmdac/archived-reports-banner.jpg",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.centralbank.ae/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/media-center-news-room-press-releases-announcements/",
+                "title": "Media Center - News Room - Press Releases & Announcements - CBUAE",
+                "text": "Media Center - News Room - Press Releases & Announcements. Download. Media Center - News Room - Press Releases & Announcements.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.ae/media/22gjwpub/namlcftc-discusses-the-fatf-action-plan-updates-en.pdf",
+                "title": "NAMLCFTC Discusses the FATF Action Plan Updates",
+                "text": "The NAMLCFTC reviewed FATF's action plan, the UAE's follow-up report, technical commitments, the Private-Public Partnership, and efforts to enhance the UAE's ...",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.ae/media/b3hapbnw/namlcftc-discusses-the-fatf-action-plan-updates-ar.pdf",
+                "title": "التنظيمات اإلرهاب وتمويل اللجنة الوطنية لمواجهة غسل األموال ومكافحة",
+                "text": "أبوظبي ). 6. يو. نيو. 2023). : عقدت اللجنة الوطنية لمواجهة غسل ا. أل. موال ومكافحة تمويل ا. إلرهاب. وتمويل التنظيمات غير المشروعة اجتماعها ...",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "published_time": "2023-06-06T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates twitter"
+          ],
+          "query": {
+            "q": "site:https://www.centralbank.ae/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.ae/ar/cbuae-notices-for-swift",
+                "title": "CBUAE | البحوث والإحصاء - المصرف المركزي",
+                "text": "يقوم مصرف الإمارات العربية المتحدة المركزي بجمع بيانات دقيقة وذات محتوىً مفيد ومحدّثة عن النظام المالي والنقدي لدولة الإمارات العربية المتحدة.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.centralbank.ae/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/the-central-bank-warns-consumers-to-be-aware-of-malicious-whatsapp-messages-of-a-fraudulent-nature/",
+                "title": "The Central Bank warns consumers to be aware of malicious WhatsApp ...",
+                "text": "The Central Bank warns consumers to be aware of malicious WhatsApp messages of a fraudulent nature.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/thematic-news/a-meeting-via-visual-communication-of-the-governors-of-monetary-institutions-and-central-banks-in-the-gulf-cooperation-council-countries-to-discuss-the-economic-effects-of-the-corona-virus-epidemic/",
+                "title": "A meeting via “visual communication” of the governors of monetary ...",
+                "text": "A meeting via “visual communication” of the governors of monetary institutions and central banks in the Gulf Cooperation Council countries.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.ae/media/uzgbtqfh/swiftdefinitionsen.pdf",
+                "title": "Definitions for the implementation of payment purpose codes to the swift ...",
+                "text": "Resident o Residents are those individuals and institutions (governmental and non- governmental) that comprise the domestic economy of the ...",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "published_time": "2018-06-24T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.ae/media/yplhnded/the-central-bank-warns-consumers-to-be-aware-of-malicious-calls-and-text-messages-of-a-fraudulent-nature-pressrelease07032019.pdf",
+                "title": "اﺗﺻﺎﻻت ھﺎﺗﻔﯾﺔ اﻟﻣﺻرف اﻟﻣرﮐزي ﯾﺣذر اﻟﻌﻣﻼء ﻣن اﺣﺗﯾﺎﻟﯾﺔ",
+                "text": "ﯾﺣذر ﻣﺻرف اﻹ. ﯾﺣذر ﻣﺻرف اﻹ. ﻣﺎرات اﻟﻌرﺑﯾﺔ اﻟﻣﺗﺣدة اﻟﻣرﮐزي. ﻣﺎرات اﻟﻌرﺑﯾﺔ اﻟﻣﺗﺣدة اﻟﻣرﮐزي. ،. اﻟﻌﻣﻼء وﯾﺣﺛﮭم ﻋﻟﯽ اﻟﺗﻧﺑﮫ ﻣن. ﺗﻟﻘﻲ أي اﺗﺻﺎﻻت ھﺎﺗﻔ.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.ae/media/iglgdl20/2021-q2-arabic-october-5th-docx-sent-to-communication-for-publishing.pdf",
+                "title": "ع السنوي رب القتصادي ا التقرير - المصرف المركزي",
+                "text": "الرسوم. البیانیة. الرسم البياني. 2.1 .أ. متوسط. تضخم. أسعار المستهلك. الكلي. على أساس سنوي في اقتصادات مختارة. الرسم البياني.",
+                "source": "المصرف المركزي",
+                "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGi8lHyQ3LTc3NzUyNjctNzUyNTg1LTcyLDc3NzQ3Nys1NzU1LzU4My8tNTUtNysrLTU1NTU3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDBP/EACsQAAIBAwIEBAcBAAAAAAAAAAECAwAEEQUhBhIxMhNBcZEVIiRCUWGBB//EABkBAAMAAwAAAAAAAAAAAAAAAAECAwAEBf/EACERAAMAAQMEAwAAAAAAAAAAAAABAhEDEiEEEzJCBTFB/9oADAMBAAIRAxEAPwCx6zqcOk2D3c4ZgpAVF6sT5Ul2onLGmdzwJWt8cM9zaTaPPIqJnx4ZYwFbcbZ6/kVr11C4clO1jyGHSeMLDU7q2t4kkR5wR8w7XAzy+2d6rGvNPCEcNLIxVYQUP9PQvw/CoLD6pe04PY9JayhpEPQ9RuNDlVpIFOQcwyrzcwPQ+tRTcXwXeL00v034ajll4xtLqaFofGuTIoGy4OfKmicvc0SbxwmWSrkwLxXZ3F3pqNaRLNLbyiYRN9+ARj13z/KDylwPpqXSVPCET4m3O4nsIoZB3I6lT7EVHvpfcnQfxu7mLygpw0t3qOp2jx6aILSBi7TFSBsDgA+ZzinjUd+uER6jptPRnzyyg1Q0jnviRbkgkHI6VhgO5i27HNMKbWjsblF5jjfbP6oMIToBP//Z",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.centralbank.ae/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -2,31 +2,198 @@
   "Bank Name": "Federal Reserve Bank of Dallas",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dallasfed.org/pubs",
+                "title": "Publications - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "Listing of current Dallas Fed publications. See historical publications for access to discontinued journals, reports and papers.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.dallasfed.org/research/pubs",
+                "title": "Research publications - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "Contains articles about economic conditions and business development in Texas, New Mexico and Louisiana, including ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.dallasfed.org/pubs/historical",
+                "title": "Historical Publications - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "Historical Publications ; Annual Report (1915–2017) ; Banking and Community Perspectives (1995–2012) ; Behind the Numbers: PCE Inflation Update ( 2015–23) ; The ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.dallasfed.org/pubs/historical/annual",
+                "title": "Annual reports - Dallasfed.org",
+                "text": "Dallas Fed annual reports were published 1915–2017. Issues are available on FRASER, the Federal Reserve's digital library of US economic, financial and banking ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/cd/pubs",
+                "title": "In-depth reports and other resources - Dallasfed.org",
+                "text": "In-depth reports and other resources ... Topics: small business and entrepreneurship, workforce development, education, digital access, Community Reinvestment Act ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports ppt",
+            "Publications reports publications reports list",
+            "Publications reports publications reports free"
+          ],
+          "query": {
+            "q": "site:http://www.dallasfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dallasfed.org/research/econdata",
+                "title": "Economic data - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "Current and historical data collected by the Dallas Fed to assess conditions in manufacturing, services, energy, and lending across Texas.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "sublinks": [
+                  {
+                    "title": "Texas Employment Data",
+                    "url": "https://www.dallasfed.org/research/econdata/tx-emp"
+                  },
+                  {
+                    "title": "Texas Manufacturing Outlook...",
+                    "url": "https://www.dallasfed.org/research/surveys/tmos/data"
+                  },
+                  {
+                    "title": "Weekly Economic Index",
+                    "url": "https://www.dallasfed.org/research/wei"
+                  },
+                  {
+                    "title": "Dallas Fed Energy Survey",
+                    "url": "https://www.dallasfed.org/research/surveys/des"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.dallasfed.org/research/econdata/tx-emp",
+                "title": "Texas Employment Data - Federal Reserve Bank of Dallas",
+                "text": "The Dallas Fed improves the quality of the Bureau of Labor Statistics' payroll employment estimates for Texas using early benchmarking and two-step seasonal ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 2
+              },
+              {
+                "url": "https://www.dallasfed.org/research/surveys/des/data",
+                "title": "Dallas Fed Energy Survey - Historical data",
+                "text": "Historical Data. Historical data can be downloaded dating back to first quarter 2016. For the definitions of all variables, see Data Definitions.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 3
+              },
+              {
+                "url": "https://www.dallasfed.org/research/basics/definitions",
+                "title": "Data definitions - Dallasfed.org",
+                "text": "Texas Leading Index. The Texas Leading Index is a single summary statistic that sheds light on the future of the state's economy.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/research/wei/series",
+                "title": "Data Series Employed in the WEI - Dallasfed.org",
+                "text": "The WEI is composed of 10 underlying series. To measure consumer behavior, we include the Redbook same-store retail sales index and the Rasmussen Consumer ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pk0HELgAAAZSSURBVEiJTVYJm6LIEqziRu5DQAZBoGVkkZZxXK/dxv3/v2ojC3vfq68bUCvIyMzIzGKmKRuGpsgMS5IkTZZNrnOuKAouMmcq7lzmsiFpmixhpxEyAPBJMwxD1SR6wuKqqigq47Kmqip+kzTV0DQ84aOqmIypTMaTgV8Y4xKTZYmpKlmVuaLCDt6E638L3zNZAw9Nk0CMNjLOBUvG/veJK7guAEnl9JVmKLRFE1aWpTMWVfkrZP+3JG15laLouGmwJ6m4ilfsq3jHWFU4a6djzKzjKlrsabQDNiUd7DRVWrjBk7DxnZ8HXR/XrrUuYa7/4+eUwrIsyMGYwnVmclUhDJfh0D7rh2qThSxILM/B3qM71llfhzCkacQfm4BBkIU3COB+3JSnLkv2Oktdz/48XYY8OiaHewyQgQ0akQRGQgyWFWVTVRZuNhSH4+D5fn/z+zp3++PwI2ciW/BXIaf4N8Y4jHVXTvZqcr1i8v2V7289z/6ZRek4ldgoU9oUVWHkhqDG6vF4LPe70fKyw+22Wq1w8Swvjk6nKB4jrusiFwYnjXGRGKltq2xzTctiVe0KnzCrlbf6VSW3TZLXe13XBR3NhFagQsKoUVW4ntufz1NWH1bv9fu351iWkwUh002hCgP5EVoB0zI7e5a19azVajtWZ7JCC+w8y+7HJKAkSdAmZ7Kx6EsZ184quznYAvd/ZwvG9wGwi7Pt/PhFoZNl1Aj8QQCg6WhjOefolBdrQsF9EQbPt6ys2p8m1x5NEWVOetMQallmp9++m1OShpvjbN/MPMeeatQL+/TsTfhWOpyRqEQ5q/vrUTYDCDJMk9ub2e1XGrIw2DOz6/u9iPQiIJQU4jbH2J72UxbnZZr4SwDiXZk/xn7ET/MjEnaQUhIdykEyIhP3fO04znptb98Y37Kdte32wbsC31eiBluhYDvY3g2++wgdwfzVzXenlevtqAwZ9RZZoWozRYlH+xDgxL6lx7zsCssafyHOU1flx8J1U8ajyyUUNUcYmQyxS7oD38Txysuf8X5jr7oggXIuYXSwPWBYNY4dErToTKbaZl37EZAdJz9lcVCsD0wKzw5I7XvHc1Gx9dTni0cUa9Fknk2zJ4xdh9dkPzpJ+tllTh98BcfeIjvlOFH6pG8U6rWtZ2Bi2z0n0+bae8jn7eb1h82mzlwP3eSYbWrazIV2JHAL8+aOl+Xg7lLMfFFyvg+hu9utf2TsNGTpogL5Tc1sHiNMl7blWh7+oGUSNB6x3AkUyvjzKCAq9GaITOVN3XB2HIf4EQ9xPAx0S4YhiT/jbAgh4f6KLFH3hyVVtIP63jwgredffz///uvrGQXPr3A3h2H7Mp/NhbHddrsRdnRgTFU0g909bWrGLq+2mZ/zx2v+aHft4+srboMmR+bqvk8ipiOpmi7mANZpTOs7aXhu53luX3PbfrUfr2eDW4BcJZtNxbipi5pDI6WAh/dDQ4nWO8I0r7lpX4T5aF87ROp4LkBNh9wIww3BjaXjI88h1O4Bboud+ePr+dG0J0S2Hm8jUaP5p5N0JGoh+lCf7g1jwT/tsxV2BCaO25CK9zOpaWYipQZ6lcREzeFV+UiFEqSv9psbZJ0iAEHWb/JwGWAwRL17WZf+3pIhFl7alpwnf9KAPH643o9q6QTAgNM3hu0e+TWrwCRsH8+ymb/aeL6ggXR5VkzX76FHMTAN9btuu/N0uB8w5cLnXH0A014MFg4jOsI1eg9aphgGeqK6TFx8Vd0f8WEsUcfm8frPfMK7LxgW5TieRGGLeUyt7b/xA5vz/ZHH9wcaFDtR3bK0KOK8yaAaSI2qR8x/nEIWoxTBMI0P7TH/8WYfDZtpU0yHgIkWipGqUFbhj4YzBlvaCsL6OORx3zdBGEa7eMzGYoqjt/d0QKCskt4WjFAs3p333j3J7vFwyOKsSFA170WDGwjUD52QFmkjtRoIKF3edY/8EuziR11iHDODZihbzj4K+cPpcIRzFVdoKIOuGC0BObS/KEvi6YRFzoijEw1izBQYwJFMxEVGB1PE0YdqEXs4QShgy/GMEzcmm7KsmybHRcdAlgllYg4q4hiHRyyZYwc96NAo1Zy5LNx1OgDyBaMohqxgj8nfvwgQLgqdXWi/LJHMYQhJEEOcTCz/NBHxb8Iq/YHNv1JAmQHgM1beAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.dallasfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "monetary_policy",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.dallasfed.org/research/international/dgei/policy",
-                "title": "Short-term official/policy rates - Dallasfed.org",
-                "text": "Short-term official/policy rates ... Get analysis, research, resources and event information delivered directly to your inbox. Subscribe. Follow the Dallas Fed.",
+                "url": "https://www.dallasfed.org/news/speeches/logan/2024/lkl241021",
+                "title": "Normalizing the FOMC's monetary policy tools - Dallasfed.org",
+                "text": "A strategy of gradually lowering the policy rate toward a more normal or neutral level can help manage the risks and achieve our goals.",
                 "source": "Federal Reserve Bank of Dallas",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "published_time": "2024-10-21T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.dallasfed.org/-/media/documents/fed/transparency/tap-policy.pdf",
-                "title": "Transparency and Accountability Policy - Dallas Fed",
-                "text": "Transparency is essential to maintaining public trust and promoting a better understanding of the Federal Reserve Bank of Dallas' mission and actions.",
+                "url": "https://www.dallasfed.org/-/media/documents/research/international/wpapers/2012/0109.pdf",
+                "title": "Policy Regimes, Policy Shifts, and U.S. Business Cycles*",
+                "text": "Abstract. Using an estimated DSGE model that features monetary and fiscal policy interactions and allows for equilibrium indeterminacy, we find that a ...",
                 "source": "Federal Reserve Bank of Dallas",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
                 "position": 2
+              },
+              {
+                "url": "https://www.dallasfed.org/research/economics/2025/0415",
+                "title": "Monetary policy implementation and the consolidated government ...",
+                "text": "This essay uses the consolidated government balance sheet and income statement to demonstrate that ample-reserves and scarce-reserves monetary policy ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "published_time": "2025-04-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.dallasfed.org/topics/monetary",
+                "title": "Monetary policy - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "This essay examines the trade-offs between different monetary policy implementation methods through the lens of the consolidated government balance sheet and ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/research/papers/2024/wp2412",
+                "title": "Monetary Policy Interactions: The Policy Rate, Asset Purchases and ...",
+                "text": "We study monetary policy in a New Keynesian model with a variable credit spread and scope for central bank asset purchases to matter.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:http://www.dallasfed.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.dallasfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -38,12 +205,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.dallasfed.org/news/speeches",
+                "title": "Speech archives - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "Speeches by President Lorie K. Logan (2017–present) · Speeches by other Dallas Fed leaders (2023–present) · Speeches and essays by former President Robert S.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://www.dallasfed.org/news/speeches/logan",
                 "title": "Speeches by President Lorie K. Logan - Dallasfed.org",
                 "text": "Find the full text for President Logan's prepared public remarks. This listing includes older speeches and essays from her years with the Federal Reserve Bank ...",
                 "source": "Federal Reserve Bank of Dallas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.dallasfed.org/news/speeches/kaplan",
@@ -51,26 +226,35 @@
                 "text": "Essays and speeches by former President Robert S. Kaplan, 2015–21 · A Discussion of Economic Conditions, Key Secular Trends and the Limits of Monetary Policy",
                 "source": "Federal Reserve Bank of Dallas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://www.dallasfed.org/news/speeches/fisher",
-                "title": "Speeches by former President Richard W. Fisher, 2005–15",
-                "text": "\"'Audit the Fed' is nothing more than an attempt to override purely economic judgments and bend monetary policy to the will of politicians. It is misguided.\"",
+                "url": "https://www.dallasfed.org/news/speeches/logan/2025/lkl250715",
+                "title": "Opening remarks for moderated conversation at the World Affairs ...",
+                "text": "July 15, 2025. Dallas Fed President Lorie K. Logan delivered these remarks before the World Affairs Council of San Antonio on July 15, 2025.",
                 "source": "Federal Reserve Bank of Dallas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/news/speeches/logan/2025/lkl250519",
+                "title": "Opening remarks for panel titled 'The increasing role of nonbank ...",
+                "text": "Our topic this afternoon is a timely one: the role of nonbank financial institutions (NBFIs) in Treasury and money markets.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-19T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "News speeches press news speeches press today",
             "News speeches press news speeches press pdf",
-            "Best news speeches press news speeches press",
+            "News speeches press news speeches press archives",
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.dallasfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.dallasfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -90,12 +274,20 @@
                 "position": 1
               },
               {
-                "url": "https://www.dallasfed.org/research/international/global/global-wpapers",
-                "title": "Global Institute working papers - Dallasfed.org",
-                "text": "Working papers from the Global Institute provide critical insights on trade, immigration, and other major international issues, along with in-depth analysis ...",
+                "url": "https://www.dallasfed.org/~/media/documents/research/papers/1987/wp8701.pdf",
+                "title": "Financial Innovation and Monetary Policy Effectiveness",
+                "text": "This article develops a model of the financial sector to examine how the growth in money market funds has altered the effectiveness of monetary policy. The work ...",
                 "source": "Federal Reserve Bank of Dallas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
                 "position": 2
+              },
+              {
+                "url": "https://www.dallasfed.org/-/media/documents/research/papers/1999/wp9911.pdf",
+                "title": "Oil Price Shocks and the U.S. Economy",
+                "text": "Rising oil prices appear to retard aggregate U.S. economic activity by more than falling oil prices stimulate it. Past research suggests adjustment costs ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 3
               },
               {
                 "url": "https://www.dallasfed.org/~/media/documents/research/papers/2025/wp2514.pdf",
@@ -103,7 +295,15 @@
                 "text": "We propose a method to decompose changes in the tax structure into orthogonal components measuring the level and progressivity of taxes.",
                 "source": "Federal Reserve Bank of Dallas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/~/media/documents/research/papers/2004/wp0405.pdf",
+                "title": "Optimal Monetary Policy in Economies with “Sticky-Information” Wages",
+                "text": "In this setting, the paper examines conditions under which staggered wage setting prolongs the response of the real economy to nominal shocks. The key finding ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -114,7 +314,141 @@
             "Research working papers papers research working papers ') 2020"
           ],
           "query": {
-            "q": "site:http://www.dallasfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.dallasfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dallasfed.org/research/update",
+                "title": "Economic updates - Dallasfed.org - Federal Reserve Bank of Dallas",
+                "text": "Economic updates: Dallas Fed economists review recent economic conditions in the region, US and the world.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 1
+              },
+              {
+                "url": "https://www.dallasfed.org/research/papers/2019/wp1906",
+                "title": "Do Monetary Policy Announcements Shift Household Expectations?",
+                "text": "We find that a surprise increase in the target rate robustly leads to an immediate decline in household confidence, at odds with previous findings.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 2
+              },
+              {
+                "url": "https://www.dallasfed.org/-/media/documents/banking/nic/ask-the-fed.pdf",
+                "title": "Updates to the FR Y-6 and FR Y-7 Reports and Introducing Structure ...",
+                "text": "Updates to the FR Y-6 and FR Y-7 Reports and. Introducing Structure Central. February 5, 2025. Quick Reference Guide. To access webinar recording and ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 3
+              },
+              {
+                "url": "https://www.dallasfed.org/educate/events/2020/20regional",
+                "title": "Regional Economic Updates - Dallasfed.org",
+                "text": "In this series of videos, educators will learn about what is current in the regional economy with updates from Dallas, El Paso, Houston and San Antonio. DFW ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/~/media/documents/research/efr/2001/efr0101b.pdf",
+                "title": "B2B eMarketplace Announcements and Shareholder Wealth",
+                "text": "The advent of the Internet as an instru- ment for business commerce has fundamentally altered the economy by ushering in increased.",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAw1BMVEX////+/////v/+/v/+//7///7//v79///+/v79/v8CYakAVJ8AUZwATpoAVJ0AWKECXKPX4/D2+fzp8fdxnMcAS5lbk8GvyeBLhLkobqmGrM4AS5Qibq0AWqGoxN2iwd3G1uiUttaApMyQrM18nsbi6/S3zuMAQ5BVir0bYKIAP5B5pMzG2eo5d69/rNDa6PMfZ6dhm8gyerZKi8LP3Ooma6NTiLYSZalQgrdrlcOovNTn6vfM1+rBzeOfttK3x95XgbH8hTovAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjExOjAxKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVX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",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.dallasfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dallasfed.org/research/swe/2023/swe2315",
+                "title": "WARN layoff notices signal easing Texas labor market ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.dallasfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.dallasfed.org/-/media/Images/research/swe/2023/2315/swe2315c1.png",
+                "published_time": "2023-12-15T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.dallasfed.org/research/swe/2023/swe2315",
+                "title": "WARN layoff notices signal easing Texas labor market ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.dallasfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.dallasfed.org/-/media/Images/research/swe/2023/2315/layoff-pri.jpg",
+                "published_time": "2023-12-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.dallasfed.org/research/swe/2023/swe2315",
+                "title": "WARN layoff notices signal easing Texas labor market ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.dallasfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.dallasfed.org/-/media/Images/research/swe/2023/2315/swe2315c2.png",
+                "published_time": "2023-12-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.dallasfed.org/~/media/documents/research/swe/2005/swe0505d.pdf",
+                "title": "Mexican GDP Falls but No One Notices,\" Southwest Economy ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.dallasfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///3224f9f7ad0525f7afbef1b0daafd69a9c306fa9bb824affc255e720c9c78bd0",
+                "position": 4
+              },
+              {
+                "url": "https://www.dallasfed.org/research/swe/2023/swe2315",
+                "title": "WARN layoff notices signal easing Texas labor market - Dallasfed.org",
+                "text": "An increase in notices of pending mass layoffs among firms in Texas may signal rising ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "published_time": "2023-12-15T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.dallasfed.org/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.dallasfed.org/research/economics/2023/0328",
+                "title": "Calibrating central bank inflation messages is key to policy success",
+                "text": "Central bank communication is itself a key monetary policy tool. A well-crafted message about the current and future state of the economy can ...",
+                "source": "Federal Reserve Bank of Dallas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEX////z9/qLqs2gudalvdglb69Hf7cAWaUATaALZ6vD0+Rvl8O6zOAAVqPi6vK0x96AosmDpctxmcRdjb4AY6kAXqcAW6UAYahRhbo0dbHS3uuXtdR2nseSsNBhj7/x9fkAU6IAXaYmcbCuw9vY4u7q8PYAT6EI79ttAAABPklEQVR4Aa3MQZKkIABE0QQRawQKUQFVUBXt+x9xnEUTTkUv+21/ZOJ3EFrgR6zk4NUL+FPW+CCE5IQo9dYN4x970xavrhe2d3541aPGw2Rm1lSh7G8+Ur2szxg2V44d93fjvdvi+xFf1aB2b5c79t5ZvpXI3mWJNTjb33ZPsR4KWU0hQ5LirtZIJk4Ma44ECGpTrre+rzalGB7OC8Ohm+CX0YdklIGUORYaw1Yvxl2TCmR0DZYxv84SnRMjt+VhOQ+KIg45ti1o5exurfX77pRGpPgWAuo0p1lHSWsqw3V9tTk2LEFHFhPVRhqdoA+WY9EGgH7HBNKOJ7JQFDk2EmdoySMGDkz0X9QTrvJrwkMzLBM0u+OEtIwUT0TQjhGwGusiZoH/XdQw+wamYTwiwad0iC6aMNATP5qAGr/iL7QvGVCyWOyFAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.dallasfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

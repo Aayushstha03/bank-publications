@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "http://www.cbi.ir/statistics/",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbi.ir/category/News.aspx",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

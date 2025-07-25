@@ -24,12 +24,28 @@
                 "position": 2
               },
               {
-                "url": "https://www.lb.lt/en/reviews-and-publications/category.38/series.201",
-                "title": "Publications | Bank of Lithuania - Lietuvos bankas",
-                "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+                "url": "https://www.lb.lt/en/ch-publications/category.4356/series.199",
+                "title": "Publications | Bank of Lithuania",
+                "text": "The quarterly publication presents the country's quarterly balance of payments, information on official reserves, international investment position and the ...",
                 "source": "Lietuvos bankas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.lb.lt/en/ch-publications/category.39/series.180",
+                "title": "Publications | Bank of Lithuania",
+                "text": "Publications · Banking Activity Review · Capital Market Review · Consumer Credit Market Review · Financial Stability Review · Lithuanian Economic Review ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.lb.lt/en/ch-publications/category.39/series.171?category%5B0%5D=87&ff=1",
+                "title": "Publications | Bank of Lithuania - Lietuvos bankas",
+                "text": "Publications · Banking Activity Review · Capital Market Review · Consumer Credit Market Review · Financial Stability Review · Lithuanian Economic Review ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -40,7 +56,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.lb.lt/en/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.lb.lt/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -54,7 +70,7 @@
               {
                 "url": "https://www.lb.lt/en/lb-statistics",
                 "title": "Statistics | Bank of Lithuania - Lietuvos bankas",
-                "text": "The statistics compiled and published by the Bank of Lithuania mainly aim to present to the public comprehensive statistics that comply with international ...",
+                "text": "The statistics compiled and published by the Bank of Lithuania mainly aim to present to the public comprehensive statistics ...",
                 "source": "Lietuvos bankas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
                 "position": 1
@@ -68,17 +84,34 @@
                 "position": 2
               },
               {
-                "url": "https://www.lb.lt/en/news/revised-and-restructured-statistics-in-the-new-monthly-bulletin",
-                "title": "Revised and restructured statistics in the new Monthly Bulletin",
-                "text": "On 24 March, a revised and more than twice larger Monthly Bulletin of the Bank of Lithuania will be issued. It will present restructured statistical ...",
+                "url": "https://www.lb.lt/en/statistics-department",
+                "title": "Data and Statistics Department - Bank of Lithuania - Lietuvos bankas",
+                "text": "The objective of the Data and Statistics Department is to enable data-based solutions by ensuring that the highest quality data and statistics are available.",
                 "source": "Lietuvos bankas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "published_time": "2025-04-15T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.lb.lt/en/distributional-wealth-accounts-ecb-dwa",
+                "title": "Distributional Wealth Accounts | ECB Data Portal",
+                "text": "Distributional Wealth Accounts (11373); Net wealth deciles (5137); Work (3723); Housing (1560); Total (966); Debt Securities (852); Deposits (852) ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.lb.lt/en/about-lb-statistics",
+                "title": "About statistics - Bank of Lithuania - Lietuvos bankas",
+                "text": "Learn more about the statistics published by the Bank of Lithuania, where and how to find relevant economic statistics and statistical data ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "published_time": "2025-01-09T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.lb.lt/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.lb.lt/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -90,36 +123,52 @@
           "results": {
             "web": [
               {
-                "url": "https://www.lb.lt/en/mp-monetary-policy-instruments",
-                "title": "Monetary policy instruments | Bank of Lithuania - Lietuvos bankas",
-                "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which ...",
-                "source": "Lietuvos bankas",
+                "url": "https://www.lb.lt/uploads/documents/files/Regulation%202019_2033_On%20the%20prudential%20requirements%20of%20investment%20firms.pdf",
+                "title": "REGULATIONS - EUR-Lex - European Union",
+                "text": "Robust prudential requirements are an integral part of the regulatory conditions under which financial institutions provide services within the Union.",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
-                "published_time": "2024-07-05T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.lb.lt/en/news/lietuvos-bankas-updated-supervisory-policy-focuses-on-consumers-and-financial-market-participants",
-                "title": "updated supervisory policy focuses on consumers and ... - Lietuvos bankas",
-                "text": "The updated Financial Market Supervision Policy of Lietuvos bankas is to enter into force on 1 January 2025. It highlights the key principles.",
-                "source": "Lietuvos bankas",
+                "url": "https://www.lb.lt/en/media/force_download/?url=%2Fuploads%2Fdocuments%2Ffiles%2FEN%2Four-functions%2Fsupervision-of-financial-institutions%2Fabout-the-supervisory-activities%2Fcapital-requirements-directive-and-regulation%2Feba-guidelines%2Fpn+rizika_ne+prekybos+knygos+veikla_en.pdf",
+                "title": "Guidelines on the management of interest rate risk arising from non ...",
+                "text": "(c) Policy limits should be appropriate to the nature, size, complexity and capital adequacy of the institution, as well as its ability to measure and manage ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
-                "published_time": "2025-01-07T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.lb.lt/en/mpi-monetary-policy-instruments",
-                "title": "Monetary policy instruments - Bank of Lithuania - Lietuvos bankas",
-                "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which ...",
+                "url": "https://www.lb.lt/en/bank-of-lithuania-positions-and-guidelines",
+                "title": "Bank of Lithuania positions and guidelines - Lietuvos bankas",
+                "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
                 "source": "Lietuvos bankas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
-                "published_time": "2024-07-05T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.lb.lt/uploads/documents/files/EN/our-functions/supervision-of-financial-institutions/about-the-supervisory-activities/capital-requirements-directive-and-regulation/eba-guidelines/EBA%20guidelines%20disclosure.pdf",
+                "title": "Guidelines on disclosure requirements under Part Eight of ...",
+                "text": "These guidelines detail the EBA's view on appropriate supervisory practices within the. 2. European System of Financial Supervision or on how EU law should ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.lb.lt/en/media/force_download/?url=%2Fuploads%2Fdocuments%2Ffiles%2FEN%2Four-functions%2Fsupervision-of-financial-institutions%2Fabout-the-supervisory-activities%2Fcapital-requirements-directive-and-regulation%2Feba-guidelines%2Fgaires+del+informacijos+atskleidimo+%28473a%29_EN.pdf",
+                "title": "Guidelines on uniform disclosures under Article 473a of Regulation ...",
+                "text": "Guidelines set out the EBA's view of appropriate supervisory practices within the European. System of Financial Supervision or of how Union ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "published_time": "2018-01-16T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations ppt",
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations"
+          ],
           "query": {
-            "q": "site:https://www.lb.lt/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.lb.lt/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -147,12 +196,28 @@
                 "position": 2
               },
               {
-                "url": "https://www.lb.lt/en/news/theme.Statistika?page=286",
-                "title": "#286 News | Bank of Lithuania - Lietuvos bankas",
+                "url": "https://www.lb.lt/en/speeches-interviews-presentations/theme.Financial+stability",
+                "title": "#1 News | Bank of Lithuania - Lietuvos bankas",
                 "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
                 "source": "Lietuvos bankas",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.lb.lt/en/speeches-interviews-presentations/targetgroup.Banks?page=16",
+                "title": "#16 News | Bank of Lithuania - Lietuvos bankas",
+                "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.lb.lt/en/news?category%5B0%5D=64&page=4",
+                "title": "#4 News | Bank of Lithuania - Lietuvos bankas",
+                "text": "Speech by Vitas Vasiliauskas, Chairman of the Board of the Bank of Lithuania at the opening of the conference “Macroprudential Policy.",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -161,7 +226,7 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:https://www.lb.lt/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.lb.lt/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -173,33 +238,135 @@
           "results": {
             "web": [
               {
-                "url": "https://www.lb.lt/en/news/bank-of-lithuania-awards-authors-of-best-research-papers-in-economics",
-                "title": "Bank of Lithuania awards authors of best research papers in ...",
+                "url": "https://www.lb.lt/uploads/publications/docs/28969_160e12da5a8ae31d4e46beccec0de446.pdf",
+                "title": "What Moves Treasury Yields? Working Paper Series No 88 / 2021",
+                "text": "Working papers describe research in progress by the author(s) and are published to stimulate discussion and critical comments. The series is managed by the ...",
                 "source": "Lietuvos bankas",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lb.lt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.lb.lt/uploads/news/images/595x396_ratio/f_3ee5b219ff095232972333012c069007_34734_0b309b885505cc38796100d0ffe10ff5.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.lb.lt/en/news/the-young-economists-winners-of-the-student-research-papers-competition-new-economic-ideas-have-been-awarded-at-the-bank-of-lithuania",
-                "title": "The Young Economists – Winners of the Student Research Papers ...",
+                "url": "https://www.lb.lt/uploads/publications/docs/34263_02b87530be20fd3d58ee5e25f2edb1b6.pdf",
+                "title": "Financial Development, Reforms and Growth Working Paper Series No ...",
+                "text": "Working papers describe research in progress by the author(s) and are published to stimulate discussion and critical comments. The series is managed by the ...",
                 "source": "Lietuvos bankas",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lb.lt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.lb.lt/uploads/news/images/595x396_ratio/f_3ee5b219ff095232972333012c069007_16256_646f6ed519a0ffa0fd4a2042fb069e8c.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.lb.lt/en/news/research-podcast-what-moves-treasury-yields",
-                "title": "Research Podcast: What Moves Treasury Yields? | Bank of Lithuania",
+                "url": "https://www.lb.lt/uploads/publications/docs/20897_5253a11521c577a2af5141931ba03548.pdf",
+                "title": "WORKING PAPER SERIES No 53 / 2018 - Lietuvos bankas",
+                "text": "Working Papers describe research in progress by the author(s) and are published to stimulate discussion and critical comments. The Series is ...",
                 "source": "Lietuvos bankas",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lb.lt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.lb.lt/uploads/news/images/595x396_ratio/f_3ee5b219ff095232972333012c069007_34599_92cbd59749bffa2655aa7bfcbc72a634.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.lb.lt/uploads/publications/docs/22476_699895b914c88d3d7bcd095b9a20dcc8.pdf",
+                "title": "Loss of a lending relationship: shock or relief? Working Paper Series No ...",
+                "text": "Working Papers describe research in progress by the author(s) and ... Some related papers examine even smaller markets; for example, Schäfer (2016) studies.",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.lb.lt/uploads/publications/docs/20775_96de9c655ab07a40b6ee60b6f1e15461.pdf",
+                "title": "WORKING PAPER SERIES No 30 / 2016 - Lietuvos bankas",
+                "text": "Working Papers describe research in progress by the author(s) and are published to stimulate discussion and critical comments. The Series is managed by ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021"
+          ],
+          "query": {
+            "q": "site:https://www.lb.lt/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.lb.lt/en/announcements-changes-to-foreign-exchange-reference-rates",
+                "title": "Announcements: changes to foreign exchange reference rates",
+                "text": "From 1 October 2021, the Central Bank of Venezuela is carrying out a re-denomination of Bolívar Soberano (currency code – VES) at a rate of 1 ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "published_time": "2021-10-28T00:00:00",
+                "position": 1
               }
             ]
           },
           "query": {
-            "q": "site:https://www.lb.lt/en/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.lb.lt/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.lb.lt/uploads/publications/docs/41112_d24562b9d3698d80e496bcf378f4389c.pdf",
+                "title": "how do they relate to the economic environment and financial markets?",
+                "text": "Various research has been performed by employing techniques to assess the content of communication.",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.lb.lt/en/publications/ecb-communication-sentiments-how-do-they-relate-to-the-economic-environment-and-financial-markets",
+                "title": "ECB communication sentiments: how do they relate to the economic ...",
+                "text": "In this paper we examine multiple dimensions of ECB monetary policy communication by identifying its sentiment and relation with the economic environment ...",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.lb.lt/en/publications/communication-of-ecb-governing-council-members-do-they-speak-in-one-voice",
+                "title": "Communication of ECB Governing Council members: do they speak in ...",
+                "text": "The goal of this paper is to determine the heterogeneity in communication among the ECB Governing Council members, employing the GPT language model.",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "published_time": "2024-10-22T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.lb.lt/uploads/publications/docs/47969_c4424f46dc1ce019c611964d2fd65292.pdf",
+                "title": "Communication of ECB Governing Council members: do they speak in ...",
+                "text": "The abovementioned prompt is used on full media messages as they tend to be relatively short.",
+                "source": "Lietuvos bankas",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAS1BMVEX///+mvr4ASknB0dAAXl0AW1pdi4rv8/OqwMAATUyovLzx9/cAQkAAVFMAUVAAWFdqk5K9zc10mpkWZWQgamlRg4Nxl5cycG/i6uk5p4mxAAAAaElEQVR4Ae1NxQGAMAysXIpGcPaflL5wNiCud+6XQ3yIzoFARKm4L8uqdk0LMAvjZZlj0hys6l6XSjn0H0saDNDhHZbAyjq6b1ir4mNZ5jjpK6eXeRzHBf04sN5hu1CJSJWCyLKe5r9siCoEXHGjkZcAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.lb.lt/en/news/speech-of-the-chairman-of-the-board-on-central-bank-communications",
+                "title": "Speech of the Chairman of the Board on central bank ...",
+                "source": "Lietuvos bankas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lb.lt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.lb.lt/uploads/news/images/595x396_ratio/f_3ee5b219ff095232972333012c069007_21974_a82eef10f8e9d694a97ad5631a95bfde.jpg",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Communication messages communication messages pdf",
+            "Communication messages communication messages examples"
+          ],
+          "query": {
+            "q": "site:https://www.lb.lt/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

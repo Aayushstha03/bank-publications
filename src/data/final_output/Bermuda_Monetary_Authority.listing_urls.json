@@ -11,8 +11,26 @@
       {
         "url": "https://www.bma.bm/publications/annual-reports",
         "title": "Annual Reports by the Bermuda Monetary Authority - BMA",
-        "text": null,
-        "listing_probability": 0.95
+        "text": "View annual reports comprising financial highlights, statistics and more that are released by the Bermuda Monetary Authority every year.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bma.bm/publications/quarterly-banking-digest",
+        "title": "Quarterly Banking Digest - BMA - Bermuda Monetary Authority",
+        "text": "View the quarterly banking digest comprising of banking insights & performance highlights determined by comprehensive elements of the balance sheet and ...",
+        "listing_probability": 0.75
+      },
+      {
+        "url": "https://www.bma.bm/publications/regulatory-updates",
+        "title": "Regulatory Updates - BMA - Bermuda Monetary Authority",
+        "text": "This section consists of the recent as well as previous quarterly regulatory updates basis published by the BMA. You can View or download the files from ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bma.bm/publications/business-plan",
+        "title": "Business Plan - BMA - Bermuda Monetary Authority",
+        "text": "View or download the .pdf document comprising the business plans formulated by the Bermuda Monetary Authority for all the major industries.",
+        "listing_probability": 0.15
       }
     ]
   },
@@ -23,7 +41,7 @@
         "url": "https://www.bma.bm/investment-fund-statistics",
         "title": "Investment Fund Statistics - BMA - Bermuda Monetary Authority",
         "text": "Investment Fund Statistics (Ended December 2022) View | Download Q1-2022 Investment Fund Statistics View | Download Q4-2021 Investment Fund Statistics",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.bma.bm/statistics/monthly-registration-statistics",
@@ -52,7 +70,19 @@
         "url": "https://www.bma.bm/standards-regulations",
         "title": "Standards and Regulations of the Bermuda Monetary Authority - BMA",
         "text": "The ​​BMA is committed to providing open, transparent regulatory frameworks and requirements, which are consistent with the international best practice.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bma.bm/policy-guidance",
+        "title": "Policy and Guidance of AML/ATF in Bermuda - BMA",
+        "text": "These Regulations impose a significantly detailed set of obligations on affected AML/ATF regulated financial institutions relating to customer due diligence.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bma.bm/document-centre/policy-and-guidance-market-conduct",
+        "title": "Market Conduct - Policy And Guidance - BMA",
+        "text": "View or download the detailed Policy And Guidance on Bermuda's Market Conduct. If you're looking for a specific paper, use the filter for quick results.",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -66,16 +96,32 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bma.bm/news-and-press-releases/press-release-bma-earns-prestigious-international-accolades",
-        "title": "Press Release - BMA Earns Prestigious International Accolades",
-        "text": "The BMA announced it has received multiple international recognitions by earning the prestigious LEED® certification in green building design for BMA House.",
-        "listing_probability": 0.05
-      },
-      {
         "url": "https://www.bma.bm/news-and-press-releases/press-release-public-warning-fraudulent-social-media-postings-linked-to-primeaurora",
         "title": "Fraudulent Social Media Postings Linked to PrimeAurora - BMA",
         "text": "The social media posting and pdf document directs readers to an online crypto-currency trading platform called PrimeAurora.",
         "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bma.bm/publications/regulatory-updates",
+        "title": "Regulatory Updates - BMA - Bermuda Monetary Authority",
+        "text": "REGULATORY UPDATES ; Regulatory Update January - March 2025. Uploaded on 2 May 2025 ; Regulatory Update October - December 2024. Uploaded on 27 January 2025.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bma.bm/notices",
+        "title": "Notices - Bermuda Monetary Authority",
+        "text": "NOTICES ; Notice - Insurance - IALC - Cup Match Holiday 2025. 9 July 2025 ; Notice - Joint Provisional Liquidators of Custodian Life Limited. 2 July 2025 ; Notice ...",
+        "listing_probability": 0.98
       }
     ]
   }

@@ -1,12 +1,35 @@
 [
   {
-    "topic": "statistics",
+    "topic": "statistiques",
     "entries": [
       {
-        "url": "https://www.banky-foibe.mg/assets/data/",
-        "title": "Index of /assets/data",
-        "text": "Index of /assets/data ; [ ], coeff-reserve.json, 2022-03-31 15:00 ; [ ], cours-devise.json, 2022-03-31 15:00 ; [ ], derniere-operation.json, 2022-03-31 15:00 ...",
-        "listing_probability": 1.0
+        "url": "https://www.banky-foibe.mg/actualite/bulletin-bfm-mars-2024",
+        "title": "Pièce de monnaie - Banky Foiben'i Madagasikara",
+        "text": "Taux d'inflation % (glissement du Nouvel Indice des Prix à la Consommation : base 100 en 2016) en mai 2025. 8,1%. Collaborer avec BFM. Appel à manifestation d'intérêts. Foire aux questions. Vous avez besoins d'informations. Consulter. Liens Rapides. Offres d'emploi · Décision de politique Monétaire ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "politique_monétaire",
+    "entries": [
+      {
+        "url": "https://www.banky-foibe.mg/actualite/categorie/decision-de-politique-monetaire/page/1",
+        "title": "Décision de politique Monétaire - Banky Foiben'i Madagasikara",
+        "text": "Aucune actualité n'est disponible pour le moment, merci de revenir plus tard. banner. Pièce de monnaie. En or commemorative. Inscription ici. Principaux indicateurs. logo. TAHA. (Taha miAntoka ny Herin'ny Ariary). graph 12.81 %. 30 | 06 | 2025. Tout voir. Taux de change du 01/07/2025. Cours de référence ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banky-foibe.mg/politique-monetaire-2",
+        "title": "Banky Foiben'i Madagasikara",
+        "text": "Taux d'inflation % (glissement du Nouvel Indice des Prix à la Consommation : base 100 en 2016) en mai 2025. 8,1%. Collaborer avec BFM. Appel à manifestation d'intérêts. Foire aux questions. Vous avez besoins d'informations. Consulter. Liens Rapides. Offres d'emploi · Décision de politique Monétaire · Listes des ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.banky-foibe.mg/politique-",
+        "title": "Pièce de monnaie - Banky Foiben'i Madagasikara",
+        "text": "Taux d'inflation % (glissement du Nouvel Indice des Prix à la Consommation : base 100 en 2016) en mars 2025. 8,4%. Collaborer avec BFM. Appel à manifestation d'intérêts. Foire aux questions. Vous avez besoins d'informations. Consulter. Liens Rapides. Offres d'emploi · Décision de politique Monétaire ...",
+        "listing_probability": 0.1
       }
     ]
   }

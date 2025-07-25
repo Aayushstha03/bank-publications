@@ -18,10 +18,18 @@
               {
                 "url": "https://www.stlouisfed.org/publications/at-a-glance",
                 "title": "About Publications - Federal Reserve Bank of St. Louis",
-                "text": "The St. Louis Fed's annual reports highlight the work and impact made by Bank staff over the previous year. Community Development Outlook Survey.",
+                "text": "The St. Louis Fed's annual reports highlight the work and impact made by Bank staff over the previous year. Community Development ...",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
                 "position": 2
+              },
+              {
+                "url": "https://www.stlouisfed.org/publications/page-one-economics",
+                "title": "Page One Economics | St. Louis Fed",
+                "text": "Page One Economics are short overviews of current economic events or financial topics. Essays are written by our economic education specialists.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 3
               },
               {
                 "url": "https://www.stlouisfed.org/community-development/publications",
@@ -29,7 +37,15 @@
                 "text": "Community Development publishes articles about economic development and economic equity and inequality in this blog.",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/publications/review",
+                "title": "Review | St. Louis Fed",
+                "text": "This journal of scholarly research published by the St. Louis Fed delves into monetary policy, macroeconomics, and more.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -40,7 +56,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.stlouisfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.stlouisfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -52,20 +68,28 @@
           "results": {
             "web": [
               {
-                "url": "https://www.stlouisfed.org/publications/page-one-economics/2025/jun/data-releases-with-fred",
-                "title": "Data Releases with FRED | St. Louis Fed",
-                "text": "The FRED® online database provides access to more than 826,000 data series organized in more than 300 releases that look like the publications ...",
-                "source": "Federal Reserve Bank of St. Louis",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 1
-              },
-              {
                 "url": "https://www.stlouisfed.org/community-development/bank-on-national-data-hub",
                 "title": "Bank On National Data Hub - Federal Reserve Bank of St. Louis",
                 "text": "The Bank On National Data (BOND) Hub to present metrics from financial institutions related to account openings, account usage and consistency, and online ...",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.stlouisfed.org/publications/page-one-economics/2025/jun/data-releases-with-fred",
+                "title": "Data Releases with FRED | St. Louis Fed",
+                "text": "The FRED® online database provides access to more than 826,000 data series organized in more than 300 releases that look like the publications ...",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
                 "position": 2
+              },
+              {
+                "url": "https://www.stlouisfed.org/research/regional-economy",
+                "title": "Regional Economic Data & Reports | St. Louis Fed",
+                "text": "Explore graphs and maps of Eighth Federal Reserve District data including population, employment, and housing. These are powered by FRED.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 3
               },
               {
                 "url": "https://www.stlouisfed.org/publications/page-one-economics/2021/11/15/data-units-in-fred",
@@ -73,7 +97,15 @@
                 "text": "This article describes the range of data units available in FRED for new data users and can serve as a reference for advanced data users.",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/on-the-economy/data/economy-at-a-glance",
+                "title": "U.S. Economy at a Glance, Powered by FRED, the St. Louis Fed's ...",
+                "text": "These eight FRED charts show key financial and economic indicators and provide a snapshot of the U.S. economy at a glance.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -82,7 +114,7 @@
             "Statistics bulletin data statistics data bulletin excel"
           ],
           "query": {
-            "q": "site:http://www.stlouisfed.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.stlouisfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -94,28 +126,42 @@
           "results": {
             "web": [
               {
-                "url": "https://www.stlouisfed.org/bank-supervision/federal-banking-regulations",
-                "title": "Federal Banking Rules & Regulations | St. Louis Fed",
-                "text": "Below is a searchable list of US banking regulations from 2022-24 (final, interim final, open for comment, or proposed).",
-                "source": "Federal Reserve Bank of St. Louis",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 1
-              },
-              {
                 "url": "https://www.stlouisfed.org/in-plain-english/the-fed-implements-monetary-policy",
                 "title": "How the Fed Implements Monetary Policy with Its Tools: In Plain English",
                 "text": "When the FOMC adjusts the target range for the federal funds rate, the Federal Reserve uses its monetary policy tools to implement ...",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.stlouisfed.org/bank-supervision/federal-banking-regulations",
+                "title": "Federal Banking Rules & Regulations | St. Louis Fed",
+                "text": "Below is a searchable list of US banking regulations from 2022-24 (final, interim final, open for comment, or proposed).",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.stlouisfed.org/federal-banking-regulations/Report?RuleId=47812",
-                "title": "Rules and Regulations - GovInfo",
-                "text": "This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to ...",
+                "url": "https://www.stlouisfed.org/education/monetary-policy-lecture-guide",
+                "title": "Lecture Guide: How the Federal Reserve Implements Monetary Policy",
+                "text": "This lesson teaches how the Federal Open Market Committee (FOMC) conducts monetary policy to achieve its dual mandate of promoting price stability and maximum ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "published_time": "2021-02-17T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.stlouisfed.org/education/economic-lowdown-video-series/monetary-policy",
+                "title": "Monetary Policy, Part 1: The Fed and the Dual Mandate | Video Assignment",
+                "text": "This video assignment explains how the Fed adjusts the target range for the federal funds rate to set off a chain of events in the economy.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/in-plain-english/expansionary-and-contractionary-policy",
+                "title": "Expansionary & Contractionary Monetary Policy | In Plain English",
+                "text": "The goal of contractionary monetary policy is to decrease the rate of demand for goods and services, not to stop it.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -124,10 +170,10 @@
             "Policy regulations guidelines policy regulations pdf",
             "List of policy regulations guidelines policy regulations",
             "Policy regulations guidelines policy regulations examples",
-            "Policy regulations guidelines policy regulations 2021"
+            "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.stlouisfed.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.stlouisfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -139,12 +185,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.stlouisfed.org/from-the-president/remarks",
+                "title": "President Alberto Musalem's Speeches and Remarks | St. Louis ...",
+                "text": "View remarks, commentary, speeches, media interviews and other content from Alberto G. Musalem, president and CEO of the Federal Reserve Bank of St. Louis.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
                 "url": "https://www.stlouisfed.org/news-releases",
                 "title": "Newsroom and Press Releases | St. Louis Fed",
                 "text": "Find news releases, headlines, media advisories and contacts, press kit, and other media resources from the Federal Reserve Bank of St. Louis.",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.stlouisfed.org/publications/regional-economist/july-1996/news-bulletins-from-the-eighth-federal-reserve-district",
@@ -152,20 +206,33 @@
                 "text": "The speeches are the first in a series of selected economic and policy speeches to be made available to the public. To request a reprint of either speech, call ...",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://www.stlouisfed.org/publications/regional-economist/january-1997/news-bulletins-from-the-eighth-federal-reserve-district",
-                "title": "Pieces of Eight: News Bulletins from the Eighth Federal Reserve ...",
-                "text": "The 45-minute presentation outlines the Fed's responsibilities in formulating monetary policy, providing financial services, and supervising and regulating ...",
+                "url": "https://www.stlouisfed.org/from-the-president/former-presidents",
+                "title": "Former St. Louis Fed Presidents",
+                "text": "Below are the former leaders of the St. Louis Fed, along with links to their bios and to archives of other materials where available.",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/from-the-president/remarks/2025/remarks-on-economic-outlook-and-monetary-policy",
+                "title": "Remarks on the Economic Outlook and Monetary Policy",
+                "text": "The outlook for continued solid economic growth looks good, the labor market is healthy, and financial conditions are supportive.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022"
+          ],
           "query": {
-            "q": "site:http://www.stlouisfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.stlouisfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -186,31 +253,217 @@
                 "position": 1
               },
               {
-                "url": "https://www.stlouisfed.org/research",
-                "title": "Economic Research | St. Louis Fed",
-                "text": "View Cutting-Edge Research in Our Working Papers. Get the latest on economic trends, policy and data. Subscribe to our monthly Research newsletter. Sign Up ...",
+                "url": "https://www.stlouisfed.org/publications",
+                "title": "Publications & Blogs | St. Louis Fed",
+                "text": "St. Louis Fed publications and blogs cover topics including the economy, financial institutions and community development.",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.stlouisfed.org/research/about",
-                "title": "About Economic Research at the St. Louis Fed",
-                "text": "The working paper series and other St. Louis Fed publications allow our economists to quickly and efficiently provide the public with analysis of economic ...",
+                "url": "https://www.stlouisfed.org/research",
+                "title": "Economic Research | St. Louis Fed",
+                "text": "View Cutting-Edge Research in Our Working Papers. Get the latest on economic trends, policy and data. Subscribe to our monthly Research newsletter. Sign Up ...",
                 "source": "Federal Reserve Bank of St. Louis",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.stlouisfed.org/publications/regional-economist/january-2007/working-hard-or-hardly-working-the-evolution-of-leisure-in-the-united-states",
+                "title": "Working Hard or Hardly Working? Leisure in the U.S. | St. Louis Fed",
+                "text": "Numerous economic studies suggest that the number of hours that the average American works in a year has fallen by about 550 hours from 1900 to 2005.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/on-the-economy/2019/september/white-working-class-national-trends-then-now",
+                "title": "The White Working Class: National Trends, Then and Now | St. Louis Fed",
+                "text": "Between 2015 and 2018, the white working class shrank by 2.6 million people and its share decreased to 40% of the population in 2018.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "published_time": "2019-09-24T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "Research working papers papers research working papers ') pdf",
             "Research working papers papers research working papers ') 2021",
-            "Research working papers papers research working papers ') 2022",
-            "Research working papers papers research working papers ') 2020"
+            "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:http://www.stlouisfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.stlouisfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.stlouisfed.org/bank-supervision/financial-regulatory-reporting/regulatory-reports-updates",
+                "title": "Financial & Regulatory Reporting: Reporting Updates | St. Louis Fed",
+                "text": "Find information regarding upcoming reporting requirements, including deadline dates, recent form updates, contact information and reporting tips.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.stlouisfed.org/bank-supervision/financial-regulatory-reporting/regulatory-reports-updates/fry9sp-video",
+                "title": "Video: Complete the FR Y‑9SP (Without Losing Your Mind)",
+                "text": "For individuals preparing the FR Y-9SP report, click on the links below for job aids that address the most common reporting problems and frustrations.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/files/pdfs/banking/regulatory-reports-updates/2022/cover-letter-fry9c-fry9lp-06302022.pdf",
+                "title": "Cover Letter of the FR Y-9C and FR Y-9LP - IPP.gov",
+                "text": "The final reporting forms and instructions for the FR Y-9C, and FR Y-9SP effective for June 30,. 2022 are posted to the Board's public ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "published_time": "2022-06-30T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/files/pdfs/banking/regulatory-reports-updates/2021/cover-letter-fry-9es-123121.pdf",
+                "title": "DATE: May 25, 2022 TO: Eighth District Holding Companies SUBJECT",
+                "text": "Holding companies filing the FR Y-9 reports (FR Y-9C, FR Y-9LP, FR Y-9SP, and FR Y-9ES) are required to submit each report electronically.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "published_time": "2022-05-25T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/fomcspeak/loretta-mester/2017/03/mar-speech-updates-on-the-economy-and-the-federal-reserves-payments-system-improvement-initiative",
+                "title": "Updates on the Economy and the Federal Reserve's Payments ...",
+                "text": "Platforms for making payments, including ACH, check, and credit and debit card systems, are lagging behind the technological advances. The ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.stlouisfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.stlouisfed.org/email-alerts/applications-notices",
+                "title": "Application Notices | St. Louis Fed Email Alerts",
+                "text": "Sign up to receive email alerts. For further information, please contact Holly Rieser at (314) 444-4713 or 1-800-333-0810, ext. 4444713.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.stlouisfed.org/email-alerts",
+                "title": "Banking Supervision and Regulation Email Alerts",
+                "text": "The St. Louis Fed provides e-mail alerts for the information related to application notices; consumer affairs guidance and letters; credit and payment risk ...",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.stlouisfed.org/bank-supervision/applications-and-notices",
+                "title": "Application Filings and Notices - Federal Reserve Bank of St. Louis",
+                "text": "The St. Louis Fed has a variety of resources to help banking institutions file applications, notices and complete other transactions.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.stlouisfed.org/about-us/legal-information",
+                "title": "Legal Notices, Information & Disclaimers | St. Louis Fed",
+                "text": "Legal Notices, Information and Disclaimers ... The Federal Reserve Bank of St. Louis provides this site as a convenience to its customers, depository institutions ...",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/email-alerts/h2-reports",
+                "title": "H.2 Reports | St. Louis Fed Email Alerts",
+                "text": "Sign up to receive email alerts on H.2 Reports. The H.2 reports are released each Monday. You may obtain the exact time by calling (202) 452-3206.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Notices alerts notices alerts 2022",
+            "Notices alerts notices alerts california"
+          ],
+          "query": {
+            "q": "site:http://www.stlouisfed.org/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.stlouisfed.org/publications/review/2019/02/14/gauging-market-responses-to-monetary-policy-communication",
+                "title": "Gauging Market Responses to Monetary Policy Communication",
+                "text": "In this vein, central bank communication takes many forms, from economic forecasts and official reports, to speeches, interviews, testimonies ...",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.stlouisfed.org/on-the-economy/2019/january/evolution-monetary-policy-communication",
+                "title": "The Evolution of Monetary Policy Communication | St. Louis Fed",
+                "text": "How has Fed communication changed in recent years? This post focuses on how the FOMC's policy statements and public remarks by Fed officials ...",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "published_time": "2019-01-08T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.stlouisfed.org/publications/page-one-economics/2013/04/01/prices-the-marketplaces-communication-system",
+                "title": "Prices: The Marketplace's Communication System",
+                "text": "Prices serve two main purposes in a market economy. First, they send signals. A signal is a way to reveal credible information to another party.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/publications/review/pdfs/2019/04/15/gauging-market-responses-to-monetary-policy-communication.pdf?sc_lang=en&hash=F05101EA77C903D660DF06B1825E5D74",
+                "title": "Gauging Market Responses to Monetary Policy Communication",
+                "text": "The modern model of central bank communication suggests that central bankers prefer to err on the side of saying too much rather than too little.",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.stlouisfed.org/~/media/Files/PDFs/Email%20Alerts/SRL/BSR-0204.pdf",
+                "title": "Communication of Examination/Inspection Findings ...",
+                "text": "Examination and inspection findings may be communicated in writing through formal reports, through letters summarizing the results of targeted reviews or a ...",
+                "source": "Federal Reserve Bank of St. Louis",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEX////79uv9/Pbv4L3cunP9+/L9+/bPnjXMmDj+/vz06dPFiRnDhADWq1bkyI/s2LHs2bbJkza/fgDGigDNmyrVqE7kyZX48OD48N3v4MPdu4TOnD7FhwDKkhrXrl/z58ncu3zPnS/MlSfOnETp0qHv3rXct3LcuGzLlRTs16nhw4bJkSvSplfVqU7MmSHDhBtVsdmqAAAA0ElEQVR4Ac1QNQLDMAwMg6qguQ7ZZf7/77o2OPdW6dD5O7jextEPwvVjFCd+mK5dYYdZXoAbRgvHtKxqJJQF3AcxfYik2mvSIJI27rhyx3E570EVQ2cIIrGDGMkqfRjy46nvVXE2DfJxNxVj21rNLnkfQqbF2DbMtW1bQhCvAchTnt/AjX7O/vF+zjQlSIry0RAS53KU3JOq4OekhXtLW3JlPJpN7T/3N9u28ev5BmcGFdw+8RGkAHd+DE/369hvJHwBZw1h33ty9Zo6aeT8J77rYw+DwhDYCQAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.stlouisfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

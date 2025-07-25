@@ -3,22 +3,34 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.cbe.org.eg/en/news-publications",
+        "title": "News and Publications",
+        "text": "The official website for the Central Bank of Egypt. Explore Financial Stability, Monetary Policy, Payment Systems and Services, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2025/07/23/11/30/remittances-july-may-fy-2024-2025",
+        "title": "Remittances from Egyptians Abroad Record USD 32.8 Billion During the ...",
+        "text": "The remittances rose by 69.6%, reaching about USD 32.8 billion (compared to around USD 19.4 billion during the same period a year earlier).",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2025/05/18/17/00/central-bank-of-egypt-relaunches-publication-of-the-monetary-policy-report",
+        "title": "Central Bank of Egypt Relaunches Publication of the Monetary Policy ...",
+        "text": "The Central Bank of Egypt has resumed the publication of its quarterly Monetary Policy Report (MPR). This initiative reaffirms the CBE's commitment to clear ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2025/07/22/11/26/press-release-balance-of-payments-performance-in-july-march-of-fy-2024-2025",
+        "title": "Press Release Balance of Payments Performance in July-March of FY ...",
+        "text": "During July/March of FY 2024/2025, the Egyptian economy has witnessed positive developments as the current account deficit improved by 22.6 ...",
+        "listing_probability": 0.05
+      },
+      {
         "url": "https://www.cbe.org.eg/en/news-publications/publications",
         "title": "Publications",
         "text": "Economic Research Annual Report, Economic Review, Financial Soundness Indicators, Financial Stability, Financial Statements",
-        "listing_probability": 1.0
-      },
-      {
-        "url": "https://www.cbe.org.eg/en/financial-inclusion/data-measurement-and-reports",
-        "title": "Data Measurement and Reports",
-        "text": null,
-        "listing_probability": 0.9
-      },
-      {
-        "url": "https://www.cbe.org.eg/en/news-publications",
-        "title": "News and Publications",
-        "text": null,
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       }
     ]
   },
@@ -29,18 +41,18 @@
         "url": "https://www.cbe.org.eg/en/economic-research/economic-reports/monthly-statistical-bulletin",
         "title": "Monthly Statistical Bulletin",
         "text": "April 2025. Monthly Statistical Bulletin 337 · Financial and Monetary Sector 337 · External Sector 337 · Fiscal Sector 337 · Real Sector 337. March 2025 ...",
-        "listing_probability": 0.9
-      },
-      {
-        "url": "https://www.cbe.org.eg/en/auctions/egp-t-bills/historical-data",
-        "title": "EGP T-Bills Historical Data",
-        "text": "The official website for the Central Bank of Egypt. Explore Financial Stability, Monetary Policy, Payment Systems and Services, Cybersecurity, Economic ...",
-        "listing_probability": 0.1
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.cbe.org.eg/en/economic-research/statistics",
         "title": "Statistics",
         "text": "Statistics · Inflation Rates · Exchange Rates · CBE Exchange Rates · Liquidity · Discount Rates · Daily Interbank Rates & Volumes · Bi-Weekly Interbank Rates & Volumes.",
+        "listing_probability": 0.75
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates/historical-data",
+        "title": "CBE Exchange Rates Historical Data",
+        "text": "CBE Exchange Rates Historical Data from From To To US Dollar Euro Pound Sterling Canadian Dollar Danish Krone Norwegian Krone Swedish Krona Swiss Franc ...",
         "listing_probability": 0.1
       }
     ]
@@ -51,7 +63,19 @@
       {
         "url": "https://www.cbe.org.eg/en/laws-regulations/regulations",
         "title": "Regulations",
-        "text": "The official website for the Central Bank of Egypt. Explore Financial Stability, Monetary Policy, Payment Systems and Services, Cybersecurity, Economic ...",
+        "text": "The official website for the Central Bank of Egypt. Explore Financial Stability, Monetary Policy, Payment Systems and Services, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/laws-regulations/regulations/overview",
+        "title": "Overview",
+        "text": "This department aims at issuing and updating the regulations concerning FinTech, payment services, and financial inclusion to ensure they keep pace with ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/laws-regulations/regulations/circulars",
+        "title": "Circulars",
+        "text": "All Topics · Banking Practices · Banks Licensing and Regulation · Basel Regulation · Consumer Protection · Corporate Governance and Internal Control ...",
         "listing_probability": 0.95
       },
       {
@@ -61,10 +85,10 @@
         "listing_probability": 0.2
       },
       {
-        "url": "https://www.cbe.org.eg/en/aml-cft/related-regulations",
-        "title": "Related Regulations",
-        "text": "The official website for the Central Bank of Egypt. Explore Financial Stability, Monetary Policy, Payment Systems and Services, Cybersecurity, Economic ...",
-        "listing_probability": 0.95
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2023/07/12/14/38/press-release-12-july-23",
+        "title": "The Central Bank of Egypt Issues Regulations for Licensing and ...",
+        "text": "The Central Bank of Egypt issues regulations for licensing and regulatory framework for digital banks.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -78,16 +102,50 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.cbe.org.eg/en/news-publications",
-        "title": "News and Publications",
-        "text": "The official website for the Central Bank of Egypt. Explore Financial Stability, Monetary Policy, Payment Systems and Services, Cybersecurity, Economic ...",
-        "listing_probability": 0.98
-      },
-      {
         "url": "https://www.cbe.org.eg/en/news-publications/news/2025/07/22/11/26/press-release-balance-of-payments-performance-in-july-march-of-fy-2024-2025",
         "title": "Press Release Balance of Payments Performance in July-March of FY ...",
         "text": "During July/March of FY 2024/2025, the Egyptian economy has witnessed positive developments as the current account deficit improved by 22.6 ...",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2025/05/22/14/05/mpc-press-release-22-may-2025",
+        "title": "MPC Press Release 22 May 2025",
+        "text": "The Monetary Policy Committee (MPC) of the Central Bank of Egypt (CBE) has decided today to cut the CBE's overnight deposit rate, overnight lending rate, and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2025/07/10/14/15/mpc-press-release-10-july-2025",
+        "title": "MPC Press Release 10 July 2025",
+        "text": "Globally, growth forecasts have softened since the beginning of the year primarily due to persistent uncertainty in global trade policies ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cbe.org.eg/en/economic-research/economic-reports",
+        "title": "Economic Reports",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cbe.org.eg/en/news-publications/news/2023/05/14/12/26/cbe-updates-the-licensing-and-regulatory-framework-of-foreign-exchange-companies",
+        "title": "Central Bank of Egypt Updates the Licensing and Regulatory ...",
+        "text": "Central Bank of Egypt Updates the Licensing and Regulatory Framework of Foreign Exchange Companies. 14 May 2023. For more information about this press ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbe.org.eg/en/laws-regulations/regulations/basel/basel-iv",
+        "title": "Basel IV Updates",
+        "text": "The Central Bank of Egypt's board of directors agreed, in its session held on December 7th, 2020, on the application of the new standardized ...",
+        "listing_probability": 0.8
       }
     ]
   }

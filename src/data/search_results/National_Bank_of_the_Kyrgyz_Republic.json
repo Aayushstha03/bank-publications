@@ -1,4 +1,197 @@
 {
   "Bank Name": "National Bank of the Kyrgyz Republic",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbkr.kg/DOC/21102009/000000000002653.pdf",
+                "title": "BULLETIN",
+                "text": "Real Sector. Real GDP growth rate/1. 7,0. -0,2. 3,1. 8,5. 7,6. 7,4. 6,6. 6,9. 7,5. Industrial production actual volume index/1.",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbkr.kg/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbkr.kg/DOC/28032024/000000000062132.pdf",
+                "title": "Monetary Policy Report.",
+                "text": "The objective of the monetary policy is to achieve and maintain price stability through appropriate monetary policy. The policy rate of the ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "published_time": "2024-02-26T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/18032025/000000000064062.pdf",
+                "title": "Monetary policy report. Q4, 2024",
+                "text": "The objective of the monetary policy is to achieve and maintain price stability through appropriate monetary policy. The policy rate of the ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "published_time": "2025-03-18T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/26112024/000000000063409.pdf",
+                "title": "National Bank of the Kyrgyz Republic keeps its policy rate unchanged at ...",
+                "text": "On July 29, 2024, the Board of the National Bank of the Kyrgyz Republic decided to keep the policy rate (key rate) unchanged at 9.00 percent.",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/28032024/000000000062131.pdf",
+                "title": "Monetary Policy Report.",
+                "text": "Monetary Policy Report is released by the National Bank on a quarterly basis. The objective of this. Report is to inform the public about ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "published_time": "2023-11-27T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/15122022/000000000059681.pdf",
+                "title": "Monetary Policy Report. Quarter IV, 2021",
+                "text": "Monetary Policy Report is released by the National Bank on a quarterly basis. The objective of this. Report is to inform the public about the decisions made ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:https://www.nbkr.kg/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbkr.kg/all_news.jsp?lang=ENG&news_type=news-main",
+                "title": "National Bank of the Kyrgyz Republic",
+                "text": "The information was presented on the implementation of the National Bank's Work Plan for 2025 in such key areas as the implementation of monetary policy, ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/26012015/000000000032395.pdf",
+                "title": "The National Bank of the Kyrgyz Republic decided to raise the policy ...",
+                "text": "In view of continuing pressure on the exchange rate and, respectively, on inflation, the. National Bank of the Kyrgyz Republic has decided to raise the ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/24032017/000000000046319.pdf",
+                "title": "Press release The National Bank of the Kyrgyz Republic decided to ...",
+                "text": "The assumptions of medium-term economic trends outlined in the Monetary Policy. Report (Inflation Report) on August have started to realize in recently ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/05022024/000000000061874.pdf",
+                "title": "Press Release National Bank of the Kyrgyz Republic keeps its policy ...",
+                "text": "On January 29, 2024, the Board of the National Bank of the Kyrgyz Republic decided to keep the policy rate (key rate) unchanged at 13.00 percent.",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/07052014/000000000026675.pdf",
+                "title": "Press-release of the meeting of the National Bank of the Kyrgyz ...",
+                "text": "In I quarter of this year, the actual level of the CPI was formed above the forecast by 0.4 percentage points and amounted to 4.7 percent in annual terms, ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbkr.kg/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbkr.kg/DOC/28072011/000000000011864.pdf",
+                "title": "Working paper of the NBKR",
+                "text": "The working paper includes theoretical survey by the given subject, analysis of the current practice of the. National Bank of the Kyrgyz Republic and the ...",
+                "source": "Кыргыз Республикасынын Улуттук банкы",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVR4AZ2SNVA0QRCF53dX3N1dz+8K8hiPcXeHGHcLIUdD8hB39wSNcGm6q3pxn6qvtuW92THx2JDLZBokFIlAtOI1Aw2mCCDhDMVmLzUbsKHqRq2Sa4bPmf+wsEKtCvzv6qoKd3NVRWGsh7Vy7v15zPyVBS2U29lpQKcNUBAUs6aJNd/umt9zo4NyGxstODqqcycHv1kh1hhnU4217az9IJk/IQtIP+Ue7spdpJ5iOBJAUOzurqxzd1ftsqcfWUQ+U7KObFPD309+iH/qoxhAwMzIFwIoppqtrabHz09+zJNsIRsU5CEXiFdggCzG2Vm9m57iaHCwIwp3Nt7D1tp7ONoTRbmZ9gbOzqpd1MSSlj150jYSEFDIZd/xG/9fLxioDieiEs5FFcX//wcD6VDzjc8g8e5B5vEk72WBsiwDgyCQegaGQRAYIM/C3js25z12laUIcJxra6ulMzmQDGwufe4xVUiT4EpakbYb5sqXPud6aZIb5gbxmiG9OqZZvGWgsQvpfkpzCcn+t/i6bddDAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/24032016/000000000041256.pdf",
+                "title": "Economic Research Center WORKING PAPER Remittances and ...",
+                "source": "www.nbkr.kg",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbkr.kg&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///5ad9d55182f215ef674354bf3878b71d51415e16cd92a5a1f6de4d63327cddf3",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/01042013/000000000021157.pdf",
+                "title": "WORKING PAPERS SERIES",
+                "source": "www.nbkr.kg",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbkr.kg&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///be9de954202195276c460311a65d8932ed49f03881c824f8e3fd0fcde70fe95e",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/16092015/000000000037610.pdf",
+                "title": "Economic Research Center WORKING PAPER Activities of licensed ...",
+                "source": "www.nbkr.kg",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbkr.kg&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///a766c39370bdaaabb6d87b85826fef6429b06fd4b0042d2407c6855d7b9a79cd",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbkr.kg/DOC/18042018/000000000049770.pdf",
+                "title": "Equilibrium Model Development Group WORKING PAPER An ...",
+                "source": "www.nbkr.kg",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbkr.kg&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///a32934254f7f3e65002eb784204bcfee11d30edcaf49c3a40566f3aa50fef2fa",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbkr.kg/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
 }

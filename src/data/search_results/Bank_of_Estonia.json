@@ -10,26 +10,42 @@
               {
                 "url": "https://www.eestipank.ee/en/publications",
                 "title": "Publications | Eesti Pank",
+                "text": "All publications, Annual Report, Estonian Economy and Monetary Policy, Financial Stability Review, Labour Market Review, Financing of the Economy.",
                 "source": "Eesti Pank",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2023-05/epaa2022_en.jpg?itok=CxSDAg-h",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.eestipank.ee/en/publications/archive",
-                "title": "Archive | Publications | Eesti Pank",
+                "url": "https://www.eestipank.ee/en/publications/annual-reports",
+                "title": "Annual reports | Publications | Eesti Pank",
+                "text": "Annual reports ; 2016. 31.12.2016: Eesti Pank. Annual report 1993 – 2016 ; 1939. 31.12.1939: Annual Report of Eesti Pank (1929- 1939) ; 1928. 31.12.1928: Eesti ...",
                 "source": "Eesti Pank",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2023-08/teemapaber2016.jpg?itok=e7OPDMMe",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
                 "url": "https://www.eestipank.ee/en/publications/archive",
-                "title": "Archive | Publications | Eesti Pank",
+                "title": "Archive | Publications - Eesti Pank",
+                "text": "All publications, Annual Report, Estonian Economy and Monetary Policy, Financial Stability Review, Labour Market Review, Financing of the Economy.",
                 "source": "Eesti Pank",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2023-08/en_toimetised.jpg?itok=pxOJutnF",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/annual-report",
+                "title": "Annual Report | Publications - Eesti Pank",
+                "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/working-papers",
+                "title": "Working Papers | Publications - Eesti Pank",
+                "text": "All publications Annual Report Estonian Economy and Monetary Policy Financial Stability Review Labour Market Review Financing of the Economy",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.eestipank.ee/en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.eestipank.ee/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -73,11 +89,28 @@
                 "source": "Eesti Pank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.eestipank.ee/en/data-protection",
+                "title": "Processing of personal data at Eesti Pank",
+                "text": "The principles for processing personal data at Eesti Pank and your rights concerning your own personal data are explained here.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.eestipank.ee/en/calendar/statistical-release-financial-accounts-statistics-q1-2025-22052025",
+                "title": "STATISTICAL RELEASE. Financial accounts statistics Q1 2025",
+                "text": "STATISTICAL RELEASE. Financial accounts statistics Q1 2025. 11. July. 2025 - 08:00. Add to your calendar.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-22T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.eestipank.ee/en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.eestipank.ee/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -89,28 +122,44 @@
           "results": {
             "web": [
               {
-                "url": "https://www.eestipank.ee/en/monetary-policy/monetary-policy-instruments",
-                "title": "Monetary policy instruments | Eesti Pank",
-                "text": "Monetary policy instruments · Open market operations · Standing facilities · Reserve requirement for credit institutions · Forward guidance.",
-                "source": "Eesti Pank",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
-                "position": 1
-              },
-              {
                 "url": "https://www.eestipank.ee/en/monetary-policy",
                 "title": "Monetary policy | Eesti Pank",
                 "text": "As a member of the Eurosystem, Eesti Pank participates in setting its monetary policy, taking the decisions needed for it, and implementing those decisions.",
                 "source": "Eesti Pank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/monetary-policy/operational-framework",
+                "title": "Operational framework - monetary policy - Eesti Pank",
+                "text": "The Eurosystem uses a set of monetary policy instruments and procedures to achieve its primary objective of maintaining price stability.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2024/estonian-economy-and-monetary-policy-22024",
-                "title": "Estonian Economy and Monetary Policy 2/2024 - Eesti Pank",
-                "text": "Increasing demand will contribute to growth in the economy alongside the expected increase in foreign trade, primarily because the purchasing power of people ...",
+                "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2024/estonian-economy-and-monetary-policy-32024",
+                "title": "Estonian Economy and Monetary Policy 3/2024 - Eesti Pank",
+                "text": "The Estonian Economy and Monetary Policy is an Eesti Pank review released four times a year that summarises the main recent events in the global and Estonian ...",
                 "source": "Eesti Pank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.eestipank.ee/en/monetary-policy/central-bank-reserves",
+                "title": "Central bank reserves | Eesti Pank",
+                "text": "It sets out the rules and limits on financial assets not used for monetary policy that are used by national central banks for meeting their domestic ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/estonian-economy-and-monetary-policy/2025/estonian-economy-and-monetary-policy-12025",
+                "title": "Estonian Economy and Monetary Policy 1/2025 - Eesti Pank",
+                "text": "GDP in Estonia started to grow at the end of last year having contracted for two and a half years. Growth is expected to become more embedded in the economy ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -121,7 +170,7 @@
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.eestipank.ee/en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.eestipank.ee/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -141,25 +190,41 @@
                 "position": 1
               },
               {
-                "url": "https://www.eestipank.ee/en/press/economic-policy-statements",
-                "title": "Press releases - Eesti Pank",
-                "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
+                "url": "https://www.eestipank.ee/en/press/speeches-and-presentations/2001-01",
+                "title": "October 2001 - Press releases | Eesti Pank",
+                "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
                 "source": "Eesti Pank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.eestipank.ee/en/press/economic-policy-statements/2017-07",
-                "title": "Press releases | Eesti Pank",
+                "url": "https://www.eestipank.ee/en/press/2005-12",
+                "title": "Press releases - Eesti Pank",
                 "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
                 "source": "Eesti Pank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.eestipank.ee/en/press/economic-policy-statements",
+                "title": "Press releases - Eesti Pank",
+                "text": "All press releases, economic policy statements, ECB press releases, statistical releases, calendar, press contacts, inflation - frequently asked questions (FAQ)",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.eestipank.ee/en/press/speeches-and-presentations/2002-01",
+                "title": "June 2002 - Press releases | Eesti Pank",
+                "text": "All press releases · Speeches and presentations · Economic policy statements · Statistical releases.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.eestipank.ee/en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.eestipank.ee/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -179,30 +244,103 @@
                 "position": 1
               },
               {
-                "url": "https://www.eestipank.ee/en/publications/working-papers",
-                "title": "Working Papers | Publications | Eesti Pank",
+                "url": "https://www.eestipank.ee/en/publications/working-papers/2025/12025-nicolas-reigl-determinants-non-performing-loans-empirical-analysis-across-major-sectors",
+                "title": "1/2025 Nicolas Reigl. Determinants of Non-Performing Loans - Eesti Pank",
+                "text": "This paper investigates the determinants of non-performing bank loans (NPLs) across six key sectors in Estonia from 2005 to 2023, employing a dynamic linear ...",
                 "source": "Eesti Pank",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2025-05/wp_2025-05.png?itok=6_LoIEeL",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.eestipank.ee/en/publications/working-papers",
-                "title": "Working Papers | Publications | Eesti Pank",
+                "url": "https://www.eestipank.ee/en/publications/working-papers/2021/22021-nicolas-reigl-expectational-errors-and-business-cycle-fluctuations-europe",
+                "title": "2/2021 Nicolas Reigl. Expectational Errors and Business Cycle ...",
+                "text": "Empirical Economics. This paper investigates how supply noise and demand noise contribute to business cycle fluctuations in three major European economies. A ...",
                 "source": "Eesti Pank",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eestipank.ee&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://haldus.eestipank.ee/sites/default/files/styles/large/public/2022-03/wp_4_2022.png?itok=v2kfTug5",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/working-papers/2021/52021-eva-branten-role-risk-attitudes-and-expectations-household-borrowing-estonia",
+                "title": "5/2021 Eva Branten. The role of risk attitudes and expectations in ...",
+                "text": "This study investigates the relations between risk attitudes and expectations and different aspects of borrowing by households in Estonia. The central research ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.eestipank.ee/en/publications/occasional-papers/2024/32024-impact-covid-19-pandemic-and-policy-support-productivity",
+                "title": "3/2024 The impact of the COVID-19 pandemic and policy support on ...",
+                "text": "This paper studies the short-term and long-term consequences of the COVID-19 pandemic for productivity in Europe. Aggregate and sectoral evidence is ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Research working papers papers research working papers ') pdf",
             "Research working papers papers research working papers ') 2021",
-            "Research working papers papers research working papers ') 2022",
-            "Research working papers papers research working papers ') 2020"
+            "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:http://www.eestipank.ee/en (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.eestipank.ee/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.eestipank.ee/en/publications/working-papers/2021/82021-luca-alfieri-diana-gabrielyan-communication-reaction-function-european-central-bank-analysis",
+                "title": "8/2021 Luca Alfieri, Diana Gabrielyan. The Communication ...",
+                "text": "The communication reaction function measures the response of the central bank's communications to the indicators normally ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.eestipank.ee/en/technical-requirements-submission-reports",
+                "title": "Formatting report messages - Eesti Pank",
+                "text": "General description of the report message. A report message is an XML document with a structure and content set out in the XML schemas ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.eestipank.ee/en/press/price-growth-june-was-driven-mobile-communication-services-07072010",
+                "title": "Price growth in June was driven by mobile communication services",
+                "text": "Price growth in June was driven by communication services - consumer prices increased by 0.4 percentage points due to the increase in ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "published_time": "2010-07-07T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.eestipank.ee/en/calendar/open-seminar-communication-policy-revisited-ecb-tone-and-term-structure-06052016",
+                "title": "Open seminar „Communication policy revisited: The ECB tone and the ...",
+                "text": "Open seminar „Communication policy revisited: The ECB tone and the term structure“. Seminars. 10. May2016. 11:00 - 12:30.",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "published_time": "2016-05-09T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.eestipank.ee/kalender/professor-otmar-issingu-avalik-loeng-teemal-communication-accountability-transparency-challenges-24052019",
+                "title": "Professor Otmar Issingu avalik loeng teemal „Communication ...",
+                "text": "Loeng on osa Eesti Panga 100. aastapäevale pühendatud loengusarjast. Osalemine on kutsetega. Loeng kestab orienteeruvalt 1,5 tundi. Eesti Panga ...",
+                "source": "Eesti Pank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMACEVXgo8SXmdveR85Ti2asnuBtoAAAAHSSURBVHgBbdEHYuAwCATAFSA6OP9/7aVdSzK2epfw1yEWufcKk+I7ZTHXOIAZpxe+6GS7BTmDG0c5Cf/hHCgvsrBZh03D8Q/3FUPd5aHhcmZoJP6YWJDthIeZR7D3EWLHp5KYOh7RTTNNZE4+w9n4ENvPePhw724VsWUbY/N8TtA4Etxqa/YaCMvZUPmcIiZ5xr0wcWOEAmpuz8uQ4NWJ7pvSKap+naOtJSgpQVYA1qAwW3s6eskXOdeXQwveANrRcFp76dmh0d568SY7C1sAPUTHiOzZsUwXj3qM2qqnC0DbOcxD/qhmOgVxP0FtrrD3DlzaMRRXeWic4JtCZKzK7x26iWz6lnpNk9ZCLw0PdTeAyslYKYdyiEh4HvBmm0wsXgmw6LEDTeFNJoW1Qwtx8IqmvOpZLpsIsSNE+1TxtuGNZqd/vM8CeoqMPJhlpfBuvFvqRPdYrxF1Htxudnx6oLFN8kw1Hb7XVrPw4I+nx0WAfF5dIC/bXsUflVaHt8l4yLpY1WLxD00+Hcbey8ZJ2lL4H99JFPfyIuhxfDcZZM5BIXzwsx133h9a9ZyjRxXnFPTVeavBX17bQ8O9Ta9hTaM88JesNRNbObnGatZdF7z5BblYFlEZTX7WAAAAAElFTkSuQmCC",
+                "published_time": "2019-05-28T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.eestipank.ee/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "topic": "publicaciones",
+    "entries": [
+      {
+        "url": "https://www.bcv.org.ve/bcv/publicaciones",
+        "title": "Publicaciones periódicas | Banco Central de Venezuela",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcv.org.ve/publicacionestmp",
+        "title": "Publicaciones Económicas | Banco Central de Venezuela",
+        "text": "Desde sus inicios, el Instituto ha sido un importante productor y editor de información relacionada con el conocimiento económico y social venezolana.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcv.org.ve/catalogo/informes-la-asamblea-nacional",
+        "title": "Informes a la Asamblea Nacional | Banco Central de Venezuela",
+        "text": null,
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bcv.org.ve/publicaciones/ndeg-118-impacto-de-la-politica-fiscal-y-monetaria-en-el-ciclo-economico-de-venezuela",
+        "title": "N° 118: Impacto de la política fiscal y monetaria en el ciclo ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "estadísticas",
+    "entries": [
+      {
+        "url": "https://www.bcv.org.ve/sistemas-de-pago/slbtr/estadisticas",
+        "title": "Estadísticas | Banco Central de Venezuela",
+        "text": null,
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.bcv.org.ve/tipopublicacion/boletin",
+        "title": "Boletín | Banco Central de Venezuela",
+        "text": "Publicación impresa o electrónica de carácter periódico, editada bajo un mismo título por alguna dependencia u organismo auxiliar (generalmente con ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcv.org.ve/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.bcv.org.ve%2Fsystem%2Ffiles%2Fpublicaciones%2Finformeasambleanac03.pdf",
+        "title": "D:\\Datos\\INFORME ASAMBLEA\\INFOR",
+        "text": "to presenta a la Asamblea Nacional la evaluación de la aplicación de sus políticas en. el contexto de las demás políticas públicas, así como un análisis del ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcv.org.ve/estadisticas-internacionales-de-diamantes-2016",
+        "title": "Estadísticas Internacionales de Diamantes 2016",
+        "text": "Fuente: https://kimberleyprocessstatistics.org/static/pdfs/public_statistics/2016/2016GlobalSummary.pdf.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "política_monetaria",
+    "entries": [
+      {
+        "url": "https://www.bcv.org.ve/politica-cambiaria-y-monetaria",
+        "title": "Política Cambiaria y Monetaria - Banco Central de Venezuela |",
+        "text": null,
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcv.org.ve/lineamientos-de-politica-monetaria-semestre-i-2006",
+        "title": "Lineamientos de Política Monetaria, semestre I 2006",
+        "text": "Lineamientos de Política Monetaria correspondiente al primer semestre del año 2006.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "noticias",
+    "entries": [
+      {
+        "url": "https://www.bcv.org.ve/comunicados-de-prensa/notas-de-prensa",
+        "title": "Notas de Prensa | Banco Central de Venezuela",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "avisos",
+    "entries": [
+      {
+        "url": "https://www.bcv.org.ve/Publicaciones/tipopublicacion/avisos",
+        "title": "Avisos | Banco Central de Venezuela",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcv.org.ve/bcv/plan-anual-de-compras/servicio-de-mantenimiento-y-restauracion-de-avisos-de-senalizacion",
+        "title": "SERVICIO DE MANTENIMIENTO Y RESTAURACION DE AVISOS DE ...",
+        "text": "MANTENIMIENTO Y REPARACIÓN DE AVISOS (NO ESTACIONE) DE SEÑALIZACIÓN METALICOS DE LA SUBSEDE MARACAIBO.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "comunicación",
+    "entries": [
+      {
+        "url": "https://www.bcv.org.ve/bcv/servicios-de-comunicacion",
+        "title": "Servicios de comunicación | Banco Central de Venezuela",
+        "text": null,
+        "listing_probability": 0.7
+      }
+    ]
+  }
+]

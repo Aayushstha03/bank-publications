@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bnr.rw/Publications",
+        "title": "Get to know about NBR Publications - National Bank of Rwanda",
+        "text": "NBR publications include reports with insights, press releases on policy, foreign investment surveys, and the BNR Economic Review with articles for ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bnr.rw/monetary-policy/monetary-policy-reports/",
+        "title": "National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bnr.rw/browse-in/statistics/",
+        "title": "National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnr.rw/Statistics",
+        "title": "Financial Sector Statistics - National Bank of Rwanda",
+        "text": "Economic statistics provide an overview of real sector statistics that are produced in collaboration with NISR. They include data on ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bnr.rw/browse-in/statistics/payment-system-statistics/",
+        "title": "Payment System Statistics - National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bnr.rw/laws-and-regulations/banking/directives-guidelines/",
+        "title": "National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bnr.rw/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1453768496",
+        "title": "National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bnr.rw/footer/procurement/tender-notices/?L=%00",
+        "title": "Tender Notices - National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnr.rw/footer/procurement/tender-notices/?tx_bnrdocumentmanager_frontend%5B%40widget_0%5D%5BcurrentPage%5D=7&cHash=9367d19cb9ceb04c6fa8e80797005a4f",
+        "title": "National Bank of Rwanda",
+        "text": "You need to enable JavaScript to run this app.",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

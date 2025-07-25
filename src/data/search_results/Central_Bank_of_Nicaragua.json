@@ -2,6 +2,36 @@
   "Bank Name": "Central Bank of Nicaragua",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2019/Nicaragua_Consulta_ArtIculo_IV_2019_270220.pdf",
+                "title": "Nicaragua: 2019 Article IV Consultation-Press Release",
+                "text": "Since April 2018, social unrest and its aftermath eroded confidence and caused large capital and bank deposits outflows, adversely affecting ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2020-02-25T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2017/Nicaragua_Temas_Seleccionados_2017_270617.pdf",
+                "title": "Nicaragua: Selected Issues - International Monetary Fund (IMF)",
+                "text": "FIGURES. 1. 21 Estimates of the Global Economic Impact of Climate Change ...................................... 24.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2017-06-08T00:00:00",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcn.gob.ni/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
@@ -16,12 +46,28 @@
                 "position": 1
               },
               {
-                "url": "https://www.bcn.gob.ni/publicaciones/anuario-de-estad%C3%ADsticas-macroecon%C3%B3micas-2022-macroeconomic-statistics-yearbook-2022",
-                "title": "Anuario de Estadísticas Macroeconómicas 2022",
-                "text": "Anuario de Estadísticas Macroeconómicas 2022 - Macroeconomic Statistics Yearbook 2022. Archivo: PDF icon Anuario de Estadísticas Macroeconómicas 2022.pdf ...",
+                "url": "https://www.bcn.gob.ni/publicaciones/anuario-de-estad%C3%ADsticas-macroecon%C3%B3micas-2019-macroeconomic-statistics-yearbook-2019",
+                "title": "Macroeconomic Statistics Yearbook 2019 - Banco Central de Nicaragua",
+                "text": "Anuario de Estadísticas Macroeconómicas 2019 - Macroeconomic Statistics Yearbook 2019. Archivo: PDF icon anuario_estadistico_2019.pdf ...",
                 "source": "Banco Central de Nicaragua",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
                 "position": 2
+              },
+              {
+                "url": "https://www.bcn.gob.ni/system/files_force/documentos/anuario_estadistico_2019.pdf?download=1",
+                "title": "ANUARIO DE ESTADÍSTICAS MACROECONÓMICAS ...",
+                "text": "Cuadro - Table I-1. Producto interno bruto: enfoque de la producción - Gross domestic product: production approach .",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/documentos/anuario_estadistico_2016.pdf",
+                "title": "ANUARIO DE ESTADÍSTICAS MACROECONÓMICAS ...",
+                "text": "I. Sector real - Real sector. I-1. Producto interno bruto: enfoque de la producción - Gross domestic product: production approach .",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "position": 4
               }
             ]
           },
@@ -31,7 +77,29 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.bcn.gob.ni/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bcn.gob.ni/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/conferencias/doc_cerecimientoprod/7doC.pdf",
+                "title": "Transferencias Monetarias Condicionadas",
+                "text": "Promoviendo Incentivos Económicos positivos: ▫ Evidencia de la reducción del trabajo infantil… ▫ ... Pero un efecto mínimo en el esfuerzo de trabajo de los.",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcn.gob.ni/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -43,13 +111,21 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2014/Press%20Release2014.pdf",
-                "title": "Press Release: IMF Concludes Staff Visit to Nicaragua",
-                "text": "A staff team from the International Monetary Fund (IMF) led by Przemek. Gajdeczka visited Managua during May 6-14, 2014.",
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2019/Nicaragua_Consulta_ArtIculo_IV_2019_270220.pdf",
+                "title": "Nicaragua: 2019 Article IV Consultation-Press Release",
+                "text": "Since April 2018, social unrest and its aftermath eroded confidence and caused large capital and bank deposits outflows, adversely affecting ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2020-02-25T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2018/Transcript_2.pdf",
+                "title": "Transcript of October 2018 Western Hemisphere Department Press ...",
+                "text": "MS. BHATT: All right, good afternoon everyone and thank you for attending this press conference where we're launching the Regional Economic ...",
                 "source": "Banco Central de Nicaragua",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
-                "published_time": "2014-05-14T00:00:00",
-                "position": 1
+                "published_time": "2018-10-12T00:00:00",
+                "position": 2
               },
               {
                 "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2016/Press%20Release2016_2.pdf",
@@ -58,7 +134,7 @@
                 "source": "Banco Central de Nicaragua",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
                 "published_time": "2016-04-29T00:00:00",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2015/Press%20Release2015_2.pdf",
@@ -67,12 +143,21 @@
                 "source": "Banco Central de Nicaragua",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
                 "published_time": "2015-10-29T00:00:00",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bcn.gob.ni/sites/default/files/estadisticas/acuerdos/2014/Press%20Release2014.pdf",
+                "title": "Press Release: IMF Concludes Staff Visit to Nicaragua",
+                "text": "A staff team from the International Monetary Fund (IMF) led by Przemek. Gajdeczka visited Managua during May 6-14, 2014.",
+                "source": "Banco Central de Nicaragua",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEXeJwDdHQDdEADdHADmbWDsm5TtoZrqjobhSzjjXU776+n////xs67fNh788e/qioLfLxPvqKL++fniTT3rlIzcAAD539znd2zfMxnyvrn2z8zgOSTxubX65ePmc2blZlnhRDDpgHbJbYoZAAAAp0lEQVR4Ab3QRQLCMBRF0Xjq7t79b5Kf0FkezODWe6phf4gLIfkH4kobGwlocZK6MoR5kb4zIjBZpk9JFaDI6HytGlq3HGLXD0WB0BA2I5umHHxsm7q0gD8qjdeZfdOFwUTptZaA+r73f9KsoW3JnoxHSh3BW/uFTtt+oPUo4SDofsFY0+ndupeewWO5Sn3og6jhwUyExq/F28ZQXK7jPa4Sonein/cCMDcKM4aBYGYAAAAASUVORK5CYII=",
+                "published_time": "2014-05-14T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bcn.gob.ni/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bcn.gob.ni/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]

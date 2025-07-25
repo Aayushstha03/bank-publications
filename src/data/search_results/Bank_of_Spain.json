@@ -1,4 +1,400 @@
 {
   "Bank Name": "Bank of Spain",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/wbe/en/publicaciones/",
+                "title": "Publications - Banco de España",
+                "text": "Descubre los estudios y publicaciones del Banco de España donde recopila toda la información mediante documentos, informes y memoria.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/sobre-banco/transparencia/informacion-juridica/memorias-aplicaciones-guias/",
+                "title": "Reports, technical applications and guidelines - Banco de España",
+                "text": "The Banco de España produces a series of documents, reports, guidelines and technical applications.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/areas-actuacion/politica-monetaria/contribucion-analisis-politica-monetaria/informes-publicaciones/",
+                "title": "Reports and publications - Banco de España",
+                "text": "Reports and publications · The ECB and its monetary policy strategy · The role of the Banco de España · What are the ECB's monetary policy instruments? · ECB ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bde.es/f/webpi/SES/seminars/2017/files/sie1717.pdf",
+                "title": "Sentiment in Central Banks' Financial Stability Reports",
+                "text": "This paper analyzes sentiment in central bank reports using a dictionary to create a sentiment index, finding it driven by banking sector developments and ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/areas-actuacion/central-balances/informes-productos-estadisticos/informes-nacionales/",
+                "title": "National reports - Banco de España",
+                "text": "Aggregated information on of available consolidated accounts of Spanish listed non-financial corporations. Data come from the National Securities Market ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/wbe/en/publicaciones/informacion-estadistica/boletin-estadistico/",
+                "title": "Statistical Bulletin - Banco de España",
+                "text": "The Statistical Bulletin is a monthly electronic publication. It contains statistics compiled by the Banco de España on the credit system, other financial ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-07T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/boletin-estadistico.html",
+                "title": "Statistics by publication - Statistical Bulletin- BdE - Banco de España",
+                "text": "The bulletin includes Euro area and Spanish statistics, financial accounts, general government, non-financial corporations, households, international, and ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/estadisticas/",
+                "title": "Statistics - Banco de España",
+                "text": "The Banco de España compiles, prepares and publishes a broad set of economic and financial statistics, as part of the ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-11.html",
+                "title": "Bank of Spain - Statistical Bulletin - Chapter 11 - Banco de España",
+                "text": "11. General government · A) GENERAL GOVERNMENT. Early monthly infomation. 11.a - Net lending (+)/net borrowing (-) · B) PUBLIC ENTERPRISES. 11.15 - Debt of public ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-23.html",
+                "title": "Bank of Spain - Statistical Bulletin - Chapter 23 - Banco de España",
+                "text": "23.b - Spanish National Accounts. Current prices. Demand components. Seasonally and calendar adjusted data. Download data Download PDF Table in PDF format ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/wbe/en/areas-actuacion/politica-monetaria/",
+                "title": "Monetary policy - Banco de España",
+                "text": "The European Central Bank (ECB) manages monetary policy, through which it aims to influence the cost and availability of money in the economy.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/f/webpi/SES/seminars/2010/files/sie1017.pdf",
+                "title": "Does monetary policy affect bank risk-taking? - European Central Bank",
+                "text": "disentangle the effects of monetary policy from other factors, we have to delve into other possible causes of changes in banks' risk.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/areas-actuacion/politica-monetaria/politica-monetaria-area-euro/cuales-son-los-instrumentos-de-politica-monetaria-del-bce/",
+                "title": "What are the ECB's monetary policy instruments? - Banco de España",
+                "text": "The main instrument is the set of key interest rates, which it steers through open market operations, standing facilities and minimum reserve requirements.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bde.es/f/webbde/INF/MenuVertical/SistemasDePago/ficheros/eurosystem_oversigh_policy_framework.pdf",
+                "title": "Eurosystem oversight policy framework - European Central Bank",
+                "text": "See Sections 4.2 and 6 below for further information. See Section 6.2 below for further information on regulatory cooperation.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/Noticias%20Ultima%20Hora/Fich/ecb.strategyreview_monpol_strategy_overview.en.pdf",
+                "title": "An overview of the ECB's monetary policy strategy - European Union",
+                "text": "The new monetary policy strategy of the European Central Bank (ECB) was published on 8 July 2021. While the mandate is conferred upon the ECB by the.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/intervenciones-publicas/?theme=19d9c18b428a0810VgnVCM100000a4785a0aRCRD",
+                "title": "Speeches - Banco de España",
+                "text": "Descubre las intervenciones públicas de la Alta Administración del Banco de España por temas, perfiles y fechas.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-10T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/intervenciones-publicas/",
+                "title": "Speeches - Banco de España",
+                "text": "Descubre las intervenciones públicas de la Alta Administración del Banco de España por temas, perfiles y fechas.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/noticias-eventos/",
+                "title": "News and events - Banco de España",
+                "text": "Conoce las noticias, eventos y recursos informativos que ofrece el Banco de España para mantenerte siempre informado.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/publicaciones/analisis-economico-investigacion/documentos-trabajo/perceiving-central-bank-communications-through-press-coverage.html",
+                "title": "Perceiving central bank communications through press ...",
+                "text": "We present evidence suggesting that a simple measure of central bank communication tone, as perceived and interpreted by the media, correlates ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-01-21T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/intervenciones-publicas/gobernador-elkargi-el-futuro-del-sistema-financiero-europeo2.html",
+                "title": "Governor. Elkargi. 'The future of the European financial system'",
+                "text": "Home · News and events · Banco de España news · Speeches · Governor. Elkargi. \"The future of the European financial system\".",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-10T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/wbe/en/publicaciones/analisis-economico-investigacion/documentos-trabajo/",
+                "title": "Working Papers - Banco de España",
+                "text": "The aim of the Working Papers series is to disseminate research papers on economics and finances by Banco de España researchers.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/f/webpi/SES/staff/albriziosilvia/files/06d2cce0-en.pdf",
+                "title": "OECD PRODUCTIVITY WORKING PAPERS",
+                "text": "The OECD Productivity Working Papers are associated with the Global Forum on Productivity that provides a forum for mutual exchange of information and ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/publicaciones/analisis-economico-investigacion/documentos-trabajo/sovereign-default--domestic-banks-and-exclusion-from-international-capital-markets.html",
+                "title": "Sovereign default, domestic banks and exclusion from international ...",
+                "text": "Sovereign default, domestic banks and exclusion from international capital markets ... Series: Working Papers. 1824. Author: Dominik Thaler.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2018-07-20T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "http://www.bde.es/informes/be/docs/dt0624e.pdf",
+                "title": "IS THE INTERNET DELIVERY CHANNEL CHANGING BANKS ...",
+                "text": "N.º 0624. 2006. Page 4. The Working Paper Series seeks to disseminate original research in economics and finance. All papers have been anonymously refereed. By ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/05/Fic/dt0507e.pdf",
+                "title": "Working paper N.º 0507. Jump-and-rest effect of U.S. ...",
+                "text": "N.º 0507. 2005. Page 4. The Working Paper Series seeks to disseminate original research in economics and finance. All papers have been anonymously refereed. By ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/wbe/en/para-ciudadano/servicios/belab/otros/novedades-belab/novedades-para-investigadores-del-belab-microdatos-de-empresas-individuales-cbi-y-microdatos-de-emisiones-de-valores-representativos-de-deuda-bev-actualizado-el-ano-2023-en-cbi-y-2024-en-bev-con-nuevas-variables-como-la-clasificacion-prudencial-o-el-cupon-mensual.html",
+                "title": "Updated 2023 for CBI and in 2024 for BEV with new variables such as the ...",
+                "text": "Updates of Microdata on individual enterprises (CBI) and on debt securities issuers (BEV): Updated 2023 for CBI and in 2024 for BEV with new ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-21T09:21:23.111701",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/f/webbde/INF/MenuHorizontal/SobreElBanco/Conferencias/2017/171020_09.15-11.30_3_KISACIKOGLU.pdf",
+                "title": "The Information Content of News Announcements",
+                "text": "“ Treasury bonds strengthened on Friday as a smaller-than-expected increase in October nonfarm payrolls bolstered expectations that the Federal Reserve ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/investigador/en/Canal_Oculto/Publication_Upda/",
+                "title": "Economic Research Portal - Publication Updates",
+                "text": "Publication Updates ; Trust and accountability in times of crisis. Economica ·, v.92, issue 365, January 2025, pp. 230-258 ; House prices and misallocation : the ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/entidades-profesionales/operativa-gestiones/sistemas-pago-infraestructuras/target-banco-espana/contenido/historial-actualizaciones/",
+                "title": "History of updates - Banco de España",
+                "text": "History of updates ; 07/07/2025. Updates year 2025 ; 30/09/2024. Updates year 2024 ; 04/05/2023. Updates year 2023 ; 04/05/2022. Updates year 2022.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-07T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/wbe/en/para-ciudadano/servicios/belab/otros/novedades-belab/novedades-para-investigadores-del-belab-microdatos-de-la-encuesta-sobre-la-actividad-empresarial-ebae-microdatos-disponible-hasta-el-primer-trimestre-de-2025.html",
+                "title": "Updates of Microdata from Survey on Business Activity (EBAE)",
+                "text": "Updates of Microdata from Survey on Business Activity (EBAE): microdata available until the first quarter of 2025.",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "published_time": "2025-05-29T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bde.es/f/webbde/EYC/billemone/ficheros/es/COM_2013_281_final_y_SWD_2013_175_final_EN.pdf",
+                "title": "EUROPEAN COMMISSION Brussels, 14.5.2013 COM(2013) 281 final ...",
+                "source": "www.bde.es",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bde.es&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///f78e0aa30df19837210a79b9bd695e787fc1d07be13f0a9e8921afd6351b964a",
+                "position": 1
+              },
+              {
+                "url": "https://www.bde.es/f/webbe/EST/Estadisticas/Marco%20de%20calidad/Nota_politica_correccion_errores_en.pdf",
+                "title": "Error Correction and Communication Policy Guidelines for ...",
+                "source": "Banco de España",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bde.es&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///158f9ba0ecebea30d997564df29adafe02e5501820424552d57bd7d5370ff488",
+                "published_time": "2025-01-24T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bde.es/f/webbde/INF/MenuHorizontal/Normativa/guias/EBA-GL-2016-05-en.pdf",
+                "title": "Guidelines on communication between competent authorities ...",
+                "source": "Banco de España",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bde.es&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///5c31f5483100fb9aee9f2ee11a9269ce8bca8839ea2cadc3c223d65533f8f95d",
+                "position": 3
+              },
+              {
+                "url": "https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/ComunicadosBCE/OtrasDecisiones/12/Arc/Fic/gc120323en.pdf",
+                "title": "March 2012 External communication Market Operations",
+                "source": "www.bde.es",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bde.es&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///b188799ef05bfcffbbe6958729a0231937330f41a309f0f1fe021903a2bdb508",
+                "position": 4
+              },
+              {
+                "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/24/Files/dt2431e.pdf",
+                "title": "ECB communication and its impact on financial markets - Banco de España",
+                "text": "We thank Amy Handlan and Peter Tillmann for constructive discussions, Evi Pappa and Pablo Burriel for useful comments, an anonymous referee ...",
+                "source": "Banco de España",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWPYhwYY9v1HAUQJMICA5o7/YFoKJHAQKNHB8J/Bb+WCBStBAvugAi3IWhge/mfgV1YWbgEJlCxbMN2z5T+DZmyE3wKYGQ+BWjpAWmBmXAQZClS5DGaGYQfEWmHynI4GAOexsRREOGgYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bde.es/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

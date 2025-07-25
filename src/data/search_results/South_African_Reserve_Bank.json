@@ -8,49 +8,19 @@
           "results": {
             "web": [
               {
-                "url": "https://www.resbank.co.za/en/home/publications/reports",
-                "title": "Reports - South African Reserve Bank",
-                "text": "Annual Economic Reports, Annual Reports PA, Annual Reports PA, Co-operative Banks Annual Reports, Shareholders Index Reports, Other Reports, Bank Supervision",
-                "source": "SARB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
-                "position": 1
-              },
-              {
                 "url": "https://www.resbank.co.za/en/home/publications",
                 "title": "Publications - South African Reserve Bank",
                 "text": "Key publications include the Monetary Policy Statement; Monetary Policy Review; Quarterly Bulletin; Financial Stability Review; and Annual Reports, amongst ...",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
-                "sublinks": [
-                  {
-                    "title": "Other Publications",
-                    "url": "https://www.resbank.co.za/en/home/publications/other-publications"
-                  },
-                  {
-                    "title": "Prudential Authority",
-                    "url": "https://www.resbank.co.za/en/home/publications/prudential-authority"
-                  },
-                  {
-                    "title": "Directives",
-                    "url": "https://www.resbank.co.za/en/home/publications/directives"
-                  },
-                  {
-                    "title": "Circulars",
-                    "url": "https://www.resbank.co.za/en/home/publications/circulars"
-                  },
-                  {
-                    "title": "Guidance Notes",
-                    "url": "https://www.resbank.co.za/en/home/publications/guidance-notes"
-                  },
-                  {
-                    "title": "Fact Sheet",
-                    "url": "https://www.resbank.co.za/en/home/publications/fact-sheet"
-                  },
-                  {
-                    "title": "Interpretation Rulings",
-                    "url": "https://www.resbank.co.za/en/home/publications/Interpretation-Rulings"
-                  }
-                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/reports",
+                "title": "Reports - South African Reserve Bank",
+                "text": "Annual Economic Reports, Annual Reports PA, Annual Reports PA, Co-operative Banks Annual Reports, Shareholders Index Reports, Other Reports, Bank Supervision",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
@@ -60,6 +30,22 @@
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.resbank.co.za/Publications/QuarterlyBulletins/Pages/Quarterly-Bulletin.aspx",
+                "title": "Quarterly Bulletin - South African Reserve Bank",
+                "text": "This publication covers the period 1979 to 2025 and provides an overview of the current and historical rates for various taxes, duties and levies collected ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/prudential-authority/pa-annual-report",
+                "title": "PA Annual Reports - South African Reserve Bank",
+                "text": "The PA prepares an annual report on its activities and financial accounts which is submitted to the Minister of Finance for tabling in the National Assembly.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -71,7 +57,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.resbank.co.za/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.resbank.co.za/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -82,6 +68,14 @@
         {
           "results": {
             "web": [
+              {
+                "url": "https://www.resbank.co.za/en/home/what-we-do/statistics/releases/online-statistical-query",
+                "title": "Online Statistical Query - South African Reserve Bank",
+                "text": "The online query facility enables you to select and download Quarterly Bulletin time series. The data can be downloaded as a single time series or as multiple ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 1
+              },
               {
                 "url": "https://www.resbank.co.za/en/home/what-we-do/statistics",
                 "title": "Statistics - South African Reserve Bank",
@@ -114,15 +108,15 @@
                     "url": "https://www.resbank.co.za/en/home/what-we-do/statistics/releases/banking-sector-information"
                   }
                 ],
-                "position": 1
+                "position": 2
               },
               {
-                "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1/download-information-from-xlsx-data-files",
-                "title": "Download Information from XLSX Data Files",
-                "text": "Categories: Quarterly Bulletins > Download information from XLSX data files | What's New. publications thumbnails. Download information from xlsx data files.",
+                "url": "https://www.resbank.co.za/en/home/what-we-do/statistics/QuarterlyBulletins",
+                "title": "Quarterly Bulletins - South African Reserve Bank",
+                "text": "This app gives users access to current and historical Quarterly Bulletin publications, and provides quick and easy access to related data and information.",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.resbank.co.za/Publications/QuarterlyBulletins/Pages/Quarterly-Bulletin.aspx",
@@ -132,12 +126,12 @@
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "sublinks": [
                   {
-                    "title": "Quarterly Bulletin Publication",
-                    "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1/Quarterly-Bulletin-Publication"
-                  },
-                  {
                     "title": "Changes to Quarterly Bulletin...",
                     "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1/Changes-to-Quarterly-Bulletin-tables"
+                  },
+                  {
+                    "title": "Logo",
+                    "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1/Quarterly-Bulletin-Publication"
                   },
                   {
                     "title": "Articles and Notes",
@@ -154,24 +148,29 @@
                   {
                     "title": "List of descriptions of all...",
                     "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1/List-of-descriptions-of-all-available-Quarterly-Bulletin-time-series"
-                  },
-                  {
-                    "title": "Logo",
-                    "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1?category=Quarterly%20Bulletin%20Publications&year=&rows=25&page=1"
                   }
                 ],
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/quarterly-bulletin1/download-information-from-xlsx-data-files",
+                "title": "Download Information from XLSX Data Files",
+                "text": "Categories: Quarterly Bulletins > Download information from XLSX data files | What's New. publications thumbnails. Download information from xlsx data files.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Statistics bulletin data statistics data bulletin today",
             "Statistics bulletin data statistics data bulletin pdf",
             "Statistics bulletin data statistics data bulletin excel",
             "Statistics bulletin data statistics data bulletin 2022",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.resbank.co.za/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.resbank.co.za/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -183,21 +182,30 @@
           "results": {
             "web": [
               {
+                "url": "https://www.resbank.co.za/en/home/what-we-do/financial-markets/monetary-policy-implementation-framework",
+                "title": "Monetary Policy Implementation Framework",
+                "text": "This paper provides a full description of the SA Reserve Bank's monetary policy implementation framework (MPIF), which was implemented in June 2022.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/prudential-authority/pa-documents-issued-for-consultation/2024/Proposed-Directive-Proposed-amendments-to-Regulations-relating-to-Banks",
                 "title": "Proposed amendments to Regulations relating to Banks",
                 "text": "This is a proposed directive for amendments to regulations relating to banks, published on 2024-09-11, related to Basel III post-crisis reforms.",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "published_time": "2024-09-11T00:00:00",
-                "position": 1
+                "position": 2
               },
               {
-                "url": "https://www.resbank.co.za/en/home/what-we-do/financial-markets/monetary-policy-implementation-framework",
-                "title": "Monetary Policy Implementation Framework",
-                "text": "This paper provides a full description of the SA Reserve Bank's monetary policy implementation framework (MPIF), which was implemented in June 2022.",
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/codi/12%20June%20CODIs%20guidelines%20on%20the%20implementation%20of%20banks%20public%20awareness%20obligations%203.0.pdf",
+                "title": "The Corporation for Deposit Insurance's guidelines on the ...",
+                "text": "The Regulations oblige banks to make true, correct and complete representations with respect to depositor protection when communicating ...",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
-                "position": 2
+                "published_time": "2023-12-14T00:00:00",
+                "position": 3
               },
               {
                 "url": "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-stability/macroprudential-policy/SARB%20macroprudential%20policy%20framework%20and%20decision-making%20process.pdf",
@@ -205,16 +213,25 @@
                 "text": "The SARB's framework aims to limit financial system vulnerabilities, strengthen resilience, and protect financial stability, as ...",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/Exchange%20Control%20Regulations,%201961.pdf",
+                "title": "Exchange Control Regulations, 1961 - South African Reserve Bank",
+                "text": "The regulations define \"affected person\", restrict foreign currency/gold transactions, and restrict export/import of currency, gold, and securities without ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
-            "Policy regulations guidelines policy regulations examples"
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.resbank.co.za/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.resbank.co.za/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -234,31 +251,48 @@
                 "position": 1
               },
               {
-                "url": "https://www.resbank.co.za/en/home/publications/prudential-authority/pa-latest-news",
-                "title": "PA Latest News - Prudential Authority - South African Reserve Bank",
-                "text": "Prudential Authority Circulars, Notices, Guides, Fact Sheet, Working Papers, Newsletter-FMDUpdates, Minutes, Forms, Presentations to Parliament, COVID-19, ...",
-                "source": "SARB",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
-                "position": 2
-              },
-              {
                 "url": "https://www.resbank.co.za/en/home/publications/latest-news-and-information",
                 "title": "Latest News and Information - South African Reserve Bank",
                 "text": "Publications, Media Releases, Statements, Monthly Releases, Speeches, Quarterly Bulletin, Reviews, Reports, Prudential Authority Circulars, Notices, Guides",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/what-we-do/financial-markets/financial-markets-market-practitioners-group/Market_Practitioners_Group_Speeches",
+                "title": "MPG Speeches - South African Reserve Bank",
+                "text": "SECTIONS. Meeting agenda and minutes · Terms of Reference · MPG Forum Presentation · MPG Publications. RELATED PAGES. Jibar post-trade disclosures",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/Latest-News-and-Information-FMD",
+                "title": "FMD-Latest News and Information - South African Reserve Bank",
+                "text": "Media Releases, Statements, Monthly Releases, Speeches, Quarterly Bulletin, Reviews, Reports, Prudential Authority Circulars, Notices, Guides, Fact Sheet, ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/address-by-lesetja-kganyago-governor-of-the-sarb-at-alter-sisulu-university-komani-campus",
+                "title": "Lesetja Kganyago | The role of ethical leadership amid threats to ...",
+                "text": "The Governor of the South African Reserve Bank (SARB) addressed the Walter Sisulu University Komani Campus.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2025-05-06T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "News speeches press news speeches press today",
+            "News speeches press news speeches press youtube",
             "News speeches press news speeches press pdf",
-            "News speeches press news speeches press 2022",
-            "News speeches press news speeches press 2021"
+            "News speeches press news speeches press 2022"
           ],
           "query": {
-            "q": "site:http://www.resbank.co.za/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.resbank.co.za/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -272,36 +306,225 @@
               {
                 "url": "https://www.resbank.co.za/en/home/publications/Papers/working-papers",
                 "title": "Working Papers - South African Reserve Bank",
-                "text": "Quarterly Bulletin, Publication Reviews, Monetary Policy Review, Financial Stability Review, Papers, Position Papers, Working Papers, Academic Publications",
+                "text": "Working papers. ... This paper studies the bank lending channel of monetary policy transmission in South Africa where the bank loan-level data, which are ...",
                 "source": "SARB",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.resbank.co.za/content/dam/sarb/publications/media-releases/2025/finstab-symposium-/Call%20for%20submissions%20for%20the%20South%20African%20Reserve%20Bank%20Financial%20Stability%20Research%20Symposium.pdf",
-                "title": "Call for submissions for the SARB Financial Stability ...",
-                "source": "Public now",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.resbank.co.za&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///c5ce62fa8986c78b7126c30cfd949d0ecd7c84f4974fc703182ee1567e656f8f",
+                "url": "https://www.resbank.co.za/en/search-result?searchTerm=Working%20Papers",
+                "title": "Working Papers - South African Reserve Bank",
+                "text": "We found the following search results for Working Papers. 2015 results. Sort by: Please Select, Relevance, Date (Ascending), Date (Descending). Relevance.",
+                "source": "South African Reserve Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.resbank.co.za/en/home/what-we-do/research",
-                "title": "Research",
-                "source": "South African Reserve Bank",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.resbank.co.za&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.resbank.co.za/en/home/what-we-do/research/_jcr_content/columncontrol/item1/columncontrol/item1/columncontrol_copy/item1/image_copy_copy_copy.coreimg.jpeg/1633690846323/research-agenda.jpeg",
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/the-lending-implications-of-banks-holding-excess-capital.pdf",
+                "title": "The lending implications of banks holding excess capital",
+                "text": "Information on South African Reserve Bank Working Papers can be found at https://www.resbank.co.za/en/home/publications/Papers/working-papers.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2024-01-16T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2022/WP%202204.pdf",
+                "title": "Analysing the spillover effects of the South African Reserve Banks bond ...",
+                "text": "The papers deal with topical issues and describe preliminary research findings, and develop new analytical or empirical approaches in their ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/the-bank-lending-channel-of-monetary-policy-transmission-in-south-africa.pdf",
+                "title": "The bank lending channel of monetary policy transmission in South Africa",
+                "text": "The papers deal with topical issues and describe preliminary research findings and develop new analytical or empirical approaches in their ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
             "Research working papers papers research working papers ') pdf",
             "Research working papers papers research working papers ') 2021",
-            "Research working papers papers research working papers ') 2020"
+            "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:http://www.resbank.co.za/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.resbank.co.za/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/upcoming-announcements",
+                "title": "Upcoming Announcements - South African Reserve Bank",
+                "text": "South African Reserve Bank Governor Lesetja Kganyago has appointed Dr David Fowkes serve as a member of the Monetary Policy Committee (MPC) from 12 January ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/financial-markets-announcements-media-releases-and-notices",
+                "title": "Financial Markets: Announcements, Media Releases and Notices",
+                "text": "Media Releases, Statements, Monthly Releases, Speeches, Quarterly Bulletin, Reviews, Reports, Prudential Authority Circulars, Notices, Guides, Fact Sheet, ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/calendar/mpc-announcements",
+                "title": "MPC Announcements - South African Reserve Bank",
+                "text": "Revised discussion paper - Resolution stays and moratoria, Resolution Planning, Lessons from the Covid-19 pandemic in South Africa.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/media-releases/1998/4468",
+                "title": "1998-01-23: Change in release time of Reserve Bank announcements ...",
+                "text": "The South African Reserve Bank will in future release statements on the monthly changes in monetary and credit aggregates early in the morning before the ...",
+                "source": "Reserve Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/Financial-Markets/Announcements-Media-Releases-Notices/Announcement-Public-holidays",
+                "title": "Public holidays and non-trading days in December 2020 and January 2021",
+                "text": "Title : Announcement: Public holidays and non-trading days in December 2020 and January 2021 ; Published Date: 2020-12-11 ; Last Modified Date:.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2021-12-14T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.resbank.co.za/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/notices",
+                "title": "Notices - South African Reserve Bank",
+                "text": "Filter by: Category: Please Select, Operational Notice, Information Notice, General Notices. Please Select. Notices. Operational Notice.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/notices/GeneralNotices",
+                "title": "General Notices - South African Reserve Bank",
+                "text": "Media Releases, Statements, Monthly Releases, Speeches, Quarterly Bulletin, Reviews, Reports, Prudential Authority Circulars, Notices, Guides, Fact Sheet, ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/notices/information-notice",
+                "title": "FMD-Information Notice - South African Reserve Bank",
+                "text": "Information notice on the official gold and foreign exchange reserves of the South African Reserve Bank.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/prudential-authority/pa-insurance/Insurance_Notices",
+                "title": "Insurance Notices - South African Reserve Bank",
+                "text": "Notice-Amendment of the designation of an Insurance Group in terms of section 10 of the Insurance Act 18 of 2017-Telesure Investment Holdings Limited ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/notices/operational-notice",
+                "title": "Operational Notice - South African Reserve Bank",
+                "text": "Notices, Guides, Fact Sheet, Working Papers, Minutes, Forms, Presentations to Parliament, COVID-19 Guidance Notes, Directives, Bank Circulars, Academic ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.resbank.co.za/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/prudential-authority/public-awareness/Communication",
+                "title": "Communication - South African Reserve Bank",
+                "text": "Prudential Communication 9 of 2025 - Publication of the Prudential Standards on Market Risk and Credit Valuation Adjustments, and associated Determinations.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/pa-public-awareness/covid-19-response/2024/prudential-comms-19-of-2024/Prudential%20Communication%2019%20of%202024_Flac.pdf",
+                "title": "Prudential Communication 19 of 2024 _Flac - South African Reserve Bank",
+                "text": "Institutions. The Standard is issued in terms of section 105(2)(c) read with section. 30(1A) of the Financial Sector Regulation Act, ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2024-12-11T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/pa-public-awareness/covid-19-response/2024/Joint%20Communication%208%20of%202024-Regulatory%20Reporting%20in%20terms%20of%20Joint%20Standard%202%20of%202020.pdf",
+                "title": "Joint Communication 8 of 2024-Regulatory Reporting in terms ...",
+                "text": "2.2 The Authorities subsequently issued Joint Communication 5 of 20232 on 11 December 2023, stipulating the reporting metrics that would be ...",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2024-12-11T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/prudential-authority/pa-public-awareness/Communication/2024/PC-18-of-2024",
+                "title": "Prudential Communication 18 of 2024-FRTB and CVA ...",
+                "text": "Title: Prudential Communication 18 of 2024-FRTB and CVA implementation roadmap. Published Date: 2024-12-11. Last Modified Date: 2024-12-11, 07:12 AM.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2024-12-11T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/pa-public-awareness/covid-19-response/2025/Prudential%20Communication%201%20of%202025_%20Flavour%20of%20the%20year_Banks.pdf",
+                "title": "1 Prudential Communication 1 of 2025 Financial Sector Regulation Act 9 ...",
+                "text": "The selected theme is communicated to regulated financial institutions and is referred to as flavour-of-the-year topic.",
+                "source": "SARB",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAApVBMVEX////37+L18d/x6tfl17Ti0Kb8/PvVv4zIpUvYyozVxHrNuWnJsVn49O37+fXDpk7HrF/Z0LHbzKTSvHDLtGXFqVjIq2LczK/SuHPy59fRtXXMsWrs4czHq2XZ0rfd0brLr3TGrmz17+Xe2cLk4c3h0rnYw5zCq3Lq6drWyKjJsnTPuIHu6ePEsXi+pm7Ywpm5nWDNp27StofJtYvhya7Hq3i7m2ahm+56AAAA/klEQVR4AazQRYLDMAwAQJcbsMtVOA4zw/+ftmV09lRdR4x+E6PxZDqbs22x5HhBxEwjq/Vmu9tjdtPDcQPSAMrrEyoqG7WjbpjUsofQGUb9f3QH0dOtYfQty4XAGjGRBnQCQaCxzLYCGkZBEGLy9btwGsfJGdMUPopH2ca5YJ7b89T3yWtdYqNRHC/OiOfzuee/IPjoiWiO5gV+og8IuTQu7pXzQntB/1RNaXTCksznKSQv18qVJ5/OhElUlgSlddKgl2grGuQdaHBGqOv3H2LI8zryvL7Ec7/5ekPXnxBOSMwvQ2ZZg9b2pf1GD/Xk0+saGzGDYExG8t+QNAIAhGAhMY5/1KMAAAAASUVORK5CYII=",
+                "published_time": "2025-04-11T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.resbank.co.za/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

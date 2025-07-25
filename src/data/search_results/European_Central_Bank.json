@@ -8,39 +8,82 @@
           "results": {
             "web": [
               {
-                "url": "https://www.ecb.europa.eu/press/intro/publications/html/index.en.html",
-                "title": "Publications - European Central Bank",
-                "text": "Publications ; 4 April 2025 · Corporate Actions: Single Collateral Management Rulebook for Europe ; 20 January 2025 · 15th T2S Harmonisation ...",
+                "url": "https://www.ecb.europa.eu/press/other-publications/convergence/html/index.en.html",
+                "title": "Convergence Report - European Central Bank",
+                "text": "EU Commission reports ... Like the ECB, the European Commission also publishes convergence reports assessing the readiness of EU member states to adopt the euro.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
-                "published_time": "2023-06-16T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.ecb.europa.eu/paym/groups/shared/docs/536e2-t2-t2s-2018-12-04-tccg-dwh-delivery-of-predefined-reports.pdf",
-                "title": "T2-T2S] 2018-12-04 TCCG DWH Delivery of predefined reports",
-                "source": "www.ecb.europa.eu",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ecb.europa.eu&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///a3573fe54acd1f11f5e26ee8ec90d6fa110c6eb521a5b06638c9d5bb986b448e",
+                "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/index.en.html",
+                "title": "Annual Report - European Central Bank",
+                "text": "The Annual Report describes the tasks and activities of the European System of Central Banks (ESCB) and reports on the Eurosystem's monetary policy.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "The year at a glance",
+                    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/ecb.ar2024~8402d8191f.en.html"
+                  },
+                  {
+                    "title": "ECB Annual Report 2023",
+                    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/ecb.ar2023~d033c21ac2.en.html"
+                  },
+                  {
+                    "title": "Annual Accounts",
+                    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/annual-accounts/html/index.en.html"
+                  },
+                  {
+                    "title": "Annual Report 2020",
+                    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/ar2020~4960fb81ae.en.html"
+                  },
+                  {
+                    "title": "ECB Annual Report 2022",
+                    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/ecb.ar2022~8ae51d163b.en.html"
+                  },
+                  {
+                    "title": "Show all releases",
+                    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/all-releases.en.html"
+                  }
+                ],
                 "position": 2
               },
               {
-                "url": "https://www.ecb.europa.eu/press/research-publications/resbull/2023/html/ecb.rb231128~0a16e73d87.en.html",
-                "title": "Reports of AI ending human labour may be greatly exaggerated",
-                "source": "European Central Bank - European Union",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ecb.europa.eu&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.ecb.europa.eu/press/research-publications/resbull/2023/html/rb231128/ecb.rb231128.en_img0.png?4a1189a8f06bb237b863e2e6502e92a9",
-                "published_time": "2023-11-28T00:00:00",
+                "url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html",
+                "title": "All news & publications - European Central Bank",
+                "text": "Interested in a publication by the ECB from a particular point in time? Browse publications by date.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/press/other-publications/ire/html/index.en.html",
+                "title": "The international role of the euro - European Central Bank",
+                "text": "The international role of the euro remained broadly stable in 2024. This stability was noteworthy in a year that saw the ECB begin lowering policy rates.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250604~26651b6294.en.html",
+                "title": "ECB reports on Bulgaria's progress towards euro adoption",
+                "text": "Bulgaria has made good progress towards economic convergence with the euro area since 2024, according to the Convergence Report of the European Central Bank ( ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-04T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list",
             "Publications reports publications reports 2022",
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.ecb.europa.eu/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.ecb.europa.eu/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -52,33 +95,49 @@
           "results": {
             "web": [
               {
-                "url": "https://www.ecb.europa.eu/stats/all-key-statistics/html/index.en.html",
-                "title": "All key statistics - European Central Bank",
-                "text": "This list provides an overview of the main statistical data and other key datasets produced and disseminated by the ECB.",
+                "url": "https://www.ecb.europa.eu/stats/html/index.en.html",
+                "title": "Overview of ECB statistics - European Union",
+                "text": "The ECB and national central banks provide official statistics on the health of the economy. These statistics support all aspects of the ECB's work.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.ecb.europa.eu/stats/accessing-our-data/html/index.en.html",
-                "title": "All data services - European Central Bank",
-                "text": "The ECB Data Portal provides access to all official ECB statistics. The portal also provides options to download data and comprehensive metadata for each ...",
+                "url": "https://www.ecb.europa.eu/pub/spb/html/index.en.html",
+                "title": "Statistics Pocket Book - European Central Bank",
+                "text": "It contains selected macroeconomic indicators for the individual Member States of the European Union, as well as comparisons between the euro area.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.ecb.europa.eu/press/research-publications/statistics-papers/html/index.en.html",
-                "title": "Statistics papers - European Central Bank",
-                "text": "Browse the ECB Statistics Paper Series covering both methodological and conceptual issues related to central banking statistics, new statistical topics and ...",
+                "url": "https://www.ecb.europa.eu/stats/ecb_statistics/html/index.en.html",
+                "title": "Data reporting & standards - European Central Bank",
+                "text": "The ESCB follows a policy of free access and free reuse for its publicly released statistics. Focus primarily on the euro area. To produce a meaningful euro ...",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/stats/all-key-statistics/html/index.en.html",
+                "title": "All key statistics - European Central Bank",
+                "text": "This list provides an overview of the main statistical data and other key datasets produced and disseminated by the ECB.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/stats/payment_statistics/html/index.en.html",
+                "title": "Payment statistics - European Central Bank",
+                "text": "These statistics cover important aspects of payment transactions in EU countries. They are compiled at EU and euro area levels, and individually for each EU ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.ecb.europa.eu/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.ecb.europa.eu/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -90,38 +149,49 @@
           "results": {
             "web": [
               {
-                "url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/html/monetary-policy-instruments.en.html",
-                "title": "Our monetary policy instruments and the strategy review",
-                "text": "To help keep prices stable, we need the right tools at hand. That is why we have introduced new monetary policy instruments in recent years.",
+                "url": "https://www.ecb.europa.eu/mopo/eaec/ecopolicy/html/index.en.html",
+                "title": "Economic policy - European Central Bank",
+                "text": "The Integrated Guidelines set out the framework for the strategy at Member State level.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds250417~e613e58d41.en.pdf",
-                "title": "Combined monetary policy decisions and statement",
-                "text": "The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the ...",
+                "url": "https://www.ecb.europa.eu/mopo/html/index.en.html",
+                "title": "Overview of monetary policy and markets - European Central Bank",
+                "text": "Our monetary policy influences how much you have to pay to borrow and how much interest you receive on your savings. We steer interest rates with the aim of ...",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
-                "published_time": "2025-04-17T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/monetary-policy/html/index.en.html",
-                "title": "Monetary policy - European Central Bank",
-                "text": "What is the marginal lending facility rate? 13 September 2018: What is the main refinancing operations rate? 18 July 2018: What is economic slack? 1 June 2018 ...",
+                "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250724~50bc70e13f.en.html",
+                "title": "Monetary policy decisions - European Central Bank",
+                "text": "24 July 2025. The Governing Council today decided to keep the three key ECB interest rates unchanged. Inflation is currently at the 2% medium-term target.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/ecb/orga/tasks/monpol/html/index.en.html",
+                "title": "Monetary policy - European Central Bank",
+                "text": "Monetary policy is our way of guaranteeing price stability. Our measures influence economic developments, which helps keep inflation in line with our target.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630~aabf988af8.en.html",
+                "title": "ECB's Governing Council updates its monetary policy strategy",
+                "text": "The monetary policy strategy enables the Governing Council to respond effectively to major changes in the inflation environment. This is ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Policy regulations guidelines policy regulations pdf",
-            "Policy regulations guidelines policy regulations 2021"
-          ],
           "query": {
-            "q": "site:http://www.ecb.europa.eu/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.ecb.europa.eu/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -133,20 +203,37 @@
           "results": {
             "web": [
               {
+                "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2025/html/ecb.is250724~a66e730494.en.html",
+                "title": "PRESS CONFERENCE - European Central Bank",
+                "text": "The Governing Council today decided to keep the three key ECB interest rates unchanged. Inflation is currently at our two per cent medium-term ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "published_time": "2025-07-24T18:57:26.088253",
+                "position": 1
+              },
+              {
+                "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+                "title": "Weekly schedule of public speaking engagements and other activities",
+                "text": "Find the ECB's weekly schedule of public speaking engagements and other activities by the ECB Board Members.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.ecb.europa.eu/press/press_conference/html/index.en.html",
+                "title": "Press conference - European Central Bank",
+                "text": "Here is what the Governing Council decided about the ECB's interest rates and instruments at its latest meeting. Press release.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
                 "url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202501_07~c37ab82e06.en.html",
                 "title": "From press conferences to speeches: the impact of the ECB's monetary ...",
                 "text": "Monetary policy communication is important for managing expectations and enhancing the effectiveness of monetary policy in the pursuit of price stability.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
-                "position": 1
-              },
-              {
-                "url": "https://www.ecb.europa.eu/press/press_conference/html/index.en.html",
-                "title": "Press conference - European Central Bank",
-                "text": "The President will provide an in-depth explanation of the reasons behind the latest monetary policy decisions. Read from 15:00 CET. Watch the press conference.",
-                "source": "European Central Bank",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
-                "position": 2
+                "position": 4
               },
               {
                 "url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html",
@@ -154,12 +241,12 @@
                 "text": "Interested in a publication by the ECB from a particular point in time? Browse publications by date.",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.ecb.europa.eu/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.ecb.europa.eu/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -179,25 +266,210 @@
                 "position": 1
               },
               {
-                "url": "https://www.ecb.europa.eu/pub/research/html/index.en.html",
-                "title": "Research papers - European Central Bank",
-                "text": "Our working papers share economic research relevant to the ECB's tasks and functions. We publish them to stimulate discussion. Read our latest working papers ...",
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2137.ga.pdf",
+                "title": "A minimal moral hazard central stabilisation capacity for the EMU ...",
+                "text": "Recent debate has focused on the introduction of a central stabilisation capacity as a completing element of the Economic and Monetary Union ...",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.ecb.europa.eu/press/research-publications/working-papers/html/index.fi.html?skey=Survey%20of%20professional%20forecasters",
-                "title": "Working papers - European Union",
-                "text": "The working papers constitute “work in progress”. They are published to stimulate discussion and contribute to the advancement of our knowledge of economic ...",
+                "url": "https://www.ecb.europa.eu/pub/research/html/index.en.html",
+                "title": "Research papers - European Central Bank",
+                "text": "Our working papers share economic research relevant to the ECB's tasks and functions. We publish them to stimulate discussion. Read our latest working papers ...",
                 "source": "European Central Bank",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1648.pdf",
+                "title": "The Distribution of wealth and the MPC: implications of new European ...",
+                "text": "The study finds that wealth inequality affects the MPC, with stronger consumption responses in economies with large wealth inequality. Low-wealth households ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1283.pdf",
+                "title": "How large are housing and financial wealth effects? A new approach",
+                "text": "In US data, the immediate effect of a $1 change in housing wealth is about 2 cents, with a final effect around 9 cents, larger than financial wealth effects.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.ecb.europa.eu/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.ecb.europa.eu/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.ecb.europa.eu/press/conferences/shared/pdf/20190923_inflation_conference/S2_Huennekes.pdf",
+                "title": "Monetary policy announcements and expectations - European Central Bank",
+                "text": "Abstract. We assess empirically whether monetary policy announcements impact firm expectations. Two features of our data set are key.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630~aabf988af8.en.html",
+                "title": "ECB's Governing Council updates its monetary policy strategy",
+                "text": "30 June 2025. Governing Council confirms symmetric 2% inflation target over the medium term; Symmetry requires appropriately forceful or persistent policy ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1707.pdf",
+                "title": "The financial and macroeconomic effects of OMT announcements",
+                "text": "All rights reserved. Any reproduction, publication and reprint in the form of a different publication, whether printed or produced.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1882.en.pdf",
+                "title": "Working Paper Series - Is the intrinsic value of macroeconomic news ...",
+                "text": "Abstract. The literature documents a heterogeneous asset price response to macroeconomic news announcements: Some announcements have a strong impact on ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1901.en.pdf",
+                "title": "Price drift before U.S. macroeconomic news - European Central Bank",
+                "text": "We examine stock index and Treasury futures markets around releases of U.S. macroeconomic announcements. Seven out of 21 market-moving announcements.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates stock exchange",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.ecb.europa.eu/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.ecb.europa.eu/paym/target/html/register.en.html",
+                "title": "Subscribe to email alerts about the operational status of TARGET ...",
+                "text": "Receive an automated email informing you of the real-time operational status of T2, TIPS, T2S or ECMS. Email (mandatory). Which TARGET Service interests ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.ecb.europa.eu/services/data-protection/privacy-statements/html/ecb.privacy_statement_news_email_alerts_media.fi.html",
+                "title": "Privacy statement for news email alerts for the media",
+                "text": "You can subscribe to automatically receive news published on the ECB, ESRB and Banking Supervision websites directly in your mailbox.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.ecb.europa.eu/services/using-our-site/technical-updates/html/register.en.html",
+                "title": "Subscribe to email alerts about upcoming technical updates",
+                "text": "Subscribe to email alerts about upcoming technical updates. Receive an automated email announcing upcoming technical updates to this website.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/services/data-protection/privacy-statements/html/ecb.privacy_statement_technical_updates_alerts.sv.html",
+                "title": "Privacy statement for email alerts on ECB website technical updates",
+                "text": "It is possible to subscribe to receive automated email alerts about technical updates to the ECB website. More information can be found on this dedicated ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/careers/pdf/job_agent.pdf",
+                "title": "How to set up job alerts",
+                "text": "To create a job agent, log into your profile, click on “Job Agent”, assign a name to your job agent and select frequency (daily, weekly or monthly).",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.ecb.europa.eu/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230904_2~f2d3ee13d9.en.html",
+                "title": "Communication and monetary policy - European Central Bank",
+                "text": "Communication plays a vital role in the art of effective policymaking today, and this is especially true for central banks like the ECB.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "published_time": "2023-09-04T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2759~085f242f95.en.pdf",
+                "title": "Monetary communication rules - European Central Bank",
+                "text": "In this section, we lay out a simple model of monetary communication rules that guides our empirical work. We use the terms “communication rule” and “ ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.ecb.europa.eu/home/search/review/html/monpol-communication.en.html",
+                "title": "Monetary policy communication and the strategy review",
+                "text": "The strategy review has been a great opportunity to explore how to improve the way we communicate our monetary policy with markets and with the general public.",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/ecms/shared/pdf/ecb.targetecms240708_Explainer_on_outgoing_communication_compression_and_pagination_in_the_ECMS.en.pdf?8822e9de383baf38e540c65646d459e6",
+                "title": "Explainer on outgoing communication, compression and ...",
+                "text": "The counterparties can choose if all messages are sent from the ECMS via the file channel for all technical addresses configured for the ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "published_time": "2024-07-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2694~a5e2951c42.en.pdf",
+                "title": "Central Bank communication with the general public: promise or false ...",
+                "text": "Central banks are increasingly reaching out to the general public to motivate and explain their monetary policy actions. One major aim of this outreach is ...",
+                "source": "European Central Bank",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAz1BMVEX////5+v3j5vGSnsknR6EABpAADZI/WKijrdGut9YAIpMAMJoAJpyhpGCdoWMAKpcAH5TL0eV/jsEAAJJRZILMykIhQpLU0Dk6UokAMZkeP5QmRZEALZsAIZ0AD6AAFp8AHp4ROJbu8fcAL5jHxEv78Qv47xK3tlbi3iQAKJyBiXIAFZIyS5AAMpm0vNmGjm/Tzz7p7PVTaK8AGp58g3nw5iaZm2s9Vqe6uVGLkm0AG5MAAKBxgbticIBabrFvfHbh2jNXaYA/VomIlMVkdrWFi6m8AAABbElEQVR4AWIYaABojK4WmwcBMAzT2LpAS6iTQN3JV3e3+7+luf26vacPTsKyEv8Q23E9z71L/sXuPZ+yVJrxgIvfLZPN5RktFCgrlrL3v1rSlWGkdLlSqUY1mf1lbt0rNSSLmq1WuyOVLNFfFvW7YS/X6rNyI93WUdckvyCnWvVacVVRVY2p1Pzu0yzTU1GqE8bPUYD23FcYDAZC8CGardFLeQ0aDYOxeAISBGYivM50Nk8tnkqHFBKdbH1igoAAjaVlmBrmV/3hcLimEpDMJcsG8IRyQ0yD6Xi+1b2nOCjjS7KRL4iN2PFmTa+7YaVa3q902AySYoNX5Id69gg53c9P+fmppHA05MDfEMayXaharxLnapWaktmBMHjHBsjOOxeZVIqy0yVrEzQ+ENwh9ub5y1KM+psBcTg+ERxWYucb3/fklVjg+IpoeDeLjIWoE+vmNfArAnzjT3a7ib/hwC/4muRPSeBX/KWf4iNjRUedD4LZogAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.ecb.europa.eu/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

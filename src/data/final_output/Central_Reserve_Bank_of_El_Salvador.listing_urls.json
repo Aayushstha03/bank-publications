@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "topic": "publicaciones",
+    "entries": [
+      {
+        "url": "https://www.bcr.gob.sv/2021/04/13/revista-del-consejo-monetario-centroamericano-abre-espacio-para-recibir-publicaciones-para-segundo-volumen-2021/",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "estadísticas",
+    "entries": [
+      {
+        "url": "https://www.bcr.gob.sv/servicios/base-de-datos-economica/",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "noticias",
+    "entries": [
+      {
+        "url": "https://www.bcr.gob.sv/category/noticias/",
+        "title": "Noticias - BCR",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "avisos",
+    "entries": [
+      {
+        "url": "https://www.bcr.gob.sv/category/avisos/",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

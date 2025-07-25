@@ -2,23 +2,118 @@
   "Bank Name": "Banky Foiben'i Madagasikara",
   "search_results": [
     {
-      "topic": "statistics",
+      "topic": "statistiques",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.banky-foibe.mg/assets/data/",
-                "title": "Index of /assets/data",
-                "text": "Index of /assets/data ; [ ], coeff-reserve.json, 2022-03-31 15:00 ; [ ], cours-devise.json, 2022-03-31 15:00 ; [ ], derniere-operation.json, 2022-03-31 15:00 ...",
+                "url": "https://www.banky-foibe.mg/actualite/bulletin-bfm-mars-2024",
+                "title": "Pièce de monnaie - Banky Foiben'i Madagasikara",
+                "text": "Taux d'inflation % (glissement du Nouvel Indice des Prix à la Consommation : base 100 en 2016) en mai 2025. 8,1%. Collaborer avec BFM. Appel à manifestation d'intérêts. Foire aux questions. Vous avez besoins d'informations. Consulter. Liens Rapides. Offres d'emploi · Décision de politique Monétaire ...",
                 "source": "Banky Foiben'i Madagasikara",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
                 "position": 1
+              },
+              {
+                "url": "https://www.banky-foibe.mg/admin/wp-content/uploads/2020/05/BULLETIN-DE-BFM-D%C3%A9cembre-2019.pdf",
+                "title": "BULLETIN-DE-BFM-Décembre-2019 ...",
+                "text": "CONJONCTURE ECONOMIQUE ET MONETAIRE. AU COURS DU QUATRIEME TRIMESTRE 2019. 13. L'Activité Economique. 15. L'Evolution Globale des Activités Economiques. 15. L'Evolution de la Demande. 15. L'Evolution de la Production Sectorielle. 17. L'Inflation. 21. La Balance des Paiements. 23. La Balance Commerciale.",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "position": 2
+              },
+              {
+                "url": "https://www.banky-foibe.mg/admin/wp-content/uploads/2024/08/BULLETIN-BFM-%E2%80%93-Conjoncture-%C3%A9conomique-%E2%80%93-Premier-trimestre-de-2024.pdf",
+                "title": "CONJONCTURE TRIMESTRIELLE - Premier Trimestre 2024",
+                "text": "En glissement annuel, le taux d'inflation a enregistré un accroissement de 7,3 %, contre 12,4 % en 2023 et 6,2 % en 2022.",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "published_time": "2024-08-20T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.banky-foibe.mg/admin/wp-content/uploads/2019/08/Bulletin-de-BFM-Mars-2019.pdf",
+                "title": "Bulletin-de-BFM-Mars-2019.pdf - Banky Foiben'i Madagasikara",
+                "text": "Prévision de ralentissement de la croissance économique mondiale selon les perspectives du FMI : 3,3 pour cent prévue cette année, après 3,6 pour cent en 2018 et 3,8 pour cent en 2017. Cette situation serait due, entre autres, à des tensions commerciales entre les Etats-Unis et la Chine, ...",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "published_time": "2019-03-15T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.banky-foibe.mg/admin/wp-content/uploads/2020/08/BULLETIN-DE-BFM-Mars-2020.pdf",
+                "title": "sommaire - Banky Foiben'i Madagasikara",
+                "text": "CONJONCTURE ECONOMIQUE ET MONETAIRE. AU COURS DU PREMIER TRIMESTRE 2020. 13. L'Activité Economique. 15. L'Evolution Globale des Activités Economiques. 15. L'Evolution de la Demande. 15. L'Evolution de la Production Sectorielle. 17. L'Inflation. 19. La Balance des Paiements.",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "published_time": "2020-03-15T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistiques bulletin données statistiques données bulletin pdf",
+            "Statistiques bulletin données statistiques données bulletin 2021",
+            "Statistiques bulletin données statistiques données bulletin 2022"
+          ],
+          "query": {
+            "q": "site:https://www.banky-foibe.mg/ (inurl:statistiques OR inurl:bulletin OR inurl:données) OR (intitle:statistiques OR intitle:données OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "politique_monétaire",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banky-foibe.mg/actualite/categorie/decision-de-politique-monetaire/page/1",
+                "title": "Décision de politique Monétaire - Banky Foiben'i Madagasikara",
+                "text": "Aucune actualité n'est disponible pour le moment, merci de revenir plus tard. banner. Pièce de monnaie. En or commemorative. Inscription ici. Principaux indicateurs. logo. TAHA. (Taha miAntoka ny Herin'ny Ariary). graph 12.81 %. 30 | 06 | 2025. Tout voir. Taux de change du 01/07/2025. Cours de référence ...",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "position": 1
+              },
+              {
+                "url": "https://www.banky-foibe.mg/politique-monetaire-2",
+                "title": "Banky Foiben'i Madagasikara",
+                "text": "Taux d'inflation % (glissement du Nouvel Indice des Prix à la Consommation : base 100 en 2016) en mai 2025. 8,1%. Collaborer avec BFM. Appel à manifestation d'intérêts. Foire aux questions. Vous avez besoins d'informations. Consulter. Liens Rapides. Offres d'emploi · Décision de politique Monétaire · Listes des ...",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "position": 2
+              },
+              {
+                "url": "https://www.banky-foibe.mg/politique-",
+                "title": "Pièce de monnaie - Banky Foiben'i Madagasikara",
+                "text": "Taux d'inflation % (glissement du Nouvel Indice des Prix à la Consommation : base 100 en 2016) en mars 2025. 8,4%. Collaborer avec BFM. Appel à manifestation d'intérêts. Foire aux questions. Vous avez besoins d'informations. Consulter. Liens Rapides. Offres d'emploi · Décision de politique Monétaire ...",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "position": 3
+              },
+              {
+                "url": "https://www.banky-foibe.mg/admin/wp-content/uploads/2019/10/R%C3%A9formes-du-cadre-op%C3%A9rationnel-de-la-politique-mon%C3%A9taire.pdf",
+                "title": "Réformes du cadre opérationnel de la politique monétaire",
+                "text": "La régulation du niveau de la base monétaire permet de limiter la pression sur la demande globale et in fine sur le prix. Le corridor de taux d ...",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=banky-foibe.mg",
+                "published_time": "2019-10-25T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.banky-foibe.mg/actualite/categorie/decision-de-politique-monetaire/page/1",
+                "title": "Banky Foiben'i Madagasikara",
+                "source": "Banky Foiben'i Madagasikara",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.banky-foibe.mg&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.banky-foibe.mg/register_banner.png",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.banky-foibe.mg/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.banky-foibe.mg/ (inurl:politique OR inurl:régulations OR inurl:directives) OR (intitle:politique OR intitle:régulations)"
           }
         }
       ]

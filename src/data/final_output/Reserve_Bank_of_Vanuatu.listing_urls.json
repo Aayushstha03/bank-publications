@@ -3,22 +3,22 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.rbv.gov.vu/index.php/en/annual-reports",
-        "title": "Annual Reports - Reserve Bank of Vanuatu",
-        "text": "Articles in category Annual Reports. Title. 2023 Annual Report · 2022 Annual Report · 2021 Annual Report · 2020 Annual Report · 2019 Annual Report.",
+        "url": "https://www.rbv.gov.vu/index.php/en/research-publications",
+        "title": "Quarterly Economic Reviews - Reserve Bank of Vanuatu",
+        "text": "Articles in category Quarterly Economic Reviews. Title. 2024 Quarterly Economic Reviews · 2023 Quarterly Economic Reviews · 2022 Quarterly Economic Reviews.",
         "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.rbv.gov.vu/index.php/en/annual-reports?layout=blog",
-        "title": "Annual Reports - Reserve Bank of Vanuatu",
-        "text": "Annual Reports Published and Updated on a Yearly Basis. 2023 Annual Report Below, you can download the RBV 2023 Annual Report Attachements.",
-        "listing_probability": 0.1
       },
       {
         "url": "https://www.rbv.gov.vu/index.php/en/component/content/category/19-annual-reports?layout=blog&Itemid=60&start=8",
         "title": "2007 Annual Report - Reserve Bank of Vanuatu",
         "text": "Annual Reports Published and Updated on a Yearly Basis. 2006 Annual Report Below, you can download the RBV 2006 Annual Report Attachements.",
-        "listing_probability": 0.05
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbv.gov.vu/index.php/en/research-publications?layout=blog",
+        "title": "2024 Quarterly Economic Reviews - Reserve Bank of Vanuatu",
+        "text": "Economic Reviews Published and Updated on a Quarterly Basis. 2024 Quarterly Economic Reviews. Below you can download the Quarterly Economic Reviews for the year ...",
+        "listing_probability": 0.92
       }
     ]
   },
@@ -29,7 +29,7 @@
         "url": "https://www.rbv.gov.vu/index.php/en/e-gdds-statistics",
         "title": "e_GDDS-Statistics - Reserve Bank of Vanuatu",
         "text": "National Summary Data Page (NSDP)-Vanuatu. Data linked from this page correspond to data described in the International Monetary Fund's DSBB.",
-        "listing_probability": 0.15
+        "listing_probability": 0.2
       }
     ]
   },
@@ -43,16 +43,16 @@
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.rbv.gov.vu/index.php/en/monetary-policy/statements-on-monetary-policy/361-2024-monetary-policy-statement",
-        "title": "2024 Monetary Policy Statement - Reserve Bank of Vanuatu",
-        "text": "Below you can view/download 2024 Monetary Policy Statements. Monetary Policy Quick Links Research and Publications Media Releases Statistics",
+        "url": "https://www.rbv.gov.vu/index.php/en/financial-stability/prudential-framework/69-prudential-guidelines-for-domestic-banks",
+        "title": "Prudential Guidelines for Domestic Banks",
+        "text": "Prudential Guidelines for Domestic Banks. Below you can download our prudential guidelines for Domestic Banks.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.rbv.gov.vu/index.php/fr/component/content/category/16-monetary-policy-statements?layout=blog&Itemid=58&start=8",
-        "title": "2016 Monetary Policy Statement - Reserve Bank of Vanuatu",
-        "text": "RESERVES ETRANGERES ; Mois d'importation: Septembre 2023. 8.3% ; LIQUIDITE MARS 2020 ; Réserves excédentaires, 32,195.1 MVT ; MONNAIE ET CREDIT (MARS 2020).",
-        "listing_probability": 0.95
+        "url": "https://www.rbv.gov.vu/index.php/en/monetary-policy/monetary-policy-instruments",
+        "title": "Monetary Policy Instruments - Reserve Bank of Vanuatu",
+        "text": "In conducting Monetary Policy, the Reserve Bank has the following instruments at its disposal: Statutory Reserve Deposit – the Statutory Reserve Deposit ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -60,22 +60,28 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.rbv.gov.vu/index.php/en/press-release-2024",
-        "title": "Press Releases - 2024 - Reserve Bank of Vanuatu",
-        "text": "Press Releases for 2024 ; TENDER NOTICE: PROPOSALS FOR INTERNAL AUDIT SERVICES, 159 KB, PDF download ; PUBLIC NOTICE - MISUSE OF RBV NAME, 267 KB, PDF download.",
-        "listing_probability": 1.0
+        "url": "https://www.rbv.gov.vu/index.php/en/speech",
+        "title": "Speeches - Reserve Bank of Vanuatu",
+        "text": "RBV ECONOMIC SYMPOSIUM 2025 - KEYNOTE SPEECHES. Read more: RBV ECONOMIC SYMPOSIUM 2025 - KEYNOTE SPEECHES. Exchange Rates. Countries: Date: 8-July-2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbv.gov.vu/index.php/en/speech/387-rbv-economic-symposium-2025-keynote-speeches",
+        "title": "RBV ECONOMIC SYMPOSIUM 2025 - KEYNOTE SPEECHES",
+        "text": "RBV ECONOMIC SYMPOSIUM 2025 - KEYNOTE SPEECHES ; OPENING REMARKS BY THE HONORABLE JOHNY KOANAPO RASOU, 230KB, PDF ...",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.rbv.gov.vu/index.php/en/press-releases",
         "title": "Press Releases - Reserve Bank of Vanuatu",
         "text": "Press Releases for 2025 ; Title. File Size. Download ; June 2025 RBV MONETARY POLICY STANCE. 503 KB. PDF download ; March 2025 RBV MONETARY POLICY STANCE, 429 KB ...",
-        "listing_probability": 1.0
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.rbv.gov.vu/index.php/en/speech/387-rbv-economic-symposium-2025-keynote-speeches",
-        "title": "RBV ECONOMIC SYMPOSIUM 2025 - KEYNOTE SPEECHES",
-        "text": "RBV ECONOMIC SYMPOSIUM 2025 - KEYNOTE SPEECHES ; OPENING REMARKS BY THE HONORABLE JOHNY KOANAPO RASOU, MINISTER OF FINANCE AND ECONOMIC MANAGEMENT, 230KB, PDF ...",
-        "listing_probability": 1.0
+        "url": "https://www.rbv.gov.vu/index.php/en/press-releases-2023",
+        "title": "Press Releases - 2023 - Reserve Bank of Vanuatu",
+        "text": "Press Releases for 2023 ; RBV INCREASES STATUTORY RESERVE DEPOSIT, 392 KB, PDF download ; RBV NOTICE OF TEMPORARY SUSPENSION 29 DEC. 539 KB, PDF download.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -86,7 +92,7 @@
         "url": "https://www.rbv.gov.vu/index.php/en/working-papers",
         "title": "RBV - Griffith University Joint Policy Working Papers",
         "text": "Text of published papers and the titles of upcoming authors can be found on South Pacific Centre for Central Banking on the Griffith Asia Institute webpage.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       }
     ]
   }

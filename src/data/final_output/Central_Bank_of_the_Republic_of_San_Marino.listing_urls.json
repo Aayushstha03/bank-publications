@@ -3,10 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.bcsm.sm/en/publications-and-statistics",
+        "url": "https://www.bcsm.sm/en/publications-and-statistics?hsLang=en",
         "title": "Publications and Statistics - BCSM",
-        "text": null,
+        "text": "Discover the official publications and statistics of Central Bank of the Republic of San Marino: up-to-date economic reports and financial data.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics/summary-reports?hsLang=en",
+        "title": "Summary reports - BCSM",
+        "text": "Access the Consecutive Reports of the Central Bank of San Marino: detailed analysis and annual results on the economic and financial system.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics/financial-system-and-banking-statistics",
+        "title": "Financial System and Banking statistics - BCSM",
+        "text": "Explore statistical data on San Marino's financial system: reports, analysis and periodic updates by the Central Bank.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics/quarterly-information-bulletin",
+        "title": "Quarterly Information Bulletin - BCSM",
+        "text": "Discover the Quarterly Information Bulletin of the Central Bank of the Republic of San Marino: economic data, statistical analysis and updates.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcsm.sm/en/function/other-functions/depositors-guarantee-fund/annual-accounting-reports",
+        "title": "Annual accounting reports - CBSM",
+        "text": "Annual accounting reports ; 2023. Annual reporting 2023. Download the PDF ; 2022. Annual reporting 2022. Download the PDF ; 2021. Annual reporting 2021. Download ...",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -16,8 +40,8 @@
       {
         "url": "https://www.bcsm.sm/en/publications-and-statistics/quarterly-information-bulletin",
         "title": "Quarterly Information Bulletin - BCSM",
-        "text": "Discover the Quarterly Information Bulletin of the Central Bank of the Republic of San Marino: economic data, statistical analysis and updates.",
-        "listing_probability": 0.8
+        "text": "The data in the Bulletin are now presented in greater detail than before, providing the public with more comprehensive insights into the dynamics of the year.",
+        "listing_probability": 0.2
       },
       {
         "url": "https://www.bcsm.sm/en/publications-and-statistics",
@@ -29,7 +53,19 @@
         "url": "https://www.bcsm.sm/en/publications-and-statistics/financial-system-and-banking-statistics",
         "title": "Financial System and Banking statistics - BCSM",
         "text": "Explore statistical data on San Marino's financial system: reports, analysis and periodic updates by the Central Bank.",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bcsm.sm/en/publications-and-statistics/e-gdds",
+        "title": "e-GDDS - BCSM",
+        "text": "e-GDDS is an advanced statistical data dissemination system established in 2015 to support countries in improving data transparency.",
+        "listing_probability": 0.25
+      },
+      {
+        "url": "https://www.bcsm.sm/en/functions/statutary-functions/monetary-financial-credit-and-currency-statistics",
+        "title": "Monetary, financial, credit and currency statistics - BCSM",
+        "text": "This section presents key performance data related to market structure, intermediary volume dynamics, credit quality, capital, and profitability.",
+        "listing_probability": 0.8
       }
     ]
   },
@@ -49,9 +85,21 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bcsm.sm/en/regulations/law-and-decrees/payment-systems-regulations",
-        "title": "Payment systems regulations - CBSM",
-        "text": "Learn about payment systems regulations: updated laws and decrees for safe and compliant handling of financial transactions.",
+        "url": "https://www.bcsm.sm/en/laws-and-regulations/recommendations",
+        "title": "Recommendations - BCSM",
+        "text": "See the recommendations of the Central Bank of San Marino: guidelines and suggestions for the banking and financial sector.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcsm.sm/en/laws-and-regulations/cbsm-provisions?hsLang=en",
+        "title": "CBSM Provisions - BCSM",
+        "text": "The regulatory measures issued by the Central Bank are divided into regulations and circulars. The regulations are \"general and abstract\" measures of a binding ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcsm.sm/en/laws-and-regulations/laws-and-decrees",
+        "title": "Laws and decrees - BCSM",
+        "text": "This section of the website offers insights into the regulations that guide the Central Bank's supervisory functions and responsibilities.",
         "listing_probability": 0.9
       }
     ]
@@ -70,6 +118,46 @@
         "title": "News from Supervised Parties - BCSM",
         "text": "See the notices from the supervised published by the Central Bank of the Republic of San Marino for transparency and up-to-date information.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcsm.sm/en/press-room/media-contacts",
+        "title": "Communication and media contacts - BCSM",
+        "text": "Find communication and media contacts of the Central Bank of San Marino: information, press releases and media support.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcsm.sm/en/news/memorandum-of-understanding-signed-with-the-institute-for-innovation-of-the-republic-of-san-marino?hs_amp=true",
+        "title": "CBSM signs Memorandum of Understanding with the Institute for ...",
+        "text": "The Central Bank of the Republic of San Marino has signed a Memorandum of Understanding with the Institute for Innovation of the Republic of San Marino.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcsm.sm/en/news/sottoscritto-accordo-per-il-rinnovo-dei-contratti-di-lavoro-per-il-personale-dipendente-della-banca-centrale-della-repubblica-di-san-marino?hs_amp=true",
+        "title": "Agreement signed on the renewal of labor contracts for employees of the ...",
+        "text": "The increases include the recognition of a 1.5 percent one-time increase for 2022, and a 2 percent annual increase for the four-year period 2023-2026.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bcsm.sm/en/services-to-the-public/services/news-from-supervised-parties",
+        "title": "Notices from probationers - BCSM",
+        "text": "See alerts from the supervised: official communications and updates from financial institutions under BCSM supervision.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bcsm.sm/en/press-room/media-contacts",
+        "title": "Communication and media contacts - BCSM",
+        "text": "Find communication and media contacts of the Central Bank of San Marino: information, press releases and media support.",
+        "listing_probability": 0.05
       }
     ]
   }

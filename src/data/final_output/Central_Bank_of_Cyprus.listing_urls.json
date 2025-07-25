@@ -1,1 +1,175 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/publications",
+        "title": "Publications - Central Bank of Cyprus",
+        "text": "1. Main publications. Annual Report · Economic Bulletin · 2. Other economic, monetary and finance reports. Monetary Policy Implementation in Cyprus · 3.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.centralbank.cy/en/publications/annual-report",
+        "title": "Annual Report - Central Bank of Cyprus",
+        "text": "The Annual Report includes a short analysis of economic developments, a description of the CBC's functions as well as the Financial Statements.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cy/en/publications/financial-stability-report",
+        "title": "Financial Stability Report - Central Bank of Cyprus",
+        "text": "The purpose of this analysis is to promote awareness of issues that are relevant for safeguarding the stability of the Cyprus financial system.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cy/en/publications/working-papers",
+        "title": "Working Papers - Central Bank of Cyprus",
+        "text": "This paper presents updated estimates of short-run elasticities for the fiscal variables that depend upon the economic cycle for Cyprus.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.cy/en/publications/discontinued-publications/monetary-policy-report",
+        "title": "Monetary Policy Report - Central Bank of Cyprus",
+        "text": "The MPR appeared about eight times a year and contained an overview of current domestic and international economic developments.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/publications/statistical-bulletin",
+        "title": "Statistical Bulletin - Central Bank of Cyprus",
+        "text": "This Statistical Bulletin is a new quarterly publication of the Statistics Department of the Central Bank of Cyprus. The purpose of this bulletin is to provide ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.centralbank.cy/en/statistics/external-statistics",
+        "title": "External Statistics - Central Bank of Cyprus",
+        "text": "The external statistics include data on balance of payments, international investment position, external debt and foreign exchange reserves.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.centralbank.cy/en/statistics",
+        "title": "Statistics - Central Bank of Cyprus",
+        "text": "The Central Bank of Cyprus, as a member of the European System of Central Banks (ESCB), collects, compiles and disseminates a wide range of statistics\n.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.cy/en/statistics/money-and-banking-statistics-and-financial-accounts/data/payment-statistics",
+        "title": "Payment Statistics - Central Bank of Cyprus",
+        "text": "The CBC publishes on a bi-annual basis a statistical report on Payment Statistics, which provides an overview of the main developments in non-cash payments ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.centralbank.cy/en/announcements/statistical-bulletin-october-2024-20-12-2024",
+        "title": "Statistical Bulletin October 2024 - Central Bank of Cyprus",
+        "text": "The Statistical Bulletin is published quarterly by the Statistics Department of the Central Bank of Cyprus and includes a wide range of monthly, quarterly and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/licensing-supervision/banks/supervisory-disclosure/rules-and-guidance",
+        "title": "Laws, regulations, administrative rules and general guidance",
+        "text": "Laws, regulations, administrative rules and general guidance · Regulation (EU) 575/2013 of the European Parliament and the Council and any amending regulations ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/the-governor/previous-governor-s-speeches",
+        "title": "Previous Governors' Speeches - Central Bank of Cyprus",
+        "text": "Previous Governors' Speeches · Constantinos Herodotou · Chrystalla Georghadji · Panicos O. Demetriades · Athanasios Orphanides.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.cy/en/the-governor/governor-speeches",
+        "title": "Governor's Speeches - Central Bank of Cyprus",
+        "text": "Date Published: 07/02/2025. Keynote Address by the Governor of the Central Bank of Cyprus, Mr. Christodoulos Patsalides, at the Cyprus Shipping Chamber ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.centralbank.cy/en/the-governor/governor-speeches/16-01-2025",
+        "title": "Speech by the Governor of the Central Bank of Cyprus at the 12th Banking ...",
+        "text": "Today, I will outline our key priorities, including advancements in the digital economy, the evolving role of digital payments, the potential ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.cy/en/the-governor/governor-speeches/gov-speech-the-economy-of-cyprus-developments-and-outlook-07-04-2025",
+        "title": "Speech by the Governor of the Central Bank of Cyprus at the 3rd Capital ...",
+        "text": "It is a great pleasure to address the 3rd Capital Link Cyprus Business Forum here in New York, a city that has long served as a global hub for ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.cy/en/the-governor/governor-speeches/navigating-econ-challenges-strat-for-fin-resilience-and-growth-22-05-2025",
+        "title": "Navigating Economic Challenges: Strategies for Financial Resilience ...",
+        "text": "Advances in digital technology, automation, artificial intelligence, and new financial innovations are transforming industries, challenging ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/publications/working-papers",
+        "title": "Working Papers - Central Bank of Cyprus",
+        "text": "This paper presents updated estimates of short-run elasticities for the fiscal variables that depend upon the economic cycle for Cyprus.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/announcements",
+        "title": "Announcements - Central Bank of Cyprus",
+        "text": "Announcements · Financial Stability Report 2024 · Aggregate Cyprus banking sector data (non-performing loans data) with reference date 31 March 2025 · Aggregate ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.cy/en/announcements/cbc-balance-sheet-as-at-the-end-of-april-2025-19-05-2025",
+        "title": "Central Bank of Cyprus balance sheet as at the end of April 2025",
+        "text": "The Central Bank of Cyprus (CBC) has published the CBC balance sheet as at the end of April 2025. Click here.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cy/en/announcements/12-12-2024",
+        "title": "Procedure for the submission of requests for ... - Central Bank of Cyprus",
+        "text": "Following the announcement of the Central Bank of Cyprus (CBC), dated 6 December 2024, that it is in the process of developing a new ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cy/en/announcements/18032014-2",
+        "title": "Announcement by the Ministry of Finance ... - Central Bank of Cyprus",
+        "text": "The Ministry of Finance, the Ministry of Energy, Commerce, Industry and Tourism and the Central Bank of Cyprus wish to draw the attention of ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.cy/en/announcements/02-05-2025",
+        "title": "The Prevention of Money Laundering and Terrorist Financing Directive of ...",
+        "text": "The Central Bank of Cyprus (CBC) announces the publication of the Prevention of Money Laundering and Terrorist Financing Directive of 2025.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.centralbank.cy/en/publications/working-papers/file-working-paper-2008-1-imperfect-central-bank-communication-information-versus-distraction",
+        "title": "Working Paper 2008-1: Imperfect Central Bank Communication",
+        "text": "The Central Bank of Cyprus (CBC) was established in 1963, shortly after Cyprus gained its independence, in accordance with the Central Bank of Cyprus Law, 1963.",
+        "listing_probability": 0.0
+      }
+    ]
+  }
+]

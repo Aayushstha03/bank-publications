@@ -2,6 +2,65 @@
   "Bank Name": "Central Bank of the Russian Federation",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbr.ru/eng/about_br/publ/",
+                "title": "Publications | Bank of Russia",
+                "text": "An official Bank of Russia publication that features regulations and other acts of the Bank of Russia, as well as informational, statistical and analytical ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2025-03-14T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbr.ru/Content/Document/File/131798/Unint_Cons.pdf",
+                "title": "High-Level Synopsis of the Stocktake of the Unintended Consequences ...",
+                "text": "The unintended consequences of FATF standards include de-risking, which restricts access to financial services, and financial exclusion, which ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2021-10-27T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbr.ru/Content/Document/File/149569/EBA.PDF",
+                "title": "EBA REPORT ON ML/TF RISKS ASSOCIATED WITH PAYMENT ...",
+                "text": "ML/TF risks include those linked to customers, geographical, products/services, delivery channels, outsourcing, and emerging risks. Payment ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2023-06-16T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/Content/Document/File/174976/FATF_AR_2324.pdf",
+                "title": "Annual Report - FATF",
+                "text": "AML. Anti-money laundering. APG. Asia-Pacific Group on Money Laundering. CFATF. Caribbean Financial Action Task Force.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2024-06-30T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "http://www.cbr.ru/content/document/file/170657/nra_ml_g.pdf",
+                "title": "Money Laundering National Risk Assessment Guidance - FATF",
+                "text": "This is the Money Laundering National Risk Assessment Guidance from the FATF, an inter-governmental body that protects the global financial system against ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.cbr.ru/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
@@ -30,6 +89,23 @@
                 "source": "Центральный Банк России",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/collection/collection/file/39270/bbs0002e.pdf",
+                "title": "BULLETIN OF BANKING STATISTICS",
+                "text": "The following changes have been introduced into the structure and methodology of forming the indicators some tables in the quarterly supplement “Performance ...",
+                "source": "Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbr.ru/eng/statistics/statpubl/",
+                "title": "Statistics digests | Bank of Russia",
+                "text": "Statistical publication 'Financial accounts of the system of national accounts of the Russian Federation' No. 5 • 2012 – 2023",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2025-02-06T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -39,7 +115,7 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.cbr.ru/eng/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.cbr.ru/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -51,18 +127,57 @@
           "results": {
             "web": [
               {
-                "url": "https://www.cbr.ru/eng/ec_research/variations-in-the-effects-of-a-single-monetary-policy-the-case-of-russian-regions/",
-                "title": "Variations in the Effects of a Single Monetary Policy",
-                "text": "This paper analyses regional heterogeneity in the reaction of core inflation to shocks of a common monetary policy on the example of Russia.",
+                "url": "https://www.cbr.ru/eng/about_br/publ/ondkp/on_2025_2027/",
+                "title": "Monetary Policy Guidelines for 2025-2027 | Bank of Russia",
+                "text": "In the Monetary Policy Guidelines, the Bank of Russia each year describes the goals of monetary policy and approaches to its implementation ...",
                 "source": "Центральный Банк России",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
-                "published_time": "2021-06-15T00:00:00",
+                "published_time": "2024-10-30T00:00:00",
                 "position": 1
+              },
+              {
+                "url": "https://www.cbr.ru/eng/dkp/",
+                "title": "Monetary Policy | Bank of Russia",
+                "text": "Monetary policy is a part of state economic policy aimed at improving Russian citizens' welfare. Its priority is to ensure price stability.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbr.ru/eng/about_br/publ/ondkp/on_2024_2026/",
+                "title": "Monetary Policy Guidelines for 2024-2026 | Bank of Russia",
+                "text": "In the Monetary Policy Guidelines, the Bank of Russia each year describes the goals of monetary policy and approaches to its implementation ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2023-11-02T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/eng/about_br/publ/ondkp/",
+                "title": "Guidelines for the Single State Monetary Policy | Bank of Russia",
+                "text": "Guidelines for the Single State Monetary Policy. Monetary Policy Guidelines for 2025–2027 · Monetary Policy Guidelines for 2024–2026.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2024-10-30T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbr.ru/eng/about_br/publ/ddkp/",
+                "title": "Monetary Policy Report | Bank of Russia",
+                "text": "From February 2024, the Bank of Russia stopped the publication of the Monetary Policy Report. Instead, the Bank of Russia releases the Summary of the Key Rate ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:http://www.cbr.ru/eng/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.cbr.ru/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -82,25 +197,270 @@
                 "position": 1
               },
               {
-                "url": "https://www.cbr.ru/eng/banking_sector/news/",
-                "title": "News | Bank of Russia",
-                "text": "NewsSpeechesWhat's new. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
-                "source": "Банк России",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
-                "position": 2
-              },
-              {
                 "url": "https://www.cbr.ru/eng/inside/news/",
                 "title": "News | Bank of Russia",
                 "text": "NewsPress releasesSpeeches. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
                 "source": "Банк России",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbr.ru/eng/cash_circulation/news/",
+                "title": "News | Bank of Russia",
+                "text": "NewsPress releasesSpeechesWhat's new. Search. Choose period. Show all. Show all. Choose period. DD.MM.YYYY - DD.MM.YYYY. DD.MM.YYYY. -. DD.MM.YYYY. PrevNext.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/eng/banking_sector/news/",
+                "title": "News | Bank of Russia",
+                "text": "01 July 2025 News Social bank accounts and deposits now accessible to low-income individuals 30 June 2025 News Digital ruble today and tomorrow: Bank of Russia ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbr.ru/eng/press/keypr/",
+                "title": "Bank of Russia cuts the key rate by 100 bp to 20.00% p.a.",
+                "text": "On 6 June 2025, the Bank of Russia Board of Directors decided to cut the key rate by 100 basis points to 20.00% per annum.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-06T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.cbr.ru/eng/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.cbr.ru/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbr.ru/Content/Document/File/87560/wp_20_e.pdf",
+                "title": "WORKING PAPER SERIES",
+                "text": "In this section we give some description of the main papers covering the research of different financial market segments (Table 1). The analysis of existing ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbr.ru/eng/ec_research/ser/",
+                "title": "Bank of Russia Working Papers",
+                "text": "Bank of Russia Working Papers · Environmental and Climate Factors of Corporate Lending in Russia · Financial literacy impact on the inflation expectations' ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbr.ru/Content/Document/File/87591/wp37_e.pdf",
+                "title": "WORKING PAPER SERIES",
+                "text": "We develop a stock-flow-consistent agent-based model that comprises a realistic mechanism of money creation and parametrize it to fit actually observed data ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/statichtml/file/149785/wp_113_e.pdf",
+                "title": "Inequality and Monetary Policy: THRANK model",
+                "text": "Bank of Russia Working Paper Series is anonymously refereed by members of the Bank of Russia Research. Advisory Board and external reviewers. The views ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbr.ru/content/document/file/87587/wp34_e.pdf",
+                "title": "WORKING PAPER SERIES - When are credit gap estimates reliable?",
+                "text": "We evaluate the reliability of credit gap measures estimated over time samples of different lengths. We augment our empirical analysis (which turned out to ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbr.ru/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbr.ru/eng/params/",
+                "title": "Bank of Russia's latest operational announcements",
+                "text": "Latest operational announcements, deposit auctions, REPO auctions, Bank of Russia bonds, auctions, factors affecting banking sector liquidity.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbr.ru/eng/hd_base/dirrepoauctionparam/",
+                "title": "Repo Auction Announcements | Bank of Russia",
+                "text": "Repo Auction Results: BoR Repos On the estimation of the limits on the Bank of Russia auction-based liquidity providing (absorbing) operations.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbr.ru/eng/press/event/?id=25790",
+                "title": "Bank of Russia updates criteria for obtaining qualified investor status",
+                "text": "The regulator has specified the size of income as an independent criterion for obtaining the status of a qualified investor.",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2025-07-17T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "http://www.cbr.ru/eng/dkp/depoparams/",
+                "title": "Deposit Auction Announcements | Bank of Russia",
+                "text": "Deposit Auction Announcements ; 03.06.2025, Fine-tuning auction, 1 day ; 06.05.2025, Fine-tuning auction, 1 day ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbr.ru/eng/hd_base/obr/odrpi/",
+                "title": "Bank of Russia Bond Auction Announcements",
+                "text": "Bank of Russia bond auction announcements include auction date, security number, settlement, issue, maturity, coupon type, rate, amount offered, and minimum ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.cbr.ru/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbr.ru/Content/SaveToPdf/Page?url=/press/event/?id=6887",
+                "title": "Bank of Russia alerts insurers about unfair practices | Банк России",
+                "text": "According to the regulator, it is inadmissible when insurers force a victim to conclude a tripartite agreement with a car service shop and an insurance ...",
+                "source": "Центральный банк Российской Федерации",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.cbr.ru/Content/SaveToPdf/Page?url=%2Fpress%2Fevent%2F%3Fid%3D9611",
+                "title": "Regulator recommends banks to give more scam alerts to their customers",
+                "text": "The recommendations suggest that information on how to avoid phone and Internet scams is placed in online banking applications, on bank websites, ...",
+                "source": "Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.cbr.ru/Content/SaveToPdf/Page?url=/press/pr/?file=01062020_133215pr_eng_20200601_01.htm",
+                "title": "Notices of intent to buy Asian-Pacific Bank's equity considered",
+                "text": "Given that the parties concerned lack confidence due to the COVID-19 pandemic and in order to expand the range of bidders and achieve an adequate price for ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/eng/press/pr/?id=33349",
+                "title": "Bank of Russia commences acceptance of notices of intent to ...",
+                "text": "Parties interested in acquiring the Bank's shares are invited to send their notices of intent to the Bank of Russia from 11 October 2021 to 22 ...",
+                "source": "Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2021-08-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "http://www.cbr.ru/eng/press/pr/?id=32109",
+                "title": "Bank of Russia commences acceptance of notices of intent to ...",
+                "text": "The Bank of Russia has announced that it launches the acceptance of notices1 from those interested in buying Joint stock company ...",
+                "source": "Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "published_time": "2021-04-30T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbr.ru/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "http://www.cbr.ru/content/document/file/126193/sto_br_nps-8.0-2020.pdf",
+                "title": "The Bank of Russia Standard FINANCIAL MESSAGES IN THE NPS ...",
+                "source": "www.cbr.ru",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http://www.cbr.ru&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///c75944959d469248b34d32feaef2057150904e0c36ab856fef4b785d0b9ea374",
+                "position": 1
+              },
+              {
+                "url": "http://www.cbr.ru/Content/SaveToPdf/Page?url=%2Fpress%2Fevent%2F%3Fid%3D12275",
+                "title": "Communication with consumers via financial institutions ...",
+                "source": "Банк России",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http://www.cbr.ru&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///852331828584269737d6d26905025f691bba9725304f076408586a976c15d0fa",
+                "position": 2
+              },
+              {
+                "url": "http://www.cbr.ru/Content/Document/File/157927/STO_BR_NPS-4.5-2023.pdf",
+                "title": "The Bank of Russia Standard FINANCIAL MESSAGES IN THE NPS ...",
+                "source": "www.cbr.ru",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http://www.cbr.ru&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///8dc8e3f7e570507ca53a2862d0e98943989b069304b6118fd25f36ac0d38c889",
+                "position": 3
+              },
+              {
+                "url": "https://www.cbr.ru/content/document/file/146640/analytic_note_march23_e.pdf.pdf",
+                "title": "COMMUNICATION ON MONETARY POLICY DECISIONS AND MACROECONOMIC ...",
+                "source": "www.cbr.ru",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbr.ru&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///6926a1c5d8e00b0ab9f796ae7a533933c46611abc51475e250d9a4b2a89bdbf4",
+                "position": 4
+              },
+              {
+                "url": "https://www.cbr.ru/content/document/file/146640/analytic_note_march23_e.pdf.pdf",
+                "title": "Communication on Monetary Policy Decisions and Macroeconomic ...",
+                "text": "Communication on a decision is the primary source of information about monetary policy decisions made by central banks. A statement and a press release are the ...",
+                "source": "Центральный Банк России",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEyKio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio2Kio13jxbuAAAADXRSTlMADDJIHIPJ/+mX27FsAn3WYAAAAQtJREFUeAGFzENDhFEYBeCT7dpk265N9ipzk5uZXfjOaJNt1ya3zbb1o7J1Lp+LF9+j4uQcrR4bbPzChMqWoZQqIeuFEVWcTmXL4LNig502a8IUgXHOj3IRzyJcNjqLyIUsQH2TgrGrvLVEZZGKaOiTcmNPckZ9kTyCFSnE5JJ15pXkMlJJ6XbrwzRJcg5h/JAaXH6k8n9mnFeSQpHLM4Voi8fKx6qVD8zlGsL5kAakPfEYlwukWAlr1mG0PN9sPaRVmlkYMJxTh7vYyl3/NHJZbVdwvoOxiveGcTg5qyI5gQoeohMwSsrM+vAS1UVSbv8qWPMhR2/UryJb/N8Il63ODON3qsQFP+h77gHBgHUzca0U1QAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Communication messages communication messages pdf",
+            "Communication messages communication messages examples"
+          ],
+          "query": {
+            "q": "site:http://www.cbr.ru/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

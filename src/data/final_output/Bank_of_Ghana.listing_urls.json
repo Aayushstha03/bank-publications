@@ -9,10 +9,28 @@
         "listing_probability": 0.98
       },
       {
+        "url": "https://www.bog.gov.gh/publications/annual-report/",
+        "title": "Annual Report - Accra - Bank of Ghana",
+        "text": "Annual report publications ; AnnRep-2024 Annual Report 2024 ; 2023 Annual Report Annual Report 2023 ; 2022-AnnualReport Annual Report 2022 ; AnnRep2021 Annual ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bog.gov.gh/publications/research-papers/",
+        "title": "Research Papers - Bank of Ghana",
+        "text": "Sector Reports. Reports on the latest developments from the banking sector. ; Articles. Articles published by the central bank based on research ; Policy Briefs.",
+        "listing_probability": 0.92
+      },
+      {
         "url": "https://www.bog.gov.gh/publications/research-papers/sector-reports/",
         "title": "Sector Reports - Bank of Ghana",
         "text": "Sector Reports · The Fishing sub-sector and Ghana's Economy · Offshore Banking and the prospects for the Ghanaian Economy · Issues on Wages and Labour · The Tourism ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.bog.gov.gh/publications/quarterly-bulletin/",
+        "title": "Quarterly Bulletin - Bank of Ghana",
+        "text": "This report presents a review of global and the domestic economic developments during the second quarter of 2023.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -23,13 +41,25 @@
         "url": "https://www.bog.gov.gh/publications/statistical-bulletin/",
         "title": "Statistical Bulletin - Bank of Ghana",
         "text": "Annual Statistical Bulletin – 2024 Download Download December 27, 2024 Quarterly Statistical Bulletin – Quarter Four, 2024 Download Download",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/econ_fin_data/",
+        "title": "Archives: Summary of Economic and Financial Data - Bank of Ghana",
+        "text": "Archives: Summary of Economic and Financial Data · Summary of Economic and Financial Data – May 2025 · Charts: Summary of Economic and Financial Charts – May 2025.",
+        "listing_probability": 0.97
       },
       {
         "url": "https://www.bog.gov.gh/economic-data/",
         "title": "Economic Data - Bank of Ghana",
         "text": "At the Central Bank, we have a duty to publish statistics on the monetary and financial system in line with our policy and regulatory responsibilities.",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bog.gov.gh/news/summary-of-economic-and-financial-data-january-2024/",
+        "title": "Summary of Economic and Financial Data – January 2024 - Bank of Ghana",
+        "text": "Browse Bank Notes & Coins, Monetary Policy, BoG Database Portal, Payment Systems, Supervision & Regulation, Treasury and the Markets, Publications, Downloads, ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -40,19 +70,31 @@
         "url": "https://www.bog.gov.gh/downloads/supervision-and-regulation-downloads/regulations-directives/",
         "title": "Regulations & Directives - Accra - Bank of Ghana",
         "text": "Regulations & Directives · AML Guidelines for Forex Bureaux · Bank of Ghana Financial Inclusion for Persons with Disabilities Directive · Draft Open Banking ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.bog.gov.gh/monetary-policy/",
-        "title": "Monetary Policy - Bank of Ghana",
-        "text": "The MPC is responsible for formulating and implementing policy in the areas of money, banking and credit to promote and preserve monetary stability.",
-        "listing_probability": 0.15
+        "url": "https://www.bog.gov.gh/notice/guidelines-for-the-government-securities-market-primary-dealers-and-bond-market-specialists/",
+        "title": "Guidelines for the Government Securities Market, Primary Dealers ...",
+        "text": "The purpose of these Guidelines is to guide the purchase of Government securities in the domestic market to the provisions in the Public Financial Management ...",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bog.gov.gh/monetary-policy/our-monetary-policy-framework/",
-        "title": "Our Monetary Policy Framework - Bank of Ghana",
-        "text": "The primary objective of the Bank of Ghana is to maintain stability in the general level of prices, as stated under section 3 of the Bank of Ghana Act 2002.",
-        "listing_probability": 0.05
+        "url": "https://www.bog.gov.gh/notice/notice-on-corporate-governance-guidelines-for-payment-service-providers/",
+        "title": "Notice on Corporate Governance Guidelines for Payment service ...",
+        "text": "These Guidelines are issued under the powers conferred by Section 101(2) (j) of the Payment Systems and Services Act, 2019 (Act 987) and in furtherance to ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bog.gov.gh/news/bank-of-ghana-guidelines-for-allocation-of-foreign-exchange-through-forward-auctions/",
+        "title": "Bank of Ghana Guidelines for Allocation of Foreign Exchange ...",
+        "text": "The Bank of Ghana (BOG) announces the following guidelines to govern the conduct of foreign exchange (FX) forward auctions on the interbank foreign exchange ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bog.gov.gh/notice/guidelines-for-inward-remittance-services-by-payment-service-providers/",
+        "title": "Guidelines for Inward Remittance Services by Payment Service ...",
+        "text": "Guidelines for Inward Remittance Services by Payment Service Providers · Ghana Gold Coin Pricing – 24th July 2025 · Ghana Gold Coin Pricing – 23rd July 2025.",
+        "listing_probability": 0.8
       }
     ]
   },
@@ -63,12 +105,12 @@
         "url": "https://www.bog.gov.gh/speeches/",
         "title": "Speeches - Bank of Ghana",
         "text": "SPEECHES · Governor's Keynote Address at the Graphic Business Stanbic Bank Breakfast Meeting · Governor Asiama Speech – 14th AFI Leaders' Roundtable · Second ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.bog.gov.gh/news_briefs/news-brief-23-07-2025/",
-        "title": "News Brief 23-07-2025 - Bank of Ghana",
-        "text": "NEWS BRIEF. Home · News Briefs. News Brief 23-07-2025. News Brief 23-07-2025. Download. Download. Apply. July 23, 2025 ...",
+        "url": "https://www.bog.gov.gh/news_briefs/news-brief-24-07-2025/",
+        "title": "News Brief 24-07-2025 - Bank of Ghana",
+        "text": "NEWS BRIEF. Home · News Briefs. News Brief 24-07-2025. News Brief 24-07-2025. Download. Download. Apply. July 24, 2025 ...",
         "listing_probability": 0.05
       },
       {
@@ -76,6 +118,18 @@
         "title": "News Briefs – Bank of Ghana",
         "text": "News Briefs. News Brief 21-07-2025. July 21, 2025. News Brief 18-07-2025. July 18, 2025. News Brief 16-07-2025. July 16, 2025. News Brief 15-07-2025.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/speeches/governors-remarks-at-a-press-soiree-to-commemorate-the-end-of-the-year/",
+        "title": "Governor's Remarks at a Press soiree to Commemorate the End of the Year",
+        "text": "Governor's Remarks at a Press soiree to Commemorate the End of the Year · Governor Asiama Speech – 14th AFI Leaders' Roundtable · Second Deputy Governor's Closing ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.bog.gov.gh/news/press-release-2/",
+        "title": "Press Release - Bank of Ghana",
+        "text": "The Bank of Ghana has taken note of a news item circulating on social media on recent dismissals by the Bank of Ghana.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -83,15 +137,44 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.bog.gov.gh/publications/research-papers/",
-        "title": "Research Papers - Bank of Ghana",
-        "text": "Sector Reports. Reports on the latest developments from the banking sector. ; Articles. Articles published by the central bank based on research ; Policy Briefs.",
+        "url": "https://www.bog.gov.gh/publications/staff-working-papers/",
+        "title": "Staff Working Papers – Bank of Ghana",
+        "text": null,
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.bog.gov.gh/publications/staff-working-papers/",
-        "title": "Staff Working Papers - Bank of Ghana",
-        "text": "This paper examines the sensitivity of the Ghanaian economy to external demand, supply and financial conditions using a Bayesian Vector Autoregression (BVAR) ...",
+        "url": "https://www.bog.gov.gh/publications/research-papers/",
+        "title": "Research Papers – Bank of Ghana",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bog.gov.gh/notice/",
+        "title": "Notices - Bank of Ghana",
+        "text": "NOTICES · Ghana Gold Coin Pricing – 23rd July 2025 · Ghana Gold Coin Pricing – 22nd July 2025 · Ghana Gold Coin Pricing – ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bog.gov.gh/resolution/resolution-notices-and-press-releases/",
+        "title": "Resolution Notices and Press Releases - Bank of Ghana",
+        "text": "Browse Bank Notes & Coins, Monetary Policy, BoG Database Portal, Payment Systems, Supervision & Regulation, Treasury and the Markets, Publications, Downloads, ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bog.gov.gh/resolution/resolution-notices-and-press-releases/resolution-press-releases/",
+        "title": "Resolution Press Releases - Accra - Bank of Ghana",
+        "text": "Government Establishes New Indigenous Bank; Bank Of Ghana Revokes Licences Of Five Banks And Appoints Receiver In Respect Of Their Assets And Liabilities.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bog.gov.gh/resolution/resolution-notices-and-press-releases/resolution-faqs/",
+        "title": "Resolution FAQs - Bank of Ghana",
+        "text": "FAQ – Revocation of licences of insolvent savings and loans companies, finance house companies, and non-bank financial institutions.",
         "listing_probability": 0.05
       }
     ]

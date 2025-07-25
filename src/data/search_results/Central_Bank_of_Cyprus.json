@@ -1,4 +1,411 @@
 {
   "Bank Name": "Central Bank of Cyprus",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/en/publications",
+                "title": "Publications - Central Bank of Cyprus",
+                "text": "1. Main publications. Annual Report · Economic Bulletin · 2. Other economic, monetary and finance reports. Monetary Policy Implementation in Cyprus · 3.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/en/publications/annual-report",
+                "title": "Annual Report - Central Bank of Cyprus",
+                "text": "The Annual Report includes a short analysis of economic developments, a description of the CBC's functions as well as the Financial Statements.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/en/publications/financial-stability-report",
+                "title": "Financial Stability Report - Central Bank of Cyprus",
+                "text": "The purpose of this analysis is to promote awareness of issues that are relevant for safeguarding the stability of the Cyprus financial system.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/en/publications/working-papers",
+                "title": "Working Papers - Central Bank of Cyprus",
+                "text": "This paper presents updated estimates of short-run elasticities for the fiscal variables that depend upon the economic cycle for Cyprus.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/en/publications/discontinued-publications/monetary-policy-report",
+                "title": "Monetary Policy Report - Central Bank of Cyprus",
+                "text": "The MPR appeared about eight times a year and contained an overview of current domestic and international economic developments.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/en/publications/statistical-bulletin",
+                "title": "Statistical Bulletin - Central Bank of Cyprus",
+                "text": "This Statistical Bulletin is a new quarterly publication of the Statistics Department of the Central Bank of Cyprus. The purpose of this bulletin is to provide ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/en/statistics/external-statistics",
+                "title": "External Statistics - Central Bank of Cyprus",
+                "text": "The external statistics include data on balance of payments, international investment position, external debt and foreign exchange reserves.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/en/statistics",
+                "title": "Statistics - Central Bank of Cyprus",
+                "text": "The Central Bank of Cyprus, as a member of the European System of Central Banks (ESCB), collects, compiles and disseminates a wide range of statistics\n.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/en/statistics/money-and-banking-statistics-and-financial-accounts/data/payment-statistics",
+                "title": "Payment Statistics - Central Bank of Cyprus",
+                "text": "The CBC publishes on a bi-annual basis a statistical report on Payment Statistics, which provides an overview of the main developments in non-cash payments ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/en/announcements/statistical-bulletin-october-2024-20-12-2024",
+                "title": "Statistical Bulletin October 2024 - Central Bank of Cyprus",
+                "text": "The Statistical Bulletin is published quarterly by the Statistics Department of the Central Bank of Cyprus and includes a wide range of monthly, quarterly and ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2024-12-20T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin predictions",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin cbn",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/en/legal-framework/licensing-supervision/regulations-directives/directives-and-guidelines-regarding-payment-services-and-payment-accounts",
+                "title": "Directives and Guidelines regarding Payment Services and Payment ...",
+                "text": "Directives and Guidelines regarding Payment Services and Payment Accounts and Electronic Money · Report of an alleged infringement · Contact Details.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/en/licensing-supervision/banks/supervisory-disclosure/rules-and-guidance",
+                "title": "Laws, regulations, administrative rules and general guidance",
+                "text": "Laws, regulations, administrative rules and general guidance · Regulation (EU) 575/2013 of the European Parliament and the Council and any amending regulations ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/en/legal-framework/licensing-supervision/regulations-directives/micar-markets-in-crypto-assets-regulation/2025-guidelines-on-the-procedures-and-policies-including-the-rights-of-clients-in-the-context-of-transfer-services-for-crypto-assets-under-the-markets-in-crypto-assets-regulation-mica-on-investor-protection",
+                "title": "Report of an alleged infringement - Central Bank of Cyprus",
+                "text": "Guidelines on the procedures and policies, including the rights of clients, in the context of transfer services for crypto-assets.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/en//legal-framework/licensing-supervision/regulations-directives/directives-regulations-and-guidelines-which-govern-the-operation-of-banks",
+                "title": "Directives and Guidelines which govern the operation of Banks",
+                "text": "Directives and Guidelines which govern the operation of Banks · CBC Directive on the Issue and Supervision of Covered Bonds of 2021 (RAA 456/2021).",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf/eurosystemoversightpolicyframework201509.en.pdf",
+                "title": "Eurosystem oversight policy framework (September 2015)",
+                "text": "Payment and settlement systems play an important role for the stability and efficiency of the financial sector and the euro area economy as a whole. For.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/en/the-governor/previous-governors/previous-governor-s-speeches",
+                "title": "Previous Governors' Speeches - Central Bank of Cyprus",
+                "text": "Previous Governors' Speeches · Constantinos Herodotou · Chrystalla Georghadji · Panicos O. Demetriades · Athanasios Orphanides.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/en/the-governor/governor-speeches",
+                "title": "Governor's Speeches - Central Bank of Cyprus",
+                "text": "Date Published: 07/02/2025. Keynote Address by the Governor of the Central Bank of Cyprus, Mr. Christodoulos Patsalides, at the Cyprus Shipping Chamber ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/en/the-governor/governor-speeches/16-01-2025",
+                "title": "Speech by the Governor of the Central Bank of Cyprus at the 12th Banking ...",
+                "text": "Today, I will outline our key priorities, including advancements in the digital economy, the evolving role of digital payments, the potential ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2025-01-16T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/en/the-governor/governor-speeches/gov-speech-the-economy-of-cyprus-developments-and-outlook-07-04-2025",
+                "title": "Speech by the Governor of the Central Bank of Cyprus at the 3rd Capital ...",
+                "text": "It is a great pleasure to address the 3rd Capital Link Cyprus Business Forum here in New York, a city that has long served as a global hub for ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2025-04-04T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/en/the-governor/governor-speeches/navigating-econ-challenges-strat-for-fin-resilience-and-growth-22-05-2025",
+                "title": "Navigating Economic Challenges: Strategies for Financial Resilience ...",
+                "text": "Advances in digital technology, automation, artificial intelligence, and new financial innovations are transforming industries, challenging ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2025-05-22T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf/2025-01.pdf",
+                "title": "WORKING PAPER SERIES Estimation of the Fiscal Elasticities for Cyprus",
+                "text": "Abstract. This paper presents updated estimates of short-run elasticities for the fiscal variables that de- pend upon the economic cycle for Cyprus.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/en/publications/working-papers",
+                "title": "Working Papers - Central Bank of Cyprus",
+                "text": "This paper presents updated estimates of short-run elasticities for the fiscal variables that depend upon the economic cycle for Cyprus.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf/Working-Paper-2018-04.pdf",
+                "title": "WORKING PAPER SERIES To Create or to Redistribute? That is ...",
+                "source": "Central Bank of Cyprus",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.cy&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///654b1f035d67ce1c83dbfbd359a6f18c9e15d12effd2038681f21b706fdb57b6",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf/NPWPE_MINFORD_NOV2010.pdf",
+                "title": "CARBS Working PaperSeries- Cover page template RM 10-04-06-1",
+                "source": "Central Bank of Cyprus",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.cy&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///2e18d74d9de139c161e97871ef4e162ae18f0f9575fc57850693ec55b1ccaa00",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf/Estimation-of-the-Medium-Term-Macroeconomic-Impact-of-the-Cyprus-Recovery-and-Resilience-Plan.pdf",
+                "title": "WORKING PAPER SERIES Estimation of the Medium-Term ...",
+                "source": "Central Bank of Cyprus",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralbank.cy&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///054d213a6b8c6cbaed5e6da926da4fcf4906d7038e29fbdd6e35ab5d4217352f",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2022",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/en/announcements",
+                "title": "Announcements - Central Bank of Cyprus",
+                "text": "Announcements · Financial Stability Report 2024 · Aggregate Cyprus banking sector data (non-performing loans data) with reference date 31 March 2025 · Aggregate ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/en/announcements/cbc-balance-sheet-as-at-the-end-of-april-2025-19-05-2025",
+                "title": "Central Bank of Cyprus balance sheet as at the end of April 2025",
+                "text": "The Central Bank of Cyprus (CBC) has published the CBC balance sheet as at the end of April 2025. Click here.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2025-05-19T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/en/announcements/12-12-2024",
+                "title": "Procedure for the submission of requests for ... - Central Bank of Cyprus",
+                "text": "Following the announcement of the Central Bank of Cyprus (CBC), dated 6 December 2024, that it is in the process of developing a new ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2024-12-12T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/en/announcements/18032014-2",
+                "title": "Announcement by the Ministry of Finance ... - Central Bank of Cyprus",
+                "text": "The Ministry of Finance, the Ministry of Energy, Commerce, Industry and Tourism and the Central Bank of Cyprus wish to draw the attention of ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2014-03-18T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/en/announcements/02-05-2025",
+                "title": "The Prevention of Money Laundering and Terrorist Financing Directive of ...",
+                "text": "The Central Bank of Cyprus (CBC) announces the publication of the Prevention of Money Laundering and Terrorist Financing Directive of 2025.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2025-05-02T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf/NPWPE_No1_022008.pdf",
+                "title": "Imperfect Central Bank Communication - CiteSeerX",
+                "text": "Abstract. Much of the information communicated by central banks is noisy or imperfect. This paper considers the potential benefits and limitations of ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.cy/images/media/redirectfile/Announcements/ECB-200429-extension-deadlines-statistical-info-covid-19-en.pdf",
+                "title": "ECB communication to reporting agents on the extension of ...",
+                "text": "The COVID-19 pandemic poses considerable and diverse challenges to reporting agents for the collection of statistical information across the euro area.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.cy/images/media/pdf_el/MPRPE_COMMUNICATIONPAPERWORKSHOP.pdf",
+                "title": "MONETARY POLICY AND CENTRAL BANK COMMUNICATION",
+                "text": "As a modern central bank the ECB understands the importance of communication, especially since its goal is that of price stability. The Governing Council has ...",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.cy/en/announcements/communication-to-the-payments-industry-on-strong-customer-authentication-sca-from-14-september-2019",
+                "title": "Communication to the payments industry on strong customer ...",
+                "text": "Communication to the payments industry on strong customer authentication (SCA) from 14 September 2019 · Report of an alleged infringement.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "published_time": "2019-09-02T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.cy/en/publications/working-papers/file-working-paper-2008-1-imperfect-central-bank-communication-information-versus-distraction",
+                "title": "Working Paper 2008-1: Imperfect Central Bank Communication",
+                "text": "The Central Bank of Cyprus (CBC) was established in 1963, shortly after Cyprus gained its independence, in accordance with the Central Bank of Cyprus Law, 1963.",
+                "source": "www.centralbank.cy",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1QAL1RVwbl5AAAAFXRSTlMAFXH+CVLendK8Hu2FO2ORtMepfix9EIobAAABWUlEQVR4AY3JBxIYIQzAQNENhjPt/2/NXHpPdqpG/Af3l/SBHwTPFzHlwg+KpPj5iVTHD1oV+XSTah+ebx6PaU68bNZhS7zj1XouwqjbgDjrMmzEs9a2LeuBBSZzR4bmcLHEdfGOGxkgcEPWQaonN/zDLrxajixocmqi514hdcoZAH42t4B68iGoquNOitsRWrE4CjhVDeQs1YHg7y2kaQnvwU0RYZ5eItR2D6l46Y56IZbuJ34fdfAY5QJTa6uAU789FlQfiBJj9bFqo3vgUQ2GF6nPW+b26PXiVnxzinjcMpML1OHNEpQEXOl9OUhzhvn2aqV4PyZADXMPgByqJeCZz7GyHJCshszr7N71vWZEGe/Tfvbh05Wu63nvfh9PzX0dPhsa6lEbPI1hembIg69sba+12B1Wqj5lGd8ZXsL2VaX6EsQPfpSm7SVat83Er1qLzsXm+D8fAKMfENd7+T+9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.centralbank.cy/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -6,13 +6,19 @@
         "url": "https://www.rbnz.govt.nz/research-and-publications/publications",
         "title": "Publications - Reserve Bank of New Zealand - Te Pūtea Matua",
         "text": "Access the publications produced by us. Includes the Monetary Policy Statement, Financial Stability Report, and corporate documents.",
-        "listing_probability": 1.0
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.rbnz.govt.nz/research-and-publications/publications/publications-library",
         "title": "Publications library - Reserve Bank of New Zealand - Te Pūtea Matua",
         "text": "In our publications library you can access all our publications and search by date and topic.",
-        "listing_probability": 1.0
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/research-and-publications/research",
+        "title": "Research - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "We carry out long-term research into issues relevant to monetary and prudential policies and macroeconomic dynamics.",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -26,6 +32,12 @@
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.rbnz.govt.nz/research-and-publications/reserve-bank-bulletin",
+        "title": "Reserve Bank Bulletins - Te Pūtea Matua",
+        "text": "The Reserve Bank Bulletin canvasses a wide range of issues related to central banking, the financial system and the New Zealand economy.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.rbnz.govt.nz/statistics/statistics-release-calendar",
         "title": "Statistics Release Calendar - Reserve Bank of New Zealand",
         "text": "Data is released from 3pm daily. We cannot guarantee an exact publication time for tables and related documents to appear on the website.",
@@ -35,6 +47,12 @@
         "url": "https://www.rbnz.govt.nz/statistics/series/data-file-index-page",
         "title": "Statistical series data files page - Reserve Bank of New Zealand",
         "text": "Statistical series data files page. This page lists our current data files from our Statistical series.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/series",
+        "title": "Statistical series - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "Statistical releases for a range of economic and financial data produced by us and other organisations are released here.",
         "listing_probability": 0.95
       }
     ]
@@ -49,15 +67,15 @@
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.rbnz.govt.nz/hub/publications/bulletin/2023/how-the-reserve-bank-implements-monetary-policy",
-        "title": "How the Reserve Bank implements monetary policy",
-        "text": "This Bulletin provides an overview of how we implement monetary policy and manage settlement cash in the banking system.",
-        "listing_probability": 0.01
-      },
-      {
         "url": "https://www.rbnz.govt.nz/regulation-and-supervision/oversight-of-banks/standards-and-requirements-for-banks/macroprudential-policy",
         "title": "Macroprudential policy - Reserve Bank of New Zealand",
         "text": "Macroprudential policy aims to reduce the likelihood of a financial crisis by restraining excessive lending during upturns (booms) and making banks and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/regulation-and-supervision/oversight-of-banks/standards-and-requirements-for-banks/corporate-governance-policy-for-banks",
+        "title": "Corporate governance policy for banks",
+        "text": "This page sets out the corporate governance policy for New Zealand-incorporated, registered banks.",
         "listing_probability": 0.05
       }
     ]
@@ -82,6 +100,18 @@
         "title": "News - Reserve Bank of New Zealand - Te Pūtea Matua",
         "text": "In this section you can access all our media releases and search by date and topic.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/news-and-events/media-conferences",
+        "title": "Media conferences - Reserve Bank of New Zealand - Te Pūtea Matua",
+        "text": "Watch our Financial Stability Report and Monetary Policy Statement media conferences.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/news-and-events/how-we-release-information",
+        "title": "How we release information - Reserve Bank of New Zealand",
+        "text": "This page provides guidance on how and when we release information including monetary policy decisions, statistics, news, research and Official Information Act ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -89,16 +119,97 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.rbnz.govt.nz/research-and-publications/research",
-        "title": "Research - Reserve Bank of New Zealand - Te Pūtea Matua",
-        "text": null,
-        "listing_probability": 0.95
+        "url": "https://www.rbnz.govt.nz/hub/publications/speech/2006/speech2006-03-22",
+        "title": "Towards a framework for promoting financial stability in New Zealand",
+        "text": "In this speech I will outline the beginnings of a framework for assessing the promotion of financial stability, and outline why the Reserve Bank ...",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.rbnz.govt.nz/research-and-publications/research/our-research-programme",
-        "title": "Our research programme - Reserve Bank of New Zealand - Te ...",
-        "text": null,
+        "url": "https://www.rbnz.govt.nz/research-and-publications/speeches/2012/speech2012-08-09",
+        "title": "Learnings from the Global Financial Crisis - Reserve Bank of New Zealand",
+        "text": "This paper discusses some lessons from the crisis experience to date, and some analytical and policy challenges.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates",
+        "title": "Stats alerts and updates - Reserve Bank of New Zealand",
+        "text": "The Reserve Bank will make changes to the statistical tables and data we publish. We will provide an overview of any major changes and the planned work ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/hub/news/2025/07/updates-to-dta-implementation-timeline-and-standards",
+        "title": "Updates to DTA implementation timeline and standards",
+        "text": "Today we have published an updated implementation timeline for incoming changes to the prudential regulatory regime for deposit takers.",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/hub/domestic-markets-media-releases/2023/10/fms-07",
+        "title": "The Reserve Bank announces updates to the Overnight Reverse ...",
+        "text": "The Reserve Bank announces today the following updates to the Overnight Reverse Repurchase Facility (ORRF). Published: 09 October 2023.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates/2025/sa-01",
+        "title": "Business Expectations Survey: Concluding development update ...",
+        "text": "This new survey includes several hundred businesses from different sectors around the country, from small to large firms.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates",
+        "title": "Stats alerts and updates - Reserve Bank of New Zealand",
+        "text": "The Reserve Bank will make changes to the statistical tables and data we publish. We will provide an overview of any major changes and the planned work ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates/2024/sa-07",
+        "title": "New bank lending interest rate data to be published",
+        "text": "The New Credit Flows Survey collects data from registered banks on new lending during the month and its associated weighted average interest rates.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates/2025/sa-03",
+        "title": "Business Expectations Survey: June quarter results published",
+        "text": "Today marks the launch of Tara-ā-Umanga Business Expectations Survey (BES), with our publication of results for the June quarter (Table M15).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates/2025/sa-02",
+        "title": "Business Expectations Survey: Launch of regular publication set for ...",
+        "text": "On 21 May 2025 we will be launching the Tara-ā-Umanga Business Expectations Survey (BES), publishing results for the June quarter.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/statistics/stats-alerts-and-updates/2024/sa-04",
+        "title": "Business expectations survey: Development update following ...",
+        "text": "The survey is currently in its experimental stages, with regular publication expected to start in May 2025.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.rbnz.govt.nz/hub/publications/speech/2013/speech2013-12-06",
+        "title": "Communication, understanding, and credibility - Te Pūtea Matua",
+        "text": "In my speech today I will outline why clear communication of our policy thinking is so important, and the forces that shape the way we communicate.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.rbnz.govt.nz/hub/news/2013/12/reserve-bank-committed-to-effective-communication",
+        "title": "Reserve Bank committed to effective communication - Te Pūtea Matua",
+        "text": "The Reserve Bank is deeply committed to transparency and sees clear communication as vital to making its actions more effective, ...",
+        "listing_probability": 0.05
       }
     ]
   }

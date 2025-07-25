@@ -5,14 +5,96 @@
       {
         "url": "https://www.richmondfed.org/publications/research",
         "title": "Research Publications | Richmond Fed",
-        "text": "Econ Focus is the economics magazine of the Richmond Fed. This publication covers economic issues affecting the Fifth Federal Reserve District and the nation.",
+        "text": "Econ Focus is the economics magazine of the Richmond Fed. This publication covers economic issues affecting ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.richmondfed.org/publications/print_subscription",
-        "title": "Publications Order Form | Richmond Fed",
-        "text": null,
-        "listing_probability": 0.05
+        "url": "https://www.richmondfed.org/publications/research/working_papers",
+        "title": "Working Papers | Richmond Fed",
+        "text": "Papers written by Richmond Fed economists representing work prepared for later publication or presentation to professional meetings.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_brief",
+        "title": "Economic Brief | Richmond Fed",
+        "text": "Based on staff economists' research, this non-technical series of articles covers current economic issues and trends every month.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/econ_focus",
+        "title": "Econ Focus | Richmond Fed",
+        "text": "Econ Focus is the economics magazine of the Richmond Fed. The latest issue explores new interest in nuclear energy, community colleges in the criminal ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_quarterly",
+        "title": "Economic Quarterly - Federal Reserve Bank of Richmond",
+        "text": "Published from 1993 to 2020, this journal contained articles on monetary theory and policy, banking and finance, and the payment system.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/research/data_analysis",
+        "title": "Data and Analysis | Richmond Fed",
+        "text": "These posts examine local, regional and national data that matter to the Fifth District economy and our communities.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.richmondfed.org/region_communities/regional_data_analysis",
+        "title": "Regional Data & Analysis - Federal Reserve Bank of Richmond",
+        "text": "Our blog examines local, regional and national data that matter to the Fifth District economy and our communities.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/econ_focus/2025/q1-q2_federal_reserve",
+        "title": "Good Data is Hard to Find | Richmond Fed",
+        "text": "New challenges have emerged to the production of economic statistics. How are Fed researchers and policymakers adjusting?",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/research/national_economy/cfo_survey/data_and_results",
+        "title": "Data & Results | Richmond Fed",
+        "text": "View full results, download current and historical data, Excel file, view current and historical special questions, Excel file, key results summary.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2025/barkin_speech_20250626",
+        "title": "Forecasting Beyond Today's Data | Tom Barkin | Richmond Fed",
+        "text": "President Tom Barkin discusses what he's seeing in the data, hearing from businesses and expecting in the months to come.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_review/1988/er740301",
+        "title": "Financial Deregulation, Monetary Policy, and Central Banking",
+        "text": "The paper analyzes the need for financial regulations in the implementation of central bank policy. It emphasizes that a central bank serves two functions.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_review/1987/er730502",
+        "title": "The Case for Rules in the Conduct of Monetary Policy: A Concrete Example",
+        "text": "A policy rule can be activist; the distinction between rules and discretion depends on the stage at which optimization calculations enter the policy process ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/press_room/speeches/jeffrey_m_lacker/2015/lacker_speech_20151112",
+        "title": "What Monetary Policy Can and Can't Do | Richmond Fed",
+        "text": "The central bank should be cautious about using monetary policy in an attempt to affect real economic activity. It should be even more cautious ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_brief/2011/eb_11-07",
+        "title": "Monetary Policy with Unknown Natural Rates | Richmond Fed",
+        "text": "A policy rule that responds to the rate of change in the actual unemployment rate rather than to the implied unemployment gap.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -26,16 +108,28 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus/archive",
-        "title": "Archive: Former President Al Broaddus' Speeches | Richmond Fed",
-        "text": "As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook — as others see ...",
+        "url": "https://www.richmondfed.org/press_room",
+        "title": "News | Richmond Fed",
+        "text": "Receive email alerts for speeches, press releases, and news. Subscribe to Email Alerts. Email Address. Subscribe.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.richmondfed.org/press_room/press_releases",
+        "title": "Press Releases - Federal Reserve Bank of Richmond",
+        "text": "News Releases. July 16, 2025. Beige Book. June 25, 2025. Record Concern about Tariffs Expected to Increase Costs and Prices, Reduce Hiring and Investment.",
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus",
-        "title": "Former President J. Alfred Broaddus- Speeches | Richmond Fed",
-        "text": "June 16, 2004 As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook.",
-        "listing_probability": 0.9
+        "url": "https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2025/barkin_speech_20250626",
+        "title": "Forecasting Beyond Today's Data | Tom Barkin | Richmond Fed",
+        "text": "President Tom Barkin discusses what he's seeing in the data, hearing from businesses and expecting in the months to come.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.richmondfed.org/press_room/contacts",
+        "title": "Contacts - Press Room | Richmond Fed",
+        "text": "The Richmond Fed's media relations team connects journalists with our experts in economics, banking, community development, payments services and other subjects ...",
+        "listing_probability": 0.01
       }
     ]
   },
@@ -46,19 +140,71 @@
         "url": "https://www.richmondfed.org/publications/research/working_papers",
         "title": "Working Papers | Richmond Fed",
         "text": "These papers are written by Richmond Fed economists, in some cases in collaboration with outside economists. They represent work prepared for later publication.",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/working_papers/2024",
+        "title": "Working Papers - Federal Reserve Bank of Richmond",
+        "text": "This paper offers novel insights on modern bank runs using confidential data on wholesale and retail payments to detail the bank runs of March 2023.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-06",
+        "title": "How Do Banks Choose Where to Place Branches? | Richmond Fed",
+        "text": "We study the impact of geographic deregulation on where banks choose to locate. We find that the resulting patterns balance two forces for sorting in space: ...",
+        "listing_probability": 0.0
       },
       {
         "url": "https://www.richmondfed.org/publications/research",
         "title": "Research Publications | Richmond Fed",
         "text": "Working Papers. Papers written by Richmond Fed economists representing work prepared for later publication or presentation to professional meetings. map of ...",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.richmondfed.org/publications/research/working_papers/archive",
-        "title": "Working Papers Archives - Federal Reserve Bank of Richmond",
-        "text": "Elijah Broadbent, Huberto M. Ennis, Tyler J. Pike and Horacio Sapriza. August 2024, No. 24-06. Bank Competition and Strategic Adaptation to Climate Change.",
-        "listing_probability": 0.98
+        "url": "https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-16",
+        "title": "How Well Do Firms Retain Customers After Price Increases?",
+        "text": "An increase in demand elasticity leads to firms reducing markups, amplifying the effect of demand shocks on consumption. Samira Gholami is a research associate ...",
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-15",
+        "title": "Tariff Update: Incorporating the April 9 Announcements | Richmond Fed",
+        "text": "In this article, we updated the AETR to include the April 9 proposals that largely center around increased tariffs on China and a pause on many tariffs on ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-13",
+        "title": "Tariffs Update: Potential Effects of the April 2 Announcements | Richmond ...",
+        "text": "The 2025 announcements increase the AETR from 2.3 percent in 2024 to 22.2 percent, representing a 15-fold increase and the most significant tariff shock in ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.richmondfed.org/banking/banker_resources/reporting_resources/latest_updates",
+        "title": "Latest Updates - Reporting Forms for Financial Institutions | Richmond Fed",
+        "text": "Latest Updates: Bank Receive the latest changes on report forms and instructions and other announcements.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.richmondfed.org/publications/research/working_papers/2000/wp_00-11",
+        "title": "Incentives, Communication, and Payment Instruments | Richmond Fed",
+        "text": "Alternative payment instruments are studied in an economy with private information, delayed communication, and limited commitment.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.richmondfed.org/publications/research/economic_review/1982/er680202",
+        "title": "The Federal Reserve's Role in the Payments Mechanism and It's ...",
+        "text": "The Federal Reserve's Role in the Payments Mechanism and It's Communication Patterns. By Theordore E. Allison. Economic Review. Mar/Apr, 1982.",
+        "listing_probability": 0.05
       }
     ]
   }

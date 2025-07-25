@@ -1,4 +1,62 @@
 {
   "Bank Name": "Bank of the Lao PDR",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bol.gov.la/statistics/Share%20Price%20Index_Lao%20PDR.xlsx",
+                "title": "Dataset",
+                "source": "ທະນາຄານແຫ່ງ ສປປ ລາວ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEVHcEzAmjT79ezPoS43OmEAAHGFb02YfUYAEV8RImfVqivSlSO+mDbfsFHYqyZuXlgDIGu7ljdoW1bqzIDw26rt1bjcqwVpW1b57dPWpgvszobPuo+phTB+XymYfEmBbE+4kzvSkyf///+niD3WqSjQjQ/OpCvYoU6bf0O3lDjFnTGwjjeCbUzAmTTKzduQdkXesCLmxZdZUVXv8fagpLv34sg0PHFsc5aJjaXo3dDCq5Osrb3Ts4lfZ476oGc5AAAAIXRSTlMA+fXRMCVhe/7+4fj15NbB4fZPy8zh4U7C2cvMy8zMysqZqPm3AAABTElEQVQokbWS13KDMBBFKTZIDMWOe02QhBAgarBhXP7/tyI7AUOcvCX3ScNhtXd1V5L+XUNN17Xhj0g3CY1xSEz9CQ3kEGOOGaacyoM+WxCMA/Vtv3+1I8boS6+OMmY4EAIAoWMwTLq1csDsEYTHuj5COLLjSO54IcwQDFzr+ipqRwaOH65MFjugKs+X0+lyLivgBNG4nY8wFRwBqA6ed6iAOKqYNPNqWbYtEUqSG0wShMptlmlNyzjaIfSOFFdIEQe0C4KmqV4UG/FFyX3X9XNF/LcpigZqhK7FZZ53q/Q80WBNidYaylYI5XcmaI7QirSGJJNHS+S7X/LRMuLtKMIRnysPqMzTsBONzJg1a66dWbz7fNKA8NRQLV/IUg0c0l5oCxqKyCbT6cSmHPcju4UdpyJunAZB8D1s6XNNwjAi4+c1uc/7+4L9qT4AU7ErSV2NoT0AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bol.gov.la/en/fileupload/07-03-2019_1551927701.pdf",
+                "title": "Contents",
+                "text": "ATM. Automated Teller Machine. BOL. Bank of the Lao PDR. BOP. Balance of Payments. C.I.F. Cost, Insurance and Freight.",
+                "source": "ທະນາຄານແຫ່ງ ສປປ ລາວ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEVHcEzAmjT79ezPoS43OmEAAHGFb02YfUYAEV8RImfVqivSlSO+mDbfsFHYqyZuXlgDIGu7ljdoW1bqzIDw26rt1bjcqwVpW1b57dPWpgvszobPuo+phTB+XymYfEmBbE+4kzvSkyf///+niD3WqSjQjQ/OpCvYoU6bf0O3lDjFnTGwjjeCbUzAmTTKzduQdkXesCLmxZdZUVXv8fagpLv34sg0PHFsc5aJjaXo3dDCq5Osrb3Ts4lfZ476oGc5AAAAIXRSTlMA+fXRMCVhe/7+4fj15NbB4fZPy8zh4U7C2cvMy8zMysqZqPm3AAABTElEQVQokbWS13KDMBBFKTZIDMWOe02QhBAgarBhXP7/tyI7AUOcvCX3ScNhtXd1V5L+XUNN17Xhj0g3CY1xSEz9CQ3kEGOOGaacyoM+WxCMA/Vtv3+1I8boS6+OMmY4EAIAoWMwTLq1csDsEYTHuj5COLLjSO54IcwQDFzr+ipqRwaOH65MFjugKs+X0+lyLivgBNG4nY8wFRwBqA6ed6iAOKqYNPNqWbYtEUqSG0wShMptlmlNyzjaIfSOFFdIEQe0C4KmqV4UG/FFyX3X9XNF/LcpigZqhK7FZZ53q/Q80WBNidYaylYI5XcmaI7QirSGJJNHS+S7X/LRMuLtKMIRnysPqMzTsBONzJg1a66dWbz7fNKA8NRQLV/IUg0c0l5oCxqKyCbT6cSmHPcju4UdpyJunAZB8D1s6XNNwjAi4+c1uc/7+4L9qT4AU7ErSV2NoT0AAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bol.gov.la/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bol.gov.la/en/fileupload/31-03-2020_1585627932.pdf",
+                "title": "BOL takes Policy Actions to mitigate the impact of Covid-19 on Business ...",
+                "text": "BOL takes Policy Actions to mitigate the impact of Covid-19 on. Business Sector. In the wake of outbreak of Covid-19 around the world.",
+                "source": "ທະນາຄານແຫ່ງ ສປປ ລາວ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAulBMVEVHcEzAmjT79ezPoS43OmEAAHGFb02YfUYAEV8RImfVqivSlSO+mDbfsFHYqyZuXlgDIGu7ljdoW1bqzIDw26rt1bjcqwVpW1b57dPWpgvszobPuo+phTB+XymYfEmBbE+4kzvSkyf///+niD3WqSjQjQ/OpCvYoU6bf0O3lDjFnTGwjjeCbUzAmTTKzduQdkXesCLmxZdZUVXv8fagpLv34sg0PHFsc5aJjaXo3dDCq5Osrb3Ts4lfZ476oGc5AAAAIXRSTlMA+fXRMCVhe/7+4fj15NbB4fZPy8zh4U7C2cvMy8zMysqZqPm3AAABTElEQVQokbWS13KDMBBFKTZIDMWOe02QhBAgarBhXP7/tyI7AUOcvCX3ScNhtXd1V5L+XUNN17Xhj0g3CY1xSEz9CQ3kEGOOGaacyoM+WxCMA/Vtv3+1I8boS6+OMmY4EAIAoWMwTLq1csDsEYTHuj5COLLjSO54IcwQDFzr+ipqRwaOH65MFjugKs+X0+lyLivgBNG4nY8wFRwBqA6ed6iAOKqYNPNqWbYtEUqSG0wShMptlmlNyzjaIfSOFFdIEQe0C4KmqV4UG/FFyX3X9XNF/LcpigZqhK7FZZ53q/Q80WBNidYaylYI5XcmaI7QirSGJJNHS+S7X/LRMuLtKMIRnysPqMzTsBONzJg1a66dWbz7fNKA8NRQLV/IUg0c0l5oCxqKyCbT6cSmHPcju4UdpyJunAZB8D1s6XNNwjAi4+c1uc/7+4L9qT4AU7ErSV2NoT0AAAAASUVORK5CYII=",
+                "published_time": "2020-03-31T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bol.gov.la/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    }
+  ]
 }

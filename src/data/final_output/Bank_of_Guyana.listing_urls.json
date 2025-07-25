@@ -6,41 +6,7 @@
         "url": "https://www.bankofguyana.org.gy/bog/publications/natural-resource-fund/quarterly-reports",
         "title": "Quarterly Reports - Natural Resource Fund - Bank of Guyana",
         "text": "Quarterly Reports, Audited Financial Statements, Annual Report, Financial Health & Stability Indicators, Summary, Media Centre, Press Speeches, Videos, News, ...",
-        "listing_probability": 0.98
-      }
-    ]
-  },
-  {
-    "topic": "statistics",
-    "entries": [
-      {
-        "url": "http://www.bankofguyana.org.gy/Documents/Financial%20Tables/Financial%20sector%20data/",
-        "title": "Index of /Documents/Financial Tables/Financial sector data",
-        "text": "Index of /Documents/Financial Tables/Financial sector data ; FNSCDATA.pdf, 2010-09-10 12:08, 8.7K.",
-        "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.bankofguyana.org.gy/fil/component/content/category/9-sample-data-article?Itemid=101",
-        "title": "Sample Data Article - Bank of Guyana",
-        "text": "The information on this website does not constitute legal, financial or other professional advice but provides information for general reference purposes only.",
-        "listing_probability": 0.05
-      }
-    ]
-  },
-  {
-    "topic": "monetary_policy",
-    "entries": [
-      {
-        "url": "https://www.bankofguyana.org.gy/fil/literacy/education/educate-yourself/instruments-of-monetary-policy",
-        "title": "Instruments Of Monetary Policy - Bank of Guyana",
-        "text": "The Bank of Guyana utilizes two instruments in the conduct of monetary policy. These are: Reserve Requirements. Open Market Operations.",
-        "listing_probability": 0.1
-      },
-      {
-        "url": "http://www.bankofguyana.org.gy/bog/component/content/article/covid-19-and-economic-policy-making?catid=26&Itemid=101",
-        "title": "COVID-19 and Economic Policy-Making",
-        "text": "Four Regional Central Bank Governors will take part in a public discussion on “How the Caribbean can rebound after COVID-19”.",
-        "listing_probability": 0.1
+        "listing_probability": 0.95
       }
     ]
   },
@@ -49,15 +15,50 @@
     "entries": [
       {
         "url": "http://www.bankofguyana.org.gy/bog/component/content/article/speeches?catid=13&Itemid=101",
-        "title": "Speeches",
+        "title": "Speeches - Bank of Guyana",
         "text": "Media Centre Press Speeches Videos News Tender Circulars Home Speeches Launch of the 50th Republic Anniversary Coin",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "http://www.bankofguyana.org.gy/bog/component/content/category/communications/news?Itemid=101",
         "title": "News",
         "text": "“COVID and Economic Policy: Protecting Jobs, Businesses, and the Economy”, will be broadcast and livestreamed across the Caribbean, please see Central Bank ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "http://www.bankofguyana.org.gy/Documents/Web%20Updates/Fnscdata.htm",
+        "title": "fnscdata.htm - Bank of Guyana",
+        "text": "GUYANA - FINANCIAL SECTOR DATA. Data Category/Component, Unit Description, Date/Period Of Latest Data, Latest Data, Date/Period Of Previous Data ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bankofguyana.org.gy/Documents/Web%20Updates/Sb10-3(a).htm",
+        "title": "SB10-2 - Bank of Guyana",
+        "text": "Includes Road Grade Bauxite and Tailings. ; Gold production includes OMAI production from January 1993. ; R.A.S.C: Refractory \"A\" Grade Super Calcined Bauxite; ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bankofguyana.org.gy/Documents/Web%20Updates/Sb7-1.htm",
+        "title": "SB7-1 - Bank of Guyana",
+        "text": "Source: Bank of Guyana. 1 Excludes non-interest bearing debentures. 2 As of Dec 1998 includes an amount to satisfy the Bank's reserve requirement of G$1,000 ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bankofguyana.org.gy/Documents/Web%20Updates/Sb2-10.htm",
+        "title": "cbloans.htm - Bank of Guyana",
+        "text": "COMMERCIAL BANKS: TOTAL LOANS AND ADVANCES. (G$Million). End of Period, Total Loans Residents & Non-Residents, Total Residence, Public Sector ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bankofguyana.org.gy/Documents/Web%20Updates/Sb4-5.htm",
+        "title": "sb4-5 - Bank of Guyana",
+        "text": "EXCHANGE RATE. (G$/US$). Years, End of Period, Average for the Period. 1993, 130.75, 130.16. 1994, 142.50, 138.23. 1995, 140.50, 141.90.",
+        "listing_probability": 0.05
       }
     ]
   }

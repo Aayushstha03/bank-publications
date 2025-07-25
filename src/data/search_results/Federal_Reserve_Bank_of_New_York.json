@@ -8,38 +8,53 @@
           "results": {
             "web": [
               {
-                "url": "https://www.newyorkfed.org/arrc/publications",
-                "title": "Publications - Alternative Reference Rates Committee",
-                "text": "Publications · ARRC Closing Report: Final Reflections on the Transition from LIBOR · ARRC Statement on the Last 30 Days before U.S. Dollar LIBOR Panels End.",
+                "url": "https://www.newyorkfed.org/research/publication_annuals",
+                "title": "Publications - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "Our economists produce publications and working papers of interest to policymakers, academics, business and banking professionals, and the general public.",
                 "source": "Federal Reserve Bank of New York",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "favicon": "data:image/webp;base64,UklGRr4DAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSHkBAAAdoKNt2/HPua73N8YCpnJt1LZt27bRTmzsYhYQtDnSqc4CbH138ek3WUFETEAJPrqfCEbq+Td33sh/EoCYCCUWAGl0BPO+/NNI3Qow/xXp6ZYDzz8nEkAIg1IRu+Gi5c9+DxghKTM3fFfRvyw899oXgAHLqCdVAGI3XHtpVVXROHXvL6EufQdjH3/8bWUIL6rQPbaknF574ysDzAjtQbpKmbTuw/8EBnQUwDbQ469cfR8ru/SPgxETv6/CSxUIhQBxWBATgSD1OAyRCJIIGGOvCISIQIQUgt2IUaRREDD0NASpRyJ1gdgUiIXQKEhHgQgSEaqG7hFAIMqIf6zKEKRd5MDOd18QG2Jb38kz5rzzpzRKcwSCLXEw7+gndIzUg4ZWYbBtGcQmAURCaQMsI2iNNAYKPQNIBGmWjrGW8i+ADFnqUmov3f9FYlscVoqxRYhA7GMgxhpgBOkYAUQQIAJCsINApBKBIASDEoMhYqUgBBFAGmMUIaQkBgBWUDggHgIAAHAKAJ0BKiQAJAA+kSakUiWhJaWVULASCWMAr0AsIzD3bH3/sf5IeoF0D8edpnyAP14xqDy9ZrYele9W4oDBxXyc+06eYW7RLF1dhurjozU9C/5uf6rMj9bweWkAAP77qn+R5Rb8OmcmL8bwObu7YJTmNiYpd9wrHN2Jz8d2ZF8kxfu///TRhKVFI3kwryY1Sn7xeGQTCuxL/+LDKg3HP8Uo/Zhtg/fO+GuAKI9sHy2fDmLKPf/zhU0PytYMvNmhAbQrvi/3XOGbYHESFSXtXR9f4ZDB+uy3h+8LR95l2PYqvXOGp5krQdm3YfJcA/nhMF9FRhU5ZdG/fmT7FR8DBI7u0Y1KMPsp1qnKas4M50/+fnad9EKdaHT4XpxDz/xqssPf+t/+bf4g94rkMDQBIXtKq1HaY2EHmv/3e3//5v3wjTwbpCQZnx76HBrGd4PetDX1Y1yx9zogBzQpH/oI+LDNtmHvEwpzA01Fg71weT1OO+nCc2dq/JEXgRth+BtK0bjCbAdAsgJcpPhB0BP4uFqHXIbDqvx17/P2Tdb4L4gKfH24+uKNQePicAztunNr55omAK+XKM86n4uZJ3DGWcS3/AfqYahjDCCNOgTmd5KmsnXMztnH+7pBU+Ydk/gNSFO0Fo2OaE6w2sfgX7OrFZqUCE59RioG3W0DAmt9sXx6bLraEXUqx6VrI0Bb/Oi/Xaek+eM9rZ5L+OSMAAAA",
                 "position": 1
               },
               {
-                "url": "https://www.newyorkfed.org/microeconomics/cmd-surveys-reports",
-                "title": "CMD Surveys and Reports - FEDERAL RESERVE BANK of NEW YORK",
+                "url": "https://www.newyorkfed.org/research/staff_reports",
+                "title": "Staff Reports - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "Technical working papers intended for publication in leading finance and economics journals. The Research Papers series predated Staff Reports and was ...",
                 "source": "Federal Reserve Bank of New York",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.newyorkfed.org/medialibrary/media/research/microeconomics/calendar/CMD_2021_anchor-projects-artwork.png?sc_lang=en&hash=47FD0AC23020220EDE70ADE60D45806F",
+                "favicon": "data:image/webp;base64,UklGRr4DAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSHkBAAAdoKNt2/HPua73N8YCpnJt1LZt27bRTmzsYhYQtDnSqc4CbH138ek3WUFETEAJPrqfCEbq+Td33sh/EoCYCCUWAGl0BPO+/NNI3Qow/xXp6ZYDzz8nEkAIg1IRu+Gi5c9+DxghKTM3fFfRvyw899oXgAHLqCdVAGI3XHtpVVXROHXvL6EufQdjH3/8bWUIL6rQPbaknF574ysDzAjtQbpKmbTuw/8EBnQUwDbQ469cfR8ru/SPgxETv6/CSxUIhQBxWBATgSD1OAyRCJIIGGOvCISIQIQUgt2IUaRREDD0NASpRyJ1gdgUiIXQKEhHgQgSEaqG7hFAIMqIf6zKEKRd5MDOd18QG2Jb38kz5rzzpzRKcwSCLXEw7+gndIzUg4ZWYbBtGcQmAURCaQMsI2iNNAYKPQNIBGmWjrGW8i+ADFnqUmov3f9FYlscVoqxRYhA7GMgxhpgBOkYAUQQIAJCsINApBKBIASDEoMhYqUgBBFAGmMUIaQkBgBWUDggHgIAAHAKAJ0BKiQAJAA+kSakUiWhJaWVULASCWMAr0AsIzD3bH3/sf5IeoF0D8edpnyAP14xqDy9ZrYele9W4oDBxXyc+06eYW7RLF1dhurjozU9C/5uf6rMj9bweWkAAP77qn+R5Rb8OmcmL8bwObu7YJTmNiYpd9wrHN2Jz8d2ZF8kxfu///TRhKVFI3kwryY1Sn7xeGQTCuxL/+LDKg3HP8Uo/Zhtg/fO+GuAKI9sHy2fDmLKPf/zhU0PytYMvNmhAbQrvi/3XOGbYHESFSXtXR9f4ZDB+uy3h+8LR95l2PYqvXOGp5krQdm3YfJcA/nhMF9FRhU5ZdG/fmT7FR8DBI7u0Y1KMPsp1qnKas4M50/+fnad9EKdaHT4XpxDz/xqssPf+t/+bf4g94rkMDQBIXtKq1HaY2EHmv/3e3//5v3wjTwbpCQZnx76HBrGd4PetDX1Y1yx9zogBzQpH/oI+LDNtmHvEwpzA01Fg71weT1OO+nCc2dq/JEXgRth+BtK0bjCbAdAsgJcpPhB0BP4uFqHXIbDqvx17/P2Tdb4L4gKfH24+uKNQePicAztunNr55omAK+XKM86n4uZJ3DGWcS3/AfqYahjDCCNOgTmd5KmsnXMztnH+7pBU+Ydk/gNSFO0Fo2OaE6w2sfgX7OrFZqUCE59RioG3W0DAmt9sXx6bLraEXUqx6VrI0Bb/Oi/Xaek+eM9rZ5L+OSMAAAA",
                 "position": 2
               },
               {
-                "url": "https://www.newyorkfed.org/research/monographs-reports",
-                "title": "Monographs and Reports - FEDERAL RESERVE BANK of NEW YORK",
+                "url": "https://www.newyorkfed.org/research/publication_annuals/publications_otherresearch.html",
+                "title": "Publications and Other Research - Federal Reserve Bank of New York",
+                "text": "The Federal Reserve Bank of New York works to promote sound and well-functioning financial systems and markets through its provision of industry and payment ...",
                 "source": "Federal Reserve Bank of New York",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.newyorkfed.org/medialibrary/media/research/images/2015_Treasury-book_Garbade_460_art.jpg?sc_lang=en&h=288&w=460&la=en&hash=EAC67B484497511BCF86403AA3C007A1",
+                "favicon": "data:image/webp;base64,UklGRr4DAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSHkBAAAdoKNt2/HPua73N8YCpnJt1LZt27bRTmzsYhYQtDnSqc4CbH138ek3WUFETEAJPrqfCEbq+Td33sh/EoCYCCUWAGl0BPO+/NNI3Qow/xXp6ZYDzz8nEkAIg1IRu+Gi5c9+DxghKTM3fFfRvyw899oXgAHLqCdVAGI3XHtpVVXROHXvL6EufQdjH3/8bWUIL6rQPbaknF574ysDzAjtQbpKmbTuw/8EBnQUwDbQ469cfR8ru/SPgxETv6/CSxUIhQBxWBATgSD1OAyRCJIIGGOvCISIQIQUgt2IUaRREDD0NASpRyJ1gdgUiIXQKEhHgQgSEaqG7hFAIMqIf6zKEKRd5MDOd18QG2Jb38kz5rzzpzRKcwSCLXEw7+gndIzUg4ZWYbBtGcQmAURCaQMsI2iNNAYKPQNIBGmWjrGW8i+ADFnqUmov3f9FYlscVoqxRYhA7GMgxhpgBOkYAUQQIAJCsINApBKBIASDEoMhYqUgBBFAGmMUIaQkBgBWUDggHgIAAHAKAJ0BKiQAJAA+kSakUiWhJaWVULASCWMAr0AsIzD3bH3/sf5IeoF0D8edpnyAP14xqDy9ZrYele9W4oDBxXyc+06eYW7RLF1dhurjozU9C/5uf6rMj9bweWkAAP77qn+R5Rb8OmcmL8bwObu7YJTmNiYpd9wrHN2Jz8d2ZF8kxfu///TRhKVFI3kwryY1Sn7xeGQTCuxL/+LDKg3HP8Uo/Zhtg/fO+GuAKI9sHy2fDmLKPf/zhU0PytYMvNmhAbQrvi/3XOGbYHESFSXtXR9f4ZDB+uy3h+8LR95l2PYqvXOGp5krQdm3YfJcA/nhMF9FRhU5ZdG/fmT7FR8DBI7u0Y1KMPsp1qnKas4M50/+fnad9EKdaHT4XpxDz/xqssPf+t/+bf4g94rkMDQBIXtKq1HaY2EHmv/3e3//5v3wjTwbpCQZnx76HBrGd4PetDX1Y1yx9zogBzQpH/oI+LDNtmHvEwpzA01Fg71weT1OO+nCc2dq/JEXgRth+BtK0bjCbAdAsgJcpPhB0BP4uFqHXIbDqvx17/P2Tdb4L4gKfH24+uKNQePicAztunNr55omAK+XKM86n4uZJ3DGWcS3/AfqYahjDCCNOgTmd5KmsnXMztnH+7pBU+Ydk/gNSFO0Fo2OaE6w2sfgX7OrFZqUCE59RioG3W0DAmt9sXx6bLraEXUqx6VrI0Bb/Oi/Xaek+eM9rZ5L+OSMAAAA",
                 "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/research/publication_annuals/function_publications.html",
+                "title": "Publications by Field of Interest - Federal Reserve Bank of New York",
+                "text": "Browse New York Fed research publications by area of specialization. Capital Markets Research focusing on asset pricing and financial market liquidity.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/webp;base64,UklGRr4DAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSHkBAAAdoKNt2/HPua73N8YCpnJt1LZt27bRTmzsYhYQtDnSqc4CbH138ek3WUFETEAJPrqfCEbq+Td33sh/EoCYCCUWAGl0BPO+/NNI3Qow/xXp6ZYDzz8nEkAIg1IRu+Gi5c9+DxghKTM3fFfRvyw899oXgAHLqCdVAGI3XHtpVVXROHXvL6EufQdjH3/8bWUIL6rQPbaknF574ysDzAjtQbpKmbTuw/8EBnQUwDbQ469cfR8ru/SPgxETv6/CSxUIhQBxWBATgSD1OAyRCJIIGGOvCISIQIQUgt2IUaRREDD0NASpRyJ1gdgUiIXQKEhHgQgSEaqG7hFAIMqIf6zKEKRd5MDOd18QG2Jb38kz5rzzpzRKcwSCLXEw7+gndIzUg4ZWYbBtGcQmAURCaQMsI2iNNAYKPQNIBGmWjrGW8i+ADFnqUmov3f9FYlscVoqxRYhA7GMgxhpgBOkYAUQQIAJCsINApBKBIASDEoMhYqUgBBFAGmMUIaQkBgBWUDggHgIAAHAKAJ0BKiQAJAA+kSakUiWhJaWVULASCWMAr0AsIzD3bH3/sf5IeoF0D8edpnyAP14xqDy9ZrYele9W4oDBxXyc+06eYW7RLF1dhurjozU9C/5uf6rMj9bweWkAAP77qn+R5Rb8OmcmL8bwObu7YJTmNiYpd9wrHN2Jz8d2ZF8kxfu///TRhKVFI3kwryY1Sn7xeGQTCuxL/+LDKg3HP8Uo/Zhtg/fO+GuAKI9sHy2fDmLKPf/zhU0PytYMvNmhAbQrvi/3XOGbYHESFSXtXR9f4ZDB+uy3h+8LR95l2PYqvXOGp5krQdm3YfJcA/nhMF9FRhU5ZdG/fmT7FR8DBI7u0Y1KMPsp1qnKas4M50/+fnad9EKdaHT4XpxDz/xqssPf+t/+bf4g94rkMDQBIXtKq1HaY2EHmv/3e3//5v3wjTwbpCQZnx76HBrGd4PetDX1Y1yx9zogBzQpH/oI+LDNtmHvEwpzA01Fg71weT1OO+nCc2dq/JEXgRth+BtK0bjCbAdAsgJcpPhB0BP4uFqHXIbDqvx17/P2Tdb4L4gKfH24+uKNQePicAztunNr55omAK+XKM86n4uZJ3DGWcS3/AfqYahjDCCNOgTmd5KmsnXMztnH+7pBU+Ydk/gNSFO0Fo2OaE6w2sfgX7OrFZqUCE59RioG3W0DAmt9sXx6bLraEXUqx6VrI0Bb/Oi/Xaek+eM9rZ5L+OSMAAAA",
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/research/staff_reports/2011.html",
+                "title": "Staff Reports - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "Technical working papers intended for publication in leading finance and economics journals. The Research Papers series predated StaffReports and was ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/webp;base64,UklGRr4DAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSHkBAAAdoKNt2/HPua73N8YCpnJt1LZt27bRTmzsYhYQtDnSqc4CbH138ek3WUFETEAJPrqfCEbq+Td33sh/EoCYCCUWAGl0BPO+/NNI3Qow/xXp6ZYDzz8nEkAIg1IRu+Gi5c9+DxghKTM3fFfRvyw899oXgAHLqCdVAGI3XHtpVVXROHXvL6EufQdjH3/8bWUIL6rQPbaknF574ysDzAjtQbpKmbTuw/8EBnQUwDbQ469cfR8ru/SPgxETv6/CSxUIhQBxWBATgSD1OAyRCJIIGGOvCISIQIQUgt2IUaRREDD0NASpRyJ1gdgUiIXQKEhHgQgSEaqG7hFAIMqIf6zKEKRd5MDOd18QG2Jb38kz5rzzpzRKcwSCLXEw7+gndIzUg4ZWYbBtGcQmAURCaQMsI2iNNAYKPQNIBGmWjrGW8i+ADFnqUmov3f9FYlscVoqxRYhA7GMgxhpgBOkYAUQQIAJCsINApBKBIASDEoMhYqUgBBFAGmMUIaQkBgBWUDggHgIAAHAKAJ0BKiQAJAA+kSakUiWhJaWVULASCWMAr0AsIzD3bH3/sf5IeoF0D8edpnyAP14xqDy9ZrYele9W4oDBxXyc+06eYW7RLF1dhurjozU9C/5uf6rMj9bweWkAAP77qn+R5Rb8OmcmL8bwObu7YJTmNiYpd9wrHN2Jz8d2ZF8kxfu///TRhKVFI3kwryY1Sn7xeGQTCuxL/+LDKg3HP8Uo/Zhtg/fO+GuAKI9sHy2fDmLKPf/zhU0PytYMvNmhAbQrvi/3XOGbYHESFSXtXR9f4ZDB+uy3h+8LR95l2PYqvXOGp5krQdm3YfJcA/nhMF9FRhU5ZdG/fmT7FR8DBI7u0Y1KMPsp1qnKas4M50/+fnad9EKdaHT4XpxDz/xqssPf+t/+bf4g94rkMDQBIXtKq1HaY2EHmv/3e3//5v3wjTwbpCQZnx76HBrGd4PetDX1Y1yx9zogBzQpH/oI+LDNtmHvEwpzA01Fg71weT1OO+nCc2dq/JEXgRth+BtK0bjCbAdAsgJcpPhB0BP4uFqHXIbDqvx17/P2Tdb4L4gKfH24+uKNQePicAztunNr55omAK+XKM86n4uZJ3DGWcS3/AfqYahjDCCNOgTmd5KmsnXMztnH+7pBU+Ydk/gNSFO0Fo2OaE6w2sfgX7OrFZqUCE59RioG3W0DAmt9sXx6bLraEXUqx6VrI0Bb/Oi/Xaek+eM9rZ5L+OSMAAAA",
+                "position": 5
               }
             ]
           },
           "related": [
             "Publications reports publications reports pdf",
-            "Publications reports publications reports 2022",
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.newyorkfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.newyorkfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -81,21 +96,38 @@
                 "position": 2
               },
               {
+                "url": "https://www.newyorkfed.org/microeconomics/databank.html",
+                "title": "CMD Data Bank - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "Access data by topic: Each section below identifies data series in CMD reports and surveys. We report survey findings for respondents overall as well as by ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/research/data_indicators",
+                "title": "Data and Indicators - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "The Research and Statistics Group provides the following links to online sources of economic data produced by the New York Fed and other Reserve Banks.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
                 "url": "https://www.newyorkfed.org/markets/data-hub",
                 "title": "Markets Data Dashboard - FEDERAL RESERVE BANK of NEW YORK",
                 "text": "Primary Dealer Statistics:Includes data on primary dealers' market activity, including positions, transactions, financing and fails. Data are updated Thursdays ...",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
             "Statistics bulletin data statistics data bulletin today",
-            "Statistics bulletin data statistics data bulletin pdf"
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.newyorkfed.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.newyorkfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -123,17 +155,38 @@
                 "position": 2
               },
               {
+                "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2018/epr_2018_pre-crisis-framework_sarkar.pdf",
+                "title": "The Pre-Crisis Monetary Policy Implementation Framework",
+                "text": "The Federal Reserve's (the Fed's) operating framework for monetary policy changed during the financial crisis of. 2007-09. This change occurred because the ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
                 "url": "https://www.newyorkfed.org/markets/counterparties/policy-on-counterparties-for-market-operations",
                 "title": "Federal Reserve Bank of New York Policy on Counterparties for Market ...",
                 "text": "This document describes general principles of the New York Fed's management of such counterparty relationships.",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/markets",
+                "title": "Markets & Policy Implementation - Federal Reserve Bank of New York",
+                "text": "The New York Fed transacts in US government and agency securities and in US money markets to implement monetary policy on behalf of the Federal Open Market ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021"
+          ],
           "query": {
-            "q": "site:http://www.newyorkfed.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.newyorkfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -145,33 +198,56 @@
           "results": {
             "web": [
               {
-                "url": "https://www.newyorkfed.org/press",
-                "title": "Press Center - FEDERAL RESERVE BANK of NEW YORK",
-                "text": "At the New York Fed, our mission is to make the U.S. economy stronger and the financial system more stable for all segments of society. We do this by executing ...",
+                "url": "https://www.newyorkfed.org/newsevents/speeches",
+                "title": "Speeches - Federal Reserve Bank of New York",
+                "text": "Mar 25, 2025. Abel: Economic Conditions in the Region ; Mar 25, 2025. Williams: Opening Remarks ; Mar 25, 2025. Athreya: National Economic Outlook ; Mar 21, 2025.",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.newyorkfed.org/press/pressbriefings/evolution-of-homeownership",
-                "title": "Press Briefing: Homeownership - Federal Reserve Bank of New York",
-                "text": "The New York Fed hosted a press briefing on homeownership on May 22. It looked at the evolution of US homeownership over the last 25 years.",
+                "url": "https://www.newyorkfed.org/press",
+                "title": "Press Center - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "At the New York Fed, our mission is to make the U.S. economy stronger and the financial system more stable for all segments of society. We do this by executing ...",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.newyorkfed.org/press/pressbriefings/economic-conditions-region",
-                "title": "Press Briefing: Economic Conditions in the Region",
-                "text": "The New York Fed hosted a press briefing on economic conditions in the New York region. Learn more and watch the briefing below. Facebook Twitter",
+                "url": "https://www.newyorkfed.org/newsevents/speeches/2025/wil250716",
+                "title": "Summer of '25: The Data - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "You all read the news and are familiar with the facts and figures. The changing landscape around trade policy has heightened economic ...",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-16T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/newsevents/speeches/2025/wil250522",
+                "title": "On the Optimal Supply of Reserves",
+                "text": "At the New York Fed, our mission is to make the U.S. economy stronger and the financial system more stable for all segments of society. We do ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/newsevents/speeches/2025/wil250624",
+                "title": "The Totality of the Data - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "I'll discuss what the soft and hard data are telling us, and how the totality of the data is informing my outlook for the economy.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "published_time": "2025-06-24T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
           "query": {
-            "q": "site:http://www.newyorkfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.newyorkfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -183,37 +259,217 @@
           "results": {
             "web": [
               {
-                "url": "https://www.newyorkfed.org/research/economists/luck/papers",
-                "title": "Stephan Luck Working Papers - Federal Reserve Bank of New York",
-                "text": "Stephan Luck Failing Banks With Sergio Correia and Emil Verner Federal Reserve Bank of New York Staff Reports 1117, September 2024",
+                "url": "https://www.newyorkfed.org/research/economists/heise/papers",
+                "title": "papers - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "The Federal Reserve Bank of New York works to promote sound and well-functioning financial systems and markets through its provision of industry and payment ...",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.newyorkfed.org/medialibrary/media/research/conference/2023/FinTech/400pm_Korinek_Paper_LLMs_final.pdf",
-                "title": "Generative AI for Economic Research - Federal Reserve Bank of New York",
-                "text": "Abstract. Generative AI, in particular large language models (LLMs) such as ChatGPT, has the potential to revolutionize research.",
+                "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr775.pdf",
+                "title": "The Term Structure of Expectations and Bond Yields",
+                "text": "This paper presents preliminary findings and is being distributed to economists and other interested readers solely to stimulate discussion and elicit ...",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.newyorkfed.org/research/economists/Weber/papers",
-                "title": "Jacob Weber's Working Papers - Federal Reserve Bank of New York",
-                "text": "Jacob P. Weber, Who Collaborates with the Soviets?, Financial Distress and Technology Transfer During the Great Depression, With Jerry Jiang, Federal Reserve ...",
+                "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr907.pdf",
+                "title": "Information Management in Times of Crisis",
+                "text": "This paper presents preliminary findings and is being distributed to economists and other interested readers solely to stimulate discussion and elicit ...",
                 "source": "Federal Reserve Bank of New York",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr999.pdf",
+                "title": "Superstar Returns - Federal Reserve Bank of New York",
+                "text": "We study long-term returns on residential real estate in twenty-seven “superstar” cities in fifteen countries over 150 years. We find that total returns in ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/research/economists/luck/papers",
+                "title": "Stephan Luck Working Papers - Federal Reserve Bank of New York",
+                "text": "Stephan Luck Failing Banks With Sergio Correia and Emil Verner Federal Reserve Bank of New York Staff Reports 1117, September 2024",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.newyorkfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.newyorkfed.org/markets/sec_announcements",
+                "title": "Announcements - Federal Reserve Bank of New York",
+                "text": "Historical announcements and changes to historical terms and conditions. 2025. May 13, 2025. Statement Regarding Securities Lending Small Value Exercise.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.newyorkfed.org/arrc/announcements",
+                "title": "Announcements - Alternative Reference Rates Committee",
+                "text": "Notice: As of February 2024, this website is no longer being updated. ARRC documents remain critical to an enduring system of robust reference rates. As noted ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.newyorkfed.org/markets/rrp_announcements",
+                "title": "Reverse Repo Counterparties: Announcements",
+                "text": "Menu. About the New York Fed · About the New York Fed · What We Do · Who We Are · Bank Leadership · Communities We Serve.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/fxc/announcements",
+                "title": "Announcements - Foreign Exchange Committee",
+                "text": "New Egyptian Pound Amendment to Annex A to the 1998 Foreign Exchange and Currency Option Definitions Announced by EMTA, ISDA, and the FXC.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/markets/talf_announcements.html",
+                "title": "Term Asset-Backed Securities Loan Facility: Announcements",
+                "text": "Jan 20, 2010. New York Fed announces $1.5 billion in Legacy CMBS TALF loans requested at January 20 facility ; Jan 19, 2010. New York Fed posts loan rates for ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2022"
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
           ],
           "query": {
-            "q": "site:http://www.newyorkfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.newyorkfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.newyorkfed.org/banking/ba_newspapernotices.html",
+                "title": "Newspaper Notices - FEDERAL RESERVE BANK of NEW YORK",
+                "text": "A newspaper notice may be published in a newspaper of general circulation in the community(ies) where the Applicant proposes to establish an office(s).",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.newyorkfed.org/banking/ma_requestbankapp.html",
+                "title": "Requests for Bank Applications and Notices",
+                "text": "To request copies of the public portions of bank applications and notices, submit your request in writing and include the following information.",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.newyorkfed.org/banking/reportingforms/FR_G_FINW.html",
+                "title": "Reporting Form FR G-FINW Notices by Financial Institutions to Engage ...",
+                "text": "A financial institution that intends to cease engaging in broker or dealer activities must notify its regulator by using the Notice by Financial Institutions of ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/banking/frbny_archived_fraud_alerts.html",
+                "title": "New York Fed Archived Fraud Alerts - Federal Reserve Bank of New York",
+                "text": "The Federal Reserve Board on November 4 alerted the public to instances of questionable solicitations directed at consumers. These solicitations promise ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/media/banking/circulars/11156.pdf",
+                "title": "Federal Register/Vol. 64, No. 84/Monday, May 3, 1999/Notices",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7b35f20c2bb0222a4dcafff34f2beccc596f924b5b482178b45b05a26f70e0ca",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.newyorkfed.org/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/Microsites/arrc/files/2023/ARRC-Press-Release-DTCC-LIBOR-Replacement-Index-Communication-Tool.pdf",
+                "title": "ALTERNATIVE REFERENCE RATES COMMITTEE",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///b3a7fbdcba2b5257407587db54e974896b6eaadb7d7f04d8fdcb337478dfc56f",
+                "published_time": "2023-03-13T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/Microsites/arrc/files/2023/ARRC-Presentation-05242023.pdf",
+                "title": "Operations/Infrastructure: Briefing on LIBOR Replacement ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7e00c0db1d02fd4769f67c30624a80b77f8b822a42fb5ceaf2d01a902ad93529",
+                "position": 2
+              },
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/Microsites/arrc/files/2023/ARRC-DTCC-LIBOR-Replacement-Communication-Tool-Scenarios.pdf",
+                "title": "ARRC Operations and Infrastructure Working Group1 Use of the ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///df904b9919e23d79b2fb247655a703f85e9c4a7286602eea618a6d2a9c2be635",
+                "position": 3
+              },
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/microsites/fxc/files/annualreports/ar2001/FXAR01SW.pdf",
+                "title": "Regarding A Proposed Addition to SWIFT Confirmation Messages",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newyorkfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///62f4747dc58c3e97184bd064bbd9139857ca14bc45709c33d61e632075320746",
+                "position": 4
+              },
+              {
+                "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr491.pdf",
+                "title": "FOMC Communication Policy and the Accuracy of Fed Funds Futures",
+                "text": "This paper presents preliminary findings and is being distributed to economists and other interested readers solely to stimulate discussion and elicit ...",
+                "source": "Federal Reserve Bank of New York",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX///8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv+cDIWsY4wnhna93GPqMYioA2+ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.newyorkfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

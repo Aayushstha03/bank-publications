@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcra.gob.ar/BCRAyVos/Publicaciones_i.asp",
+        "title": "Publications - BCRA",
+        "text": "Publications. Numismatic working and research papers written by the Museum's team, which include the analyses of historical, social, and cultural processes leading to the creation of our country's coins and banknotes: - The Argentine Ernesto \"Che\" Guevara in Cuba's Monetary Issues (El argentino Ernesto \"Che\" ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Calendar_bcra_publications.asp",
+        "title": "Advance Release Calendar of the BCRA publications schedule for 2017",
+        "text": "Daily Publications: The information is published daily within 24 business hours of the date to which the data refers to.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Boletin_estadistico_i.asp",
+        "title": "Statistical Bulletin - BCRA",
+        "text": "Statistical Bulletin. This bulletin compiles and publishes statistical series of the main monetary and financial variables of Argentina.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcra.gob.ar/noticias/Boletin-estadistico-0625-i.asp",
+        "title": "Statistical Bulletin, June 2025 - BCRA",
+        "text": "This is a monthly bulletin of statistical series on the main monetary and financial variables of Argentina. June 13, 2025.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcra.gob.ar/Noticias/Datos_abiertos_sitio_web_BCRA_i.asp",
+        "title": "Open data on the BCRA website",
+        "text": "The Central Bank of Argentina's website comprises its monetary and financial statistics series in an open format, so as to facilitate processing through the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/series_estadisticas_txt2-i.asp",
+        "title": "Data Catalog of Monetary and Financial Statistics - BCRA",
+        "text": "The BCRA makes available the data catalog of monetary and financial statistics, which lists the information released through standardized tables of statistical ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Estadisticas_deuda_externa_privada-i.asp",
+        "title": "Private Sector External Debt Standardized Statistics - BCRA",
+        "text": "Standardized statistical series of private sector external debt positions from December 31, 2017 are displayed on a quarterly basis.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcra.gob.ar/SistemasFinancierosYdePagos/Regulaciones_exterior_y_cambios_i.asp",
+        "title": "Foreign Trade and Exchange Regulations - BCRA",
+        "text": "Such rules basically provide the following: Transactions must be made through an institution licensed to trade in the foreign exchange market.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe-regimen-disponibilidad-divisas-para-inversores-extranjeros-i.asp",
+        "title": "Regulations on Foreign Currency Availability for Foreign Investors",
+        "text": "The measures adopted by the BCRA have contributed to improving the conditions to access the forex market for the repatriation of direct investments.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcra.gob.ar/PoliticaMonetaria/comunicados_i.asp",
+        "title": "Monetary Policy Statements - BCRA",
+        "text": "06/09/2025, The BCRA Announces Measures to Strengthen International Reserves and Consolidate the Control of Monetary Aggregates.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_politica_monetaria_i.asp",
+        "title": "Monetary Policy Report - BCRA",
+        "text": "This quarterly publication analyzes the national and international economic context, assesses inflation dynamics and its outlook.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcra.gob.ar/Noticias/Speeches.asp",
+        "title": "Speeches and Presentations - BCRA",
+        "text": "Speeches and Presentations ; 06/13/2019, Press Conference by Guido Sandleris ; 05/15/2019, Speech on April's CPI ; 04/23/2018, Governor´s Speech | RAMP Executive ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcra.gob.ar/noticias/Noticias_i.asp",
+        "title": "News - BCRA",
+        "text": "News ; 12/05/2024, The BCRA Reduced Again the Monetary Policy Rate ; 12/13/2024, Statistical Bulletin, December 2024 ; 11/29/2024, Non-Financial Credit Providers ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcra.gob.ar/Noticias/Regimen_de_Metas_de_Inflacion_en_Argentina_i.asp",
+        "title": "Argentina's Inflation Targets Regime. Press Conference - BCRA",
+        "text": "Federieco Sturzenegger, Governor of the Central Bank of Argentina, has given a press conference to unveil Argentina's Inflation Targets Regime.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcra.gob.ar/Noticias/02-09-19-Conferencia-post-i.asp",
+        "title": "Press Conference by Guido Sandleris - BCRA",
+        "text": "We have called you today to explain the economic measures announced yesterday. These measures seek to protect exchange rate stability and savers.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcra.gob.ar/Noticias/G20_reunion_ministerial_jornada_2_i.asp",
+        "title": "G20: Meeting of Finance Ministers and Central Bank Governors - BCRA",
+        "text": "The G20 started out as a meeting of finance ministers and central bank governors. It was created on September 25, 1999, in a Meeting of G7 Finance Ministers who ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Documentos_de_trabajo_i.asp",
+        "title": "Working Papers - BCRA",
+        "text": "Working Papers are academic essays written by economists from the BCRA and are posted in this section before being published in printed format. They are ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bcra.gob.ar/noticias/BCRA-actualiza-tasa-politica-monetaria-i.asp",
+        "title": "BCRA Updates Monetary Policy Rate",
+        "text": "The Board has decided to raise the monetary policy rate by 300 basis points. This way, the APR on 28-day LELIQs has risen from 78% to 81%.",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

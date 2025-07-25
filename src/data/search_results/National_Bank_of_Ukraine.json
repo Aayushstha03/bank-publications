@@ -12,24 +12,40 @@
                 "title": "Publications",
                 "text": "Annual Report, Inflation Report, Financial Stability Report, Consolidated financial statements, Report on the Oversight of Payment Systems.",
                 "source": "Національний банк України",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
                 "position": 1
+              },
+              {
+                "url": "https://bank.gov.ua/en/publications?page=1&perPage=5&search=&document=overview_report&pubCategory=13&keywords=&created_from=&created_to=",
+                "title": "Publications",
+                "text": "Publications · All · Annual Report · Inflation Report · Financial Stability Report · Consolidated financial statements · Report on the Oversight of Payment Systems",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
+                "position": 2
+              },
+              {
+                "url": "https://bank.gov.ua/en/publications?document=overview&page=1&perPage=5&search=",
+                "title": "Publications",
+                "text": "New publications and research ; Overviews and Reports Monthly Business Outlook Survey, May 2025. 2 Jun 2025 12:42 ; Overviews and Reports Systemic Risk Survey, ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
+                "position": 3
               },
               {
                 "url": "https://bank.gov.ua/en/publications?created_from=&created_to=&document=&page=1&perPage=5&pubCategory=21&search=",
                 "title": "Publications",
                 "text": "Publications · All · Annual Report · Inflation Report · Financial Stability Report · Consolidated financial statements · Report on the Oversight of Payment Systems",
                 "source": "Національний банк України",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
-                "position": 2
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
+                "position": 4
               },
               {
-                "url": "https://bank.gov.ua/en/publications?page=1&perPage=5&search=&document=&pubCategory=1&keywords=&created_from=&created_to=",
+                "url": "https://bank.gov.ua/en/publications?page=1&perPage=5&search=&document=presentation&pubCategory=all&keywords=&created_from=&created_to=",
                 "title": "Publications",
-                "text": "Annual Report, Inflation Report, Financial Stability Report, Consolidated financial statements, Report on the Oversight of Payment Systems.",
+                "text": "Document type. All, Overviews and Reports, Presentations, Working papers, Strategic documents, Other. Presentations. All; Overviews and Reports",
                 "source": "Національний банк України",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
-                "position": 3
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://bank.gov.ua/en/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://bank.gov.ua/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -51,33 +67,53 @@
           "results": {
             "web": [
               {
-                "url": "https://bank.gov.ua/en/about/structure/department/statistics-and-reporting-department",
-                "title": "Statistics and Reporting Department",
-                "text": "Main Functions: methodological support, compilation and dissemination of high quality and timely data on the financial sector statistics, external sector ...",
+                "url": "https://bank.gov.ua/en/statistic/nbustatistic",
+                "title": "Statistics at the National Bank of Ukraine",
+                "text": "The central bank gathers, compiles, and disseminates statistics data. The NBU's statistics meet international standards and the best practices of the IMF, the ...",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
                 "position": 1
               },
               {
-                "url": "https://bank.gov.ua/en/open-data",
-                "title": "Open Data",
-                "text": "National Bank of Ukraine; Open Data. Open Data. Public information in the open data. This page is available only in Ukrainian. Please, switch the language ...",
+                "url": "https://bank.gov.ua/en/statistic/sector-financial",
+                "title": "Financial Sector Statistics",
+                "text": "Financial sector statistics (monetary and financial statistics) reflect the economic and financial relations of banks and non-bank financial institutions.",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/PrErWRUAAAWUSURBVEiJXVaJdiJHDJT6HJhhhh3AxsYBgu3sssmSNSbgc/P/f5UqNXu8yM8cQ1dLXSpJLZKjakhVcj6E4FxIolrBfGXmVVMKHlZ55736GCXnGGKMITkXgcBrCEkj1uFfk2JxwuoQuN6HmEUl5hS9z9gi4zGcyf9MfUqejhyB2UklmjyQ+JqzqoiLcjm/urqaX/EVdi2IlABAxONnrJaEpVFCiLZrlNViPL75UOxm/NsSGETlHGLAz5mYRAy+RHtzAsz69++22exuRSxs+MguMnQPjBeAEz4rjyeru/tfTnP/xwqrAYtgyNFFxFlSyiCrRKZw1t8tCcceDt+WH3vsxGxYHKIhw08Ev4jNFUyS6/rCzqkKn7L5dM2dDEAH4NgLGM8Rx4lgEU9Fth8u7T3B9efR9tMl4hGpkNcUHSM0KpD/kKXEK7Jprs0jflr9ue3/+oL1CWvUa2C2QAdOrxBDgDNn8Zx2K6lKMKO/D7K45UKsRFqD5QYhMvGQgZI1PIrrWRRkhLS/t1/l/m5l1ODsIQfFwopZtFQWhIC2PbOIk0Z5HT9UlzdTwyA7IAvacefD8vzKwEBBDQpgCjb348Go/3DBw2l2OWfvUuEgoQz4zlOLzLsR4Yw13I7rR1mvmR/kVaA48AZSfSbPufBfyep5JqSA+NGuHn+Rww0zxF1NqCQ3EwOhkmqcaNrMSw6Buqyb8a2MEByCpkYdK8L8oLqMWrqXeTMV4wPf9nVTI9L1gnwAgfNgpwg/qEtkq8Bk9QCmzYvKalZ3TX2Qp5utVFZzYtlxKBwIMLCgycDj5MA6rJBumQ66rpvMENw90+pctl5BYUWfKM2i27fhCKJGZSKI15agbir/fBxBLYZha2DitdQAbdqcELhl18u+7brBYLKX7c0cVDllwSjzg/opAiC9XwcvpjVlLo7tANb+PZLj3QjEJWUISKtoRPdgjAA+NnspDFBED51hvp3k83hOfTE5wvzEgBpEKdA29dwSCpyTxyEw3aBDcJ/Hbyi0xCqA7uw8MZ4byWq9o3Do08m8HcINjjSVt2bLQmGRQaPgFT0UOqjUIaJtvbfmBR59Oc6gORoz0C2KNFs7BRpsoAgThaxHcJ2U4fE4w+Fw0B5kSW2wCwIFDipuC7/RKgSVMHkSS6m8DwgZdsO+775asYuzqrbCLLlB0mKQ9PyMyq7w5NDSS1e/yUW9RewsKc4CjZWQAOYKbUJSlqfJe8nwCRhQ0DzGxRpFohR1YEGjJ0KkAEU1uTkZWYo86oiQQbtbvTBcYpgbaNQRmfTcEcyODysKZzs0QxN5akdWc9BbLu0GU8TmQtQz5jBBz3BYCT/AvMrz0bodEDY6Ss1xkiQjxmSKikHEby1pa4ejl/bJWHPcCW48MWxBLv/Uwu5kYjM/7SweWhYu+i7FgXJj/ViLQWoiH7IR3q4RwrbrQDS19oa2asXOtghh+1AVYstUKFQsd73IhQmnq19lcbTncJENo8kwGFrldIY51OjxRWwo0r6dnzfj4ADHiugwUvCO+es4ohDhFn2w34ECy8775JLbYX80QR+YJmo0AR3ZeAtzLyDu0Vgbtg/yCn1iMzCUI/7Yd9CuAmYj7w/5fKZ+MJf9t5b2bSb/DntLD7zAOOrZbhPvLAn3Dlfmaj9cyv55Rnt+khNkUSXlVMvsu2qDDa0NN4oK50ro3QmpOf0c2/G45vgMKDi1K0KpH/YQCgiCUM66frG4+GHL3S3EEnilyNEFLCQGSXJWF9QBk1Ud68mkaRq8Tuq6uS+TEeMHwSNEm6eBBLBns52SuuvNTz8XGxN19uYLrQcrWds0NkIAqu8N9RdjJ8Yo1SqdTSX9MNywcF2zqxsafyxTVO0CyBCK8TOmKZ3gc7DRrZp5K0tsYXYnQI1WRWG8/SVeHf8DD2xPBceQA8wAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://bank.gov.ua/en/archive-news/all/23710782-the-statistics-available-in-the-macroeconomic-indicators-subsection-have-been-extended-with-new-data",
-                "title": "The statistics available in the “Macroeconomic indicators” page ...",
-                "text": "With a view to making data search more convenient, time series of data are grouped into four categories: prices, economic activity, labor market and social ...",
+                "url": "https://bank.gov.ua/en/statistic",
+                "title": "Statistics",
+                "text": "The NBU publishes economic, financial, external sector, and macroeconomic data, including external trade, financial relations, and data from the State ...",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
                 "position": 3
+              },
+              {
+                "url": "https://bank.gov.ua/en/statistic/sector-external",
+                "title": "External Sector Statistics",
+                "text": "The NBU compiles external sector statistics that reflect Ukraine's role in the international trade of goods, services, and capital.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
+                "position": 4
+              },
+              {
+                "url": "https://bank.gov.ua/en/statistic/sdds",
+                "title": "Special Data Dissemination Standard",
+                "text": "The Special Data Dissemination Standard (SDDS) is an IMF standard for financial and external sector statistics, accessible via the DSBB.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAwFBMVEX////+//////7+//7+/v7//v/+/v///v79//8AekUAeUYAczgAdTza6+QAdD0AeUIAcC8AeDbj7+kAcjjL4tc0kGiCwaWn0754up1zupvR6t8mjlwAdjMAcCxps5D1+fcokmKYzLWOyK8+nWwRgklYrYUbik8IfjwAdi242MqpyrdMk20AeTJ3uZUTg00fe0xdpYEoh1lxsJKz1sSTwqxUpXY/mHJbpoSHuqIpiV3Q4t2dx7NLnnm/29IAajVxsJZI0hkHAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAwOjU0OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRo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",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022"
+          ],
           "query": {
-            "q": "site:https://bank.gov.ua/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://bank.gov.ua/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -89,33 +125,52 @@
           "results": {
             "web": [
               {
-                "url": "https://bank.gov.ua/en/archive-news/all/59678295-nbu-to-harmonize-its-regulations-in-line-with-updated-legislation",
-                "title": "NBU To Harmonize Its Regulations in Line With Updated Legislation",
-                "text": "The National Bank of Ukraine (NBU) intends to update own regulations in line with the current national legislation, particularly, the Law of Ukraine On ...",
+                "url": "https://bank.gov.ua/en/legislation/Decision_Prostir_26032020_57-6_Regulations_requirements_manufacturers_personalizers",
+                "title": "Regulations",
+                "text": "Regulations · Official publication · Document search · Regulatory principles of activity NBU · Regulatory activity of Nationa Bank of Ukraine.",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://bank.gov.ua/en/archive-news/all/27564488-national-bank-of-ukraine-streamlines-the-rules-and-regulations-governing-the-use-of-e-money",
-                "title": "National Bank of Ukraine Streamlines the Rules and Regulations ...",
-                "text": "Resolution No. 65 allows individuals to receive electronic money issued by nonresident issuers from nonresidents through international online payment systems.",
-                "source": "Національний банк України",
+                "url": "https://bank.gov.ua/admin_uploads/article/Basel%20Guidelines%20-%20Corporate%20governance%20principles%20for%20banks%20-%20July%202015.pdf?v=7",
+                "title": "Guidelines on Corporate Governance Principles for Banks",
+                "text": "The board should take responsibility for ensuring that staff who raise concerns are protected from detrimental treatment or reprisals.",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://bank.gov.ua/en/archive-news/all/12757687-procedures-and-regulations-for-ukrainian-banks-at-the-end-of-accounting-year",
-                "title": "Procedures and regulations for Ukrainian Banks at the end of ...",
-                "text": "On 29 and 30 December, 2014, the SEP will receive initial payments until 22.00. On 30 December, 2014, all client transactions must be completed. On 31 December, ...",
+                "url": "https://bank.gov.ua/en/monetary",
+                "title": "Monetary Policy",
+                "text": "The priority of monetary policy is to achieve and maintain price stability. With low and stable inflation, the incomes and savings of Ukrainians are protected ...",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://bank.gov.ua/en/files/vVrAkjBFBVYlRdb",
+                "title": "Monetary Policy Guidelines for the Duration of Martial Law",
+                "text": "View file. Monetary Policy Guidelines for the Duration of Martial Law. Monetary Policy Guidelines for the Duration of Martial Law ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://bank.gov.ua/en/monetary/tools",
+                "title": "Monetary Policy Instruments",
+                "text": "Under the regime of flexible inflation targeting, the NBU ensures that inflation is brought to the 5% target within a policy horizon of three years at most, ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:https://bank.gov.ua/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://bank.gov.ua/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -127,12 +182,20 @@
           "results": {
             "web": [
               {
-                "url": "https://bank.gov.ua/en/news",
-                "title": "News",
-                "text": "Main News · NBU June 2025 Inflation Update · International Reserves at USD 45.1 Billion in June · Ukraine's Government Borrows Equivalent of Almost UAH 240 Billion ...",
+                "url": "https://bank.gov.ua/en/news/all/vistup-golovi-natsionalnogo-banku-andriya-pishnogo-pid-chas-presbrifingu-schodo-rishen-z-monetarnoyi-politiki-21333",
+                "title": "Speech by NBU Governor Andriy Pyshnyy at Press Briefing on ...",
+                "text": "Dear colleagues, The Board of the National Bank of Ukraine has decided to keep its key policy rate at 15.5%. This will support the sustainability of the FX ...",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
                 "position": 1
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all",
+                "title": "All news",
+                "text": "Event calendar, Questions and Answers, Research, Publications, Regulations, BankID, NBU Tariffs and Services, Open Data, Contacts, Sitemap, Records per page",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 2
               },
               {
                 "url": "https://bank.gov.ua/en/news/direct-speech",
@@ -140,20 +203,224 @@
                 "text": "Speeches ; Andriy Pyshnyy's column for NV: Ukraine's European Integration Is beyond Doubt. 24 Jun 2025 13:20 ; Closing Remarks by NBU Deputy Governor Sergiy ...",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://bank.gov.ua/en/news/all",
-                "title": "All news",
-                "text": "All news ; Olena Avramenko Named Best Chief Audit Executive of 2025 by Institute of Internal Auditors. 18 Jul 2025 11:00 ; Ukrainian Banks Sign Dozen of Deals ...",
+                "url": "https://bank.gov.ua/en/news",
+                "title": "News",
+                "text": "Main News · NBU June 2025 Inflation Update · International Reserves at USD 45.1 Billion in June · Ukraine's Government Borrows Equivalent of Almost UAH 240 Billion ...",
                 "source": "Національний банк України",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/direct-speech?page=1&perPage=5&tags=finsector2025",
+                "title": "Speeches",
+                "text": "Skip to content. National Bank's logo - navigate to main page. About · Consumer protection; Accessibility settings. Choose color mode. Contrast mode.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://bank.gov.ua/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://bank.gov.ua/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://bank.gov.ua/en/research",
+                "title": "Research",
+                "text": "NBU Working Papers · External Publications · Research Priorities. Research Events. Annual Research Conferences · Events for Students and Young Researchers.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://bank.gov.ua/admin_uploads/article/WP_2022-03_Grui_Liebman_Nikolaychuk_Nikolsko-Rzhevskyy_eng.pdf",
+                "title": "NBU Working Papers Choosing a Taylor Rule with Limited Data ...",
+                "text": "In this paper, we propose and test a new methodology that aims to select the best performing monetary policy rule when macroeconomic data are very limited, as ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all/zaproshuyemo-do-uchasti-u-viii-schorichniy-doslidnitskiy-konferentsiyi-tsentrobankiv-ukrayini-ta-polschi-manevruyuchi-u-minlivomu-landshafti-tsentralni-banki-v-umovah-novoyi-realnosti-2021-chervnya-2024-roku",
+                "title": "Call for Papers for 8th Annual Research Conference Navigating ...",
+                "source": "bank.gov.ua",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bank.gov.ua&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://bank.gov.ua/admin_uploads/article/2024_ARC_Call_for_papers_en.jpg?v=14",
+                "position": 3
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all/anons-vidkritiy-doslidnitskiy-seminar-z-analizu-vzayemozvyazku-mij-individualnim-spojivannyam-ta-monetarnoyu-politikoyu",
+                "title": "Announcement: Open Research Seminar on (Dis-) Aggregate ...",
+                "source": "bank.gov.ua",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bank.gov.ua&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://bank.gov.ua/admin_uploads/article/Seminar_1280x720_12-02-2019_en.jpg?v=14",
+                "position": 4
+              },
+              {
+                "url": "https://events.bank.gov.ua/ARConference/2025/en.html",
+                "title": "Research Conference 2025",
+                "source": "events.bank.gov.ua",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://events.bank.gov.ua&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://events.bank.gov.ua/ARConference/2025/img/ARC-2025_banner_site_en-2x.jpg",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://bank.gov.ua/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://bank.gov.ua/en/news/announcements",
+                "title": "Announcements for Media",
+                "text": "New Announcement: Open Research Seminar on the impact of fiscal policy on GDP and inflation in Ukraine",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/announcements?page=1&perPage=5&tags=financial_markets",
+                "title": "Announcements for Media",
+                "text": "9 May 2025 23:12. NBU Eases Multiple FX Restrictions to Support Economy and Tightens Some Regulations to Prevent Unproductive Capital Outflows. Statistics.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-onovlyuye-pidhodi-do-viznachennya-pereliku-valyut-do-yakih-vstanovlyuyetsya-ofitsiyniy-kurs-grivni",
+                "title": "NBU Updates Approaches to Determining the List of Currencies ...",
+                "text": "The list of foreign currencies for setting the official hryvnia exchange rate on a daily basis will include 41 currencies and SDRs (special drawing rights).",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "published_time": "2025-03-25T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all/aktualizovano-prioriteti-doslidjen-natsionalnogo-banku",
+                "title": "NBU Updates Research Priorities",
+                "text": "The National Bank of Ukraine (NBU) has updated its priority research areas. This revised list outlines the key focus of research interests ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "published_time": "2025-04-23T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all/onovleno-perelik-valyut-do-yakih-vstanovlyuyetsya-ofitsiyniy-kurs-grivni",
+                "title": "NBU Updates Currency List for Official Hryvnia Exchange Rates",
+                "text": "The National Bank of Ukraine has updated the list of currencies for which the official hryvnia exchange rate is set. The updates are effective 31 March 2025.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "published_time": "2025-03-31T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://bank.gov.ua/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://bank.gov.ua/en/archive-news/all/2150802-in-the-first-half-of-the-year-the-sep-participants-effected-the-initial-payments-and-sent-the-electronic-settlement-notices-amounting-to-over-uah-5-trillion",
+                "title": "In the first half of the year, the SEP participants effected the initial ...",
+                "text": "In the first half of the year, the SEP participants effected the initial payments and sent the electronic settlement notices amounting to over UAH 5 trillion.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://bank.gov.ua/en/archive-news/all/9065099-in-the-first-half-of-2014-the-sep-participants-effected-1564-million-initial-payments-and-sent-the-electronic-settlement-notices-totaling-uah-66943-billion",
+                "title": "In the first half of 2014, the SEP participants effected 156.4 million ...",
+                "text": "In the first half of 2014, the SEP participants effected 156.4 million initial payments and sent the electronic settlement notices totaling UAH 6,694.3 billion.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://bank.gov.ua/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://events.bank.gov.ua/ARConference/2019/src/files/01_Marco_Bassetto.pdf",
+                "title": "Forward Guidance: Communication, Commitment, or Both?",
+                "text": "A monetary game. Expectations about future policy must be important. Must study repeated interaction (the role of credibility, reputation,. “embarrassment”).",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://bank.gov.ua/en/news/all/vpliv-komunikatsiy-tsentralnogo-banku-na-makrofinansovi-pokazniki-tetyana-yuhimenko-ta-oleg-sorochan-eng",
+                "title": "Impact of the Central Bank's Communication on Macrofinancial ...",
+                "text": "Abstract: This study explores the impact of central bank communications on a range of macrofinancial indicators. Specifically, we examine ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "published_time": "2024-02-23T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://events.bank.gov.ua/ARConference/2019/src/files/02_Fernando_Duarte.pdf",
+                "title": "Discussion of “Forward Guidance: Communication, Commitment, or ...",
+                "text": "Discussion of “Forward Guidance: Communication, Commitment, or Both?” Is it equivalent to rational expectations? Today: low inflation. Perhaps k < 0, but how ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://bank.gov.ua/admin_uploads/article/WP_2024-01_Yukhymenko_Sorochan.pdf",
+                "title": "Impact of the Central Bank's Communication on Macrofinancial ...",
+                "text": "Additionally, we analyzed the impact of communications on indicators with a lower frequency. Professional financial analysts are one of the main stakeholders ...",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://bank.gov.ua/admin_uploads/article/International_Spillovers_CB_Communication_wp_2019-05_eng.pdf?v=4",
+                "title": "International Spillovers from Central Bank Communication",
+                "text": "We construct a novel text dataset to measure the sentiment component of com- munications for 23 central banks over the 2002-2017 period.",
+                "source": "Національний банк України",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX////u9vLi7+nx+PUAgk4AhVISh1UiiVr1+vjl8u04k2j5/PvR5NtKmnSw0L9wrI6fybV9s5iny7mEtpzc6+RYn3zM4tgAcTK82MplpoZCk2sAcziWwayOvaUFfEgAeUMAdj3C288qjV9wdUBdAAAA7ElEQVR4AY2S1QLDIAxF6+4OG/r/HzmSPRUyOfVeiEd/EidITGlplheOvKwIsW7w0TbU1q5/G+87QhxGND7NCyGuE9y3HRf57Afuz46+DRNpUnjM59FvgXgxjJU/npMIRHbBPZGq7xrfbl3G6FJLtfXGE8WMj1lLLa7dq12ZoMteSZnV9l6HlqOpOpNS8c0m962G411LqSfhh9s2YEo4UR62jjymFaqkpGJE/ZKmRZd6YSYK6Dd0qQwnuj0O4FI1WEefZY16cPkUhGhYCi7FeBGiK+mp9Tn1GzlgcQ2QA5YWWe7IbBURVDFCagQvFjoPxK/9JwUAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://bank.gov.ua/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -1,4 +1,216 @@
 {
   "Bank Name": "National Bank of Rwanda",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnr.rw/Publications",
+                "title": "Get to know about NBR Publications - National Bank of Rwanda",
+                "text": "NBR publications include reports with insights, press releases on policy, foreign investment surveys, and the BNR Economic Review with articles for ...",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnr.rw/monetary-policy/monetary-policy-reports/",
+                "title": "National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bnr.rw/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnr.rw/browse-in/statistics/",
+                "title": "National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnr.rw/Statistics",
+                "title": "Financial Sector Statistics - National Bank of Rwanda",
+                "text": "Economic statistics provide an overview of real sector statistics that are produced in collaboration with NISR. They include data on ...",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnr.rw/documents/Economic_Bulletin_Vol1_Updated.pdf",
+                "title": "Economic Bulletin - Minecofin",
+                "text": "Global economic growth is projected to slow in 20251 to 2.8 percent, down from 3.3 percent recorded in 2024, remaining below.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnr.rw/browse-in/statistics/payment-system-statistics/",
+                "title": "Payment System Statistics - National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnr.rw/Statistics",
+                "title": "National Bank of Rwanda",
+                "source": "National Bank of Rwanda",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bnr.rw&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bnr.rw/images/facets-of-data-analytics.jpg",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bnr.rw/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnr.rw/laws-and-regulations/banking/directives-guidelines/",
+                "title": "National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnr.rw/documents/MPFSS_March_2024_Final_Booklet.pdf",
+                "title": "MONETARY POLICY AND FINANCIAL STABILITY STATEMENT",
+                "text": "According to the International Monetary Fund (IMF) World Economic Outlook (WEO) update published in January 2024, the world economic growth is expected to ...",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnr.rw/documents/Monetary_Policy_Report_Aug2024.pdf",
+                "title": "MONETARY POLICY REPORT - National Bank of Rwanda",
+                "text": "The Monetary Policy Committee (MPC) met on August 20th, 2024, to assess the impact of its previous decisions, review recent global and domestic economic ...",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnr.rw/documents/MPFSS_Report_March_2025.pdf",
+                "title": "MONETARY POLICY AND FINANCIAL STABILITY STATEMENT",
+                "text": "The purpose of the Monetary Policy and Financial Stability Statement (MPFSS) of March 2025 is to evaluate the economic and financial ...",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "published_time": "2025-03-24T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnr.rw/documents/Monetary_Policy_Report_Feb2025.pdf",
+                "title": "MONETARY POLICY REPORT - National Bank of Rwanda",
+                "text": "The Monetary Policy Committee (MPC) met on 12th February 2025 to assess the impact of its previous decisions, review recent global and domestic economic.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bnr.rw/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnr.rw/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1453768496",
+                "title": "National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bnr.rw/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnr.rw/footer/procurement/tender-notices/?L=%00",
+                "title": "Tender Notices - National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnr.rw/footer/procurement/tender-notices/?tx_bnrdocumentmanager_frontend%5B%40widget_0%5D%5BcurrentPage%5D=7&cHash=9367d19cb9ceb04c6fa8e80797005a4f",
+                "title": "National Bank of Rwanda",
+                "text": "You need to enable JavaScript to run this app.",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnr.rw/documents/Combined_tender_notices_September_2024.pdf",
+                "title": "tender notices - National Bank of Rwanda",
+                "text": "Interested bidders must register and submit their bids electronically using the e-Procurement portal of the National Bank of Rwanda ...",
+                "source": "National Bank of Rwanda",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEVHcEz+/PD++/H8+vD+/fP//vT++/D+/PH+/PL+/PH++/H//fX//fX+/PP9+/D++/H9+u///fP//fP9+u79+/H///jl3crczqzo49X68+Dj07P79ufpzIn058T27dXz7t7XzLfu1Zzc1cS8sJnOw6ju5s+ykz/s0JLDqGqWw5fQvIz18uby37TUx5jv2abnw3PRxrK/2eCphhzkvWOjmIariyu4nFOhegDJtYSvpIhhtjyQxS/DpV3htEpCrkiMx9Ntv4+51Dhqs8kIo0GNg3Gqz8jq8/KYx2vU6tirz2WGaVvnAAAAEnRSTlMAlqriVFg2c0Ui0A0Yie7Bs7OuTgF7AAACC0lEQVQokW1SiXLaMBQ0BGICJG31niTL8iEfYBuDuROOJORO+/8/1OcwGdq0qxmNpNVq3j6tZZ3Q77TbnQvrP7hoXIEjnFBj8/wL1ftRxjPiCKmD3b/kHRCxI2bGOHEsRFqCfeLaoGNjSmSDAQMxi2cIjZMOWFwyZHw04YwxIRh8ansAGNLZYDMkbAa0DBHgWNZ3rWAt5USGOJEQ0kIuQOmzDw+gAsV8xpCP3EHOkbEx04HCFpENHHsIgQYUC8aHkgH6GqsMu0ReqSxDRU/z6xFjcoFQy6rIx57VxyCKeOiELLwRiPWklELf87FDPsZe5My380DeDBCD9YiL1DB/mpGbFnpZFUxuPbxek1Lcrtkoz1Uw9fRlTUYZZzQ2w4CU+XXdB/Q/SHrWX1JHgI2GHIDntzQDVlWlbLKZRUtd7+WC7tQl1zen4ztNRsGfRmQUmb7RiHxB7SOnyyjCvmU1wYuWY+4fnHxjzGQo5gfQd+NpUPfvHP27yvt5//hkcilz+VrsH5S39I7/0qXSRLG7fyye5vPD06/d7t5kHsAxPYAo0+fHh93+/X2/f5g8F67g0Dp+qA2ldIvEeZsXxesbj4vUNdj8jEIDjUtIktUsWSVu6krn2ylEdmmk665WyUv6krhSiqb1B87PHCO32yRNVlsZh60vyW13y9ARgmJ9Zlv/otexLy/tVv908hsTkkXhbrin5QAAAABJRU5ErkJggg==",
+                "published_time": "2024-09-18T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bnr.rw/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    }
+  ]
 }

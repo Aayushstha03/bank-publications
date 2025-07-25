@@ -16,25 +16,46 @@
                 "position": 1
               },
               {
-                "url": "https://www.centralbankmalta.org/publications",
-                "title": "Publications & Research - Central Bank of Malta",
+                "url": "https://www.centralbankmalta.org/all-pubs-res",
+                "title": "All Publications & Research - Central Bank of Malta",
+                "text": "All Publications & Research ; FSR, Financial Stability Report 2024 ; Economic Update, Economic Update 6/2025 ; CRFDR, Climate-Related Financial Disclosures Report ...",
                 "source": "Central Bank of Malta",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.centralbankmalta.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.centralbankmalta.org/file.aspx?f=114019",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 2
               },
               {
-                "url": "https://www.centralbankmalta.org/publications",
-                "title": "Publications & Research - Central Bank of Malta",
+                "url": "https://www.centralbankmalta.org/misc-reports-pubs",
+                "title": "Miscellaneous Reports & Publications - Central Bank of Malta",
+                "text": "Miscellaneous Reports & Publications ; The Malta Government Stocks Market - 2023 in Review, Therese Lethridge, Emmanuel Farrugia, Kimberley C. Agius ; Analysis of ...",
                 "source": "Central Bank of Malta",
-                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.centralbankmalta.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.centralbankmalta.org/file.aspx?f=114011",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 3
+              },
+              {
+                "url": "https://www.centralbankmalta.org/all-pubs-res-2023",
+                "title": "All Publications & Research 2023 - Central Bank of Malta",
+                "text": "All Publications & Research 2023 ; Outlook 2023:4 - Box 1, The effect of a rise in minimum wages on average wage growth ; Outlook for the Maltese Economy, Outlook ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbankmalta.org/ext-pub",
+                "title": "External Publications - Central Bank of Malta",
+                "text": "External Publications ; Report on monetary policy tools, strategy and communication, Andrea Tosato & co-authors ; A strategic view on the economic and inflation ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:http://www.centralbankmalta.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.centralbankmalta.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -69,15 +90,27 @@
                 "source": "Central Bank of Malta",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 3
+              },
+              {
+                "url": "https://www.centralbankmalta.org/collecting",
+                "title": "Collecting, compiling, disseminating and publishing statistics",
+                "text": "The Central Bank of Malta collects and compiles a wide variety of monetary, financial and other macroeconomic statistics.",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbankmalta.org/site/Publications/AR-2024/Part-II-Chp-4.pdf?revcount=6385",
+                "title": "4. STATISTICS - Central Bank of Malta",
+                "text": "The Bank, through its statistics function, is primarily responsible for the processing of a wide range of granular data collected from the credit and financial ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Statistics bulletin data statistics data bulletin excel",
-            "Statistics bulletin data statistics data bulletin 2021"
-          ],
           "query": {
-            "q": "site:http://www.centralbankmalta.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.centralbankmalta.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -89,17 +122,16 @@
           "results": {
             "web": [
               {
-                "url": "https://www.centralbankmalta.org/policy-notes-2024",
-                "title": "Policy Notes 2024 - Central Bank of Malta",
-                "text": "List of policy notes for 2024.",
-                "source": "Central Bank of Malta",
+                "url": "https://www.centralbankmalta.org/file.aspx?f=93168",
+                "title": "An overview of the ECB's monetary policy strategy - European Union",
+                "text": "The new monetary policy strategy of the European Central Bank (ECB) was published on 8 July 2021. While the mandate is conferred upon the ECB by the.",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 1
               },
               {
-                "url": "https://www.centralbankmalta.org/macro-prudential-policy",
-                "title": "Macroprudential policy - Central Bank of Malta",
-                "text": "The main objective of macro-prudential policy is to reduce the build-up of risks in the financial sector and significant spill-overs to the real economy.",
+                "url": "https://www.centralbankmalta.org/file.aspx?f=40",
+                "title": "Oversight Policy Document - Central Bank of Malta",
+                "text": "Payment systems provide channels through which funds may be transferred among credit institutions and other institutions to discharge the payment ...",
                 "source": "Central Bank of Malta",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 2
@@ -111,15 +143,32 @@
                 "source": "Central Bank of Malta",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 3
+              },
+              {
+                "url": "https://www.centralbankmalta.org/policy-notes-2024",
+                "title": "Policy Notes 2024 - Central Bank of Malta",
+                "text": "List of policy notes for 2024.",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbankmalta.org/macro-prudential-policy",
+                "title": "Macroprudential policy - Central Bank of Malta",
+                "text": "The main objective of macro-prudential policy is to reduce the build-up of risks in the financial sector and significant spill-overs to the real economy.",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Policy regulations guidelines policy regulations pdf",
             "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.centralbankmalta.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.centralbankmalta.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -131,20 +180,39 @@
           "results": {
             "web": [
               {
-                "url": "https://www.centralbankmalta.org/news/93/2025/11290",
-                "title": "News Releases 2025 - Central Bank of Malta",
-                "text": "The latest business dialogue held between the Central Bank of Malta and non-financial corporations shows that in the second quarter of 2025, ...",
-                "source": "Central Bank of Malta",
-                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
-                "position": 1
-              },
-              {
                 "url": "https://www.centralbankmalta.org/news",
                 "title": "News - Central Bank of Malta",
                 "text": "News · News Releases · Releases - ECB/ESRB/EBA.",
                 "source": "Central Bank of Malta",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbankmalta.org/news/93/2025/11290",
+                "title": "News Releases 2025 - Central Bank of Malta",
+                "text": "The latest business dialogue held between the Central Bank of Malta and non-financial corporations shows that in the second quarter of 2025, ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "published_time": "2025-07-24T09:09:43.823845",
                 "position": 2
+              },
+              {
+                "url": "https://www.centralbankmalta.org/news/93/2025/11284",
+                "title": "News Releases 2025 - Central Bank of Malta",
+                "text": "The Central Bank of Malta has released its seventeenth edition of the Financial Stability Report (Report), providing a comprehensive ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "published_time": "2025-07-02T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbankmalta.org/en/news/93/2025/11283",
+                "title": "News Releases 2025 - Central Bank of Malta",
+                "text": "The Acting Governor of the Central Bank of Malta participates in the IMF-World Bank constituency meeting in Varese, Italy.",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "published_time": "2025-07-01T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.centralbankmalta.org/en/news/14/2025/11280",
@@ -153,12 +221,12 @@
                 "source": "Central Bank of Malta",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "published_time": "2025-06-25T00:00:00",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.centralbankmalta.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.centralbankmalta.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -192,6 +260,22 @@
                 "source": "Central Bank of Malta",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
                 "position": 3
+              },
+              {
+                "url": "https://www.centralbankmalta.org/wp-2025",
+                "title": "Working Papers 2025 - Central Bank of Malta",
+                "text": "Working Papers 2025 ; Working Paper, Title ; 4/25, Where does Malta's P2P rental market fit? A case study for 2023 ; 3/25, Analysis of the payment habits in Malta ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbankmalta.org/site/Publications/Economic%20Research/2024/WP-01-2024.pdf?revcount=5839",
+                "title": "WORKING PAPER - Central Bank of Malta",
+                "text": "This paper addresses this gap by building a cyclical systemic risk indicator (cSRI). The cSRI is driven by the 2-year growth rate in real bank credit, the 1- ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 5
               }
             ]
           },
@@ -200,7 +284,75 @@
             "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:http://www.centralbankmalta.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.centralbankmalta.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbankmalta.org/coronavirus",
+                "title": "Coronavirus (COVID-19) Updates - Central Bank of Malta",
+                "text": "The Bank has suspended both incoming and outgoing business and training travel until further notice. · In line with the World Health Organisation advice on the ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbankmalta.org/site/Economics/updates-BCI-jul20.pdf?revcount=833",
+                "title": "Business Conditions Index Updates to the BCI - Central Bank of Malta",
+                "text": "significant backward revisions, which are included in subsequent BCI estimates. These revisions, along with the index's reliance on the Kalman filter, ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.centralbankmalta.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbankmalta.org/en/ext-pub-2025-4",
+                "title": "Report on monetary policy tools, strategy and communication",
+                "text": "The report underscores the importance of a monetary policy strategy that enables the Governing Council to effectively respond to major changes in the inflation ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbankmalta.org/site/PR/2023/BN-Oct-23.pdf?revcount=3934",
+                "title": "BusinessNow.mt - Central Bank of Malta",
+                "text": "/01 23,456 .7183/+.,6. 9 :: ; %. 8. <=> @AABCD FGHIJKL M NOPQR>=>STUV> WOOX YZ Z=>. [YSX\\T OQ>RYZUOST] ^SYSNUYW TZYZ>P>SZT] YS_ YS.",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbankmalta.org/site/Reports-Articles/2022/Developments-info-comm-sector.pdf?revcount=8056",
+                "title": "DEVELOPMENTS IN THE INFORMATION AND ...",
+                "text": "This article is part of a series of studies focusing on different sectors of the economy. This study focuses on the information and communication sector ...",
+                "source": "Central Bank of Malta",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=centralbankmalta.org",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.centralbankmalta.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

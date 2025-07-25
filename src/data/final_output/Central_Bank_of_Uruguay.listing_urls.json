@@ -5,13 +5,13 @@
       {
         "url": "https://www.bcu.gub.uy/Ingles/Paginas/Statistics-Studies.aspx",
         "title": "Páginas - Statistics-Studies - BCU",
-        "text": "This section includes information related to a wide range of indicators, data and statistics compiled and published by the CBU. It includes information on Money ...",
+        "text": "This section includes information related to a wide range of indicators, data and statistics compiled and published by the CBU. It includes information on ...",
         "listing_probability": 0.95
       },
       {
         "url": "https://www.bcu.gub.uy/Ingles/Paginas/Data-Processing-Service.aspx",
         "title": "Páginas - Data-Processing-Service - BCU",
-        "text": "Management, Accounting and Data Processing Service Providers are natural or legal entities who from our country provide these services directly related to ...",
+        "text": "Management, Accounting and Data Processing Service Providers are natural or legal entities who from our country provide these services directly related to the ...",
         "listing_probability": 0.1
       }
     ]
@@ -20,16 +20,44 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bcu.gub.uy/Ingles/Paginas/Process-to-issue-regulations.aspx",
-        "title": "Páginas - Process-to-issue-regulations - BCU",
-        "text": "The proposed regulation is subject to different internal and external verification and validation procedures throughout the process. Control mechanisms are ...",
-        "listing_probability": 0.05
-      },
-      {
         "url": "https://www.bcu.gub.uy/Ingles/Paginas/Monetary-Policy.aspx",
         "title": "Páginas - Monetary-Policy - BCU",
         "text": "a) Provides advice to the Board for determining monetary policy guidelines and parameters. b) Monitors and evaluates the money market, the short term ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcu.gub.uy/Ingles/Paginas/Process-to-issue-regulations.aspx",
+        "title": "Páginas - Process-to-issue-regulations - BCU",
+        "text": "The proposed regulation is subject to different internal and external verification and validation procedures throughout the process. Control mechanisms are ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcu.gub.uy/Ingles/Paginas/Quality-Policy.aspx",
+        "title": "Páginas - Quality-Policy - BCU",
+        "text": "- promote financial stability,. - promote efficiency and the sound development of the payment system and financial markets,. - strengthen the relationship ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bcu.gub.uy/Comunicaciones/Paginas/Detalle-Noticia.aspx?noticia=239&title=Jornadas-Anuales-de-Econom%C3%ADa:-programa-de-las-conferencias,-paneles-y-sesiones-de-papers-contributivos",
+        "title": "Jornadas Anuales de Economía: programa de las conferencias ...",
+        "text": null,
         "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bcu.gub.uy/Ingles/Paginas/Public-Communication.aspx",
+        "title": "Páginas - Public-Communication - BCU",
+        "text": "These documents are part of the CBU'S transparent public commitment that includes all CBU employees working jointly to help the media fulfill common goals.",
+        "listing_probability": 0.9
       }
     ]
   }

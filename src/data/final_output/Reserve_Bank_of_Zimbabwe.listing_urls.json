@@ -5,20 +5,32 @@
       {
         "url": "https://www.rbz.co.zw/index.php/publications-notices/publications",
         "title": "Publications - RBZ",
-        "text": "Publications · Weekly Economic Review · Monthly Economic Review · Quarterly Economic Review · Annual Reports · Reserve Money Updates · Bank Supervision Annual Reports.",
-        "listing_probability": 0.95
+        "text": "RBZ publishes Weekly, Monthly, and Quarterly Economic Reviews, Annual Reports, Bank Supervision Annual Reports, Financial Stability Report, and Quarterly ...",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.rbz.co.zw/index.php/publications-notices/publications/annual-reports",
         "title": "Annual Reports - RBZ",
-        "text": "2023 Annual Report The Bank implemented a tight monetary policy stance in 2023 to curtail inflationary and exchange rate pressures that prevailed during much ...",
-        "listing_probability": 0.1
+        "text": "RBZ annual reports are available for 2024, 2023, 2022, and 2021. The 2024 report is available for download.",
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.rbz.co.zw/documents/BLSS/BANK%20SUPERVISION/Publications%20&%20Research/Publications/Bank%20Supervision%20Annual%20Reports/",
-        "title": "Index of /documents/BLSS/BANK SUPERVISION/Publications ... - RBZ",
-        "text": "Index of /documents/BLSS/BANK SUPERVISION/Publications & Research/Publications/Bank Supervision Annual Reports ; [ ], Annual Microfinance ..> 2022-05-14 16:42 ...",
-        "listing_probability": 0.98
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/publications/quarterly-reports-banking-sector",
+        "title": "Quarterly Reports - Banking Sector - RBZ",
+        "text": "Available quarterly banking sector reports include March 2025, December 2024, September 2024, June 2024, March 2024, December 2023, September 2023, June 2023, ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/publications/quarterly-reports-mfis",
+        "title": "Quarterly Reports - MFIs - RBZ",
+        "text": "Quarterly Microfinance Report September 2023 PDF Full Text (1.3 MB) | 20 pages Quarterly Microfinance Report June 2023 PDF Full Text (8 MB) | 20 pages",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/publications/annual-reports/1428-2023-annual-report",
+        "title": "2023 Annual Report - RBZ",
+        "text": "Annual inflation declined during the year from 53.0% in January 2023 to 26.5% in December 2023. The average inflation during the year was 29.8%.",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -26,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.rbz.co.zw/index.php/research/markets",
+        "title": "Statistics - RBZ",
+        "text": "External Statistics · Inflation · Interest Rates · Macro-Economic Indicators · Monetary & Financial Statistics · Exchange Rates · Mosi Oa Tunya Rates.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.rbz.co.zw/index.php/2-uncategorised/799-statistics-2",
         "title": "Statistics - RBZ",
         "text": "Nav view search · Fintech · Statistics · External Statistics · Inflation · Interest Rates · Macro-Economic Indicators · Monetary & Financial Statistics.",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.rbz.co.zw/index.php/procurement/2-uncategorised/799-statistics-2",
-        "title": "Statistics - RBZ",
-        "text": "In this Section. Statistics. External Statistics · Inflation · Interest Rates · Macro-Economic Indicators · Monetary & Financial Statistics · NPS Statistics.",
-        "listing_probability": 0.9
-      },
-      {
         "url": "https://www.rbz.co.zw/documents/statistics/",
         "title": "Index of /documents/statistics - RBZ",
         "text": "Index of /documents/statistics ; [DIR], 2016/, 2022-05-24 09:21, -.",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/research/markets/monetary-financial-statistics",
+        "title": "Monetary & Financial Statistics - RBZ",
+        "text": "Monetary & Financial Statistics · Bank Deposits May 2025 · Building Societies Assets May 2025 · Building Societies Liabilities May 2025 · Central Bank Survey May ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/28-external-statistics",
+        "title": "External Statistics - MOM USD INFLATION - RBZ",
+        "text": "Y-O-Y USD INFLATION 14.03% June 2025 ; Exchange Rates ; Inflation Rates, USD INFLATION RATES ; Inflation Rates · CPI Index, 121.49 ; Inflation Rates · M-O-M, -0.22% ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -49,16 +73,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.rbz.co.zw/index.php/monetary-policy",
-        "title": "Monetary Policy - RBZ",
-        "text": "The Bank is staying the course to price stability by maintaining the current tight monetary policy stance during the six months to December 2023.",
-        "listing_probability": 0.3
-      },
-      {
         "url": "https://www.rbz.co.zw/index.php/monetary-policy/monetary-policy-statements",
         "title": "Monetary Policy Statements - RBZ",
         "text": "The Monetary Policy Statement comes when the economy is experiencing relative price and currency stability after introducing a structured currency, the Zimbabwe ...",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/regulation-supervision/regulation-supervision/guidelines-circulars-and-public-notices",
+        "title": "Guidelines - RBZ",
+        "text": "RBZ guidelines include corporate governance, AML/CFT/CPF, risk management, climate risk, liquidity coverage, and microfinance lending in foreign currency.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/financial-stability/basel-ll-iii/technical-guidelines",
+        "title": "Technical Guidelines - RBZ",
+        "text": "Download the Technical Guidance on the Implementation of the Revised Capital Adequacy Framework in Zimbabwe",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/financial-markets/national-payment-system/guidelines-directives-and-circulars",
+        "title": "Guidelines, Directives and Circulars - RBZ",
+        "text": "RBZ provides guidelines, directives, and circulars on topics such as risk-based transaction limits, cybersecurity, anti-money laundering, and payment systems.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -66,22 +102,28 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.rbz.co.zw/index.php/publications-notices/notices/speeches",
-        "title": "Speeches - RBZ",
-        "text": "Speeches · National Financial Inclusion Strategy II Launch Presentation by Dr JT Chipika · Governor's opening remarks - National Financial Inclusion Strategy II, ...",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.rbz.co.zw/index.php/publications-notices/notices/press-release",
         "title": "Press Release - RBZ",
         "text": "Press Statement - Clarification on The Herald Newspaper Article Titled \"RBZ to Swoop on Currency Hoarders\". Download Statement - 02 April 2025 | .pdf [ 2.3 ...",
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/notices/speeches",
+        "title": "Speeches - RBZ",
+        "text": "Speeches · National Financial Inclusion Strategy II Launch Presentation by Dr JT Chipika · Governor's opening remarks - National Financial Inclusion Strategy II, ...",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.rbz.co.zw/documents/BLSS/BANK%20SUPERVISION/Press%20Releases%20&%20Speeches/Press%20Statements/",
         "title": "Index of /documents/BLSS/BANK SUPERVISION/Press Releases ...",
         "text": "Index of /documents/BLSS/BANK SUPERVISION/Press Releases & Speeches/Press Statements ; [ ], Press_Zse.pdf, 2022-05-14 16:42, 49K.",
-        "listing_probability": 0.9
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.rbz.co.zw/documents/BLSS/BANK%20SUPERVISION/Press%20Releases%20&%20Speeches/Speeches/",
+        "title": "Index of /documents/BLSS/BANK SUPERVISION/Press Releases ...",
+        "text": "Index of /documents/BLSS/BANK SUPERVISION/Press Releases & Speeches/Speeches ; [ ], Speech by Mr. N. Mat..> 2022-05-14 16:42, 479K.",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -92,13 +134,70 @@
         "url": "https://www.rbz.co.zw/index.php/research/research/working-papers",
         "title": "Working Papers Series - RBZ",
         "text": "The working paper series is intended to disseminate research conducted by Reserve Bank of Zimbabwe Staff on topics relevant to the Bank's functions.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.rbz.co.zw/index.php/publications-notices/publications/monthly-economic-review/2-uncategorised/14-working-papers",
         "title": "Working Papers - Monthly Economic Review - RBZ",
         "text": "Working Papers · Discussion Papers · Financial Inclusion · Financial Inclusion ... Papers] [Discussion Papers] [Policy Papers]. CONSUMER-HUB. [Frequently Asked ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/publications/reserve-money-updates",
+        "title": "Reserve Money Updates - RBZ",
+        "text": "Reserve Money Updates: Regulation & Supervision, Bank Supervision, Circulars, Guidelines, Public Notices, Licensing Requirements, Legal Framework, Operating ...",
         "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/notices/public-notices",
+        "title": "Public Notices - RBZ",
+        "text": "Public Notice on Registered Microfinance Institutions - January to June 2025 · Public Notice - Upward Review of Transactional Limits · Public Notice - Zimbabwe ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices",
+        "title": "Publications & Notices - RBZ",
+        "text": "Publications & Notices · Weekly Economic Review · Monthly Economic Review · Quarterly Economic Review · Annual Reports · Reserve Money Updates · Bank Supervision ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/notices/circulars",
+        "title": "Circulars - RBZ",
+        "text": "The circulars include foreign exchange auction results, a second auction system for SMEs, and an exchange control directive.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbz.co.zw/index.php/publications-notices/notices/press-release?start=210",
+        "title": "Press Release - RBZ",
+        "text": "Press Statement - Business review meeting between the Reserve Bank of Zimbabwe and captains of industry and commerce on measures to promote price stability ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.rbz.co.zw/documents/publications/notices/",
+        "title": "Index of /documents/publications/notices",
+        "text": "Index of /documents/publications/notices ; [ ], Public_Notice_-_Time..> 2022-10-19 09:21 ; [ ], Public_Notice_on_Col..> 2023-01-31 11:49 ; [ ], Retail-Payments- ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.rbz.co.zw/index.php/financial-markets/nps/2-uncategorised/239-monetary-policy-communication",
+        "title": "Monetary Policy Communication - RBZ",
+        "text": "Weekly Economic Review, Monthly Economic Review, Quarterly Economic Review, Annual Reports, Other Publications, Bank Supervision Annual Reports.",
+        "listing_probability": 0.95
       }
     ]
   }

@@ -12,13 +12,25 @@
         "url": "https://www.snb.ch/en/news-publications/order-publications",
         "title": "Ordering publications - www-snb-ch",
         "text": "Ordering publications: Annual Report, Quarterly Bulletin, Financial Stability Report, Swiss National Bank Economic Studies / Swiss National Bank Working Papers.",
-        "listing_probability": 0.8
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.snb.ch/en/news-publications/statistics-overview",
         "title": "Statistical Publications: Overview - www-snb-ch",
         "text": "Reports, focus articles, press releases and data. The SNB publishes statistical data in reports, focus articles, press releases and on its data portal.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications/research-report",
+        "title": "SNB Research Report",
+        "text": "The SNB Research Report provides an overview of the SNB's research activities during the previous year. It is published mid-year. Subscribe ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications/annual-report-overview",
+        "title": "Annual Report - www-snb-ch",
+        "text": "The Annual Report of the Swiss National Bank, comprising the Accountability Report and the Business and Financial Report, is published at the end of March.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -26,10 +38,16 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.snb.ch/en/news-publications/statistics-overview",
+        "title": "Statistical Publications: Overview - www-snb-ch",
+        "text": "Reports, focus articles, press releases and data. The SNB publishes statistical data in reports, focus articles, press releases and on its data portal.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/statistics-pub/publication-history/monthly-statistical-bulletin",
         "title": "Monthly Statistical Bulletin - www-snb-ch",
         "text": "The publication 'Monthly Statistical Bulletin' was discontinued in September 2015. The relevant data can be consulted and downloaded via the SNB data portal.",
-        "listing_probability": 0.05
+        "listing_probability": 0.7
       },
       {
         "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics",
@@ -38,10 +56,16 @@
         "listing_probability": 0.8
       },
       {
+        "url": "https://www.snb.ch/en/services-events/digital-services/datenportal",
+        "title": "SNB data portal",
+        "text": "On the data portal, the SNB publishes data which is of importance for monitoring the economy as well as for monetary policy.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/statistics-pub/publication-history/bank-monthly-statistical-bulletin",
         "title": "Monthly Bulletin of Banking Statistics - www-snb-ch",
         "text": "The publication 'Monthly Bulletin of Banking Statistics' was discontinued in January 2016. The relevant data can be consulted and downloaded via the SNB data ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.7
       }
     ]
   },
@@ -75,19 +99,31 @@
         "url": "https://www.snb.ch/en/news-publications/speeches",
         "title": "Speeches - www-snb-ch",
         "text": "Speeches · Introductory remarks, news conference · Introductory remarks, TBTF news conference · The Extended Liquidity Facility (ELF): the next step in the SNB's ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications/media-releases",
+        "title": "Press releases - www-snb-ch",
+        "text": "Press releases · SNB planning new cash logistics centre · Swiss National Bank extends and expands Project Helvetia · Swiss balance of payments and international ...",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.snb.ch/en/publications/communication/speeches-restricted/ref_20250619_mslanmargpe",
         "title": "Introductory remarks, news conference - www-snb-ch",
         "text": "Introductory remarks, news conference ; Martin Schlegel, Chairman of the Governing Board ; Antoine Martin, Vice Chairman of the Governing Board.",
-        "listing_probability": 0.02
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/communication/speeches/2021/ref_20211216_amr",
+        "title": "Introductory remarks, news conference - www-snb-ch",
+        "text": "News conference of the Swiss National Bank, Zurich. Download file now. Introductory remarks, news conference. Author(s). Andréa M. Maechler",
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.snb.ch/en/news-publications",
         "title": "News & Publications - www-snb-ch",
         "text": "News & Publications · New on the website · Press releases · Ad hoc announcements · Economic publications · Quarterly Bulletin · Quarterly Bulletin (from 1998 on) ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       }
     ]
   },
@@ -101,10 +137,80 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.snb.ch/en/the-snb/mandates-goals/research",
-        "title": "Research at the SNB | Swiss National Bank",
-        "text": "Academic conferences, publications, lectures: You can find all relevant information on the Swiss National Bank's research activities here.",
-        "listing_probability": 0.4
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_01",
+        "title": "Central bank information and pure monetary policy surprises in ...",
+        "text": "Studying the effects of pure monetary policy and central bank information surprises reveals that both types of surprises affect financial assets ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_03",
+        "title": "The demand for safe assets - www-snb-ch",
+        "text": "This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2024/working_paper_2024_05",
+        "title": "The role of hedge funds in the Swiss franc foreign exchange market",
+        "text": "This paper investigates the role of hedge funds within the Swiss franc (CHF) foreign exchange (FX) market, using a novel and comprehensive flow dataset.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_02",
+        "title": "Global value chains in a world of uncertainty and automation",
+        "text": "This paper shows that higher uncertainty, in combination with better automation technologies, has likely contributed to that trend reversal.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/publications/financial-markets/snb_bills_new",
+        "title": "Announcements and conditions for new SNB Bills auctions (in Swiss ...",
+        "text": "Announcements and conditions for new SNB Bills auctions (in Swiss francs). 23 July 2025. Download file now. Announcements and conditions for new SNB Bills ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.snb.ch/en/news-publications/media_releases_adhoc",
+        "title": "Ad hoc announcements pursuant to Art. 53 of the Listing Rules (LR)",
+        "text": "26.06.2024 SNB Governing Board: Martin Schlegel to become Chairman, Antoine Martin Vice Chairman and Petra Tschudin new Member",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.snb.ch/en/the-snb/mandates-goals/statistics/surveys/information",
+        "title": "Latest Survey updates - www-snb-ch",
+        "text": "Latest Survey updates · New or changed survey documents. 16 July 2025. List of institutes obliged to hold minimum reserves MIREL 25.07. 15 July 2025. Supervisory ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2013/working_paper_2013_11",
+        "title": "Time variation in asset price responses to macro announcements",
+        "text": "Although the effects of economic news announcements on asset prices are well established, these relationships are unlikely to be stable.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2022/working_paper_2022_06",
+        "title": "Public debt management announcements under \"beat-the ...",
+        "text": "Public debt managers auction bonds to primary dealers (PDs) who may sell them to traders in the secondary market.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.snb.ch/en/publications/research/working-papers/2020/working_paper_2020_17",
+        "title": "Does communication influence executives' opinion of central bank ...",
+        "text": "We analyze the economic impact of central banks sensed by business executives in a sample of 61 countries from 1998 to 2016.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20240620",
+        "title": "Monetary policy assessment of 20 June 2024 - www-snb-ch",
+        "text": "The current banknote series, monetary policy, annual report, current interest rates and exchange rates, responsibilities and goals of the SNB.",
+        "listing_probability": 0.05
       }
     ]
   }

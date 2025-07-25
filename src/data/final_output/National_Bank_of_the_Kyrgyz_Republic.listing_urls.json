@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.nbkr.kg/all_news.jsp?lang=ENG&news_type=news-main",
+        "title": "National Bank of the Kyrgyz Republic",
+        "text": "The information was presented on the implementation of the National Bank's Work Plan for 2025 in such key areas as the implementation of monetary policy, ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

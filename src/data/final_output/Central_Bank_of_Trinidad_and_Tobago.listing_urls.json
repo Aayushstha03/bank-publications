@@ -5,8 +5,26 @@
       {
         "url": "https://www.central-bank.org.tt/financial-education/tools-and-resources/publications/",
         "title": "Publications Us - Central Bank of Trinidad and Tobago",
-        "text": null,
-        "listing_probability": 0.98
+        "text": "This guide equips entrepreneurs with insights on location, resource management, and overcoming challenges for business success.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.central-bank.org.tt/resources-category/publications-and-research/",
+        "title": "Publications & Research Archives - Central Bank of Trinidad and Tobago",
+        "text": "Publications & Research ; CB30/12 – Size Distribution of Foreign Currency Deposits · Quarterly Returns ; Recovery Plan Guideline – October 2023 · Banking Sector, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.central-bank.org.tt/category/other-reports/",
+        "title": "Other Reports Archives - Central Bank of Trinidad and Tobago",
+        "text": "This Visual Summary presents highlights of the Annual Report for 2023. 10-05-2024. More · Annual Report on Insurance and Pensions, Latest News.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.central-bank.org.tt/central-bank-anniversary-publications/",
+        "title": "Central Bank Anniversary Publications",
+        "text": "The Central Bank of Trinidad and Tobago was established on December 12, 1964, 55 years ago. In celebration of this milestone the Bank has published three books.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -20,16 +38,28 @@
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.central-bank.org.tt/statistics/economic-datapack/",
+        "title": "Economic DataPack - Central Bank of Trinidad and Tobago",
+        "text": "This section contains easy to use data tables and graphs on economic and financial statistics.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.central-bank.org.tt/core-functions/economic-bulletin/",
+        "title": "Economic Bulletin - Central Bank of Trinidad and Tobago",
+        "text": "Credit remained strong, recording growth of 6.8 per cent (year-on-year) in May 2024. Credit growth was led by consumer lending.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.central-bank.org.tt/handbook-key-economic-and-financial-statistics/",
         "title": "Handbook of Key Economic and Financial Statistics",
         "text": "Handbook of Key Economic and Financial Statistics - Central Bank of Trinidad and Tobago.",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.central-bank.org.tt/core-functions/economic-bulletin/",
-        "title": "Economic Bulletin - Central Bank of Trinidad and Tobago",
-        "text": "Credit remained strong, recording growth of 6.8 per cent (year-on-year) in May 2024. Credit growth was led by consumer lending.",
-        "listing_probability": 0.2
+        "url": "https://www.central-bank.org.tt/statistics/",
+        "title": "Statistics - Central Bank of Trinidad and Tobago",
+        "text": "This section contains easy to use data tables and graphs on economic and financial statistics. Data Centre – Glossary of Terms.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -37,21 +67,33 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.central-bank.org.tt/resources/handbook-of-procedures-for-a-guide-to-interpreting-the-regulations/",
-        "title": "Handbook of Procedures for a guide to interpreting the Regulations.",
-        "text": "Handbook of Procedures for a guide to interpreting the Regulations. - Central Bank of Trinidad and Tobago.",
-        "listing_probability": 0.05
-      },
-      {
         "url": "https://www.central-bank.org.tt/core-functions/monetary-policy/",
         "title": "Monetary Policy - Central Bank of Trinidad and Tobago",
         "text": "Monetary Policy refers to actions and decisions undertaken by the Bank to create appropriate conditions that are in line with the country's economic objectives.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.central-bank.org.tt/resources/comment-matrix-on-the-phase-2-policy-document-and-amendments-to-the-draft-capital-adequacy-regulations/",
+        "title": "Comment Matrix on the Phase 2 Policy Document and Amendments ...",
+        "text": "Comment Matrix on the Phase 2 Policy Document and Amendments to the draft Capital Adequacy Regulations",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.central-bank.org.tt/core-functions/monetary-policy/indirect-monetary-instruments/",
-        "title": "Indirect Monetary Policy Instruments - Central Bank of Trinidad and Tobago",
-        "text": "Explore how Indirect Monetary Policy Instruments shape liquidity and interest rates via Open Market Operations and Repurchase Rates.",
+        "url": "https://www.central-bank.org.tt/insurance-sector-legislation-and-guidelines",
+        "title": "Insurance Sector Legislation and Guidelines",
+        "text": "Insurance Sector Legislation and Guidelines, Pension Sector Legislation and Guidelines, Licensing and Registration, Banking Sector Licensing and Registration.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.central-bank.org.tt/monetary-policy-report",
+        "title": "Monetary Policy Report | Central Bank of Trinidad and Tobago",
+        "text": "The Monetary Policy Report (MPR) is published twice a year and provides an explanation of the monetary policy measures pursued by the Central Bank.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.central-bank.org.tt/visual-summary-monetary-policy-report-may-2025/",
+        "title": "Visual Summary – Monetary Policy Report May 2025",
+        "text": "The Visual Summary presents highlights, inclusive of a visual representation of the key points of the Monetary Policy Report for May 2025.",
         "listing_probability": 0.05
       }
     ]
@@ -66,16 +108,22 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.central-bank.org.tt/news-centre/latest-news",
-        "title": "Latest News - Central Bank of Trinidad and Tobago",
-        "text": "Commercial banks and their affiliated non-bank financial institutions are expected to apply the MMRR. Press Conference – Announcement of CLICO Resolution Plan.",
-        "listing_probability": 0.9
-      },
-      {
         "url": "https://www.central-bank.org.tt/category/news/press-releases/",
         "title": "Press Releases Archives - Central Bank of Trinidad and Tobago",
-        "text": "Recent press releases include the 64th CARICOM meeting, \"Pan Jazz on the Plaza\" event, and a panel discussion on financial resilience.",
+        "text": "Press Releases · 64th Bi-Annual Meeting of CARICOM Central Bank Governors · Central Bank presents “Pan Jazz on the Plaza”: An unforgettable evening of music, wine ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.central-bank.org.tt/category/news/",
+        "title": "News - Central Bank of Trinidad and Tobago",
+        "text": "The Central Bank of Trinidad and Tobago is pleased to announce the appointment of Larry Howai, Esquire, as Governor, effective June 24, 2025.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.central-bank.org.tt/governors-opening-remarksthe-writing-business-news-financial-journalists/",
+        "title": "Governors Opening Remarks,“The Writing Business News for Financial ...",
+        "text": "Governors Opening Remarks,“The Writing Business News for Financial Journalists Course” ... Opening Hours: Monday to Friday: 8:00 a.m. to 4:00 p.m.. Facebook.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -86,19 +134,106 @@
         "url": "https://www.central-bank.org.tt/resources-category/publications-and-research/research/compilation-of-working-papers/",
         "title": "Compilation of Working Papers - Central Bank of Trinidad and Tobago",
         "text": "This compilation of works consolidates five previously published works highlighting issues of relevance to the Bank, in the area of monetary ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
-        "url": "https://www.central-bank.org.tt/compilation-working-papers-financial-stability/",
-        "title": "Compilation of Working Papers - Financial Stability",
-        "text": "This compilation of working papers is not meant to be a complete source of information and knowledge on the chosen subject matter.",
-        "listing_probability": 0.95
+        "url": "https://www.central-bank.org.tt/working-paper-series-january-2020/",
+        "title": "Working Paper Series - January 2020",
+        "text": "What is Monetary Policy? ... What are Government Bonds? How are Bonds Issued? ... What are Treasury Bills? How are Treasury Bills Issued? ... What is Financial ...",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.central-bank.org.tt/resources/research-paper-compilation-vol-1-2020/",
         "title": "Research Paper Compilation Vol. 1. 2020 - Central Bank of Trinidad and ...",
         "text": "This compilation of works consolidates five previously published works highlighting issues of relevance to the Bank, in the area of monetary policy.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.central-bank.org.tt/compilation-working-papers-financial-stability/",
+        "title": "Compilation of Working Papers - Financial Stability",
+        "text": "This compilation of working papers is not meant to be a complete source of information and knowledge on the chosen subject matter.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.central-bank.org.tt/call-for-papers-research-review-seminar-2025/",
+        "title": "Call For Papers - Research Review Seminar 2025",
+        "text": null,
+        "listing_probability": 0.02
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.central-bank.org.tt/core-functions/monetary-policy-announcements/",
+        "title": "Monetary Policy Announcements - Central Bank of Trinidad and Tobago",
+        "text": "Central Bank maintains Repo Rate at 3.50 per cent. Global economic growth for 2024 is forecast at 3.1 percent, according_to the International Monetary Fund.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.central-bank.org.tt/category/strategic-plan/",
+        "title": "Strategic Plan - Project Implementation Updates Archives",
+        "text": "Central Bank of Trinidad and Tobago Strategic Plan 2016/17-2020/21: Project Implementation Update Year One (October 1, 2016—September 30, 2017).",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.central-bank.org.tt/taxonomy/term/76",
+        "title": "COVID-19 Response Updates - Central Bank of Trinidad and Tobago",
+        "text": "COVID-19 Response Updates: 5 November 2021 Letter, 22 September 2021 Letter, 27 May 2021 Letter, 10 September 2020 Letter, 1 June 2021 Letter, 7 May",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.central-bank.org.tt/receive-central-bank-alerts-whatsapp/",
+        "title": "Receive Central Bank Alerts via WhatsApp!",
+        "text": "Join the CBTT Updates WhatsApp group to receive on your phone the latest news on our new polymer banknotes, security tips, publication releases and other ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.central-bank.org.tt/resources-category/publications-and-research/industry-resources/public-notices-licensing/cbtt-notices-licensing/",
+        "title": "CBTT Archives - Central Bank of Trinidad and Tobago",
+        "text": "PayWise Limited authorized to issue electronic money in Trinidad and Tobago with effect from September 01, 2022. 10-08-2022.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.central-bank.org.tt/resources-category/publications-and-research/industry-resources/circular-letters/banking-sector-circular-letter-and-notices/",
+        "title": "Banking Sector Archives - Central Bank of Trinidad and Tobago",
+        "text": "Notice in the Gazette by the Minister of Finance – Regulations 18, 19 and 20 of the Financial Institutions (Capital Adequacy) Regulations 2020. 10-11-2023.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.central-bank.org.tt/fraudulent-text-messages-central-bank-not-giving-out-dealers/",
+        "title": "Fraudulent Text Messages: Central Bank is not Giving Out Dealers",
+        "text": "The Central Bank of Trinidad and Tobago is warning members of the public not to respond to fraudulent text messages being sent to their mobile phones.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.central-bank.org.tt/issues-communication-stress-test-results/",
+        "title": "Issues in the Communication of Stress Test Results",
+        "text": "Issues in the Communication of Stress Test Results ... Opening Hours: Monday to Friday: 8:00 a.m. to 4:00 p.m.. Facebook.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.central-bank.org.tt/resources/guideline-on-communication-with-pension-plan-members/",
+        "title": "Guideline on Communication with Pension Plan Members",
+        "text": "Guideline on Communication with Pension Plan Members - Central Bank of Trinidad and Tobago.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.central-bank.org.tt/issues-communication-stress-test-results-2/",
+        "title": "Issues in the Communication of Stress Test Results",
+        "text": "Issues in the Communication of Stress Test Results - Central Bank of Trinidad and Tobago.",
+        "listing_probability": 0.1
       }
     ]
   }

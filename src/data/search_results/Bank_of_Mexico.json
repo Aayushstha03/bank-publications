@@ -1,4 +1,381 @@
 {
   "Bank Name": "Bank of Mexico",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/quarterly-reports/quarterly-reports-prices-banc.html",
+                "title": "Quarterly reports, prices, Banco de México",
+                "text": "Reports analyzing inflation and economic developments to meet the objective of maintaining a low and stable inflation environment.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/financial-system-reports/financial-system-reports-supe.html",
+                "title": "Financial stability reports - Banco de México",
+                "text": "Reports that show the status of the Mexican financial system stability from the perspective of the central bank.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/annual-reports/annual-reports-economy-banco-.html",
+                "title": "Annual reports, economy, Banco de México",
+                "text": "Reports detailing the monetary policy implementation and the Bank's activities in the national and international economic situation context.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/regional-economic-reports/regional-economic-reports-sta.html",
+                "title": "Regional economic reports - Banco de México",
+                "text": "Reports detailing the indicators and analysis that the Banco de México produces about the different regions of the country.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/%7B6582F82C-C62B-A222-FA76-48CA213C40B8%7D.pdf",
+                "title": "Monetary Policy Statement Press Release March 30, 2023",
+                "text": "This document is provided for the reader's convenience only. The translation from the official Spanish version was made by Banco de México's.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "published_time": "2023-03-30T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B57F7C396-8203-53D5-1B18-E920DED5F609%7D.pdf",
+                "title": "Temperature and quarterly economic activity: panel data evidence from ...",
+                "text": "La serie de Documentos de Investigación del Banco de México divulga resultados preliminares de trabajos de investigación económica realizados en el Banco de ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B31DA81D1-6A12-1EDB-3AFF-8F2461E4A0A7%7D.pdf",
+                "title": "Price Duration Using Daily Online Data: Time- or State-Dependent?",
+                "text": "2.1 Online Data\n\nin price-setting is out of the scope of this paper. For more, see Carrera and Ramírez-Rondán (2019) and references therein.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banxico.org.mx/statistics/rss-indicators-banco-mexico.html",
+                "title": "RSS, indicators, Banco de México",
+                "text": "Automated newsfeed of the main statistical variables for the analysis of the economic and financial situation published by Banco de México.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7BE9F83997-3FFB-9E19-94A2-0EF4F7160905%7D.pdf",
+                "title": "Forecasting Inflation in Mexico Using Factor Models - Banco de México",
+                "text": "La serie de Documentos de Investigación del Banco de México divulga resultados preliminares de trabajos de investigación económica realizados en el Banco de ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.banxico.org.mx/publicaciones-y-prensa/seminarios/network-models--stress-testing-and-other-tools-for/%7B6EC08F75-5143-398F-C4D8-BA9A4C35E65A%7D.pdf",
+                "title": "quantifying contagion channels",
+                "text": "Contagion is typically measured as losses on interbank exposures, which may cas- cade through the system.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/monetary-policy-announcements.html",
+                "title": "Monetary policy statements, rate target, Banco de México",
+                "text": "Target interest rate statements through which nominal variables are affected that have an impact on the determinants of inflation.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/monetary-policy-programs/monetary-policy-programs-infl.html",
+                "title": "Monetary policy programs - Banco de México",
+                "text": "In January of each year, the central bank must send to both the President and Congress, the guidelines defining monetary policy to be implemented during the ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banxico.org.mx/regulations-and-supervision/relevant-legislation-regulari.html",
+                "title": "Relevant legislation, regularions, Banco de México",
+                "text": "Relevant legislation includes Bank Savings Protection Law, Business Bankruptcy Law, Credit Institutions Law, and Law to Regulate Financial Technology ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.banxico.org.mx/monetary-policy/d/%7B0510ACD5-706D-DEBA-71E0-E1F164CDC9A4%7D.pdf",
+                "title": "Banco de México's Monetary Policy Operations via the Daily Balances ...",
+                "text": "The daily balances regime incentivizes banks to keep their accounts at zero daily, charging interest for negative balances and penalizing positive balances.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/%7B05A3168F-9270-E2AC-5447-997D3260FCD6%7D.pdf",
+                "title": "Monetary Policy Statement Press Release May 15, 2025",
+                "text": "Banco de México lowered the overnight interbank interest rate by 50 basis points to 8.50% effective May 16, 2025.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "published_time": "2025-05-15T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/news/news.html",
+                "title": "News - Banco de México",
+                "text": "05/29/2025, Minutes of the meeting of Banco de México's Governing Board on the occasion of the monetary policy decision announced on May 15, 2025.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/%7B05A3168F-9270-E2AC-5447-997D3260FCD6%7D.pdf",
+                "title": "Monetary Policy Statement Press Release May 15, 2025",
+                "text": "This document is provided for the reader's convenience only. The translation from the official Spanish version was made by Banco de México's.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "published_time": "2025-05-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/monetary-policy-announcements.html",
+                "title": "Monetary policy statements, rate target, Banco de México",
+                "text": "Monetary policy statements ; 06/26/25, The target for the overnight interbank funding rate is decreased by 50 basis points. Full text ; 05/15/25, The target for ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.banxico.org.mx/monetary-policy/d/%7B0C35369C-BF8F-E5A8-7710-FD5A6716474F%7D.pdf",
+                "title": "Calendar of monetary policy decision press releases ... - Banco de México",
+                "text": "Banco de México reserves the right to adjust its monetary policy stance on dates other than those pre- scheduled, should extraordinary events arise ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-and-minutes-tas.html",
+                "title": "Statements and minutes, target rate, Banco de México",
+                "text": "Statements and minutes of the target interest rate through which nominal variables are affected that have an impact on the determinants of inflation.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022"
+          ],
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B770EDE2A-92D3-A8BC-CB5B-953084B6D098%7D.pdf",
+                "title": "Sovereign Spreads in the Eurozone: Is Market Discipline Working?",
+                "text": "The Working Papers series of Banco de México disseminates preliminary results of economic research conducted at Banco de México in order to promote the exchange ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B4F6CEDB3-2AED-1A68-D1FF-7ABCB9693C63%7D.pdf",
+                "title": "High and Low Frequency Correlations in Global Equity Markets",
+                "text": "The Working Papers series of Banco de México disseminates preliminary results of economic research conducted at Banco de México in order to promote the exchange ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banxico.org.mx/viewers2/JSP/docsInvestigacionAnio_en.jsp?static=y",
+                "title": "Banco de México working papers",
+                "text": "Summary: This study examines the energy efficiency and environmental performance of Mexico's manufacturing sector across regions.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7BC5D00321-B7F2-098D-4122-25BCE208995A%7D.pdf",
+                "title": "Forward Guidance in an Advanced Small Open Economy in the ...",
+                "text": "The Working Papers series of Banco de México disseminates preliminary results of economic research conducted at Banco de México in order to promote the ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7BAB436397-D17E-8D2B-D047-60AD3CC13AB8%7D.pdf",
+                "title": "Are daily financial data useful for forecasting GDP? Evidence from ...",
+                "text": "Our paper is focused exclusively on MIDAS models, although comparisons of forecasts from MIDAS models with some of these methods would clearly be of interest ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/monetary-policy-announcements.html",
+                "title": "Monetary policy statements, rate target, Banco de México",
+                "text": "Monetary policy statements ; 06/26/25, The target for the overnight interbank funding rate is decreased by 50 basis points. Full text ; 05/15/25, The target for ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/other-announcements/other-announcements-communica.html",
+                "title": "Other announcements, communication, Banco de México",
+                "text": "Other announcements ; 03/20/20, Measures to provide MXN and USD liquidity and to improve the functioning of domestic markets. Full text ; 01/15/20, Publication of ...",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/%7B05A3168F-9270-E2AC-5447-997D3260FCD6%7D.pdf",
+                "title": "Monetary Policy Statement Press Release May 15, 2025",
+                "text": "This document is provided for the reader's convenience only. The translation from the official Spanish version was made by Banco de México's.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "published_time": "2025-05-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/%7B2A312FE9-46E2-ECA2-18CA-E41525914605%7D.pdf",
+                "title": "Monetary Policy Statement Press Release February 6, 2025",
+                "text": "This document is provided for the reader's convenience only. The translation from the official Spanish version was made by Banco de México's.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "published_time": "2025-02-06T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/announcements-of-monetary-policy-decisions/%7B82CC4453-9FB7-62E3-F382-B9A706E687EB%7D.pdf",
+                "title": "Monetary Policy Statement Press Release May 9, 2024",
+                "text": "This document is provided for the reader's convenience only. The translation from the official Spanish version was made by Banco de México's.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "published_time": "2024-05-09T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates stock exchange",
+            "Announcements updates announcements updates 2021"
+          ],
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banxico.org.mx/publications-and-press/other-announcements/other-announcements-communica.html",
+                "title": "Other announcements, communication, Banco de México",
+                "text": "Various announcements of Banco de México's actions related to any function entrusted by Law.",
+                "source": "Banco de México",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADQUlEQVR4AbXXAURdURzH8c2TJEmm5kkygVRIMjNJ5r1nwoRMJmQGksnMMMNMBmYYZoYJSTKThMxkwsxkkkwmyWSSPJMkyX/fw+/meLvvdB9v+HS7955z7u/cc++5510ws4txGtpz1fhZ35bLsz2CJXCAFUygUW0FhQJUYAomh5jFTBEfsA2TPG4lDhC4CzswbDW0Z1PnlK+kzA13YYe7l2GbKikAlVwDK9KP7wkD+EHeYRMbWIm4toMBVPka9mEYLjUA5TI4heGIi0b/7+JqOICo56UF0BBgFSbj+AMjyEDiZ4AL9ZUYQMOXve9d/IsCrWi/P3kAkscFQEWg92kC7KnsCXro9aCeB8PjxAGoOKlKdwoCZNBaJMAbmLxWJxa8zsyWEiAax56CAP2cmy8cCo53c+yYc4Yl9rs09pvIwbCBVILXMHtJk8ghjaULA8BwsyDABGUXMKq3aMsbik6OH2kiu5zkNezyLpgqEmAVdbiHURnHrC5q8goVXqDeJHfgrgrPK5D/FkQBnDG8hQXs4im68Rlj5wZQasPzmACu17+0/xvNaEUbWrjVHZTJsX3i7hJb88a/l/2+JAGWYRiKCZByx3GqyWVOvdxCOuZjNoI8KJt12+5gAApU0eieLtARF4DzLsQizPMgMD/04QCmtqpCAVpxgn3UxgXQsbb4RuNpSEyGQwEGo0Z1LDaAGn2msJkEH6i0F/hTKMAEDJMJAtToCU/6if6q5yaPmmIBFqIxDQcoHfXnYDimnSv/BHA98V6xTNkD6MHVrJiOC9DMSebzLAlzTWULoHUCbatz2R0NmxcAmkBMC8vKMgfIeaukqdiHkBOPdIs+6lhZAuhhjdo4VZjbcQGmNWO9KFcAN5fgPUzmMIS5uAA/YBjxjtWEl+XB5fwg1mGyjk5sO36AaA1wBEOXN5fPwOQYa/INyw51F9WzyBK3fderd8r+IpoUIGqr8SwAO9fpnWkVUxf1gkprcF+9PeyHqO6B5LGlDvSjQm3WqZwh4wcYhal3qSLL7eoQgrq7WC+1RdpJ6RqGh36AaZh+jOoVLD99bTc1Hyy4QBf485Kds2UUBaai8Skn2m3x3wiZdAEsRt9/6P0ArNBfwMQoWodREaEAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banxico.org.mx/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

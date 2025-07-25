@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "topic": "política_monetaria",
+    "entries": [
+      {
+        "url": "https://www.banconal.com.pa/politica-de-seguridad-de-la-informacion/",
+        "title": "Política de Seguridad de la Información - Banco Nacional de ...",
+        "text": "El Banco Nacional de Panamá tiene el compromiso de garantizar la confidencialidad, integridad y disponibilidad de la información de nuestros clientes, ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "noticias",
+    "entries": [
+      {
+        "url": "https://www.banconal.com.pa/categoria/noticias/",
+        "title": "Noticias archivos - Banco Nacional de Panamá",
+        "text": "Banco Nacional de Panamá se posiciona como referente en atracción y desarrollo de talento en el país · Explorando emociones en Casa Museo Banconal con la muestra ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banconal.com.pa/categoria/noticias/page/4/",
+        "title": "Noticias archivos - Página 4 de 4 - Banco Nacional de Panamá",
+        "text": "Al cierre de septiembre, Banconal alcanzó una cartera total de B/. 8,015.5 millones, un crecimiento del 20% respecto al 2023, reafirmando su compromiso con ...",
+        "listing_probability": 0.95
+      }
+    ]
+  }
+]

@@ -3,22 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.eccb-centralbank.org/news/eccb-reports-record-profits-for-financial-year-2019-2020",
-        "title": "ECCB Reports Record Profits for Financial Year 2019-2020",
-        "text": null,
+        "url": "https://www.eccb-centralbank.org/publications",
+        "title": "Publications - Eastern Caribbean Central Bank",
+        "text": "Annual Reports · Statements of Financial Position · Economic and Financial Review · Financial Stability Reports · Survey Reports · Research Papers · Speeches · Other.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/publications/annual-report",
+        "title": "Annual Report - Publications - Eastern Caribbean Central Bank",
+        "text": "Annual Reports · Statements of Financial Position · Economic and Financial Review · Financial Stability Reports · Survey Reports · Research Papers · Speeches · Other.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/research-and-publications",
+        "title": "Research and Publications - Eastern Caribbean Central Bank",
+        "text": "The proposed 2021/2023 Research Agenda is designed to guide the research output of the Eastern Caribbean Central Bank (ECCB).",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.eccb-centralbank.org/publications/timothy-n-j-antoine/887/iframe",
-        "title": "Publications",
-        "text": null,
-        "listing_probability": 0.95
+        "url": "https://www.eccb-centralbank.org/publications/economic-and-financial-review",
+        "title": "Economic and Financial Review - Eastern Caribbean Central Bank",
+        "text": "Annual Reports · Statements of Financial Position · Economic and Financial Review · Financial Stability Reports · Survey Reports · Research Papers · Speeches · Other.",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.eccb-centralbank.org/news/governor-of-eccb-reports-on-performance-of-eccu-economy",
-        "title": "Governor of ECCB Reports on Performance of ECCU Economy",
-        "text": null,
-        "listing_probability": 0.1
+        "url": "https://www.eccb-centralbank.org/publications/report-of-the-business-outlook-survey",
+        "title": "Survey Reports - Publications - Eastern Caribbean Central Bank",
+        "text": "Survey Reports ; ECCU Preliminary External Sector Statistics - 2024. Apr 18,2025 ; ECCU External Sector Statistics - 2023. Mar 19,2025 ; ECCU Financial Literacy ...",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -34,7 +46,7 @@
       {
         "url": "https://www.eccb-centralbank.org/statistics-category/economic-statistics",
         "title": "Economic Statistics - Eastern Caribbean Central Bank",
-        "text": "Economic Statistics · A Consumer Price Index - Anguilla · Q A Consumer Price Index - Antigua and Barbuda · Q A Consumer Price Index - Commonwealth of Dominica · Q A ...",
+        "text": "Available economic statistics include: Monetary/Financial, External Sector, National Accounts, Real Sector, Public Sector Debt, and Central Government Fiscal ...",
         "listing_probability": 0.95
       },
       {
@@ -42,12 +54,30 @@
         "title": "Key Financial Statistics - Eastern Caribbean Central Bank",
         "text": "Key Financial Statistics ; Total Assets, EC$M · 28,361.28 ; Total Loans and Advances, EC$M · 65.16 ; Private Sector Credit, EC$M · 11,006.15 ; Total Deposits, EC$M ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/statistics-category/publication-of-side-by-side-data-for-commercial-banks",
+        "title": "Publication of Side-by-Side Data for Commercial Banks",
+        "text": "The Eastern Caribbean Central Bank publishes side-by-side data for commercial banks, with publications available bank by bank, such as in March 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/eccb-promotes-statistics-as-vital-tool-for-decision-making-and-progress",
+        "title": "ECCB Promotes Statistics as Vital Tool for Decision-Making and ...",
+        "text": "Dr Sahely explains that statistics are much more than numbers. She says they are the foundation upon which informed decisions are made.",
+        "listing_probability": 0.05
       }
     ]
   },
   {
     "topic": "monetary_policy",
     "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/guidelines",
+        "title": "Guidelines - Eastern Caribbean Central Bank",
+        "text": "These guidelines seek to encourage a governance framework that promotes among financial institutions, high standards of professional conduct.",
+        "listing_probability": 0.9
+      },
       {
         "url": "https://www.eccb-centralbank.org/regulations-and-standards",
         "title": "Regulations and Standards - Eastern Caribbean Central Bank",
@@ -72,10 +102,85 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.eccb-centralbank.org/publications/speeches",
+        "title": "Publications - Eastern Caribbean Central Bank",
+        "text": "Eastern Caribbean Central Bank ... Home · Media and Corporate Relations · Publications; Speeches. Speeches.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/debt/publications/budget-speeches",
+        "title": "Budget Speeches - Eastern Caribbean Central Bank",
+        "text": "I present this year's Budget, under the theme, “Anguilla's Blueprint: Harnessing Technology, Empowering Tomorrow's Leaders, and Building the Future”.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.eccb-centralbank.org/debt/news",
         "title": "Debt News - Eastern Caribbean Central Bank",
         "text": "CariCRIS Reaffirms “Adequate Creditworthiness” Ratings For The Government Of Angu... ECCU Residents Diversify Financial Assets Through Investments In Government ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/governor-timothy-n-j-antoine-delivers-keynote-address-at-opening-ceremony-of-9th-growth-and-resilience-dialogue",
+        "title": "Governor Timothy N.J. Antoine Delivers Keynote Address at ...",
+        "text": "Keynote address by Timothy NJ Antoine, Governor of the Eastern Caribbean Central Bank, delivered at the 9 th Annual Growth and Resilience Dialogue.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/publications/working-papers",
+        "title": "Working Papers - Publications - Eastern Caribbean Central Bank",
+        "text": "This edition of the Working Paper Series contains research titles including Leveraging ICTS to Spur Economic Growth and Development; Collective Investment ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/news/governor-antoine-updates-cip-cbi-stakeholders-on-progress-towards-establishing-regional-regulator",
+        "title": "Governor Antoine Updates CIP/CBI Stakeholders on Progress Towards ...",
+        "text": "The Regional Regulator will supervise, regulate and license the five ECCU Citizenship by Investment ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/governor-updates-media-in-anguilla-on-recent-developments-in-eccu-2",
+        "title": "Governor Updates Media in Anguilla on Recent Developments in ECCU",
+        "text": "Governor Antoine expressed the view that the region cannot be transformed without energy. He added that the cost of energy is a major drag on businesses, hence ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/governor-updates-media-in-montserrat-on-recent-developments-in-eccu-2",
+        "title": "Governor Updates Media in Montserrat on Recent ...",
+        "text": "Food security and renewable energy were two of the key issues the Governor of the Eastern Caribbean Central Bank ( ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/governor-updates-media-in-montserrat-on-recent-developments-in-eccu",
+        "title": "Governor Updates Media in Montserrat on Recent ...",
+        "text": "This week's episode of ECCB Connects focuses on Governor Antoine's engagement with the media where he addresses concerns about a possible recession.",
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.eccb-centralbank.org/news/new-eccb-governor-shares-key-messages-with-management-and-staff",
+        "title": "New ECCB Governor Shares Key Messages With Management and ...",
+        "text": "His three key messages were: 1. We are public servants and are accountable; 2. We must step up; and 3. We must do for ourselves what only we can do for ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.eccb-centralbank.org/news/eccb-commissions-evaluation-of-its-communication-public-education-and-community-outreach-programmes",
+        "title": "ECCB Commissions Evaluation of its Communication, Public Education ...",
+        "text": "The Eastern Caribbean Central Bank (ECCB) has engaged the services of a marketing and strategic communication firm to conduct an assessment of its ...",
+        "listing_probability": 0.05
       }
     ]
   }

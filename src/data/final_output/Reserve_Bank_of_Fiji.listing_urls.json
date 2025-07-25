@@ -6,13 +6,25 @@
         "url": "https://www.rbf.gov.fj/publications/",
         "title": "Publications - Reserve Bank of Fiji",
         "text": "The RBF provides economic and financial information through our major publications including monthly Economic Reviews, Quarterly Reviews, Annual Reports and ...",
-        "listing_probability": 1.0
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.rbf.gov.fj/category/fiu-annual-reports/",
+        "title": "FIU Annual Reports Archives - Reserve Bank of Fiji",
+        "text": "Fiji Financial Intelligence Unit 2016 Annual Report, Reporting to the National AML Council, The National AML Council is established under the FTR Act.",
+        "listing_probability": 0.97
       },
       {
         "url": "https://www.rbf.gov.fj/category/insurance-annual-reports/",
         "title": "Insurance Annual Reports Archives - Reserve Bank of Fiji",
-        "text": null,
-        "listing_probability": 1.0
+        "text": "November 21, 2023 RBF Insurance Annual Report 2022 Do you like it? Read more September 1, 2022 thumbnail of RBF Insurance Annual Report 2021",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.rbf.gov.fj/Publications/Economic-Review-November-2017",
+        "title": "Globally, economic activity is expected to pick-up in the near-term as most ...",
+        "text": "Globally, economic activity is expected to pick-up in the near-term as most advanced and emerging market economies are projected to sustain the.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -20,22 +32,34 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.rbf.gov.fj/core-functions/financial-system-development/data-statistics/",
-        "title": "Data & Statistics - Reserve Bank of Fiji",
-        "text": "Access and use of financial services measured from data provided by financial service providers who are licensed and/or supervised by the Reserve Bank of Fiji.",
+        "url": "https://www.rbf.gov.fj/statistics/",
+        "title": "Statistics - Reserve Bank of Fiji",
+        "text": "RBF provides essential macroeconomic data to policy makers, a broad range of domestic and international stakeholders ...",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.rbf.gov.fj/statistics/",
-        "title": "Statistics - Reserve Bank of Fiji",
-        "text": "RBF provides essential macroeconomic data to policy makers, a broad range of domestic and international stakeholders, including investors, rating agencies and ...",
+        "url": "https://www.rbf.gov.fj/core-functions/financial-system-development/data-statistics/",
+        "title": "Data & Statistics - Reserve Bank of Fiji",
+        "text": "Access and use of financial services measured from data provided by financial service providers who are licensed and/or ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.rbf.gov.fj/statistics/economic-and-financial-statistics/",
+        "title": "Economic and Financial Statistics - Reserve Bank of Fiji",
+        "text": "1.0 Monetary and Credit Aggregates 1.1 Depository Corporations Survey 1.2 Other Depository Corporations Survey 1.3 Other Financial Corporations Survey",
         "listing_probability": 0.95
       },
       {
         "url": "https://www.rbf.gov.fj/core-functions/financial-system-development/supply-side-financial-services-data-3/",
         "title": "Supply-side Financial Services Data - Reserve Bank of Fiji",
         "text": "The data offer information that illustrates access and use of various financial services and is collected on an annual basis and is disaggregated by three main ...",
-        "listing_probability": 0.85
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.rbf.gov.fj/statistics/nsdp/",
+        "title": "National Summary Data Page (NSDP) - Reserve Bank of Fiji",
+        "text": "National Summary Data Page (NSDP) – Fiji. Data linked from this page correspond to data described in the ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -43,10 +67,22 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.rbf.gov.fj/core-functions/monetary-stability/a-understanding-fijis-monetary-policy/",
-        "title": "Understanding Fiji's Monetary Policy - Reserve Bank of Fiji",
-        "text": "This article focuses specifically on the RBF's conduct of monetary policy by influencing interest rates, which we do with two clear end-goals or objectives ...",
-        "listing_probability": 0.05
+        "url": "https://www.rbf.gov.fj/markets/exchange-control/ec-guidelines/",
+        "title": "Exchange Control Guidelines - Reserve Bank of Fiji",
+        "text": "Reserve Bank of Fiji Exchange Control Guidelines effective 01 August 2024 – Please Click Here to Download",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.rbf.gov.fj/exchange-control-guidelines-effective-from-01-august-2024/",
+        "title": "Exchange Control Guidelines effective from 01 August 2024",
+        "text": "Home · Articles · Uncategorized · Exchange Control Guidelines effective from 01 August 2024.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.rbf.gov.fj/rbf-facility/guidelines-results/",
+        "title": "Guidelines & Results - Reserve Bank of Fiji",
+        "text": "Guidelines & Results ; Small/Medium Enterprises Credit Guarantee Scheme Small and Medium Enterprises Credit Guarantee Scheme Guidelines – Updated January 2013.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -66,6 +102,18 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.rbf.gov.fj/?m=201009&cat=15",
+        "title": "Speeches Archives - Reserve Bank of Fiji",
+        "text": "Opening Speech by Mr. Sada Reddy, Governor of the Reserve Bank of Fiji at the Microfinance Expo, Court House Ground Labasa, Friday 24 September, 2010.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.rbf.gov.fj/2013/10/?cat=15",
+        "title": "Speeches Archives - Reserve Bank of Fiji",
+        "text": "Keynote address by Barry Whiteside, Governor Reserve Bank Of Fiji at the 4th Pacific Microfinance Week on Tuesday 22 October 2013.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.rbf.gov.fj/press-release-no-08-revisions-to-the-macroeconomic-projections-for-the-fijian-economy-2025-2027/",
         "title": "Press Release No 08 - Revisions to the Macroeconomic Projections for ...",
         "text": "Home · Articles · Press; Press Release No 08 – Revisions to the Macroeconomic Projections for the Fijian Economy (2025-2027). June 11, 2025.",
@@ -80,13 +128,19 @@
         "url": "https://www.rbf.gov.fj/research/reserve-bank-of-fiji-working-papers/",
         "title": "RBF working papers - Reserve Bank of Fiji",
         "text": "These papers are addressed to academics, policy makers, regulators ... RBF working papers. visit pokerbros clubs. About. Contact · Tenders · Forms · Careers ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.rbf.gov.fj/category/working-papers/",
         "title": "Working Papers Archives - Reserve Bank of Fiji",
         "text": "RBF Working Papers · Working Papers · Reassessing Fiji's Core Inflation Measures ... RBF Working Papers · Working Papers · Financial Sector Development in Fiji ...",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.rbf.gov.fj/category/working-papers/reserve-bank-of-fiji-working-papers/",
+        "title": "RBF Working Papers Archives - Reserve Bank of Fiji",
+        "text": null,
+        "listing_probability": 1.0
       }
     ]
   }

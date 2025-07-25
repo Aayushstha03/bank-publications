@@ -18,6 +18,18 @@
         "url": "https://www.dnb.nl/en/publications/",
         "title": "Publications | De Nederlandsche Bank",
         "text": "Receive our latest publications directly in your mailbox? Register for our DNB News Service. You decide which publications you want to receive and how often.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.dnb.nl/en/publications/research-publications/",
+        "title": "Research Publications | De Nederlandsche Bank",
+        "text": "My DNB is your personal portal with De Nederlandsche Bank (DNB). Here you can access the Reporting Service, Supervision Services, Digital Exchange Requests and ...",
+        "listing_probability": 0.01
+      },
+      {
+        "url": "https://www.dnb.nl/en/publications/publications-dnb/?s=annual+report&p=1&l=10",
+        "title": "Publications DNB | De Nederlandsche Bank",
+        "text": "In the 20 May 2025 report DNB finds that the outlook for financial stability in the Netherlands has deteriorated due to geopolitical tensions and ...",
         "listing_probability": 0.9
       }
     ]
@@ -29,7 +41,7 @@
         "url": "https://www.dnb.nl/en/statistics/",
         "title": "Statistics | De Nederlandsche Bank",
         "text": "We provide the latest financial and economic statistics on household savings, mortgage interest rates and foreign direct investment.",
-        "listing_probability": 0.7
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.dnb.nl/en/statistics/data-search/",
@@ -38,10 +50,10 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.dnb.nl/en/statistics/access-to-statistics-through-api-services/",
-        "title": "Access to statistics through API Services - De Nederlandsche Bank",
-        "text": "DNB is making its current datasets available through the API in phases. Which datasets are currently available can be found when you access the DNB Statistics ...",
-        "listing_probability": 0.1
+        "url": "https://www.dnb.nl/en/statistics/dashboards/",
+        "title": "Dashboards | De Nederlandsche Bank",
+        "text": "In the dashboards below, we present the main trends in the financial sector and the balance of payments. The charts in the dashboards are updated in real-time.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -64,7 +76,7 @@
         "url": "https://www.dnb.nl/en/sector-information/open-book-supervision/prudent-policy-dnb-s-policy-making-process/",
         "title": "Prudent Policy – DNB's policy-making process | De Nederlandsche Bank",
         "text": "Our Explanatory guide to DNB's policy statements provides more information about the meaning as well as the legal status of good practices, Q&As, policy rules ...",
-        "listing_probability": 0.2
+        "listing_probability": 0.1
       }
     ]
   },
@@ -78,16 +90,22 @@
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.dnb.nl/en/dnb-news-service/",
+        "title": "DNB News service - De Nederlandsche Bank",
+        "text": "My DNB is your personal portal with De Nederlandsche Bank (DNB). Here you can access the Reporting Service, Supervision Services, Digital Exchange Requests and ...",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.dnb.nl/en/sector-news/",
         "title": "Sector news | De Nederlandsche Bank",
         "text": "To stimulate the dialogue between DNB and the banking sector and to provide more insight into the Anti-Money Laundering and Countering the Financing of ...",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.dnb.nl/en/dnb-news-service/",
-        "title": "DNB News service - De Nederlandsche Bank",
-        "text": "My DNB is your personal portal with De Nederlandsche Bank (DNB). Here you can access the Reporting Service, Supervision Services, Digital Exchange Requests and ...",
-        "listing_probability": 0.1
+        "url": "https://www.dnb.nl/en/general-news/?nt=QmxvZw%2C",
+        "title": "General news - De Nederlandsche Bank",
+        "text": "Telephone: 0800 020 1068 (freephone in the Netherlands) or +31 20 524 9111 (if you call us from abroad) on business days between 9:00 and 15:30. Email: info@dnb ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -95,10 +113,39 @@
     "topic": "research",
     "entries": [
       {
+        "url": "https://www.dnb.nl/en/research/publications/",
+        "title": "Publications | De Nederlandsche Bank",
+        "text": "DNB staff publish their research in the DNB Working Paper series, which are intended for publication in leading economics and finance peer-reviewed journals.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.dnb.nl/en/publications/research-publications/",
         "title": "Research Publications | De Nederlandsche Bank",
         "text": "The Dynamic Relationship between Delinquency Rates, Funding and Market Liquidity and Asset Prices in Private Commercial Real Estate Markets.",
-        "listing_probability": 0.95
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.dnb.nl/en/repec/dnbwpp/",
+        "title": "Working papers",
+        "text": "dnbwpp.rdf.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.dnb.nl/en/publications/research-publications/working-paper-2022/744-central-bank-communication-ith-the-general-public-promise-or-false-hope/",
+        "title": "Central Bank Communication ith the General Public: Promise or False ...",
+        "text": "This article surveys a rapidly-growing literature on central bank communication with the public. We first discuss why and how such communication ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.dnb.nl/en/green-economy/sustainable-finance-platform/working-group-on-sustainability-communication/",
+        "title": "Working Group on Sustainability Communication",
+        "text": "The Working Group on Sustainability Communication includes communication experts from the financial sector who ...",
+        "listing_probability": 0.05
       }
     ]
   }

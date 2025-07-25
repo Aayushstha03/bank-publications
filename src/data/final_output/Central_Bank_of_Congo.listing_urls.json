@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcc.cd/publications",
+        "title": "Publications - Banque Centrale du Congo",
+        "text": "La deuxième passe en revue les politiques conjoncturelles et structurelles mises en œuvre en 2023 et pré ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bcc.cd/sites/all/themes/bccbl/js/pdfjs-1.3.91/web/viewer.html?file=https://www.bcc.cd/sites/default/files/publications/bul_stat_dec_18.pdf",
+        "title": "bul_stat_dec_18.pdf",
+        "text": "Thumbnails Document Outline Attachments. Find: Previous. Next. Highlight all. Match case. Presentation Mode Open Print Download Current View.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcc.cd/publications/bulletin-de-statistiques/bulletin-dinformations-statistiques-juin-2024",
+        "title": "bulletin d'informations statistiques juin 2024 - Banque Centrale du Congo",
+        "text": "BULLETIN D'INFORMATIONS STATISTIQUES JUIN 2024. Télécharger. BULLETIN D'INFORMATIONS STATISTIQUES JUIN 2024. Thumbnails Document Outline Attachments.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcc.cd/publications/bulletin-de-statistiques",
+        "title": "Bulletin de statistiques - Banque Centrale du Congo",
+        "text": "mai 2025. BULLETIN D'INFORMATIONS STATISTIQUES AVRIL 2025. Voir télécharger · avril 2025. BULLETIN D'INFORMATIONS STATISTIQUES MARS 2025. Voir télécharger.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcc.cd/publications/bulletin-de-statistiques/bulletin-dinformations-statistiques-decembre-2021",
+        "title": "bulletin d'informations statistiques decembre 2021",
+        "text": "BULLETIN D'INFORMATIONS STATISTIQUES DECEMBRE 2021. Accueil Publications Bulletin de statistiques BULLETIN D'INFORMATIONS STATISTIQUES DECEMBRE 2021.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcc.cd/publications/bulletin-de-statistiques/bulletin-dinformations-statistiques-fevrier-2022",
+        "title": "bulletin d'informations statistiques fevrier 2022",
+        "text": "BULLETIN D'INFORMATIONS STATISTIQUES FEVRIER 2022. Télécharger. BULLETIN D'INFORMATIONS STATISTIQUES FEVRIER 2022. Thumbnails Document Outline Attachments.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/historique-bons-du-tresor/communication-de-l-encours-bons-du-tresor",
+        "title": "Communication de l'encours Bons du TRESOR",
+        "text": "Tous Les Enregistrements ; Mercredi, 1 avril 2009 · Evolution des opérations de BTR du 04/02 au 01/04/2009 ; Mercredi, 25 février 2009 · Evolution des opérations ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcc.cd/system/files_force/bonsbcc/annonce_de_ladjudication_des_bons_bcc_du_24_11_2021.pdf/?download=1",
+        "title": "Chers collègues",
+        "text": "Nous vous transmettons, pour communication aux banques, la fourchette d'appel d'offres, pour l'opération d'adjudication de ce.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/bons-bcc/communication-de-encours/evolution-des-operations-de-btr-du-0404-au-05062008",
+        "title": "Evolution des opérations de BTR du 04/04 au 05/06/2008",
+        "text": "Evolution des opérations de BTR du 04/04 au 05/06/2008. Accueil Opérations et marchés Domaine opérationnel Opérations de Politique monétaire Bons BCC ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/bons-bcc/communication-de-encours/evolution-des-operations-de-btr-du-0402-au-01042009",
+        "title": "Evolution des opérations de BTR du 04/02 au 01/04/2009",
+        "text": "Evolution des opérations de BTR du 04/02 au 01/04/2009. Accueil Opérations et marchés Domaine opérationnel Opérations de Politique monétaire Bons BCC ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcc.cd/operations-et-marches/domaine-operationnel/operations-de-politique-monetaire/bons-bcc/communication-de-encours/evolution-des-operations-de-btr-du-0701-au-25022009",
+        "title": "Evolution des opérations de BTR du 07/01 au 25/02/2009",
+        "text": "Evolution des opérations de BTR du 07/01 au 25/02/2009 · Taux et indicateurs · Publications: Rapports · Flux des Publications · Evolution des ...",
+        "listing_probability": 0.15
+      }
+    ]
+  }
+]

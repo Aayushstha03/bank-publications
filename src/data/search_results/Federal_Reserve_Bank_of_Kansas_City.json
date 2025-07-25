@@ -8,29 +8,46 @@
           "results": {
             "web": [
               {
+                "url": "https://www.kansascityfed.org/about-us/historical-publications/",
+                "title": "Historical Publications - Federal Reserve Bank of Kansas City",
+                "text": "The Kansas City Fed offers free publications on a variety of topics, including Fed history, banking, macroeconomics, rural America and more.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.kansascityfed.org/banking/banking-resources/complete-and-file-reports/",
+                "title": "Complete and File Reports - Federal Reserve Bank of Kansas City",
+                "text": "The Federal Reserve uses reporting forms to collect data from holding companies, depository institutions, other financial and nonfinancial entities and ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.kansascityfed.org/banking/publications-and-public-records-requests/",
+                "title": "Publications, Public Records Request, File a Complaint",
+                "text": "Access publications, request public records, or file a complaint against a financial institution. Publications, Public Records, Complaints.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2020-12-11T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.kansascityfed.org/community/consumer-credit-reports/",
+                "title": "Consumer Credit Reports - Federal Reserve Bank of Kansas City",
+                "text": "The reports provide data on consumer debt, loan delinquency rates, personal bankruptcy filings and mortgage delinquencies. Latest reports.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
                 "url": "https://www.kansascityfed.org/banking/publications-and-public-records-requests/",
                 "title": "Publications, Public Records Request, File a Complaint ...",
                 "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kansascityfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
                 "image": "https://www.kansascityfed.org/images/Laptop-Publications.original.jpg",
                 "published_time": "2020-12-11T00:00:00",
-                "position": 1
-              },
-              {
-                "url": "https://www.kansascityfed.org/about-us/historical-publications/",
-                "title": "Historical Publications - Federal Reserve Bank of Kansas City",
-                "source": "Federal Reserve Bank of Kansas City",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kansascityfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.kansascityfed.org/images/GettyImages-184616145.original.jpg",
-                "position": 2
-              },
-              {
-                "url": "https://www.kansascityfed.org/about-us/historical-publications/",
-                "title": "Historical Publications - Federal Reserve Bank of Kansas City",
-                "text": "The Kansas City Fed offers free publications on a variety of topics, including Fed history, banking, macroeconomics, rural America and more.",
-                "source": "Federal Reserve Bank of Kansas City",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
@@ -39,7 +56,7 @@
             "Publications reports publications reports free"
           ],
           "query": {
-            "q": "site:http://www.kansascityfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.kansascityfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -60,12 +77,20 @@
                 "position": 1
               },
               {
+                "url": "https://www.kansascityfed.org/data-and-trends/tenth-district-economic-databooks/",
+                "title": "Tenth District Economic Databooks - Federal Reserve Bank of Kansas City",
+                "text": "The quarterly economic databooks provide summaries of regional and national economic indicators for the Tenth District.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
                 "url": "https://www.kansascityfed.org/data-and-trends/",
                 "title": "Data and Trends - Federal Reserve Bank of Kansas City",
                 "text": "National Data and Trends. Kansas City Research Data Center: Learn more about the KCRDC which provides qualified researchers in the Kansas City Fed's Tenth ...",
                 "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.kansascityfed.org/banking/banking-data-and-analytics/",
@@ -73,12 +98,20 @@
                 "text": "Provides a horizontal comparison of capital adequacy among banking organizations of different size and complexity.",
                 "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.kansascityfed.org/research/economic-bulletin/economic-bulletin-archive/",
+                "title": "Economic Bulletin Archive - Federal Reserve Bank of Kansas City",
+                "text": "The Economic Bulletin offers snapshots of the Kansas City Fed's latest economic findings and perspectives on national economic conditions and issues related ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.kansascityfed.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.kansascityfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -90,33 +123,56 @@
           "results": {
             "web": [
               {
-                "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/industrial-change-and-public-policy/",
-                "title": "Industrial Change and Public Policy - Federal Reserve Bank of Kansas City",
-                "text": "Industrial Change and Public Policy. A symposium sponsored by the Federal Reserve Bank of Kansas City / Jackson Hole, Wyoming / August 24 - 26, 1983.",
-                "source": "Kansas City - Federal Reserve",
+                "url": "https://www.kansascityfed.org/documents/7036/BindseilPaper_JH2016.pdf",
+                "title": "Evaluating Monetary Policy Operational Frameworks",
+                "text": "Post-crisis prudential and market regulation have profound ef- fects on market functioning and market liquidity.",
+                "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/the-us-dollar-recent-developments-outlook-and-policy-options/",
-                "title": "The U.S. Dollar - Recent Developments, Outlook, and Policy ...",
-                "text": "A symposium sponsored by the Federal Reserve Bank of Kansas City / Jackson Hole, Wyoming / August 21 - 23, 1985.",
+                "url": "https://www.kansascityfed.org/research/economic-bulletin/current-monetary-policy-may-be-less-restrictive-than-it-seems/",
+                "title": "Current Monetary Policy May Be Less Restrictive Than It Seems",
+                "text": "We examine the current policy stance and argue that interest rates may indeed be less restrictive than commonly thought.",
                 "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.kansascityfed.org/research/policy-perspectives/",
-                "title": "Policy Perspectives - Federal Reserve Bank of Kansas City",
-                "text": "Policy Perspectives are written by Esther George, president and CEO of the Kansas City Fed. In this occasional publication series, she discusses issues ...",
-                "source": "Kansas City - Federal Reserve",
+                "url": "https://www.kansascityfed.org/Jackson%20Hole/documents/3144/papers-Walsh091109.pdf",
+                "title": "Using Monetary Policy to Stabilize Economic Activity",
+                "text": "“Indeed, one of the first lessons one learns from studying a variety of hypothetical models is that the problem of economic stabiliza-.",
+                "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/new-challenges-for-monetary-policy/",
+                "title": "New Challenges for Monetary Policy - Federal Reserve Bank of Kansas City",
+                "text": "How Should Monetary Policy Be Conducted in an Era of Price Stability? LARS SVENSSON Professor Institute for International Economic Studies, Stockholm University.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.kansascityfed.org/Jackson%20Hole/documents/3330/PDF-Woodford2005.pdf",
+                "title": "Central Bank Communication and Policy Effectiveness",
+                "text": "The importance of communication strategy for policy effectiveness follows from a fundamental feature of the kind of problem that a central bank is called upon ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations ppt",
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations examples",
+            "Policy regulations guidelines policy regulations 2022",
+            "Policy regulations guidelines policy regulations california"
+          ],
           "query": {
-            "q": "site:http://www.kansascityfed.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.kansascityfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -144,12 +200,30 @@
                 "position": 2
               },
               {
-                "url": "https://www.kansascityfed.org/newsroom/2024-news-releases/",
-                "title": "2024 NEWS RELEASES - Federal Reserve Bank of Kansas City",
-                "text": "View news releases issued by the Federal Reserve Bank of Kansas City from throughout 2024 here. Growth in Tenth District Services Activity Cooled in December.",
+                "url": "https://www.kansascityfed.org/speeches/remarks-on-the-outlook-and-monetary-policy/",
+                "title": "Remarks on the Outlook and Monetary Policy",
+                "text": "I will provide a high-level view of the Fed's relationship with agriculture before turning to my outlook for the overall economy and monetary policy.",
                 "source": "Federal Reserve Bank of Kansas City",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.kansascityfed.org/speeches/remarks-on-the-economic-outlook/",
+                "title": "Remarks on the Economic Outlook - Federal Reserve Bank of Kansas City",
+                "text": "Today, I will discuss how recent developments have affected my outlook for the economy and monetary policy.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-04-10T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.kansascityfed.org/speeches/agriculture-and-the-federal-reserve-html/",
+                "title": "Agriculture and the Federal Reserve",
+                "text": "The Federal Reserve has many ties to agriculture, both historic and current, and this is especially true for the Kansas City Fed.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-02-27T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -159,7 +233,7 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.kansascityfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.kansascityfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -175,7 +249,7 @@
                 "title": "Research Working Papers - Federal Reserve Bank of Kansas City",
                 "text": "Research Working Papers. Working papers cover a wide range of economic topics, including monetary policy, payment methods, banking and more.",
                 "source": "Federal Reserve Bank of Kansas City",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "favicon": "data:image/webp;base64,UklGRgwFAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSPcCAAAdoG3btmm7an3OtfdB7Fzbtm3btm3btm3btm3GtrOxRn+IfiEiJiCBwYjZNEJggyxABkuEsDRDCAwWMgoZAVgGhCUssEolK0AAN0URUf/nwaaMlbuutMJc9WHf/TQtSCVqOXXuZmocVZByZcSTETLzHbGloTLXim3P3jfWUlT3qxROsmRhrNbdDgsAUyy+75rXvmnLZYaELKhVMi1HLQxgBORlj/3wMYUiWfzStghiTMppp8WwoJym1mwx1xmPfCdCwLrLXdXF1LLmOtAWzU+eG5YW2GN1oNspV01yMniqW7KcUnlsYI07s1/OzT+f2ejcKmzOOwZkI5lIPbbAikurKZGYfmOnwwq0xwsNG5BsKbFqAD/9nHPIUu2u7RaExcePzoBUlIbspUDxQlFYgUW/kWtCz+bEBBhkK4pO4HJIEogZ/1jKalEtgWWcwNRbLFVrgAxyAQZnkC1ZLtPoXpCX/KMpkFFeGms6rc3CSLagkf5ZIlk7fjXUwsJLdjYaVekSWRgLRej7+frI8+974zQsXJwSTv61pYsSTglDajL5nuMr6NAVbuhnxaJXBVbjkVRpFIKQgEo9Pbj0qom0z6GDfskr9DGIVzvLZcXJUlhUG4y59ZB5IPdZb3kAy4PuEEhGoQS010q//+6pPcDIgOL3S5AsANmI1lqZyyefO28F4UiC+ODeQgoFgrIim5YyDJ9esORey3eSm/V+H01cssuUSJYBfr6gRqxQTZJi4pNvjOvZNU2uXLfnbnP9f2rYsoCxP9eRlLBljR08YFyoy65z4aVfr0tltkkOEAZkEE729CELkzrP/zOpE9CwmLllGUSIxverJacr3p6+HcC/zNIYIRuheH3tbmL9E1pKoHzdIIMwsgIB5u+v98qkTgLo96GlYOYGsADK61beRIDFsJslI8CAjDCAGHbWWge0YPjktiQjLDAYBTMKa/jln206Xxr6cUdJKFDIIDOjAYTq/7w6yEoSxmDMjApAZpYGWZg5lGWL0EwQlgEAVlA4IO4BAACwCgCdASokACQAPoEeoFAlISUlGqCgEAlkAK5VADptKabNbZbnptNg3mr/WsEEyv/x04k8gftd6TpDNOWqhVOW/X5A7UQOODXgaJJiOS2UrI1mt87KvIDIQ+Kcn9HoAP7u8/7zuBQgTnMt/9WupB0gRhb2ZV8mMr29+jwHEdMdb/LRNz2QA8sXJBujD9uHF4ws63wiq5c68FHY/uAPrBxnMvyIfWU/9bZ6BIrmpyuNeZ+8LGSj+f4WCRu6ozRbgrpkX2/TNNx5Jfck80QfDOv0uZnL6mNVUgUjSvU+TDnGe+OeildHbhm+yRl0EZtfkfJVFoVyi7mPzcBY6TB6P6Np4jRjhamOU4+I2XdSqoEqqh3Zy6YZXo+15s3vtbK7hxxKfWutZw/7H/rWzEUhFraScvBK70aP7uhsVu8rvwubuw7E0erK9OaF6N+5M1Tkl/Hc2G1X+hc00wu42Wu6vAoaRJNB0x4I9HQ58xXbX+HGdMcUXYTfp6IG98ChsBH0R2A06QncedcO58/YGq63GobYYz2uxAbEeuvakZsjn1Pzsq2q31dBi9YFqnBRTXjG6L8sYiukhjpQuKs49vZOogWeXySwymWlCnK7YEY488obyxfh+/5eDPgORuSBfH0B6OpRIN1EfHvvbMWcx0QAAA==",
                 "position": 1
               },
               {
@@ -183,21 +257,173 @@
                 "title": "Research Working Paper Archive - Federal Reserve Bank of Kansas City",
                 "text": "Research staff produce Research Working Papers on a wide range of economic topics. To receive email alerts for Research Working Papers, subscribe here.",
                 "source": "Federal Reserve Bank of Kansas City",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "favicon": "data:image/webp;base64,UklGRgwFAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSPcCAAAdoG3btmm7an3OtfdB7Fzbtm3btm3btm3btm3GtrOxRn+IfiEiJiCBwYjZNEJggyxABkuEsDRDCAwWMgoZAVgGhCUssEolK0AAN0URUf/nwaaMlbuutMJc9WHf/TQtSCVqOXXuZmocVZByZcSTETLzHbGloTLXim3P3jfWUlT3qxROsmRhrNbdDgsAUyy+75rXvmnLZYaELKhVMi1HLQxgBORlj/3wMYUiWfzStghiTMppp8WwoJym1mwx1xmPfCdCwLrLXdXF1LLmOtAWzU+eG5YW2GN1oNspV01yMniqW7KcUnlsYI07s1/OzT+f2ejcKmzOOwZkI5lIPbbAikurKZGYfmOnwwq0xwsNG5BsKbFqAD/9nHPIUu2u7RaExcePzoBUlIbspUDxQlFYgUW/kWtCz+bEBBhkK4pO4HJIEogZ/1jKalEtgWWcwNRbLFVrgAxyAQZnkC1ZLtPoXpCX/KMpkFFeGms6rc3CSLagkf5ZIlk7fjXUwsJLdjYaVekSWRgLRej7+frI8+974zQsXJwSTv61pYsSTglDajL5nuMr6NAVbuhnxaJXBVbjkVRpFIKQgEo9Pbj0qom0z6GDfskr9DGIVzvLZcXJUlhUG4y59ZB5IPdZb3kAy4PuEEhGoQS010q//+6pPcDIgOL3S5AsANmI1lqZyyefO28F4UiC+ODeQgoFgrIim5YyDJ9esORey3eSm/V+H01cssuUSJYBfr6gRqxQTZJi4pNvjOvZNU2uXLfnbnP9f2rYsoCxP9eRlLBljR08YFyoy65z4aVfr0tltkkOEAZkEE729CELkzrP/zOpE9CwmLllGUSIxverJacr3p6+HcC/zNIYIRuheH3tbmL9E1pKoHzdIIMwsgIB5u+v98qkTgLo96GlYOYGsADK61beRIDFsJslI8CAjDCAGHbWWge0YPjktiQjLDAYBTMKa/jln206Xxr6cUdJKFDIIDOjAYTq/7w6yEoSxmDMjApAZpYGWZg5lGWL0EwQlgEAVlA4IO4BAACwCgCdASokACQAPoEeoFAlISUlGqCgEAlkAK5VADptKabNbZbnptNg3mr/WsEEyv/x04k8gftd6TpDNOWqhVOW/X5A7UQOODXgaJJiOS2UrI1mt87KvIDIQ+Kcn9HoAP7u8/7zuBQgTnMt/9WupB0gRhb2ZV8mMr29+jwHEdMdb/LRNz2QA8sXJBujD9uHF4ws63wiq5c68FHY/uAPrBxnMvyIfWU/9bZ6BIrmpyuNeZ+8LGSj+f4WCRu6ozRbgrpkX2/TNNx5Jfck80QfDOv0uZnL6mNVUgUjSvU+TDnGe+OeildHbhm+yRl0EZtfkfJVFoVyi7mPzcBY6TB6P6Np4jRjhamOU4+I2XdSqoEqqh3Zy6YZXo+15s3vtbK7hxxKfWutZw/7H/rWzEUhFraScvBK70aP7uhsVu8rvwubuw7E0erK9OaF6N+5M1Tkl/Hc2G1X+hc00wu42Wu6vAoaRJNB0x4I9HQ58xXbX+HGdMcUXYTfp6IG98ChsBH0R2A06QncedcO58/YGq63GobYYz2uxAbEeuvakZsjn1Pzsq2q31dBi9YFqnBRTXjG6L8sYiukhjpQuKs49vZOogWeXySwymWlCnK7YEY488obyxfh+/5eDPgORuSBfH0B6OpRIN1EfHvvbMWcx0QAAA==",
                 "position": 2
+              },
+              {
+                "url": "https://www.kansascityfed.org/Research%20Working%20Papers/documents/458/pdf-RWP84-10.pdf",
+                "title": "VECTOR AUTOREGRESSIONS - Federal Reserve Bank of Kansas City",
+                "text": "represent the views of the Federal Reserve Bank of Kansas City or of the Federal Reserve. System. Both authors are economists with the Federal Reserve Bank ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/webp;base64,UklGRgwFAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSPcCAAAdoG3btmm7an3OtfdB7Fzbtm3btm3btm3btm3GtrOxRn+IfiEiJiCBwYjZNEJggyxABkuEsDRDCAwWMgoZAVgGhCUssEolK0AAN0URUf/nwaaMlbuutMJc9WHf/TQtSCVqOXXuZmocVZByZcSTETLzHbGloTLXim3P3jfWUlT3qxROsmRhrNbdDgsAUyy+75rXvmnLZYaELKhVMi1HLQxgBORlj/3wMYUiWfzStghiTMppp8WwoJym1mwx1xmPfCdCwLrLXdXF1LLmOtAWzU+eG5YW2GN1oNspV01yMniqW7KcUnlsYI07s1/OzT+f2ejcKmzOOwZkI5lIPbbAikurKZGYfmOnwwq0xwsNG5BsKbFqAD/9nHPIUu2u7RaExcePzoBUlIbspUDxQlFYgUW/kWtCz+bEBBhkK4pO4HJIEogZ/1jKalEtgWWcwNRbLFVrgAxyAQZnkC1ZLtPoXpCX/KMpkFFeGms6rc3CSLagkf5ZIlk7fjXUwsJLdjYaVekSWRgLRej7+frI8+974zQsXJwSTv61pYsSTglDajL5nuMr6NAVbuhnxaJXBVbjkVRpFIKQgEo9Pbj0qom0z6GDfskr9DGIVzvLZcXJUlhUG4y59ZB5IPdZb3kAy4PuEEhGoQS010q//+6pPcDIgOL3S5AsANmI1lqZyyefO28F4UiC+ODeQgoFgrIim5YyDJ9esORey3eSm/V+H01cssuUSJYBfr6gRqxQTZJi4pNvjOvZNU2uXLfnbnP9f2rYsoCxP9eRlLBljR08YFyoy65z4aVfr0tltkkOEAZkEE729CELkzrP/zOpE9CwmLllGUSIxverJacr3p6+HcC/zNIYIRuheH3tbmL9E1pKoHzdIIMwsgIB5u+v98qkTgLo96GlYOYGsADK61beRIDFsJslI8CAjDCAGHbWWge0YPjktiQjLDAYBTMKa/jln206Xxr6cUdJKFDIIDOjAYTq/7w6yEoSxmDMjApAZpYGWZg5lGWL0EwQlgEAVlA4IO4BAACwCgCdASokACQAPoEeoFAlISUlGqCgEAlkAK5VADptKabNbZbnptNg3mr/WsEEyv/x04k8gftd6TpDNOWqhVOW/X5A7UQOODXgaJJiOS2UrI1mt87KvIDIQ+Kcn9HoAP7u8/7zuBQgTnMt/9WupB0gRhb2ZV8mMr29+jwHEdMdb/LRNz2QA8sXJBujD9uHF4ws63wiq5c68FHY/uAPrBxnMvyIfWU/9bZ6BIrmpyuNeZ+8LGSj+f4WCRu6ozRbgrpkX2/TNNx5Jfck80QfDOv0uZnL6mNVUgUjSvU+TDnGe+OeildHbhm+yRl0EZtfkfJVFoVyi7mPzcBY6TB6P6Np4jRjhamOU4+I2XdSqoEqqh3Zy6YZXo+15s3vtbK7hxxKfWutZw/7H/rWzEUhFraScvBK70aP7uhsVu8rvwubuw7E0erK9OaF6N+5M1Tkl/Hc2G1X+hc00wu42Wu6vAoaRJNB0x4I9HQ58xXbX+HGdMcUXYTfp6IG98ChsBH0R2A06QncedcO58/YGq63GobYYz2uxAbEeuvakZsjn1Pzsq2q31dBi9YFqnBRTXjG6L8sYiukhjpQuKs49vZOogWeXySwymWlCnK7YEY488obyxfh+/5eDPgORuSBfH0B6OpRIN1EfHvvbMWcx0QAAA==",
+                "position": 3
+              },
+              {
+                "url": "https://www.kansascityfed.org/research/research-working-papers/2019-research-working-papers/",
+                "title": "2019 Research Working Papers - Federal Reserve Bank of Kansas City",
+                "text": "The Kansas City Fed's research staff members produce working papers covering a wide range of economic topics, including monetary policy, payment ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/webp;base64,UklGRgwFAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSPcCAAAdoG3btmm7an3OtfdB7Fzbtm3btm3btm3btm3GtrOxRn+IfiEiJiCBwYjZNEJggyxABkuEsDRDCAwWMgoZAVgGhCUssEolK0AAN0URUf/nwaaMlbuutMJc9WHf/TQtSCVqOXXuZmocVZByZcSTETLzHbGloTLXim3P3jfWUlT3qxROsmRhrNbdDgsAUyy+75rXvmnLZYaELKhVMi1HLQxgBORlj/3wMYUiWfzStghiTMppp8WwoJym1mwx1xmPfCdCwLrLXdXF1LLmOtAWzU+eG5YW2GN1oNspV01yMniqW7KcUnlsYI07s1/OzT+f2ejcKmzOOwZkI5lIPbbAikurKZGYfmOnwwq0xwsNG5BsKbFqAD/9nHPIUu2u7RaExcePzoBUlIbspUDxQlFYgUW/kWtCz+bEBBhkK4pO4HJIEogZ/1jKalEtgWWcwNRbLFVrgAxyAQZnkC1ZLtPoXpCX/KMpkFFeGms6rc3CSLagkf5ZIlk7fjXUwsJLdjYaVekSWRgLRej7+frI8+974zQsXJwSTv61pYsSTglDajL5nuMr6NAVbuhnxaJXBVbjkVRpFIKQgEo9Pbj0qom0z6GDfskr9DGIVzvLZcXJUlhUG4y59ZB5IPdZb3kAy4PuEEhGoQS010q//+6pPcDIgOL3S5AsANmI1lqZyyefO28F4UiC+ODeQgoFgrIim5YyDJ9esORey3eSm/V+H01cssuUSJYBfr6gRqxQTZJi4pNvjOvZNU2uXLfnbnP9f2rYsoCxP9eRlLBljR08YFyoy65z4aVfr0tltkkOEAZkEE729CELkzrP/zOpE9CwmLllGUSIxverJacr3p6+HcC/zNIYIRuheH3tbmL9E1pKoHzdIIMwsgIB5u+v98qkTgLo96GlYOYGsADK61beRIDFsJslI8CAjDCAGHbWWge0YPjktiQjLDAYBTMKa/jln206Xxr6cUdJKFDIIDOjAYTq/7w6yEoSxmDMjApAZpYGWZg5lGWL0EwQlgEAVlA4IO4BAACwCgCdASokACQAPoEeoFAlISUlGqCgEAlkAK5VADptKabNbZbnptNg3mr/WsEEyv/x04k8gftd6TpDNOWqhVOW/X5A7UQOODXgaJJiOS2UrI1mt87KvIDIQ+Kcn9HoAP7u8/7zuBQgTnMt/9WupB0gRhb2ZV8mMr29+jwHEdMdb/LRNz2QA8sXJBujD9uHF4ws63wiq5c68FHY/uAPrBxnMvyIfWU/9bZ6BIrmpyuNeZ+8LGSj+f4WCRu6ozRbgrpkX2/TNNx5Jfck80QfDOv0uZnL6mNVUgUjSvU+TDnGe+OeildHbhm+yRl0EZtfkfJVFoVyi7mPzcBY6TB6P6Np4jRjhamOU4+I2XdSqoEqqh3Zy6YZXo+15s3vtbK7hxxKfWutZw/7H/rWzEUhFraScvBK70aP7uhsVu8rvwubuw7E0erK9OaF6N+5M1Tkl/Hc2G1X+hc00wu42Wu6vAoaRJNB0x4I9HQ58xXbX+HGdMcUXYTfp6IG98ChsBH0R2A06QncedcO58/YGq63GobYYz2uxAbEeuvakZsjn1Pzsq2q31dBi9YFqnBRTXjG6L8sYiukhjpQuKs49vZOogWeXySwymWlCnK7YEY488obyxfh+/5eDPgORuSBfH0B6OpRIN1EfHvvbMWcx0QAAA==",
+                "published_time": "2020-12-23T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.kansascityfed.org/research/",
                 "title": "Research - Federal Reserve Bank of Kansas City",
                 "text": "Working papers cover a wide range of economic topics, including monetary policy, payment methods, banking and more. Charting the Economy. New economic data with ...",
                 "source": "Federal Reserve Bank of Kansas City",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
-                "position": 3
+                "favicon": "data:image/webp;base64,UklGRgwFAABXRUJQVlA4WAoAAAAQAAAAIwAAIwAAQUxQSPcCAAAdoG3btmm7an3OtfdB7Fzbtm3btm3btm3btm3GtrOxRn+IfiEiJiCBwYjZNEJggyxABkuEsDRDCAwWMgoZAVgGhCUssEolK0AAN0URUf/nwaaMlbuutMJc9WHf/TQtSCVqOXXuZmocVZByZcSTETLzHbGloTLXim3P3jfWUlT3qxROsmRhrNbdDgsAUyy+75rXvmnLZYaELKhVMi1HLQxgBORlj/3wMYUiWfzStghiTMppp8WwoJym1mwx1xmPfCdCwLrLXdXF1LLmOtAWzU+eG5YW2GN1oNspV01yMniqW7KcUnlsYI07s1/OzT+f2ejcKmzOOwZkI5lIPbbAikurKZGYfmOnwwq0xwsNG5BsKbFqAD/9nHPIUu2u7RaExcePzoBUlIbspUDxQlFYgUW/kWtCz+bEBBhkK4pO4HJIEogZ/1jKalEtgWWcwNRbLFVrgAxyAQZnkC1ZLtPoXpCX/KMpkFFeGms6rc3CSLagkf5ZIlk7fjXUwsJLdjYaVekSWRgLRej7+frI8+974zQsXJwSTv61pYsSTglDajL5nuMr6NAVbuhnxaJXBVbjkVRpFIKQgEo9Pbj0qom0z6GDfskr9DGIVzvLZcXJUlhUG4y59ZB5IPdZb3kAy4PuEEhGoQS010q//+6pPcDIgOL3S5AsANmI1lqZyyefO28F4UiC+ODeQgoFgrIim5YyDJ9esORey3eSm/V+H01cssuUSJYBfr6gRqxQTZJi4pNvjOvZNU2uXLfnbnP9f2rYsoCxP9eRlLBljR08YFyoy65z4aVfr0tltkkOEAZkEE729CELkzrP/zOpE9CwmLllGUSIxverJacr3p6+HcC/zNIYIRuheH3tbmL9E1pKoHzdIIMwsgIB5u+v98qkTgLo96GlYOYGsADK61beRIDFsJslI8CAjDCAGHbWWge0YPjktiQjLDAYBTMKa/jln206Xxr6cUdJKFDIIDOjAYTq/7w6yEoSxmDMjApAZpYGWZg5lGWL0EwQlgEAVlA4IO4BAACwCgCdASokACQAPoEeoFAlISUlGqCgEAlkAK5VADptKabNbZbnptNg3mr/WsEEyv/x04k8gftd6TpDNOWqhVOW/X5A7UQOODXgaJJiOS2UrI1mt87KvIDIQ+Kcn9HoAP7u8/7zuBQgTnMt/9WupB0gRhb2ZV8mMr29+jwHEdMdb/LRNz2QA8sXJBujD9uHF4ws63wiq5c68FHY/uAPrBxnMvyIfWU/9bZ6BIrmpyuNeZ+8LGSj+f4WCRu6ozRbgrpkX2/TNNx5Jfck80QfDOv0uZnL6mNVUgUjSvU+TDnGe+OeildHbhm+yRl0EZtfkfJVFoVyi7mPzcBY6TB6P6Np4jRjhamOU4+I2XdSqoEqqh3Zy6YZXo+15s3vtbK7hxxKfWutZw/7H/rWzEUhFraScvBK70aP7uhsVu8rvwubuw7E0erK9OaF6N+5M1Tkl/Hc2G1X+hc00wu42Wu6vAoaRJNB0x4I9HQ58xXbX+HGdMcUXYTfp6IG98ChsBH0R2A06QncedcO58/YGq63GobYYz2uxAbEeuvakZsjn1Pzsq2q31dBi9YFqnBRTXjG6L8sYiukhjpQuKs49vZOogWeXySwymWlCnK7YEY488obyxfh+/5eDPgORuSBfH0B6OpRIN1EfHvvbMWcx0QAAA==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.kansascityfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.kansascityfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.kansascityfed.org/agriculture/agfinance-updates/",
+                "title": "Ag Finance Updates - Federal Reserve Bank of Kansas City",
+                "text": "These articles summarize recent developments in agricultural finance and lending.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.kansascityfed.org/agriculture/agfinance-updates/growth-in-farm-lending-activity-eases/",
+                "title": "Growth in Farm Lending Activity Eases",
+                "text": "Latest regulatory updates. Ensure safety and soundness of institutions, stability in the markets and fair and equitable treatment of consumers.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-07-16T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.kansascityfed.org/agriculture/agfinance-updates/farm-debt-grows-and-delinquencies-rise-modestly/",
+                "title": "Farm Debt Grows and Delinquencies Rise Modestly",
+                "text": "Growth in farm debt at commercial agricultural banks remained elevated in the first quarter of 2025 and loan delinquency rates increased modestly.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-06-30T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.kansascityfed.org/agriculture/agfinance-updates/gradual-deterioration-in-agricultural-credit-conditions-continues/",
+                "title": "Gradual Deterioration in Agricultural Credit Conditions Continues",
+                "text": "Agricultural credit conditions deteriorated in the first quarter of 2025 and farm real estate values softened in some regions.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-06-04T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.kansascityfed.org/agriculture/agfinance-updates/farm-lending-increases-alongside-larger-operating-loans/",
+                "title": "Farm Lending Increases Alongside Larger Operating Loans",
+                "text": "The volume of farm operating loans increased sharply from a year ago alongside an increase in the number of large loans.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-04-24T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.kansascityfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.kansascityfed.org/about-us/scamnotifications/",
+                "title": "Consumer Scam Alerts - Federal Reserve Bank of Kansas City",
+                "text": "Recently, the Federal Reserve Banks have received a number of unauthorized transactions in which consumers have tried to use the Fed's ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2017-07-11T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.kansascityfed.org/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.kansascityfed.org/Jackson%20Hole/documents/3330/PDF-Woodford2005.pdf",
+                "title": "Central Bank Communication and Policy Effectiveness",
+                "text": "However, the applicability of their analysis to this kind of central bank communication is far from obvious.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.kansascityfed.org/documents/7828/JH2020-Gordon.pdf",
+                "title": "Communication and the Beliefs of Economic Agents",
+                "text": "Abstract. New surveys provide a wealth of information on how economic agents form their expectations and how those expectations shape their decisions.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.kansascityfed.org/documents/5642/rwp20-14dohsongyang.pdf",
+                "title": "Deciphering Federal Reserve Communication via Text Analysis of ...",
+                "text": "Our framework enables counterfactuals showing how alternative communication could have moved markets. JEL Classification: E30, E40, E50, G12.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "published_time": "2025-06-12T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.kansascityfed.org/documents/7819/JH2020-Angeletos.pdf",
+                "title": "Commentary: Communication and the Beliefs of Economic Agents",
+                "text": "Expectations are crucial for the behavior of firms, consumers, banks, etc. The predictions that standard macroeconomic models.",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.kansascityfed.org/documents/6954/Orphanides_Jh2019.pdf",
+                "title": "Monetary Policy Strategy and its Communication",
+                "text": "This paper takes stock of the Federal Reserve's current policy and communication framework, with a focus on some of the key changes that have ...",
+                "source": "Federal Reserve Bank of Kansas City",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVR4AZVTQ5QcARDt2NYlto1bdIkvse1kWmv2yz22zsGyNYrWaqxmYts2K1WDmNUu/MKvZn4l01JSqv2zntOsONFZmsSpRtSCrMu1AaAK6cVMo02E2zcv8qg/NtLjm7IkxdOU9GRnlaJWFMMrVhKTbNyChLxLwGsWOFylLQKgStEqDHqSWHAVJPM22i9DpKfyOptRMJHsazPMoRQTl30e0NncLuj2e14xHkmSVFVU7RmxWecg+tgp4BSjHO0HOdm4RLoIT+V7h2wM4HWjo+gqf8+r1jvGkWF1Ep1l5PyQSuNV82x87kXgdXtnCkCg55gUqxE6u5MKrwEmyhQ8ducIVzmg7yeGVUuH4AcB3BBUYwRW8wnbeeFw5QbaETYU1gm0JVvDYo6f/sQr5jXyw2Cgi0HkgSG067xSPBqHA6xS8niu11tPysqqLklZtekpKHbnSK8PEOCGIFujvgMQXYEW7nIZRT141XgSfez0B2RlxndsKUZcfN6ljwhgCVppP1Ev/QqAZX9Ehyc0RAzcSr0Kmv0cK1nHy+ZUTinZQVUmF98ApH1VkOKK4Ax42R6MvdFw3kXJpxvQxWt2EQ2SaEzIv0w0IgMVb7G6/VQNVUCtBgC4DLuHqNvl+JHDZWY1Jofle6waEa6K1UhVFlZnYLYSZEp2ZBZOkiSouja9OAigmR+Zn4Q28QdhVast8Y7LBUJKYR3ci24ISmxB2IeCvgmEKgEGAKrSXGjFcTaXYo6fAU4uycbZFMeeOAucap5n/iYpoR8IAcZFuMvfJhffhOSiG4DMPXMoJWOZfxEItbUmpbBPpNsXLboruLVKcQfmf4Ta+UmHA/0MZKHSWGo2McwAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.kansascityfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

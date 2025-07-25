@@ -7,6 +7,30 @@
         "title": "Publications - Federal Reserve Bank of Cleveland",
         "text": "Our community development reports provide research and analysis on community and economic development issues in our region, including foreclosure patterns, ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/cd-reports",
+        "title": "Community Development Reports - Federal Reserve Bank of Cleveland",
+        "text": "Our Community Development reports provide research and analysis on community and economic development issues in our region.",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/regional-policy-report",
+        "title": "Regional Policy Report - Federal Reserve Bank of Cleveland",
+        "text": "Regional Policy Reports are mid-length, economically focused essays that provide public policymakers and other stakeholders insightful analysis of policy ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/cd-reports/2022/db-20220804-does-job-quality-affect-occupational-mobility",
+        "title": "Does Job Quality Affect Occupational Mobility?",
+        "text": "An analysis of the 2011 to 2017 period found that occupational mobility varies by job quality to the detriment of workers in low-quality occupations.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/beige-book",
+        "title": "Fourth District Beige Book - Federal Reserve Bank of Cleveland",
+        "text": "The Beige Book is a Federal Reserve System publication about current economic conditions across the 12 Federal Reserve Districts.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -14,16 +38,28 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.clevelandfed.org/publications/cleveland-fed-district-data-brief",
-        "title": "Cleveland Fed District Data Brief",
-        "text": "District Data Briefs offer accessible, short-form data analyses that allow our regional economists to highlight some of the data they examine and share ...",
-        "listing_probability": 0.9
-      },
-      {
         "url": "https://www.clevelandfed.org/indicators-and-data",
         "title": "Indicators and Data - Federal Reserve Bank of Cleveland",
         "text": "The Cleveland Fed maintains a broad range of indicators and datasets that are available for download, including median CPI, median PCE inflation, ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/cleveland-fed-district-data-brief",
+        "title": "Cleveland Fed District Data Brief",
+        "text": "District Data Briefs offer accessible, short-form data analyses that allow our regional economists to highlight some of the data they examine and share ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "title": "Inflation Nowcasting - Federal Reserve Bank of Cleveland",
+        "text": "Inflation Nowcasting 2025:Q3 Source: Federal Reserve Bank of Cleveland calculations based on data from Bureau of Labor Statistics, Bureau of Economic Analysis.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.clevelandfed.org/indicators-and-data/survey-of-firms-inflation-expectations",
+        "title": "Survey of Firms' Inflation Expectations - Federal Reserve Bank of Cleveland",
+        "text": "The Survey of Firms' Inflation Expectations (SoFIE) is a nationally representative, quarterly survey of chief executive officers (CEOs) and other top ...",
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.clevelandfed.org/banking-and-payments/institution-data",
@@ -43,15 +79,27 @@
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.clevelandfed.org/collections/press-releases/2022/pr-20220907-update-on-fed-funds-rates-based-on-7-simple-monetary-policy-rules",
-        "title": "Update on Fed Funds Rates Based on 7 Simple Monetary Policy Rules",
-        "text": "The median federal funds rate across seven policy rules and three economic forecasts rises from 3.67 percent in 2022:Q3 to 4.08 percent in 2024:Q3.",
+        "url": "https://www.clevelandfed.org/publications/economic-commentary/2012/ec-201216-policy-rules-in-macroeconomic-forecasting-models",
+        "title": "Policy Rules in Macroeconomic Forecasting Models",
+        "text": "This Commentary describes how some of the Cleveland Fed's macroeconomic forecasting models have been modified to use a Taylor rule for monetary policy.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.clevelandfed.org/publications/economic-commentary/2013/ec-201308-monetary-policy-tightening-and-long-term-interest-rates",
-        "title": "Monetary Policy Tightening and Long-Term Interest Rates",
-        "text": "Some financial market participants are concerned that long-term interest rates may increase more than should be expected when the Committee starts to tighten.",
+        "url": "https://www.clevelandfed.org/collections/speeches/2025/sp-20250416-approaching-monetary-policy-with-heart-brains-and-courage",
+        "title": "Fed 101: Approaching Monetary Policy with Heart, Brains, and ...",
+        "text": "The Fed monitors the financial landscape for emerging risks while enforcing rules and regulations that aim ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/speeches/2024/sp-20240528-forward-guidance-and-monetary-policy-communications",
+        "title": "Forward Guidance and Monetary Policy Communications: Use Your ...",
+        "text": "The effectiveness of forward guidance as a policy tool in extraordinary times can be enhanced by improving monetary policy communications in normal times.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/speeches/2023/sp-20230710-update-on-economy-and-monetary-policy",
+        "title": "An Update on the Economy and Monetary Policy",
+        "text": "The Federal Reserve has been tightening the stance of monetary policy. We have raised the target range of the federal funds rate by 5 percentage points.",
         "listing_probability": 0.05
       }
     ]
@@ -63,19 +111,31 @@
         "url": "https://www.clevelandfed.org/collections/speeches",
         "title": "Speeches - Federal Reserve Bank of Cleveland",
         "text": "Speeches by the Cleveland Fed President and other leaders from the Bank. An archive of speeches by former Cleveland Fed presidents is ...",
-        "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.clevelandfed.org/collections/press-releases",
-        "title": "Press Releases - Federal Reserve Bank of Cleveland",
-        "text": "President Hammack spoke at a monetary policy forum on June 24, 2025. Press Release. Cleveland Fed forms Financial Markets Advisory Council.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.clevelandfed.org/news-and-events",
         "title": "News and Events - Federal Reserve Bank of Cleveland",
         "text": "Explore the latest from the Cleveland Fed. Press Releases, View recent press releases from our Bank, Speeches, Read speeches by our president and other leaders.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/press-releases",
+        "title": "Press Releases - Federal Reserve Bank of Cleveland",
+        "text": "President Hammack spoke at a monetary policy forum on June 24, 2025. Press Release. Cleveland Fed forms Financial Markets Advisory Council.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/press-releases/2025/pr-20250716-presidents-speech-community-development-adventure",
+        "title": "President's Speech: “The Cleveland Fed's Excellent Community ...",
+        "text": "President Hammack gave keynote remarks at the Cuyahoga County Community College's Corporate College 20-Year Anniversary Celebration on July ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.clevelandfed.org/collections/speeches/2025/sp-20250416-approaching-monetary-policy-with-heart-brains-and-courage",
+        "title": "Fed 101: Approaching Monetary Policy with Heart, Brains, and ...",
+        "text": "Subscribe to receive notifications about President Hammack's upcoming speaking engagements and text from her latest speeches. First name*.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -83,16 +143,85 @@
     "topic": "research",
     "entries": [
       {
+        "url": "https://www.clevelandfed.org/publications/working-paper",
+        "title": "Working Paper - Federal Reserve Bank of Cleveland",
+        "text": "Working Papers are preliminary versions of technical papers containing the results and discussions of current research.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.clevelandfed.org/center-for-inflation-research/inflation-working-papers",
         "title": "Working Papers About Inflation - Federal Reserve Bank of Cleveland",
         "text": "Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual publication in ...",
         "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/publications/working-paper/1985/wp-8502-federal-reserve-credibility-and-the-markets-response-to-the-weekly-m1-announcements",
+        "title": "Federal Reserve Credibility and the Market's Response to the Weekly ...",
+        "text": "This paper provides new evidence on the issue of Federal Reserve System credibility by examining the response pattern of asset prices to the weekly M1 ...",
+        "listing_probability": 0.0
       },
       {
-        "url": "https://www.clevelandfed.org/research",
-        "title": "Research - Federal Reserve Bank of Cleveland",
-        "text": "Working Papers. Working Papers are preliminary versions of technical papers containing results and discussions of current research. Written for eventual ...",
-        "listing_probability": 0.92
+        "url": "https://www.clevelandfed.org/publications/working-paper/1986/wp-8605-rival-stock-price-reactions-to-large-bhc-acquisition-announcements",
+        "title": "Rival Stock Price Reactions to Large BHC Acquisition ...",
+        "text": "An examination of whether multimarket contacts among geographically diversified bank holding companies adversely affect competition.",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/cd-reports/2020/db-20200902-data-updates-measuring-evictions-during-the-covid-19-crisis",
+        "title": "Data Updates: Measuring Evictions during the COVID-19 Crisis",
+        "text": "These data updates capture weekly eviction filing counts for 63 jurisdictions across the US, representing approximately 13 percent of renter households in the ...",
+        "listing_probability": 0.0
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/publications/working-paper/2022/wp-2003r-advance-layoff-notices-and-aggregate-job-loss",
+        "title": "Advance Layoff Notices and Aggregate Job Loss",
+        "text": "We collect data from Worker Adjustment and Retraining Notification (WARN) Act notices and establish their usefulness as an indicator of aggregate job loss.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/working-paper/2020/wp-2003-advance-layoff-notices-and-labor-market-forecasting",
+        "title": "Advance Layoff Notices and Labor Market Forecasting",
+        "text": "We collect rich establishment-level data about advance layoff notices filed under the Worker Adjustment and Retraining Notification (WARN) Act since January ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/economic-commentary/2019/ec-201921-advance-layoff-notices-as-labor-market-indicator",
+        "title": "Using Advance Layoff Notices as a Labor Market Indicator",
+        "text": "We use advance layoff notices filed under the Worker Adjustment and Retraining Notification (WARN) Act as an indicator of current and imminent labor market ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.clevelandfed.org/banking-and-payments/applications",
+        "title": "Application Filings and Notices - Federal Reserve Bank of Cleveland",
+        "text": "FedEZFile is the Federal Reserve System's single technology tool that offers an easy, immediate, and secure way for financial organizations.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.clevelandfed.org/publications/economic-commentary/2012/ec-201209-communication-credibility-and-price-stability-lessons-learned-from-japan",
+        "title": "Communication, Credibility, and Price Stability: Lessons Learned ...",
+        "text": "Over the past couple of decades, central banks have been taking steps to increase the transparency of their monetary policies through clearer communications ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.clevelandfed.org/publications/working-paper/2024/wp-2421-collusion-in-repeated-auctions-with-costless-communication",
+        "title": "Collusion in Repeated Auctions with Costless Communication",
+        "text": "In this paper, we present a model of repeated first-price private value auctions in which the bidders have access to a cheap talk communication mechanism.",
+        "listing_probability": 0.05
       }
     ]
   }

@@ -3,16 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.ecb.europa.eu/press/intro/publications/html/index.en.html",
-        "title": "Publications - European Central Bank",
-        "text": "Publications ; 4 April 2025 · Corporate Actions: Single Collateral Management Rulebook for Europe ; 20 January 2025 · 15th T2S Harmonisation ...",
-        "listing_probability": 0.98
+        "url": "https://www.ecb.europa.eu/press/other-publications/convergence/html/index.en.html",
+        "title": "Convergence Report - European Central Bank",
+        "text": "EU Commission reports ... Like the ECB, the European Commission also publishes convergence reports assessing the readiness of EU member states to adopt the euro.",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.ecb.europa.eu/press/research-publications/resbull/2023/html/ecb.rb231128~0a16e73d87.en.html",
-        "title": "Reports of AI ending human labour may be greatly exaggerated",
-        "text": null,
-        "listing_probability": 0.02
+        "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/index.en.html",
+        "title": "Annual Report - European Central Bank",
+        "text": "The Annual Report describes the tasks and activities of the European System of Central Banks (ESCB) and reports on the Eurosystem's monetary policy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html",
+        "title": "All news & publications - European Central Bank",
+        "text": "Interested in a publication by the ECB from a particular point in time? Browse publications by date.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/other-publications/ire/html/index.en.html",
+        "title": "The international role of the euro - European Central Bank",
+        "text": "The international role of the euro remained broadly stable in 2024. This stability was noteworthy in a year that saw the ECB begin lowering policy rates.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250604~26651b6294.en.html",
+        "title": "ECB reports on Bulgaria's progress towards euro adoption",
+        "text": "Bulgaria has made good progress towards economic convergence with the euro area since 2024, according to the Convergence Report of the European Central Bank ( ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -20,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.ecb.europa.eu/stats/all-key-statistics/html/index.en.html",
-        "title": "All key statistics - European Central Bank",
-        "text": "This list provides an overview of the main statistical data and other key datasets produced and disseminated by the ECB.",
+        "url": "https://www.ecb.europa.eu/stats/html/index.en.html",
+        "title": "Overview of ECB statistics - European Union",
+        "text": "The ECB and national central banks provide official statistics on the health of the economy. These statistics support all aspects of the ECB's work.",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.ecb.europa.eu/stats/accessing-our-data/html/index.en.html",
-        "title": "All data services - European Central Bank",
-        "text": "The ECB Data Portal provides access to all official ECB statistics. The portal also provides options to download data and comprehensive metadata for each ...",
-        "listing_probability": 0.85
+        "url": "https://www.ecb.europa.eu/pub/spb/html/index.en.html",
+        "title": "Statistics Pocket Book - European Central Bank",
+        "text": "It contains selected macroeconomic indicators for the individual Member States of the European Union, as well as comparisons between the euro area.",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.ecb.europa.eu/press/research-publications/statistics-papers/html/index.en.html",
-        "title": "Statistics papers - European Central Bank",
-        "text": "Browse the ECB Statistics Paper Series covering both methodological and conceptual issues related to central banking statistics, new statistical topics and ...",
+        "url": "https://www.ecb.europa.eu/stats/ecb_statistics/html/index.en.html",
+        "title": "Data reporting & standards - European Central Bank",
+        "text": "The ESCB follows a policy of free access and free reuse for its publicly released statistics. Focus primarily on the euro area. To produce a meaningful euro ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.ecb.europa.eu/stats/all-key-statistics/html/index.en.html",
+        "title": "All key statistics - European Central Bank",
+        "text": "This list provides an overview of the main statistical data and other key datasets produced and disseminated by the ECB.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.ecb.europa.eu/stats/payment_statistics/html/index.en.html",
+        "title": "Payment statistics - European Central Bank",
+        "text": "These statistics cover important aspects of payment transactions in EU countries. They are compiled at EU and euro area levels, and individually for each EU ...",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -43,16 +73,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/html/monetary-policy-instruments.en.html",
-        "title": "Our monetary policy instruments and the strategy review",
-        "text": "To help keep prices stable, we need the right tools at hand. That is why we have introduced new monetary policy instruments in recent years.",
+        "url": "https://www.ecb.europa.eu/mopo/eaec/ecopolicy/html/index.en.html",
+        "title": "Economic policy - European Central Bank",
+        "text": "The Integrated Guidelines set out the framework for the strategy at Member State level.",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/monetary-policy/html/index.en.html",
+        "url": "https://www.ecb.europa.eu/mopo/html/index.en.html",
+        "title": "Overview of monetary policy and markets - European Central Bank",
+        "text": "Our monetary policy influences how much you have to pay to borrow and how much interest you receive on your savings. We steer interest rates with the aim of ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250724~50bc70e13f.en.html",
+        "title": "Monetary policy decisions - European Central Bank",
+        "text": "24 July 2025. The Governing Council today decided to keep the three key ECB interest rates unchanged. Inflation is currently at the 2% medium-term target.",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.ecb.europa.eu/ecb/orga/tasks/monpol/html/index.en.html",
         "title": "Monetary policy - European Central Bank",
-        "text": "What is the marginal lending facility rate? 13 September 2018: What is the main refinancing operations rate? 18 July 2018: What is economic slack? 1 June 2018 ...",
-        "listing_probability": 0.9
+        "text": "Monetary policy is our way of guaranteeing price stability. Our measures influence economic developments, which helps keep inflation in line with our target.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630~aabf988af8.en.html",
+        "title": "ECB's Governing Council updates its monetary policy strategy",
+        "text": "The monetary policy strategy enables the Governing Council to respond effectively to major changes in the inflation environment. This is ...",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -60,22 +108,34 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202501_07~c37ab82e06.en.html",
-        "title": "From press conferences to speeches: the impact of the ECB's monetary ...",
-        "text": "Monetary policy communication is important for managing expectations and enhancing the effectiveness of monetary policy in the pursuit of price stability.",
-        "listing_probability": 0.05
+        "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2025/html/ecb.is250724~a66e730494.en.html",
+        "title": "PRESS CONFERENCE - European Central Bank",
+        "text": "The Governing Council today decided to keep the three key ECB interest rates unchanged. Inflation is currently at our two per cent medium-term ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+        "title": "Weekly schedule of public speaking engagements and other activities",
+        "text": "Find the ECB's weekly schedule of public speaking engagements and other activities by the ECB Board Members.",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.ecb.europa.eu/press/press_conference/html/index.en.html",
         "title": "Press conference - European Central Bank",
-        "text": "The President will provide an in-depth explanation of the reasons behind the latest monetary policy decisions. Read from 15:00 CET. Watch the press conference.",
+        "text": "Here is what the Governing Council decided about the ECB's interest rates and instruments at its latest meeting. Press release.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202501_07~c37ab82e06.en.html",
+        "title": "From press conferences to speeches: the impact of the ECB's monetary ...",
+        "text": "Monetary policy communication is important for managing expectations and enhancing the effectiveness of monetary policy in the pursuit of price stability.",
         "listing_probability": 0.1
       },
       {
         "url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html",
         "title": "All news & publications - European Central Bank",
         "text": "Interested in a publication by the ECB from a particular point in time? Browse publications by date.",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
       }
     ]
   },
@@ -92,13 +152,46 @@
         "url": "https://www.ecb.europa.eu/pub/research/html/index.en.html",
         "title": "Research papers - European Central Bank",
         "text": "Our working papers share economic research relevant to the ECB's tasks and functions. We publish them to stimulate discussion. Read our latest working papers ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630~aabf988af8.en.html",
+        "title": "ECB's Governing Council updates its monetary policy strategy",
+        "text": "30 June 2025. Governing Council confirms symmetric 2% inflation target over the medium term; Symmetry requires appropriately forceful or persistent policy ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/paym/target/html/register.en.html",
+        "title": "Subscribe to email alerts about the operational status of TARGET ...",
+        "text": "Receive an automated email informing you of the real-time operational status of T2, TIPS, T2S or ECMS. Email (mandatory). Which TARGET Service interests ...",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.ecb.europa.eu/press/research-publications/working-papers/html/index.fi.html?skey=Survey%20of%20professional%20forecasters",
-        "title": "Working papers - European Union",
-        "text": "The working papers constitute “work in progress”. They are published to stimulate discussion and contribute to the advancement of our knowledge of economic ...",
-        "listing_probability": 0.98
+        "url": "https://www.ecb.europa.eu/services/using-our-site/technical-updates/html/register.en.html",
+        "title": "Subscribe to email alerts about upcoming technical updates",
+        "text": "Subscribe to email alerts about upcoming technical updates. Receive an automated email announcing upcoming technical updates to this website.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230904_2~f2d3ee13d9.en.html",
+        "title": "Communication and monetary policy - European Central Bank",
+        "text": "Communication plays a vital role in the art of effective policymaking today, and this is especially true for central banks like the ECB.",
+        "listing_probability": 0.05
       }
     ]
   }

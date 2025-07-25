@@ -14,15 +14,25 @@
                 "source": "Central Bank of lesotho",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
                 "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.ls/images/Publications/Research/Bulletins/December_2017/1_The_Financial_Cost_of_Lesothos_Foreign_and_Domestic_Public_Debt.pdf",
+                "title": "The Financial Cost of Lesotho's Foreign and Domestic Public Debt",
+                "text": "THE FINANCIAL cost of external public debt could have increased due to the recent depreciation of the Loti against major currencies, which could strengthen ...",
+                "source": "Central Bank of Lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "position": 2
               }
             ]
           },
           "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports examples",
             "Publications reports publications reports 2022",
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.centralbank.org.ls/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.centralbank.org.ls/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,17 +60,101 @@
                 "position": 2
               },
               {
+                "url": "https://www.centralbank.org.ls/images/Legislation/Supervision/Regulations/Insurance/Insurance_Registration__Licensing_Requirements_Regulations_2021.pdf",
+                "title": "Insurance (Registration & Licensing Requirements) Regulations, 2021",
+                "text": "These Regulations apply to a person who wishes to be registered and li- censed to carry an insurance business in Lesotho.",
+                "source": "Central Bank of lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.org.ls/wp-content/uploads/Financial_Institutions_Computation_of_Capital_Charge_for_Credit_Operational_and_Market_Risks_Regulations_2023.pdf",
+                "title": "Government Gazette - Central Bank of lesotho",
+                "text": "14. Credit risk mitigant for regulatory capital shall be recognized if they comply with regulation 15.",
+                "source": "Central Bank of lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
                 "url": "https://www.centralbank.org.ls/category/monetary-policy-statements/page/4/",
                 "title": "Monetary Policy Statements – Page 4 - Central Bank of lesotho",
                 "text": "To serve the public interest by promoting and maintaining monetary and financial stability while ensuring fair business practices in the financial sector.",
                 "source": "Central Bank of lesotho",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021"
+          ],
           "query": {
-            "q": "site:http://www.centralbank.org.ls/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.centralbank.org.ls/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.centralbank.org.ls/cbl-nul-partnership-on-personal-finance-management/speeches/",
+                "title": "CBL – NUL Partnership on Personal Finance Management",
+                "text": "To serve the public interest by promoting and maintaining monetary and financial stability while ensuring fair business practices in the ...",
+                "source": "Central Bank of lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "published_time": "2025-01-15T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.centralbank.org.ls/wp-content/uploads/Press_Statement_150921.pdf",
+                "title": "Press Release - Central Bank of Lesotho",
+                "text": "The Central Bank of Lesotho, as the Commissioner of Financial Institutions, has become aware of a circulating.",
+                "source": "Central Bank of Lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "published_time": "2021-09-15T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.centralbank.org.ls/wp-content/uploads/COVID-19_1st_Press_Release.pdf",
+                "title": "Press Release - Central Bank of lesotho",
+                "text": "Members of the public are hereby informed that the Central Bank of Lesotho has been made aware that a 33 year old female member of staff of ...",
+                "source": "Central Bank of lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "published_time": "2020-03-15T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.centralbank.org.ls/wp-content/uploads/BAL_Joint_Press_Statement_Cybersecurity_10_2.pdf",
+                "title": "Press Release - Central Bank of lesotho",
+                "text": "Joint Statement by the Bankers Association of Lesotho (BAL) and the Central Bank of Lesotho (CBL) on the Resumption of Inter-Bank. Payments.",
+                "source": "Central Bank of lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "published_time": "2023-12-15T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.centralbank.org.ls/wp-content/uploads/False_Allegations-Ses_Eng_1_2_pg_02_Nov_2022_.pdf",
+                "title": "Press Release - Central Bank of lesotho",
+                "text": "The public is informed that it has come to the attention of the Central. Bank of Lesotho that false information is being circulated on some.",
+                "source": "Central Bank of lesotho",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAANlBMVEVHcEzMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixrMixpqoWFxAAAAEnRSTlMAGCQuOo1lWn1D1wybTnKruvKQ/ZSUAAABKUlEQVR4AW3MB4IgIQhE0VK0ABXU+192uzdP+B19BvxXwTdVaV2qfHGqmpOfuajLUPX6ySfFu1Z+dvTVTdf64pUW2ePDGQgBUPx9T6L85q0GaGo20wLm78PqOSysnV2tUnwfxct2rRqzyGqTSclrCsBsT1UCngGEGvYyAByrWAK69nk/6nkfr/2IRwA2zujvLp1rN0hf4WCEt9CIUIT0xzFuczy5MQJPUcYtmJvdac3bmzcLVe6G57AlRqW5N5r1jNxbgHr7TGsUYE0scvIqAEk7lWHALAimr+wNQOEdtdEz3FOSc1++jrpGM2Um3Uwz9nn5yfrmQolQgcXpC7+zHDfwNu81K/hb7rFOP33shf/LzvMcMMw+uCrPCxyqnH+5iGBO4H2J1Jd+AN3sDSkri+VVAAAAAElFTkSuQmCC",
+                "published_time": "2022-11-02T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press pdf",
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.centralbank.org.ls/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]

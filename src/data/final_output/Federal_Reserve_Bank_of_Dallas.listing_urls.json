@@ -1,11 +1,99 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/pubs",
+        "title": "Publications - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Listing of current Dallas Fed publications. See historical publications for access to discontinued journals, reports and papers.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.dallasfed.org/research/pubs",
+        "title": "Research publications - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Contains articles about economic conditions and business development in Texas, New Mexico and Louisiana, including ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.dallasfed.org/pubs/historical",
+        "title": "Historical Publications - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Historical Publications ; Annual Report (1915–2017) ; Banking and Community Perspectives (1995–2012) ; Behind the Numbers: PCE Inflation Update ( 2015–23) ; The ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.dallasfed.org/pubs/historical/annual",
+        "title": "Annual reports - Dallasfed.org",
+        "text": "Dallas Fed annual reports were published 1915–2017. Issues are available on FRASER, the Federal Reserve's digital library of US economic, financial and banking ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.dallasfed.org/cd/pubs",
+        "title": "In-depth reports and other resources - Dallasfed.org",
+        "text": "In-depth reports and other resources ... Topics: small business and entrepreneurship, workforce development, education, digital access, Community Reinvestment Act ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/research/econdata",
+        "title": "Economic data - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Current and historical data collected by the Dallas Fed to assess conditions in manufacturing, services, energy, and lending across Texas.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.dallasfed.org/research/econdata/tx-emp",
+        "title": "Texas Employment Data - Federal Reserve Bank of Dallas",
+        "text": "The Dallas Fed improves the quality of the Bureau of Labor Statistics' payroll employment estimates for Texas using early benchmarking and two-step seasonal ...",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.dallasfed.org/research/surveys/des/data",
+        "title": "Dallas Fed Energy Survey - Historical data",
+        "text": "Historical Data. Historical data can be downloaded dating back to first quarter 2016. For the definitions of all variables, see Data Definitions.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.dallasfed.org/research/basics/definitions",
+        "title": "Data definitions - Dallasfed.org",
+        "text": "Texas Leading Index. The Texas Leading Index is a single summary statistic that sheds light on the future of the state's economy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.dallasfed.org/research/wei/series",
+        "title": "Data Series Employed in the WEI - Dallasfed.org",
+        "text": "The WEI is composed of 10 underlying series. To measure consumer behavior, we include the Redbook same-store retail sales index and the Rasmussen Consumer ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.dallasfed.org/research/international/dgei/policy",
-        "title": "Short-term official/policy rates - Dallasfed.org",
-        "text": "Short-term official/policy rates ... Get analysis, research, resources and event information delivered directly to your inbox. Subscribe. Follow the Dallas Fed.",
+        "url": "https://www.dallasfed.org/news/speeches/logan/2024/lkl241021",
+        "title": "Normalizing the FOMC's monetary policy tools - Dallasfed.org",
+        "text": "A strategy of gradually lowering the policy rate toward a more normal or neutral level can help manage the risks and achieve our goals.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.dallasfed.org/research/economics/2025/0415",
+        "title": "Monetary policy implementation and the consolidated government ...",
+        "text": "This essay uses the consolidated government balance sheet and income statement to demonstrate that ample-reserves and scarce-reserves monetary policy ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.dallasfed.org/topics/monetary",
+        "title": "Monetary policy - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "This essay examines the trade-offs between different monetary policy implementation methods through the lens of the consolidated government balance sheet and ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.dallasfed.org/research/papers/2024/wp2412",
+        "title": "Monetary Policy Interactions: The Policy Rate, Asset Purchases and ...",
+        "text": "We study monetary policy in a New Keynesian model with a variable credit spread and scope for central bank asset purchases to matter.",
         "listing_probability": 0.05
       }
     ]
@@ -14,22 +102,34 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.dallasfed.org/news/speeches",
+        "title": "Speech archives - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Speeches by President Lorie K. Logan (2017–present) · Speeches by other Dallas Fed leaders (2023–present) · Speeches and essays by former President Robert S.",
+        "listing_probability": 0.98
+      },
+      {
         "url": "https://www.dallasfed.org/news/speeches/logan",
         "title": "Speeches by President Lorie K. Logan - Dallasfed.org",
         "text": "Find the full text for President Logan's prepared public remarks. This listing includes older speeches and essays from her years with the Federal Reserve Bank ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.dallasfed.org/news/speeches/kaplan",
         "title": "Essays and speeches by former President Robert S. Kaplan, 2015–21",
         "text": "Essays and speeches by former President Robert S. Kaplan, 2015–21 · A Discussion of Economic Conditions, Key Secular Trends and the Limits of Monetary Policy",
-        "listing_probability": 0.92
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.dallasfed.org/news/speeches/fisher",
-        "title": "Speeches by former President Richard W. Fisher, 2005–15",
-        "text": "\"'Audit the Fed' is nothing more than an attempt to override purely economic judgments and bend monetary policy to the will of politicians. It is misguided.\"",
-        "listing_probability": 0.3
+        "url": "https://www.dallasfed.org/news/speeches/logan/2025/lkl250715",
+        "title": "Opening remarks for moderated conversation at the World Affairs ...",
+        "text": "July 15, 2025. Dallas Fed President Lorie K. Logan delivered these remarks before the World Affairs Council of San Antonio on July 15, 2025.",
+        "listing_probability": 0.08
+      },
+      {
+        "url": "https://www.dallasfed.org/news/speeches/logan/2025/lkl250519",
+        "title": "Opening remarks for panel titled 'The increasing role of nonbank ...",
+        "text": "Our topic this afternoon is a timely one: the role of nonbank financial institutions (NBFIs) in Treasury and money markets.",
+        "listing_probability": 0.08
       }
     ]
   },
@@ -41,12 +141,51 @@
         "title": "Working papers - Dallasfed.org - Federal Reserve Bank of Dallas",
         "text": "Working papers from the Federal Reserve Bank of Dallas are preliminary drafts circulated for professional comment.",
         "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/research/update",
+        "title": "Economic updates - Dallasfed.org - Federal Reserve Bank of Dallas",
+        "text": "Economic updates: Dallas Fed economists review recent economic conditions in the region, US and the world.",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.dallasfed.org/research/international/global/global-wpapers",
-        "title": "Global Institute working papers - Dallasfed.org",
-        "text": "Working papers from the Global Institute provide critical insights on trade, immigration, and other major international issues, along with in-depth analysis ...",
-        "listing_probability": 0.98
+        "url": "https://www.dallasfed.org/research/papers/2019/wp1906",
+        "title": "Do Monetary Policy Announcements Shift Household Expectations?",
+        "text": "We find that a surprise increase in the target rate robustly leads to an immediate decline in household confidence, at odds with previous findings.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.dallasfed.org/educate/events/2020/20regional",
+        "title": "Regional Economic Updates - Dallasfed.org",
+        "text": "In this series of videos, educators will learn about what is current in the regional economy with updates from Dallas, El Paso, Houston and San Antonio. DFW ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/research/swe/2023/swe2315",
+        "title": "WARN layoff notices signal easing Texas labor market ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.dallasfed.org/research/economics/2023/0328",
+        "title": "Calibrating central bank inflation messages is key to policy success",
+        "text": "Central bank communication is itself a key monetary policy tool. A well-crafted message about the current and future state of the economy can ...",
+        "listing_probability": 0.05
       }
     ]
   }

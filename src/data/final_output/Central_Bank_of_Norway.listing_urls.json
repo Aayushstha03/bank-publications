@@ -12,12 +12,18 @@
         "url": "https://www.norges-bank.no/en/news-events/publications/?selectedFacets%5BType%5D=80159&skip=0",
         "title": "Publications - Norges Bank",
         "text": "Annual Report · Annual reports for retail payment services · Documentation Note · Economic Commentaries · Expectations Survey · External evaluations · Financial ...",
-        "listing_probability": 0.99
+        "listing_probability": 0.98
       },
       {
-        "url": "https://www.norges-bank.no/en/news-events/publications/Regional-network-reports/",
-        "title": "Regional Network reports - Norges Bank",
+        "url": "https://www.norges-bank.no/en/news-events/publications/Annual-Report/",
+        "title": "Annual Report - Norges Bank",
         "text": "Annual Report · Documentation Note · Economic Commentaries · Expectations Survey · External evaluations · Financial Infrastructure Report · Financial Stability Report",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/Financial-Stability-report/",
+        "title": "Financial Stability Report - Norges Bank",
+        "text": "Financial Stability Report 2025 H1. Financial Stability Report. 20 May 2025. November 2024. Financial Stability Report 2024 H2. Financial Stability Report.",
         "listing_probability": 0.95
       }
     ]
@@ -29,19 +35,31 @@
         "url": "https://www.norges-bank.no/en/topics/Statistics/",
         "title": "Statistics - Norges Bank",
         "text": "Statistics for the Norwegian banking sector, including financial institution type, market shares, Common Equity Tier 1 (CET1) ratio, lending, credit losses and ...",
-        "listing_probability": 0.9
-      },
-      {
-        "url": "https://www.norges-bank.no/en/topics/Statistics/nowa-data/",
-        "title": "Nowa data - Norges Bank",
-        "text": "The Nowai (Nowa index) is an index representing the cumulative return on an investment earning daily compound interest at the Nowa rate.",
-        "listing_probability": 0.3
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.norges-bank.no/en/topics/Statistics/money-market-data/",
         "title": "Money market data - Norges Bank",
         "text": "Norges Bank publishes aggregated money market data based on bank's reporting to Norges Bank (RPD). Data are published approximately at 11 am each working day.",
-        "listing_probability": 0.7
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Statistics/payment-statistics/",
+        "title": "Payment statistics - Norges Bank",
+        "text": "Norge Bank publishes annual statistics on developments in retail payment services. The statistics include the number and value of customer transactions.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Statistics/Historical-monetary-statistics/",
+        "title": "Historical Monetary and Financial Statistics for Norway (HMFS)",
+        "text": "The database contains data for consumer prices, house prices, nominal wages, short term and long term interest rates, money and credit aggregates, bank lending",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/topics/Statistics/open-data/",
+        "title": "Data warehouse for open data - Norges Bank",
+        "text": "Norges Bank's API for open data offers programmatic access to selected datasets published by the bank.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -52,19 +70,25 @@
         "url": "https://www.norges-bank.no/en/topics/Monetary-policy/",
         "title": "Monetary policy - Norges Bank",
         "text": "We set the policy rate to ensure low and stable inflation in Norway.",
-        "listing_probability": 0.1
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/contracts-forms-regulations/",
-        "title": "Regulations and forms - Norges Bank",
-        "text": "Banks' participation in NBO is regulated by an account maintenance and settlement agreement between the individual bank and Norges Bank.",
-        "listing_probability": 0.9
+        "url": "https://www.norges-bank.no/en/topics/Monetary-policy/monetary-policy-strategy/",
+        "title": "Norges Bank's monetary policy strategy statement",
+        "text": "The task of monetary policy is to ensure low and stable inflation and to help keep employment as high as possible. The Monetary Policy Regulation states ...",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.norges-bank.no/en/topics/notes-and-coins/rules-regulations/",
         "title": "Rules and regulations - notes and coins - Norges Bank",
         "text": "Laws and rules relating to notes and coins in Norway. Guidelines for the use of Norwegian banknote and coin designs.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/News-items/2025/2025-05-02-monetary-policy-regulation/",
+        "title": "Review of the monetary policy regulation - Norges Bank",
+        "text": "The Ministry of Finance will conduct a review of the Monetary Policy Regulation, laid down by Royal Decree of 13 December 2019.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -81,13 +105,25 @@
         "url": "https://www.norges-bank.no/en/news-events/",
         "title": "News & events - Norges Bank",
         "text": "Find news, speeches, publications and calendar events.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.norges-bank.no/en/news-events/news/Press-releases/",
         "title": "News - Norges Bank",
         "text": "Articles and opinion pieces · Balance sheets · Circulars · News items · Press releases · Speeches · Submissions ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/",
+        "title": "News - Norges Bank",
+        "text": "Articles and opinion pieces, balance sheets, circulars, news items, press releases, speeches, submissions.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/Speeches/2025/2025-06-19-pc/",
+        "title": "Policy rate reduced - Norges Bank",
+        "text": "Introductory statement by Governor Ida Wolden Bache at the press conference following the announcement of the policy rate on 19 June 2025.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -95,16 +131,62 @@
     "topic": "research",
     "entries": [
       {
+        "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/",
+        "title": "Working Papers - Norges Bank",
+        "text": "Re-visiting the Relationship Between Oil Prices and Monetary Policy Working Papers 21 Mar 2025 Author: Hilde C. Bjørnland, Jamie L. Cross, and Jonas Hölz",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2017/62017/",
+        "title": "Forward guidance through interest rate projections: does it work?",
+        "text": "Norges Bank's Working Papers present research projects and reports that are generally not in their final form. Other analyses by Norges Bank's ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2008/WP-200819/",
+        "title": "Does the law of one price hold in international financial markets ...",
+        "text": "This paper investigates the validity of the law of one price (LOP) in international financial markets by examining the frequency, size and duration of ...",
+        "listing_probability": 0.05
+      },
+      {
         "url": "https://www.norges-bank.no/en/topics/Research/",
         "title": "Research - Norges Bank",
         "text": "The objective of the Norges Bank Academic Programme (NBAP) is to promote macroeconomic and financial economic research and education in Norway.",
-        "listing_probability": 0.85
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2013/WP-201311/",
+        "title": "Announcements of interest rate forecasts: Do policymakers stick to ...",
+        "text": "Abstract If central banks value the ex-post accuracy of their forecasts, previously announced interest rate paths might affect the current policy rate.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/Speeches/2008/Speech-Qvigstad-04112008/",
+        "title": "Transparency and central bank communication - Norges Bank",
+        "text": "Most central banks communicate future policy intentions in one way or another. The majority of central banks communicate indirectly through ...",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.norges-bank.no/en/topics/Research/policy-for-research/",
-        "title": "Policy for research in Norges Bank Central Banking",
-        "text": "Researchers in NBR should spend on average 50 percent of their work time on undirected research and 50 percent on directed research.",
-        "listing_probability": 0.15
+        "url": "https://www.norges-bank.no/en/news-events/publications/Working-Papers/2019/202019/",
+        "title": "The macroeconomic effects of forward communication - Norges Bank",
+        "text": "This paper provides an empirical assessment of the power of forward guidance at different horizons, shedding new light on the strength of the “forward guidance ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.norges-bank.no/en/news-events/news/News-items/2020/2020-01-23-committee-communication/",
+        "title": "Continuity in monetary policy communication - Norges Bank",
+        "text": "Norges Bank's communication shall be transparent, accountable and clear. Information about the orientation of monetary policy will be published ...",
+        "listing_probability": 0.05
       }
     ]
   }

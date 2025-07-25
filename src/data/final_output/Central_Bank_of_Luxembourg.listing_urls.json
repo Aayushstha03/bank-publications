@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bcl.lu/en/publications/index.html",
+        "title": "Publications - Banque centrale du Luxembourg",
+        "text": "The BCL releases several publications each year, such as an Annual Report, Economic Bulletins, a Financial Stability Review and Working Papers.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcl.lu/en/Research/publications/index.html",
+        "title": "Publications - Banque centrale du Luxembourg",
+        "text": "BCL staff publish their research in the BCL working paper series to disseminate new results and promote discussion and feedback.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcl.lu/en/Financial-Stability-and-Prudential-supervision/stabilite_financiere/Research-and-analyses/Publications/index.html",
+        "title": "Publications - Banque centrale du Luxembourg",
+        "text": "Research and Publications Research objectives and priorities Conferences, workshops and seminars Publications Research Cooperation Surveys conducted by the BCL",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcl.lu/en/publications/Annual-reports/index.html",
+        "title": "BCL Annual Report - Banque centrale du Luxembourg",
+        "text": "The BCL, according to its organic law, publishes each year a report on its activities, including the report of its financial auditor.",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bcl.lu/en/statistics/index.html",
+        "title": "Statistics - Banque centrale du Luxembourg",
+        "text": "The published statistics on pages «Statistics» are either directly compiled by the BCL, or by other national and international institutions.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcl.lu/en/statistics/series_statistiques_luxembourg/index.html",
+        "title": "Statistical tables - Banque centrale du Luxembourg",
+        "text": "Statistical tables ; 1, Monetary policy statistics ; 2, Monetary and financial developments in the euro area and Luxembourg ; 3, Capital markets and interest rates.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcl.lu/en/payment-systems/Payment-Statistics/index.html",
+        "title": "Payment statistics - Banque centrale du Luxembourg",
+        "text": "ECB payment statistics. The ECB regularly publishes detailed payment statistics with data sourced from the BCL's CDDP collection.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bcl.lu/en/statistics/series_statistiques_luxembourg/13_investment_funds/index.html",
+        "title": "Investment funds - Banque centrale du Luxembourg",
+        "text": "Statistical tables · Monetary policy statistics · Monetary and financial developments in the euro area and Luxembourg · Capital markets and interest rates ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bcl.lu/en/Regulatory-reporting/Etablissements_credit/Statistiques-bancaires-et-monetaires/index.html",
+        "title": "Monetary and financial statistics - Banque centrale du Luxembourg",
+        "text": "Statistics, statistical tables, release calendar, statistical press releases, regulatory reporting, credit institutions, payment institutions / electronic ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bcl.lu/en/Monetary-policy/instruments/index.html",
+        "title": "Monetary policy instruments - Banque centrale du Luxembourg",
+        "text": "The Eurosystem has a set of monetary policy instruments and procedures at its disposal to achieve its main objective of maintaining price stability in the euro ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcl.lu/en/Monetary-policy/instruments/open_market_op/4-types-d_operations-open-market/index.html",
+        "title": "Four types of open market operations - Banque centrale du Luxembourg",
+        "text": "1. Main refinancing operations are regular liquidity-providing reverse transactions with a frequency and maturity of one week.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcl.lu/en/Regulatory-reporting/Etablissements_credit/AnaCredit/Re_-man-et-circu/index.html",
+        "title": "Regulations, manual, circulars and circular letters",
+        "text": "Regulations, manual, circulars and circular letters ; Last update ; Regulations, 16.03.2017 ; Manual, 31.05.2019 ; Circular, 21.04.2017 ; Circular letters, 16.01.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcl.lu/en/Monetary-policy/index.html",
+        "title": "Monetary Policy - Banque centrale du Luxembourg",
+        "text": "The Eurosystem is responsible for the formulation of the single monetary policy, monetary policy decisions and their implementation in the euro area.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bcl.lu/en/Media-and-News/index.html",
+        "title": "Media and News - Banque centrale du Luxembourg",
+        "text": "Press releases · Statistical press releases · Publications · Governor's speeches · Governor's interviews · Conferences · Photos.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcl.lu/en/Media-and-News/Press-releases/index.html",
+        "title": "Press releases - Banque centrale du Luxembourg",
+        "text": "01Jul Consumer confidence survey The Banque centrale du Luxembourg's consumer confidence indicator has declined significantly in June 2025.(...) June 2025.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcl.lu/en/publications/Speeches/index.html",
+        "title": "Governor's speeches - Banque centrale du Luxembourg",
+        "text": "17Nov Beyond the Horizon of the Luxembourg Presidency: A Central Banker's Perspective - Speech by Gaston Reinesch, Governor Speech by Mr. Gaston Reinesch, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcl.lu/en/Media-and-News/statistics_communiques/index.html",
+        "title": "Statistical press releases - Banque centrale du Luxembourg",
+        "text": "Statistical press releases, regulatory reporting, credit institutions, payment institutions / electronic money institutions, securitisation vehicles.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bcl.lu/en/payment-systems/Reporting/News/index.html",
+        "title": "News - Banque centrale du Luxembourg",
+        "text": "About the BCL, monetary history, the BCL within the Eurosystem, the BCL's missions, organisation, the BCL's independence, opening days, reception of the public.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bcl.lu/en/Research/publications/index.html",
+        "title": "Publications - Banque centrale du Luxembourg",
+        "text": "BCL staff publish their research in the BCL working paper series to disseminate new results and promote discussion and feedback.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bcl.lu/en/Media-and-News/Press-releases/2023/02/Sanctions/index.html",
+        "title": "Communication from the BCL on the Luxembourg financial system's ...",
+        "text": "The purpose of this communication is to inform about the financial interactions of the Luxembourg financial system with counterparties ...",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

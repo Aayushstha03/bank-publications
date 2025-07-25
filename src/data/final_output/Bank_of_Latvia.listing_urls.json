@@ -3,16 +3,16 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.bank.lv/en/news-and-events",
+        "title": "Publications | Latvijas Banka",
+        "text": "National Bank. Central bank. Tasks: monetary policy, reserve management, cash circulation, payment systems and payment innovations, financial stability.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.bank.lv/en/component/content/category/623-what-s-new/592-new-publications?layout=empty&Itemid=151",
         "title": "Publications | Latvijas Banka",
         "text": "National Bank. Central bank. Tasks: monetary policy, reserve management, cash circulation, payment systems and payment innovations, financial stability.",
         "listing_probability": 0.95
-      },
-      {
-        "url": "https://www.bank.lv/en/statistics/information-for-data-users/quality-reports",
-        "title": "Quality reports | Latvijas Banka",
-        "text": "The quality reports on balance of payments and international investment position statistics and quarterly financial accounts are published on an annual basis.",
-        "listing_probability": 0.9
       },
       {
         "url": "https://www.bank.lv/en/news-and-events/archives-of-publications/archive-of-fcmc-annual-reports",
@@ -29,19 +29,31 @@
         "url": "https://www.bank.lv/en/statistics/stat-data",
         "title": "Statistical data | Latvijas Banka",
         "text": "Statistical data · Balance of Payments statistics · Supervisory statistics · Exchange rates · MFI balance sheet and monetary statistics · Interest rate statistics.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bank.lv/en/statistics",
         "title": "Statistics | Latvijas Banka",
         "text": "Latvijas Banka's internet statistical database INTS, data tables, data archives, infographics as well as information on the published statistical data. Read ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bank.lv/en/statistics/information-for-data-users",
         "title": "Information for data users - Latvijas Banka",
         "text": "Current announcements for users of statistics, including methodological changes and data publication as well as Latvijas Banka's plans in the field of ...",
-        "listing_probability": 0.3
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bank.lv/en/statistics/data-publishing-calendar",
+        "title": "Data publishing calendar | Latvijas Banka",
+        "text": "The release dates are planned based on the information available at the moment of drawing up the caldendar.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bank.lv/en/statistics/information-for-data-users/information",
+        "title": "Information | Latvijas Banka",
+        "text": "Information that contributes to a better understanding of the statistical data as well as to learning more about Latvijas Banka's planned statistical ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -49,21 +61,15 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bank.lv/en/operational-areas/task-monetary-policy",
-        "title": "Monetary policy | Latvijas Banka",
-        "text": "The monetary policy of Latvijas Banka and the Eurosystem aims to achieve price stability so that inflation stands at 2% over the medium term.",
+        "url": "https://www.bank.lv/en/news-and-events/news-and-articles/news/16922-latvijas-banka-has-developed-guidelines-for-more-effective-management-of-sanctions-risk",
+        "title": "Latvijas Banka has developed guidelines for more effective ...",
+        "text": "The Guidelines serve as a practical manual designed to equip financial market participants with valuable information on how to ensure effective ...",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.bank.lv/en/operational-areas/financial-stability/financial-stability-and-macroprudential-policy",
-        "title": "Financial stability and macroprudential policy",
-        "text": "The ultimate objective of macroprudential policy is to contribute to the safeguard of the stability of the financial system as a whole.",
-        "listing_probability": 0.05
-      },
-      {
-        "url": "https://www.bank.lv/en/news-and-events/other-publications/climate-related-disclosures-of-latvijas-banka-s-non-monetary-policy-portfolios",
-        "title": "Climate-related disclosures of Latvijas Banka's non-monetary policy ...",
-        "text": "Latvijas Banka's disclosures are part of a concerted effort by all Eurosystem's central banks to publish climate-related financial...",
+        "url": "https://www.bank.lv/en/operational-areas/supervision/aml-cft/aml-licensing-guidelines",
+        "title": "AML Licensing Guidelines | Latvijas Banka",
+        "text": "The Guidelines include general principles, additional industry-specific commentary, and examples of good and bad practices. A detailed ...",
         "listing_probability": 0.1
       }
     ]
@@ -75,19 +81,94 @@
         "url": "https://www.bank.lv/en/component/content/category/587-for-media/585-speeches-and-interviews-by-the-governor?Itemid=201",
         "title": "Speeches and interviews by the Governor - Latvijas Banka",
         "text": "National Bank. Central bank. Tasks: monetary policy, reserve management, cash circulation, payment systems and payment innovations, financial stability.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bank.lv/en/news-and-events/news-and-articles/news",
         "title": "News | Latvijas Banka",
         "text": "Latvijas Banka has published its latest macroeconomic forecasts (prepared in June 2025). The intensification of geopolitical risks, coupled with delays in ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bank.lv/en/news-and-events/news-and-articles/press-releases",
         "title": "Press releases | Latvijas Banka",
         "text": "Latvijas Banka has started publishing a regular overview of the deposit rates offered by commercial banks. This is one of the measures taken to pr",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/news-and-articles/news/17052-opening-speech-by-martins-kazaks-at-the-economic-conference-2024",
+        "title": "Opening speech by Mārtiņš Kazāks at the Economic Conference 2024",
+        "text": "A strong Europe requires a developed and integrated financial market. We need more competition, we need more agile financial markets.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/news-and-articles/news/17279-latvijas-banka-publishes-its-third-climate-related-financial-disclosures-report",
+        "title": "Latvijas Banka Publishes Its Third Climate-Related Financial ...",
+        "text": "Latvijas Banka has released its third annual report on Climate-Related Disclosures for its non-monetary policy portfolios, reaffirming its ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/en/news-and-events/working-papers/2024",
+        "title": "2024 Working papers - Latvijas Banka",
+        "text": "International working papers co-authored by the researchers of Latvijas Banka. The impact of the COVID-19 pandemic and policy support on productivity.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/working-papers/2025",
+        "title": "2025 Working papers - Latvijas Banka",
+        "text": "Read Latvijas Banka's Working papers of 2025 ... This paper studies monetary policy in a New Keynesian model with incomplete information ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/working-papers/2021-e",
+        "title": "2023 Working papers - Latvijas Banka",
+        "text": "Latvijas Banka working papers from 2023 ... This paper studies the employment effect of the job retention scheme implemented during the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/working-papers/2016-2020-en",
+        "title": "2022 Working papers - Latvijas Banka",
+        "text": "Operational areas: Monetary policy, Research, Reserve management, Financial stability, Licensing, Supervision, Resolution, Credit Register, Cash circulation, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bank.lv/en/news-and-events/news-and-articles/news/17270-prizes-were-awarded-to-the-winners-of-the-competition-of-student-scientific-research-papers-organised-by-latvijas-banka",
+        "title": "Prizes were awarded to the winners of the Competition of ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/atslegvardi/all-announcements?format=feed&type=rss",
+        "title": "https://www.bank.lv/atslegvardi/all-announcements?format ...",
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bank.lv/en/component/content/article/729-news-and-events/fktk-news-archive/16100-communication-is-key-in-the-new-financial-landscape",
+        "title": "Communication is key in the new financial landscape | Latvijas Banka",
+        "text": "Among key FCMC tasks is communication, both international and local, to minimize negative impact on investors willing to do business in Latvia.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bank.lv/aktualitates-banklv/zinas-un-raksti/jaunumi/728-aktualitates/fktk-zinu-arhivs/13986-shaping-regulatory-and-supervisory-framework-in-latvia-key-messages-to-the-market",
+        "title": "Shaping regulatory and supervisory framework in Latvia – key ...",
+        "text": "On 8 October 2020, the Law Firm COBALT in partnership with Finance Latvia Association organized an online event \"Baltic FinReg Summit 2020\"...",
+        "listing_probability": 0.05
       }
     ]
   }

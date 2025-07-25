@@ -8,12 +8,20 @@
           "results": {
             "web": [
               {
-                "url": "https://bqk-kos.org/rreth-bqk/cbk-annual-reports-archive/?lang=en",
-                "title": "CBK Annual Reports Archive - BQK",
-                "text": "The CBK Annual Report provides an overview of the economic developments in Kosovo, in the region and in the world economy, with special focus on the financial ...",
+                "url": "https://bqk-kos.org/publikimet/?lang=en",
+                "title": "Publications - BQK",
+                "text": "CBK publishes periodical and non-periodical reports related to the economic developments in the country, with special emphasis on the financial sector ...",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "position": 1
+              },
+              {
+                "url": "https://bqk-kos.org/sistemet-e-pagesave/publikime-statistikore-analiza-dhe-materiale-tjera-informative-nga-sistemi-i-pagesave/?lang=en",
+                "title": "Statistical publications and other informational material from ... - BQK",
+                "text": "Statistical publications and other informational material from Payment Systems. Filter by name or date. Select category. Monthly Reports Annual Reports",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 2
               },
               {
                 "url": "https://bqk-kos.org/wp-content/uploads/2024/12/Reports-and-Other-Information-Required-to-be-Submitted-by-Pension-Funds-and-Pension-Providers.pdf?lang=en",
@@ -21,15 +29,23 @@
                 "text": "This Rule describes the required reports of Pension Funds and Pension Providers to the BPK that are designed to provide the BPK adequate and correct data ...",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://bqk-kos.org/news-category/publications/",
-                "title": "Publications Archives - BQK",
-                "text": "Linqet e shpejta ... Regjistrohu në buletinin tonë për publikimet e fundit, lajmet kryesore dhe raportet financiare. Regjistrohu icon · Lehtësia e qasjes ...",
+                "url": "https://bqk-kos.org/publikimet/arkiva/?lang=en",
+                "title": "Publications Archive - BQK",
+                "text": "Research Materials, Opinions, Monthly Statistics Bulletin, Monthly Information Report of the Financial System, Quarterly Assessment of Macroeconomic ...",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://bqk-kos.org/repository/docs/korniza_ligjore/english/Pension%20Assets%20and%20Valuation%20of%20Pension%20Assets.pdf",
+                "title": "Reports Required of the Trust - BQK",
+                "text": "For the purpose of execution of Section 8.4 of the UNMIK Regulation No. 2001/35, in regard to the computation of investment return and the principles of ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://bqk-kos.org/?lang=en (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://bqk-kos.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -51,33 +67,50 @@
           "results": {
             "web": [
               {
-                "url": "https://env2.bqk-kos.org/repository/docs/2010/Monthly%20Statistics%20Bulletin%20no.32.pdf",
-                "title": "Monthly Statistics Bulletin no.29",
-                "text": "TRANSLATION Research and Statistics Department ASSOCIATE Rudi ACX PRINTED BY \"TEKNIKA\" Prishtinë.",
-                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=env2.bqk-kos.org",
+                "url": "https://bqk-kos.org/publikimet/buletini-mujor-statistikor/?lang=en",
+                "title": "Monthly Statistics Bulletin - BQK",
+                "text": "Monthly Statistics Bulletin has been published on monthly basis since 2001. This publication includes statistics on the financial, external, fiscal and real ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://bqk-kos.org/news/balance-of-payments-statistics-for-june-2024-are-published/?lang=en",
-                "title": "Balance of Payments statistics for June 2024 are published - BQK",
-                "text": "The balance of payments at the end of June 2024 was characterized by a current account deficit of 681.40 million euros, with an increase of 135.28 million ...",
+                "url": "https://bqk-kos.org/statistikat/?lang=en",
+                "title": "Statistics - BQK",
+                "text": "Information on fiscal and real sector of the economy. The Central Bank provides specific data on the fiscal and real sector in Kosovo.",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
-                "published_time": "2024-08-30T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://bqk-kos.org/news/publication-of-statistics-of-commercial-banks-for-april-2024/?lang=en",
-                "title": "Publication of statistics of commercial banks for April 2024 - BQK",
-                "text": "The assets of commercial banks, at the end of April 2024, reached the value of 7.39 billion euros, marking a decrease of 1.28% compared to the previous month.",
+                "url": "https://bqk-kos.org/mbikeqyrja-financiare/mbikeqyrja-e-sigurimeve-2/tarifat-dhe-buletini-statistikor/?lang=en",
+                "title": "Tariffs and statistical bulletin - BQK",
+                "text": "Monthly Statistics Bulletin, Monthly Information Report of the Financial System, Quarterly Assessment of Macroeconomic Developments.",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://bqk-kos.org/news/publikimi-i-statistikave-te-bilancit-te-pagesave-deri-ne-dhjetor-2024/?lang=en",
+                "title": "Publication of Balance of Payments statistics as of December 2024 - BQK",
+                "text": "Balance of payments – until the end of December 2024 was characterized by a current account deficit of 920.77 million euros, which shows an increase of 26.24%.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "published_time": "2025-02-28T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://bqk-kos.org/statistikat/statistika-te-tjera/?lang=en",
+                "title": "Other Statistics - BQK",
+                "text": "Real and fiscal sector statistics cover gross domestic product, prices, unemployment, budget, public debt, etc., which are compiled and published by the ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://bqk-kos.org/?lang=en (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://bqk-kos.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -89,13 +122,38 @@
           "results": {
             "web": [
               {
+                "url": "https://bqk-kos.org/korniza-ligjore/rregulloret/?lang=en",
+                "title": "Regulations - BQK",
+                "text": "Legal Framework, Laws, Regulations, Instructions, Administrative Instructions, Rules Archive, Publications, Research Materials, Opinions",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://bqk-kos.org/wp-content/uploads/2024/11/Payment-Systems-Oversight-Policy.pdf?lang=en",
                 "title": "Payment Systems Oversight Policy | BQK",
                 "text": "Pursuant to Article 36, paragraph 1, sub-paragraph 1.1 of the Law no. 03/L-2019 on the Central. Bank of the Republic of Kosovo, ...",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "published_time": "2016-09-28T00:00:00",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://bqk-kos.org/wp-content/uploads/2024/11/International-payment-account-number-structure-and-use-regulations-English-V_7-WBG-CLEAN.pdf",
+                "title": "Pursuant to Article 35, paragraph 1, sub-paragraph 1.1 of the Law no ...",
+                "text": "Any violation of the provisions of this Regulation will be subject to punitive measures, as defined in the Law on the Central Bank and the Law on the Payment ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://bqk-kos.org/news/the-cbk-publishes-guidelines-for-identifying-genuine-euro-banknotes-and-coins-from-fake-ones/?lang=en",
+                "title": "The CBK publishes guidelines for identifying genuine Euro banknotes ...",
+                "text": "The CBK publishes guidelines for identifying genuine Euro banknotes and coins from fake ones · 500 Euro banknote · 200 Euro banknote · 100 Euro ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "published_time": "2024-01-17T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.bqk-kos.org/repository/docs/SistemiIPagesave/Oversight%20-%20Policy%20Statement_ENG.pdf",
@@ -104,21 +162,12 @@
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "published_time": "2011-04-12T00:00:00",
-                "position": 2
-              },
-              {
-                "url": "https://bqk-kos.org/news/governor-ismaili-addresses-panel-on-the-promise-of-macro-prudential-policy-at-reykjavik-economic-conference/?lang=en",
-                "title": "Governor Ismaili addresses panel on the promise of Macro-Prudential ...",
-                "text": "The conference, renowned for its insightful discussions on economic issues of global significance, provides a platform for policymakers and ...",
-                "source": "BQK",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
-                "published_time": "2024-05-24T00:00:00",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://bqk-kos.org/?lang=en (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://bqk-kos.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -134,29 +183,193 @@
                 "title": "Governor's Speeches and Interviews Archive - BQK",
                 "text": "Governor's Speeches and Interviews Archive. The latest. The latest. The oldest. Filter speeches. Choose the year. 2023 2022 2021 2020 2019. Choose the date.",
                 "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+///+/v/+/v7+//4AAAD//v/9/v/9//////79//4AAQDo7OsCBQT7+/j8+/X3+PjOz9JMTU5BQD6amZl6enhRU1KPkZLy66759tzz6qj07sXz7Lfs3mTv4436+e/39+Ps4HX49NL18cTt4oXu6pzq4X349ufg2Gfp46DX2trV1dSxsK/03dzwzs3sxcW8vL0yNjkrLTEkJyfv6ssSEhH46unffXvTP0TPMjnDIynSd3ZPSE0aFxspJCeKhoTWU1LKDBVpbW7msrgdISBgYGHglplva2yno6PHGSDbysrFycbUamvMXlnatbXNiILn6OCGLQkAAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjE5OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "position": 1
+              },
+              {
+                "url": "https://bqk-kos.org/news/banka-qendrore-e-republikes-se-kosoves-permbylli-javen-nderkombetare-te-parase-2025/?lang=en",
+                "title": "The Central Bank of the Republic of Kosovo concluded the \"Global ...",
+                "text": "The Central Bank of the Republic of Kosovo remains committed to promoting Financial Education, with the aim of increasing awareness of financial security.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+///+/v/+/v7+//4AAAD//v/9/v/9//////79//4AAQDo7OsCBQT7+/j8+/X3+PjOz9JMTU5BQD6amZl6enhRU1KPkZLy66759tzz6qj07sXz7Lfs3mTv4436+e/39+Ps4HX49NL18cTt4oXu6pzq4X349ufg2Gfp46DX2trV1dSxsK/03dzwzs3sxcW8vL0yNjkrLTEkJyfv6ssSEhH46unffXvTP0TPMjnDIynSd3ZPSE0aFxspJCeKhoTWU1LKDBVpbW7msrgdISBgYGHglplva2yno6PHGSDbysrFycbUamvMXlnatbXNiILn6OCGLQkAAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjE5OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "published_time": "2025-03-25T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://bqk-kos.org/news/cbks-measures-and-activities-in-the-fight-against-counterfeit-money-and-the-effects-of-the-implementation-of-the-regulation-on-cash-operations-and-the-plan-for-its-facilitated-implementation/?lang=en",
+                "title": "CBK's measures and activities in the fight against counterfeit money and ...",
+                "text": "The Central Bank of the Republic of Kosovo (CBK) has continued to successfully coordinate inter-institutional meetings to combat counterfeit coins, especially ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+///+/v/+/v7+//4AAAD//v/9/v/9//////79//4AAQDo7OsCBQT7+/j8+/X3+PjOz9JMTU5BQD6amZl6enhRU1KPkZLy66759tzz6qj07sXz7Lfs3mTv4436+e/39+Ps4HX49NL18cTt4oXu6pzq4X349ufg2Gfp46DX2trV1dSxsK/03dzwzs3sxcW8vL0yNjkrLTEkJyfv6ssSEhH46unffXvTP0TPMjnDIynSd3ZPSE0aFxspJCeKhoTWU1LKDBVpbW7msrgdISBgYGHglplva2yno6PHGSDbysrFycbUamvMXlnatbXNiILn6OCGLQkAAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjE5OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "position": 3
+              },
+              {
+                "url": "https://bqk-kos.org/news/local-and-international-executive-leaders-discussed-the-opportunities-and-risks-of-the-banking-sector/?lang=en",
+                "title": "Local and international executive leaders discussed the opportunities ...",
+                "text": "Senior CBK and international institutions representatives discuss the effects of the developing financial scope, opportunities and risks for financial ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+///+/v/+/v7+//4AAAD//v/9/v/9//////79//4AAQDo7OsCBQT7+/j8+/X3+PjOz9JMTU5BQD6amZl6enhRU1KPkZLy66759tzz6qj07sXz7Lfs3mTv4436+e/39+Ps4HX49NL18cTt4oXu6pzq4X349ufg2Gfp46DX2trV1dSxsK/03dzwzs3sxcW8vL0yNjkrLTEkJyfv6ssSEhH46unffXvTP0TPMjnDIynSd3ZPSE0aFxspJCeKhoTWU1LKDBVpbW7msrgdISBgYGHglplva2yno6PHGSDbysrFycbUamvMXlnatbXNiILn6OCGLQkAAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjE5OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2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",
+                "position": 4
+              },
+              {
+                "url": "https://bqk-kos.org/rreth-bqk/guvernatori-i-bqk-se/fjalimet-dhe-intervistat-e-guvernatorit/?lang=en",
+                "title": "Governor's Speeches - BQK",
+                "text": "Governor Ismaili's speech on the occasion of the completion of the IMF Mission for the Review of the SBA Agreement and the RSF Program.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAA81BMVEX////+///+/v/+/v7+//4AAAD//v/9/v/9//////79//4AAQDo7OsCBQT7+/j8+/X3+PjOz9JMTU5BQD6amZl6enhRU1KPkZLy66759tzz6qj07sXz7Lfs3mTv4436+e/39+Ps4HX49NL18cTt4oXu6pzq4X349ufg2Gfp46DX2trV1dSxsK/03dzwzs3sxcW8vL0yNjkrLTEkJyfv6ssSEhH46unffXvTP0TPMjnDIynSd3ZPSE0aFxspJCeKhoTWU1LKDBVpbW7msrgdISBgYGHglplva2yno6PHGSDbysrFycbUamvMXlnatbXNiILn6OCGLQkAAAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA2VDAzOjE5OjAwKzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA2VDAzOjE5OjAwKzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pu/+IkwAAAYDSURBVEiJTVYJe9tEEJ29tbKOtS3baZs0IaW42E6RYwQ9aAMmgbShhf//a3hv7ULnc5uVtG+ON7MzK0VZGqPwg5horVairBGvIUURglY66DJoa0WHoEwZGwlKaWOjscZobZSIxXYRBUggThs8K62I0UH5qAvxptAmwoISa6PSEqEEtghT3gv+KlgVuIBV9FEZEV3AJ6ONMWKwDzjuNFk5hBCsRZfQGq2hOlo3VKE9VRZyEDqmssBR8R4BlMRkF+AtoqFOzThgyxtaJ4RxwUwWb+B6jFRMFcrYrDEYBQ0edkkB1Qi2+IM5RCsSiS6psFBW57cmBGsYn8ePvkKjJxTmrM3/YKWUAClFIU0FnAb/jAx+GK0OmOyZCqpk/qi6RDyFhlXoaBuSZzUDgpnMN81I5jFjjJQ2WvFFCZLxe/T4SRMjtht+ZGIzy4hL4yvqQGnAihJx+VLZtjXen549PY9N00RiAlDC7TAG+g7BkU/4U4gpy4vHp63Wl988bm17ebqEwhDoHvyiMXUMKecBioIYH5+dfbsU015e2Hj+/JsnIKhAXMBY1otmNnK+c1HAP0GeLr97uoTNxsTYnnz3rEXo4C0i6xEeegoCUofiL2wpTWzaRxetLcmvbZZPltBkTWlyyuEdYKgtcI/0FUhFLGTZoKTpCmlGdTQ2ghIK+Mq0Yclax1+PUo6xlOePmkwfcq/4xsflyWkbBdXNOgJOeYYFAG1FYl6cnPNo/C+g5OnS5no9lkCpjg+qUJnA7y9ba31ajQ+ySvry29MWlZnWm67brKsAt9LVyx8oSVZ9v5bzhoezmk2317vd7no6Wzc/Lo1O49l2qOth0o1TVD/9/Or1mzdv3qbxL+/e30jjmehqUruD1Ntx23jdTw8vRrvZuFFXv/4GefVy9Ytz0w1yymKsJq7eTSGDc/uk/Wrq3DDZ3107t7up9NUrQF7/vpo4966rpI1oQBlzn6qq6ga3rUJa1O62q1Ja3dVu+uCJ+fDH+qZ29Z9VkguLk58xG57K1a3brgIU1rMKbMtq64b7BpgPbz/eX4/cdK2OGFXNXd2Tzn5w8yrh/92D8jwSe+dm6erXD3997Cd1ve1BuJzzvBfE7LuuW0xHu01KnXOTSlgMYTFyd+nq06fPD/MaJgMxhtmmnaMMNwjjxmEjMNGkzS0MX/39eb0HkUOHYxJQo2wZiOeLTB9SmpE90azChx1MXn2sZoCM3HZcFoU8O7coKHIwubu7m+/oFTGwg+KytqedzOewRwL+rEIhZ0/KI9cbNM+ExNSbtHBunu0oua8BT/3O1TcJ6/djdKmzZ6j+SEwPrr3uRqNF2gzuuhImIczIW4Vg7ipdTflQyMl5iTPJePrclGBikcZbpFh8EKmw6vxqUg/3PoUNDK1LOWfDjf8Ag5wGvd4610EvaqYnZDHQ6fV0NGxwxNOcEUljzPLy4h9Y3c7n88ktCO19gP/udt/dTOsRK+JhWw9QaeQer3uc9fb5ixNivshd5XVaDCPUOAt7BIv9Dr6hs8jqPb4D3D4/O2Lq0age5mucelUtrvNhGMHQ7WZzXdcdjrBhFt4hhnL5aNk83HdZ7vuqYQMq0rib7fezBaRbr/pu8UCMqrqbhaADYmzHrxoC+hLeihQJor/+EM1xg+L8spiW+jgYI3q6yr322A+PDUQ4G9lL2a85tK1FK1RWxXichZxURkMlB7DYPGvhs8I7sbrATEQ1ilJfO2KzIbYnjqGDGjiEkYG5jy7sYQY3kDyoo8BspAt4hf4SoDU3eM5dtmM8RnjMkMzh+qJinps+r3BMMVXgmynypDAcyHATI0PYr2O+JGAQwxzWNqCvR+GAZq9m27dsUZoB2ULzlmRwz/A2zwudO7zJ/nrMRMORwKmRXSFzIEaIANkW05J3LBS6NhjkxGBv3syrC5G6hB12A9qG26WF2/mehdGuioJYW2JM6nxbK3kx42deyugytmThgk+4lWCRn/Ede8IXAZP6AMGfwDtevrL9pwLfJN/8AvnTR5Dg4gKVxPBCCPVgHqWEWVtkbYGzGxuRsDJrDvZfecNww5b+SwEAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://bqk-kos.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://bqk-kos.org/publikimet/materiale-kerkimore/?lang=en",
+                "title": "Working Papers - BQK",
+                "text": "Working Papers contain research on issues that are relevant for the economy and particularly for financial stability, conducted by the CBK staff.",
+                "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://bqk-kos.org/news/cbk-board-press-release/?lang=en",
-                "title": "CBK Board Press Release - BQK",
-                "text": "The Board of the Central Bank of the Republic of Kosovo, in the meeting held on March 29, 2023, made the following decision.",
+                "url": "https://bqk-kos.org/wp-content/uploads/2024/11/CBK_HIK.pdf?lang=en",
+                "title": "Household Indebtedness in Kosovo - Working Papers - BQK",
+                "text": "The level of indebtedness did not have statistically significant differences23 according to most socio-demographic characteristics, namely gender, marital ...",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://bqk-kos.org/news/press-release-4/?lang=en",
-                "title": "Press Release - BQK",
-                "text": "The Panel for the selection of the Governor of the Central Bank has sent to the Assembly of Kosovo and the Government, the list of selected candidates as ...",
+                "url": "https://bqk-kos.org/wp-content/uploads/2024/10/Potential-output-and-Output-Gap_Final_PDF.pdf",
+                "title": "Working Papers - BQK",
+                "text": "The objective of this paper is to estimate potential output and the output gap in. Kosovo economy. This is the first study undertaking business cycle analysis ...",
                 "source": "BQK",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://bqk-kos.org/edu/kids_materials/flete-pune/?lang=en",
+                "title": "Working papers - BQK Edu",
+                "text": "Working papers, Working-paper-schoolchildren-pdf, 10/01/2019, Shperndaj Ruaj, Previous material, Governor Mehmeti held a meeting with students.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://bqk-kos.org/edu/wp-content/uploads/2024/10/Working-paper-schoolchildren-pdf.pdf",
+                "title": "Working paper 1. How do your family members earn money? - BQK",
+                "text": "Write below each figure what you consider as a daily housework and what as an extra work. Help my Mom with the dishes. ______. Help my father wash the car.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2022"
+          ],
+          "query": {
+            "q": "site:https://bqk-kos.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://bqk-kos.org/shpalljet/?lang=en",
+                "title": "Announcements - BQK",
+                "text": "CBK publishes a wide range of announcements that include information on open job positions and career opportunities at CBK.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://bqk-kos.org/news-category/announcements/",
+                "title": "Announcements Archives - BQK",
+                "text": "Recent Posts · Recent Comments · Archives · Categories · Portalet e BQK-së.",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "position": 2
               }
             ]
           },
           "query": {
-            "q": "site:https://bqk-kos.org/?lang=en (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://bqk-kos.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://bqk-kos.org/news/bqk-leshon-ne-perdorim-web-faqen-e-re-zyrtare-per-rritje-te-transparences-dhe-avancim-te-komunikimit-me-qytetaret/?lang=en",
+                "title": "CBK launches the new official website: Increasing transparency ... - BQK",
+                "text": "The CBK website will also be used as a means of communication and cooperation between stakeholders for the exchange of experiences with the CBK, ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "published_time": "2024-11-18T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://bqk-kos.org/wp-content/uploads/2024/12/13_REGULATION-ON-TECHNICAL-STANDARDS-FOR-SCA-AND-COMMON-AND-SECURE-OPEN-STANDARDS-OF-COMMUNICATION.pdf?lang=en",
+                "title": "Pursuant to Article 35, paragraph 1 subparagraph 1.1 and Article 65 of ...",
+                "text": "Pursuant to Article 35, paragraph 1 subparagraph 1.1 and Article 65 of the Law No. 03/L-209 on. Central Bank of the Republic of Kosovo ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "published_time": "2024-12-17T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://bqk-kos.org/news/bqk-organizon-punetorine-per-edukimin-financiar-dhe-komunikimin-digjital/?lang=en&lang=en",
+                "title": "CBK organizes Workshop on Financial Literacy and Digital ... - BQK",
+                "text": "The aim of the workshop was to build capacities and share experiences, highlighting the importance of ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "published_time": "2025-06-20T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://bqk-kos.org/news/sqarim-i-komunikates-se-bqk-se-te-dates-16-mars-2020/?lang=en",
+                "title": "Clarification regarding CBK communication of 16 March 2020",
+                "text": "Borrowers who are unable to pay loan instalment may choose not to pay their instalment from 16 March 2020 until 30 ...",
+                "source": "BQK",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////+/v78/vz9/f39/fj49dv4+Ob6++3s45nz77bv3on48NT8+u/9/Pnz6az06bP7/v328L/t5qT5+fng4ODk5OT29e718MXExMTy4OHz2tw7OzsaGhoWFhYoJyiAgIDr6tzw8fCLi4sAAABAQEC3t7fGQknFHSS/HyzXn6Wbm5tycnITExN4eHhFRUWXmJaIiIgtLi7S0tLGAADWbXK0qKpgYGDRTlfFr7FXV1fm0M/JV1vRqqzm29vewsJRUFHW1L7F3/YtAAABU0lEQVR4AaQPgwHAMGzhVP5/7GwjNpJ/AIBXSThNESKe5ImIRRHpqI8l5SxnVUDYJdOiRDHWebufbJtOYEQVCjjdN5wQzfCHLWVKdrKmiCoQG4Zh4AXGZTulUFM1zNrK+P9XzShmqT/7MIRUx5nPFraQy6VjGWK1Xq+EdDAYmtL1fD8IN3a0DYh2sbFK0iwvvBK2BVkFdd1QbLTkdnXV8zr9/dtTz3iHUh4sxFQ4rseWKKhdp8dTX8XAAJC+WxTngJkOBsBUXq63hkILGJqQHqnTOEuqAcjgfH8ciJ4RMB6osE0ch9QtqYSOc4g6Kg+0B0YfOifg9E/2dhFU8k4GbsTURBjYA1k9mQs6RAfqHG6oZe8gRKlcJ2+fr4r0icEB6fRuXJ0FluTCGEw3XV3XYSwMcHg+lOWWu0JAtDWs4VBtVI9TIRhCWJpVT11o+n9AqaEBANwTJj4jTomXAAAAAElFTkSuQmCC",
+                "published_time": "2020-03-16T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://bqk-kos.org/news/bqk-leshon-ne-perdorim-web-faqen-e-re-zyrtare-per-rritje-te-transparences-dhe-avancim-te-komunikimit-me-qytetaret/?lang=en",
+                "title": "CBK launches the new official website: Increasing ...",
+                "source": "BQK",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bqk-kos.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://bqk-kos.org/wp-content/uploads/2024/11/web_eng.png",
+                "published_time": "2024-11-18T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://bqk-kos.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

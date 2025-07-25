@@ -1,4 +1,46 @@
 {
   "Bank Name": "Central Bank of Myanmar",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "http://www.cbm.gov.mm/content/monetary-policy",
+                "source": "Central Bank of Myanmar",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbm.gov.mm",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbm.gov.mm/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbm.gov.mm/?q=news",
+                "title": "NEWS - Central Bank of Myanmar",
+                "source": "Central Bank of Myanmar",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=cbm.gov.mm",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbm.gov.mm/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
 }

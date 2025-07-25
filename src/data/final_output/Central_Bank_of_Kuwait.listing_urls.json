@@ -1,24 +1,71 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/annual-publications/annual-reports",
+        "title": "Central Bank of Kuwait: Annual Report",
+        "text": "CBK's Annual Report is issued in Arabic and English languages and is available free of charge. CBK Annual Reports are available as Adobe Acrobat files. Annual ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/annual-publications/economic-reports",
+        "title": "Central Bank of Kuwait: Economic Report",
+        "text": "CBK's Economic Report is published annually highlighting the economic, financial, monetary and banking developments and their impact on the Kuwaiti economy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/annual-publications/financial-stability-report",
+        "title": "Central Bank of Kuwait: Financial Stability Report",
+        "text": "CBK's Financial Stability Report (FSR) is published annually. The FSR analytically examines key developments in all three areas of the financial system.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/redirects/download?compId=160382&esIndex=reports",
+        "title": "I. Monetary Developments (Money Supply)",
+        "text": "Increase of Money Supply in its Broad Sense (M2) by 0.4% to stand at KWD 37,789.7 million. • Growth in total local banks' assets by KWD 2,478.8 million or ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/archived-publications/quarterly-special-edition",
+        "title": "Central Bank of Kuwait: Quarterly Special Edition",
+        "text": "This special edition of Quarterly Statistical Bulletin (QSB) includes time series for the main monetary and banking variables of the Kuwaiti economy",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
     "topic": "statistics",
     "entries": [
       {
         "url": "https://www.cbk.gov.kw/en/statistics-and-publication/bulletins-and-periodicals/quarterly-statistical-bulletin",
         "title": "Central Bank of Kuwait: Quarterly Statistical Bulletin",
         "text": "The Quarterly Statistical Bulletin provides up-to-date statistics and data and highlights a number of economic, financial, monetary and banking developments",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.cbk.gov.kw/en/statistics-and-publication/bulletins-and-periodicals/monthly-monetary-statistical-bulletin",
         "title": "Central Bank of Kuwait: Monthly Monetary Statistical Bulletin",
         "text": "The Monthly Monetary Statistics Bulletins provides statistics and data, of the monetary and banking indicators and statistics in the State of Kuwait.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/press-releases/2024/09/202409291000-cbk-continues-to-enhance-and-update-monthly-statistics-tables",
-        "title": "CBK Continues to Enhance and Update Monthly Statistics Tables",
-        "text": "The enhanced bulletin can be accessed as of August 2024 through CBK's official website www.cbk.gov.kw. PrevCBK Issues 2023 Financial Stability ...",
-        "listing_probability": 0.05
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/dynamic-statistical-releases/quarterly/2025/q1/4401",
+        "title": "Data for January - March 2025",
+        "text": "The \"Quarterly Statistical Bulletin\" provides up-to-date statistics and data and highlights a number of economic, financial, monetary and banking developments ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/nsdp",
+        "title": "Central Bank of Kuwait: National Summary Data Page (NSDP)",
+        "text": "National Summary Data Page (NSDP) - Kuwait. Data linked from this page correspond to data described in the International Monetary Fund's DSBB.",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/dynamic-statistical-releases/quarterly",
+        "title": "Quarterly - Central Bank of Kuwait",
+        "text": "Home; Statistics & Publications; Dynamic Statistical Releases. loader. Quarterly. Select Report. Print All Tables. Year. Select, 2025, 2024, 2023, 2022 ...",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -26,16 +73,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.cbk.gov.kw/en/monetary-policy/exchange-rate-policy",
-        "title": "Central Bank of Kuwait: Exchange Rate Policy",
-        "text": "CBK's policy for the Kuwaiti Dinar (KD) exchange rate aims at maintaining and enhancing the relative stability of the KD against other currencies.",
-        "listing_probability": 0.1
+        "url": "https://www.cbk.gov.kw/en/supervision/cbk-regulations-and-instructions/instructions-for-conventional-banks",
+        "title": "Central Bank of Kuwait: Conventional Banks",
+        "text": "CBK Instructions for Conventional Banks · Center of Risks System and Regulations for Implementation thereof · Rules of Liquidity System and the Regulations Issued ...",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.cbk.gov.kw/en/legislation-and-regulation/cbk-regulations-and-instructions/rules-for-licensing-exchange",
-        "title": "Central Bank of Kuwait: Rules and Regulations of Licensing Exchange ...",
-        "text": "Rules and Regulations of Licensing Exchange Companies. Regulations available only in Arabic · Browse our Job Vacancies · KIBS Edaat Bulletin.",
-        "listing_probability": 0.1
+        "url": "https://www.cbk.gov.kw/en/supervision/cbk-regulations-and-instructions/instructions-for-islamic-banks",
+        "title": "Central Bank of Kuwait: Islamic Banks",
+        "text": "Rules And Regulations for Direct Investment. Instructions Concerning Financial Investment Policy. Regulations Governing Islamic Banks Purchase of Their Own ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/supervision/cbk-regulations-and-instructions/Instructions-for-Credit-Information-Companies",
+        "title": "Central Bank of Kuwait: Credit Information Companies",
+        "text": "The Rules and Regulations for the Experience Required Under Article (9) of the Law No. 9 of 2019 Regulating the Exchange of Credit Information. a. Nomination ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/monetary-policy/monetary-policy-objectives",
+        "title": "Central Bank of Kuwait: Monetary Policy Objectives",
+        "text": "The Central Bank of Kuwait (CBK) is responsible for setting and implementing monetary policy in the State of Kuwait based on Article (15) of the Law No. 32/ ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -49,16 +108,63 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/archived-publications/published-speeches",
+        "title": "Published Speeches - Central Bank of Kuwait",
+        "text": "Browse about CBK, our mission & objectives, and more. Welcome · Mission & Objectives; Governor.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.cbk.gov.kw/en/cbk-news/governors-speeches",
         "title": "Central Bank of Kuwait: Governor's Speeches & Interviews",
         "text": "Keynote speech delivered by His Excellency the Governor of the Central Bank of Kuwait, Basel A. Al-Haroon, in the 62nd Meeting of the Board of Directors of the ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.cbk.gov.kw/en/statistics-and-publication/archived-publications/published-speeches",
-        "title": "Published Speeches - Central Bank of Kuwait",
-        "text": "Browse about CBK, our mission & objectives, and more. Welcome · Mission & Objectives; Governor.",
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements",
+        "title": "Central Bank of Kuwait: Announcements",
+        "text": "The Central Bank of Kuwait (CBK) announced the most recent issues of CBK Bonds and related Tawarruq at a total value of KWD (200) millions for (3) months.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/press-releases/2025/06/202506251500-the-tenth-edition-june-2025-price-dynamics-inflation-and-macroeconomics",
+        "title": "25.06.25 | Press Statement | The Tenth Edition (June 2025) Price ...",
+        "text": "This 10th edition (June 2025) is titled “Price Dynamics & Inflation and Macroeconomics Expectations”. The first section reviews the price dynamics and ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements",
+        "title": "Central Bank of Kuwait: Announcements",
+        "text": "The Central Bank of Kuwait (CBK) announced the most recent issues of CBK Bonds and related Tawarruq at a total value of KWD (200) millions for (3) months.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements?selYear=2024",
+        "title": "Central Bank of Kuwait: Announcements",
+        "text": "The Central Bank of Kuwait (CBK) announced the most recent issues of CBK Bonds and related Tawarruq at a total value of KWD (240) millions for (3) months with ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/press-releases",
+        "title": "Press Releases - Central Bank of Kuwait",
+        "text": "In keenness to keep up with the latest FinTech innovations, the Central Bank of Kuwait (CBK) announced issuing a draft Open Banking Regulatory Framework.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements/2025/05/202505060700-cbk-bonds-and-related-tawarruq",
+        "title": "06.05.25 | Announcement | CBK Bonds and Related Tawarruq",
+        "text": "The Central Bank of Kuwait (CBK) announced the most recent issues of CBK Bonds and related Tawarruq at a total value of KWD (200) millions for (3) months.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements?selYear=2022",
+        "title": "Announcements - Central Bank of Kuwait",
+        "text": "The Central Bank of Kuwait (CBK) announced the most recent issues of CBK Bonds and related Tawarruq at a total value of KWD (230) million for (6) months with ...",
+        "listing_probability": 1.0
       }
     ]
   }

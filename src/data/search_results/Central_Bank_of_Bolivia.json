@@ -2,39 +2,76 @@
   "Bank Name": "Central Bank of Bolivia",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gob.bo/eeb/sites/default/files/7eeb/docs/0001.pdf",
+                "title": "Knowledge Spillovers of Innovation Policy through Labor Mobility:",
+                "text": "Knowledge spillovers of innovation policy through labor mobility : an impact evaluation of the. FONTAR program in Argentina / Victoria ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcb.gob.bo/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.bcb.gob.bo/?q=content/external-sector-statistics-intermediate",
-                "title": "External Sector Statistics -Intermediate",
-                "text": "Pasivos Contables con OO. II. Unidad de Fomento de Vivienda (UFV) · Datos Estadísticos · Calculadora UFV · Avance de cifras de la balanza de ...",
+                "url": "https://www.bcb.gob.bo/webdocs/metadatos/BOX_SDDS_DQAF_EXT_EXD00_External%20debt%20%2B%20privada%20final.pdf",
+                "title": "Bolivia (BOX) - SDDS - DQAF View - Category: External debt",
+                "text": "Prerequisites. 0.1 Legal environment. 0.1.1 Responsibility for collecting, processing, and disseminating statistics. [Laws and administrative arrangements ...",
                 "source": "Banco Central de Bolivia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.bcb.gob.bo/?q=content/public-sector-debt-statistics",
-                "title": "PUBLIC SECTOR DEBT STATISTICS - Banco Central de Bolivia",
-                "text": "Pasivos Contables con OO. II. Unidad de Fomento de Vivienda (UFV) · Datos Estadísticos · Calculadora UFV · Avance de cifras de la balanza de ...",
+                "url": "https://www.bcb.gob.bo/webdocs/metadatos/BOX_SDDS_DQAF_FIN_AAC00_Central%20bank%20survey%2004%2011%2013.pdf",
+                "title": "Bolivia (BOX) - SDDS - DQAF View - Category: Central bank survey",
+                "text": "[Degree to which statistics are made available to all users at the same time, and modalities used to achieve this.] [Dissemination on request of unpublished ...",
                 "source": "Banco Central de Bolivia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bcb.gob.bo/?q=content/big-data-macroeconomics-and-finance",
-                "title": "BIG DATA IN MACROECONOMICS AND FINANCE",
-                "text": "BIG DATA IN MACROECONOMICS AND FINANCE. Enviado por webadmin el Noviembre 19, 2018 - 14:44. Lugar: Buenos Aires, Argentina. Archivo: Icono PDF ...",
+                "url": "https://www.bcb.gob.bo/webdocs/metadatos/BOX_SDDS_DQAF_FIN_AAB00_Depository%20corporations%20survey%2004%2011%2013_0.pdf",
+                "title": "Bolivia (BOX) SDDS - DQAF View H.Header data 0. Prerequisites",
+                "text": "Prerequisites. 0.1 Legal environment. 0.1.1 Responsibility for collecting, processing, and disseminating statistics. [Laws and administrative arrangements ...",
                 "source": "Banco Central de Bolivia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/metadatos/BOX_SDDS_DQAF_EXT_BOP00_Balance%20of%20payments_final.pdf",
+                "title": "Bolivia (BOX) SDDS - DQAF View H.Header data 0. Prerequisites",
+                "text": "Resulting statistics is presented in a way to facilitate proper interpretation in text, tables, and charts.",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/metadatos/Bolivia%20Tipo%20de%20cambio%20docx_final.pdf",
+                "title": "Exchange rates - Banco Central de Bolivia",
+                "text": "Law 1670, Article 42: Within the first 120 days of each year, the BCB shall submit to the. President of the Republic, the pertinent committees of the ...",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcb.gob.bo/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.bcb.gob.bo/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -46,33 +83,49 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bcb.gob.bo/?q=content/payment-system-policy-and-oversight-course",
-                "title": "PAYMENT SYSTEM POLICY AND OVERSIGHT COURSE",
-                "text": "PAYMENT SYSTEM POLICY AND OVERSIGHT COURSE. Enviado por webadmin el Junio 17, 2015 - 09:56. Lugar: Nueva York, Estados Unidos. Archivo: Icono PDF ...",
+                "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/revista_analisis/ra_vol35/abstract_1_v35.pdf",
+                "title": "Monetary policy rules in times of stability and volatility",
+                "text": "The main results show that, in an environment of stability and demand shocks, a monetary aggregate rule focused on lessening deviations of product and ...",
                 "source": "Banco Central de Bolivia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.bcb.gob.bo/?q=content/use-dsge-models-policy-making-process",
-                "title": "The Use of DSGE Models in the Policy-Making Process",
-                "text": "\"The Use of DSGE Models in the Policy-Making Process\". Enviado por webadmin el Noviembre 20, 2014 - 10:58. Lugar: WASHINGTON, USA. Archivo: Icono PDF ...",
+                "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/revista_analisis/ra_vol0501/abstract_1_v5_1.pdf",
+                "title": "Monetary policy of Central Bank of Bolivia",
+                "text": "The work exposes the particularities of the monetary policy in Bolivia, according the attributions granted to Central Bank, and constraints imposed by the ...",
                 "source": "Banco Central de Bolivia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bcb.gob.bo/?q=content/model-based-monetary-policy-analysis-and-forecasting-mpaf",
-                "title": "MODEL-BASED MONETARY POLICY ANALYSIS AND FORECASTING ...",
-                "text": "MODEL-BASED MONETARY POLICY ANALYSIS AND FORECASTING (MPAF). Enviado por webadmin el Julio 22, 2019 - 10:08. Lugar: Instalaciones del FMI en Washington DC.",
+                "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/revista_analisis/ra_vol08/abstract_2_v8.pdf",
+                "title": "1 Interaction between fiscal policy and monetary policy in MERCOSUR ...",
+                "text": "In face of an important change of fiscal policy, generally, monetary policy would respond according to possible effects of inflation, especially through open ...",
                 "source": "Banco Central de Bolivia",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/2021/05/45/Abstract%2038.pdf",
+                "title": "Monetary policy cyclicality in Bolivia",
+                "text": "The monetary policy in Bolivia was characterized by its heterodox approach and countercyclical orientation. In the last few years, terms of trade persistent ...",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/revista_analisis/ra_vol23/abstract_2_v23.pdf",
+                "title": "Exchange rate policy in Bolivia, objectives and effectiveness",
+                "text": "Until 2005, Bolivia's exchange rate policy followed a stance characterized by continuous and gradual nominal depreciation, in order to maintain a constant ...",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcb.gob.bo/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.bcb.gob.bo/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -109,11 +162,98 @@
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
                 "published_time": "2013-05-07T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bcb.gob.bo/?q=content/sputnik-news-0",
+                "title": "SPUTNIK NEWS | Banco Central de Bolivia",
+                "text": "El directorio del Banco Central de Bolivia (BCB) renunció en pleno el 16 de octubre, al día siguiente de que se revelara una caída de 11,1% ...",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "published_time": "2020-10-19T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcb.gob.bo/?q=content/xinhua-news",
+                "title": "XINHUA NEWS | Banco Central de Bolivia",
+                "text": "El Banco Central de Bolivia (BCB) informó hoy que inyectó 3.476 millones de bolivianos (unos 499,2 millones de dólares) a la economía nacional ...",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "published_time": "2020-06-08T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bcb.gob.bo/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.bcb.gob.bo/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/2012/Publicaciones/convocatoria/Call%20for%20papers-oct%202012.pdf",
+                "title": "REVISTA DE ANÁLISIS — VOLUME 18",
+                "source": "Banco Central de Bolivia",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bcb.gob.bo&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7d9296815833a361ad1ba1fd4a65a4745b332fa9adec4483a284e89470564f9b",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcb.gob.bo/webassets/file/2doEncuentroDeEconomistas/The%20moving%20middle.%20Migration,%20place%20premiums%20and%20human%20development%20in%20Bolivia.pdf",
+                "title": "Human Development Research Paper 2009/46 The Moving Middle ...",
+                "source": "www.bcb.gob.bo",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bcb.gob.bo&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///28283f13ea53d3ec9a5e8584f8d0446a34b4ced7a32574e0cf1928a91392a8ff",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/EEB/Final%20Research%20Paper%20-claudia%20gutierrez.pdf",
+                "title": "Claudia Veronica Gutierrez Alcaraz",
+                "source": "Banco Central de Bolivia",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bcb.gob.bo&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///0e043a42d69af991210e90ea728de6354c3e7e36fa05376154549333431716cc",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcb.gob.bo/eeb/sites/default/files/7eeb/docs/0001.pdf",
+                "title": "Knowledge Spillovers of Innovation Policy through Labor Mobility:",
+                "source": "Inter-American Development Bank",
+                "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bcb.gob.bo&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///10bbc91142728d06b26890cd7c8528ef77fc161178cb0cbd28236c16244baaaf",
+                "position": 4
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcb.gob.bo/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/2017/03/21/Abstract%2023.pdf",
+                "title": "Impact of the Central Bank of Bolivia communication on monetary policy ...",
+                "text": "The purpose of this paper is to evaluate the effectiveness of Central Bank of Bolivia communication as a monetary policy tool, analyzing the ...",
+                "source": "Banco Central de Bolivia",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADYklEQVR4ATWRA5jjWhSA/6BNmrrTdDzzbNu2bdu2bdvvw7Ntc0dr2yoGRZImafaurnH4H4k17eL94K/fkO58aIPNutbb4vh0tnU3w4jFIMCqVUojQ8t/X7pg6ufHXDt57nUHwlM/A4AE8MpNGfLLStG9Djr6vPbuja8Ka9p6nmvLrj2CEjJIZLpwnYpnW5WJyxdPf+zfHz7/pKWj2T3j3mUoz1+bYsnCQeOQY0+5r3O9Le70XdscLMyXFBnqVgnPrRIOx1i6aJocT+ZaMrnug8wW0/rzm56+i081G1IQBPz53vGXb7T5zk+Wh5dqdnUZqXSWWLIdzciiqDpOdTnFZdNQ9RyOU8MwkkOLZo85Z53NdvtSWV95f+PNt9vrKdsqtWiaQdTQsR2PSrmEXy+jqhoNOUI8sx6enSe/eAZhParHErnWnh9e/UZeb6NtjguFlA1r5SKy5NCy/kGkzE1XA5IkRgbnMpKfzJxJP4ASJ51pwnVd9Eh8h66NdtlHTmbMvep2RSGwSZsboYYTZNu3ROSLbZWFgUWCRQHfK1OtlMnk1scRbFy3FtWMxIFyNJGJ+75LSFUJ6WkA7PIShpaOYdGsv5BE+NmOXWnt2poNtjhoFRcIaPgObsCmKkEjaPj1NRUNAFBDgkWiFct2Mdu3IhI3BQtFGFMgCISKh8gPGVy1OjK8vMlsRZZyq8qmalmQQ8SyW5Nq3RHfrVAbXoiR7EJYwBNgW9o3FkedCoV+uTpc+kGSNUdRIxSXTmbJvFEUFo9DwicUCiPCo1yaIxSF+IIerGpBVCEp3hsla7jwozx7Yu83ds3u93wfUUb0kE+2dTPSuU1xHIfCkolokbhQcLGHZxEEAXWnilUe+WXMj1+NkoLap/R89dmRnRtt/raM1RQ06siyhOV4DBUWohsxwqos9jiSHBYzJACGZs+f1HtKU3tnn9Kc/4nXbu+bueuhGxSNRHZXWVGiQggjmsaIxcWeEEDbBJuUUGyIqczOz51x1Q6nfvTHuzcdjfLtgM3VZ6eCz176d+ym27cM6EbKVMORZgFZIwggWKnkCxRyyS5XvlwyfcK1O5z24V96/4Pc8KWPxJq2M/Bt36n8+cXY5LpbbrubYhiHeoq6tTDiaQGj6gL2zL6e/rb1TWuPqwZY21YAtz6KU6rZb2UAAAAASUVORK5CYII=",
+                "published_time": "2017-03-21T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bcb.gob.bo/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

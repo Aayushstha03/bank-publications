@@ -8,26 +8,56 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Advocacies/Advocacies/Microfinance%20and%20Financial%20Inclusion/Financial%20Inclusion%20Reports%20and%20Publications/Financial-Inclusion-Reports-and-Publications.aspx",
-                "title": "Financial Inclusion Reports and Publications",
-                "text": "The Financial Inclusion in the Philippines is a quarterly publication aimed to increase public awareness and appreciation of the BSP's ...",
+                "url": "https://www.bsp.gov.ph/Pages/MediaAndResearch/PublicationsAndReports/RecentTrendsinthePhilippineFinancialSystem.aspx?ID=1894",
+                "title": "Media And Research - Publications and Reports",
+                "text": "Report on Recent Trends in the Philippine Financial System. Latest issuance: Issue No. ​2024-09​ (end-September 2024)​.",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
-                "published_time": "2020-06-17T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.bsp.gov.ph/Sites/researchsite/Pages/Publications/Occasional-Papers-Publications.aspx",
-                "title": "Occasional Papers/Publications - Bangko Sentral ng Pilipinas",
-                "text": "BSP Int'l Research Conference Publications, BSP Discussion Papers, BSP Economic Newsletter, BSP Working Paper Series, Bangko Sentral Review",
+                "url": "https://www.bsp.gov.ph/Pages/MediaAndResearch/PublicationsAndReports/AnnualReport.aspx",
+                "title": "Media and Research - Publications and Reports",
+                "text": "Report submitted annually to the President of the Philippines and the Congress highlighting the major ...",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2020-06-17T00:00:00",
                 "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Pages/MediaAndResearch/PublicationsAndReports/BSPWorkingPaperSeries.aspx",
+                "title": "BSP Working Paper Series - Bangko Sentral ng Pilipinas",
+                "text": "The BSP Working Paper Series constitutes studies relevant to central banks, which are conducted by BSP researchers and occasionally, in collaboration with ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 3
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Pages/MediaAndResearch/PublicationsAndReports/InternationalInvestmentPosition.aspx?ID=1145",
+                "title": "Media and Research - Publications and Reports",
+                "text": "​​​​​​​​​​​​​​​​​​​International Investment Position · End-September 2024 · End-June 2024 · End-March 2024 · End-December 2023 · End-September 2023 · End-June 2023",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 4
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Pages/MediaAndResearch/PublicationsAndReports/WithinReachweekly.aspx",
+                "title": "Media and Research - Publications and Reports",
+                "text": "Within Reach is a weekly newsletter published electronically to bring BSP closer to the Filipino people. Latest issue: February 14, 2022. All issues:.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:http://www.bsp.gov.ph/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bsp.gov.ph/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -39,33 +69,83 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bsp.gov.ph/SitePages/Statistics/StatisticsMetadataDisp.aspx?ItemId=28",
-                "title": "Statistics Metadata Search - Bangko Sentral ng Pilipinas",
-                "text": "This dataset contains FDI statistics of the Philippines (net incurrence of liabilities in the direct investment account of the BOP).",
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/Statistics.aspx",
+                "title": "Banking Statistics - Bangko Sentral ng Pilipinas",
+                "text": "The BSP monitors and compiles various statistical series on monetary, financial and external variables useful for the ...",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "sublinks": [
+                  {
+                    "title": "Statistics",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx"
+                  },
+                  {
+                    "title": "Statistics Metadata Search",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/StatisticsMetadataList.aspx"
+                  },
+                  {
+                    "title": "Financial Statements",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/BSFinancialStatements.aspx?TabId=1"
+                  },
+                  {
+                    "title": "Published Balance Sheet",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/BSFinancialStatements.aspx?TabId=3"
+                  },
+                  {
+                    "title": "Selected Performance Indicators",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/BSSelectedPerformanceIndicators.aspx"
+                  },
+                  {
+                    "title": "External Account",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/External.aspx?TabId=1"
+                  },
+                  {
+                    "title": "Loan Account",
+                    "url": "https://www.bsp.gov.ph/SitePages/Statistics/BSLoanAccounts.aspx?TabId=1"
+                  }
+                ],
                 "position": 1
               },
               {
-                "url": "https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx",
-                "title": "Bangko Sentral ng Pilipinas Statistics - Philippine RTGS: <i>PhilPaSS ...",
-                "text": "Share. https://www.bsp.gov.ph/SitePages/Statistics/PhilPaSSStatistics.aspx. Payment Statistics. Volume and Value of Transactions. Year. June 2025, May 2025 ...",
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/StatisticsMetadataList.aspx",
+                "title": "Statistics Metadata Search - Bangko Sentral ng Pilipinas",
+                "text": "​This dataset contains data on the Philippine stock market: Philippine Stock Exchange index (PSEi), sector indices, volume and value of stock market ...",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
                 "position": 2
               },
               {
-                "url": "https://www.bsp.gov.ph/SitePages/Statistics/Statistics.aspx/%7B%7BGetWebAbsoluteURL()+%20'/SitePages/Statistics/Financial%20System%20Accounts.aspx?TabId=15'}}",
-                "title": "Bangko Sentral ng Pilipinas Statistics",
-                "text": "The BSP monitors and compiles various statistical series on monetary, financial and external variables useful for the formulation and analysis of monetary, ...",
+                "url": "https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx",
+                "title": "Exchange Rate - Bangko Sentral ng Pilipinas Statistics",
+                "text": "BANGKO SENTRAL NG PILIPINAS. FINANCIAL MARKETS. REFERENCE EXCHANGE RATE BULLETIN. July 24, 2025. COUNTRY, UNIT, SYMBOL, EURO EQUIVALENT ...",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
                 "position": 3
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/BSPhysicalNetwork.aspx",
+                "title": "Bangko Sentral ng Pilipinas Statistics - Physical Network",
+                "text": "Publications and Reports, Statistics, Research, Primers and FAQs, Multimedia Resources, BSP Event Calendar, Public Advisories, Banking Advisories",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 4
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Statistics/External.aspx?TabId=8",
+                "title": "Investment Overseas Filipinos' Remittances Exchange Rates",
+                "text": "Note: Latest available data are in PDF and HTML formats. Excel file contains historical data. Technical Notes. Revision Policies.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin excel"
+          ],
           "query": {
-            "q": "site:http://www.bsp.gov.ph/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bsp.gov.ph/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -85,30 +165,47 @@
                 "position": 1
               },
               {
-                "url": "https://www.bsp.gov.ph/SitePages/Regulations/GuideToFx.aspx",
-                "title": "Bangko Sentral ng Pilipinas Foreign Exchange Regulations - Guide to ...",
-                "text": "General Policy\n\nRegulations under the FX Manual governing purchase of foreign currency from banks (e.g., documentation) will ...",
+                "url": "https://www.bsp.gov.ph/Regulations/Issuances/2021/1108.pdf",
+                "title": "Circular No. 1108 - Bangko Sentral ng Pilipinas",
+                "text": "PoLicy Sta|ement,. It is the policy of the Bangko. Sentral to provide an environment that encourages financial innovation while safeguarding the integrity.",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
                 "position": 2
               },
               {
-                "url": "https://www.bsp.gov.ph/SitePages/Regulations/RegulationDisp.aspx?ItemId=4983",
-                "title": "Bangko Sentral ng Pilipinas Regulations - BSP Issuances",
-                "text": "For pdf copies of signed issuances not yet posted in this website, kindly e-mail the Administrative Services Department at external_issuances@bsp.gov.ph.",
+                "url": "https://www.bsp.gov.ph/Regulations/MORPS/MORPS.pdf",
+                "title": "Updated as of September 2024 - Bangko Sentral ng Pilipinas",
+                "text": "The Manual of Regulations for Payment Systems (MORPS) compiles payment system regulations approved by the Monetary ...",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
                 "position": 3
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Regulations/GuideToFx.aspx",
+                "title": "Bangko Sentral ng Pilipinas Foreign Exchange Regulations - Guide to ...",
+                "text": "General Policy\n\nRegulations under the FX Manual governing purchase of foreign currency from banks (e.g., documentation) will apply if such purchase is funded by ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 4
+              },
+              {
+                "url": "https://www.bsp.gov.ph/PaymentAndSettlement/Peso_RTGS_Laws_and_Regulations.pdf",
+                "title": "Classification: GENERAL Laws, Rules, Regulations, and Guidelines",
+                "text": "TITLE. REPUBLIC ACT. 11032. An Act Promoting Ease of Doing Business and · Efficient Delivery of · Government Services, Amending for the Purpose.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 5
               }
             ]
           },
           "related": [
             "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
             "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.bsp.gov.ph/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bsp.gov.ph/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -120,33 +217,53 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bsp.gov.ph/Lists/Speeches%20list/Attachments/1032/BSP-Speeches-1032.pdf",
-                "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches - BSP",
-                "text": "I am often asked, \"What is the role of stock markets in the economy?\" The first thing I did was go to Google. What I found out was that the market cap [of ...",
+                "url": "https://www.bsp.gov.ph/SitePages/MediaAndResearch/SpeechesDisp.aspx?ItemId=1087",
+                "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches",
+                "text": "Date: January 10, 2025 ; Place: BSP Manila ; Occasion: 2025 Annual Reception for the Banking Community ; Speaker: BSP Governor Eli M. Remolona, Jr.",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
                 "position": 1
               },
               {
-                "url": "https://www.bsp.gov.ph/Lists/Speeches%20list/Attachments/986/BSP-Speeches-986.pdf",
+                "url": "https://www.bsp.gov.ph/SitePages/MediaAndResearch/SpeechesDisp.aspx?ItemId=1099",
                 "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches",
-                "text": "When I was growing up in Lipa City, there was only one bank in Lipa and that was a rural bank-that is the Malarayat Rural Bank. They are still around.",
+                "text": "Speech during the 32nd Anniversary of the Bangko Sentral ng Pilipinas. Date: July 03, 2025. Place: Assembly Hall, BSP Manila.",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2025-07-05T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.bsp.gov.ph/Lists/Speeches%20list/Attachments/968/BSP-Speeches-968.pdf",
-                "title": "Bangko Sentral ng Pilipinas Media and Research - Speeches",
-                "text": "Good morning everyone. Like Mayor Benjie, I'd like to skip the formal introduction… Mayor Benjamin. Magalong, I'd like to thank you for a beautiful ...",
+                "url": "https://www.bsp.gov.ph/SitePages/MediaAndResearch/MediaDisp.aspx?ItemId=7574&MType=MediaReleases",
+                "title": "Bangko Sentral ng Pilipinas Media and Research Press Releases",
+                "text": "The Bangko Sentral ng Pilipinas (BSP) will issue a circular meant to protect users of digital platforms from risks associated with online gambling.",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2025-07-02T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/MediaAndResearch/MediaDisp.aspx?ItemId=7575&MType=MediaReleases",
+                "title": "Bangko Sentral ng Pilipinas Media and Research Press Releases",
+                "text": "The Bangko Sentral ng Pilipinas (BSP) launched The Governors Speak, a book series featuring select speeches of Philippine central bank governors ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2025-07-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/MediaAndResearch/MediaDisp.aspx?ItemId=7566",
+                "title": "Bangko Sentral ng Pilipinas Media and Research Press Releases - BSP",
+                "text": "Businesses less optimistic as confidence moderates for mid-2025 and next 12 months*. June 27, 2025. Chart - 2025 Q2 BES Press Release.png.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2025-06-27T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bsp.gov.ph/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bsp.gov.ph/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -158,12 +275,29 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Events/By%20Year/2024/2024-irf-call-for-papers.aspx",
-                "title": "2024 International Research Fair - Call for Papers",
+                "url": "https://www.bsp.gov.ph/Pages/MediaAndResearch/PublicationsAndReports/BSPWorkingPaperSeries.aspx",
+                "title": "BSP Working Paper Series - Bangko Sentral ng Pilipinas",
+                "text": "The BSP Working Paper Series constitutes studies relevant to central banks, which are conducted by BSP researchers and occasionally, in collaboration with ...",
                 "source": "Bangko Sentral ng Pilipinas",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bsp.gov.ph/PublishingImages/Pages/About%20the%20Bank/Events/By%20Year/2024/2024-irf-call-for-papers/(NewPoster)IRF2024%20-%20Call%20for%20papers.png",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
                 "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Media_And_Research/Events/2012/ccmp/downloads/papers/2012_CCMP_01_paper.pdf",
+                "title": "Countercyclical Capital Buffer and Optimal Monetary Policy",
+                "text": "The interest of this paper is on the countercyclical capital buffer scheme which is macroprudential in nature and also the most likely to ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2012-02-29T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Pages/ABOUT%20THE%20BANK/Events/By%20Year/2023/Research-Fair-2023/call-for-papers.aspx",
+                "title": "Call for Papers",
+                "source": "BSP",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bsp.gov.ph/PublishingImages/Pages/About%20the%20Bank/Events/By%20Year/2023/Research-Fair-2023/call-for-papers/CALL%20FOR%20PAPERS.png",
+                "position": 3
               },
               {
                 "url": "https://www.bsp.gov.ph/SitePages/Research/ReseachAndStudies.aspx",
@@ -171,24 +305,180 @@
                 "source": "BSP",
                 "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
                 "image": "https://www.bsp.gov.ph/Media_And_Research/thumbnails/research_thumb.webp",
-                "position": 2
+                "position": 4
               },
               {
                 "url": "https://www.bsp.gov.ph/Sites/researchsite/Pages/Events/International-Research-Fair.aspx",
                 "title": "International Research Fair",
                 "source": "Bangko Sentral ng Pilipinas",
                 "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.bsp.gov.ph/Sites/researchsite/PublishingImages/Pages/Events/International-Research-Fair/Thumbnail.PNG",
-                "position": 3
+                "image": "https://www.bsp.gov.ph/Sites/researchsite/SiteAssets/Events/International-Research-Fair/research-fair-2022.jpg",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Research working papers papers research working papers ') pdf",
             "Research working papers papers research working papers ') 2021",
-            "Research working papers papers research working papers ') 2022"
+            "Research working papers papers research working papers ') 2022",
+            "Research working papers papers research working papers ') 2020"
           ],
           "query": {
-            "q": "site:http://www.bsp.gov.ph/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.bsp.gov.ph/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/sites/NewBSPComplex/SiteAssets/Forms/AllItems.aspx?RootFolder=%2Fsites%2FNewBSPComplex%2FSiteAssets%2FSitePages%2FAnnouncements&FolderCTID=0x0120001343F54C60C1114C87241AB51B5E4990&View=%7BDB205D87%2D5C50%2D49F3%2DB6FF%2D71217A8FD7FB%7D",
+                "title": "Announcements - All Documents",
+                "text": "SitePages : Announcements. Use this library to store files which are included on pages within this site, such as images on Wiki pages. ; 24059-Announcements.jpg.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/sites/NewBSPComplex/Lists/Announcements%20List/DispForm.aspx",
+                "title": "Announcements List - View Item",
+                "text": "Announcements List · MAIN BUILDING · MAIN LOBBY · COMMAND AND DATA CENTER · BSP MUSEUM · ACADEMIC BUILDING · SPORTS COMPLEX · COMMERCIAL STALLS · AMPHITHEATER ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Pages/AboutTheBank/Facilities/BSPMuseum_Announcements.aspx",
+                "title": "Bangko Sentral ng Pilipinas BSP Museum Announcements",
+                "text": "National Heritage Month 2024. The Bangko Sentral ng Pilipinas highlights the “Dekada ng Kulturang Pilipino” Commemorative ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 3
+              },
+              {
+                "url": "https://www.bsp.gov.ph/SitePages/Regulations/FXAnnouncements.aspx",
+                "title": "Bangko Sentral ng Pilipinas Foreign Exchange Regulations",
+                "text": "Monetary Board Cancels Registration of P.J. Money Exchange Inc. November 09, 2021. BSP Statement of Commitment to the FX Global Code. January 12, 2021. BSP ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 4
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Pages/IRG/irg-files/Structural%20Reforms%20Handout%20July%202025.pdf",
+                "title": "Updates on Key Structural Reforms in the Philippines",
+                "text": "Administration's transformation agenda continues to gain momentum and support attainment of development goals. • Crucial reforms were passed before the 19th ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Procurement09/Attachments/15261/PhilGEPS%20-%20NTP%20AQME.pdf",
+                "title": "9/21/23, 8:11 AM PhilGEPS https://notices.philgeps.gov.ph ...",
+                "text": "BANGKO SENTRAL NG PILIPINAS (SECURITY PLANT COMPLEX) -. QUEZON CITY. East Avenue, Diliman, Quezon City Metro Manila, NCR, Philippines.",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2023-09-21T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Procurement09/Attachments/11695/Annex%20U.%20Notices%20to%20Proceed.pdf",
+                "title": "Notice to Proceed -Innovalite Air Purifier",
+                "text": "Supply and Delivery of Lot 1: 20 units Air Purifier, as per BSP Technical. Specifications, under BAC – SPC GS No. 2022-226 dated 21 February ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2023-01-30T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Procurement09/Attachments/5462/Notices%20of%20Cancellation_%20A&E%20BSP%20NCC%20(Re-bidding)_SGD-merged.pdf",
+                "title": "Bids and Awards Committee – New BSP Complex Notice of ...",
+                "text": "This is to inform you that the Bids and Awards Committee (BAC) – New BSP. Complex (NBC), in its Resolution No. 2021-0038 dated 01 October ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "published_time": "2021-10-04T00:00:00",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bsp.gov.ph/About%20the%20Bank/Strategic%20Communication%20Framework%20of%20the%20BSP.pdf",
+                "title": "OF THE BANGKO SENTRAL NG PILIPINAS",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///d14e4b19902a0db2f75392fba1b229ab487807b3a59dd04c731d6caf7fd7e461",
+                "position": 1
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Procurement09/Attachments/10756/NOA%20dtd%2020%20October%202022%20-%20Comprehensive%20Communication%20Strategy.pdf",
+                "title": "Untitled",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///18d761ab152a2f10fe2d2b9c724ca903bbf3ac507c476a4e30209de5f630b930",
+                "position": 2
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Procurement09/Attachments/8362/0.%20REI%20for%20Communication%20Strategy%20combined%20FIN..pdf",
+                "title": "BIDS AND AWARDS COMMITTEE ± HEAD OFFICE REQUEST FOR ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///1ef1a24e2be6d2cad2c19808b809b5ea84de8e53a8788dcf6f1541972b4f6813",
+                "position": 3
+              },
+              {
+                "url": "https://www.bsp.gov.ph/Lists/Procurement09/Attachments/17712/NTP-ANGLOWEAL%20ENTERPRISES%20Communication%20Collaterals%20.pdf",
+                "title": "Classification: GENERAL",
+                "source": "www.bsp.gov.ph",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bsp.gov.ph&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///9bf5f55196b19896f496e2994760399e9c604e17b65692cd90a4c61114c3f40e",
+                "position": 4
+              },
+              {
+                "url": "https://www.bsp.gov.ph/About%20the%20Bank/Strategic%20Communication%20Framework%20of%20the%20BSP.pdf",
+                "title": "Strategic Communication Framework of the BSP.pdf",
+                "text": "The following communication channels are used when raising awareness, providing information, conducting educational activities, influencing behavior, or ...",
+                "source": "Bangko Sentral ng Pilipinas",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bsp.gov.ph",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bsp.gov.ph/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.rbm.mw/Publications/AnnualReports/",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.rbm.mw/research-papers.aspx",
+        "title": null,
+        "text": null,
+        "listing_probability": 0.98
+      }
+    ]
+  }
+]

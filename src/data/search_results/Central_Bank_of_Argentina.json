@@ -1,4 +1,364 @@
 {
   "Bank Name": "Central Bank of Argentina",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/BCRAyVos/Publicaciones_i.asp",
+                "title": "Publications - BCRA",
+                "text": "Publications. Numismatic working and research papers written by the Museum's team, which include the analyses of historical, social, and cultural processes leading to the creation of our country's coins and banknotes: - The Argentine Ernesto \"Che\" Guevara in Cuba's Monetary Issues (El argentino Ernesto \"Che\" ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Calendar_bcra_publications.asp",
+                "title": "Advance Release Calendar of the BCRA publications schedule for 2017",
+                "text": "Daily Publications: The information is published daily within 24 business hours of the date to which the data refers to.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Institucional/DescargaPDF/DownloadPDF.aspx?Id=624",
+                "title": "Adverse Selection, Risk Sharing and Business Cycles;",
+                "text": "Abstract: I consider a real business cycle model in which agents have private information about their stochastic value of leisure. For the case of logarithmic preferences I provide an analytical characterization of the solution to the associated mechanism design problem. Moreover, I show.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Boletin_estadistico_i.asp",
+                "title": "Statistical Bulletin - BCRA",
+                "text": "Statistical Bulletin. This bulletin compiles and publishes statistical series of the main monetary and financial variables of Argentina.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/noticias/Boletin-estadistico-0625-i.asp",
+                "title": "Statistical Bulletin, June 2025 - BCRA",
+                "text": "This is a monthly bulletin of statistical series on the main monetary and financial variables of Argentina. June 13, 2025.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "published_time": "2025-06-13T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Noticias/Datos_abiertos_sitio_web_BCRA_i.asp",
+                "title": "Open data on the BCRA website",
+                "text": "The Central Bank of Argentina's website comprises its monetary and financial statistics series in an open format, so as to facilitate processing through the ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/series_estadisticas_txt2-i.asp",
+                "title": "Data Catalog of Monetary and Financial Statistics - BCRA",
+                "text": "The BCRA makes available the data catalog of monetary and financial statistics, which lists the information released through standardized tables of statistical ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Estadisticas_deuda_externa_privada-i.asp",
+                "title": "Private Sector External Debt Standardized Statistics - BCRA",
+                "text": "Standardized statistical series of private sector external debt positions from December 31, 2017 are displayed on a quarterly basis.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin excel",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/SistemasFinancierosYdePagos/marco%20normativo_i.pdf",
+                "title": "Prudential Regulations - BCRA",
+                "text": "Financial institutions shall comply with the minimum capital requirement to be determined as the higher of: (i) the core capital set by the ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "published_time": "2024-12-30T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/SistemasFinancierosYdePagos/Regulaciones_exterior_y_cambios_i.asp",
+                "title": "Foreign Trade and Exchange Regulations - BCRA",
+                "text": "Such rules basically provide the following: Transactions must be made through an institution licensed to trade in the foreign exchange market.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe-regimen-disponibilidad-divisas-para-inversores-extranjeros-i.asp",
+                "title": "Regulations on Foreign Currency Availability for Foreign Investors",
+                "text": "The measures adopted by the BCRA have contributed to improving the conditions to access the forex market for the repatriation of direct investments.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcra.gob.ar/PoliticaMonetaria/comunicados_i.asp",
+                "title": "Monetary Policy Statements - BCRA",
+                "text": "06/09/2025, The BCRA Announces Measures to Strengthen International Reserves and Consolidate the Control of Monetary Aggregates.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_politica_monetaria_i.asp",
+                "title": "Monetary Policy Report - BCRA",
+                "text": "This quarterly publication analyzes the national and international economic context, assesses inflation dynamics and its outlook.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/Noticias/Speeches.asp",
+                "title": "Speeches and Presentations - BCRA",
+                "text": "Speeches and Presentations ; 06/13/2019, Press Conference by Guido Sandleris ; 05/15/2019, Speech on April's CPI ; 04/23/2018, Governor´s Speech | RAMP Executive ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/noticias/Noticias_i.asp",
+                "title": "News - BCRA",
+                "text": "News ; 12/05/2024, The BCRA Reduced Again the Monetary Policy Rate ; 12/13/2024, Statistical Bulletin, December 2024 ; 11/29/2024, Non-Financial Credit Providers ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Noticias/Regimen_de_Metas_de_Inflacion_en_Argentina_i.asp",
+                "title": "Argentina's Inflation Targets Regime. Press Conference - BCRA",
+                "text": "Federieco Sturzenegger, Governor of the Central Bank of Argentina, has given a press conference to unveil Argentina's Inflation Targets Regime.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Noticias/02-09-19-Conferencia-post-i.asp",
+                "title": "Press Conference by Guido Sandleris - BCRA",
+                "text": "We have called you today to explain the economic measures announced yesterday. These measures seek to protect exchange rate stability and savers.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Noticias/G20_reunion_ministerial_jornada_2_i.asp",
+                "title": "G20: Meeting of Finance Ministers and Central Bank Governors - BCRA",
+                "text": "The G20 started out as a meeting of finance ministers and central bank governors. It was created on September 25, 1999, in a Meeting of G7 Finance Ministers who ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Documentos_de_trabajo_i.asp",
+                "title": "Working Papers - BCRA",
+                "text": "Working Papers are academic essays written by economists from the BCRA and are posted in this section before being published in printed format. They are ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/repec/bcr/wpaper/WP_52_2011i.pdf",
+                "title": "Working Paper 2011 | 52 - Export Costs and Geographic Diversification",
+                "text": "This paper explores how sunk export costs and shared costs between similar markets affect firms' geographic diversification, and how experience in similar ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/Investigaciones/WP_2015_63Escude_i.pdf",
+                "title": "ESTUDIOS BCRA Working Paper 2015 | 63",
+                "source": "BCRA",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bcra.gob.ar&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///e1ba44262e1de0880db95934d3522fb33721ab9766a07344588e162636f8d345",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Institucional/DescargaPDF/DownloadPDF.aspx?Id=1085",
+                "title": "Working Paper N 104 | 2022 An Appraisal of Alternative ...",
+                "source": "CONICET",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bcra.gob.ar&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///eff63830e6d84d049b0c7848b1cb8cfea4d5550f70a1dfb0bcd2a6260e0e0f59",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcra.gob.ar/pdfs/investigaciones/WP%202006%2012_i.pdf",
+                "title": "Working Paper 2006 | 12",
+                "source": "BCRA",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bcra.gob.ar&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///529edf4f7eb1af45184b966bfc0a6a53a185b7619c6f39264a1b537bfc2d9da6",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/BCRA/Sibert%20Paper%20050607.pdf",
+                "title": "Financial Stability and Central Banks: Do Announcements Help ...",
+                "text": "A common, if not consensus, view among academics and policy makers is that the most important role of a central bank in a modern society is to provide a.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/noticias/BCRA-actualiza-tasa-politica-monetaria-i.asp",
+                "title": "BCRA Updates Monetary Policy Rate",
+                "text": "The Board has decided to raise the monetary policy rate by 300 basis points. This way, the APR on 28-day LELIQs has risen from 78% to 81%.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "published_time": "2023-04-20T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/Publicaciones/trabajo5.pdf",
+                "title": "The Impact of Policy Announcements and News on Capital Markets - BCRA",
+                "text": "The authors are respectively members of the Central Bank of Argentina and the World Bank. We gratefully thank.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/comytexord/A3500_i.pdf",
+                "title": "COMMUNICATION “A” 3500 - BCRA",
+                "text": "Every business day, the Central Bank will request the ensemble of banks to inform the purchase and sale exchange rates for the US dollar for transactions payable in pesos and in US dollars. Those rates, so requested through the SIOPEL system of the Mercado Abierto Electrónico, should reflect the prevailing.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/comytexord/A5856_i.pdf",
+                "title": "COMMUNICATION “A” 5856 - BCRA",
+                "text": "Servicing: pay-back amounts shall be credited upon maturity to the intermediary institution's account in US dollars with the Central Bank.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/A7168-i.pdf",
+                "title": "Circular CAMEX 1 F - BCRA",
+                "text": "The total amount of profits and dividends paid to non-resident shareholders, including the requested payment, shall not exceed the amount in pesos established in the shareholders' meeting. The financial institution shall keep an affidavit signed by the legal representative or attorney-in-fact duly empowered to.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/comytexord/B11210_i.pdf",
+                "title": "COMMUNICATION “B” 11210 - BCRA",
+                "text": "This is to inform you and—through you—any interested parties that the Central Bank of. Argentina has changed the conditions for participating in the ...",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/A7030-i.pdf",
+                "title": "communication “a” 7030 - BCRA",
+                "text": "Institutions shall have the prior consent of the BCRA for operating in the forex market as set out in paragraphs 3.1. through 3.11. and 4.4.2. of the regulations on “Foreign Trade and Exchange”, except where transactions are carried out by natural persons for the build-up of foreign assets.",
+                "source": "Banco Central de la República Argentina",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAG1BMVEUvMC8pKSkmJycjIyMjIyMeHh4ZGRkgIB8ZGRnqXGk8AAAACXRSTlMBFCAuP1FsYYTpy4XiAAAA5klEQVQoka2S4RLDIAiDBQF9/ydegtM63f6NO9urn5GYWso/SrJ+EmXdnPMYlaUHJRCphroodZhLdFI2s9bcKhcZoTw67Oi9T0q4tKKl1NbDKbZheEFNGM0xgD+gUKmOacLwbDnTyDcMOT15sx3KG8IN1O7jKLndMFsEMyIWEc4gsu/aFuFk44Bn54q6oBZBNvjiaaNhQCvbORMqjxuAbvokxKYMH6aD1XZISqMKxyjsu4ULLdy4YkkqfQoHxYNtFZZ631mR0ZYPA4t6XRMa5r9DutclEq35O2D7ZDPl71dz4PKbnfUCMq4FVey+9MAAAAAASUVORK5CYII=",
+                "published_time": "2020-05-28T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bcra.gob.ar/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

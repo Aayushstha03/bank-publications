@@ -6,19 +6,31 @@
         "url": "https://www.bankofgreece.gr/en/publications-and-research/publications",
         "title": "Publications",
         "text": "Governor's Annual Report · Μοnetary Policy Report · Financial Stability Review · Annual Accounts · Publications of the Centre for Culture, Research & Documentation.",
-        "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.bankofgreece.gr/en/the-bank/culture/publications",
-        "title": "Publications",
-        "text": "They primarily aim to underline and highlight the role of the Bank of Greece in the country's financial, social and cultural development.",
-        "listing_probability": 0.4
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/publications-list",
         "title": "Publications-list",
         "text": "The publications of the Bank of Greece below, are available in pdf format and you can search for the one that may interest you.",
-        "listing_probability": 0.99
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/ecb-publications",
+        "title": "ECB-Publications",
+        "text": "The Economic Bulletin presents the economic and monetary information which forms the basis for the ECB Governing Council's policy decisions.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/the-bank/culture/publications",
+        "title": "Publications",
+        "text": "They primarily aim to underline and highlight the role of the Bank of Greece in the country's financial, social and cultural development.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/publications/other-publications",
+        "title": "Other-Publications",
+        "text": "Other publications of the Bank of Greece include studies on the functioning of the Greek and the euro area economies as well as records of discontinued ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -26,16 +38,22 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/research/economic-bulletin",
+        "title": "Economic-Bulletin",
+        "text": "The Economic Bulletin publishes research papers on issues of relevance to the Greek economy. Featuring articles and studies of topical interest.",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.bankofgreece.gr/en/statistics/monetary-and-banking-statistics",
         "title": "Monetary-and-banking-statistics",
         "text": "The Bank of Greece publishes on a monthly (or quarterly) basis data on bank deposits and credit, as well as on the key monetary aggregates.",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.bankofgreece.gr/en/main-tasks/markets/hdat/statistical-data",
         "title": "Statistical-data",
         "text": "The data series are presented on a daily basis for the last 30 trading days and on a monthly basis from March 1999. The current year's daily trading volumes in ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.8
       },
       {
         "url": "https://www.bankofgreece.gr/en/the-bank/organisation/organisation-chart/statistics-directorate",
@@ -52,19 +70,13 @@
         "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy",
         "title": "Monetary policy",
         "text": "Monetary policy refers to decisions taken by central banks and influencing the cost and availability of money in an economy.",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy/decisions-and-operational-framework",
         "title": "Monetary policy decisions and operational framework for monetary ...",
         "text": "Learn about monetary policy decisions and the operational framework for monetary policy implementation.",
-        "listing_probability": 0.1
-      },
-      {
-        "url": "https://www.bankofgreece.gr/en/main-tasks/monetary-policy/monetary-policy-instruments",
-        "title": "The operational framework for the monetary policy | Bank of Greece",
-        "text": "The Eurosystem's monetary policy instruments include: Open market operations. The Eurosystem's open market operations play an important role in monetary policy.",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
       }
     ]
   },
@@ -78,16 +90,28 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list",
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?category=c5722683-e7a9-40c8-adab-dc8bdfde8c1d&sorting=date",
         "title": "News-list",
-        "text": "Today, the Bank of Greece published the latest issue of its Economic Bulletin (No. 61 / July 2025). The articles published in the Economic Bulletin reflect the ...",
+        "text": "Welcome speech of Dimitris Malliaropulos at the Opening Ceremony of the 2025 Annual Meeting of the European Financial Management Association ... Ladies and ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=4ec750cc-3087-45a9-8949-78a768bc289a&year=all&sorting=date",
-        "title": "News-list",
-        "text": "News list · Commentary on the Balance Sheet and Profit and Loss Account for financial year 2024 · Balance Sheet and Profit and Loss Account for financial year ...",
-        "listing_probability": 1.0
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=a21c63fc-844d-462b-a5c1-ba83511d2d57",
+        "title": "Speech by the Governor of the Bank of Greece Yannis Stournaras titled ...",
+        "text": "Today, I would like to discuss how central banks can harness the transformative potential of artificial intelligence (AI) in their mission to ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=268ef31d-1f21-449d-a0d1-54233aeef884",
+        "title": "Speech by the Governor of the Bank of Greece Yannis Stournaras \"The ...",
+        "text": "I will share with you our experience in dealing with NPLs in Greece and I will then outline the key challenges ahead for the banking system in the euro area.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=76af0fc2-8bd6-4c1a-a167-52c286e7d74d",
+        "title": "speech of Dimitris Malliaropulos at the Opening Ceremony of the 2025 ...",
+        "text": "25/06/2025 - Speeches · I. The U.S. Dollar as a Global Safe Asset: The Exorbitant Privilege · II. Economic Costs: Trade Deficits and Overvaluation.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -98,6 +122,47 @@
         "url": "https://www.bankofgreece.gr/en/publications-and-research/research/working-papers",
         "title": "Working-Papers",
         "text": "The Working Paper Series disseminates research papers of high quality and often of a more technical nature relevant to the various areas of interest to the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/publications-and-research/research",
+        "title": "Research",
+        "text": null,
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?category=4bce81e8-17f0-4dc6-ac52-8c9074d2f682",
+        "title": "Announcements | Bank of Greece",
+        "text": "See the full text of the Decisions of the 92nd Annual Ordinary General Meeting of Shareholders of the Bank of Greece – Voting results below. Dividend for ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=a9457d3f-23b0-4be0-ac8d-d2d902a72a3f&sorting=date&category=4bce81e8-17f0-4dc6-ac52-8c9074d2f682",
+        "title": "Announcements | Bank of Greece",
+        "text": "News list · Decisions of the 92nd Annual Ordinary General Meeting of Shareholders of the Bank of Greece – Voting results · Dividend for financial year 2024.",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/main-tasks/markets/hdat/decisions-announcements",
+        "title": "Decisions-Announcements",
+        "text": "Announcement: Hellenic Republic Exchange and tender offer _ Supplementary ( December 6, 2021) · Announcement: Hellenic Republic New 10-year Greek Government Bond ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?topic=4ec750cc-3087-45a9-8949-78a768bc289a&sorting=date&category=4bce81e8-17f0-4dc6-ac52-8c9074d2f682",
+        "title": "Announcements | Bank of Greece",
+        "text": "The Bank of Greece, in accordance with Article 14 of Law 3556/2007 and further to the relevant notification it received on 12 August 2020, announces that, ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list?category=59da8f59-abfa-4946-b211-7b0169dc44c1&sorting=date&topic=0113750e-7929-45a6-8356-326df947bfba",
+        "title": "Announcements | Bank of Greece",
+        "text": "On Tuesday, 25 February 2025, the Bank of Greece, in collaboration with the Ministry of Environment and Energy and the Green Fund, organised the second ...",
         "listing_probability": 0.95
       }
     ]

@@ -7,6 +7,18 @@
         "title": "Publications - CBUAE",
         "text": "We provide the public with historical Central Bank of the UAE reports and their iterations published previously, as part of our commitment to data transparency.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/publications/cbuae-annual-reports/central-bank-annual-report-2024/",
+        "title": "Central Bank Annual Report 2024 - CBUAE",
+        "text": "Home · News and Publications · Publications · Central Bank Annual Report 2024.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/",
+        "title": "News and Insights",
+        "text": "All the latest news and updates from the Central Bank of the UAE.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -29,7 +41,7 @@
         "url": "https://www.centralbank.ae/en/open-data-landing/",
         "title": "Open Data landing - CBUAE",
         "text": "Access open data from the Central Bank of the UAE, including reports, statistics, and studies, aimed at promoting transparency and financial ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       }
     ]
   },
@@ -37,22 +49,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.centralbank.ae/en/our-operations/payments-and-settlements/regulations-and-standards/",
-        "title": "Regulations and Standards - CBUAE",
-        "text": "The UAE 'Regulatory Framework for Stored Values and Electronic Payment Systems', issued on 13 December 2016, is the basis on which the Central Bank of the UAE ...",
+        "url": "https://www.centralbank.ae/en/our-operations/supervision/bank-guidelines/",
+        "title": "Bank Guidelines - CBUAE",
+        "text": "The most up to date guidelines for banks licensed to operate in the UAE, prepared by the Central Bank of the UAE Regulatory Department.",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.centralbank.ae/en/our-operations/anti-money-laundering-aml/docs/cbuae-regulations/amended-chapter-16-of-the-standards-for-the-regulations-regarding-licensing-and-monitoring-of-exchange-business/",
-        "title": "Amended Chapter 16 of the Standards for the Regulations Regarding ...",
-        "text": "Download Amended Chapter 16 of the Standards for the Regulations Regarding Licensing and Monitoring of Exchange Business.",
-        "listing_probability": 0.1
+        "url": "https://www.centralbank.ae/en/our-operations/payments-and-settlements/regulations-and-standards/",
+        "title": "Regulations and Standards - CBUAE",
+        "text": "The policy objective is to ensure the safe, sound and efficient operation of designated RPS, in compliance with relevant international ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.ae/en/our-operations/supervision/insurance-guidelines/",
+        "title": "CBUAE | Insurance Guidelines",
+        "text": "The CBUAE and our supervision function diligently regulates insurance providers against a set group of guidelines, policies, and regulations to ensure that all ...",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.centralbank.ae/en/our-operations/monetary-policy-and-domestic-markets/",
         "title": "Monetary Policy and Domestic Markets - CBUAE",
         "text": "The Central Bank of the UAE is mandated to define and implement its monetary policy objectives through the formulation of the Dirham Monetary Framework.",
-        "listing_probability": 0.2
+        "listing_probability": 0.1
       }
     ]
   },
@@ -70,6 +88,68 @@
         "title": "Media Center - News Room - Press Releases & Announcements - CBUAE",
         "text": "Media Center - News Room - Press Releases & Announcements. Download. Media Center - News Room - Press Releases & Announcements.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/cbuae-s-2024-achievements-drive-momentum-towards-a-bright-future-for-the-financial-sector/",
+        "title": "CBUAE's 2024 Achievements Drive Momentum Towards a Bright Future ...",
+        "text": "Download CBUAE's 2024 Achievements Drive Momentum Towards a Bright Future for the Financial Sector",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/publications/",
+        "title": "Publications - CBUAE",
+        "text": "We provide the public with historical Central Bank of the UAE reports and their iterations published previously, as part of our commitment to data transparency.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/research-and-statistics/",
+        "title": "CBUAE | Research and Statistics",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/media-center-news-room-press-releases-announcements/",
+        "title": "Media Center - News Room - Press Releases & Announcements - CBUAE",
+        "text": "Media Center - News Room - Press Releases & Announcements. Download. Media Center - News Room - Press Releases & Announcements.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/ar/cbuae-notices-for-swift",
+        "title": "CBUAE | البحوث والإحصاء - المصرف المركزي",
+        "text": "يقوم مصرف الإمارات العربية المتحدة المركزي بجمع بيانات دقيقة وذات محتوىً مفيد ومحدّثة عن النظام المالي والنقدي لدولة الإمارات العربية المتحدة.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/press-release/the-central-bank-warns-consumers-to-be-aware-of-malicious-whatsapp-messages-of-a-fraudulent-nature/",
+        "title": "The Central Bank warns consumers to be aware of malicious WhatsApp ...",
+        "text": "The Central Bank warns consumers to be aware of malicious WhatsApp messages of a fraudulent nature.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.ae/en/news-and-publications/news-and-insights/thematic-news/a-meeting-via-visual-communication-of-the-governors-of-monetary-institutions-and-central-banks-in-the-gulf-cooperation-council-countries-to-discuss-the-economic-effects-of-the-corona-virus-epidemic/",
+        "title": "A meeting via “visual communication” of the governors of monetary ...",
+        "text": "A meeting via “visual communication” of the governors of monetary institutions and central banks in the Gulf Cooperation Council countries.",
+        "listing_probability": 0.05
       }
     ]
   }

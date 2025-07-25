@@ -6,19 +6,31 @@
         "url": "https://www.centralbank.org.bb/news/publications",
         "title": "Publications - Central Bank of Barbados",
         "text": "The Central Bank of Barbados publishes a variety of publications that review economic activity, monetary policy, financial stability, and related financial ...",
-        "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.centralbank.org.bb/news/general-publications",
-        "title": "General Publications - Central Bank of Barbados",
-        "text": "Search General Publications. Search General Publications using the form below. Leave the keyword field empty for a list of all entries in the selected ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.centralbank.org.bb/news/annual-reports",
         "title": "Annual Reports - Central Bank of Barbados",
         "text": "Search Annual Reports. Search Annual Reports using the form below. Leave the keyword field empty for a list of all entries in the selected category.",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/balance-of-payments-reports",
+        "title": "Balance of Payments Reports - Central Bank of Barbados",
+        "text": "The balance of payments accounts identify and record transactions between the residents of Barbados and non-residents.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/annual-reports/the-central-bank-of-barbados-s-2024-annual-report",
+        "title": "The Central Bank of Barbados's 2024 Annual Report",
+        "text": "In 2024, the Central Bank of Barbados diligently pursued our foundational mission: to ensure the health and stability of our financial system.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/general-publications",
+        "title": "General Publications - Central Bank of Barbados",
+        "text": "Search General Publications. Search General Publications using the form below. Leave the keyword field empty for a list of all entries in the selected ...",
+        "listing_probability": 1.0
       }
     ]
   },
@@ -29,7 +41,7 @@
         "url": "https://www.centralbank.org.bb/news/statistics",
         "title": "Statistics - Central Bank of Barbados",
         "text": "Welcome to the Statistics page of the Central Bank of Barbados, housing a wealth of statistical information compiled from original and secondary sources.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.centralbank.org.bb/news/statistics-news",
@@ -38,16 +50,34 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.centralbank.org.bb/news/selected-market-statistics",
+        "title": "Selected Market Statistics - Central Bank of Barbados",
+        "text": "Selected Market Statistics Auction Results October 11, 2017 This bulletin provides selected market statistics on the most recent.",
+        "listing_probability": 0.85
+      },
+      {
         "url": "https://www.centralbank.org.bb/news/historical-financial-data",
         "title": "Historical Financial Data - Central Bank of Barbados",
         "text": "When released on July 31 2019, CBBWEBSTATS started with the most current data periods. From 2007 onwards in the case of Central Bank data, and from 2012 ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/selected-market-statistics/selected-market-statistics-auction-results-august-19th-2016",
+        "title": "Selected Market Statistics Auction Results August 19th 2016",
+        "text": "This bulletin provides selected market statistics on the most recent Treasury Bill (T-bill) auction and liquidity in the banking system.",
+        "listing_probability": 0.05
       }
     ]
   },
   {
     "topic": "monetary_policy",
     "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/financial-stability-and-financial-regulation/regulatory-guidelines",
+        "title": "Regulatory Guidelines - Central Bank of Barbados",
+        "text": "Regulatory Guidelines · Market Conduct Guideline - issued July 12, 2024 · Large Exposures Guideline - issued July 28, 2023 · Technology and Cyber Risk Management ...",
+        "listing_probability": 0.95
+      },
       {
         "url": "https://www.centralbank.org.bb/news/general-press-release/intervention-policy-guideline",
         "title": "Intervention Policy Guideline - Central Bank of Barbados",
@@ -61,10 +91,10 @@
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.centralbank.org.bb/news/legislation-2/regulations-for-the-reproduction-of-barbadian-banknotes",
-        "title": "Regulations for the Reproduction of Barbadian Banknotes",
-        "text": "The Central Bank of Barbados is aware that individuals and organisations might on occasion wish to use reproductions1 of Barbadian currency.",
-        "listing_probability": 0.1
+        "url": "https://www.centralbank.org.bb/financial-stability-and-financial-regulation/legislation-and-guidelines",
+        "title": "Legislation and Guidelines - Central Bank of Barbados",
+        "text": "The Anti-Money Laundering/ Combating the Financing of Terrorism (AML/CFT) Guideline - issued November 20, 2021 Download PDF",
+        "listing_probability": 0.8
       }
     ]
   },
@@ -78,6 +108,12 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.centralbank.org.bb/news/speech",
+        "title": "Speech - Central Bank of Barbados",
+        "text": "26 May 2025 Creativity and Culture are not Luxuries; They are Necessities Remarks by Central Bank of Barbados Governor Dr. Kevin Greenidge at the opening of",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.centralbank.org.bb/news/general-press-release",
         "title": "General Press Release - Central Bank of Barbados",
         "text": "Central Bank of Barbados Begins 2025 Summer Internship Programme. The students will spend the next three months working in departments across the Ban...",
@@ -88,6 +124,12 @@
         "title": "Economic Press Release - Central Bank of Barbados",
         "text": "Review of Barbados' Economy: January-March 2024 Governor Dr. Kevin Greenidge reports on Barbados' economic performance in the first...",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/speech/transcript",
+        "title": "Transcript - Central Bank of Barbados",
+        "text": "Calendar of Events · General Press Releases · Economic Press Releases · Advisories · Speeches · Press Conferences · Quarterly Press Conferences · Blog · What It ...",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -98,13 +140,54 @@
         "url": "https://www.centralbank.org.bb/news/working-papers",
         "title": "Working Papers - Central Bank of Barbados",
         "text": "An investigation into the diversification effects of Bitcoin for Caribbean market investor. Over the last decade, cryptocurrencies have been growing rapidly in ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.centralbank.org.bb/news/research",
         "title": "Research - Central Bank of Barbados",
         "text": "The Central Bank of Barbados publishes a variety of statistics and publications that provide insight on monetary policy, financial stability, and related ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/general-press-release/call-for-papers-central-bank-of-barbados-45th-annual-review-seminar",
+        "title": "Call for Papers: Central Bank of Barbados' 45th Annual Review ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/general-press-release/call-for-papers-44th-annual-review-seminar",
+        "title": "Call for Papers – 44th Annual Review Seminar",
+        "text": null,
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.org.bb/news/bimpayupdates",
+        "title": "BimPay Updates - Central Bank of Barbados",
+        "text": "Search BimPay Updates. Search BimPay Updates using the form below. Leave the keyword field empty for a list of all entries in the selected ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/bimpaynews/bimpay-updates-test",
+        "title": "Bimpay Updates Test - Central Bank of Barbados",
+        "text": "Bimpay Updates Test · Author(s): Central Bank Of Barbados · Created Date: 10 Jul,2025 · Category: BimPay, BimPay Updates, · Print.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/working-papers/stock-market-reactions-to-dividend-announcements-in-firms-with-high-ownership-concentration",
+        "title": "Stock Market Reactions to Dividend Announcements in Firms with High ...",
+        "text": "This study investigates the stock market reaction to cash dividend announcements where companies exhibit high ownership concentration.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.centralbank.org.bb/news/general-press-release/the-central-bank-of-barbados-updates-its-aml-cft-guideline-following-the-revision-of-the-money-laundering-and-financing-of-terrorism-prevention-and-control-act-2011",
+        "title": "The Central Bank of Barbados updates its AML/CFT Guideline ...",
+        "text": "The Central Bank of Barbados updates its AML/CFT Guideline following the revision of the Money Laundering and Financing of Terrorism (Prevention and Control) ...",
+        "listing_probability": 0.05
       }
     ]
   }

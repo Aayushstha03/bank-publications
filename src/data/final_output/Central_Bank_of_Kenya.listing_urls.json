@@ -3,22 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.centralbank.go.ke/publications/",
-        "title": "Publications | CBK",
-        "text": "Key Rates. Central Bank Rate, 9.75%, 10/06/2025. Inter-Bank Rate, 9.61%, 23/07/2025. CBK Discount Window, 10.50%, 10/06/2025.",
+        "url": "https://www.centralbank.go.ke/reports/bank-supervision-and-banking-sector-reports/",
+        "title": "Bank Supervision & Banking Sector Reports - Central Bank of Kenya",
+        "text": "The KBRR Data Reports will be published monthly. The reports provide updates on the performance and developments in the banking sector over the period covered ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.go.ke/reports/bank-supervision-and-banking-sector-reports/",
-        "title": "Bank Supervision & Banking Sector Reports - Central Bank of Kenya",
-        "text": "The Central Bank of Kenya releases annual and quarterly Bank Supervision and Banking Sector Reports, and monthly KBRR Data Reports. The KBRR is a benchmark ...",
-        "listing_probability": 0.99
+        "url": "https://www.centralbank.go.ke/publications/",
+        "title": "Publications | CBK",
+        "text": "Key Rates. Central Bank Rate, 9.75%, 10/06/2025. Inter-Bank Rate, 9.62%, 24/07/2025. CBK Discount Window, 10.50%, 10/06/2025.",
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.centralbank.go.ke/reports/cbk-reports-and-financial-statements/",
         "title": "CBK Reports & Financial Statements",
-        "text": "CBK annual reports and financial statements summarize economic and financial indicators, with analysis and commentary on the Kenyan economy.",
-        "listing_probability": 0.99
+        "text": "The CBK annual reports and CBK annual financial statements are released every year by the Central Bank of Kenya and provide a brief summary of a range of ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.go.ke/reports/monetary-policy-reports/",
+        "title": "Monetary Policy Reports | CBK",
+        "text": "The Bi-Annual Report is prepared by members of the Monetary Policy Committee every six months and submitted to the Minister for Finance.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.centralbank.go.ke/reports/financial-sector-stability-reports/",
+        "title": "Financial Sector Stability Reports | CBK",
+        "text": "The Financial Sector Stability Report is prepared on a bi-annual basis by the Central Bank in collaboration with other regulators in the financial sector.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -32,10 +44,22 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.go.ke/releases/weekly-bulletin/",
-        "title": "Weekly Bulletin | CBK",
-        "text": "The weekly bulletin is released every week and provides a brief summary on a range of economic and financial indicators.",
-        "listing_probability": 0.95
+        "url": "https://www.centralbank.go.ke/statistics/",
+        "title": "Statistics | CBK",
+        "text": "+254202860000 comms@centralbank.go.ke · Facebook · Twitter · Facebook · Twitter · Website Navigation Guide · Contact Us · Old Email · New Email.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.centralbank.go.ke/statistics/monetary-finance-statistics/",
+        "title": "Monetary & Finance Statistics | CBK",
+        "text": "Monetary statistics is a consolidation of analytical accounts of the Central Bank of Kenya (CBK) and Other Depository Corporations (commercial banks)",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.centralbank.go.ke/statistics/balance-of-payment-statistics/",
+        "title": "Balance of Payment Statistics | CBK",
+        "text": "The Balance of Payment statistics contain data on Annual BOP Statement, Exports, Imports and Direction of Trade. Balance of Payment Statistics.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -43,22 +67,22 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.centralbank.go.ke/monetary-policy/",
-        "title": "Monetary Policy | CBK",
-        "text": "Monetary policy is decisions to ensure money supply aligns with growth and price objectives, aiming to maintain price stability and low inflation.",
-        "listing_probability": 0.1
+        "url": "https://www.centralbank.go.ke/policy-procedures/legislation-and-guidelines/",
+        "title": "Legislation and Guidelines | CBK",
+        "text": "Regulations and Guidelines issued by the Central Bank of Kenya subject banks to certain requirements, restrictions and guidelines.",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.go.ke/regulations-and-licensing/",
-        "title": "Regulations and Licensing | CBK",
-        "text": "Click on the links below to access relevant laws, regulations and licensing/authorization procedures. Legislation and Guidelines · Licensing Procedures.",
-        "listing_probability": 0.9
+        "url": "https://www.centralbank.go.ke/policy-procedures/legislation-and-guidelines/prudential-guidelines/",
+        "title": "PRUDENTIAL GUIDELINES | CBK",
+        "text": "PRUDENTIAL GUIDELINES. PRUDENTIAL GUIDELINES. Search for: Key New CBK Indicative Exchange Rates. US DOLLAR, 129.2495. STG POUND, 174.8487. EURO, 151.6614.",
+        "listing_probability": 0.6
       },
       {
-        "url": "https://www.centralbank.go.ke/reports/monetary-policy-statements/",
-        "title": "Monetary Policy Statements | CBK",
-        "text": "CBK Monetary Policy Statements 37 – December 2015, 36 – June 2015, 35 – December 2014, 34 – June 2014, 33 – December 2013,",
-        "listing_probability": 1.0
+        "url": "https://www.centralbank.go.ke/policy-procedures/legislation-and-guidelines/circulars/",
+        "title": "Circulars | CBK",
+        "text": "Circulars ; 2024, Microfinance Banks Circular No. 1 of 2024 - Migration of Domestic High Value Payment System to ISO 20022 Standards ; 2023, Central Bank of Kenya ...",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -72,16 +96,16 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.centralbank.go.ke/releases/speeches/",
-        "title": "Speeches | CBK",
-        "text": "13/06/2024, Remarks by the Governor on Financial Literacy Campaign. 28/05/2024, Acceptance Speech by Governor - Central Bank Governor of the Year Award.",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.centralbank.go.ke/news/",
         "title": "News | CBK",
         "text": "The Central Bank of Kenya in collaboration with Kenya National Bureau of Statistics (KNBS) and Financial Sector Deepening Trust (FSD Kenya) launched the 2024 ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.75
+      },
+      {
+        "url": "https://www.centralbank.go.ke/releases/speeches/",
+        "title": "Speeches | CBK",
+        "text": "13/06/2024, Remarks by the Governor on Financial Literacy Campaign. 28/05/2024, Acceptance Speech by Governor - Central Bank Governor of the Year Award.",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -92,13 +116,29 @@
         "url": "https://www.centralbank.go.ke/working-papers/",
         "title": "Working Papers | CBK",
         "text": "Working Papers. Papers published here relate to those completed by our researchers and have been peer reviewed to meet the strict scientific standards.",
-        "listing_probability": 0.98
-      },
-      {
-        "url": "https://www.centralbank.go.ke/research/",
-        "title": "Research | CBK",
-        "text": "Journal articles posted here are those articles that have been published by Central Bank of Kenya researchers or co-authored with researchers from elsewhere.",
         "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/external-announcements/",
+        "title": "External Announcements | CBK",
+        "text": "External Announcements ; Test, 29/08/2017 ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.centralbank.go.ke/releases/public-notices/",
+        "title": "Public Notices | CBK",
+        "text": "+254202860000 comms@centralbank.go.ke · Facebook · Twitter · Facebook · Twitter · Website Navigation Guide · Contact Us · Old Email · New Email.",
+        "listing_probability": 0.9
       }
     ]
   }

@@ -10,10 +10,18 @@
               {
                 "url": "https://www.federalreserve.gov/publications.htm",
                 "title": "Publications - Federal Reserve Board",
-                "text": "View the latest Federal Reserve Publications by category below or search, filter, or browse by A-Z publication title. Search Submit Button.",
+                "text": "View the latest Federal Reserve Publications by category below or search, filter, or browse by A-Z publication title. Search ...",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
                 "position": 1
+              },
+              {
+                "url": "https://www.federalreserve.gov/publications/azindex.htm",
+                "title": "Publications A-Z index - Federal Reserve Board",
+                "text": "Publications A-Z · Fair Credit Reporting Act Dispute Process · Feasibility and Desirability of Mandatory Subordinated Debt (PDF) · Feature Publications · Fed ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 2
               },
               {
                 "url": "https://www.federalreserve.gov/consumerscommunities/community-development-publications.htm",
@@ -21,20 +29,29 @@
                 "text": "The survey of more than 11,000 adults was conducted in October 2023.and the report discusses findings related to financial well-being, income, employment, ...",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://www.federalreserve.gov/publications/other-reports.htm",
-                "title": "The Fed - Other Reports - Federal Reserve Board",
-                "text": "All federal agencies must submit an annual report to Congress detailing acquisitions of materials or goods that are manufactured outside of the US.",
+                "url": "https://www.federalreserve.gov/publications/reports-to-congress-in-response-to-covid-19.htm",
+                "title": "2025 Reports to Congress Pursuant to Section 13(3) of the Federal ...",
+                "text": "The Federal Reserve filed these reports with Congress pursuant to section 13(3) of the Federal Reserve Act concerning the lending facilities established by the ...",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm",
+                "title": "The Fed - Monetary Policy Report - Federal Reserve Board",
+                "text": "This report⁠—called the Monetary Policy Report⁠—is submitted semiannually to the Senate Committee on Banking, Housing, and Urban Affairs and to ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2025-06-20T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.federalreserve.gov/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.federalreserve.gov/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -51,42 +68,12 @@
                 "text": "Data · Bank Assets and Liabilities · Bank Structure Data · Business Finance · Dealer Financing Terms · Exchange Rates and International Data · Financial Accounts.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "sublinks": [
-                  {
-                    "title": "Data Download Program",
-                    "url": "https://www.federalreserve.gov/datadownload/"
-                  },
-                  {
-                    "title": "Interactive Data Visualizations",
-                    "url": "https://www.federalreserve.gov/data/dataviz.htm"
-                  },
-                  {
-                    "title": "Economic Research Data",
-                    "url": "https://www.federalreserve.gov/econres/economic-research-data.htm"
-                  },
-                  {
-                    "title": "Micro Data Reference Manual",
-                    "url": "https://www.federalreserve.gov/data/mdrm.htm"
-                  },
-                  {
-                    "title": "Yield Curve Models and Data",
-                    "url": "https://www.federalreserve.gov/data/yield-curve-models.htm"
-                  },
-                  {
-                    "title": "Selected Interest Rates (Daily)",
-                    "url": "https://www.federalreserve.gov/releases/h15/"
-                  },
-                  {
-                    "title": "Foreign Exchange Rates - H...",
-                    "url": "https://www.federalreserve.gov/releases/h10/current/"
-                  }
-                ],
                 "position": 1
               },
               {
-                "url": "https://www.federalreserve.gov/apps/mdrm/data-dictionary",
-                "title": "Data Dictionary - The Fed - Micro Data Reference Manual",
-                "text": "Download MDRM Data Dictionary. Search For Search By Item Number (Example: 2170) Item Name (Example: Total Assets)",
+                "url": "https://www.federalreserve.gov/pubs/supplement/default.htm",
+                "title": "FRB: Statistical Supplement to the Federal Reserve Bulletin",
+                "text": "The Statistical Supplement to the Federal Reserve Bulletin is published monthly under the direction of the staff publications committee.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
                 "position": 2
@@ -99,11 +86,28 @@
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
                 "published_time": "2023-02-17T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.federalreserve.gov/paymentsystems/coin_data.htm",
+                "title": "Data - Federal Reserve Board",
+                "text": "The data below begin with 2004. Currency in Circulation: Value Currency in Circulation: Volume Calendar-Year Print Order: Volume and Value",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2025-05-09T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15",
+                "title": "H15 - Data Download Program - Choose - Federal Reserve Board",
+                "text": "The Board and the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) are adding more options for the Board's Data Download Program (DDP) ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.federalreserve.gov/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.federalreserve.gov/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -115,41 +119,74 @@
           "results": {
             "web": [
               {
-                "url": "https://www.federalreserve.gov/publications/2023-ar-record-of-policy-actions-of-the-board-of-governors.htm",
-                "title": "The Fed - Record of Policy Actions of the Board of Governors",
-                "text": "This appendix provides a summary of policy actions in 2023. Policy actions were implemented through (1) rules and regulations, (2) policy statements and other ...",
+                "url": "https://www.federalreserve.gov/supervisionreg/regabout.htm",
+                "title": "The Fed - About Regulations - Federal Reserve Board",
+                "text": "On the All Regulations page above, you will find a brief description of each of the Board's regulations, with a link to the full text of the regulation.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "published_time": "2024-08-20T00:00:00",
+                "published_time": "2019-09-11T00:00:00",
                 "position": 1
               },
               {
-                "url": "https://www.federalreserve.gov/paymentsystems/other-regulations.htm",
-                "title": "Other Regulations and Statutes - Federal Reserve Board",
-                "text": "Reg J Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers through the Fedwire Funds Service and the FedNow Service",
+                "url": "https://www.federalreserve.gov/monetarypolicy/policytools.htm",
+                "title": "Policy Tools - Federal Reserve Board",
+                "text": "The Federal Reserve has a variety of policy tools that it uses in order to implement monetary policy.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "published_time": "2024-05-17T00:00:00",
+                "published_time": "2024-05-20T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm",
-                "title": "Policy Normalization - Federal Reserve Board",
-                "text": "The Committee intends to reduce the Federal Reserve's securities holdings over time in a predictable manner primarily by adjusting the amounts reinvested of ...",
+                "url": "https://www.federalreserve.gov/newsevents/pressreleases/files/other20220815a1.pdf",
+                "title": "FR notice: Guidelines for Evaluating Account and Services Requests",
+                "text": "Account Access Guidelines, a non-federally-insured institution chartered under state law will (consistent with the.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2022-08-15T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationStaff.pdf",
+                "title": "FOMC Policy on External Communications of Federal ...",
+                "text": "In the course of making monetary policy decisions, the Federal Open Market Committee (the. “Committee”) makes extensive use of background materials prepared ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/supervisionreg/reglisting.htm",
+                "title": "The Fed - Regulations - Federal Reserve Board",
+                "text": "To establish criteria for the Federal Reserve Bank of New York to determine the eligibility of credit rating agencies and the ratings they issue for use in the ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "sublinks": [
+                  {
+                    "title": "About Regulations",
+                    "url": "https://www.federalreserve.gov/supervisionreg/regabout.htm"
+                  },
+                  {
+                    "title": "Interagency Guidelines",
+                    "url": "https://www.federalreserve.gov/supervisionreg/interagencyguidelines.htm"
+                  },
+                  {
+                    "title": "Recent Regulatory Amendments",
+                    "url": "https://www.federalreserve.gov/supervisionreg/reghist.htm"
+                  },
+                  {
+                    "title": "Savings Deposits FAQs",
+                    "url": "https://www.federalreserve.gov/supervisionreg/savings-deposits-frequently-asked-questions.htm"
+                  },
+                  {
+                    "title": "Compliance Guides",
+                    "url": "https://www.federalreserve.gov/supervisionreg/cgdefault.htm"
+                  }
+                ],
+                "position": 5
               }
             ]
           },
-          "related": [
-            "Policy regulations guidelines policy regulations pdf",
-            "Policy regulations guidelines policy regulations 2021",
-            "Policy regulations guidelines policy regulations 2022",
-            "Policy regulations guidelines policy regulations california"
-          ],
           "query": {
-            "q": "site:http://www.federalreserve.gov/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.federalreserve.gov/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -199,12 +236,29 @@
                 "position": 1
               },
               {
+                "url": "https://www.federalreserve.gov/newsevents/speech/powell20250722a.htm",
+                "title": "Opening remarks by Chair Powell at the Integrated Review of the Capital ...",
+                "text": "Good morning, and welcome to the Federal Reserve Board. I am pleased, though not surprised, to see such great interest in the topic of today's ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2025-07-22T09:29:10.508693",
+                "position": 2
+              },
+              {
+                "url": "https://www.federalreserve.gov/newsevents.htm",
+                "title": "News & Events - Federal Reserve Board",
+                "text": "News & Events ; Press Releases · 7/21/2025. Agencies issue joint proposal to rescind 2023 Community Reinvestment Act final rule ; Speeches · Chair Jerome H. Powell.",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
                 "url": "https://www.federalreserve.gov/newsevents/speech/2025-speeches.htm",
                 "title": "2025 Speeches - Federal Reserve Board",
                 "text": "Watch live Governor Michael S. Barr at the Policy Summit 2025: Building Strong and Sustainable Communities, hosted by the Federal Reserve Bank of Cleveland.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 4
               },
               {
                 "url": "https://www.federalreserve.gov/newsevents/speeches.htm?speaker=Michael%20S.%20Barr",
@@ -212,12 +266,16 @@
                 "text": "Opening Remarks. Governor Michael S. Barr. At the 2025 Northeast / Mid-Atlantic Small Business Credit Symposium, Federal Reserve Bank of New York, New York, ...",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf"
+          ],
           "query": {
-            "q": "site:http://www.federalreserve.gov/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.federalreserve.gov/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -229,35 +287,228 @@
           "results": {
             "web": [
               {
+                "url": "https://www.federalreserve.gov/econres/scf_workingpapers.htm",
+                "title": "Working Papers - Federal Reserve Board",
+                "text": "Working Papers. Estimating Top Income and Wealth Shares: Sensitivity to Data and Methods Jesse Bricker, Alice Henriques, Jacob Krimmel, ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2021-02-23T00:00:00",
+                "position": 1
+              },
+              {
                 "url": "https://www.federalreserve.gov/consumerscommunities/shed-working-papers-notes.htm",
                 "title": "The Fed - Working Papers and Notes - Federal Reserve Board",
                 "text": "Working Papers and Notes, Last Update: May 21, 2024, Board of Governors of the Federal Reserve System, Tools and Information, Stay Connected.",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
                 "published_time": "2024-05-21T00:00:00",
-                "position": 1
-              },
-              {
-                "url": "https://www.federalreserve.gov/econres/us-documentation-papers.htm",
-                "title": "The Fed - Documentation and Research Papers",
-                "text": "This page provides links to otherwise unpublished documentation of the FRB/US model as well as to research articles that use the FRB/US model.",
-                "source": "Federal Reserve Board (.gov)",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
-                "published_time": "2022-08-16T00:00:00",
                 "position": 2
               },
               {
-                "url": "https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-federal-reserve-research.htm",
-                "title": "Federal Reserve Research",
-                "text": "This section lists research papers authored or co-authored by Federal Reserve staff that address topics of relevance to the Federal Reserve's review.",
+                "url": "https://www.federalreserve.gov/pubs/feds/2011/201128/201128pap.pdf",
+                "title": "Finance and Economics Discussion Series - Federal Reserve Board",
+                "text": "NBER Working Papers 14517, National Bureau of Economic Research, Inc. Hennessy, C. A. and T. M. Whited (2007). How costly is external financing?",
                 "source": "Federal Reserve Board (.gov)",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.federalreserve.gov/pubs/feds/2001/200118/200118pap.pdf",
+                "title": "The Importance of Employer-to-Employer Flows in the ...",
+                "text": "This paper exploits the. “dependent interviewing” techniques used in the Current Population Survey since 1994 to estimate such flows. We find that they are ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1242.pdf",
+                "title": "The Macroeconomic Effects of Trade Policy - Federal Reserve Board",
+                "text": "In this paper, we examine the short-run macroeconomic effects of three alternative policies that are equivalent in a frictionless economy, namely a uniform ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.federalreserve.gov/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.federalreserve.gov/regreform/discount-window-announcements.htm",
+                "title": "The Fed - Discount Window Announcements",
+                "text": "Discount Window Announcements. December 31, 2024. Incorrect primary credit rate applied. On December 14, 2022, six primary credit loans were charged an ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.federalreserve.gov/apps/h2a/h2a.aspx?mode=pending",
+                "title": "Federal Reserve Release H.2A - Updates to current release",
+                "text": "H.2A Notice of Formation and Mergers of, and Acquisitions by, Bank Holding Companies or Savings and Loan Holding Companies; Change in Bank Control.",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.federalreserve.gov/econres/scf-announcements.htm",
+                "title": "Announcements - Federal Reserve Board",
+                "text": "The 2022 Survey of Consumer Finances will introduce new questions on families' experiences during the COVID-19 pandemic, use of buy now, pay later lenders, and ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2022-02-25T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20240308a.htm",
+                "title": "Press Releases - Federal Reserve Board",
+                "text": "The Federal Reserve Board on Friday announced a final rule that updates risk management requirements for certain systemically important financial market ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2024-03-08T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240131c.htm",
+                "title": "Federal Open Market Committee announces updates that further ...",
+                "text": "The Federal Open Market Committee on Wednesday announced updates that further enhance its policy on investment and trading.",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2024-01-31T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.federalreserve.gov/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.federalreserve.gov/paymentsystems/psr_press.htm",
+                "title": "Press Releases and Notices - Federal Reserve Board",
+                "text": "The Federal Reserve Board issues press releases and notices regarding intraday credit, payment system risk, and related policy updates.",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.federalreserve.gov/system-of-records-notices.htm",
+                "title": "System of Records Notices (SORNs) - Federal Reserve Board",
+                "text": "The notice, known as System of Records Notice (SORN), informs the public of the purpose of the system, authority for maintaining the system, and the types of ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.federalreserve.gov/supervisionreg/afi/regionalinfo.htm",
+                "title": "Newspaper Notices - Federal Reserve Board",
+                "text": "Federal regulations require notice of certain proposals be published in a newspaper of general circulation in affected communities, allowing ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2016-09-20T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.federalreserve.gov/paymentsystems/designated_fmu_press.htm",
+                "title": "Press Releases and Notices - Federal Reserve Board",
+                "text": "The Federal Reserve Board issues press releases and notices regarding risk management for systemically important financial market utilities (FMUs).",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/paymentsystems/fednow_press.htm",
+                "title": "The Fed - Press Releases and Notices - Federal Reserve Board",
+                "text": "The Fed announced pricing for payment services, the launch of the FedNow instant payment system, and a 24/7 interbank settlement service.",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2023-11-17T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.federalreserve.gov/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.federalreserve.gov/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm",
+                "title": "Speech by Vice Chair Jefferson on central bank communication",
+                "text": "Today, I will talk about central bank communications and the use of textual analysis tools. These tools help process ...",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2025-02-21T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.federalreserve.gov/newsevents/speech/mishkin20071129a.htm",
+                "title": "The Federal Reserve's Enhanced Communication Strategy and the ...",
+                "text": "The modern science of monetary policy provides a strong rationale for the Federal Reserve's new communication policy.",
+                "source": "Federal Reserve Board (.gov)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUEKGEAHlwAC1YAEVcAGVoADVYAFFgAJGAAJmAAHVxvepfAx9S6wM4AAFGMmLCjq74zSHUNLma8xNOttcYAF1qUmq7////3+fwAAEchOmyEkKno6/Gao7j6/P7X3ObO0dkAAFRSZIoAAEx3f5nh5Ot8iaQ7T3oALGeBS3loAAAA6UlEQVR4Ad3O1WHFMAxAUYUVJkcOM+y/YSWXu0Hf/TCdgOGfZdmSAy6Pnh8AoCf70FgUS0mayZgXFpZVHFd15DCqhiTdVmTqrJJMvRJk0XpoE56JaHTKiSZeDR4Kas9zQjuhOVUDLStj3zY0lQanbds6wd3SFKeMyRHT4BiUojQh06EYpd6Hv1h5+IGnMjhd11UwDgs/pALGfBuJNktQK9dFTy40kfYFr1YRNcpggACC7Si/YjzjU978hWnAr6aMknYBXEZkdBhth1+NUE/ceVvAPY+MPD2I1vOU+HBuagz4va8ZzSDji/UGQBIa/dhO4OMAAAAASUVORK5CYII=",
+                "published_time": "2007-11-29T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm",
+                "title": "Speech by Vice Chair Jefferson on central bank communication ...",
+                "source": "Federal Reserve Board",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.federalreserve.gov&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.federalreserve.gov/images/jefferson-figure2-20250221.PNG",
+                "published_time": "2025-02-21T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.federalreserve.gov/newsevents/rr-commpublic/amex_communication_20100913.pdf",
+                "title": "AMEX Communication",
+                "source": "Federal Reserve Board",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.federalreserve.gov&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///e82bd68904262c02a90c9fa5458efa153453795363284fc345b4c0fe4def8903",
+                "position": 4
+              },
+              {
+                "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC20081212memo05.pdf",
+                "title": "Effects of the Bank of Japan's Communication Strategy at the ...",
+                "source": "Federal Reserve Board",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.federalreserve.gov&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///c9559da6b8c5bc05352d137e8f0510cf17101467f7001f92260aa1c81e5e2e8c",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.federalreserve.gov/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

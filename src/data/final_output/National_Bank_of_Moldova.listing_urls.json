@@ -3,22 +3,22 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.bnm.md/bdi/?lang=en",
+        "title": "Statistical reports generator - BNM",
+        "text": "Ajutor · Information on financial and economic activities of banks · The structure of deposits of the banking sector · Financial reports on the banking system.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bnm.md/en/content/financial-reports-banking-sector-42",
+        "title": "Financial reports on the banking sector | National Bank of Moldova",
+        "text": "Publication of statistical reports on financial reports on the banking sector: \"Balance Sheet on the banking sector\" and \"Income Statement\".",
+        "listing_probability": 0.9
+      },
+      {
         "url": "https://www.bnm.md/en/content/financial-reports-banking-sector-39",
         "title": "Financial reports on the banking sector | National Bank of Moldova",
         "text": "Publication of statistical reports on financial reports on the banking sector: \"Balance Sheet on the banking sector\" and \"Income Statement\".",
         "listing_probability": 0.9
-      },
-      {
-        "url": "http://www.bnm.md/en/content/financial-reports-banking-sector-46",
-        "title": "Financial reports on the banking sector | National Bank of Moldova",
-        "text": "Publication of statistical reports on financial reports on the banking sector: \"Balance Sheet on the banking sector\" and \"Income Statement\".",
-        "listing_probability": 0.9
-      },
-      {
-        "url": "http://www.bnm.md/en/content/instruction-compilation-and-submission-banks-primary-reports-identify-and-supervise-credit",
-        "title": "Instruction on the compilation and submission by banks of primary ...",
-        "text": "Licensed banks are obliged to prepare and submit the following primary reports to identify and supervise the credit risk.",
-        "listing_probability": 0.1
       }
     ]
   },
@@ -26,22 +26,34 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "http://www.bnm.md/en/content/statistics",
-        "title": "Statistics | National Bank of Moldova - BNM",
-        "text": "1 Grigore Vieru Avenue, MD-2005, Chisinau, Republic of Moldova. Contacts.",
+        "url": "http://www.bnm.md/en/content/international-accounts-republic-moldova-quarter-i-2025-preliminary-data",
+        "title": "International accounts of the Republic of Moldova in Quarter I, 2025 ...",
+        "text": "International accounts of the Republic of Moldova in Quarter I, 2025 (preliminary data) (Tables and Charts) · Statistical bulletin No 2, 2025.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "http://www.bnm.md/en/content/access-interactive-database-dynamically-represented-statistics",
+        "title": "Access of interactive database with dynamically represented statistics",
+        "text": "The interactive database with dynamically represented statistics may be accessed by clicking on the special pictogram in the toolbar.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bnm.md/en/content/balance-payments-republic-moldova-quarter-i-2025-preliminary-data",
+        "title": "Balance of payments of the Republic of Moldova in Quarter I, 2025 ... - BNM",
+        "text": "According to preliminary data, in Quarter I, 2025, the current account of the balance of payments recorded a deficit of - US$ -1 020,50 million and increased by ...",
         "listing_probability": 0.1
       },
       {
         "url": "http://www.bnm.md/en/content/special-data-dissemination-standard",
         "title": "Special Data Dissemination Standard | National Bank of Moldova - BNM",
         "text": "The National Summary Data Page (NSDP) includes a wide range of macroeconomic indicators (data categories) related to the four sectors of the national economy – ...",
-        "listing_probability": 0.2
+        "listing_probability": 0.15
       },
       {
-        "url": "http://www.bnm.md/en/content/access-interactive-database-dynamically-represented-statistics",
-        "title": "Access of interactive database with dynamically represented statistics",
-        "text": "The interactive database with dynamically represented statistics may be accessed by clicking on the special pictogram in the toolbar.",
-        "listing_probability": 0.1
+        "url": "http://www.bnm.md/en/content/statistics",
+        "title": "Statistics | National Bank of Moldova - BNM",
+        "text": "1 Grigore Vieru Avenue, MD-2005, Chisinau, Republic of Moldova. Contacts.",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -58,12 +70,18 @@
         "url": "http://www.bnm.md/en/content/monetary-policy-instruments",
         "title": "Monetary Policy Instruments | National Bank of Moldova - BNM",
         "text": "The main monetary policy instruments available to the National Bank pursuant to the regulations in force are: money market operations, interbank market ...",
-        "listing_probability": 0.85
+        "listing_probability": 0.2
       },
       {
         "url": "http://www.bnm.md/en/content/medium-term-monetary-policy-strategy-0",
         "title": "Medium-term monetary policy strategy of the NBM - BNM",
         "text": "In order to ensure and maintain price stability over the medium term, the NBM will be to keep inflation at the level of 5.0 percent annually with a possible ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bnm.md/en/content/monetary-policy-decision-33",
+        "title": "Monetary policy decision | National Bank of Moldova - BNM",
+        "text": "Executive Board meeting on monetary policy decision.",
         "listing_probability": 0.05
       }
     ]
@@ -88,6 +106,18 @@
         "title": "Press release on the regular meeting of the National Committee on ... - BNM",
         "text": "The purpose of the NCFS regular meetings is to assess risks in the financial sector and to establish measures for maintaining financial ...",
         "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.bnm.md/en/content/press-release-approval-sustainable-finance-roadmap",
+        "title": "Press release on the approval of the Sustainable Finance Roadmap - BNM",
+        "text": "The Executive Board of the National Bank of Moldova (NBM) approved the Sustainable Finance Roadmap by its decision no.145 of 28.05.2024.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bnm.md/en/content/press-release-regular-meeting-national-committee-financial-stability",
+        "title": "Press Release on the Regular Meeting of the National Committee ...",
+        "text": "On April 15, 2025, in Chișinău, the ordinary meeting of the National Committee for Financial Stability (NCFS), in extended composition, took place.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -99,6 +129,29 @@
         "title": "Working papers | National Bank of Moldova - BNM",
         "text": "Working paper No. 1/2024: Improving debt service to income ratio in the Republic of Moldova: a quantitative approach",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bnm.md/en/content/anca-dragu-addresses-academy-economic-studies-moldova-education-and-research-play-essential",
+        "title": "Anca Dragu Addresses the Academy of Economic Studies of ...",
+        "text": null,
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "http://www.bnm.md/en/content/30anibnm-congratulatory-messages",
+        "title": "30aniBNM// Congratulatory messages | National Bank of Moldova",
+        "text": null,
+        "listing_probability": 0.15
+      },
+      {
+        "url": "http://www.bnm.md/en/content/submission-petitions",
+        "title": "1. Request for disclosure of information of public interest - BNM",
+        "text": "In order to submit a request for information of public interest, please use the following standard form. The application shall contain the following mandatory ...",
+        "listing_probability": 0.0
       }
     ]
   }

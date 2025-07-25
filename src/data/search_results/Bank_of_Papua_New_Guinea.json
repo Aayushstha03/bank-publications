@@ -26,10 +26,26 @@
               {
                 "url": "https://www.bankpng.gov.pg/publications/annual-reports",
                 "title": "Annual Reports | Bank of PNG",
-                "text": "Our annual reports provide detailed insights into our financial performance, strategic initiatives, and the economic conditions that have shaped our decisions ...",
+                "text": "Our annual reports provide detailed insights into our financial performance, strategic initiatives, and the economic conditions that ...",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-reports",
+                "title": "QEB Reports | Bank of PNG",
+                "text": "QEB Reports. The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/monthly-economic-review",
+                "title": "Monthly Economic Review - Bank of Papua New Guinea",
+                "text": "Monthly Economic Review The Bank issues a Monthly Economic Review containing key statistics on the economy.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
@@ -39,7 +55,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.bankpng.gov.pg/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -51,12 +67,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-reports",
+                "title": "QEB Reports | Bank of PNG",
+                "text": "QEB Reports. The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
                 "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-statistics-tables",
                 "title": "QEB Statistics Tables | Bank of PNG",
                 "text": "Statistical tables supporting the publication of the Quarterly Economic Bulletin. Breadcrumbs. see Bank of PNG ...",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin-0",
@@ -64,7 +88,7 @@
                 "text": "The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.bankpng.gov.pg/publications/kats-monthly-statistics-update",
@@ -72,16 +96,26 @@
                 "text": "The Bank of Papua New Guinea introduced the Kina Automated Transfer System (KATS) over the last three years with the objective of fostering an efficient payment ...",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/payment-systems/retail-electronic-payment-system-reps/reps-monthly-statistics",
+                "title": "REPS Monthly Statistics | Bank of PNG",
+                "text": "REPS Monthly Statistics. Monthly stats. Breadcrumbs. see Bank of PNG · see Payments System · see Retail Electronic Payment System (REPS); REPS Monthly ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "related": [
             "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.bankpng.gov.pg/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -93,12 +127,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bankpng.gov.pg/amlctf/guidelines-and-standards",
+                "title": "Guidelines and standards | Bank of PNG",
+                "text": "Guidance for Financial Institutions on their Obligations under the Anti-Money Laundering and Counter Terrorist Financing Act 2015 (No. · Guidance for Designated ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
                 "url": "https://www.bankpng.gov.pg/monetary-policy/about-monetary-policy",
                 "title": "About Monetary Policy | Bank of PNG",
                 "text": "About Monetary Policy. The primary objective of monetary policy as set out in the Central Banking Act 2000 is to achieve and maintain price stability.",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.bankpng.gov.pg/monetary-policy/monetary-policy-statements",
@@ -106,16 +148,25 @@
                 "text": "Monetary Policy Statements will be issued at least every three months from September 2024, when changes to the Central Banking Act increased their frequency.",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://www.bankpng.gov.pg/sites/default/files/2024-10/Monetary%20Policy%20Statement%20-%20September%202024.pdf",
                 "title": "Monetary Policy Statement - September 2024",
-                "text": "In the March Monetary Policy Statement, the Board foreshadowed a series of tightening measures, to continue removing the overhang of excess ...",
+                "text": "The objective of monetary policy as stipulated in Section 7 of the Central Banking Act 2000 (as amended and passed by the Parliament in ...",
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
                 "published_time": "2024-10-02T00:00:00",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/media/monetary-policy-announcement-0",
+                "title": "Monetary Policy Announcement - Bank of Papua New Guinea",
+                "text": "The Monetary Policy Committee (MPC) maintained the Kina Facility Rate (KFR) at 4.0% and reduced the Cash Reserve Requirement (CRR) to 10.0%.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-03T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -125,7 +176,64 @@
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.bankpng.gov.pg/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankpng.gov.pg/publications/speeches",
+                "title": "Speech | Bank of PNG",
+                "text": "Transcripts of speeches presented by the Bank of PNG. 50Commemorative Launch of Commemorative 50th Anniversary Currency K50 note and 50 toea coin.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/speeches/green-finance-summit-2025-official-opening-speech",
+                "title": "Green Finance Summit 2025: Official Opening Speech | Bank of PNG",
+                "text": "This Summit brings together key decision-makers and stakeholders to accelerate climate finance solutions, strengthen policy frameworks, and unlock sustainable ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/speeches/keynote-speech-prime-minister-hon-james-marape-mp-occasion-green-finance-summit-2025-port-moresby",
+                "title": "green finance summit- 2025 - Bank of Papua New Guinea",
+                "text": "Keynote Speech by Prime Minister Hon. James Marape, MP on the Occasion of The Green Finance Summit- 2025 Port Moresby. GREEN FINANCE SUMMIT- ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "published_time": "2025-03-24T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/speeches/central-bank-digital-currency-cbdc-proof-concept",
+                "title": "Central Bank Digital Currency (CBDC) Proof of Concept",
+                "text": "The Proof of Concept study was launched to examine how a Central Bank Digital Currency, or CBDC, could be integrated into our existing payments system.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "published_time": "2025-01-28T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/speeches/governors-speech-opening-strategic-implementation-workshop-apec-haus",
+                "title": "Governor's Speech Opening of the Strategic Implementation Workshop ...",
+                "text": "This two-day event to workshop the NCC's Strategic Implementation Plan in response to the issues highlighted in the Financial Action Task Force's Mutual ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "published_time": "2024-11-19T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -151,19 +259,87 @@
                 "source": "Bank of PNG",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
                 "position": 2
-              },
-              {
-                "url": "https://www.bankpng.gov.pg/publications/research-working-papers/seacen-collaboration-research-project",
-                "title": "SEACEN Collaboration Research Project - Bank of Papua New Guinea",
-                "text": "These research papers are country chapters of books published in collaboration with the SEACEN Centre by researchers from member Central Banks.",
-                "source": "Bank of PNG",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
-                "position": 3
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bankpng.gov.pg/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankpng.gov.pg/publications/reps-monthly-statistics-updates",
+                "title": "REPS Monthly Statistics Updates - Bank of Papua New Guinea",
+                "text": "REPS continued to deliver improved access with minimal disruptions and processed over 93.1 million transactions (excluding balance enquiries), valued at K16.3 ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bankpng.gov.pg/publications/public-notices",
+                "title": "Public Notice | Bank of PNG",
+                "text": "Buyer Beware - Unlicensed \"Investment\" Scheme on Social Media · 07 July 2025 ; Monetary Policy Announcement · 03 June 2025 ; Employer and Employee Superannuation ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/public-notices/secondary-market-announcement",
+                "title": "Secondary Market Announcement | Bank of PNG",
+                "text": "PUBLIC NOTICE The Bank of Papua New Guinea (BPNG) is announcing an open invitation to market participants on the sale of the following government securities ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/public-notices/tap-investments-0",
+                "title": "Tap investments | Bank of PNG",
+                "text": "New investments have been put on hold until further notice. Only maturities, early redemptions (sell-back) and rollovers will be processed and communicated ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/public-notices/call-public-submissions-review-national-payments-strategy",
+                "title": "Call for Public Submissions - Review of the National Payments Strategy",
+                "text": "The Bank of Papua New Guinea is calling for public submissions to the Review of the National Payment Strategy.",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bankpng.gov.pg/publications/public-notices/employer-and-employee-superannuation-contributions",
+                "title": "Employer and Employee Superannuation Contributions",
+                "text": "An employer is required, in respect of each of its employees continuously employed for three months or more, to deduct from the employee 6.0% of the base ...",
+                "source": "Bank of PNG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEydTSKdTSKdTSKdTSKdTSKdTSKdTSKeTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSKdTSL2KGFwAAAAEXRSTlMAJVVkNKCTGg6AsHBE8MT/2Sht2UIAAAErSURBVHgBbcsHriAhDATRIplMc//TLmJmf36K7pL5wvkQfOQPMVmIuThfk+e73DofRht84RPfBOND7/zgEi/fSfO5IkefrTjjyom5ou68OVY3Ze/haAzFmjmmIkdClcQRO0sz80THwRnIFUhgklYf0dVdYgxN0ob0xKDHTHPpYRAiruNL0hUkmzq06ORTBvb+2pZUddRCBaM7jCNYu/uuqXL4cWMxHroG1wgYIZbEFaRepPXGjhEDm6tpQpK4qi8V0v+4ZRCl8lxlDGjU+kYPvDFvEuA9z50UoGhysMeNLMIdohp4GYctLHOMSrq1KTJ1m3DGZRFTAJb2LBD3hsWrxTNorylpLanDKvyXAuRQQ8bXHsF9aRCa45MZ31kLtxefUuaX2C0lq4MP/wA18A3G81OhDgAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bankpng.gov.pg/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
           }
         }
       ]

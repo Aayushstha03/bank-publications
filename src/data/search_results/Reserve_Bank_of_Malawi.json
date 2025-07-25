@@ -1,4 +1,97 @@
 {
   "Bank Name": "Reserve Bank of Malawi",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbm.mw/Publications/AnnualReports/",
+                "source": "Reserve Bank of Malawi",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=rbm.mw",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:https://www.rbm.mw/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbm.mw/statistics/economicdata/Home",
+                "source": "Reserve Bank of Malawi",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=rbm.mw",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.rbm.mw/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbm.mw/documents/payment_systems/Mobile%20Payments%20Systems%20Guidelines.pdf",
+                "title": "Mobile Payments Systems Guidelines",
+                "source": "Reserve Bank of Malawi",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=rbm.mw",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.rbm.mw/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rbm.mw/research-papers.aspx",
+                "source": "Reserve Bank of Malawi",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=rbm.mw",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.rbm.mw/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    }
+  ]
 }

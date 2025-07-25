@@ -8,17 +8,57 @@
           "results": {
             "web": [
               {
-                "url": "https://www.nbrb.by/engl/payment/publications",
-                "title": "Payment System of the Republic of Belarus. Publications",
-                "text": "All documents are in PDF format. Use Adobe Acrobat Reader to view. Book \"Payment systems in the Republic of Belarus\" (September 2001) · Payments and securities ...",
-                "source": "Национальный банк Республики Беларусь",
+                "url": "https://www.nbrb.by/engl/publications/report",
+                "title": "Report of the National Bank of the Republic of Belarus",
+                "text": "HOME PAGE; BANK TODAY; MONETARY POLICY; FINANCIAL STABILITY; BANKING SECTOR; NON-CREDIT FINANCIAL ORGANIZATIONS; PAYMENT MARKET AND DIGITAL TECHNOLOGY ...",
+                "source": "Nbrb.by",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
                 "position": 1
+              },
+              {
+                "url": "https://www.nbrb.by/engl/publications/report/report2023e.pdf",
+                "title": "Report of the National Bank of the Republic of Belarus for 2023",
+                "text": "Сontents. Introduction. Chapter 1. Economic and financial situation in the Republic of Belarus. 1.1. Macroeconomic conditions of monetary ...",
+                "source": "Nbrb.by",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2024-01-01T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbrb.by/engl/publications/report/report2022e.pdf",
+                "title": "Report of the National Bank of the Republic of Belarus for 2022",
+                "text": "Contents. Introduction. Chapter 1. Economic and financial situation in the Republic of Belarus. 1.1. Macroeconomic conditions of monetary ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2023-01-01T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbrb.by/engl/today/about/research/conferences/II/MonetaryPolicyOptionsInTransitionEconomy.pdf",
+                "title": "EFFICIENT MONETARY POLICY OPTIONS IN TRANSITION ECONOMY ...",
+                "source": "www.nbrb.by",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbrb.by&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///69bc0f4bb8ff9ae83795350a7d84095758cae37df965cec37002d0b25d050728",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbrb.by/engl/publications/report/report2015e.pdf",
+                "title": "REPORT of the National Bank of the Republic of Belarus for 2015",
+                "source": "www.nbrb.by",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbrb.by&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///ed19311d4e8b0a4c4d8240bae88294ef903b8df92c021a1d7babdbe564781a1a",
+                "published_time": "2016-06-09T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:http://www.nbrb.by/engl/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.nbrb.by/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -46,17 +86,39 @@
                 "position": 2
               },
               {
+                "url": "https://www.nbrb.by/engl/statistics/timetable",
+                "title": "National Bank of the Republic of Belarus",
+                "text": "Home Page · → STATISTICS. Exchange rates; External sector statistics; Monetary and financial statistics; Monetary policy instruments; Financial markets ...",
+                "source": "Nbrb.by",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 3
+              },
+              {
                 "url": "https://www.nbrb.by/engl/publications/bulletin/stat_bulletin_2016_01e.pdf",
                 "title": "Statistics Bulletin № 1(50)",
                 "text": "Bold and italicized data have been updated compared to the previously published data, while italicized data are preliminary data.",
                 "source": "Национальный банк Республики Беларусь",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.nbrb.by/engl/publications/bulletin/stat_bulletin_2024_01e.pdf",
+                "title": "Statistics bulletin. № 1 (82) 2024",
+                "text": "Bold and italicized data have been updated compared to the previously published data, while italicized data are preliminary data.",
+                "source": "nbrb.by",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2024-01-03T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
           "query": {
-            "q": "site:http://www.nbrb.by/engl/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.nbrb.by/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -68,25 +130,57 @@
           "results": {
             "web": [
               {
-                "url": "https://www.nbrb.by/engl/mp/target/exrate-policy",
-                "title": "Exchange Rate Policy of the National Bank of the Republic of Belarus",
-                "text": "The rules of the exchange rate policy are aimed at: smoothing the daily fluctuations of the currency basket value;; ensuring the positive balance of the ...",
-                "source": "Национальный банк Республики Беларусь",
+                "url": "https://www.nbrb.by/engl/legislation/ondkp",
+                "title": "Republic of Belarus Monetary Policy Guidelines",
+                "text": "The Republic of Belarus Monetary Policy Guidelines for 2025 were approved by Resolution of the Board of the National Bank No. 325, dated October 2024.",
+                "source": "Nbrb.by",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
                 "position": 1
               },
               {
-                "url": "https://www.nbrb.by/engl/mp/target/percent-policy",
-                "title": "Interest Rate Policy of the National Bank of the Republic of Belarus",
-                "text": "The interest rate policy of the National Bank of the Republic of Belarus is a complex of measures designed to regulate the price of money in the economy.",
+                "url": "https://www.nbrb.by/legislation/documents/ondkp2024_en.pdf",
+                "title": "Republic of Belarus Monetary Policy Guidelines for 2024",
+                "text": "The 2024 monetary policy aims for macroeconomic stability, a comfortable business environment, and improving social standards. The refinancing ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2023-10-19T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbrb.by/engl/legislation/documents/ondkp2025_e.pdf",
+                "title": "Republic of Belarus Monetary Policy Guidelines for 2025",
+                "text": "Belarus' 2025 monetary policy aims for price and financial stability, restricting inflation, a floating exchange rate, and positive real ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2024-10-10T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbrb.by/engl/legislation/cpdkp",
+                "title": "Target Indicators of the Monetary Policy of the Republic of Belarus",
+                "text": "The Board of the National Bank approves the Monetary Policy Guidelines, which reveal the focus of the National Bank's actions designed to achieve target ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbrb.by/engl/press/15733",
+                "title": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have ...",
+                "text": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have been approved. The corresponding decision was taken by Resolution of the ...",
                 "source": "Nbrb.by",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
-                "position": 2
+                "published_time": "2023-10-23T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:http://www.nbrb.by/engl/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.nbrb.by/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -112,11 +206,93 @@
                 "source": "Национальный банк Республики Беларусь",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
                 "position": 2
+              },
+              {
+                "url": "https://www.nbrb.by/news",
+                "title": "Новости | Национальный банк Республики Беларусь",
+                "text": "Новости · Статистика · Аналитика · Пресс-релизы.",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbrb.by/engl/press/15733",
+                "title": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have ...",
+                "text": "Monetary Policy Guidelines of the Republic of Belarus for 2024 have been approved. The corresponding decision was taken by Resolution of the ...",
+                "source": "Nbrb.by",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2023-10-23T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbrb.by/engl/press/12612",
+                "title": "As at July 1, 2022, gold and foreign exchange reserves of the Republic ...",
+                "text": "At that, in June the Government repaid external and domestic foreign exchange liabilities worth about USD210 million in the equivalent. In ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "published_time": "2022-07-07T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press 2022"
+          ],
+          "query": {
+            "q": "site:http://www.nbrb.by/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbrb.by/engl/today/about/research/conferences/II/MonetaryPolicyOptionsInTransitionEconomy.pdf",
+                "title": "Efficient Monetary Policy Options in Transition Economy",
+                "text": "This collection of reports can be downloaded from site of the National Bank of the Republic of Belarus. Page 3. 3. Conference. May 19-20,. 2008, ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbrb.by/today/about/research/monetarypolicyoptionsintransitioneconomy.pdf",
+                "title": "Проблемы выбора эффективной денежно-кредитной политики в ...",
+                "text": "... Paper No. 7147. — Cambridge. — May 1999. — 99p. http://www.nber.org.papers/w7147. CNB (2003). “The Czech National Bank's Forecasting and Policy Analysis ...",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 2
               }
             ]
           },
           "query": {
-            "q": "site:http://www.nbrb.by/engl/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.nbrb.by/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbrb.by/engl/today/press/communication_policy.pdf",
+                "title": "COMMUNICATION POLICY of the National Bank of the Republic of ...",
+                "text": "This Communication policy establishes general approaches to the external and internal communication of the National Bank of the Republic of Belarus.",
+                "source": "Национальный банк Республики Беларусь",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbrb.by",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbrb.by/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -1,1 +1,210 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/economic-research/research-publications/",
+        "title": "Research publications - Czech National Bank",
+        "text": "The Czech National Bank discloses its research results through two research series – CNB Working Papers and CNB Research and Policy Notes.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cnb.cz/en/monetary-policy/monetary-policy-reports/",
+        "title": "Monetary Policy Reports - Czech National Bank",
+        "text": "The first section of the Monetary Policy Report contains the forecast for economic developments abroad, as they have a considerable impact on the Czech economy.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cnb.cz/en/financial-stability/publications-on-financial-stability/",
+        "title": "Financial stability reports - Czech National Bank",
+        "text": "The CNB's main publications in the area of financial stability and macroprudential policy are the spring and autumn editions of the Financial Stability Report.",
+        "listing_probability": 0.97
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/statistics/",
+        "title": "Statistics - Czech National Bank",
+        "text": "The Czech National Bank in its area of competence compiles and publishes statistics, in particular monetary and financial statistics, balance of payments ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cnb.cz/en/statistics/money_and_banking_stat/monetary-statistics-monthly-bulletin/",
+        "title": "Monetary statistics – Monthly Bulletin - Czech National Bank",
+        "text": "This publication contains selected economic indicators of the Czech Republic, produced as part of the CNB's monetary statistics. Tables 1 and 2 compare key ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.cnb.cz/en/statistics/supervisory-stat/",
+        "title": "Supervisory statistics - Czech National Bank",
+        "text": "Supervisory statistics comprise the collection, processing and publication of data used to monitor compliance with regulatory rules.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cnb.cz/en/payments/certis/statistical-data/",
+        "title": "Statistical data - Czech National Bank",
+        "text": "The daily average of these transactions was 3.9 million and the average daily value was CZK 1,534 billion.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2014_11_en",
+        "title": "EBA/GL/2014/11 (guidelines on impediments to resolvability)",
+        "text": "These guidelines complete the set of EBA regulatory deliverables on resolution planning and resolvability assessment. Where resolution authorities identify ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2016_03_en",
+        "title": "Guidelines - European Banking Authority",
+        "text": "Guidelines set the EBA view of appropriate supervisory practices within the European System of Financial Supervision or of how Union law should be applied ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2017_16_en",
+        "title": "Guidelines on PD estimation, LGD estimation and treatment of ...",
+        "text": "The European Banking Authority (EBA) published today its final Guidelines on the estimation of risk parameters for non-defaulted exposures.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/cs/dohled-financni-trh/.galleries/legislativni_zakladna/obecne_pokyny_evropskych_organu_dohledu/eba_gl_2020_06_en_fin_rep",
+        "title": "Final Report – Guidelines on loan origination and monitoring",
+        "text": "The European Banking Authority (EBA) developed the Guidelines on loan origination and monitoring in response to the Council of the European ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/en/supervision-financial-market/legislation/otc-derivatives-and-securitisation/laws-and-regulations/",
+        "title": "Laws and regulations - Czech National Bank",
+        "text": "Acts and directly binding EU regulations. Crowdfunding. Regulation (EU) 2020/1503 of the European Parliament and of the Council on European (external link) ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/public/media-service/speeches-conferences-seminars/presentations-and-speeches/index.html",
+        "title": "Presentations and speeches - Czech National Bank",
+        "text": "Presentations and speeches in Czech are published in the Czech version of this page. Speeches delivered by CNB representatives at conferences organised by ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cnb.cz/en/cnb-news/press-releases/",
+        "title": "Press releases - Czech National Bank",
+        "text": "Thanks to tight monetary policy, open communication and a strong koruna policy, the Czech National Bank (CNB) succeeded in taming double-digit inflation in 2022 ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cnb.cz/en/public/media-service/governors-speeches-and-interviews/",
+        "title": "Governor's speeches and interviews - Czech National Bank",
+        "text": "Read CNB Governor Aleš Michl's selected speeches and interviews in which he explains how the central bank is fighting inflation and what steps it is taking ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.cnb.cz/en/cnb-news/news/",
+        "title": "News - Czech National Bank",
+        "text": "Non-financial corporations' demand for loans as perceived by banks declined overall and in a small section of the banking market in 2025 Q2.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cnb.cz/en/economic-research/cnb-research-news/index.html",
+        "title": "CNB Research News - Czech National Bank",
+        "text": "CNB Research News offers a quarterly summary of the Czech National Bank's research activities, as well as invitations to forthcoming events.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/",
+        "title": "Working paper - Czech National Bank",
+        "text": "The Working Paper Series of the Czech National Bank (CNB) is intended to disseminate the results of the CNB´s research projects as well as the other ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/cnb-news/news/CNB-WP-17-2023-Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis-00001",
+        "title": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect ...",
+        "text": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect Stock Prices? A Meta-Analysis. Share. News · Press releases · Calendar.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis-00001/",
+        "title": "Do Shareholder Activism Announcements Affect Stock Prices ...",
+        "text": "We find that the estimates of stock price reactions, adjusted for publication selection bias, range from 0% to 1.5%. We observe stronger stock price responses ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cnb.cz/cs/ekonomicky-vyzkum/publikace-vyzkumu/cnb-working-paper-series/Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis/",
+        "title": "Do Shareholder Activism Announcements Affect Stock Prices ...",
+        "text": "Provádíme metaanalýzu 1 973 odhadů reakce cen akcií na aktivismus akcionářů získaných z 67 studií. Odhady reakce cen akcií očištěné o publikační selektivitu se ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cnb.cz/cs/cnb-news/aktuality/CNB-WP-17-2023-Do-Shareholder-Activism-Announcements-Affect-Stock-Prices-A-Meta-Analysis",
+        "title": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect ...",
+        "text": "CNB WP 17/2023 – Do Shareholder Activism Announcements Affect Stock Prices? A Meta-Analysis. Sdílejte. Aktuality · Tiskové zprávy · Kalendář.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/supervision-financial-market/conduct-of-supervision/public-notices/",
+        "title": "Public notices - Czech National Bank",
+        "text": "These notices summarise the findings and are long term in nature. Information on specific entities is available on the Lists and registers page.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cnb.cz/en/supervision-financial-market/conduct-of-supervision/public-notices/Notice-for-credit-institutions/",
+        "title": "Notice for credit institutions - Czech National Bank",
+        "text": "The Czech National Bank hereby notifies foreign credit institutions carrying on their business in the Czech Republic on the basis of authorisation granted in ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.cnb.cz/en/public/media-service/interviews-articles/Central-bankers-communication-puzzle-QA-with-Czech-Vice-Governor",
+        "title": "Central bankers' communication puzzle – Q&A with Czech Vice ...",
+        "text": "What in your personal view is a clear signal of the transparency of a central bank? · How much more open could your central bank become?",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/en/cnb-news/press-releases/The-CNBs-new-inflation-target-and-changes-in-monetary-policy-communication-00001",
+        "title": "The CNB's new inflation target and changes in monetary policy ...",
+        "text": "The CNB announces the new inflation target as annual consumer price index growth of 2% (with a tolerance band of ± 1%), effective from January 2010.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/en/cnb-news/news/Communication-of-Forecasts-and-Board-Decisions-CNBs-practice-and-experience",
+        "title": "Communication of Forecasts and Board Decisions – CNB's practice ...",
+        "text": "Communication of Forecasts and Board Decisions – CNB's practice and experience. Share. News · Press releases · Calendar. Stay in touch Newsletter.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/Inflation-Targeting-and-Communication-Should-the-Public-Read-Inflation-Reports-or-Tea-Leaves-00001",
+        "title": "Should the Public Read Inflation Reports or Tea Leaves?",
+        "text": "Inflation-targeting central banks have a respectable track record at explaining their policy actions and corresponding inflation outturns.",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

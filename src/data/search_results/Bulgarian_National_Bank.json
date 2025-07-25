@@ -2,27 +2,275 @@
   "Bank Name": "Bulgarian National Bank",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnb.bg/AboutUs/AULegalFramework/AUNationalLegalFramework/AULFLaw/index.htm?dRubric=Publications",
+                "title": "Закони - Българска народна банка",
+                "text": "Закони · Закон за Българската народна банка (211KB) · Закон за Българската народна банка (в сила от датата, посочена в Решение на Съвета на Европейския съюз за ...",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnb.bg/aboutus/pressoffice/popressreleases/poprtheme/index.htm?forTheme=BNB%20Publications",
+                "title": "Българска народна банка",
+                "text": "Решения на Управителния съвет · Изявления на БНБ · Банкноти и монети · Лицензи и разрешения · Преструктуриране на кредитни институции. Публикации на БНБ.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bnb.bg/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm?download=xml&search=&lang=EN",
-                "title": "https://www.bnb.bg/Statistics ...",
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_publication/public_bnb_p_m_b_200304_en.pdf",
+                "title": "Monthly Bulletin",
+                "text": "AD. Joint Stock Company. BGL (Lev). National Currency of the Republic of Bulgaria. BGN. The Abbreviation of the Redenominated Lev. BIR. Base Interest Rate.",
                 "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_publication/publbnb_p_s_ir_20070331_en.pdf",
+                "title": "Interest Rate Statistics",
+                "text": "CONTENTS. Dynamics of the interest rates on new business. 2. Interest rates by instrument. 7. Interest rates on deposits on the interbank money market.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnb.bg/Statistics/SDDSPlus/SDDSPlusNationalPage/index.htm",
+                "title": "Национална страница с обобщени данни - Българска народна банка",
+                "text": "The data are provided by Bulgarian National Bank (BNB), National Statistical Institute (NSI), Ministry of Finance (MoF) and Bulgarian Stock Exchange. Real ...",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnb.bg/statistics/stexternalsector/stexchangerates/sterforeigncurrencies/index.htm?search=true",
+                "title": "Търсене по дата, период и валута - Българска народна банка",
+                "text": "БНБ публикува курсове на българския лев към отделни чуждестранни валути всеки работен ден за Република България на интернет страницата си до 18:00 ч.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/paysys_stat_201805_en.pdf",
+                "title": "31 May 2018 1. Volume of processed payments",
+                "text": "Total. 70,799,905,699.77 BGN of which customer payments. 18,310,122,425.93 BGN. Average daily value for the period. 3,539,995,284.99 BGN.",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2018-05-01T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bnb.bg/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/ps_payment_os_princ_docs_12_bg.pdf",
+                "title": "EUROSYSTEM OVERSIGHT POLICY FRAMEWORK",
+                "text": "The oversight of clearing and settlement systems by central banks in most countries of the euro area is conducted by NCBs under national law competencies, ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/eu_lf_eu_reg_dec_aml_en.pdf",
+                "title": "List of Regulations and Decisions adopted by the Council of the ...",
+                "text": "List of Regulations and Decisions adopted by the Council of the European Union concerning restrictive measures against certain countries1.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2025-02-07T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_publication/p_semianualreports_1994_a1_en.pdf",
+                "title": "IV. Monetary Policy",
+                "text": "During the first six months of 1994, BNB monetary policy was aimed at main- taining financial stability. The numerical guidelines set for ...",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2024-06-23T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/eu_lf_eu_reg_dec_aml_en~192.pdf",
+                "title": "List of Regulations and Decisions adopted by the Council of the ...",
+                "text": "Consolidated list of persons, groups and entities subject to EU financial sanctions can be downloaded from FSF platform. In.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2022-04-18T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_law/au_lf_policy_license_en.pdf",
+                "title": "main principles of the bnb licensing policy",
+                "text": "MAIN PRINCIPLES OF THE BNB LICENSING POLICY. (Approved by the BNB Governing Council on 19 July 2007). The Law on the BNB assigns to the ...",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2007-07-19T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bnb.bg/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/bs_201304_a6_en.pdf",
+                "title": "PRESS RELEASE",
+                "text": "At the end of April total assets of the banking system registered a decline of 1.1% (BGN 938 million) to BGN. 82.5 billion, due to a decrease in attracted ...",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/202206_s_lease_press_a1_en.pdf",
+                "title": "PRESS RELEASE",
+                "text": "Financial lease claims amounted to BGN 4.617 billion at the end of the second quarter of 2022. They increased by.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2022-06-01T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/202502_s_ms_press_a1_en.pdf",
+                "title": "PRESS RELEASE 25 March 2025 12:00 MONETARY, DEPOSIT AND ...",
+                "text": "In February 2025 broad money (monetary aggregate M32) increased annually by 9.4% (8.6% annual growth as in. January 2025).",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2025-02-01T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/202306_s_ged_press_a1_en.pdf",
+                "title": "PRESS RELEASE 30 August 2023 12:00 GROSS EXTERNAL DEBT ...",
+                "text": "Short-term liabilities equalled EUR 8,014.8 million (18.2% of the total debt, 8.4% of GDP), dropping by EUR 396.1 million.",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/bs_202503_a7_en.pdf",
+                "title": "State of the Banking System as of end-March 20251",
+                "text": "In the first quarter of 2025, the banking system's assets increased by BGN 6.0 billion (3.1%) and at the end.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "published_time": "2025-04-30T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press 2022",
+            "News speeches press news speeches press 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bnb.bg/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_publication/discussion_200118_en.pdf",
+                "title": "Real Wage Rigidity and the Monetary Regime Choice - CiteSeerX",
+                "text": "The pay level in the state sector is between the actual and the declared pay in the private sector. Page 17. 17. DISCUSSION PAPERS. Chart 3. LABOR MARKET ...",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
                 "position": 1
               }
             ]
           },
-          "related": [
-            "Statistics bulletin data statistics data bulletin today",
-            "Statistics bulletin data statistics data bulletin excel",
-            "Statistics bulletin data statistics data bulletin 2022"
-          ],
           "query": {
-            "q": "site:http://www.bnb.bg/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bnb.bg/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_lf_bnbgsss_a6_en.pdf",
+                "title": "Error codes when checking and processing SWIFT messages ...",
+                "text": "Non-unique number of the message received from the participant. It occurs when in field :20C::SEME// there is a message reference which is the same as that ...",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_lf_bnbgsss_a3_en.pdf",
+                "title": "Appendix 3 Types of SWIFT messages used in the BNBGSSS",
+                "text": "Request for transaction without movement on cash settlement account, sent by acquirer (and request for cancellation of transaction, requiring bilateral ...",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_lf_bnbgsss_a4_en.pdf",
+                "title": "Appendix 4 Valid types of incoming messages related to the respective ...",
+                "text": "GS repo transaction between ESROT participants without movement on the cash settlement accounts. (Transaction with code 1300 is possible only when a.",
+                "source": "Българска народна банка",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bnb.bg/bnbweb/groups/public/documents/bnb_download/au_lf_bnbgsss_a5_en.pdf",
+                "title": "Appendix 5 Responses to incoming messages",
+                "text": "МТ 535. МТ 544. МТ 545. МТ 546. МТ547. МТ548. Messages sent to the Depository. МТ 540. X. X. МТ 541. X. X. МТ 542. X. X. МТ 543. X. X. МТ 549. X. X.",
+                "source": "БНБ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX///+UenVfPjqhiYRzVE9NKieJbGdpSURFIB08FBLJu7d+YFqumZRWNDDn4uDYzsu8qqatIA7rAAAAgUlEQVR4AY2OhwGEMAhFkQ4/0dt/2iMT6EuhF/rCxaI2qPBFB4+0Yi7LOI4uIEygqwKops4yi1ZtN6tsoowAz5eM+aaG2xAb2AFrnh7oWCmZUivGmArRKDXTUpWpifSbTd3D7PYMynJ//KeQ/ThqkzfRUpezyelIuvz4Du2+gl75A37mBN2xMY2JAAAAAElFTkSuQmCC",
+                "position": 4
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bnb.bg/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

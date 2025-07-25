@@ -3,22 +3,34 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.cbs.sc/Publications/BoardSecretaryPub.html",
-        "title": "Board Secretary Reports - Central Bank Of Seychelles",
-        "text": "Board Secretary Reports ... Statistical Bulletins ... Financial Statements ... CBS Balance Sheet ... Financial Surveillance Report ... Applicable Bank Interest Rate.",
-        "listing_probability": 0.98
+        "url": "https://www.cbs.sc/Publications/AnnualReports.html",
+        "title": "Annual Report - Central Bank Of Seychelles",
+        "text": "Overview · Others · Government Bills and Bonds · Securities Purchase and Re-Sell · Liability Management · Statistics · FX Market · Open Market Operations.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbs.sc/Publications/AMLCFT.html",
+        "title": "AML CFT - Central Bank Of Seychelles",
+        "text": "Strategic Plan, Annual Reports, Reserves Management Reports, Monetary Policy Reports, Monthly Reviews, Key Economic Developments, Board Secretary Reports",
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.cbs.sc/Publications/SupervisionReports.html",
         "title": "Financial Surveillance Report - Central Bank Of Seychelles",
         "text": "Financial Surveillance Report 2023 · Financial Surveillance Report 2022 · Financial Surveillance Report 2021 · Financial Surveillance Report 2020 · Financial ...",
-        "listing_probability": 0.95
+        "listing_probability": 1.0
       },
       {
-        "url": "https://www.cbs.sc/AMLCFT/Publications.html",
-        "title": "Publications - Central Bank Of Seychelles",
-        "text": "Publications · FIU Annual Reports · National Risk Assessment Reports · Mutual Evaluation Reports.",
-        "listing_probability": 0.99
+        "url": "https://www.cbs.sc/Publications/ResearchWorkingPapers.html",
+        "title": "Research & Working Papers - Central Bank Of Seychelles",
+        "text": "This page is dedicated to publishing analyses, briefs, discussion papers and other publications to provide greater insights, broaden understanding and stimulate ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbs.sc/Publications/StrategicPlan.html",
+        "title": "Strategic Plan - Central Bank Of Seychelles",
+        "text": "Strategic Plan, Annual Reports, Reserves Management Reports, Monetary Policy Reports, Monthly Reviews, Key Economic Developments, Board Secretary Reports",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -32,10 +44,45 @@
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.cbs.sc/Publications/StatisticalBulletins.html",
+        "title": "Statistical Bulletin - Central Bank Of Seychelles",
+        "text": "Statistical Bulletins, Financial Statements, CBS Balance Sheet, Financial Surveillance Report, Applicable Bank Interest Rate, Comparative Bank Charges",
+        "listing_probability": 0.98
+      },
+      {
         "url": "https://www.cbs.sc/Statistics/StatisticsOverview.html",
         "title": "Statistics Overview - Central Bank Of Seychelles",
         "text": "The statistics presented on this page are broadly categorised into the four main macroeconomic sectors, namely the Monetary and Financial Sector, External ...",
-        "listing_probability": 0.3
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.cbs.sc/Statistics/fxarchiverates.html",
+        "title": "Exchange Archived Rates - Central Bank Of Seychelles",
+        "text": "Exchange Rates of the 3 Main Currencies. USD Buying USD Selling. Euro Buying Euro Selling. UK Pound Buying UK Pound Selling.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbs.sc/Aboutus/ResearchStatistic.html",
+        "title": "Research and Statistics Division - Central Bank Of Seychelles",
+        "text": "The Statistics Unit provides the Division with the necessary data to perform its functions. Additionally, via set schedules the Unit is responsible in ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbs.sc/Aboutus/SanctionCompliancePolicy.html",
+        "title": "Sanction Compliance Policy - Central Bank Of Seychelles",
+        "text": "The Sanctions Compliance Policy outlines the guiding principles of the Central Bank of Seychelles (CBS) to fulfil its obligations in adhering to sanctions.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbs.sc/monetary/MonetaryPolicy.html",
+        "title": "Monetary Policy - Central Bank of Seychelles",
+        "text": "What is Monetary Policy? Monetary Policy refers to decisions taken by Central Banks to manage the availability of money in an economy.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -43,16 +90,68 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.cbs.sc/MediaCenter/PressRelease.html",
+        "title": "Press Release - Central Bank of Seychelles",
+        "text": "27 Jun, 2025. Financial Stability Committee publishes its report for 2024 ; 25 Jun, 2025. Outcome of the Q1 2025 Financial Stability Committee discussions ; 24 ...",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.cbs.sc/MediaCenter/Speeches.html",
         "title": "Speeches - Central Bank of Seychelles",
         "text": "Remarks by Mr. Brian Commettant- Launching of the Youth for Youth Financial Education Ambassadors Programme -Second Cohort.",
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.cbs.sc/MediaCenter/PressRelations.html",
+        "title": "Press Relations - Central Bank Of Seychelles",
+        "text": "Speeches/Messages · Featured Publications · Calendar of Media Engagements · Video Gallery · Press Relations. Media Centre; Press Relations ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbs.sc/CollateralRegistry/PressRelease.html",
+        "title": "Press Release - Central Bank Of Seychelles",
+        "text": "Overview. What is Monetary Policy? The Current Framework. Others. Monetary Policy Instruments · Monetary Policy Technical Committee. Government Securities ...",
+        "listing_probability": 0.05
+      },
+      {
         "url": "https://www.cbs.sc/AMLCFT/News.html",
         "title": "AML/CFT News - Central Bank Of Seychelles",
-        "text": "Press Releases ; 01-Oct-2019, Seychelles benefits from the expertise of a resident advisor to undertake reforms to strengthen the countrys AML-CFT framework ...",
-        "listing_probability": 0.95
+        "text": "Seychelles has started drafting a law, appointed a national committee, launched a national strategy, and submitted progress reports on AML/CFT measures.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cbs.sc/MediaCenter/Notices.html",
+        "title": "Public Notices - Central Bank Of Seychelles",
+        "text": "Showing for 2025 ; 09 May, 2025. Notice - Temporary Downtime of the Seychelles Electronic Funds Transfer (SEFT) System ; 02 May, 2025. Notice - Generator Test - ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbs.sc/Alerts.html",
+        "title": "Alerts - Central Bank Of Seychelles",
+        "text": "Home; Alerts. Alerts. There are no current alerts issued. Home · Disclaimer · Public Holidays · Enquiry · Contact Us · About Us · Vacancies · Useful Links.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbs.sc/Consumer/ConsumerAlert.html",
+        "title": "Consumer Alerts and Update - Central Bank Of Seychelles",
+        "text": "Consumer Laws · Consumer Complaint Handling · Consumer Complaint Data · Consumer Alert and Update · Consumer Awareness · Comparative Bank Charges and Fees.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.cbs.sc/Aboutus/Communication.html",
+        "title": "Communications - Central Bank Of Seychelles",
+        "text": "The communications function was established in 2015, with the aim of having a more coordinated approach to both internal and external communication.",
+        "listing_probability": 0.05
       }
     ]
   }

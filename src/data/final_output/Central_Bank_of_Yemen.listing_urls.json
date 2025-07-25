@@ -1,18 +1,87 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://cby-ye.com/publications/156",
+        "title": "الخطوط الرئيسية لنظام الرقابة الداخلية في البنوك - البنك المركزي اليمني",
+        "text": "1- ضمان تنفيذ العمليات في المصرف وفقاً للإجراءات الداخلية والتنظيمية وبما يتفق مع القوانين والتنظيمات النافذة وتعليمات البنك المركزي بخصوص السياسات ومعايير ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://english.cby-ye.com/publications/154",
+        "title": "الحد الأدنى لنسبة رأس المال إلى الأصول الخطرة المرجحة (كفاية رأس المال)",
+        "text": "رأس المال الأساسي ويتكون من رأس المال المدفوع والاحتياطيات القانونية والعامة، والارباح غير الموزعة. يخصم من رأس مال البنك أي مساهمة له في رأس مال مصرف محلي آخر.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://english.cby-ye.com/publications/146",
+        "title": "المراجعون الخارجيون - Central Bank Of Yemen - Aden",
+        "text": "كما أن المراجع الخارجي سوف يحدد نسبة رسوم خدماته التي استلمها من البنك إلى مجموع ايراداته. وعلى المراجع الخارجي ان يحدد كادر الموظفين الذي سيشارك في الفحص بما ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://english.cby-ye.com/publications/157",
+        "title": "تصنيف التسهيلات الائتمانية وكيفية احتساب المخصصات اللازمة لها",
+        "text": "2- على القائمين بعملية التصنيف فحص وتصنيف ما لا يقل عن 60% من التسهيلات المباشرة وغير المباشرة كل سنة، شاملاً جميع البنود التي تزيد عن 3% من رأسمال البنك المعني.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://english.cby-ye.com/publications/155",
+        "title": "رفع رأس مال البنوك العاملة في اليمن إلى (6) مليارات ريال",
+        "text": "مادة (1) : يكون الحد الأدنى لرأس المال المدفوع لكل بنك مرخص له للعمل في الجمهورية بما في ذلك فروع البنوك العربية والأجنبية 6.000.000.000ريال (ستة مليارات ريال) ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://english.cby-ye.com/researchandstatistics",
+        "title": "Research & Statistics | Central Bank Of Yemen - Aden",
+        "text": "Research & Statistics CBY Quarterly Bulletin_December 2020 The Annual Report 2020 CBY Quarterly Bulletin_ March 2021 CBY Quarterly Bulletin_June 2021",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://english.cby-ye.com/monetarypolicy",
+        "title": "Monetary Policy | Central Bank Of Yemen - Aden",
+        "text": "The current monetary policy framework in Yemen is the monetary targeting system. It focuses on the growth rate of money aggregates.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
     "topic": "news",
     "entries": [
       {
         "url": "https://english.cby-ye.com/news/188",
         "title": "PRESS STATEMENT - Central Bank Of Yemen - Aden",
         "text": "The Central Bank of Yemen has followed the announcement made by the terrorist Houthi militias through the branch of the Central Bank they ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
         "url": "https://english.cby-ye.com/news",
         "title": "News | Central Bank Of Yemen - Aden",
         "text": "Governor of the Central Bank issued a decision to suspend the licenses of a number of exchange facilities.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://english.cby-ye.com/news/187",
+        "title": "‏Clarification Announcement - Central Bank Of Yemen - Aden",
+        "text": "The Central Bank of Yemen has received a written notice from several banks headquartered in the capital, Sana'a, stating their decision to relocate their ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://english.cby-ye.com/news/186",
+        "title": "Clarification Notice - Central Bank Of Yemen - Aden",
+        "text": "The Central Bank of Yemen reaffirms its commitment to operating in alignment with the broader state policies and orientations and upholding its commitments.",
+        "listing_probability": 0.1
       }
     ]
   }

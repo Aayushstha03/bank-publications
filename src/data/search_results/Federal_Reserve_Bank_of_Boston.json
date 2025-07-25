@@ -24,17 +24,38 @@
                 "position": 2
               },
               {
+                "url": "https://www.bostonfed.org/publications/research-reports",
+                "title": "Research Reports - Federal Reserve Bank of Boston",
+                "text": "Banking Structure in New England 2001-2004 Banking Structure in New England 2001-2004. Banking Structure in New England 1999-2001 Banking Structure in New ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
                 "url": "https://www.bostonfed.org/publications/special-reports.aspx",
                 "title": "Special Reports - Federal Reserve Bank of Boston",
                 "text": "In-depth reports on topics of special interest are produced from time to time by the Bank's Research Department. What Is the Balance of Payments?",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bostonfed.org/publications/annual-reports.aspx",
+                "title": "Annual Reports - Federal Reserve Bank of Boston",
+                "text": "Annual Reports · 2024 Financial Statements · Boston Fed releases 2023 financials, spotlights notable work during the year · Boston Fed releases 2022 financials, ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
           "query": {
-            "q": "site:https://www.bostonfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.bostonfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -46,9 +67,9 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bostonfed.org/publications-and-data.aspx",
-                "title": "Publications & Data - Federal Reserve Bank of Boston",
-                "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
+                "url": "https://www.bostonfed.org/in-the-region/economic.aspx",
+                "title": "Regional Economic Data & Conditions - Federal Reserve Bank of Boston",
+                "text": "We monitor the region's economy in real time and provide data and presentations about regional economic conditions.",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
                 "position": 1
@@ -62,17 +83,33 @@
                 "position": 2
               },
               {
-                "url": "https://www.bostonfed.org/data/data-tools/new-england-city-data.aspx",
-                "title": "New England City Data - Federal Reserve Bank of Boston",
-                "text": "The Boston Fed's New England City Data tool has been retired as of November 2020. For quality data about the US economy and people, we recommend the Census ...",
+                "url": "https://www.bostonfed.org/publications-and-data.aspx",
+                "title": "Publications & Data - Federal Reserve Bank of Boston",
+                "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.bostonfed.org/data/data-tools/new-england-economic-indicators.aspx",
+                "title": "New England Economic Indicators - Federal Reserve Bank of Boston",
+                "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bostonfed.org/publications/research-data-report.aspx",
+                "title": "Research Data Reports - Federal Reserve Bank of Boston",
+                "text": "Research Data Reports · The 2017 Diary of Consumer Payment Choice · The 2016 and 2017 Surveys of Consumer Payment Choice: Summary Results · The 2015 and 2016 ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bostonfed.org/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://www.bostonfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -92,26 +129,43 @@
                 "position": 1
               },
               {
-                "url": "https://www.bostonfed.org/publications/current-policy-perspectives.aspx",
-                "title": "Current Policy Perspectives - Federal Reserve Bank of Boston",
-                "text": "Current Policy Perspectives provide policymakers and the public with economic analysis of issues at the national or global level.",
+                "url": "https://www.bostonfed.org/-/media/Documents/neer/neer297e.pdf",
+                "title": "State Regulatory Policy and Economic Development",
+                "text": "Studies of the impact of state regulation on economic development have concentrated on rules governing environmental protection, labor markets, and to a lesser ...",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.bostonfed.org/news-and-events/speeches/2019/financial-stability-and-regulatory-policy-in-a-low-interest-rate-environment.aspx",
-                "title": "Financial Stability and Regulatory Policy in a Low Interest Rate ...",
-                "text": "Takeaway: One effect of the low interest rate environment is that monetary policy buffers are diminished. For instance, in the event of a ...",
+                "url": "https://www.bostonfed.org/publications/current-policy-perspectives.aspx",
+                "title": "Current Policy Perspectives - Federal Reserve Bank of Boston",
+                "text": "Current Policy Perspectives provide policymakers and the public with economic analysis of issues at the national or global level.",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
-                "published_time": "2019-11-11T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bostonfed.org/news-and-events/speeches/making-monetary-policy-during-a-financial-crisis.aspx",
+                "title": "Making Monetary Policy During a Financial Crisis",
+                "text": "The Federal Reserve has moved with commendable speed in lowering the interest rate target to address problems in financial markets and the real ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "published_time": "2009-02-27T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bostonfed.org/news-and-events/speeches/2024/perspectives-on-the-economy-and-policy.aspx",
+                "title": "Perspectives on the Economy and Policy",
+                "text": "We connect journalists with Boston Fed economists, researchers, and leadership and a variety of other resources.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "published_time": "2024-11-20T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bostonfed.org/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.bostonfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -139,12 +193,30 @@
                 "position": 2
               },
               {
-                "url": "https://www.bostonfed.org/news-and-events/press-releases.aspx",
-                "title": "Press Releases - Federal Reserve Bank of Boston",
-                "text": "Boston Fed Announces 2025 Board of Directors. January 13, 2025. up down 2024. Boston Federal Reserve Bank Mourns Passing of Jackie Palladino.",
+                "url": "https://www.bostonfed.org/news-and-events/speeches/2025/using-data-in-monetary-policymaking.aspx",
+                "title": "Using Data in Monetary Policymaking: A View from the Fed",
+                "text": "Sign up for Boston Fed news and insights. Speeches, Press Releases, News and Perspectives Speeches, Press Releases, News and Perspectives ...",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "published_time": "2025-07-15T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bostonfed.org/news-and-events/speeches/2025/economic-perspectives-in-ma.aspx",
+                "title": "Perspectives on the Economy from Susan M. Collins - Federal Reserve ...",
+                "text": "The data show an economy that remains solid overall. Labor market conditions point to a modest deceleration in activity, but are generally healthy.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "published_time": "2025-06-25T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bostonfed.org/workingplaces/news.aspx",
+                "title": "Insights & News - Federal Reserve Bank of Boston",
+                "text": "Can refugee resettlement bolster Vermont's aging workforce? Vermont Working Places team aims to help refugees fill open jobs, improve local public services.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -154,7 +226,7 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:https://www.bostonfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.bostonfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -168,10 +240,34 @@
               {
                 "url": "https://www.bostonfed.org/publications/research-department-working-paper.aspx",
                 "title": "Research Department Working Papers",
-                "text": "The working papers disseminate research to advance economic knowledge, present research-in-progress, and are preliminary, published to stimulate discussion.",
+                "text": "The papers present research-in-progress and often include conclusions that are preliminary. They are published to stimulate discussion and invite critical ...",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
                 "position": 1
+              },
+              {
+                "url": "https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/wp1508.pdf",
+                "title": "Uncertainty and the Signaling Channel of Monetary Policy",
+                "text": "This paper studies an environment where policy actions provide a signal of fundamentals to imperfectly informed agents. Closed-form solutions for optimal ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bostonfed.org/publications/risk-and-policy-analysis.aspx",
+                "title": "Supervisory Research and Analysis Working Papers",
+                "text": "Supervisory Research and Analysis Working Papers: Technology Providers and Financial Stability: Overview of Risks and Regulatory Frameworks.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bostonfed.org/publications/new-england-public-policy-center-working-paper.aspx",
+                "title": "New England Public Policy Center Working Papers",
+                "text": "New England Public Policy Center Working Papers · Designing Formulas for Distributing Reductions in State Aid · Childhood Lead and Academic Performance in ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 4
               },
               {
                 "url": "https://www.bostonfed.org/monetary-policy-and-economic-research/economic-research.aspx",
@@ -179,26 +275,138 @@
                 "text": "Research Department Working Papers. Papers that disseminate empirical and theoretical research with the aim of advancing knowledge of economic matters.",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bostonfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bostonfed.org/publications/new-england-economic-updates.aspx",
+                "title": "New England Economic Updates - Federal Reserve Bank of Boston",
+                "text": "Public presentations and insights about the regional economy. Sign up for new research and data on the New England economy.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bostonfed.org/payments-innovation/email/payments-studies-strategies-updates.aspx",
+                "title": "Payments Studies & Strategies Updates",
+                "text": "Sign up for the latest updates on our Payments Innovation work. Latest research and information on payment studies and innovations",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.bostonfed.org/monetary-policy-and-economic-research.aspx",
-                "title": "Monetary Policy & Economic Research",
-                "text": "Our research economists provide forecasts, analysis, research and informed perspectives to support our Bank President and Board of Directors in monetary ...",
+                "url": "https://www.bostonfed.org/publications/public-policy-brief/2013/domestic-and-foreign-announcements-on-unconventional-monetary-policy-and-exchange-rates.aspx",
+                "title": "Domestic and Foreign Announcements on Unconventional ...",
+                "text": "This brief studies the effects that announcements about unconventional monetary policies (large-scale asset purchases, refinancing operations, and forward ...",
                 "source": "Federal Reserve Bank of Boston",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.bostonfed.org/-/media/Documents/ar/PDF/jppd1005.pdf",
+                "title": "Measuring Reputational Risk: The Market Reaction to Operational ...",
+                "text": "We measure reputational losses by examining a firm's stock price reaction to the announcement of a major operational loss event. If the firm's market value ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bostonfed.org/news-and-events/news/2022/08/regulators-propose-major-updates-to-law-that-encourages-banks-to-invest-in-lower-income-communities.aspx",
+                "title": "Regulators propose major updates to law that encourages banks to invest ...",
+                "text": "Three federal agencies are proposing major changes to the Community Reinvestment Act, a law that encourages banks to meet the needs of the ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "published_time": "2022-08-18T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2021",
-            "Research working papers papers research working papers ') 2022",
-            "Research working papers papers research working papers ') 2020"
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
           ],
           "query": {
-            "q": "site:https://www.bostonfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.bostonfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bostonfed.org/WebForms/e-mail-alerts-subscribe.aspx",
+                "title": "Subscribe - Federal Reserve Bank of Boston",
+                "text": "Sign up for email alerts and stay up-to-date on what's happening at the Federal Reserve Bank of Boston. Select the email lists you wish to subscribe to.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bostonfed.org/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bostonfed.org/publications/research-department-working-paper/2017/fomc-communication-and-interest-rate-sensitivity-to-news.aspx",
+                "title": "FOMC Communication and Interest Rate Sensitivity to News",
+                "text": "Central bank communications involving forward guidance have received the most attention, because, many studies have shown, they can stimulate demand when ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bostonfed.org/publications/communities-and-banking/2016/spring/the-underutilized-potential-of-teacher-parent-communication.aspx",
+                "title": "The Underutilized Potential of Teacher-Parent Communication",
+                "text": "Three primary factors are contributing to the low rate of teacher-parent communication: implementation barriers, time costs, and the absence of schoolwide ...",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.bostonfed.org/-/media/Documents/cb/The-Underutilized-Potential-of-Teacher-Parent-Communication.pdf",
+                "title": "The Underutilized Potential of Teacher-Parent Communication",
+                "text": "There is widespread agreement among educators and parents that communicating with each other benefits students. However, evi-.",
+                "source": "Federal Reserve Bank of Boston",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/2017/wp1712.pdf",
+                "title": "FOMC Communication and Interest Rate Sensitivity to News",
+                "text": "Jenny Tang. Abstract: In this paper, I examine whether communications by the Federal Open Market Committee. (FOMC) play a role in determining the types of ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4Ae3TMQ0AIBAEwddFsAJWwDmEDgU8xUxy9VUbf6H2GaWtZzt/znPPySBD56WPQIZKkCEydA6XDQvf0HkJePViAAAAAElFTkSuQmCC",
+                "position": 4
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bostonfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

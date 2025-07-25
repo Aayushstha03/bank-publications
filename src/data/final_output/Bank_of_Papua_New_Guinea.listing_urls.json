@@ -6,18 +6,30 @@
         "url": "https://www.bankpng.gov.pg/publications",
         "title": "Publications | Bank of PNG",
         "text": "Access and download our past annual reports to stay informed about our financial performance and strategic initiatives.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.bankpng.gov.pg/amlctf/amlctf-publications/fasu-annual-reports-and-publications",
         "title": "FASU Annual Reports and Publications | Bank of PNG",
         "text": "Publications by the Financial Analysis and Supervision Unit on anti-money laundering and counter-terrorism financing matters.",
-        "listing_probability": 0.98
+        "listing_probability": 0.99
       },
       {
         "url": "https://www.bankpng.gov.pg/publications/annual-reports",
         "title": "Annual Reports | Bank of PNG",
-        "text": "Our annual reports provide detailed insights into our financial performance, strategic initiatives, and the economic conditions that have shaped our decisions ...",
+        "text": "Our annual reports provide detailed insights into our financial performance, strategic initiatives, and the economic conditions that ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-reports",
+        "title": "QEB Reports | Bank of PNG",
+        "text": "QEB Reports. The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
+        "listing_probability": 0.96
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/monthly-economic-review",
+        "title": "Monthly Economic Review - Bank of Papua New Guinea",
+        "text": "Monthly Economic Review The Bank issues a Monthly Economic Review containing key statistics on the economy.",
         "listing_probability": 0.95
       }
     ]
@@ -25,6 +37,12 @@
   {
     "topic": "statistics",
     "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-reports",
+        "title": "QEB Reports | Bank of PNG",
+        "text": "QEB Reports. The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
+        "listing_probability": 0.95
+      },
       {
         "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin/qeb-statistics-tables",
         "title": "QEB Statistics Tables | Bank of PNG",
@@ -35,12 +53,18 @@
         "url": "https://www.bankpng.gov.pg/publications/quarterly-economic-bulletin-0",
         "title": "Quarterly Economic Bulletin | Bank of PNG",
         "text": "The Quarterly Economic Bulletin is a regular report on key economic statistics published by the Monetary and Economic Policy Group.",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.bankpng.gov.pg/publications/kats-monthly-statistics-update",
         "title": "KATS Monthly Statistics Update - Bank of Papua New Guinea",
         "text": "The Bank of Papua New Guinea introduced the Kina Automated Transfer System (KATS) over the last three years with the objective of fostering an efficient payment ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/payment-systems/retail-electronic-payment-system-reps/reps-monthly-statistics",
+        "title": "REPS Monthly Statistics | Bank of PNG",
+        "text": "REPS Monthly Statistics. Monthly stats. Breadcrumbs. see Bank of PNG · see Payments System · see Retail Electronic Payment System (REPS); REPS Monthly ...",
         "listing_probability": 0.9
       }
     ]
@@ -49,10 +73,57 @@
     "topic": "monetary_policy",
     "entries": [
       {
+        "url": "https://www.bankpng.gov.pg/amlctf/guidelines-and-standards",
+        "title": "Guidelines and standards | Bank of PNG",
+        "text": "Guidance for Financial Institutions on their Obligations under the Anti-Money Laundering and Counter Terrorist Financing Act 2015 (No. · Guidance for Designated ...",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.bankpng.gov.pg/monetary-policy/monetary-policy-statements",
         "title": "Monetary Policy Statements | Bank of PNG",
         "text": "Monetary Policy Statements will be issued at least every three months from September 2024, when changes to the Central Banking Act increased their frequency.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/media/monetary-policy-announcement-0",
+        "title": "Monetary Policy Announcement - Bank of Papua New Guinea",
+        "text": "The Monetary Policy Committee (MPC) maintained the Kina Facility Rate (KFR) at 4.0% and reduced the Cash Reserve Requirement (CRR) to 10.0%.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications/speeches",
+        "title": "Speech | Bank of PNG",
+        "text": "Transcripts of speeches presented by the Bank of PNG. 50Commemorative Launch of Commemorative 50th Anniversary Currency K50 note and 50 toea coin.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/speeches/green-finance-summit-2025-official-opening-speech",
+        "title": "Green Finance Summit 2025: Official Opening Speech | Bank of PNG",
+        "text": "This Summit brings together key decision-makers and stakeholders to accelerate climate finance solutions, strengthen policy frameworks, and unlock sustainable ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/speeches/keynote-speech-prime-minister-hon-james-marape-mp-occasion-green-finance-summit-2025-port-moresby",
+        "title": "green finance summit- 2025 - Bank of Papua New Guinea",
+        "text": "Keynote Speech by Prime Minister Hon. James Marape, MP on the Occasion of The Green Finance Summit- 2025 Port Moresby. GREEN FINANCE SUMMIT- ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/speeches/central-bank-digital-currency-cbdc-proof-concept",
+        "title": "Central Bank Digital Currency (CBDC) Proof of Concept",
+        "text": "The Proof of Concept study was launched to examine how a Central Bank Digital Currency, or CBDC, could be integrated into our existing payments system.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/speeches/governors-speech-opening-strategic-implementation-workshop-apec-haus",
+        "title": "Governor's Speech Opening of the Strategic Implementation Workshop ...",
+        "text": "This two-day event to workshop the NCC's Strategic Implementation Plan in response to the issues highlighted in the Financial Action Task Force's Mutual ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -63,19 +134,59 @@
         "url": "https://www.bankpng.gov.pg/publications/research-working-papers/bpng-research-working-papers",
         "title": "BPNG Research Working Papers | Bank of PNG",
         "text": "The Bank of Papua New Guinea Working Paper (BPNGWP) series is intended to provide the results of research undertaken within the Bank (BPNG) to its staff.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.bankpng.gov.pg/publications/research-working-papers",
         "title": "Research Working Papers - Bank of Papua New Guinea",
         "text": "The Joint Policy Research Working Papers Series by the South Pacific Centre for Central Banking at the Griffith Asia Institute",
         "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications/reps-monthly-statistics-updates",
+        "title": "REPS Monthly Statistics Updates - Bank of Papua New Guinea",
+        "text": "REPS continued to deliver improved access with minimal disruptions and processed over 93.1 million transactions (excluding balance enquiries), valued at K16.3 ...",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bankpng.gov.pg/publications/public-notices",
+        "title": "Public Notice | Bank of PNG",
+        "text": "Buyer Beware - Unlicensed \"Investment\" Scheme on Social Media · 07 July 2025 ; Monetary Policy Announcement · 03 June 2025 ; Employer and Employee Superannuation ...",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.bankpng.gov.pg/publications/research-working-papers/seacen-collaboration-research-project",
-        "title": "SEACEN Collaboration Research Project - Bank of Papua New Guinea",
-        "text": "These research papers are country chapters of books published in collaboration with the SEACEN Centre by researchers from member Central Banks.",
-        "listing_probability": 0.9
+        "url": "https://www.bankpng.gov.pg/publications/public-notices/secondary-market-announcement",
+        "title": "Secondary Market Announcement | Bank of PNG",
+        "text": "PUBLIC NOTICE The Bank of Papua New Guinea (BPNG) is announcing an open invitation to market participants on the sale of the following government securities ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/public-notices/tap-investments-0",
+        "title": "Tap investments | Bank of PNG",
+        "text": "New investments have been put on hold until further notice. Only maturities, early redemptions (sell-back) and rollovers will be processed and communicated ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/public-notices/call-public-submissions-review-national-payments-strategy",
+        "title": "Call for Public Submissions - Review of the National Payments Strategy",
+        "text": "The Bank of Papua New Guinea is calling for public submissions to the Review of the National Payment Strategy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankpng.gov.pg/publications/public-notices/employer-and-employee-superannuation-contributions",
+        "title": "Employer and Employee Superannuation Contributions",
+        "text": "An employer is required, in respect of each of its employees continuously employed for three months or more, to deduct from the employee 6.0% of the base ...",
+        "listing_probability": 0.1
       }
     ]
   }

@@ -18,7 +18,19 @@
         "url": "https://www.chicagofed.org/banking/financial-institution-reports/index",
         "title": "Financial Institution Reports - Federal Reserve Bank of Chicago",
         "text": "Financial Institution Reports gathers data that aids the Federal Reserve in carrying out its responsibilities for the conduct of monetary policy.",
-        "listing_probability": 0.92
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/annual-report/index",
+        "title": "Annual Report - Federal Reserve Bank of Chicago",
+        "text": "2021 Annual Report & Financial Statements 2020 Annual Report & Financial Statements For older Annual Reports, visit the archives.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/agletter/index",
+        "title": "AgLetter - Federal Reserve Bank of Chicago",
+        "text": "Published regularly by the Chicago Fed since the 1940s, AgLetter is a quarterly newsletter on agricultural land values ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -26,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.chicagofed.org/banking/financial-institution-reports/bhc-data",
+        "title": "Holding Company Data - Federal Reserve Bank of Chicago",
+        "text": "Data from 1986 to current are available as quarterly datasets in compressed zip files. To receive updates when new data are available, click on the link to the ...",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.chicagofed.org/research/data/index",
         "title": "Economic Data - Federal Reserve Bank of Chicago",
         "text": "With Local Economic Snapshot, search for a city, county, state, region, or Federal Reserve District to find economic, industry, and demographic information.",
         "listing_probability": 0.9
       },
       {
+        "url": "https://www.chicagofed.org/banking/financial-institution-reports/commercial-bank-data",
+        "title": "Commercial Bank Data - Federal Reserve Bank of Chicago",
+        "text": "Quarterly commercial bank financial data is available from the FFIEC Central Data Repository's Public Data Distribution website.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.chicagofed.org/publications/data-releases",
         "title": "Data Releases - Federal Reserve Bank of Chicago",
         "text": "The Chicago Fed's National Financial Conditions Index (NFCI) provides a comprehensive weekly update on US financial conditions in money markets.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.chicagofed.org/research/data/carts/current-data",
         "title": "Chicago Fed Advance Retail Trade Summary: Current Data",
         "text": "The Chicago Fed Advance Retail Trade Summary (CARTS) tracks the US Census Bureau's Monthly Retail Trade Survey (MRTS) on a weekly basis.",
-        "listing_probability": 0.1
+        "listing_probability": 0.75
       }
     ]
   },
@@ -49,16 +73,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.chicagofed.org/publications/speeches/2021/new-policy-framework-and-financial-stability",
-        "title": "The New Monetary Policy Framework and Some Implications for Financial ...",
-        "text": "I will discuss how I see our new framework relating to recent research on how monetary policy can address the downward bias in inflation expectations.",
+        "url": "https://www.chicagofed.org/banking/banker-resources/financial-institution-guidance",
+        "title": "Regulations and Guidance - Federal Reserve Bank of Chicago",
+        "text": "On this page, you will find information on banking, consumer compliance and supervision and regulation guidance as well as Board of Governors Supervision ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/economic-perspectives/1996/11epnd96b",
+        "title": "CRA and fair lending regulations: Resulting trends in mortgage lending",
+        "text": "This article provides background on the evolution of Community Reinvestment Act (CRA) and fair lending regulations, summarizes the relevant economic ...",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.chicagofed.org/people/teams/policy-and-communications/index",
-        "title": "Policy and Communications: About - Federal Reserve Bank of Chicago",
-        "text": "The Policy and Communications team produces policy studies, forecasts, and business cycle analyses centered on supporting the Bank president's FOMC ...",
-        "listing_probability": 0.01
+        "url": "https://www.chicagofed.org/publications/chicago-fed-letter/2023/483",
+        "title": "Past and Future Effects of the Recent Monetary Policy Tightening",
+        "text": "We estimate how much of the impact from the Fed's current tightening cycle is yet to be felt in the US economy in both absolute and relative terms.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/working-papers/2025/2025-06",
+        "title": "The Dollar Channel of Monetary Policy Transmission",
+        "text": "This paper documents a new dollar channel that transmits monetary policy across borders.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -72,15 +108,21 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.chicagofed.org/publications/news/index",
-        "title": "News Releases - Federal Reserve Bank of Chicago",
-        "text": "Recent news releases shared by the Federal Reserve Bank of Chicago. For more information, please connect with the press contacts listed at the bottom of the ...",
+        "url": "https://www.chicagofed.org/publications/speeches/2025/june-30-aspen-ideas-festival",
+        "title": "Aspen Ideas Festival 2025 - Federal Reserve Bank of Chicago",
+        "text": "Chicago Fed President and CEO Austan Goolsbee will participate in a moderated discussion at the 2025 Aspen Ideas Festival in Aspen, ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/profitwise-news-and-views/index",
+        "title": "ProfitWise News and Views - Federal Reserve Bank of Chicago",
+        "text": "Articles on community and economic development news, trends, policy, and research. Most Recent Articles. Evidence of Racial Discrimination in ...",
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.chicagofed.org/utilities/newsroom/newsroom-press-kit",
-        "title": "Newsroom: Press Kit - Federal Reserve Bank of Chicago",
-        "text": "Austan D. Goolsbee. President and Chief Executive Officer, Federal Reserve Bank of Chicago. Biography. Photo Library. Austan D. Goolsbee.",
+        "url": "https://www.chicagofed.org/publications/speeches/2025/feb-5-automotive-insights-symposium",
+        "title": "Lessons from the Supply Side - Federal Reserve Bank of Chicago",
+        "text": "Austan D. Goolsbee, president and chief executive officer of the Federal Reserve Bank of Chicago, delivered a speech titled Lessons from the ...",
         "listing_probability": 0.1
       }
     ]
@@ -92,13 +134,71 @@
         "url": "https://www.chicagofed.org/research/papers/index",
         "title": "Working Papers - Federal Reserve Bank of Chicago",
         "text": "A series of in-depth research studies on topics related to macroeconomics, banking and financial regulation, microeconomics and regional issues.",
-        "listing_probability": 0.98
+        "listing_probability": 0.99
       },
       {
         "url": "https://www.chicagofed.org/publications/working-papers/index",
         "title": "Working Papers - Federal Reserve Bank of Chicago",
         "text": "The Federal Reserve Bank of Chicago publishes working papers written by staff economists on a variety of topics in the field.",
-        "listing_probability": 0.98
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/publications/news/2025/chicago-fed-updates-chicago-detroit-directors-fed-advisory-council",
+        "title": "Federal Reserve Bank of Chicago",
+        "text": "The Federal Reserve Bank of Chicago today announced updates to its Chicago and Detroit boards of directors, as well as the reappointment of the Bank's ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.chicagofed.org/banking/financial-institution-reports/news-archive",
+        "title": "Financial Reporting Updates Archive - Federal Reserve Bank of Chicago",
+        "text": "August 2, 2016 - Since June 1955, the Federal Reserve System has surveyed the assets and liabilities of finance companies at five-year intervals through its ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/chicago-fed-letter/2024/499",
+        "title": "Measuring Interest Rate Risk Sensitivity Around FOMC ...",
+        "text": "I estimate the sensitivity of life insurers' market equity valuation to changes in interest rates. I conduct my analysis using short time intervals around FOMC ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/economic-perspectives/2006/1qtr-part3-furfine",
+        "title": "Earnings Announcements, Private Information and Liquidity",
+        "text": "Efficient financial markets facilitate the smooth transfer of money from those who save to those with profitable investment opportunities. Such markets ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/working-papers/2004/2004-07",
+        "title": "The Stock Market Reaction to Merger Announcements",
+        "text": "We find evidence of merger momentum: bidder stock prices are more likely to increase when a merger is announced if recent mergers by other firms have been ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.chicagofed.org/publications/working-papers/2019/2019-05",
+        "title": "Forward Guidance: Communication, Commitment, or Both?",
+        "text": "A policy of forward guidance has been suggested either as a form of commitment (\"Odyssean\") or as a way of conveying information to the public (\"Delphic\").",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.chicagofed.org/publications/working-papers/2024/2024-04",
+        "title": "Political Communication and Media Coverage in Senate Races",
+        "text": "We study the strategic interaction between candidates to office and the print media, exploring the following tension: while the media is instrumental for ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.chicagofed.org/events/2019/fed-listens-conference-on-monetary-policy",
+        "title": "Fed Listens: Conference on Monetary Policy Strategy, Tools ...",
+        "text": "Featuring sessions that included overviews by academic experts of themes that are central to the review, including the FOMC's monetary policy since the ...",
+        "listing_probability": 0.1
       }
     ]
   }

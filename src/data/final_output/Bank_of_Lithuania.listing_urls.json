@@ -12,13 +12,25 @@
         "url": "https://www.lb.lt/en/ch-publications/category.38/series.204",
         "title": "Annual Report - Publications | Bank of Lithuania",
         "text": "The Annual Report describes the annual results that the Bank of Lithuania achieved in carrying out the functions under its mandate as the central bank of ...",
-        "listing_probability": 0.15
+        "listing_probability": 0.85
       },
       {
-        "url": "https://www.lb.lt/en/reviews-and-publications/category.38/series.201",
+        "url": "https://www.lb.lt/en/ch-publications/category.4356/series.199",
+        "title": "Publications | Bank of Lithuania",
+        "text": "The quarterly publication presents the country's quarterly balance of payments, information on official reserves, international investment position and the ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.lb.lt/en/ch-publications/category.39/series.180",
+        "title": "Publications | Bank of Lithuania",
+        "text": "Publications · Banking Activity Review · Capital Market Review · Consumer Credit Market Review · Financial Stability Review · Lithuanian Economic Review ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.lb.lt/en/ch-publications/category.39/series.171?category%5B0%5D=87&ff=1",
         "title": "Publications | Bank of Lithuania - Lietuvos bankas",
-        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
-        "listing_probability": 0.95
+        "text": "Publications · Banking Activity Review · Capital Market Review · Consumer Credit Market Review · Financial Stability Review · Lithuanian Economic Review ...",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -28,20 +40,26 @@
       {
         "url": "https://www.lb.lt/en/lb-statistics",
         "title": "Statistics | Bank of Lithuania - Lietuvos bankas",
-        "text": "The statistics compiled and published by the Bank of Lithuania mainly aim to present to the public comprehensive statistics that comply with international ...",
-        "listing_probability": 0.95
+        "text": "The statistics compiled and published by the Bank of Lithuania mainly aim to present to the public comprehensive statistics ...",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.lb.lt/en/data-release-calendar",
         "title": "Data release calendar - Bank of Lithuania - Lietuvos bankas",
         "text": "Dates for the releases of statistical information compiled by the Bank of Lithuania are provided below. Dates for future releases are preliminary and ...",
-        "listing_probability": 0.85
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.lb.lt/en/news/revised-and-restructured-statistics-in-the-new-monthly-bulletin",
-        "title": "Revised and restructured statistics in the new Monthly Bulletin",
-        "text": "On 24 March, a revised and more than twice larger Monthly Bulletin of the Bank of Lithuania will be issued. It will present restructured statistical ...",
+        "url": "https://www.lb.lt/en/statistics-department",
+        "title": "Data and Statistics Department - Bank of Lithuania - Lietuvos bankas",
+        "text": "The objective of the Data and Statistics Department is to enable data-based solutions by ensuring that the highest quality data and statistics are available.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.lb.lt/en/distributional-wealth-accounts-ecb-dwa",
+        "title": "Distributional Wealth Accounts | ECB Data Portal",
+        "text": "Distributional Wealth Accounts (11373); Net wealth deciles (5137); Work (3723); Housing (1560); Total (966); Debt Securities (852); Deposits (852) ...",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -49,22 +67,22 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.lb.lt/en/mp-monetary-policy-instruments",
-        "title": "Monetary policy instruments | Bank of Lithuania - Lietuvos bankas",
-        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which ...",
-        "listing_probability": 0.9
+        "url": "https://www.lb.lt/en/media/force_download/?url=%2Fuploads%2Fdocuments%2Ffiles%2FEN%2Four-functions%2Fsupervision-of-financial-institutions%2Fabout-the-supervisory-activities%2Fcapital-requirements-directive-and-regulation%2Feba-guidelines%2Fpn+rizika_ne+prekybos+knygos+veikla_en.pdf",
+        "title": "Guidelines on the management of interest rate risk arising from non ...",
+        "text": "(c) Policy limits should be appropriate to the nature, size, complexity and capital adequacy of the institution, as well as its ability to measure and manage ...",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.lb.lt/en/news/lietuvos-bankas-updated-supervisory-policy-focuses-on-consumers-and-financial-market-participants",
-        "title": "updated supervisory policy focuses on consumers and ... - Lietuvos bankas",
-        "text": "The updated Financial Market Supervision Policy of Lietuvos bankas is to enter into force on 1 January 2025. It highlights the key principles.",
-        "listing_probability": 0.1
+        "url": "https://www.lb.lt/en/bank-of-lithuania-positions-and-guidelines",
+        "title": "Bank of Lithuania positions and guidelines - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.lb.lt/en/mpi-monetary-policy-instruments",
-        "title": "Monetary policy instruments - Bank of Lithuania - Lietuvos bankas",
-        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which ...",
-        "listing_probability": 0.9
+        "url": "https://www.lb.lt/en/media/force_download/?url=%2Fuploads%2Fdocuments%2Ffiles%2FEN%2Four-functions%2Fsupervision-of-financial-institutions%2Fabout-the-supervisory-activities%2Fcapital-requirements-directive-and-regulation%2Feba-guidelines%2Fgaires+del+informacijos+atskleidimo+%28473a%29_EN.pdf",
+        "title": "Guidelines on uniform disclosures under Article 473a of Regulation ...",
+        "text": "Guidelines set out the EBA's view of appropriate supervisory practices within the European. System of Financial Supervision or of how Union ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -75,28 +93,51 @@
         "url": "https://www.lb.lt/en/speeches-interviews-presentations",
         "title": "#1 News | Bank of Lithuania - Lietuvos bankas",
         "text": "Speeches, interviews, presentations (1 page) ; Governor's Opening Remarks at the Conference: Unlocking the Power of Motivation in AML · 2025 05 20.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.lb.lt/en/news",
         "title": "#1 News | Bank of Lithuania - Lietuvos bankas",
         "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.lb.lt/en/speeches-interviews-presentations/theme.Financial+stability",
+        "title": "#1 News | Bank of Lithuania - Lietuvos bankas",
+        "text": "Positions, guidelines, opinions and explanations of the Bank of Lithuania, decisions thereof on the application of EU guidelines, all of which are relevant for ...",
+        "listing_probability": 0.99
       }
     ]
   },
   {
-    "topic": "research",
+    "topic": "announcements",
     "entries": [
       {
-        "url": "https://www.lb.lt/en/news/the-young-economists-winners-of-the-student-research-papers-competition-new-economic-ideas-have-been-awarded-at-the-bank-of-lithuania",
-        "title": "The Young Economists – Winners of the Student Research Papers ...",
-        "text": null,
+        "url": "https://www.lb.lt/en/announcements-changes-to-foreign-exchange-reference-rates",
+        "title": "Announcements: changes to foreign exchange reference rates",
+        "text": "From 1 October 2021, the Central Bank of Venezuela is carrying out a re-denomination of Bolívar Soberano (currency code – VES) at a rate of 1 ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.lb.lt/en/publications/ecb-communication-sentiments-how-do-they-relate-to-the-economic-environment-and-financial-markets",
+        "title": "ECB communication sentiments: how do they relate to the economic ...",
+        "text": "In this paper we examine multiple dimensions of ECB monetary policy communication by identifying its sentiment and relation with the economic environment ...",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.lb.lt/en/news/research-podcast-what-moves-treasury-yields",
-        "title": "Research Podcast: What Moves Treasury Yields? | Bank of Lithuania",
+        "url": "https://www.lb.lt/en/publications/communication-of-ecb-governing-council-members-do-they-speak-in-one-voice",
+        "title": "Communication of ECB Governing Council members: do they speak in ...",
+        "text": "The goal of this paper is to determine the heterogeneity in communication among the ECB Governing Council members, employing the GPT language model.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.lb.lt/en/news/speech-of-the-chairman-of-the-board-on-central-bank-communications",
+        "title": "Speech of the Chairman of the Board on central bank ...",
         "text": null,
         "listing_probability": 0.1
       }

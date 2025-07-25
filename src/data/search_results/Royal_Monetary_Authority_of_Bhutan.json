@@ -2,26 +2,111 @@
   "Bank Name": "Royal Monetary Authority of Bhutan",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rma.org.bt/bank/publication.jsp?id=2",
+                "title": "Annual Reports",
+                "text": "2023. Annual Report 2022-23 ; 2022. Annual Report 2021-2022 ; 2021. Annual Report 2020-2021 ; 2020. Annual Report 2019-2020 ; 2019. Annual Report 2018-2019.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Publication/Financial%20Statement%20Reports/Audit%20Report%20for%20Financial%20Year%202017-2018.pdf",
+                "title": "Untitled",
+                "source": "Royal Monetary Authority",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rma.org.bt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///00967007773c9b8de2d02ae6226c967a7c8c2a6023d61e35ea5d194025dd716c",
+                "position": 2
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Publication/Financial%20Statement%20Reports/Audit%20Report%20for%20Financial%20Year%202017-2018.pdf",
+                "title": "Untitled",
+                "source": "Royal Monetary Authority",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rma.org.bt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///fd3fbf311dec55103778c6cdd22e17ab8215ff9595af62e6b46cbaacfebdff0d",
+                "position": 3
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Publication/Financial%20Statement%20Reports/Audit%20Report%20for%20Financial%20Year%202012-2013.pdf",
+                "title": "Untitled",
+                "source": "Royal Monetary Authority",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rma.org.bt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///7e62aad791fbb8da8fba84de588b787b68f3dcc39ad0e44af669c3466747c233",
+                "position": 4
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Publication/Financial%20Statement%20Reports/Audit%20Report%20for%20Financial%20Year%202018-2019.pdf",
+                "title": "Untitled",
+                "source": "Royal Monetary Authority",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rma.org.bt&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///e573a81a8d6b4650a83ce36d4a346dab390e52ec2c6bf40ccbba729e009e09ea",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.rma.org.bt/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.rma.org.bt/media/Laws_By_Laws/Guidelines%20on%20Data%20Privacy%20and%20Data%20Protection%202021.pdf",
-                "title": "Guidelines on Data Privacy and Data Protection 2021",
-                "text": "These guidelines provide standards for Financial Service Providers to ensure data confidentiality and integrity, and to guide them in processing confidential ...",
+                "url": "https://www.rma.org.bt/bank/publication.jsp?id=5",
+                "title": "Monthly Statistical Bulletin",
+                "text": "Monthly Statistical Bulletin for December 2023, Monthly Statistical Bulletin November 2023, Monthly Statistical Bulletin October 2023, Monthly Statistical ...",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.rma.org.bt/media/Laws_By_Laws/Data%20Residency%20Policy%20for%20Payment%20Systems%20Data%202021.pdf",
-                "title": "DATA RESIDENCY POLICY FOR PAYMENT SYSTEMS DATA 2021",
-                "text": "This Policy shall be called the Data Residency Policy for Payment Systems Data. 2021;. 2. This Policy shall come into effect from May 2021;.",
+                "url": "https://www.rma.org.bt/media/Publication/Macro-economic%20Data/Monthly%20Statistical%20Bulletin%20June%202023.pdf",
+                "title": "Monthly Statistical Bulletin June 2023 - Royal Monetary Authority",
+                "text": "Part I: Real Sector Statistics. 1. Gross Domestic Product at Current Price. 2. Gross Domestic Product in 2000 Prices.",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "published_time": "2023-06-01T00:00:00",
                 "position": 2
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2015/MSB%20Sept2015.pdf",
+                "title": "MONTHLY STATISTICAL BULLETIN - Royal Monetary Authority",
+                "text": "The September 2015 issue of the Monthly Statistical Bulletin, published by the Research and Statistics Department of the Royal Monetary Authority of Bhutan, ...",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2014/MSB%20March2014.pdf",
+                "title": "MONTHLY STATISTICAL BULLETIN - Royal Monetary Authority",
+                "text": "In order to reduce the time lag, the format of the Monthly Statistical Bulletin has been changed from the January 2012 issue and the Bulletin now features only ...",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Publication/Macro-economic%20Data/Monthly%20Statistical%20Bulletin%20February%202022.pdf",
+                "title": "Monthly Statistical Bulletin February 2022 - Royal Monetary Authority",
+                "text": "Part I: Real Sector Statistics. 1. Gross Domestic Product at Current Price. 2. Gross Domestic Product in 2000 Prices.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "published_time": "2022-02-01T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -31,7 +116,7 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.rma.org.bt/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.rma.org.bt/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -43,20 +128,28 @@
           "results": {
             "web": [
               {
-                "url": "https://www.rma.org.bt/media/Laws_By_Laws/AML%20and%20CFT%20Rules%20and%20Regulations.pdf",
-                "title": "AML and CFT Rules and Regulations - Royal Monetary Authority",
-                "text": "(2) Approve policies regarding AML and CFT measures within the REs, including those required for risk assessment, mitigation and profiling, customer due ...",
+                "url": "https://www.rma.org.bt/media/Laws_By_Laws/Prudential%20Regulations,%202024.pdf",
+                "title": "Prudential Regulations, 2024 - Royal Monetary Authority",
+                "text": "These regulations, issued by the RMA, apply to financial institutions in Bhutan, effective July 1, 2024, and supersede the 2017 regulations. They provide a ...",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
                 "position": 1
               },
               {
-                "url": "https://www.rma.org.bt/media/Laws_By_Laws/Currency%20Regulations%202025.pdf",
-                "title": "CURRENCY REGULATIONS 2025 - Royal Monetary Authority",
-                "text": "These Regulations shall: a) Be referred to as the Currency Regulations 2025; b) Apply to the financial institutions and general public and; c) Come into force ...",
+                "url": "https://www.rma.org.bt/media/Laws_By_Laws/AML%20and%20CFT%20guidelines%20for%20DNFBP%202023.pdf",
+                "title": "AML and CFT guidelines for DNFBP 2023.pdf",
+                "text": "This guideline, effective from Oct 27, 2023, applies to all DNFBPs, setting out obligations under the AML/CFT Act, and requires risk-based approach for ...",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
                 "position": 2
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Laws_By_Laws/Rules%20and%20regulation%20on%20Loan%20origination%20and%20monitoring%202022.pdf",
+                "title": "Rules and regulation on Loan origination and monitoring 2022.pdf",
+                "text": "1) These rules and regulations are formulated and adopted in line with Section 202 of the FSA 2011. 2) These rules and regulations will be known as Rules and ...",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 3
               },
               {
                 "url": "https://www.rma.org.bt/media/Laws_By_Laws/AML-CFT%20Regulations%202025.pdf",
@@ -64,12 +157,20 @@
                 "text": "In exercise of powers conferred by the Anti-Money Laundering and Countering of Financing of. Terrorism (AML and CFT) Act of Bhutan 2018 (hereafter referred ...",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.rma.org.bt/media/Laws_By_Laws/Guidelines%20for%20UPI%20Global%20QR%202024.pdf",
+                "title": "Guidelines for UPI Global QR 2024 - Royal Monetary Authority",
+                "text": "API: Application Programming Interface. 2. BHIM: Bharat Interface for Money. 3. MCC: Merchant Category Code. 4. MDR: Merchant Discount Rate.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.rma.org.bt/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.rma.org.bt/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -81,12 +182,28 @@
           "results": {
             "web": [
               {
+                "url": "https://www.rma.org.bt/news/",
+                "title": "news and announcements - Royal Monetary Authority",
+                "text": "The Royal Monetary Authority of Bhutan (RMA) will take a phased and focused strategy to crypto currency, to protect citizens and ensure financial stability.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://www.rma.org.bt/fid/resources/doc/pressrelease/MoU%20News.pdf;jsessionid=6102EEBD3D39F9036871683441EDF4B5",
                 "title": "Press Release Bhutan signed MoU on money laundering and terrorist ...",
                 "text": "Bhutan signed MoU on money laundering and terrorist financing with FIU Sri Lanka and. FIU Cambodia. The Financial Intelligence Unit of Bhutan has entered ...",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/pressrelease.jsp?id=10",
+                "title": "Press Releases - Royal Monetary Authority",
+                "text": "Press Release on the Modernization of Monetary Policy Frameworks in Bhutan, India and Nepal September 11, 2018",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 3
               },
               {
                 "url": "https://www.rma.org.bt/media/news_upload/Press%20Release_Feb.pdf",
@@ -95,21 +212,75 @@
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
                 "published_time": "2025-02-27T00:00:00",
-                "position": 2
+                "position": 4
               },
               {
-                "url": "https://www.rma.org.bt/fid/resources/doc/pressrelease/fiu%20MoU%20press%20release.pdf;jsessionid=BCFB566DECF8AE5E724574863F139C9A",
-                "title": "Royal Monetary Authority of Bhutan Press Release",
-                "text": "ROYAL MONETARY AUTHORITY OF BHUTAN. PRESS RELEASE. SIGNING OF MOU ON MONEY LAUNDERING AND TERRORIST FINANCING.",
+                "url": "https://www.rma.org.bt/media/news_upload/MLR%20Dec%2024.pdf",
+                "title": "ROYAL MONETARY AUTHORITY OF BHUTAN PRESS RELEASE",
+                "text": "In line with the RMA Circular referenced RMA/RSD/293 dated 21st July 2016, updated on 8th. August 2016, the Royal Monetary Authority of ...",
                 "source": "Royal Monetary Authority",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
-                "published_time": "2017-07-11T00:00:00",
-                "position": 3
+                "published_time": "2025-02-10T00:00:00",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.rma.org.bt/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.rma.org.bt/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2009/MSB%20Sep2009.pdf",
+                "title": "PREFACE This September 2009 issue of the Monthly Statistical Bulletin ...",
+                "text": "Balance of Payments (in millions of Nu.) Trade Balance. -11099.0. -5496.7. 2061.8. -2921.6. -6911.1. With India. -3601.2. -3170.7.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2010/MSB%20May2010.pdf",
+                "title": "PREFACE This May 2010 issue of the Monthly Statistical Bulletin contains ...",
+                "text": "Balance of Payments (in millions of Nu.) Trade Balance. -5496.7. 2061.8. -2921.6. -6911.1. With India. -3170.7. 4447.6. -27.8. -2867.2.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2008/MSB%20Aug2008.pdf",
+                "title": "PREFACE This August 2008 issue of the Monthly Statistical Bulletin ...",
+                "text": "Balance of Payments (in millions of Nu.) Trade Balance. -11099.0. -5496.7. 555.1. -3086.2. With India. -3601.2. -3170.7.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2010/MSB%20Jan%202010.pdf",
+                "title": "PREFACE This January 2010 issue of the Monthly Statistical Bulletin ...",
+                "text": "Balance of Payments (in millions of Nu.) Trade Balance. -11099.0. -5496.7. 2061.8. -2921.6. -6911.1. With India. -3601.2. -3170.7.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.rma.org.bt/bank/RMA%20Publication/MSB/2009/MSB%20May2009.pdf",
+                "title": "PREFACE This May 2009 issue of the Monthly Statistical Bulletin contains ...",
+                "text": "Balance of Payments (in millions of Nu.) Trade Balance. -11099.0. -5496.7. 2061.8. -3086.2. With India. -3601.2. -3170.7.",
+                "source": "Royal Monetary Authority",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEz////////////////v8fXo6/ChrcStt8vV2uTe4uq/x9b5+fv////5+fuLmrfN09/////////GzNr///+4wNFxhKg2WI3///////+Hrzs+AAAAGnRSTlMAFHbG//////////82iP7//6Xf/5z///+sWTCmvmcAAAHYSURBVHgBlVMFYhtBDLRzo1mBo1OsKvD/j9Y5l7lzsCCm0w84n0+/xflhAwTA9nD+FXkDuai2PATb5Uf6Y3I3g3slzHbD0/f0q2i4gS4kAWIhv7WTpoCHAC2AUOBR+MpxDQMcIE2jnEgXVuVn+gdqk+gpnRq1NgeR7tudfsmwJhCYGJ2JMgEIGd5j2WzEAMGzWZhWaoCAoxaPBLBI5PN6Npq4hKFvB0DEDxWPsoPY95eX4oyuGvTLy/MCoXx9D4Eg8PKsmm4xUc5UfX4B2hQ3BgBE7UsRK2umsQJr7QYX4Hw6HwyjkTrwKlFAJ+fuKS6ny8GQWl1JHWAFxdo0vzCEiy3rVpjpDWapXbZcaDeGM6JEFqYKZkKBGaoHS0jiFifMCTXtkVbrbm2ZHhvQDEelh4iO8mCouSrDOzrAYB6tYpJZS22ZWnv0+0Yrxe9tc0YbEWU1Y6ErOtSsG6zGUa2NYK6KGJcbfbVPRGtS5XpvV9SQRzd0mEf3mmnSB5fPDTtOr8jq3XxpQMtZjVup7tikisCIWS8nK5NUXL9p6owmYWGGMAdZzDx9g00YQhEBbj9a83DwGzyk9G6Zbu62wvF4+hEfIJZTZssFT7+c4benKxK4vr6d/gMfAatbHWJqsxr9AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.rma.org.bt/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
           }
         }
       ]

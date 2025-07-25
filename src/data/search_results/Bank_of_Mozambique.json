@@ -39,7 +39,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.bancomoc.mz/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bancomoc.mz/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -59,30 +59,46 @@
                 "position": 1
               },
               {
+                "url": "https://www.bancomoc.mz/en/areas-of-expertise/statistics/statistical-domains-and-indicators/",
+                "title": "Statistical Domains and Indicators - Banco de Moçambique",
+                "text": "Statistical Domains and Indicators · Foreign Exchange Statistics · Statistical Diffusion · External debt · External Statistics · Monetary Statistics · Consumer Price ...",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
                 "url": "https://www.bancomoc.mz/en/media/highlights/annual-balance-of-payments-bulletin-2024/",
                 "title": "ANNUAL BALANCE OF PAYMENTS BULLETIN - 2024",
                 "text": "The report presents the results of the key components of Mozambique's BoP and IIP statistics, ranging from January to December 2024, with comparison to the ...",
                 "source": "Banco de Moçambique",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
                 "published_time": "2025-06-05T00:00:00",
-                "position": 2
+                "position": 3
               },
               {
-                "url": "https://www.bancomoc.mz/en/areas-of-expertise/statistics/statistical-domains-and-indicators/foreign-exchange-statistics/",
-                "title": "Foreign Exchange Statistics - Banco de Moçambique",
-                "text": "Home; What We Do; Statistics; Statistical Domains and Indicators · Foreign Exchange Statistics. Taxa de Cambio Media Mensal - Agosto 2022.",
+                "url": "https://www.bancomoc.mz/en/publications-and-studies/?dateBegin=&dateEnd=&category=Financial+Stability+Bulletin",
+                "title": "Publications and Research - Banco de Moçambique",
+                "text": "Publications and Research · 5-12-2024. FINANCIAL STABILITY BULLETIN - NOVEMBER 2024. 3.89 MB · 5-12-2023. FINANCIAL STABILITY BULLETIN - DECEMBER 2023. 5.85 MB.",
                 "source": "Banco de Moçambique",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bancomoc.mz/en/areas-of-expertise/statistics/statistical-domains-and-indicators/general-statistics/",
+                "title": "General Statistics - Banco de Moçambique",
+                "text": "Home; What We Do; Statistics; Statistical Domains and Indicators · General Statistics. Consumer Portal. Rights and duties of financial consumers.",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
           "related": [
-            "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin 2022"
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:http://www.bancomoc.mz/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bancomoc.mz/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -94,12 +110,20 @@
           "results": {
             "web": [
               {
+                "url": "https://www.bancomoc.mz/en/the-bank/normatives/?query=&page=5",
+                "title": "5 - Regulations - Banco de Moçambique",
+                "text": "Financial Statements, Fortnightly Bulletins, Governor Speeches, Interbank Market Bulletin, Laws, Monthly Statistical Bulletin, Monthly Statistics Summary",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
                 "url": "https://www.bancomoc.mz/en/areas-of-expertise/monetary-policy/monetary-policy-committee/",
                 "title": "Monetary Policy Committee - Banco de Moçambique",
                 "text": "The Monetary Policy Committee (MPC) of the Banco de Moçambique (BM) is responsible for managing and implementing monetary policy.",
                 "source": "Banco de Moçambique",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
-                "position": 1
+                "position": 2
               },
               {
                 "url": "https://www.bancomoc.mz/en/areas-of-expertise/monetary-policy/monetary-policy-framework/",
@@ -107,7 +131,15 @@
                 "text": "The monetary policy interest rate was introduced to improve the monetary policy transmission mechanism by signaling the policy stance more clearly and directly, ...",
                 "source": "Banco de Moçambique",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
-                "position": 2
+                "position": 3
+              },
+              {
+                "url": "https://www.bancomoc.mz/en/media/highlights/banco-de-mocambique-approves-foreign-exchange-and-prudential-regulations/",
+                "title": "BANCO DE MOÇAMBIQUE APPROVES FOREIGN EXCHANGE ...",
+                "text": "BANCO DE MOÇAMBIQUE APPROVES FOREIGN EXCHANGE AND PRUDENTIAL REGULATIONS - Banco de Moçambique.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "published_time": "2025-04-02T00:00:00",
+                "position": 4
               },
               {
                 "url": "https://www.bancomoc.mz/en/areas-of-expertise/financial-stability/macroprudential-policy/",
@@ -115,16 +147,18 @@
                 "text": "The primary objective of the BM's macroprudential policy is to ensure the preservation of financial stability by strengthening the ...",
                 "source": "Banco de Moçambique",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
+            "Policy regulations guidelines policy regulations pdf",
             "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:http://www.bancomoc.mz/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bancomoc.mz/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -140,17 +174,43 @@
                 "title": "Governor Speeches - Banco de Moçambique",
                 "text": "Speeches by the Governor of the Banco de Moçambique. slide 1 of 1. Rogério Lucas Zandamela. 10-06-2025. OPENING REMARKS ON THE OPENNING CEREMONY OF THE 2025 ...",
                 "source": "Banco de Moçambique",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAbCAMAAAAj8t3SAAAA4VBMVEX////+/v7+//////7//v7+/v/+//76+/je1b/f2Mbx7OPs5trQvZ/h1sT59/PQv6P09O3n38zh2Mz39u/YyrHp4dPazrvWyrPLtpfNt5zSwKjRvJzTxan5+PPArYrJu5no4trLvarx5dTo0bbh0cPj1s7Hr4vo2cfE0eO+zubr9f+3x9qouM7P1+qzyebz9vzjyberpaDAuraZs9GWcU1oZF5zcGpvWEnFrpvp6+798eh1Vz6Gfm+fmYltXlO2opjBydJ7krZiWFWOpMxpg691mMCLsNbd5e3Xtpjkza7s2b93qd8+AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pty4e6oAAAJsSURBVCiRRVMNV5tAEJy74w48woEJxIjBJCRK/dZardraam2r9f//oM4SW/c9Xt6R2ZnduQFaSUUqsijyzSRJsg3WMEC7KLJKOeMcjDLKKr4ABiP0ZYyJnYaJlJJHGTjSEKQdihLvpayBJb8yhhpaWaus1kDpgVB5XxXQPdC+SRhoayJtnUEgkcuy4XBcEBCHsAZGxkWEU1OItkiUZv0/2WS7rvOdQdIDTQSZjvKIpzw3WV4h7GZrOaTl2AgK1nIZbTH26z/KmbQLyvKpBjw5ykHUmsG/vUa74f+OGoEoBdmMfclwvFWO58IQzxCm03KaDwU1eutWGsWuqEXpYs4fP4WQuY39QM2NMbHWOYumaZer1d4cC7YjL9669wVMKvHUIur8h4ODw1GNuoFYRnu4VZPL8BXd4gGdPzo+Ozw5PTvXYkVJAV6tQVn0LYrbIbQnx93FxeLjZYNcbsjxTmkNPAfCTEAOPhwNP11df745vr2TWyljiQIzQhbLoeS2kYbL7svX+2/fHwjyPYgREZCITzCX2e/ax4f7H1fXe0chLLhRLVNzO1RJD1rI/L49e3qGuX08bfWML2r0DnP9GJIzAXG8+vDp59Ov32mbbvK8osFMDzKZO/OYr2TltKib5+fQdv0QHKmvRGyiGnAjrtZd8PMqDVUexJjVIB35ZNKnK6nEIxFE27127Wp73LfGjPFml3KcDOmgz0x63nOHNF1HihH1WWw15pOs8bvcXuJVvfj3z2Q0mTBBwywt4AtkucScySTrS+11X8WfnaBflp6fWOzQ7kukGEsaS7KwemUtl0sBI+x1rKTzAuHn9BcD+iv45EZSMQAAAABJRU5ErkJggg==",
                 "position": 1
+              },
+              {
+                "url": "https://www.bancomoc.mz/en/media/highlights/governor-of-banco-de-mocambique-announces-reduction-of-policy-rate-to-15-75-at-press-conference/",
+                "title": "GOVERNOR OF BANCO DE MOÇAMBIQUE ANNOUNCES ...",
+                "text": "The Governor of the Banco de Moçambique held a press conference to announce the latest decisions of the Monetary Policy Committee (MPC), highlighting the ...",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAbCAMAAAAj8t3SAAAA4VBMVEX////+/v7+//////7//v7+/v/+//76+/je1b/f2Mbx7OPs5trQvZ/h1sT59/PQv6P09O3n38zh2Mz39u/YyrHp4dPazrvWyrPLtpfNt5zSwKjRvJzTxan5+PPArYrJu5no4trLvarx5dTo0bbh0cPj1s7Hr4vo2cfE0eO+zubr9f+3x9qouM7P1+qzyebz9vzjyberpaDAuraZs9GWcU1oZF5zcGpvWEnFrpvp6+798eh1Vz6Gfm+fmYltXlO2opjBydJ7krZiWFWOpMxpg691mMCLsNbd5e3Xtpjkza7s2b93qd8+AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pty4e6oAAAJsSURBVCiRRVMNV5tAEJy74w48woEJxIjBJCRK/dZardraam2r9f//oM4SW/c9Xt6R2ZnduQFaSUUqsijyzSRJsg3WMEC7KLJKOeMcjDLKKr4ABiP0ZYyJnYaJlJJHGTjSEKQdihLvpayBJb8yhhpaWaus1kDpgVB5XxXQPdC+SRhoayJtnUEgkcuy4XBcEBCHsAZGxkWEU1OItkiUZv0/2WS7rvOdQdIDTQSZjvKIpzw3WV4h7GZrOaTl2AgK1nIZbTH26z/KmbQLyvKpBjw5ykHUmsG/vUa74f+OGoEoBdmMfclwvFWO58IQzxCm03KaDwU1eutWGsWuqEXpYs4fP4WQuY39QM2NMbHWOYumaZer1d4cC7YjL9669wVMKvHUIur8h4ODw1GNuoFYRnu4VZPL8BXd4gGdPzo+Ozw5PTvXYkVJAV6tQVn0LYrbIbQnx93FxeLjZYNcbsjxTmkNPAfCTEAOPhwNP11df745vr2TWyljiQIzQhbLoeS2kYbL7svX+2/fHwjyPYgREZCITzCX2e/ax4f7H1fXe0chLLhRLVNzO1RJD1rI/L49e3qGuX08bfWML2r0DnP9GJIzAXG8+vDp59Ov32mbbvK8osFMDzKZO/OYr2TltKib5+fQdv0QHKmvRGyiGnAjrtZd8PMqDVUexJjVIB35ZNKnK6nEIxFE27127Wp73LfGjPFml3KcDOmgz0x63nOHNF1HihH1WWw15pOs8bvcXuJVvfj3z2Q0mTBBwywt4AtkucScySTrS+11X8WfnaBflp6fWOzQ7kukGEsaS7KwemUtl0sBI+x1rKTzAuHn9BcD+iv45EZSMQAAAABJRU5ErkJggg==",
+                "published_time": "2024-03-27T00:00:00",
+                "position": 2
               },
               {
                 "url": "https://www.bancomoc.mz/en/media/highlights/bm-governor-announces-reduction-of-mimo-policy-rate-to-16-50-at-press-conference/",
                 "title": "BM GOVERNOR ANNOUNCES REDUCTION OF MIMO POLICY ...",
                 "text": "The Governor of the Banco de Moçambique, Rogério Zandamela, called for a press conference to announce the latest decisions of the Monetary Policy Committee ( ...",
                 "source": "Banco de Moçambique",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAbCAMAAAAj8t3SAAAA4VBMVEX////+/v7+//////7//v7+/v/+//76+/je1b/f2Mbx7OPs5trQvZ/h1sT59/PQv6P09O3n38zh2Mz39u/YyrHp4dPazrvWyrPLtpfNt5zSwKjRvJzTxan5+PPArYrJu5no4trLvarx5dTo0bbh0cPj1s7Hr4vo2cfE0eO+zubr9f+3x9qouM7P1+qzyebz9vzjyberpaDAuraZs9GWcU1oZF5zcGpvWEnFrpvp6+798eh1Vz6Gfm+fmYltXlO2opjBydJ7krZiWFWOpMxpg691mMCLsNbd5e3Xtpjkza7s2b93qd8+AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pty4e6oAAAJsSURBVCiRRVMNV5tAEJy74w48woEJxIjBJCRK/dZardraam2r9f//oM4SW/c9Xt6R2ZnduQFaSUUqsijyzSRJsg3WMEC7KLJKOeMcjDLKKr4ABiP0ZYyJnYaJlJJHGTjSEKQdihLvpayBJb8yhhpaWaus1kDpgVB5XxXQPdC+SRhoayJtnUEgkcuy4XBcEBCHsAZGxkWEU1OItkiUZv0/2WS7rvOdQdIDTQSZjvKIpzw3WV4h7GZrOaTl2AgK1nIZbTH26z/KmbQLyvKpBjw5ykHUmsG/vUa74f+OGoEoBdmMfclwvFWO58IQzxCm03KaDwU1eutWGsWuqEXpYs4fP4WQuY39QM2NMbHWOYumaZer1d4cC7YjL9669wVMKvHUIur8h4ODw1GNuoFYRnu4VZPL8BXd4gGdPzo+Ozw5PTvXYkVJAV6tQVn0LYrbIbQnx93FxeLjZYNcbsjxTmkNPAfCTEAOPhwNP11df745vr2TWyljiQIzQhbLoeS2kYbL7svX+2/fHwjyPYgREZCITzCX2e/ax4f7H1fXe0chLLhRLVNzO1RJD1rI/L49e3qGuX08bfWML2r0DnP9GJIzAXG8+vDp59Ov32mbbvK8osFMDzKZO/OYr2TltKib5+fQdv0QHKmvRGyiGnAjrtZd8PMqDVUexJjVIB35ZNKnK6nEIxFE27127Wp73LfGjPFml3KcDOmgz0x63nOHNF1HihH1WWw15pOs8bvcXuJVvfj3z2Q0mTBBwywt4AtkucScySTrS+11X8WfnaBflp6fWOzQ7kukGEsaS7KwemUtl0sBI+x1rKTzAuHn9BcD+iv45EZSMQAAAABJRU5ErkJggg==",
                 "published_time": "2024-01-31T00:00:00",
-                "position": 2
+                "position": 3
+              },
+              {
+                "url": "https://www.bancomoc.mz/media/uiop2vjy/monetary-policy-communiqu%C3%A9-no-01-2022.pdf",
+                "title": "Monetary Policy Committee - Banco de Moçambique",
+                "text": "The Monetary Policy Committee (MPC) of the Banco de Moçambique has decided to keep the policy rate, MIMO, unchanged at 13.25%. This decision follows from ...",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAbCAMAAAAj8t3SAAAA4VBMVEX////+/v7+//////7//v7+/v/+//76+/je1b/f2Mbx7OPs5trQvZ/h1sT59/PQv6P09O3n38zh2Mz39u/YyrHp4dPazrvWyrPLtpfNt5zSwKjRvJzTxan5+PPArYrJu5no4trLvarx5dTo0bbh0cPj1s7Hr4vo2cfE0eO+zubr9f+3x9qouM7P1+qzyebz9vzjyberpaDAuraZs9GWcU1oZF5zcGpvWEnFrpvp6+798eh1Vz6Gfm+fmYltXlO2opjBydJ7krZiWFWOpMxpg691mMCLsNbd5e3Xtpjkza7s2b93qd8+AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pty4e6oAAAJsSURBVCiRRVMNV5tAEJy74w48woEJxIjBJCRK/dZardraam2r9f//oM4SW/c9Xt6R2ZnduQFaSUUqsijyzSRJsg3WMEC7KLJKOeMcjDLKKr4ABiP0ZYyJnYaJlJJHGTjSEKQdihLvpayBJb8yhhpaWaus1kDpgVB5XxXQPdC+SRhoayJtnUEgkcuy4XBcEBCHsAZGxkWEU1OItkiUZv0/2WS7rvOdQdIDTQSZjvKIpzw3WV4h7GZrOaTl2AgK1nIZbTH26z/KmbQLyvKpBjw5ykHUmsG/vUa74f+OGoEoBdmMfclwvFWO58IQzxCm03KaDwU1eutWGsWuqEXpYs4fP4WQuY39QM2NMbHWOYumaZer1d4cC7YjL9669wVMKvHUIur8h4ODw1GNuoFYRnu4VZPL8BXd4gGdPzo+Ozw5PTvXYkVJAV6tQVn0LYrbIbQnx93FxeLjZYNcbsjxTmkNPAfCTEAOPhwNP11df745vr2TWyljiQIzQhbLoeS2kYbL7svX+2/fHwjyPYgREZCITzCX2e/ax4f7H1fXe0chLLhRLVNzO1RJD1rI/L49e3qGuX08bfWML2r0DnP9GJIzAXG8+vDp59Ov32mbbvK8osFMDzKZO/OYr2TltKib5+fQdv0QHKmvRGyiGnAjrtZd8PMqDVUexJjVIB35ZNKnK6nEIxFE27127Wp73LfGjPFml3KcDOmgz0x63nOHNF1HihH1WWw15pOs8bvcXuJVvfj3z2Q0mTBBwywt4AtkucScySTrS+11X8WfnaBflp6fWOzQ7kukGEsaS7KwemUtl0sBI+x1rKTzAuHn9BcD+iv45EZSMQAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.bancomoc.mz/media/poxc32a4/16_110_tb1_en_cpmo072012_uk.pdf",
+                "title": "MONETARY POLICY COMMITTEE PRESS RELEASE Nº 07/2012 ...",
+                "text": "The Monetary Policy Committee of the Banco de Moçambique (CPMO-acronym in Portuguese) convened today, in its seventh meeting of the current ...",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAbCAMAAAAj8t3SAAAA4VBMVEX////+/v7+//////7//v7+/v/+//76+/je1b/f2Mbx7OPs5trQvZ/h1sT59/PQv6P09O3n38zh2Mz39u/YyrHp4dPazrvWyrPLtpfNt5zSwKjRvJzTxan5+PPArYrJu5no4trLvarx5dTo0bbh0cPj1s7Hr4vo2cfE0eO+zubr9f+3x9qouM7P1+qzyebz9vzjyberpaDAuraZs9GWcU1oZF5zcGpvWEnFrpvp6+798eh1Vz6Gfm+fmYltXlO2opjBydJ7krZiWFWOpMxpg691mMCLsNbd5e3Xtpjkza7s2b93qd8+AAADMmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS41LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgZXhpZjpEYXRlVGltZU9yaWdpbmFsPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlRmlsZVR5cGU9Imh0dHA6Ly9jdi5pcHRjLm9yZy9uZXdzY29kZXMvZGlnaXRhbHNvdXJjZXR5cGUvY29tcG9zaXRlV2l0aFRyYWluZWRBbGdvcml0aG1pY01lZGlhIiBJcHRjNHhtcEV4dDpEaWdpdGFsU291cmNlVHlwZT0iaHR0cDovL2N2LmlwdGMub3JnL25ld3Njb2Rlcy9kaWdpdGFsc291cmNldHlwZS9jb21wb3NpdGVXaXRoVHJhaW5lZEFsZ29yaXRobWljTWVkaWEiIHBob3Rvc2hvcDpDcmVkaXQ9IkVkaXRlZCB3aXRoIEdvb2dsZSBBSSIgcGhvdG9zaG9wOkRhdGVDcmVhdGVkPSIyMDI1LTA2LTA1VDIzOjIwOjI3KzAwOjAwIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgPD94cGFja2V0IGVuZD0idyI/Pty4e6oAAAJsSURBVCiRRVMNV5tAEJy74w48woEJxIjBJCRK/dZardraam2r9f//oM4SW/c9Xt6R2ZnduQFaSUUqsijyzSRJsg3WMEC7KLJKOeMcjDLKKr4ABiP0ZYyJnYaJlJJHGTjSEKQdihLvpayBJb8yhhpaWaus1kDpgVB5XxXQPdC+SRhoayJtnUEgkcuy4XBcEBCHsAZGxkWEU1OItkiUZv0/2WS7rvOdQdIDTQSZjvKIpzw3WV4h7GZrOaTl2AgK1nIZbTH26z/KmbQLyvKpBjw5ykHUmsG/vUa74f+OGoEoBdmMfclwvFWO58IQzxCm03KaDwU1eutWGsWuqEXpYs4fP4WQuY39QM2NMbHWOYumaZer1d4cC7YjL9669wVMKvHUIur8h4ODw1GNuoFYRnu4VZPL8BXd4gGdPzo+Ozw5PTvXYkVJAV6tQVn0LYrbIbQnx93FxeLjZYNcbsjxTmkNPAfCTEAOPhwNP11df745vr2TWyljiQIzQhbLoeS2kYbL7svX+2/fHwjyPYgREZCITzCX2e/ax4f7H1fXe0chLLhRLVNzO1RJD1rI/L49e3qGuX08bfWML2r0DnP9GJIzAXG8+vDp59Ov32mbbvK8osFMDzKZO/OYr2TltKib5+fQdv0QHKmvRGyiGnAjrtZd8PMqDVUexJjVIB35ZNKnK6nEIxFE27127Wp73LfGjPFml3KcDOmgz0x63nOHNF1HihH1WWw15pOs8bvcXuJVvfj3z2Q0mTBBwywt4AtkucScySTrS+11X8WfnaBflp6fWOzQ7kukGEsaS7KwemUtl0sBI+x1rKTzAuHn9BcD+iv45EZSMQAAAABJRU5ErkJggg==",
+                "published_time": "2012-07-11T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -159,7 +219,30 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.bancomoc.mz/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bancomoc.mz/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bancomoc.mz/media/ydnbaaa4/notices-3-and-4-gbm-2022-of-july-14.pdf",
+                "title": "OFFICIAL GAZETTE - Banco de Moçambique",
+                "text": "NOTICE. The contents to be published in the «Official Gazette». (Boletim da República), must be sent as a duly certified copy,.",
+                "source": "Banco de Moçambique",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAgVBMVEX////o3tHi1cTk2cnk2Mjr4tfaybP28u3Zx6/g0sDf0Lzz7eb7+ff9/Pvt5drez7v49PDWw6nf4eXz9vqfsMnP1uLCytrg5fDq6+3t7/TZ3+rj5+7c1MysutHTvqLU0M2ohllmYWlxZ2fDx9CskGqWp8Kdg2RUV2yjscmMnr1yh6xXcqc2AAABN0lEQVR4AX3PBWLDMAxA0W/FDCq3Y+b732/gZLz1BU0CPhkZbCeOP3n2M4H9PBBTyoW/uQJDBWhOUhL9K4DkSp1JACgp8ZUW3ogNTGi+/NHCPPJJymcAK69qP4fJKWUDMKtMFqWVgBGgON6E2D4DQzO6XDqtM2DGKAJmzmhYrTfb3YEpDkqhqxYQOnO4NkfHJ6chZGgDXQ91Ruc25xeXVxfXGxUgMbINFnS6laubm6uTIzX154YCDb29vru/vNkcqUCzjHJPkaBat3pYwvVjr6EoXRNgRurvYXf6dLtemqIg7bPNUggGiM2UeVCdj9vf1FgBPz3MtIZ5tb3zuc2DzZZQMQVoESBYEdOAMlBp0JyWYqdgjQ8awWTjMG7uBiYzaXRzr8UXaq3Ut58PzSZ5lQyAiogVKXQvOz4N8ZmLl/MAAAAASUVORK5CYII=",
+                "published_time": "2022-07-14T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bancomoc.mz/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
           }
         }
       ]

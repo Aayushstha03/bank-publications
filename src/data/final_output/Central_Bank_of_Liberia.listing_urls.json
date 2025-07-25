@@ -9,16 +9,28 @@
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.cbl.org.lr/publications/document-type/research-publications",
-        "title": "Research Publications | Central Bank of Liberia",
-        "text": "Research Publications · 6TH EDITION 2024 LIBERIA FINANCIAL STATISTICS · 4TH EDITION LFS 2024 · August 2024 Monthly Economic Review · THIRD QUARTER 2024 FINANCIAL ...",
-        "listing_probability": 0.99
-      },
-      {
         "url": "https://www.cbl.org.lr/publications/document-type/cbl-annual-reports",
         "title": "CBL Annual Reports | Central Bank of Liberia",
         "text": "CENTRAL BANK OF LIBERIA (CBL) 2024 ANNUAL REPORT. Thursday, March 28, 2024. CBL Annual Report - 2023. Monday, July 3, 2023. CBL Annual Report - 2022.",
-        "listing_probability": 0.99
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/research-publications",
+        "title": "Research Publications | Central Bank of Liberia",
+        "text": "Research Publications · 6TH EDITION 2024 LIBERIA FINANCIAL STATISTICS · 4TH EDITION LFS 2024 · August 2024 Monthly Economic Review · THIRD QUARTER 2024 FINANCIAL ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/regulator",
+        "title": "The Regulator | Central Bank of Liberia",
+        "text": "The Regulator - Promoting financial inclusion, consumer protection and financial sector stability July - September 2024. Monday, June 20, 2022.",
+        "listing_probability": 0.75
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/statistical-data-series",
+        "title": "Statistical Data Series | Central Bank of Liberia",
+        "text": "Statistical Data Series · Wednesday, October 2, 2019. Balance of Payments · Thursday, April 19, 2018. International Trade on Services · Wednesday, April 18, 2018.",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -35,7 +47,7 @@
         "url": "https://www.cbl.org.lr/publications/document-type/statistical-data-series",
         "title": "Statistical Data Series | Central Bank of Liberia",
         "text": "Statistical Data Series ; Wednesday, October 2, 2019. Balance of Payments ; Thursday, April 19, 2018. International Trade on Services ; Wednesday, April 18, 2018.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       }
     ]
   },
@@ -53,6 +65,12 @@
         "title": "Rules and Regulations | Central Bank of Liberia",
         "text": "Rules and Regulations Tuesday, October 12, 2021 Regulation Concerning the Licensing and Regulatory Requirements for Discount Houses in Liberia",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/guidelines",
+        "title": "Guidelines | Central Bank of Liberia",
+        "text": "Guideline on Standing Credit Facility, Standing Deposit Facility and Intraday Liquidity Facility for Commercial Banks",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -63,12 +81,35 @@
         "url": "https://www.cbl.org.lr/media/news-press-release",
         "title": "News and Press Releases | Central Bank of Liberia",
         "text": "News and Press Releases ; Wednesday, June 18, 2025. IMF Staff Concludes Visit to Liberia ; Tuesday, June 10, 2025. CBL Clarifies Insurance Bond Directive: Reform ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbl.org.lr/media/press-releases/cbl-holds-monetary-policy-rate-steady-keep-prices-check-protect-buying-power",
+        "title": "CBL Holds Monetary Policy Rate Steady to Keep Prices in Check ...",
+        "text": "By keeping the MPR high above the inflation rate, the Bank is signaling its commitment to fighting inflation and maintaining economic stability.",
+        "listing_probability": 0.0
       },
       {
         "url": "https://www.cbl.org.lr/media/news-press-release?field_media_type_target_id=178",
         "title": "News and Press Releases - Central Bank of Liberia",
         "text": "News and Press Releases ; Wednesday, June 18, 2025. IMF Staff Concludes Visit to Liberia ; Tuesday, June 10, 2025. CBL Clarifies Insurance Bond Directive: Reform ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.cbl.org.lr/media/news-press-release?field_media_type_target_id=111",
+        "title": "News and Press Releases - Central Bank of Liberia",
+        "text": "News and Press Releases. Type: - Any - Features & Articles Media Summaries News Press Briefings Press Releases Apply Related Content",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.cbl.org.lr/publications/document-type/working-paper-series",
+        "title": "Working Paper Series - Central Bank of Liberia",
+        "text": "The working papers cover topics such as monetary policy, COVID-19 implications, credit market development, remittance inflows, and foreign exchange ...",
         "listing_probability": 0.98
       }
     ]

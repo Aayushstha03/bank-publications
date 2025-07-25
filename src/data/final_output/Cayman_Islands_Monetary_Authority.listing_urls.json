@@ -1,1 +1,141 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.cima.ky/annual-reports",
+        "title": "Annual Report of the Cayman Islands Monetary Authority",
+        "text": "Annual report of the Cayman Islands Monetary Authority. Select year for which you want to see the annual report. Audited financial sheet is also available ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cima.ky/thematic-review-report",
+        "title": "Thematic Review Report - Cayman Islands Monetary Authority (CIMA)",
+        "text": "The review evaluated 19 selected licensees across the Banking, Fiduciary, Insurance, Investments, and Securities sectors.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cima.ky/financial-stability-reports",
+        "title": "Financial Stability Reports - Cayman Islands Monetary Authority (CIMA)",
+        "text": "The second edition of the Financial Stability Report (FSR) for the Cayman Islands provides insights into key financial sectors while identifying trends and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cima.ky/amlcft-activity-report",
+        "title": "AML/CFT Activity Reports",
+        "text": null,
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cima.ky/currency-statistics",
+        "title": "Currency in Circulation Statistics",
+        "text": "Currency in Circulation Statistics ; Stocks - Numismatic. $1,567,407. $1,129,321 ; Total Foreign Reserve Assets. $211,647,948. $196,219,667 ; Local Investments.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cima.ky/insurance-statistics",
+        "title": "Cayman Islands Insurance Statistics",
+        "text": "Domestic Insurance Companies Unaudited Statistics Q4 2024 (US $ 000). Property, Motor, Health, Liability, Marine &. Aviation. Other. International. Business ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cima.ky/banking-statistical-digest",
+        "title": "Banking Statistics Digest - Cayman Islands Monetary Authority (CIMA)",
+        "text": "The Banking Statistical Digest contains an interactive dashboard to highlight data of the entire Cayman Islands' banking sector.",
+        "listing_probability": 0.3
+      },
+      {
+        "url": "https://www.cima.ky/securities-statistics",
+        "title": "Cayman Islands Securities Statistics",
+        "text": "Cayman Islands Securities Statistics by CIMA. Details about Cayman Islands Securities Statistics provided by the Cayman Islands Monetary Authority.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cima.ky/banking-statistics",
+        "title": "Banking Services Banking Statistics",
+        "text": "Banking services Banking Statistics by CIMA. Details about Banking services Banking Statistics provided by the Cayman Islands Monetary Authority.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cima.ky/press-releases",
+        "title": "Press Releases Of CIMA For Important Events & News",
+        "text": "Press releases of CIMA for important events and news related to money, coins and other important things, including appointments at CIMA.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.cima.ky/notices-press-releases",
+        "title": "Notices & News Releases - Cayman Islands Monetary Authority (CIMA)",
+        "text": "To view notices click here. To view press releases click here. Sign up for our E-alerts. Be the first to know about releases and industry news and insights.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.cima.ky/advisory-dissemination-of-targeted-financial-sanctions-designation-updates",
+        "title": "Dissemination of Targeted Financial Sanctions Designation Updates",
+        "text": "The Authority is advising of a new self-service feature to assist with the dissemination of targeted financial sanctions (TFS) designation updates (DUs).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cima.ky/2025-fee-changes-1",
+        "title": "Updates on 2024 and 2025 Annual Fee Deadlines and Penalties",
+        "text": "The Authority has granted an extension to the 17 February 2025 for the payment of the 2025 Fees changes (the difference between the 2024 and ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cima.ky/2017-amlrs-key-changes-outsourcing-amlcft-operations-fasb-updates",
+        "title": "2017 AMLRs Key Changes, Outsourcing AML/CFT Operations ...",
+        "text": "2017 AMLRs Key Changes, Outsourcing AML/CFT Operations & FASB Updates · Adopt a risk-based approach; · Establish and implement employee screening ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.cima.ky/notices-press-releases",
+        "title": "Notices & News Releases - Cayman Islands Monetary Authority (CIMA)",
+        "text": "To view notices click here. To view press releases click here. Sign up for our E-alerts. Be the first to know about releases and industry news and insights.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cima.ky/warning-notices",
+        "title": "Warning Notices - Cayman Islands Monetary Authority (CIMA)",
+        "text": "Director Jianxin Ju Warned for Failure to Provide Prescribed Information & Pay Annual Fee Pursuant to the Directors Registration and Licensing Act, 2014.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cima.ky/general-industry-notices",
+        "title": "General Industry Notices - Cayman Islands Monetary Authority (CIMA)",
+        "text": "CIMA Early Office Closure. Please be advised that the Cayman Islands Monetary Authority will close on Friday, 4 July 2025 at 12:00 PM to facilitate a staff ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cima.ky/enforcement-notices",
+        "title": "Enforcement Notices - Cayman Islands Monetary Authority (CIMA)",
+        "text": "CIMA endeavours to exercise its enforcement powers in a manner that is transparent, proportionate and consistent with its publicly stated policies and ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cima.ky/decision-notices",
+        "title": "Decision Notices - Cayman Islands Monetary Authority (CIMA)",
+        "text": "The Authority has cancelled the director registration held by Mr. Budiman Effendi pursuant to section 25(2)(a) of the Act.",
+        "listing_probability": 0.05
+      }
+    ]
+  }
+]

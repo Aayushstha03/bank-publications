@@ -1,5 +1,40 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "http://www.mma.gov.mv/#research/publication",
+        "title": "Research Publications - Maldives Monetary Authority",
+        "text": "The MMA publishes the Payments Bulletin, Annual Report, Inflation Report, Economic Update, Quarterly Economic Bulletin, and MMA Research Papers.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/research/publication/reports/ar/Annual%20Report",
+        "title": "Annual Report - Maldives Monetary Authority",
+        "text": "The MMA Annual Report includes analysis of economic developments, main activities, audited financial statements, global economy overview, and current year ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/research/statisticalPublications",
+        "title": "Statistical Publications - Maldives Monetary Authority",
+        "text": "The Monthly Statistics provides selected economic and financial data as provided by the respective government authorities.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/fiu/annualreport",
+        "title": "Financial Intelligence Unit Annual Reports - Maldives Monetary Authority",
+        "text": "Annual Reports · FIU Annual Report 2023 · FIU Annual Report 2022 · FIU Annual Report 2021 · FIU Annual Report 2020 · FIU Annual Report 2019 · FIU Annual Report 2018.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/research/publication/reports/aer/Annual%20Economic%20Review",
+        "title": "Annual Economic Review - Maldives Monetary Authority",
+        "text": "The Annual Economic Review provided detailed analyses on developments in the domestic economy and a brief overview of events in the global economy during the ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
     "topic": "statistics",
     "entries": [
       {
@@ -15,10 +50,22 @@
         "listing_probability": 0.95
       },
       {
+        "url": "http://www.mma.gov.mv/#statistics",
+        "title": "Statistics - Maldives Monetary Authority",
+        "text": "The MMA compiles and publishes a wide range of monetary, financial, and external sector statistics. These include the monetary and financial statistics, and the ...",
+        "listing_probability": 0.99
+      },
+      {
         "url": "http://www.mma.gov.mv/#/research/publication/reports/qeb/Quarterly%20Economic%20Bulletin",
         "title": "Quarterly Economic Bulletin - Maldives Monetary Authority",
-        "text": "Quarterly Economic Bulletin provides detailed information about recent developments in the domestic and international economy.",
+        "text": "The Quarterly Economic Bulletin provides detailed information about recent domestic and international economic developments, with in-depth analysis in June.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.mma.gov.mv/#statistics/advancereleasecalendar",
+        "title": "Advance Release Calendar - Maldives Monetary Authority",
+        "text": "MMA MMA. About MMA; Board of Directors; Executive Committee; Advisors; Senior Management. Organizational Structure; Salary Structure; History of MMA ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -26,10 +73,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "http://www.mma.gov.mv/#/research/reports/rpnotes/Research%20and%20Policy%20Notes",
-        "title": "Research and Policy Notes - Maldives Monetary Authority",
-        "text": "Research and Policy Notes cover in-depth research and analysis carried out by the staff of the Maldives Monetary Authority for both internal and external ...",
+        "url": "http://www.mma.gov.mv/#laws",
+        "title": "Laws & regulations - Maldives Monetary Authority",
+        "text": "The MMA issues various regulations and guidelines which are available below under the relevant legislation.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/fiu/guidelines",
+        "title": "guidelines - Maldives Monetary Authority",
+        "text": "General compliance guidelines to assist consumer finance institutions in their compliance to the Law No.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/fiu/laws",
+        "title": "FIU Laws and regulations - Maldives Monetary Authority",
+        "text": "1. Regulation for Banks on Prevention of Money Laundering and Financing of Terrorism · 2. Regulation for Life Insurance Business and Family Takaful Insurance ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "http://www.mma.gov.mv/#monetarypolicy/policyInstruments",
+        "title": "Policy Instruments - Maldives Monetary Authority",
+        "text": "The Minimum Reserve Requirement (MRR) is one of the main policy instruments used by the MMA to control money supply and credit expansion.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -37,21 +102,33 @@
     "topic": "news",
     "entries": [
       {
-        "url": "http://www.mma.gov.mv/#speeches",
-        "title": "Speeches - Maldives Monetary Authority",
-        "text": "Press Releases · Speeches · Jobs · Procurement.",
+        "url": "http://www.mma.gov.mv/#pressrelease",
+        "title": "Press Release - Maldives Monetary Authority",
+        "text": "Maldives Monetary Authority ; Received a shipment of 1 Rufiyaa coin. PR-2025-11752(Dhivehi) ; Press Release Regarding Issuance of Banking Licenses. PR-2025-11553",
         "listing_probability": 0.95
       },
       {
-        "url": "http://www.mma.gov.mv/#/speeches/Speech01.html",
+        "url": "http://www.mma.gov.mv/#/speeches/SP01",
         "title": "Speeches - Maldives Monetary Authority",
-        "text": "Speech by Dr. Azeema Adam, Governor of the Maldives Monetary Authority at the Opening Ceremony of the Commercial Bank of Maldives, Hotel Jen, Male",
-        "listing_probability": 0.05
+        "text": "Home; Speeches; SP01. Media. Press Releases. Speeches. Jobs. Announcements. About MMA. About MMA; History of MMA; Gallery; Contact Us; Bank Holidays ...",
+        "listing_probability": 0.85
       },
       {
         "url": "http://www.mma.gov.mv/#/speeches/Speech08.html",
         "title": "Speeches - Maldives Monetary Authority",
         "text": "I am deeply honored to speak at this important and significant Conference, one which is very relevant and important in the development of the financial sector ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/speeches/Speech07.html",
+        "title": "Speeches - Maldives Monetary Authority",
+        "text": "It gives me great pleasure to have this opportunity to speak at the 35th Asian Bankers Association General Meeting and Conference. I am very pleased to be here ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "http://www.mma.gov.mv/#/news/PR-MCS-2019-12(english).html?v=20100724",
+        "title": "News - Maldives Monetary Authority",
+        "text": "MMA's Governor Mr. Ahmed Naseer has resigned with effect from today. He has served the Authority as Governor since 24 August 2017.",
         "listing_probability": 0.05
       }
     ]
@@ -60,10 +137,33 @@
     "topic": "research",
     "entries": [
       {
+        "url": "http://www.mma.gov.mv/#/research/publication/reports/rp/Research%20Papers",
+        "title": "Research Papers - Maldives Monetary Authority",
+        "text": "The MMA Research Papers is a collection of research papers prepared by staff of MMA and other external contributors. It explores topics on contemporary fields.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.mma.gov.mv/rc2024/",
+        "title": "MMA Research Conference 2024",
+        "text": null,
+        "listing_probability": 0.4
+      },
+      {
         "url": "http://www.mma.gov.mv/#research/publication",
         "title": "Research Publications",
         "text": null,
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "http://www.mma.gov.mv/#announcements",
+        "title": "Procurement - Maldives Monetary Authority",
+        "text": "Press Releases · Speeches · Jobs · Announcements ...",
+        "listing_probability": 0.95
       }
     ]
   }

@@ -3,16 +3,22 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://bqk-kos.org/rreth-bqk/cbk-annual-reports-archive/?lang=en",
-        "title": "CBK Annual Reports Archive - BQK",
-        "text": "The CBK Annual Report provides an overview of the economic developments in Kosovo, in the region and in the world economy, with special focus on the financial ...",
-        "listing_probability": 0.95
+        "url": "https://bqk-kos.org/publikimet/?lang=en",
+        "title": "Publications - BQK",
+        "text": "CBK publishes periodical and non-periodical reports related to the economic developments in the country, with special emphasis on the financial sector ...",
+        "listing_probability": 0.98
       },
       {
-        "url": "https://bqk-kos.org/news-category/publications/",
-        "title": "Publications Archives - BQK",
-        "text": "Linqet e shpejta ... Regjistrohu në buletinin tonë për publikimet e fundit, lajmet kryesore dhe raportet financiare. Regjistrohu icon · Lehtësia e qasjes ...",
-        "listing_probability": 0.98
+        "url": "https://bqk-kos.org/sistemet-e-pagesave/publikime-statistikore-analiza-dhe-materiale-tjera-informative-nga-sistemi-i-pagesave/?lang=en",
+        "title": "Statistical publications and other informational material from ... - BQK",
+        "text": "Statistical publications and other informational material from Payment Systems. Filter by name or date. Select category. Monthly Reports Annual Reports",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://bqk-kos.org/publikimet/arkiva/?lang=en",
+        "title": "Publications Archive - BQK",
+        "text": "Research Materials, Opinions, Monthly Statistics Bulletin, Monthly Information Report of the Financial System, Quarterly Assessment of Macroeconomic ...",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -20,16 +26,34 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://bqk-kos.org/news/balance-of-payments-statistics-for-june-2024-are-published/?lang=en",
-        "title": "Balance of Payments statistics for June 2024 are published - BQK",
-        "text": "The balance of payments at the end of June 2024 was characterized by a current account deficit of 681.40 million euros, with an increase of 135.28 million ...",
-        "listing_probability": 0.1
+        "url": "https://bqk-kos.org/publikimet/buletini-mujor-statistikor/?lang=en",
+        "title": "Monthly Statistics Bulletin - BQK",
+        "text": "Monthly Statistics Bulletin has been published on monthly basis since 2001. This publication includes statistics on the financial, external, fiscal and real ...",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://bqk-kos.org/news/publication-of-statistics-of-commercial-banks-for-april-2024/?lang=en",
-        "title": "Publication of statistics of commercial banks for April 2024 - BQK",
-        "text": "The assets of commercial banks, at the end of April 2024, reached the value of 7.39 billion euros, marking a decrease of 1.28% compared to the previous month.",
-        "listing_probability": 0.1
+        "url": "https://bqk-kos.org/statistikat/?lang=en",
+        "title": "Statistics - BQK",
+        "text": "Information on fiscal and real sector of the economy. The Central Bank provides specific data on the fiscal and real sector in Kosovo.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bqk-kos.org/mbikeqyrja-financiare/mbikeqyrja-e-sigurimeve-2/tarifat-dhe-buletini-statistikor/?lang=en",
+        "title": "Tariffs and statistical bulletin - BQK",
+        "text": "Monthly Statistics Bulletin, Monthly Information Report of the Financial System, Quarterly Assessment of Macroeconomic Developments.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://bqk-kos.org/news/publikimi-i-statistikave-te-bilancit-te-pagesave-deri-ne-dhjetor-2024/?lang=en",
+        "title": "Publication of Balance of Payments statistics as of December 2024 - BQK",
+        "text": "Balance of payments – until the end of December 2024 was characterized by a current account deficit of 920.77 million euros, which shows an increase of 26.24%.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bqk-kos.org/statistikat/statistika-te-tjera/?lang=en",
+        "title": "Other Statistics - BQK",
+        "text": "Real and fiscal sector statistics cover gross domestic product, prices, unemployment, budget, public debt, etc., which are compiled and published by the ...",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -37,9 +61,15 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://bqk-kos.org/news/governor-ismaili-addresses-panel-on-the-promise-of-macro-prudential-policy-at-reykjavik-economic-conference/?lang=en",
-        "title": "Governor Ismaili addresses panel on the promise of Macro-Prudential ...",
-        "text": "The conference, renowned for its insightful discussions on economic issues of global significance, provides a platform for policymakers and ...",
+        "url": "https://bqk-kos.org/korniza-ligjore/rregulloret/?lang=en",
+        "title": "Regulations - BQK",
+        "text": "Legal Framework, Laws, Regulations, Instructions, Administrative Instructions, Rules Archive, Publications, Research Materials, Opinions",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bqk-kos.org/news/the-cbk-publishes-guidelines-for-identifying-genuine-euro-banknotes-and-coins-from-fake-ones/?lang=en",
+        "title": "The CBK publishes guidelines for identifying genuine Euro banknotes ...",
+        "text": "The CBK publishes guidelines for identifying genuine Euro banknotes and coins from fake ones · 500 Euro banknote · 200 Euro banknote · 100 Euro ...",
         "listing_probability": 0.05
       }
     ]
@@ -51,18 +81,87 @@
         "url": "https://bqk-kos.org/rreth-bqk/guvernatori-i-bqk-se/governors-speeches-and-interviews-archive/?lang=en",
         "title": "Governor's Speeches and Interviews Archive - BQK",
         "text": "Governor's Speeches and Interviews Archive. The latest. The latest. The oldest. Filter speeches. Choose the year. 2023 2022 2021 2020 2019. Choose the date.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
-        "url": "https://bqk-kos.org/news/cbk-board-press-release/?lang=en",
-        "title": "CBK Board Press Release - BQK",
-        "text": "The Board of the Central Bank of the Republic of Kosovo, in the meeting held on March 29, 2023, made the following decision.",
+        "url": "https://bqk-kos.org/news/banka-qendrore-e-republikes-se-kosoves-permbylli-javen-nderkombetare-te-parase-2025/?lang=en",
+        "title": "The Central Bank of the Republic of Kosovo concluded the \"Global ...",
+        "text": "The Central Bank of the Republic of Kosovo remains committed to promoting Financial Education, with the aim of increasing awareness of financial security.",
         "listing_probability": 0.05
       },
       {
-        "url": "https://bqk-kos.org/news/press-release-4/?lang=en",
-        "title": "Press Release - BQK",
-        "text": "The Panel for the selection of the Governor of the Central Bank has sent to the Assembly of Kosovo and the Government, the list of selected candidates as ...",
+        "url": "https://bqk-kos.org/news/cbks-measures-and-activities-in-the-fight-against-counterfeit-money-and-the-effects-of-the-implementation-of-the-regulation-on-cash-operations-and-the-plan-for-its-facilitated-implementation/?lang=en",
+        "title": "CBK's measures and activities in the fight against counterfeit money and ...",
+        "text": "The Central Bank of the Republic of Kosovo (CBK) has continued to successfully coordinate inter-institutional meetings to combat counterfeit coins, especially ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bqk-kos.org/news/local-and-international-executive-leaders-discussed-the-opportunities-and-risks-of-the-banking-sector/?lang=en",
+        "title": "Local and international executive leaders discussed the opportunities ...",
+        "text": "Senior CBK and international institutions representatives discuss the effects of the developing financial scope, opportunities and risks for financial ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bqk-kos.org/rreth-bqk/guvernatori-i-bqk-se/fjalimet-dhe-intervistat-e-guvernatorit/?lang=en",
+        "title": "Governor's Speeches - BQK",
+        "text": "Governor Ismaili's speech on the occasion of the completion of the IMF Mission for the Review of the SBA Agreement and the RSF Program.",
+        "listing_probability": 0.2
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/publikimet/materiale-kerkimore/?lang=en",
+        "title": "Working Papers - BQK",
+        "text": "Working Papers contain research on issues that are relevant for the economy and particularly for financial stability, conducted by the CBK staff.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://bqk-kos.org/edu/kids_materials/flete-pune/?lang=en",
+        "title": "Working papers - BQK Edu",
+        "text": "Working papers, Working-paper-schoolchildren-pdf, 10/01/2019, Shperndaj Ruaj, Previous material, Governor Mehmeti held a meeting with students.",
+        "listing_probability": 0.35
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/shpalljet/?lang=en",
+        "title": "Announcements - BQK",
+        "text": "CBK publishes a wide range of announcements that include information on open job positions and career opportunities at CBK.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://bqk-kos.org/news-category/announcements/",
+        "title": "Announcements Archives - BQK",
+        "text": "Recent Posts · Recent Comments · Archives · Categories · Portalet e BQK-së.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://bqk-kos.org/news/bqk-leshon-ne-perdorim-web-faqen-e-re-zyrtare-per-rritje-te-transparences-dhe-avancim-te-komunikimit-me-qytetaret/?lang=en",
+        "title": "CBK launches the new official website: Increasing transparency ... - BQK",
+        "text": "The CBK website will also be used as a means of communication and cooperation between stakeholders for the exchange of experiences with the CBK, ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bqk-kos.org/news/bqk-organizon-punetorine-per-edukimin-financiar-dhe-komunikimin-digjital/?lang=en&lang=en",
+        "title": "CBK organizes Workshop on Financial Literacy and Digital ... - BQK",
+        "text": "The aim of the workshop was to build capacities and share experiences, highlighting the importance of ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://bqk-kos.org/news/sqarim-i-komunikates-se-bqk-se-te-dates-16-mars-2020/?lang=en",
+        "title": "Clarification regarding CBK communication of 16 March 2020",
+        "text": "Borrowers who are unable to pay loan instalment may choose not to pay their instalment from 16 March 2020 until 30 ...",
         "listing_probability": 0.05
       }
     ]

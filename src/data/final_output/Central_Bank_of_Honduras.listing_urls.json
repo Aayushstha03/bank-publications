@@ -7,6 +7,18 @@
         "title": "Estadísticas Macroeconómicas Publications and Reports",
         "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bch.hn/administrativas/RI/Paginas/CALENDAR-PUBLICATIONS-PORTAL-TRANSPARENCY.aspx",
+        "title": "Relaciones Institucionales Transparency Portal Calendar ...",
+        "text": "Transparency Portal Calendar Publications. Logo_BCH. Banco Central de Honduras. Centro Cívico Gubernamental, Boulevard Fuerzas Armadas, Tegucigalpa, ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bch.hn/administrativas/ri/paginas/forms/allitems.aspx?paged=true&pagedprev=true&p%2525252525252525255Fsortbehavior=0&p%2525252525252525255Ffileleafref=calendar%2Dpublications%2Dportal%2Dtransparency%2Easpx&p%2525252525252525255Fid=74&pagefirstrow=3301&view=%7Bde7668b3%2Db7c9%2D4ba0%2Da562%2D86c6f9a666a4%7D",
+        "title": "Páginas - Todos los documentos - Banco Central de Honduras",
+        "text": "Páginas. Esta biblioteca del sistema se creó mediante la característica de publicación para almacenar las páginas que se crean este sitio.",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -14,10 +26,22 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.bch.hn/estadisticas-y-publicaciones-economicas/sistema-general-de-divulgacion-de-datos-de-honduras/sistema-divulgacion-de-datos",
+        "title": "Gestión de Información Económica National Summary Data Page",
+        "text": "National Summary Data Page - Honduras ; Depository Corporations Survey, Browse Data · Download in SDMX ; Central Bank Survey, Browse Data · Download in SDMX ...",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.bch.hn/EN/economical-statistics",
         "title": "Análisis Macroeconómico Economical Statistics",
         "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
-        "listing_probability": 0.9
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bch.hn/EN/economical-statistics/real-sector/national-accounts/supply-and-used-tables",
+        "title": "Estadísticas Macroeconómicas Supply and Used Tables",
+        "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
+        "listing_probability": 0.2
       },
       {
         "url": "https://www.bch.hn/EN/economical-statistics/monetary-sector/other-sectorization-ems",
@@ -31,10 +55,16 @@
     "topic": "monetary_policy",
     "entries": [
       {
+        "url": "https://www.bch.hn/EN/institutional-policies/exchange-policy/exchange-policy-descriptive-framework",
+        "title": "Internacional Exchange Policy Descriptive Framework",
+        "text": "Objective and Goal. The objective of exchange rate policy, in congruence with monetary policy, is to ensure the maintenance of the internal and external ...",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.bch.hn/EN/Operativos/OPM/Paginas/Credit-Policy.aspx",
         "title": "Operaciones Monetarias Credit Policy - Banco Central de Honduras",
         "text": "Institutional Policies · Monetary Policy · Monetary Policy Descriptive FrameworkStatistics of Monetary Policy ​​​​​​​Monetary Policy Rate.",
-        "listing_probability": 0.8
+        "listing_probability": 0.7
       },
       {
         "url": "https://www.bch.hn/EN/institutional-policies/monetary-policy/monetary-policy-descriptive-framework",
@@ -43,9 +73,15 @@
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.bch.hn/EN/institutional-policies/exchange-policy/exchange-policy-descriptive-framework",
-        "title": "Internacional Exchange Policy Descriptive Framework",
-        "text": "Objective and Goal. The objective of exchange rate policy, in congruence with monetary policy, is to ensure the maintenance of the internal and external ...",
+        "url": "https://www.bch.hn/EN/Operativos/OPM/Paginas/Monetary-Policy.aspx",
+        "title": "Operaciones Monetarias Monetary Policy - Banco Central de Honduras",
+        "text": "Monetary Policy. Contenido de la página. ​​. ​​​​. Logo_BCH. Banco Central de Honduras. Centro Cívico Gubernamental, Boulevard Fuerzas Armadas, Tegucigalpa, ...",
+        "listing_probability": 0.6
+      },
+      {
+        "url": "https://www.bch.hn/EN/institutional-policies/monetary-policy/monetary-policy-rate",
+        "title": "Monetary Policy Rate - Banco Central de Honduras",
+        "text": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The Monetary Policy Rate (MPR) indicates the monetary policy stance of the Central Bank of Honduras, ...",
         "listing_probability": 0.1
       }
     ]
@@ -53,6 +89,12 @@
   {
     "topic": "news",
     "entries": [
+      {
+        "url": "https://www.bch.hn/administrativas/RI/Paginas/Press.aspx",
+        "title": "Relaciones Institucionales Press - Banco Central de Honduras",
+        "text": "¿Quieres Trabajar con Nosotros? Sala de Prensa · Transparencia · Sitios de Interés · Correo Institucional.",
+        "listing_probability": 0.85
+      },
       {
         "url": "https://www.bch.hn/EN/Administrativas/RI/Paginas/Press.aspx",
         "title": "Relaciones Institucionales Press - Banco Central de Honduras",

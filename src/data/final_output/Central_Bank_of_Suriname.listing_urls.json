@@ -18,7 +18,19 @@
         "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/50-publications-research",
         "title": "Publications & Research - Centrale Bank van Suriname",
         "text": "The Central Bank of Suriname (CBvS) presents a monthly inflation bulletin that covers an inflation analysis and a short-term inflation projection.",
-        "listing_probability": 0.75
+        "listing_probability": 0.6
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/56-statistics/financial-market-statistics/daily-publications",
+        "title": "Daily Publications - Centrale Bank van Suriname",
+        "text": "Currency Market · Exchange RatesMarch 09th and until further notice · Gold CertificatesMarch 09th and until further notice · Inflation · Weighted Average RatesJuly ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbvs.sr/en/publications-research/financial-stability-report",
+        "title": "Financial Stability Reports - Centrale Bank van Suriname",
+        "text": "The 2020 Report covers several areas that are required to comprehensively assess the stability of the financial system in the Caribbean.",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -35,13 +47,25 @@
         "url": "https://www.cbvs.sr/en/statistics/methodologies/115-key-figures-footer/356-national-summary-data-page",
         "title": "National Summary Data Page - Centrale Bank van Suriname",
         "text": "You are here: · Home · Statistics · Methodologies · Key Figures · National Summary Data Page ...",
-        "listing_probability": 0.2
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/54-publications/governor-s-speeches/205-opening-remarks-at-the-imf-cartac-course-on-national-accounts-statistics",
-        "title": "Opening remarks at the IMF-CARTAC Course on National Accounts ...",
-        "text": "Opening remarks at the IMF-CARTAC Course on National Accounts Statistics. Governor Gillmore Hoefdraad (February 2012). Click here for the speech.",
-        "listing_probability": 0.05
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/428-meai-bulletin",
+        "title": "MEAI BULLETIN - Centrale Bank van Suriname",
+        "text": "Monthly Economic Activity Index · Exchange RatesMarch 09th and until further notice · Gold CertificatesMarch 09th and until further notice · Inflation · Weighted ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/142-statistics/macroeconomic-tables/501-real-sector-statistics",
+        "title": "Real Sector Statistics - Centrale Bank van Suriname",
+        "text": "Real Sector Statistics · Exchange RatesMarch 09th and until further notice · Gold CertificatesMarch 09th and until further notice · Inflation · Weighted Average ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/financial-market-statistics/daily-publications/2-uncategorised/1554-papers-research-en",
+        "title": "Papers - Research - Centrale Bank van Suriname",
+        "text": "Papers - Research ; July, 2014. Financial Development in Suriname and its Relationship with Economic Growth. Nancy Ong A Kwie and Daniel Boamah ; February, 2014.",
+        "listing_probability": 0.98
       }
     ]
   },
@@ -55,16 +79,22 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.cbvs.sr/en/supervision-policy/regulations/insurance-supervision",
+        "title": "Insurance Supervision - Centrale Bank van Suriname",
+        "text": "The supervision of insurance companies is carried out through off-site monitoring, on-site inspections and periodic meetings.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.cbvs.sr/en/174-acts/regulations",
         "title": "Regulations - Centrale Bank van Suriname",
         "text": "Subcategories · Credit Institutions · Moneylaundering · Pension Funds · FATF-CFATF · Exchange RatesMarch 09th and until further notice · Gold CertificatesMarch 09th ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/174-acts/regulations",
         "title": "Regulations - Centrale Bank van Suriname",
         "text": "Credit Institutions · Moneylaundering · Pension Funds · FATF-CFATF. Exchange RatesMarch 09th and until further notice. Currency, Buying, Selling.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       }
     ]
   },
@@ -75,19 +105,31 @@
         "url": "https://www.cbvs.sr/en/news",
         "title": "News - Centrale Bank van Suriname",
         "text": "Click here for the PDF-version of the MEAI bulletin september 2023. Click here also for the PDF-version of the MEAI bulletin october 2023.",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/54-publications-research/governor-s-speeches",
         "title": "Governor's Speeches - Centrale Bank van Suriname",
         "text": "Welcome speech by Governor Gillmore Hoefdraad in connection with Islamic Development Bank Day Suriname",
-        "listing_probability": 0.2
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/38-press-releases",
         "title": "Press Release - Financial Stability Report (Jan. 13, 2016)",
         "text": "The report confirms the stability and strength of Suriname's financial sector. In addition, the stress tests and the improved risk profile of the commercial ...",
-        "listing_probability": 0.2
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/39-press-releases/third-quarter-2012/107-centrale-bank-press-release-fitch",
+        "title": "Centrale Bank Press Release Fitch",
+        "text": "The Central Bank of Suriname welcomes the recent upgrade in Suriname's credit rating by the international rating company Fitch.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbvs.sr/en/statistics/macroeconomic-statistics/164-press-releases/fourth-quarter-2016",
+        "title": "Fourth Quarter 2014 - Centrale Bank van Suriname",
+        "text": "On October 1st, the IMF Executive Board discussed the findings on the team that visited Suriname in June 2014 and the IMF later issued a press release.",
+        "listing_probability": 0.75
       }
     ]
   }

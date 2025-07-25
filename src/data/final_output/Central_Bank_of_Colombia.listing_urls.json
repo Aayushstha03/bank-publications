@@ -1,7 +1,48 @@
 [
   {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/publications-and-research",
+        "title": "Publications and research | Banco de la República",
+        "text": "Institutional Reports · Financial Infrastructure Report · Financial Stability Report · Foreign Reserves Management Report · Informes Especiales de Estabilidad ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/news-and-publications",
+        "title": "News and publications - Banco de la República",
+        "text": "Banco de la República reiterates its Commitment to fulfilling the Responsibilities entrusted to the Institution under the Pension Reform Law.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/contenidos/main-reports",
+        "title": "Main Reports | Banco de la República",
+        "text": "Inflation would peak in March and start to gradually decline as of the second quarter of 2023, bringing inflation back to the 3% target over the next two years.",
+        "listing_probability": 0.5
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/financial-stability/publications-researches",
+        "title": "Publications and research on financial stability, the monetary and financial ...",
+        "text": "Below, you will be able to access institutional reports, periodic releases, journals, books, book chapters, technical documents, presentations, notes and ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/statistics/bulletins-reports-and-statistical-summaries",
+        "title": "Bulletins, Reports, and Statistical Summaries | Banco de la República",
+        "text": "Weekly. Bulletin on Economic Indicators (Available only in Spanish) · Daily Financial Indicators · Monetary and Exchange Rate Statistics Report (Available ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
     "topic": "statistics",
     "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/taxonomy/term/5847",
+        "title": "Data and Statistics - Banco de la República",
+        "text": "Data and Statistics · Learn about Banco de la República (the Central Bank of Colombia) new Economic Statistics Site · Monetary Sectoring of the Financial Sector.",
+        "listing_probability": 0.9
+      },
       {
         "url": "https://www.banrep.gov.co/en/publications-research/national-financial-accounts-bulletin/first-quarter-2025",
         "title": "National Financial Accounts Bulletin by Institutional Sector",
@@ -9,16 +50,22 @@
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin/northeast-1-quarter-2025",
-        "title": "Regional Economic Bulletin: Northeast, first quarter of 2025",
-        "text": "The northeast region's economy grew year-over-year during the first quarter of 2025, driven by strong domestic demand and robust agricultural supply. Household ...",
-        "listing_probability": 0.05
+        "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin",
+        "title": "Regional Economic Bulletin (BER in Spanish) - Banco de la República",
+        "text": "The Regional Economic Bulletin (BER) is a quarterly publication produced since 2003, whose purpose is to provide the economic agents and the general public ...",
+        "listing_probability": 0.8
       },
       {
-        "url": "https://www.banrep.gov.co/en/publications-research/regional-economic-bulletin/southwest-1-quarter-2025",
-        "title": "Regional Economic Bulletin: Southwest, first quarter of 2025",
-        "text": "In the first quarter of 2025, the southwest region's economy grew year-over-year, although with reduced momentum. Industrial growth slowed, and ...",
-        "listing_probability": 0.05
+        "url": "https://www.banrep.gov.co/docum/data_search_engine.html",
+        "title": "Data Search Engine - Banco de la República",
+        "text": "Serankua's Data Search Engine provides the means to access multiple data series in different frequencies for a given date range. Additionally, the service ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.banrep.gov.co/estad/dsbb/imfcolom.htm",
+        "title": "Economic and Financial Data for Colombia - Banco de la República",
+        "text": "Last updated: Jul 18 th 2025 · The data shown in this page correspond to the data described on the International Monetary Fund's Dissemination Standards.",
+        "listing_probability": 0.7
       }
     ]
   },
@@ -29,19 +76,25 @@
         "url": "https://www.banrep.gov.co/en/general-policies-and-guidelines-personal-data-protection",
         "title": "General Policies and Guidelines for Personal Data Protection (Privacy ...",
         "text": "General Policies and Guidelines for Personal Data Protection (Privacy Policy) | Banco de la República.",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.banrep.gov.co/en/regulations-foreign-exchange-transactions/basic-concepts",
-        "title": "Regulations and Foreign Exchange Transactions: Basic Concepts",
-        "text": "13. Which foreign currency transactions are authorized by the foreign exchange regime between a parent company domiciled abroad and its branch ...",
-        "listing_probability": 0.05
+        "url": "https://www.banrep.gov.co/en/monetary-exchange-policies/foreign-reserves/regulation",
+        "title": "Foreign Reserves Regulations - Banco de la República",
+        "text": "The Political Constitution of Colombia,Law 31 of 1992 and Decree 2520 of 1993(Bylaws of Banco de la República (the Central Bank of Colombia) establish the ...",
+        "listing_probability": 0.2
       },
       {
-        "url": "https://www.banrep.gov.co/en/monetary-policy/definition-objective-monetary-policy",
-        "title": "Definition and Objective of Monetary Policy | Banco de la República",
-        "text": "Under this scheme, monetary policy actions are aimed at keeping future inflation within the 3.0% target set by the Board of Directors of Banco de la República ( ...",
-        "listing_probability": 0.05
+        "url": "https://www.banrep.gov.co/en/payment-systems/sen/operating-regulations",
+        "title": "Operating Regulations of the Sistema Electrónico de Negociación (SEN in ...",
+        "text": "This External Operating and Services Circular replaces in its entirety External Regulatory Circular DFV-135 of 16 December 2020, corresponding to Issue 97: ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/monetary-policy/implementation-monetary-policy",
+        "title": "Implementation of Monetary Policy | Banco de la República",
+        "text": "Banco de la República (the Central Bank of Colombia) sets the monetary policy interest rate at a level consistent with the aim of reaching the 3.0% inflation ...",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -53,6 +106,12 @@
         "title": "Press releases, minutes and news - Banco de la República",
         "text": "Press releases, minutes and news ; 21/05/2025, 10:30, Labor Market Report – April 2025 ; 08/05/2025, 13:00, Purchases / Sales of TES and Foreign Currency, and TES ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/node/62665",
+        "title": "Other books and news - Banco de la República",
+        "text": "Below you will find the history of the books or chapters edited or co-published by the Banco de la República; both economic and cultural issues.",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -66,16 +125,92 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/policy-implications-losing-credibility-lessons",
+        "title": "Working Papers on Economics - Policy implications of losing credibility",
+        "text": "The series Working Papers on Economics is published by the Office for Economic Studies at the Banco de la República (Central Bank of Colombia).",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/exploring-flow-performance-relation-colombian",
+        "title": "Working papers economics - Exploring the Flow-Performance ...",
+        "text": "The series Working Papers on Economics is published by the Office for Economic Studies at the Banco de la República (Central Bank of Colombia).",
+        "listing_probability": 0.05
+      },
+      {
         "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/public-perception-knowledge-work-central",
         "title": "Working Papers on Economics - Public perception and knowledge of ...",
         "text": "The series Working Papers on Economics is published by the Office for Economic Studies at the Banco de la República (Central Bank of Colombia).",
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/cross-border-effects-fed-capital",
-        "title": "Working papers economics - Cross-Border Effects of Fed Capital ...",
-        "text": "Abstract. This paper examines the impact of the Federal Reserve's 2022 capital requirements on Colombian banks' access to foreign credit lines. These measures, ...",
+        "url": "https://www.banrep.gov.co/en/publications-research/working-papers-economics/wealth-taxes-Firms-capital-structures",
+        "title": "Working papers economics - Wealth Taxes and Firms' Capital Structures",
+        "text": "The series Working Papers on Economics is published by the Office for Economic Studies at the Banco de la República (Central Bank of Colombia).",
         "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/news/bdbr-notifies-updates-some-calendar",
+        "title": "The Board of Directors of Banco de la República notifies updates to some ...",
+        "text": "Monetary Policy Report: will be published on the second business day following the January, April, July, and October Board of Directors' meetings. Minutes: will ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/node/41689/printable/print",
+        "title": "Announcements are not Enough: Foreign Exchange Intervention ...",
+        "text": "In this paper we present a generalization that allows for imperfect credibility of foreign exchange intervention. Namely, market dealers know that the central ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/contenidos/updates-and-news",
+        "title": "Updates and news - Banco de la República",
+        "text": "Published: May 6, 2025. Monetary Policy Report: April 2025. Published: May 5, 2025. Effective rate 9.25% ... New! Economic Statistics Site, by Banco de la ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/news/report-board-directors-congress",
+        "title": "News and updates related with the Report of the Board of Directors to ...",
+        "text": "Here you can find the statements, news and updates regarding eport of the Board of Directors to the Congress of Colombia available on the site. Read more ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/taxonomy/term/5147",
+        "title": "Central Bank Announcements | Banco de la República",
+        "text": "Below are the contents available on the site related to the query. State-dependent Forward Guidance and the Problem of Inconsistent Announcements.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.banrep.gov.co/en/monetary-policy/communication-monetary-policy",
+        "title": "Communication of Monetary Policy | Banco de la República",
+        "text": "Communication is part of the implementation of monetary policy, as it explains the decisions made and contributes by guiding the agents' economic ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/node/27979",
+        "title": "Transparency: can central banks commit to truthful communication?",
+        "text": "Therefore, even if transparency is preferred over secrecy the central bank cannot credibly commit to truth-telling, in contrast to what is commonly assumed in ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/banco-republica-transforms-its-communication-scheme-monetary-policy-decisions",
+        "title": "Banco de la República transforms its Communication Scheme for ...",
+        "text": "The purpose of these changes is to facilitate the understanding of the decisions by the markets and the general public.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.banrep.gov.co/en/accountability-communication-and-transparency",
+        "title": "Accountability, Communication and Transparency",
+        "text": "Accountability, Communication and Transparency · The objectives of monetary policy are clearly established in the country's constitutional and legal framework.",
+        "listing_probability": 0.1
       }
     ]
   }

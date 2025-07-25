@@ -1,4 +1,125 @@
 {
   "Bank Name": "National Bank of Panama (Banco Nacional de Panamá)",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publicaciones",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banconal.com.pa/images/transparencia/DATOS_ABIERTOS_24/Julio/Informes/Informe_Sustantivo_Alvaro_Zuniga_CostaRica_10_12_Jun.pdf",
+                "title": "Untitled - Panamá - Banco Nacional",
+                "text": "Cisco. A sugerencia del fabricante Huawei, visitamos el IDC de uno de sus clientes el Banco Popular de Costa Rica que tiene.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "published_time": "2024-06-28T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banconal.com.pa/ (inurl:publicaciones OR inurl:informes) OR (intitle:publicaciones OR intitle:informes)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "estadísticas",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banconal.com.pa/wp-content/uploads/2024/09/datos-del-cliente-persona-natural.pdf",
+                "title": "Datos del Cliente Persona Natural | Banco Nacional de Panamá",
+                "text": "¿Es o ha sido en algún momento una Persona Políticamente Expuesta? / It is or was at one time a Politically Exposed Person? Entidad / Entity. Para uso del Banco. Representante Legal / Legal Representative. Nombre / Name. Dirección / Address. Teléfono / Phone Number. Cargo / Position held. Cargo / Position.",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banconal.com.pa/wp-content/uploads/2024/09/datos-del-cliente-persona-juridica.pdf",
+                "title": "Datos del Cliente Persona Jurídica | Banco Nacional de Panamá",
+                "text": "La traducción en ingles es únicamente para su información y fácil entendimiento. La versión en español de este documento constituye la versión dispositiva y jurídicamente vinculante y, en caso de cualquier inconsistencia con la traducción al ingles, la versión en español será la versión determinante.",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.banconal.com.pa/wp-content/uploads/2024/09/solicitud-de-pago-a-prestamo-por-plataforma.pdf",
+                "title": "PAGO A PRÉSTAMOS POR PLATAFORMA Fecha: N",
+                "text": "Cuotas vencidas / adelantadas. #. Fecha de cuota. Monto. Principal. Préstamo de consumo (Consolidación). Intereses. Mora. Seguro de vida. Impuesto seguro de vida. Seguro de incendio. Impuesto seguro de incendio. Seguro de desempleo. Impuesto seguro de desempleo. Prima devengada. F.E.C.I. Gastos extraordinarios.",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banconal.com.pa/ (inurl:estadísticas OR inurl:boletín OR inurl:datos) OR (intitle:estadísticas OR intitle:datos OR intitle:boletín)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "política_monetaria",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banconal.com.pa/politica-de-seguridad-de-la-informacion/",
+                "title": "Política de Seguridad de la Información - Banco Nacional de ...",
+                "text": "El Banco Nacional de Panamá tiene el compromiso de garantizar la confidencialidad, integridad y disponibilidad de la información de nuestros clientes, ...",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banconal.com.pa/wp-content/uploads/2024/12/9_5_ORGANIGRAMA_BNP_OCT_2020_2020_OCT.pdf",
+                "title": "junta directiva - Banco Nacional de Panamá",
+                "text": "OFICINA DE. FISCALIZACIÓN DE. LA CONTRALORIA. GENERAL DE LA. REPUBLICA. GERENCIA. GENERAL. COMITÉ. DIRECTIVO. DE CRÉDITO. GERENCIA. EJECUTIVA. DE ASESORÍA.",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banconal.com.pa/ (inurl:política OR inurl:regulaciones OR inurl:directrices) OR (intitle:política OR intitle:regulaciones)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "noticias",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.banconal.com.pa/categoria/noticias/",
+                "title": "Noticias archivos - Banco Nacional de Panamá",
+                "text": "Banco Nacional de Panamá se posiciona como referente en atracción y desarrollo de talento en el país · Explorando emociones en Casa Museo Banconal con la muestra ...",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.banconal.com.pa/categoria/noticias/page/4/",
+                "title": "Noticias archivos - Página 4 de 4 - Banco Nacional de Panamá",
+                "text": "Al cierre de septiembre, Banconal alcanzó una cartera total de B/. 8,015.5 millones, un crecimiento del 20% respecto al 2023, reafirmando su compromiso con ...",
+                "source": "Banco Nacional de Panamá",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEX////q7/Xa4usYTYgALXgALncAGnCzwdSNob0APX4AMXiQor4AM3l5kLJCY5QAOHtfeqPDzt03X5NHaZn4+/2er8cMRoRsh6wAI3QAKXYAQoOnutDY4OotVo17mLnj6vFphauFmbdObZtvj7S4xtirlksYAAAAnklEQVR4AbXJtREDMRAAQOmZmVnQf4tmC+fC33TR7bAj2Ol6/k8Qmhd58V+SGudksZDlRhZJKWSVfnXTCkXW6tkpUD9oN06eMC9r0im37YViOWas5KnC55XtjfO/KJgVEznK0ot+hwuq2ltCd/+fJsYQnqFMxyEcoFyjbGyg5DViFMptrqIKym7PjitCkJXlcG7sgBOzg4DZhZyj2zwBI+8QbHIPA0oAAAAASUVORK5CYII=",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.banconal.com.pa/ (inurl:noticias OR inurl:discursos OR inurl:prensa) OR (intitle:noticias OR intitle:discursos OR intitle:prensa)"
+          }
+        }
+      ]
+    }
+  ]
 }

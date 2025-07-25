@@ -5,14 +5,78 @@
       {
         "url": "https://www.nbc.org.kh/english/publications/annual_reports.php",
         "title": "NBC Annual Reports",
-        "text": null,
+        "text": "NBC Annual Reports, Payment System Annual Report, Financial Stability Review, Supervision Annual Reports, Commercial Bank's Annual Report, Specialized Bank's ...",
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.nbc.org.kh/english/publications/supervision_annual_reports.php",
-        "title": "Supervision Annual Reports",
-        "text": null,
-        "listing_probability": 0.98
+        "url": "https://www.nbc.org.kh/english/publications/other_reports.php",
+        "title": "Other Reports",
+        "text": "Reports include macroeconomic and banking sector development reports for 2023, 2022, 2020, 2019, and 2018, plus a 2014 foreign direct investment report.",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/publications/others.php",
+        "title": "Others",
+        "text": "About · Overview · Organization · Structure · Board of Directors · Branches · History · Careers at the NBC · Working at the NBC · Staff Data ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/publications/research_papers.php",
+        "title": "Research Papers",
+        "text": "Research papers include topics such as systemic risk monitoring, digital infrastructure, rural finances, sustainable rice farming, and the impact of the ...",
+        "listing_probability": 0.99
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.nbc.org.kh/english/publications/economic_and_monetary_statistics.php",
+        "title": "Economic and Monetary Statistics",
+        "text": "Economic & Monetary Statistics Bulletin No.376 -33nd Year, February 2025, 07-07-2025 ; Economic & Monetary Statistics Bulletin No.375 -33nd Year, January 2025",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "http://www.nbc.org.kh/english/economic_research/monetary_and_financial_statistics_data.php",
+        "title": "Monetary and Financial Statistics Data",
+        "text": "Financial Corporations Survey, 14-Jul-2025 ; Residential Property Price Index, 14-Jul-2025 ; Monthly Average Exchange Rate, 07-Jul-2025 ; End-Month Exchange Rate ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/economic_research/mfis_reports.php",
+        "title": "Data on MFI Sector",
+        "text": "Report on Profit and Loss Statement, 31-12-2023 ; Report on Net Profit, 31-12-2023 ; Report on Comparison of Total Deposits, 31-12-2023 ; Report on Total Deposits ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/economic_research/balance_of_payment_data.php",
+        "title": "Balance of Payment Data",
+        "text": "Capital Account, 26-05-2025 ; Financial Account, 26-05-2025 ; International Investment Position, 26-05-2025 ; Gross External Debt Position by Sector, 26-05-2025.",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.nbc.org.kh/english/supervision/regulatory_policy_and_risk_assessment.php",
+        "title": "Regulatory Policy and Risk Assessment Department",
+        "text": "Regulatory Policy and Risk Assessment Department (RPRA) performs key duties and functions: i/-to prepare, consult, and advise on the implementation of ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/monetary_policy/monetary_policy_committee.php",
+        "title": "Monetary Policy Committee",
+        "text": "The Monetary Policy Committee assesses economic developments and makes monetary policy decisions to maintain price stability, meeting six times a year.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/monetary_policy/exchange_rate_policy.php",
+        "title": "Exchange Rate Policy",
+        "text": "The National Bank of Cambodia's exchange rate policy is one of the key tools in the NBC's monetary policy. The objective is to achieve price stability.",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -23,13 +87,47 @@
         "url": "https://www.nbc.org.kh/english/news_and_events/speeches.php",
         "title": "Speeches",
         "text": "Remarks by HE Dr. Chea Serey, Governor of the National Bank of Cambodia at the Official Launching Ceremony of Cross-Border QR Code Payment.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.nbc.org.kh/english/news_and_events/news.php",
         "title": "All News",
         "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
-        "listing_probability": 0.99
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nbc.org.kh/english/news_and_events/press_releases.php",
+        "title": "Press Releases",
+        "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.nbc.org.kh/english/publications/research_papers.php",
+        "title": "Research Papers",
+        "text": "Research Papers, Macro conference, Other Research Papers, Working Papers, Other Reports, CAFIU, About, Overview, Organization Structure, Board of Directors, ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.nbc.org.kh/english/news_and_events/announcements.php",
+        "title": "Announcements",
+        "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nbc.org.kh/news_and_events/announcements.php",
+        "title": "សេចក្តីជូនដំណឹង - ធនាគារ ជាតិ",
+        "text": "សេចក្តីជូនដំណឹង​ ស្តី​ពី​ លទ្ធផលនៃការដេញថ្លៃមូលបត្រអាចជួញដូរបាន(NCD) · ខេមរភាសា ១៧ កក្កដា ២០២៥. សេចក្តីជូនដំណឹង ស្តីពី លទ្ធផលនៃការដេញថ្លៃប្រតិបត្តិការផ្តល់សន្ទនីយភាពដោយមានការធានា (LPCO) លើកទី២២៩",
+        "listing_probability": 0.95
       }
     ]
   }

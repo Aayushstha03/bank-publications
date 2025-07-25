@@ -10,9 +10,8 @@
               {
                 "url": "https://www.nbc.org.kh/english/publications/annual_reports.php",
                 "title": "NBC Annual Reports",
-                "source": "www.nbc.org.kh",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.nbc.gov.kh/download_files/publication/annual_rep_cover_eng/NBC%20Annual%20Report%202023%20Eng_Cover.jpg",
+                "text": "NBC Annual Reports, Payment System Annual Report, Financial Stability Review, Supervision Annual Reports, Commercial Bank's Annual Report, Specialized Bank's ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
                 "sublinks": [
                   {
                     "title": "Supervision Annual Reports",
@@ -34,20 +33,51 @@
                 "position": 1
               },
               {
-                "url": "https://www.nbc.org.kh/english/publications/supervision_annual_reports.php",
-                "title": "Supervision Annual Reports",
-                "source": "www.nbc.org.kh",
-                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.nbc.gov.kh/download_files/supervision/sup_an_rep_cover_eng/BankingSupervision_AR_2021_EN_Cover.jpg",
+                "url": "https://www.nbc.org.kh/english/publications/other_reports.php",
+                "title": "Other Reports",
+                "text": "Reports include macroeconomic and banking sector development reports for 2023, 2022, 2020, 2019, and 2018, plus a 2014 foreign direct investment report.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
                 "position": 2
               },
               {
-                "url": "https://www.nbc.org.kh/english/publications/supervision_annual_reports.php",
-                "title": "Supervision Annual Reports",
+                "url": "https://www.nbc.org.kh/english/publications/others.php",
+                "title": "Others",
+                "text": "About · Overview · Organization · Structure · Board of Directors · Branches · History · Careers at the NBC · Working at the NBC · Staff Data ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/publications/research_papers.php",
+                "title": "Research Papers",
+                "text": "Research papers include topics such as systemic risk monitoring, digital infrastructure, rural finances, sustainable rice farming, and the impact of the ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/publications/annual_reports.php",
+                "title": "NBC Annual Reports",
                 "source": "www.nbc.org.kh",
                 "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.nbc.gov.kh/download_files/supervision/sup_an_rep_cover_eng/BankingSupervision_AR_2022_EN_Cover.jpg",
-                "position": 3
+                "image": "https://www.nbc.gov.kh/download_files/publication/annual_rep_cover_eng/NBC%20Annual%20Report%202023%20Eng_Cover.jpg",
+                "sublinks": [
+                  {
+                    "title": "Supervision Annual Reports",
+                    "url": "https://www.nbc.gov.kh/english/publications/supervision_annual_reports.php"
+                  },
+                  {
+                    "title": "Commercial Bank's Annual...",
+                    "url": "https://www.nbc.gov.kh/english/publications/commercial_bank_annual_report.php"
+                  },
+                  {
+                    "title": "Payment Systems Annual Report",
+                    "url": "https://www.nbc.gov.kh/english/publications/payment_system_annual_reports.php"
+                  },
+                  {
+                    "title": "Financial Stability Review",
+                    "url": "https://www.nbc.gov.kh/english/publications/fsr.php"
+                  }
+                ],
+                "position": 5
               }
             ]
           },
@@ -57,7 +87,109 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://www.nbc.org.kh/english/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://www.nbc.org.kh/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbc.org.kh/english/publications/economic_and_monetary_statistics.php",
+                "title": "Economic and Monetary Statistics",
+                "text": "Economic & Monetary Statistics Bulletin No.376 -33nd Year, February 2025, 07-07-2025 ; Economic & Monetary Statistics Bulletin No.375 -33nd Year, January 2025",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 1
+              },
+              {
+                "url": "http://www.nbc.org.kh/english/economic_research/monetary_and_financial_statistics_data.php",
+                "title": "Monetary and Financial Statistics Data",
+                "text": "Financial Corporations Survey, 14-Jul-2025 ; Residential Property Price Index, 14-Jul-2025 ; Monthly Average Exchange Rate, 07-Jul-2025 ; End-Month Exchange Rate ...",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAflBMVEVHcEzruivxz2ry0m/45q7uwDbptRnqtyLxzWDquCP02Ib12ovtwT3uwjzvxkrxzmLvx1LsuiHruSHtvi/025X////12YX23pX9/Pjz1Xjz0nD34Z7s7Or6677wyVLg4Nz++ObvxUPsuyT88c/m5uLrtQL09PPc3NjZ2dTX19LjIXaxAAAAFXRSTlMAUJrN/vwhEP432OiEceesXtKWuKZaPbEyAAABkElEQVQokXWT6XqrIBCGNYJi1Gw9zLAIAm7p/d/gAZP0sW3KL5j3+WYny3anqqrsj1NdCji15VtUHxqFoM75b3XVFQhsBIXHtv7BynPDAJgDBkwW+Xf2gRqkQk6UkqhPe1qdIaC24LggVmrrm3rHnGYejVh6wUfNKIzHL5oXOGqPgk/3aeHGqhHV7SU8BEvAOL6s62fPxYgg5+tTemmUD8pxPg3DJHiMGwKDQ/UQagPMRGOEMSjnTipiHlGrD6sQeYKf67DECx+lZI9yyus8U5Ng308xZrqxeZ7b5LeWKKVLNr70w5D8Cg0ARRpBjYY8Yb+u0wNG2zHB8mQ92+AyrOvmlgO1/lZtfWVSky2h+zRs0MUZ0MurFLRJ2t+HTSmQvUqJTZCeaZfS3UoRJr6fTcjKW1CEyDFpYjpOSwPh1b6sLjSxszJCjI47DAEMdF8z6xLTEiD2SiLQoP/t9uxyVYZ46oOnUYb0+w7WR2RUMW9V8NC0Pzasbk+RxeIle7OcNWVdfujywt7erP3zK+x/xH8rHCvBHJxAeQAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "http://www.nbc.org.kh/english/publications/economic_and_monetary_statistics.php?page=2",
+                "title": "Economic and Monetary Statistics",
+                "text": "Economic & Monetary Statistics Bulletin No.363 -32nd Year, January 2024, 26-04-2024 ; Economic & Monetary Statistics Bulletin No.362 -31st Year, December 2023",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAflBMVEVHcEzruivxz2ry0m/45q7uwDbptRnqtyLxzWDquCP02Ib12ovtwT3uwjzvxkrxzmLvx1LsuiHruSHtvi/025X////12YX23pX9/Pjz1Xjz0nD34Z7s7Or6677wyVLg4Nz++ObvxUPsuyT88c/m5uLrtQL09PPc3NjZ2dTX19LjIXaxAAAAFXRSTlMAUJrN/vwhEP432OiEceesXtKWuKZaPbEyAAABkElEQVQokXWT6XqrIBCGNYJi1Gw9zLAIAm7p/d/gAZP0sW3KL5j3+WYny3anqqrsj1NdCji15VtUHxqFoM75b3XVFQhsBIXHtv7BynPDAJgDBkwW+Xf2gRqkQk6UkqhPe1qdIaC24LggVmrrm3rHnGYejVh6wUfNKIzHL5oXOGqPgk/3aeHGqhHV7SU8BEvAOL6s62fPxYgg5+tTemmUD8pxPg3DJHiMGwKDQ/UQagPMRGOEMSjnTipiHlGrD6sQeYKf67DECx+lZI9yyus8U5Ng308xZrqxeZ7b5LeWKKVLNr70w5D8Cg0ARRpBjYY8Yb+u0wNG2zHB8mQ92+AyrOvmlgO1/lZtfWVSky2h+zRs0MUZ0MurFLRJ2t+HTSmQvUqJTZCeaZfS3UoRJr6fTcjKW1CEyDFpYjpOSwPh1b6sLjSxszJCjI47DAEMdF8z6xLTEiD2SiLQoP/t9uxyVYZ46oOnUYb0+w7WR2RUMW9V8NC0Pzasbk+RxeIle7OcNWVdfujywt7erP3zK+x/xH8rHCvBHJxAeQAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/economic_research/mfis_reports.php",
+                "title": "Data on MFI Sector",
+                "text": "Report on Profit and Loss Statement, 31-12-2023 ; Report on Net Profit, 31-12-2023 ; Report on Comparison of Total Deposits, 31-12-2023 ; Report on Total Deposits ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/economic_research/balance_of_payment_data.php",
+                "title": "Balance of Payment Data",
+                "text": "Capital Account, 26-05-2025 ; Financial Account, 26-05-2025 ; International Investment Position, 26-05-2025 ; Gross External Debt Position by Sector, 26-05-2025.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbc.org.kh/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbc.org.kh/english/supervision/regulatory_policy_and_risk_assessment.php",
+                "title": "Regulatory Policy and Risk Assessment Department",
+                "text": "Regulatory Policy and Risk Assessment Department (RPRA) performs key duties and functions: i/-to prepare, consult, and advise on the implementation of ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/about_the_bank/privacy_policy.php",
+                "title": "Privacy Policy",
+                "text": "This Policy applies to the use or the management of all information, data, and communications made via, received by, or developed through the NBC's Site.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbc.org.kh/download_files/publication/itguideline_eng/NBC-Risk-Management-Guidelines-July%202019.pdf",
+                "title": "Te R M G ech Risk Mana Guid nolo agem elin ogy men nes nt",
+                "text": "List of Acronyms ..................................................................................................................... 4. Introduction .",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/monetary_policy/monetary_policy_committee.php",
+                "title": "Monetary Policy Committee",
+                "text": "The Monetary Policy Committee assesses economic developments and makes monetary policy decisions to maintain price stability, meeting six times a year.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/monetary_policy/exchange_rate_policy.php",
+                "title": "Exchange Rate Policy",
+                "text": "The National Bank of Cambodia's exchange rate policy is one of the key tools in the NBC's monetary policy. The objective is to achieve price stability.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations ppt",
+            "Policy regulations guidelines policy regulations pdf"
+          ],
+          "query": {
+            "q": "site:https://www.nbc.org.kh/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -83,16 +215,125 @@
                 "position": 2
               },
               {
+                "url": "https://www.nbc.org.kh/english/news_and_events/press_releases.php",
+                "title": "Press Releases",
+                "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 3
+              },
+              {
                 "url": "https://www.nbc.org.kh/english/news_and_events/news.php?page=85",
                 "title": "All News",
                 "text": "Official Launch of “Financial Sector Development Strategy 2011-2020” Presided Over by Deputy Prime Minister KEAT CHHON, Minister of Economy and Finance High ...",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/news.php?page=27",
+                "title": "All News",
+                "text": "Quarterly Bulletin, 2nd Quarter No.67, 2021. 2022-01-21. Quarterly Bulletin, 1st Quarter No.66, 2021. 2022-01-21. Economic & Monetary Statistics No.335 ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf"
+          ],
+          "query": {
+            "q": "site:https://www.nbc.org.kh/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbc.org.kh/english/publications/research_papers.php",
+                "title": "Research Papers",
+                "text": "Research Papers, Macro conference, Other Research Papers, Working Papers, Other Reports, CAFIU, About, Overview, Organization Structure, Board of Directors, ...",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/news_info.php?id=184",
+                "title": "Delegates from the ASEAN+3 Macroeconomic Research Office pay ...",
+                "source": "www.nbc.org.kh",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "http://www.nbc.gov.kh/images/news/large/1024Meeting-between-H.E-Chea-Chanto-and-Dr-Yoichi-Nemoto-01.jpg",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbc.org.kh/download_files/research_papers/english/Agriculture_Financing_in_English_VENG.pdf",
+                "title": "RESEARCH PAPER ON AGRICULTURE FINANCING",
+                "source": "www.nbc.org.kh",
+                "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbc.org.kh&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///4e344e115f828d43cd3427c0519bd880cdcb2f3f4ecd09ea6fa17c448451391d",
                 "position": 3
               }
             ]
           },
+          "related": [
+            "Research working papers papers research working papers ') pdf",
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2020"
+          ],
           "query": {
-            "q": "site:https://www.nbc.org.kh/english/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.nbc.org.kh/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/announcements.php",
+                "title": "Announcements",
+                "text": "All news, announcements, speeches, press releases, public holidays, legislation, laws applicable to banks and financial institutions.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/announcements_info.php?id=36",
+                "title": "Announcement on NBC Online Banking System",
+                "text": "Announcement on NBC Online Banking System. 2016-01-06. Download announcement. Download Application Form for NBCOBS.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbc.org.kh/english/news_and_events/announcements_info.php?id=38",
+                "title": "| Announcements",
+                "text": "Home · News · Announcements. Announcements. Home · Site Map · About NBC · News · Legislation · Monetary Policy · Supervision · Payment Systems.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbc.org.kh/news_and_events/announcements.php",
+                "title": "សេចក្តីជូនដំណឹង - ធនាគារ ជាតិ",
+                "text": "សេចក្តីជូនដំណឹង​ ស្តី​ពី​ លទ្ធផលនៃការដេញថ្លៃមូលបត្រអាចជួញដូរបាន(NCD) · ខេមរភាសា ១៧ កក្កដា ២០២៥. សេចក្តីជូនដំណឹង ស្តីពី លទ្ធផលនៃការដេញថ្លៃប្រតិបត្តិការផ្តល់សន្ទនីយភាពដោយមានការធានា (LPCO) លើកទី២២៩",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbc.org.kh/news_and_events/announcements.php?page=7",
+                "title": "សេចក្តីជូនដំណឹង - ធនាគារ ជាតិ",
+                "text": "សេចក្តីណែនាំ លើការអនុវត្តឧបករណ៍ផ្តល់សន្ទនីយភាពរយៈពេលខ្លី (Marginal Lending Facility-MLF) · ខេមរភាសា ១៣ មីនា ២០២៥ ; សេចក្តីណែនាំ លើការអនុវត្តប្រតិបត្តិការ ផ្តល់សន្ទនីយភាពដោយមានការធានា (LPCO) · ខេមរភាសា ១៣ មីនា ២០២៥.",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=nbc.org.kh",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.nbc.org.kh/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
           }
         }
       ]

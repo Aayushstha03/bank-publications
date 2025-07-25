@@ -18,27 +18,45 @@
               {
                 "url": "https://www.bma.bm/publications/annual-reports",
                 "title": "Annual Reports by the Bermuda Monetary Authority - BMA",
-                "source": "Bermuda Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bma.bm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://cdn.bma.bm/caches/292x372/2025-06-02-10-23-14-BMA-2024-Annual-Report-Thumbnail-292x372.png",
+                "text": "View annual reports comprising financial highlights, statistics and more that are released by the Bermuda Monetary Authority every year.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://www.bma.bm/publications/bma-surveys",
-                "title": "Survey Reports by Bermuda Monetary Authority - BMA",
-                "source": "Bermuda Monetary Authority",
-                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bma.bm&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://cdn.bma.bm/caches/292x372/2025-03-24-13-53-25-BMA-Captive-Report-2023.png",
+                "url": "https://www.bma.bm/publications/quarterly-banking-digest",
+                "title": "Quarterly Banking Digest - BMA - Bermuda Monetary Authority",
+                "text": "View the quarterly banking digest comprising of banking insights & performance highlights determined by comprehensive elements of the balance sheet and ...",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.bma.bm/publications/regulatory-updates",
+                "title": "Regulatory Updates - BMA - Bermuda Monetary Authority",
+                "text": "This section consists of the recent as well as previous quarterly regulatory updates basis published by the BMA. You can View or download the files from ...",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bma.bm/publications/business-plan",
+                "title": "Business Plan - BMA - Bermuda Monetary Authority",
+                "text": "View or download the .pdf document comprising the business plans formulated by the Bermuda Monetary Authority for all the major industries.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
             "Publications reports publications reports pdf",
-            "Publications reports publications reports 2022"
+            "Publications reports publications reports free",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:http://www.bma.bm/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bma.bm/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -66,23 +84,39 @@
                 "position": 2
               },
               {
+                "url": "https://www.bma.bm/viewPDF/documents/2025-06-25-09-16-01-Q1-2025-Investment-Fund-Statistics.pdf",
+                "title": "Q1-2025 Investment Fund Statistics",
+                "text": "*Overseas funds are not subject to the Authority's supervision and regulation, rather they are subject to the laws and regulations in their home country.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
                 "url": "https://www.bma.bm/viewPDF/documents/2025-03-26-10-23-07-Insurance-Registration-Statistics---February-2025.pdf",
                 "title": "Insurance Registration Statistics February 2025",
                 "text": "As required by the Insurance Act 1978, the Bermuda Monetary Authority (Authority) maintains a register of licensed entities.",
                 "source": "bma.bm",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
                 "published_time": "2025-02-18T00:00:00",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://www.bma.bm/viewPDF/documents/2024-11-21-10-24-20-October-2024-Insurance-Registration-Statistics.pdf",
+                "title": "Insurance Registration Statistics October 2024",
+                "text": "As required by the Insurance Act 1978, the Bermuda Monetary Authority (Authority) maintains a register of licensed entities.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "published_time": "2024-10-25T00:00:00",
+                "position": 5
               }
             ]
           },
           "related": [
             "Statistics bulletin data statistics data bulletin pdf",
-            "Statistics bulletin data statistics data bulletin 2022",
-            "Statistics bulletin data statistics data bulletin 2021"
+            "Statistics bulletin data statistics data bulletin 2022"
           ],
           "query": {
-            "q": "site:http://www.bma.bm/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.bma.bm/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -116,11 +150,27 @@
                 "source": "bma.bm",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://www.bma.bm/policy-guidance",
+                "title": "Policy and Guidance of AML/ATF in Bermuda - BMA",
+                "text": "These Regulations impose a significantly detailed set of obligations on affected AML/ATF regulated financial institutions relating to customer due diligence.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://www.bma.bm/document-centre/policy-and-guidance-market-conduct",
+                "title": "Market Conduct - Policy And Guidance - BMA",
+                "text": "View or download the detailed Policy And Guidance on Bermuda's Market Conduct. If you're looking for a specific paper, use the filter for quick results.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://www.bma.bm/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:http://www.bma.bm/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -140,12 +190,12 @@
                 "position": 1
               },
               {
-                "url": "https://www.bma.bm/news-and-press-releases/press-release-bma-earns-prestigious-international-accolades",
-                "title": "Press Release - BMA Earns Prestigious International Accolades",
-                "text": "The BMA announced it has received multiple international recognitions by earning the prestigious LEED® certification in green building design for BMA House.",
+                "url": "https://www.bma.bm/news-and-press-releases/press-release-bermuda-monetary-authority-releases-new-2-and-5-banknotes-printed-on-polymer",
+                "title": "Bermuda Monetary Authority Releases New 2 and 5 Banknotes ...",
+                "text": "Aimed at educating the general public about the new banknotes, the 'Same look, Smarter design' campaign is set to begin on 30 October 2024. The ...",
                 "source": "bma.bm",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
-                "published_time": "2025-07-04T00:00:00",
+                "published_time": "2024-10-30T00:00:00",
                 "position": 2
               },
               {
@@ -156,16 +206,82 @@
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
                 "published_time": "2025-02-03T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bma.bm/news-and-press-releases/press-release-the-bermuda-monetary-authority-publishes-its-2025-business-plan",
+                "title": "The Bermuda Monetary Authority Publishes Its 2025 Business Plan",
+                "text": "The Bermuda Monetary Authority (Authority or BMA) has released its Business Plan for 2025. This plan outlines the BMA's commitments to enhancing Bermuda's ...",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "published_time": "2025-01-16T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bma.bm/news-and-press-releases/the-bermuda-monetary-authority-and-white-rock-bermuda-jointly-agree-to-take-action-to-address-alleged-fraud-at-vesttoo",
+                "title": "The Bermuda Monetary Authority and White Rock Bermuda Jointly Agree ...",
+                "text": "White Rock Bermuda today jointly agreed to a course of action in the Supreme Court of Bermuda that will focus on pursuing maximum recovery for the (re)insureds ...",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "published_time": "2023-08-18T00:00:00",
+                "position": 5
               }
             ]
           },
-          "related": [
-            "News speeches press news speeches press today",
-            "News speeches press news speeches press pdf",
-            "News speeches press news speeches press 2022"
-          ],
           "query": {
-            "q": "site:http://www.bma.bm/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.bma.bm/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bma.bm/publications/regulatory-updates",
+                "title": "Regulatory Updates - BMA - Bermuda Monetary Authority",
+                "text": "REGULATORY UPDATES ; Regulatory Update January - March 2025. Uploaded on 2 May 2025 ; Regulatory Update October - December 2024. Uploaded on 27 January 2025.",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://www.bma.bm/viewPDF/documents/2023-11-30-10-40-19-Stakeholder-Letter---Consultation-Paper--Updates-to-Proposed-Enhancements-to-the-Regulatory-Regime-for-Commercial-Insurers.pdf",
+                "title": "Stakeholder Letter - Bermuda Monetary Authority",
+                "text": "The Bermuda Monetary Authority (Authority or BMA) would like to thank its stakeholders for their continued engagement and support in ...",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "published_time": "2023-11-30T00:00:00",
+                "position": 2
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bma.bm/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bma.bm/notices",
+                "title": "Notices - Bermuda Monetary Authority",
+                "text": "NOTICES ; Notice - Insurance - IALC - Cup Match Holiday 2025. 9 July 2025 ; Notice - Joint Provisional Liquidators of Custodian Life Limited. 2 July 2025 ; Notice ...",
+                "source": "bma.bm",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEUaLloGIlMAH1EAHVAQJ1YXLFkAG095gpfO09vAxdBRXHkUKlgQJlS6wMuhqLhhbospOGCWna4AF01veI8AAESrsb+yt8QkNV6JkqYADEhMW3xkbYZqdpGEjqJZZoKTmqyBiZ6Pmq41RGcaL1pUY4LV2+JtfJcAEkxIVXU/TW4AHE8xP2Xr7fD7/P0kO2fg4+jxTv+RAAABIElEQVR4AcXRNYLDMBAFUFvMYGZSOAv3v9262XDqTPf1xBN9umIA0RvChDIuIH5lUmljnfbJC0WOp8qCLC/Ak8qSV7XwtWiqAj4i0K3rej7YuPbjgxLvEzXNfl6CBEyoW5ML3wyWmu1ut9lVOx3j24VFS9SeVrMvS28Mp/HVcMn3QR3sMB/TMULNUZ+uqOx4QscudnZvqD7iuljkBaERyWGGsNycjakChtV03Zdw102l6yv9xQ9uh5HQ5PpIfuQHVI7s2xCEzjscOLhuy+gORT/2N6/XJM87wG+3Dfws2W86qDUFFDp2RSRY7vv1cRag+LSPPBvQbUv6IvcVrQ4D9bnuQ3zXaECc6PNCF6Y7A4BvKYQo4HXHhCQQ4TWsAx+qP7HIFlWMXOwWAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.bma.bm/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
           }
         }
       ]

@@ -2,6 +2,66 @@
   "Bank Name": "Bank of Japan",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.or.jp/en/research/brp/index.htm",
+                "title": "BOJ Reports & Research Papers : 日本銀行 Bank of Japan",
+                "text": "The latest releases of reports and research papers. Financial System Report. The Financial System Report is published biannually with two objectives: to present ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.or.jp/en/about/calendar/kanklist.htm",
+                "title": "List of Publications : 日本銀行 Bank of Japan",
+                "text": "The Bank of Japan's public relations magazine containing articles on the Bank's business operations and history, information gathered through the Bank's office ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.or.jp/en/research/rs_all/index.htm",
+                "title": "List of Reports & Research Papers List by Year - 日本銀行",
+                "text": "List of Reports & Research Papers List by Year ; 2025 · 2024 · 2023 · 2022 · 2021 ; 2020 · 2019 · 2018 · 2017 · 2016 ; 2015 · 2014 · 2013 · 2012 · 2011.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/research/rs_all_2023/index.htm",
+                "title": "List of Reports & Research Papers 2023 : 日本銀行 Bank of Japan",
+                "text": "Table :List of Reports & Research Papers 2023 List (excluding Research Papers Released by IMES). Date, Dec. 21, 2023. Author, ABE Nobuhiro, KAWASUMI Yusuke, ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/research/rs_all_2024/index.htm",
+                "title": "List of Reports & Research Papers 2024 : 日本銀行 Bank of Japan",
+                "text": "The Bank of Japan released reports in 2024, including 'Impact of the Fund-Provisioning Measure' and 'Assessing the Long-Term Impact of Monetary Policy'.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list",
+            "Publications reports publications reports 2022",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.boj.or.jp/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "statistics",
       "search_result": [
         {
@@ -30,6 +90,22 @@
                 "source": "日本銀行ホームページ",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/statistics/sj/index.htm",
+                "title": "Flow of Funds : 日本銀行 Bank of Japan",
+                "text": "Overview of Japan, US, and the Euro area Note: The overview is renewed once a year after the Flow of Funds Accounts is released in June.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/statistics/set/kess/index.htm",
+                "title": "Payment and Settlement Statistics : 日本銀行 Bank of Japan",
+                "text": "Report market operations in each fiscal year, payment and settlement systems, report regional economic report.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -38,7 +114,98 @@
             "Statistics bulletin data statistics data bulletin 2022"
           ],
           "query": {
-            "q": "site:http://www.boj.or.jp/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:http://www.boj.or.jp/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.or.jp/en/mopo/outline/index.htm",
+                "title": "Outline of Monetary Policy : 日本銀行 Bank of Japan",
+                "text": "At MPMs, the Policy Board discusses the economic and financial situation, decides the guideline for money market operations and the Bank's monetary policy ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.or.jp/en/mopo/index.htm",
+                "title": "Monetary Policy : 日本銀行 Bank of Japan",
+                "text": "Outline of Monetary Policy · Monetary Policy Meetings · Monetary Policy Releases · Monetary Policy Measures · Outlook for Economic Activity and Prices · Reports to ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "sublinks": [
+                  {
+                    "title": "Outline of Monetary",
+                    "url": "https://www.boj.or.jp/en/mopo/outline/index.htm"
+                  },
+                  {
+                    "title": "Monetary Policy Releases",
+                    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm"
+                  },
+                  {
+                    "title": "Review of Monetary Policy...",
+                    "url": "https://www.boj.or.jp/en/mopo/outline/bpreview/index.htm"
+                  },
+                  {
+                    "title": "Price Stability Target of 2 Percent",
+                    "url": "https://www.boj.or.jp/en/mopo/outline/target.htm"
+                  },
+                  {
+                    "title": "Meetings",
+                    "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+                  },
+                  {
+                    "title": "Summary of Opinions",
+                    "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2025/index.htm"
+                  },
+                  {
+                    "title": "Outlook for Economic Activity",
+                    "url": "https://www.boj.or.jp/en/mopo/outlook/index.htm"
+                  }
+                ],
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.or.jp/en/about/organization/policyboard/index.htm",
+                "title": "Policy Board : 日本銀行 Bank of Japan",
+                "text": "The Policy Board is established as the Bank's highest decision-making body. The Board determines the guideline for currency ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+                "title": "Monetary Policy Meetings : 日本銀行 Bank of Japan",
+                "text": "A list of scheduled dates of the meetings; policy statements; minutes of the meetings; and the Outlook for Economic Activity and Prices (the Outlook Report).",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250124a.pdf",
+                "title": "1 January 24, 2025 Bank of Japan Change in the Guideline for Money ...",
+                "text": "At the Monetary Policy Meeting (MPM) held today, the Policy Board of the Bank of Japan decided, by an 8-1 majority vote, to set the ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "published_time": "2025-01-24T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2021",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.boj.or.jp/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -52,9 +219,39 @@
               {
                 "url": "https://www.boj.or.jp/en/about/press/index.htm",
                 "title": "Speeches and Statements : 日本銀行 Bank of Japan",
-                "text": "Summaries of speeches and public statements made by the Bank's officers. Speeches. Latest Speeches. Table : Latest Speeches. Date, July 23, 2025. Speaker ...",
+                "text": "Latest Speeches ; July 23, 2025, UCHIDA Shinichi, Deputy Governor, \"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Kochi) ; July ...",
                 "source": "日本銀行ホームページ",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "sublinks": [
+                  {
+                    "title": "Speeches 2024",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_2024/index.htm"
+                  },
+                  {
+                    "title": "Speeches by speaker",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_speaker/index.htm"
+                  },
+                  {
+                    "title": "Speeches 2023",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_2023/index.htm"
+                  },
+                  {
+                    "title": "Speeches 2021",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_2021/index.htm"
+                  },
+                  {
+                    "title": "Speeches 2022",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_2022/index.htm"
+                  },
+                  {
+                    "title": "2025",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_2025/index.htm"
+                  },
+                  {
+                    "title": "List by Year",
+                    "url": "https://www.boj.or.jp/en/about/press/koen_all/index.htm"
+                  }
+                ],
                 "position": 1
               },
               {
@@ -72,6 +269,22 @@
                 "source": "日本銀行ホームページ",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
                 "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/whatsnew/index.htm",
+                "title": "News List : 日本銀行 Bank of Japan",
+                "text": "Jan. 31, 2025 Financial SystemSpeech by Exective Director KOUGUCHI Hirohide at the CAFT Workshop(How Will Digitalization Change Japan's Financial Services and ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/about/press/koen_speaker/index.htm",
+                "title": "Speeches by speaker : 日本銀行 Bank of Japan",
+                "text": "Speeches by speaker · Governor · Deputy Governors · Members of the Policy Board · Assistant Governor and Executive Directors · Former Officers ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
@@ -81,7 +294,7 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:http://www.boj.or.jp/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://www.boj.or.jp/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -101,21 +314,36 @@
                 "position": 1
               },
               {
-                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/index.htm",
-                "title": "Bank of Japan Working Paper Series 2024 - 日本銀行",
-                "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2017/data/wp17e02.pdf",
+                "title": "Structural Reforms, Innovation and Economic Growth",
+                "text": "Papers in the Bank of Japan Working Paper Series are circulated in order to stimulate discussion and comments. The views expressed in this ...",
                 "source": "日本銀行ホームページ",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e20.htm",
-                "title": "Firms' Interest Payment Burden and Productivity under a Low ... - 日本銀行",
-                "text": "Papers in the Bank of Japan Working Paper Series are circulated to stimulate discussion and comment. Views expressed are those of the authors ...",
+                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/index.htm",
+                "title": "Bank of Japan Working Paper Series 2024 - 日本銀行",
+                "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
                 "source": "日本銀行ホームページ",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
-                "published_time": "2024-12-26T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2021/index.htm",
+                "title": "Bank of Japan Working Paper Series 2021 - 日本銀行",
+                "text": "Research Papers, Reports, Speeches and Statements Related to Banknotes, Treasury Funds and JGS Services",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2018/data/wp18e19.pdf",
+                "title": "What Drives China's Growth? Evidence from Micro-level Data",
+                "source": "www.boj.or.jp",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///a99b699ef7d3a2d982205450509a23de634d040fee1f1dcc819370678e7d8d51",
+                "position": 5
               }
             ]
           },
@@ -126,7 +354,169 @@
             "Research working papers papers research working papers ') 2020"
           ],
           "query": {
-            "q": "site:http://www.boj.or.jp/en/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://www.boj.or.jp/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.or.jp/en/about/press/index.htm",
+                "title": "Speeches and Statements : 日本銀行 Bank of Japan",
+                "text": "Summaries of speeches and public statements made by the Bank's officers. Speeches. Latest Speeches. Table : Latest Speeches. Date, July 23, 2025. Speaker ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.or.jp/en/announcements/education/oshiete/seisaku/b37.htm/",
+                "title": "What is the Complementary Deposit Facility? : 日本銀行 Bank of Japan",
+                "text": "Under the Complementary Deposit Facility, the Bank applies interest rates to financial institutions' excess reserves.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.or.jp/en/announcements/education/oshiete/seisaku/b42.htm/",
+                "title": "How have the Bank's guidelines for market operations changed?",
+                "text": "In March 2024, the Bank decided to change the monetary policy framework and to set the uncollateralized overnight call rate as the policy interest rate. Since ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/statistics/outline/notice_2018/not180328a.htm",
+                "title": "Updates of the Guides to Flow of Funds Accounts - Statistics - 日本銀行",
+                "text": "The \"Guide to Japan's Flow of Funds Accounts\" and \"Compilation Method of Japan's Flow of Funds Accounts\" were updated and posted on this website.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/announcements/education/oshiete/intl/index.htm",
+                "title": "International Activities : 日本銀行 Bank of Japan",
+                "text": "International Activities · What are the major international forums in which the Bank participates? · How are foreign currency assets held by the Bank managed?",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.or.jp/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.or.jp/en/statistics/outline/notice_all/index.htm",
+                "title": "Notices of Changes and Corrections List by Year : 日本銀行 Bank of Japan",
+                "text": "Notices of Changes and Corrections List by Year ; 2025 · 2024 · 2023 · 2022 · 2021 ; 2020 · 2019 · 2018 · 2017 · 2016 ; 2015 · 2014 · 2013 · 2012 · 2011.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.or.jp/en/statistics/outline/general_notice/index.htm",
+                "title": "Notices of Changes and Revisions of Statistics : 日本銀行 Bank of Japan",
+                "text": "Outline of Statistics and Statistical Release Schedule, Notices of Changes and Corrections, Explanations of Statistics, Notices of Changes and Revisions Notes",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.or.jp/en/statistics/outline/notice_2021/index.htm",
+                "title": "Notices of Changes and Corrections 2021 : 日本銀行 Bank of Japan",
+                "text": "Notices of Changes and Corrections 2021 ; Sept. 10, 2021 · Revision of Data in \"Regular Derivatives Market Statistics in Japan\" · Aug. 31, 2021 · Changes in Items ...",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/about/pr_events/other/index.htm",
+                "title": "Other Notices : 日本銀行 Bank of Japan",
+                "text": "Public Relations Services ; Jan. 4, 2018 · Bank of Japan Launches Facebook Page · May 29, 2017 · Updated and Increased Bank of Japan FAQs · Nov. 17, 2015.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/statistics/outline/notice_2025/index.htm",
+                "title": "Notices of Changes and Corrections 2025 : 日本銀行 Bank of Japan",
+                "text": "Notices of Changes and Corrections 2025 ; July 14, 2025 · Alteration in \"Bank of Japan Accounts (Every Ten Days)\" · July 11, 2025 · Revision of \"Monetary Survey\".",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.or.jp/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2008/data/wp08e10.pdf",
+                "title": "Central bank's two-way communication with the public and ...",
+                "source": "www.boj.or.jp",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///23ffc2a82de67ed69d5bfd313c8c66f4310803aba2b3927c2257cf1ed50cbe38",
+                "position": 1
+              },
+              {
+                "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2008/k080715b.pdf",
+                "title": "Further Enhancement of Communication Strategy under the ...",
+                "source": "www.boj.or.jp",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///2776835d6dfb99650fb8a1c468a4a09267968638ff759a5119b7f5bd80c24dab",
+                "position": 2
+              },
+              {
+                "url": "https://www.boj.or.jp/en/about/press/koen_2014/data/ko140228a1.pdf",
+                "title": "Monetary Easing and Communication Policy: A Review Based on ...",
+                "source": "www.boj.or.jp",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///aa746925e5d711aa325f98d5062df5d9254c3eb6e2f16c32ef939bf8c22b68ad",
+                "position": 3
+              },
+              {
+                "url": "https://www.boj.or.jp/en/research/wps_rev/lab/lab14e01.htm",
+                "title": "Research Lab) Central Bank Communication and the Management ...",
+                "source": "日本銀行",
+                "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.boj.or.jp&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.boj.or.jp/en/research/wps_rev/lab/img/lab14e01b.png",
+                "position": 4
+              },
+              {
+                "url": "https://www.boj.or.jp/en/about/release_2022/rel220602a.htm",
+                "title": "Central Bank Communication about Climate Change - 日本銀行",
+                "text": "This paper applies natural language processing to a large corpus of central bank speeches to identify those related to climate change.",
+                "source": "日本銀行ホームページ",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEX////Iwdb19Pm+ts5nVY1AK3CckrXd2uZ5KDwZAAAAWUlEQVR4AWMAAkYBBjBgMnFUADNMQkOdQTRbSKKYawKQYerOwFASDFThUiCWyO6iwMAYxugaIpBqwCASyBYamiDqiGAwQ6QE4Irh2hEGIqxgYBJxBqqAOwMASCgSu74zt7kAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.boj.or.jp/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -3,16 +3,34 @@
     "topic": "publications",
     "entries": [
       {
+        "url": "https://www.suomenpankki.fi/en/publications/studies-and-reports/",
+        "title": "Studies and reports - Bank of Finland - Suomen Pankki",
+        "text": "Studies and reports. In addition to research publications, the Bank of Finland publishes a variety of different studies and reports.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.suomenpankki.fi/en/publications/",
-        "title": "Publications",
-        "text": null,
+        "title": "Publications - Suomen Pankki",
+        "text": "In the Bank of Finland's various publications we report on our analysis work and present our views concerning economic and financial issues.",
         "listing_probability": 0.98
       },
       {
+        "url": "https://www.suomenpankki.fi/en/publications/research-publications/selected-research/",
+        "title": "Research publication - Suomen Pankki",
+        "text": "The Bank of Finland aims to have the results of its research activities published in international peer-reviewed journals.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.suomenpankki.fi/en/money-and-payments/payment-and-settlement-system-simulator/publications/",
+        "title": "Publications - Suomen Pankki",
+        "text": "Here is a list of relevant publications making use of the simulator. Bank Of Finland publications with BOF-PSS",
+        "listing_probability": 0.99
+      },
+      {
         "url": "https://www.suomenpankki.fi/en/publications/research-publications/",
-        "title": "Research publications",
-        "text": null,
-        "listing_probability": 0.98
+        "title": "Research publications - Suomen Pankki",
+        "text": "The Bank of Finland aims to have the results of research activities published in international peer-reviewed journals.",
+        "listing_probability": 0.97
       }
     ]
   },
@@ -23,19 +41,31 @@
         "url": "https://www.suomenpankki.fi/en/statistics/",
         "title": "Statistics - Suomen Pankki",
         "text": "The Bank of Finland attends to users' information needs by actively developing statistics and ensuring their up-to-dateness and coverage.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.suomenpankki.fi/en/statistics/statistics-info/statistical-descriptions-and-methods/sdds/",
         "title": "SDDS +: Economic and Financial Data for Finland - Suomen Pankki",
         "text": "The links to SDDS Plus data, will be updated the same day as the corresponding producer publishes new statistics. These statistics are produced by Statistic ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/financial-stability-and-statistics/",
+        "title": "Financial Stability and Statistics - Suomen Pankki",
+        "text": "The Financial Stability and Statistics department monitors and analyses the condition of the financial markets and the financial system as well as systemic ...",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.suomenpankki.fi/en/statistics/statistics-info/",
         "title": "Statistics info - Suomen Pankki",
         "text": "The 'Statistics info' section contains statistical descriptions and methods as well as up-to-date information on the use of statistics. The background ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.75
+      },
+      {
+        "url": "https://www.suomenpankki.fi/en/statistics/statistics-info/whats_new/2025/statistical-tables-and-charts-to-transition-gradually-into-dashboards/",
+        "title": "Statistical tables and charts to transition gradually into dashboards",
+        "text": "The Bank of Finland's statistical offering is undergoing a reform. Old statistical tables and charts will be transformed in a controlled manner into ...",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -49,16 +79,16 @@
         "listing_probability": 0.05
       },
       {
-        "url": "https://www.suomenpankki.fi/en/Monetary-policy/",
-        "title": "Monetary policy - Suomen Pankki",
-        "text": "Monetary policy influences how much you have to pay to borrow and how much interest you receive on your savings.",
-        "listing_probability": 0.1
-      },
-      {
         "url": "https://www.suomenpankki.fi/en/Monetary-policy/transmission-of-monetary-policy/",
         "title": "Transmission of monetary policy - Suomen Pankki",
         "text": "Monetary policy is transmitted to inflation and economic growth in a variety of ways. Changes in monetary policy most directly affect money market interest ...",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.suomenpankki.fi/en/Monetary-policy/",
+        "title": "Monetary policy - Suomen Pankki",
+        "text": "Monetary policy influences how much you have to pay to borrow and how much interest you receive on your savings.",
+        "listing_probability": 0.6
       }
     ]
   },
@@ -81,7 +111,19 @@
         "url": "https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/news/",
         "title": "News - Suomen Pankki",
         "text": "Under News the Bank of Finland also publishes ECB's press releases on key decisions of the ECB Governing Council, in Finnish and Swedish.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.suomenpankki.fi/en/news-and-topical/",
+        "title": "News and topical - Suomen Pankki",
+        "text": "On our website we publish press releases, news and speeches regarding the activities and decisions of the Bank of Finland and the Eurosystem.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.suomenpankki.fi/en/news-and-topical/media/",
+        "title": "Media - Suomen Pankki",
+        "text": "We publish press releases and news items concerning decisions made, analyses presented and views expressed. Press releases are published in Finnish, Swedish and ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -92,18 +134,28 @@
         "url": "https://www.suomenpankki.fi/en/publications/research-publications/selected-research/",
         "title": "Research publication",
         "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.suomenpankki.fi/en/bank-of-finland/risk-management-and-risk-control/updates-of-financial-risk-figures/",
+        "title": "Updates of financial risk figures - Suomen Pankki",
+        "text": "This page presents the latest situation assessment and previously published updates to risk figures. Updates of financial risk figures 31 March 2025 (PDF) ...",
         "listing_probability": 0.9
-      },
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
       {
-        "url": "https://www.suomenpankki.fi/en/research/research-evaluation/",
-        "title": "Research evaluation",
-        "text": null,
-        "listing_probability": 0.1
-      },
-      {
-        "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/monetary-policy-and-research/",
-        "title": "Monetary Policy and Research",
-        "text": null,
+        "url": "https://www.suomenpankki.fi/en/bank-of-finland/board-and-organisation/board/guiding-principles-on-external-communication-for-members-of-the-board/",
+        "title": "Guiding principles on external communication for members of the ...",
+        "text": "Guiding principles on external communication for members of the Bank of Finland Board ... ​The Bank of Finland is committed to transparent two-way communication.",
         "listing_probability": 0.05
       }
     ]

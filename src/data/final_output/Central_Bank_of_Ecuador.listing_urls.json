@@ -17,12 +17,18 @@
         "url": "https://www.bce.fin.ec/en/monetary-policy-and-regulation-board/",
         "title": "Monetary Policy and Regulation Board - Central Bank of Ecuador",
         "text": "Highest governing body of the Central Bank of Ecuador, in charge of formulating monetary policy and observing its application by the BCE, to preserve the ...",
-        "listing_probability": 0.1
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.bce.fin.ec/en/central-bank-of-ecuador/anti-bribery-policy/",
         "title": "Anti-bribery Policy - Central Bank of Ecuador",
         "text": "Behaviors that violate the anti-bribery policy must be reported to the anti-bribery compliance function, an entity with authority and independence.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/monetary-policy-and-regulation-board/history/",
+        "title": "History - Central Bank of Ecuador",
+        "text": "On March 12, 1948, by Emergency Decree 434, the Monetary Regime Law was passed, which replaced the previous Board of Directors and Administration Council of ...",
         "listing_probability": 0.05
       },
       {
@@ -43,16 +49,28 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bce.fin.ec/en/news/2/",
-        "title": "Press Release - Central Bank of Ecuador",
-        "text": "Press Release · The economy reported growth of 1.2% in the first quarter of 2024 due to a reduction in imports and an accumulation of inventories · Ecuadorean ...",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.bce.fin.ec/en/news/3/",
         "title": "Press Release - Central Bank of Ecuador",
         "text": "The Central Bank of Ecuador (BCE) presented the results of the Quarterly National Accounts for the third quarter of 2023, which, for the first time,",
-        "listing_probability": 0.95
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/news/2/",
+        "title": "Press Release - Central Bank of Ecuador",
+        "text": "Press Release · The economy reported growth of 1.2% in the first quarter of 2024 due to a reduction in imports and an accumulation of inventories · Ecuadorean ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/category/news/",
+        "title": "News archivos - Central Bank of Ecuador",
+        "text": "In the second quarter of 2024, Ecuador's Gross Domestic Product (GDP) recorded a 2.2% decrease compared to the same period in 2023.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bce.fin.ec/en/news/4/",
+        "title": "Press Release - Central Bank of Ecuador",
+        "text": "The Central Bank of Ecuador manages the International Reserves of Ecuadorians in a technical and transparent manner ... QUITO HEADQUARTERS: 10 de Agosto Ave. N11 ...",
+        "listing_probability": 0.05
       }
     ]
   }

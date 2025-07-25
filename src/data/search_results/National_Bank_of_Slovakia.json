@@ -1,4 +1,299 @@
 {
   "Bank Name": "National Bank of Slovakia",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbs.sk/_img/documents/_dohlad/fintech/eba_digital_platforms_report_210921.pdf",
+                "title": "REPORT ON THE USE OF DIGITAL PLATFORMS",
+                "text": "This report covers the use of digital platforms in the EU banking sector, including the landscape, opportunities, challenges, and potential risks.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 1
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports 2021"
+          ],
+          "query": {
+            "q": "site:http://www.nbs.sk/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/bulletinmfs/2020/bulletinmfs_032020_en.pdf",
+                "title": "Statistical bulletin - Národná banka Slovenska",
+                "text": "Main goal of the Bulletin is to improve the presentation of monthly and quarterly data published on the website of Národná banka Slovenska and.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/bulletinmfs/2013/bulletinmfs_032013_en.pdf",
+                "title": "StatiStical bulletin - Národná banka Slovenska",
+                "text": "The information published in the Bulletin com- prises data that are processed and reported by domestic financial institutions, specifically by banks and ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/bulletinmfs/2017/bulletinmfs_032017_en.pdf",
+                "title": "STATISTICAL BULLETIN - Národná banka Slovenska",
+                "text": "The information published in the Bulletin com- prises data that are processed and reported by domestic financial institutions, specifically by banks and ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/statist/svcp/survey_ds.pdf",
+                "title": "Securities issues statistics",
+                "text": "2021 / 03. 61 505 440. 0. 7 771 157. 479 401. 66 608. 2 559 368. 0. 4 061 030. 46 567 877. 2021 / 04. 63 712 300. 0. 8 045 431. 480 152. 58 274. 2 559 454.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/bulletinmfs/2013/bulletinmfs_092013_en.pdf",
+                "title": "StatiStical bulletin - Národná banka Slovenska",
+                "text": "The information published in the Bulletin com- prises data that are processed and reported by domestic financial institutions, specifically by banks and ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.nbs.sk/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbs.sk/_img/documents/_dohlad/makropolitika/macroprudential_policy_instruments.pdf",
+                "title": "Macroprudential policy instruments - Národná banka Slovenska",
+                "text": "Mitigating risks of a systemic nature and their impact is one of the core elements of macroprudential policy. The actual implementation of the policy involves ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/biatec/bia03_06/12_14.pdf",
+                "title": "DIGITAL MONEY AND MONETARY POLICY",
+                "text": "Digital money has been defined as an electronic substi- tute for banknotes and coins that is recorded on an elec- tronic medium, either a smart card or ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/statist/met/revpola.pdf",
+                "title": "METHODOLOGICAL GUIDELINE Revision policy for data reported ...",
+                "text": "Data for the current reference period T, as well as revised data for the period T-1 (ordinary revisions) are published on the web site on the last working ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/vyskum/konferencia-14092012/dibooglu-cevik-kutan-monetary_and_fiscal_policy_interactions-july2012.pdf",
+                "title": "monetary and fiscal policy interactions: evidence from emerging european ...",
+                "text": "This paper examines the interactions between fiscal and monetary policy for some former transition, emerging European economies over the 1995Q1-2010Q4 ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/biatec/kohan.pdf",
+                "title": "PROSPECTS OF THE CENTRAL BANK AND ITS MONETARY POLICY",
+                "text": "Apart from price stability (primary objective), the su- ccess of monetary policy was conditional on the indepen- dence of the central bank.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.nbs.sk/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbs.sk/_img/documents/publik/caporale_abstract.pdf",
+                "title": "Macro News and Stock Returns in the Euro Area: A VAR-GARCH-in-Mean ...",
+                "text": "Abstract. This paper analyses the effects of newspaper coverage of macro news on stock returns in eight countries belonging to the euro area (Belgium,.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_ts/ispostcouncil-20100610.pdf",
+                "title": "PRESS CONFERENCE 10 June 2010 INTRODUCTORY STATEMENT",
+                "text": "Based on its regular economic and monetary analyses, the Governing Council decided to leave the key ECB interest rates unchanged. The current rates remain ...",
+                "source": "Národná banka Slovenska (NBS)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_ts/uvodne_stanovisko/2014/introductory-statement-10-2014.pdf",
+                "title": "PRESS CONFERENCE Naples, 2 October 2014 INTRODUCTORY ...",
+                "text": "Ladies and gentlemen, the Vice-President and I are very pleased to welcome you to our press conference. I would like to thank Governor.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "published_time": "2014-10-02T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_ts/uvodne_stanovisko/2014/introductory-statement-12-2014.pdf",
+                "title": "PRESS CONFERENCE Frankfurt am Main, 4 December 2014 ...",
+                "text": "Based on our regular economic and monetary analyses, and in line with our forward guidance, we decided to keep the key ECB interest rates unchanged.",
+                "source": "Národná banka Slovenska (NBS)",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_ts/uvodne_stanovisko/2014/introductory-statement-6-2014.pdf",
+                "title": "PRESS CONFERENCE Frankfurt am Main, 5 June 2014 ...",
+                "text": "In pursuing our price stability mandate, today we decided on a combination of measures to provide additional monetary policy accommodation ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "published_time": "2014-06-02T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbs.sk/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "research",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbs.sk/_img/documents/publik/wp_4_2021_wealth_assets_and_life_satisfaction_a_metadata_instrumental_variable_approach.pdf",
+                "title": "NBS Working paper 4/2021 Wealth, Assets and Life Satisfaction",
+                "text": "We analyse the relationship between wealth/assets and life satisfaction. Using the Household Finance and Consumption Survey microdata from ...",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/publik/wp_1_2020-determinants_of_gvc.pdf",
+                "title": "NBS Working paper 1/2020 Determinants of Global Value Chain ...",
+                "source": "Národná banka Slovenska",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbs.sk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///5940a6bb3d86daae571d3ff4d935549aa4794223fd834551816d48d0f0fa64a9",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/publik/wp_4_2021_wealth_assets_and_life_satisfaction_a_metadata_instrumental_variable_approach.pdf",
+                "title": "NBS Working paper 4/2021 Wealth, Assets and Life Satisfaction ...",
+                "source": "Národná banka Slovenska",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbs.sk&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "x-raw-image:///5ecb09c653c555606eeaf203ccbe263777c6e9f29435c9f27f45ca48be633728",
+                "position": 3
+              }
+            ]
+          },
+          "related": [
+            "Research working papers papers research working papers ') 2021",
+            "Research working papers papers research working papers ') 2020"
+          ],
+          "query": {
+            "q": "site:http://www.nbs.sk/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/annualreport/eng2010/vs_2010_chapter11.pdf",
+                "title": "COMMUNICATION - Národná banka Slovenska",
+                "text": "Like the ECB and other euro area national central banks, NBS performs communication activities according to the core principles of openness and.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/annualreport/eng2007/ar2007_chap12.pdf",
+                "title": "Communication - Národná banka Slovenska",
+                "text": "By providing information on meetings of the NBS Bank. Board in 2007, Národná banka Slovenska observed the principle of openness and transparency. This in-.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/annualreport/eng2006/ar2006_chap12.pdf",
+                "title": "Communication - Národná banka Slovenska",
+                "text": "The Národná banka Slovenska is required by law to publish information on monetary developments at least once every calendar quarter. In providing an.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/_publikacie/annualreport/eng2017/vs_2017_en_castb_kap8.pdf",
+                "title": "8 COMMUNICATION - Národná banka Slovenska",
+                "text": "An important task of Národná banka Slovenska. (NBS) is to provide information about develop- ments in the Slovak and European economies.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.nbs.sk/_img/documents/biatec/bia07_07/7_15.pdf",
+                "title": "The application program systems STATUS and STATUS DFT and ...",
+                "text": "The central bank uses its website (www.nbs.sk) for regularly publishing various information, such as macroeconomic indicators, reports and press.",
+                "source": "NBS.sk",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////j7PS90uW50OTV4u6qx9/c5/Gsx9/J2+rD1uddl8WWuteavdm1zeKErtHN3ev6/P2xzOL0+Pvp8PZ8qs+SttXv9Pm71Oakw9xvocqKstR5qM6St9ZSk8M/iL3F2+quiyipAAAA/klEQVR4Ab3ONYLkMBBA0S9sGSWr7LKa73/LTXaoIZx5iaCQP2Cs8+9CIYI5vAzHBMFC7HjWD+M057IsfeWRlXWbsCHrPvHI+WVLrtfWW8uj1o52cHM6lez4qdLsAcyZKCyPwX5Llmxm0tAmHhS9+HOcwyF0c+HJ6BaAOnnLI02cO5EURDJPmloffeVRebp+yKpBDzJKkGSy0GqnMSbpAOzJXu3aOMWwjpfGaq/ustzoMyDV42udsFSjSmfwGMmYj1VbYnRdaqbl0QcufFPOLYawpDmOWxgu3Sx8o0ULUCsI6I+ly93ILknuxuwl7zXI92AUMdVXX4pHYxXlF/0D+7QNvcdhF/4AAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.nbs.sk/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
+          }
+        }
+      ]
+    }
+  ]
 }

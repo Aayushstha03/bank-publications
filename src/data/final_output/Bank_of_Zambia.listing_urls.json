@@ -12,6 +12,12 @@
         "url": "https://www.boz.zm/fsd-publications.htm",
         "title": "FSD Publications - Bank of Zambia",
         "text": "This page contains research papers, articles and brochures on Financial Sector Development. The publications are either related or relevant to Financial Sector ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.boz.zm/research-papers.htm",
+        "title": "FSD Reports - Bank of Zambia",
+        "text": "This page contains reports related to Financial Sector Development. The reports are on surveys undertaken by BoZ or other FSD stakeholders.",
         "listing_probability": 0.97
       },
       {
@@ -29,19 +35,31 @@
         "url": "https://www.boz.zm/statistics.htm",
         "title": "Statistics - Bank of Zambia",
         "text": "Monetary and Financial Statistics · Payment Systems Statistics · Balance of Payments Statistics · International Investment Position · Financial Inclusion Indicators ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.boz.zm/financial-and-other-statistics-booklet.htm",
         "title": "Financial and Other Statistics Booklet - Bank of Zambia",
-        "text": "The Booklet on Financial and Other Statistics is an annual publication which provides a statistical overview of the various aspects of the Zambian economy ...",
+        "text": "The booklet is an annual publication providing a statistical overview of the Zambian economy and financial system, supplementing other Bank publications.",
         "listing_probability": 0.1
       },
       {
         "url": "https://www.boz.zm/fortnight-statistics.htm",
         "title": "Fortnightly Statistics - Bank of Zambia",
         "text": "The purpose of the Statistics Fortnightly Bulletin is to disseminate monetary and financial statistics on a fortnightly basis.",
-        "listing_probability": 0.1
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.boz.zm/payment-systems-statistics.htm",
+        "title": "Payment Systems Statistics - Bank of Zambia",
+        "text": "The Bank of Zambia provides statistics on large value, retail payment systems, domestic and international remittances, including ZIPSS, EFT, Cheque, PoS, ATMs, ...",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.boz.zm/monetary-and-financial-statistics-New.htm",
+        "title": "Monetary and Financial Statistics - Bank of Zambia",
+        "text": "Bank of Zambia · Statistics; Monetary and Financial Statistics. Statistics · Monetary and Financial Statistics · Payment Systems Statistics ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -55,15 +73,27 @@
         "listing_probability": 0.1
       },
       {
+        "url": "https://www.boz.zm/monitory-policy-framework.htm",
+        "title": "Monetary Policy Framework - Bank of Zambia",
+        "text": "The BoZ uses the monetary policy framework in which the Policy Rate is the key interest rate in signalling the monetary policy stance.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.boz.zm/monetary-policy-report.htm",
+        "title": "Monetary Policy Report - Bank of Zambia",
+        "text": "Bank of Zambia · Monetary Policy; Monetary Policy Report. Monetary Policy · Objectives of Monetary Policy · Monetary Policy Framework.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.boz.zm/acts-and-regulations.htm",
         "title": "Acts and Regulations - Bank of Zambia",
         "text": "Acts and Regulations · Bank of Zambia Act, 2022 · Currency Act · Bank of Zambia Act ...",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.boz.zm/monitory-policy-framework.htm",
-        "title": "Monetary Policy Framework - Bank of Zambia",
-        "text": "The BoZ uses the monetary policy framework in which the Policy Rate is the key interest rate in signalling the monetary policy stance.",
+        "url": "https://www.boz.zm/monetary-policy-instruments.htm",
+        "title": "Monetary Policy Instruments - Bank of Zambia",
+        "text": "Key elements of prudential guidelines remove some discretion from bank management and replace it with rules in decision making.",
         "listing_probability": 0.1
       }
     ]
@@ -74,8 +104,8 @@
       {
         "url": "https://www.boz.zm/news-and-publications.htm",
         "title": "News and Publications - Bank of Zambia",
-        "text": "Recent Bank of Zambia news includes press statements, monetary policy reports, financial stability statements, and public notices, such as the liquidation of ...",
-        "listing_probability": 0.95
+        "text": "News and Publications ; 11-05-2024, Press Statement: Extension of Payment of Depositors of Investrust Bank PLC (In Possession) ; 29-04-2024, Press Statement: FX ...",
+        "listing_probability": 0.98
       }
     ]
   },

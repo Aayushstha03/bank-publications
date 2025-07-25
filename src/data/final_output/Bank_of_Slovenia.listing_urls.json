@@ -6,18 +6,30 @@
         "url": "https://www.bsi.si/en/publications/annual-report",
         "title": "Publications | Banka Slovenije",
         "text": "Filters and search. Category, Report on Bank Performance, Financial Stability Review, Review of Macroeconomic Developments (and Projections) ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.bsi.si/en/publications",
         "title": "Publications | Banka Slovenije",
         "text": "Publications ; July 18, 2025. Report on the bank performance with commentary, June 2025. Download (PDF 0.88MB) ; June 30, 2025. Direct Investment 2024 – First ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.bsi.si/en/publications?q[type]=11",
         "title": "Publications | Banka Slovenije",
         "text": "Publications ; April 22, 2025. Financial Stability Review, April 2025. Download (PDF 1KB) ; November 22, 2024. Financial Stability Review, October 2024. Download ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bsi.si/en/publications/research-publications",
+        "title": "Research publications - Banka Slovenije",
+        "text": "Research publications ; July 15, 2025 · Download (PDF 2KB) ; May 27, 2025 · Download (PDF 0.92MB) ; April 15, 2025 · Download (PDF 1KB) ; March 20, 2025 · Download (PDF ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bsi.si/en/publications?q[type]=15",
+        "title": "Publications | Banka Slovenije",
+        "text": "Publications ; June 30, 2025. Monthly Bulletin, June 2025 ; May 30, 2025. Monthly Bulletin, May 2025 ; April 29, 2025. Monthly Bulletin, April 2025 ; March 27, 2025.",
         "listing_probability": 0.98
       }
     ]
@@ -29,19 +41,13 @@
         "url": "https://www.bsi.si/en/statistics",
         "title": "Statistics | Banka Slovenije",
         "text": "Our statistics provide data support for decisions on monetary policy, financial stability, banking supervision, and broader economic policy.",
-        "listing_probability": 0.95
-      },
-      {
-        "url": "https://www.bsi.si/en/external-statistics",
-        "title": "External Statistics - Banka Slovenije",
-        "text": "External statistics provide information on Slovenia's economic relations with the rest of the world. They serve as key indicators of the situation and trends ...",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bsi.si/en/media/posts/report-on-external-statistics-january-2025",
-        "title": "Report on External Statistics, January 2025 - Banka Slovenije",
-        "text": "In January 2025, the current account of the balance of payments was almost balanced (the deficit amounted to only EUR 9 million).",
-        "listing_probability": 0.05
+        "url": "https://www.bsi.si/en/statistics/exchange-rates",
+        "title": "Exchange Rates | Banka Slovenije",
+        "text": "Banka Slovenije's exchange rates - ECB reference rates · The exchange rates are published soon after 16:15 on every TARGET working day. · Cyprus joined the euro ...",
+        "listing_probability": 0.2
       }
     ]
   },
@@ -49,22 +55,28 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bsi.si/en/monetary-policy",
-        "title": "Monetary Policy | Banka Slovenije",
-        "text": "The primary objective of Eurosystem monetary policy is price stability. Every decision made as part of monetary policy is guided by the monetary policy strategy ...",
-        "listing_probability": 0.05
-      },
-      {
         "url": "https://www.bsi.si/en/monetary-policy/monetary-policy-instruments",
         "title": "Monetary Policy Instruments | Banka Slovenije",
         "text": "The legal basis in Slovenia consists of the General terms and conditions for implementing the monetary policy framework, which implement the ECB guidelines, and ...",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bsi.si/en/monetary-policy/monetary-policy-implementation",
-        "title": "Monetary Policy Implementation | Banka Slovenije",
-        "text": "Monetary policy relates to the central bank decisions that exert an influence on prices and the availability of money in the economy.",
-        "listing_probability": 0.05
+        "url": "https://www.bsi.si/en/monetary-policy",
+        "title": "Monetary Policy | Banka Slovenije",
+        "text": "The primary objective of Eurosystem monetary policy is price stability. Every decision made as part of monetary policy is guided by the monetary policy strategy ...",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.bsi.si/en/monetary-policy/monetary-policy-strategy",
+        "title": "Monetary Policy Strategy | Banka Slovenije",
+        "text": "The Eurosystem's target is to maintain inflation in the euro area at 2% over the medium term. The decisions in meeting this objective are taken by the Governing ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bsi.si/ckfinder/connector?command=Proxy&lang=sl&type=Files&currentFolder=%2FFinan%C4%8Dna%20stabilnost%2FPredpisi%2FLicenciranje%2F&hash=6ce6c512ea433a7fc5c8841628e7696cd0ff7f2b&fileName=1_Guidelines%20on%20the%20assessment%20of%20the%20suitability%20of%20members%20of%20the%20management%20body%20and%20key%20function%20holders.pdf",
+        "title": "EBA BS 2017 XXX (Final GL on the assessment of suitability of MB ...",
+        "text": "These guidelines set out appropriate supervisory practices within the European System of. Financial Supervision and of how Union law should be applied.",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -72,21 +84,33 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.bsi.si/en/media/1205/press-release",
-        "title": "Press Release | Banka Slovenije",
-        "text": "The Governing Board of the Bank of Slovenia decided to leave the interest rates on its monetary policy instruments unchanged in the context of the European ...",
-        "listing_probability": 0.1
-      },
-      {
         "url": "https://www.bsi.si/en/media/36/press-release-president-of-the-deutsche-bundesbank-give-a-speech-at-the-bank-od-slovenia",
         "title": "Press release - President of the Deutsche Bundesbank give a ...",
         "text": "President of the Deutsche Bundesbank Dr. Jens Weidmann give a speech at the Bank of Slovenija. Speech \"Current Developments in the Euro Area\" is available here.",
         "listing_probability": 0.1
       },
       {
-        "url": "http://www.bsi.si/en/media/247/press-release-slovenia-and-cyprus-cannot-be-compared",
-        "title": "Press release - Slovenia and Cyprus cannot be compared",
-        "text": "SLOVENIA AND CYPRUS CANNOT BE COMPARED (a clarification of developments in Cyprus) The situation in Slovenia cannot be compared to that in Cyprus.",
+        "url": "https://www.bsi.si/en/media/1205/press-release",
+        "title": "Press Release | Banka Slovenije",
+        "text": "The Governing Board of the Bank of Slovenia decided to leave the interest rates on its monetary policy instruments unchanged in the context of the European ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "http://www.bsi.si/en/media/201/stability-of-the-slovenian-banking-system-press-release-meeting-of-the-governing-board-of-the-bank-of-slovenia",
+        "title": "Stability of the Slovenian Banking System-Press release",
+        "text": "1) The Governing Board of the Bank of Slovenia discussed and approved the January 2014 Stability of the Slovenian Banking System report.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bsi.si/en/media/posts/press-release-early-repayment-of-factor-banka-and-probanka-deposits",
+        "title": "Press release: Early repayment of Factor banka and Probanka deposits",
+        "text": "The early repayment is to help meet the objectives pursued by the Bank of Slovenia via the special administrations: the orderly wind-down of the banks, and the ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bsi.si/en/media/399/press-release-on-the-spring-meeting-of-the-international-monetary-fund-and-the-world-bank-in-washington",
+        "title": "Press release on the spring meeting of the International Monetary Fund ...",
+        "text": "Discussions will also take place on the reform and operational guidelines of the IMF, including a proposal regarding the new allocation of quotas, a new model ...",
         "listing_probability": 0.1
       }
     ]
@@ -99,6 +123,52 @@
         "title": "Bank of Slovenia Working Papers | Banka Slovenije",
         "text": "Two nee Working Papers: Bank Response to Policy Related Changes in Capital Requirements and B. Banerjee, C. Dunnett, M. Lindič: Employment and wage ...",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bsi.si/en/publications/research-publications?q%5Btype%5D=6",
+        "title": "Research publications | Banka Slovenije",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bsi.si/en/publications/research-publications",
+        "title": "Research publications | Banka Slovenije",
+        "text": null,
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bsi.si/en/publications/research-publications?q%5Btype%5D=5",
+        "title": "Research publications | Banka Slovenije",
+        "text": null,
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bsi.si/en/media/posts/ecb-updates-its-monetary-policy-strategy",
+        "title": "ECB updates its monetary policy strategy - Banka Slovenije",
+        "text": "The ECB today published details of its updated monetary policy strategy. The update is part of a periodic process that the members of the Governing Council ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bsi.si/en/media/posts/communication-following-the-ecb-s-monetary-policy-meeting",
+        "title": "Communication following the ECB's monetary policy meeting",
+        "text": "The Governing Council of the ECB was briefed yesterday on the latest projections, which forecast a continuation of moderate economic growth in the euro area.",
+        "listing_probability": 0.15
+      },
+      {
+        "url": "https://www.bsi.si/en/media/1480/messages-related-with-coronavirus",
+        "title": "Messages related with coronavirus - Banka Slovenije",
+        "text": "At the Bank of Slovenia we have been closely monitoring and analysing the ongoing coronavirus situation ever since the outbreak of the novel virus.",
+        "listing_probability": 0.85
       }
     ]
   }

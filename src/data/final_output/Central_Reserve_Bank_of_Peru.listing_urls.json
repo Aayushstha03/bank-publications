@@ -6,7 +6,31 @@
         "url": "https://www.bcrp.gob.pe/en/publications.html",
         "title": "Reports and Publications - BCRP",
         "text": "Reports and Publications · Economic reports · Research · Conferences · Special Reports.",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/reporte-de-inflacion/64-ingles/reports-and-publications.html",
+        "title": "Reports and Publications - BCRP",
+        "text": "I. Production and employment. Domestic demand; Exports and imports · II. External Sector. International environment; Balance of payments · III. Public Finances.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/publications/weekly-reports/tables.html",
+        "title": "Tables - BCRP",
+        "text": "Weekly Report N° 24-2025 (Jul 10, 2025) · All tables (PDF format) · Tables(XLSX format) · Depository Corporations · Commercial Banks · Central Reserve Bank of Peru.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/en/publications/special-reports.html",
+        "title": "Special Reports - BCRP",
+        "text": "Special Reports · Statement by an IMF Staff Mission in Peru (December 12, 2008) · Statement by IMF Mission in Peru (May 14, 2008) · Letter of Intent of the ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/en/publications/weekly-reports/weekly-report.html",
+        "title": "Weekly Report - BCRP",
+        "text": "The weekly report releases recent economic information on monetary variables, interest rates and stock market (indicators among others).",
+        "listing_probability": 0.0
       }
     ]
   },
@@ -26,9 +50,15 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bcrp.gob.pe/reporte-de-inflacion/65-ingles/statistics.html",
-        "title": "Statistics - BCRP",
-        "text": "Statistics · Monetary and Exchange Operations Tables (MEOC) · Statistics · Weekly Report · BCRPData. Series Estadísticas · Monetary and Exchange Operations · Economic ...",
+        "url": "https://www.bcrp.gob.pe/docs/Estadisticas/NEDD/Data.htm",
+        "title": "Peru - BCRP",
+        "text": "ECONOMIC AND FINANCIAL DATA FOR PERU. Updated daily. Last update, July 11, 2025. The data shown in this page correspond to the data described on the ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/statistics/weekly-report-tables.html",
+        "title": "Weekly Report Tables - BCRP",
+        "text": "Weekly Report N° 22-2025 (Jun 26, 2025) · All tables (PDF format) · Tables(XLSX format) · Depository Corporations · Commercial Banks · Central Reserve Bank of Peru.",
         "listing_probability": 0.95
       }
     ]
@@ -40,7 +70,13 @@
         "url": "https://www.bcrp.gob.pe/en/monetary-policy.html",
         "title": "Monetary Policy - BCRP",
         "text": "The BCRP follows a policy of Explicit Inflation Targets. The inflation target (a range between 1 and 3 percent) seeks to anchor inflation expectations.",
-        "listing_probability": 0.05
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/en/monetary-policy/informative-notes-on-the-monetary-program.html",
+        "title": "Informative notes on the Monetary Program - BCRP",
+        "text": "It contains a description of the decision on the reference interest rate, the basis for such decision, the explanation of the evolution of inflation.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -54,16 +90,10 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bcrp.gob.pe/news.html",
-        "title": "News - BCRP",
-        "text": "News · (10/07) Monetary Policy Statement July: BCRP maintained the reference rate at 4.50% · (12/06) Monetary Policy Statement June: BCRP maintained the reference ...",
-        "listing_probability": 0.95
-      },
-      {
         "url": "https://www.bcrp.gob.pe/en/footer-news-en?from=01-05-2021&to=31-07-2021&limitstart=0",
         "title": "News - BCRP",
         "text": "News ; 16 · 23 ; 17 · 24 ; 18 · 25 ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
       }
     ]
   },
@@ -74,7 +104,25 @@
         "url": "https://www.bcrp.gob.pe/en/publications/working-papers.html",
         "title": "Working Papers - BCRP",
         "text": "The working papers of the Central Reserve Bank of Perú are preliminary research documents disseminated to motivate discussion and analysis.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/publications/working-papers/working-papers-2004-1997.html",
+        "title": "Working Papers 2004-1997 - BCRP",
+        "text": "The working papers of the Central Reserve Bank of Perú are preliminary research documents disseminated to motivate discussion and analysis.",
         "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/en/publications/working-papers-2018.html",
+        "title": "Working papers 2018 - BCRP",
+        "text": "2017 | 2018. 2018. DT N° 2018-001: Monetary policy operating procedures, lending frictions, and employment. David Florian, Chris Limmios and Carl Walsh ...",
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.bcrp.gob.pe/reporte-de-inflacion/161-ingles/reports-and-publications/working-papers.html",
+        "title": "Working papers - BCRP",
+        "text": "Working papers. Working papers 2018. 2017 | 2018. 2018. DT N° 2018-001: Monetary policy operating procedures, lending frictions, and employment",
+        "listing_probability": 0.99
       }
     ]
   }

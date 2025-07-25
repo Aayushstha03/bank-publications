@@ -3,22 +3,28 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.frbatlanta.org/cqer/publications.aspx",
-        "title": "Publications: Center for Quantitative Economic Research ...",
-        "text": null,
-        "listing_probability": 0.98
+        "url": "https://www.frbatlanta.org/research/publications.aspx",
+        "title": "Publications - Federal Reserve Bank of Atlanta",
+        "text": "The Atlanta Fed papers series present our scholarly research. Working Papers present the research of Atlanta Fed staff economists and visiting scholars.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.frbatlanta.org/publications",
+        "title": "Publications Overview - Federal Reserve Bank of Atlanta",
+        "text": "The Federal Reserve Bank of Atlanta produces a variety of publications and other materials dealing with economic and financial topics.",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.frbatlanta.org/community-development/publications/special.aspx",
         "title": "Special Publications - Federal Reserve Bank of Atlanta",
-        "text": null,
-        "listing_probability": 0.97
+        "text": "New research by the Atlanta Fed in partnership with the National Skills Coalition provides data to communities, businesses, educators, and policymakers on ...",
+        "listing_probability": 0.95
       },
       {
-        "url": "https://www.frbatlanta.org/economy-matters/financial-tips/credit-reports",
-        "title": "Financial Tips from the Atlanta Fed: Credit Reports - Federal ...",
-        "text": null,
-        "listing_probability": 0.15
+        "url": "https://www.frbatlanta.org/research/surveys/publications-and-research.aspx",
+        "title": "Economic Survey Research Center: Publications & Research",
+        "text": "Publications & Research · 2020-17. The Impact of the COVID-19 Pandemic on Business Expectations · 2020-09. Economic Uncertainty before and during the COVID-19 ...",
+        "listing_probability": 0.99
       }
     ]
   },
@@ -28,14 +34,26 @@
       {
         "url": "https://www.frbatlanta.org/research/data-and-tools.aspx",
         "title": "Data & Tools - Federal Reserve Bank of Atlanta",
-        "text": "The Federal Reserve Bank of Atlanta produces several sets of interactive charts and data visualizations focused on a variety of national and regional economic ...",
+        "text": "The Atlanta Fed offers interactive charts and data visualizations on national and regional economics, including the EconomyNow app with GDPNow and Wage Growth ...",
         "listing_probability": 0.9
       },
       {
         "url": "https://www.frbatlanta.org/banking-and-payments/consumer-payments/research-data-reports",
         "title": "Research Data Reports - Federal Reserve Bank of Atlanta",
-        "text": "The 2024 Survey and Diary of Consumer Payment Choice found that the number of payments increased over 2023, and consumers continued their shift away from paper ...",
+        "text": "The reports describe the Diary and Survey of Consumer Payment Choice, finding that payments increased and consumers shifted away from cash and checks.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.frbatlanta.org/research/",
+        "title": "Research & Data - Federal Reserve Bank of Atlanta",
+        "text": "The Economy at a Glance: GDP, Wage Growth, Employment, Inflation, Market Probabilities, Evolution of Atlanta Fed, GDPNow real GDP forecast, Data & Tools",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.frbatlanta.org/atlanta-research-data-center",
+        "title": "Atlanta Research Data Center",
+        "text": "The Atlanta Research Data Center (ARDC) is a secure computing lab where qualified researchers conduct approved statistical analysis using nonpublic data.",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.frbatlanta.org/cweo/data-tools",
@@ -49,10 +67,16 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.frbatlanta.org/research/publications/policy-hub.aspx",
-        "title": "Policy Hub - Federal Reserve Bank of Atlanta",
-        "text": "Policy Hub Papers feature more detailed analyses of economic topics by staff economists and researchers for both academic and nonacademic audiences.",
-        "listing_probability": 0.95
+        "url": "https://www.frbatlanta.org/research/publications/policy-hub/2021/03/29/03-bank-supervisory-goals-versus-monetary-policy-implementation",
+        "title": "Bank Supervisory Goals versus Monetary Policy Implementation",
+        "text": "U.S. banking supervision and regulation imposes costs on bank holdings of reserves, U.S. Treasury securities, and repo on Treasuries. · These ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.frbatlanta.org/research/publications/policy-hub/papers.aspx",
+        "title": "Policy Hub Papers - Federal Reserve Bank of Atlanta",
+        "text": "Policy Hub draws on the expertise of Atlanta Fed economists and researchers to address issues of broad policy interest.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -63,7 +87,7 @@
         "url": "https://www.frbatlanta.org/news/press-room",
         "title": "Press Room - Federal Reserve Bank of Atlanta",
         "text": "Read announcements about speeches, Bank personnel, research, and other news from the Federal Reserve Bank of Atlanta. Latest press releases.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.frbatlanta.org/news/speeches/",
@@ -75,6 +99,12 @@
         "url": "https://www.frbatlanta.org/news",
         "title": "News & Events - Federal Reserve Bank of Atlanta",
         "text": "President Bostic Discusses the Fed's Dual Mandate and Inflation. The Dual Mandate and the Primacy of Inflation Expectations. FOMC Meeting Minutes Released.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.frbatlanta.org/news/speeches/tempSpeechesIndex",
+        "title": "Speeches - Federal Reserve Bank of Atlanta",
+        "text": "Atlanta Fed Vice President and Senior Economist Mike Bryan discusses using consumer price data to produce alternative measures of inflation in a presentation ...",
         "listing_probability": 0.9
       }
     ]
@@ -86,19 +116,54 @@
         "url": "https://www.frbatlanta.org/research/publications/wp.aspx",
         "title": "Atlanta Fed Working Papers",
         "text": "The Research Department of the Federal Reserve Bank of Atlanta publishes a working paper series to convey the research of staff economists and visiting ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.frbatlanta.org/research/publications.aspx",
+        "title": "Publications - Federal Reserve Bank of Atlanta",
+        "text": "The Atlanta Fed papers series present our scholarly research. Working Papers present the research of Atlanta Fed staff economists and visiting scholars.",
         "listing_probability": 0.98
       },
       {
         "url": "https://www.frbatlanta.org/chcs/working-papers",
         "title": "Human Capital Working Papers - Federal Reserve Bank of Atlanta",
         "text": "Below is a selection of the Atlanta Fed's working paper series that focus on the topic of human capital. You can also view the complete collection of papers ...",
-        "listing_probability": 0.98
+        "listing_probability": 0.97
       },
       {
-        "url": "https://www.frbatlanta.org/cqer/research",
-        "title": "Center for Quantitative Economic Research",
-        "text": "Offers computer code to accompany NBER Working Paper 7257 by Lawrence J. Christiano and Terry J. Fitzgerald.",
-        "listing_probability": 0.2
+        "url": "https://www.frbatlanta.org/research/surveys/publications-and-research.aspx",
+        "title": "Economic Survey Research Center: Publications & Research",
+        "text": "Publications & Research. Working Papers; Fed Publications. Atlanta Fed Working Papers. 2020-17. The Impact of the COVID-19 Pandemic on Business Expectations",
+        "listing_probability": 0.96
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.frbatlanta.org/economy-matters/banking-and-finance/viewpoint/2021/01/08/michael-johnson-letter",
+        "title": "Banking Conditions, Regulatory Updates Discussed in New ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.frbatlanta.org/news/conferences-and-events/conferences/2021/02/25/banking-outlook-conference/bios",
+        "title": "2021 Banking Outlook Conference: Updates Among Uncertainty ...",
+        "text": null,
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.frbatlanta.org/economy-matters/banking-and-finance/viewpoint/2019/03/28/cynthia-goodwin-letter",
+        "title": "Bank Regulation Updates, Upcoming Events Discussed in New ...",
+        "text": null,
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.frbatlanta.org/economy-matters/banking-and-finance/viewpoint/2019/09/30/michael-johnson-letter",
+        "title": "Bank Regulation Updates, Upcoming Events Discussed in New ...",
+        "text": null,
+        "listing_probability": 0.1
       }
     ]
   }

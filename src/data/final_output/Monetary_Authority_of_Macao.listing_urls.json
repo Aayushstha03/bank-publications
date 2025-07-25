@@ -6,13 +6,31 @@
         "url": "https://www.amcm.gov.mo/en/research-statistics/research-and-publications?type=research-and-publications%2Fbalance-of-payments-statistics",
         "title": "Research & Publications｜AMCM - 澳門金融管理局",
         "text": "Research & Publications · Monthly Bulletin of Monetary Statistics · White Paper on Macao Special Administrative Region's e-MOP · Macao Monetary ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/research-statistics/research-and-publications?type=research-and-publications/balance-of-payments-statistics/1000",
+        "title": "Research & Publications｜AMCM - 澳門金融管理局",
+        "text": "Research & Publications · Monthly Bulletin of Monetary Statistics · White Paper on Macao Special Administrative Region's e-MOP · Macao Monetary Research Bulletin.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/research-statistics/research-and-publications/macao-monetary-research-bulletin?slug=total-2016-38",
+        "title": "Research Bulletin｜AMCM - 澳門金融管理局",
+        "text": "The Macao Monetary Research Bulletin contains research articles prepared by academics in the fields of economics and finance, invited specialists and staff ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/research-statistics/research-and-publications",
+        "title": "Relatórios de Estudos e Publicações｜AMCM",
+        "text": "Relatórios de Estudos e Publicações · Boletim Mensal das Estatísticas Monetárias e Cambiais · 2025 · 2024 · 2023 · 2022 · 2021 · 2020.",
         "listing_probability": 0.98
       },
       {
         "url": "https://www.amcm.gov.mo/en/financial-information/financial-reports",
         "title": "Financial Reports｜AMCM - 澳門金融管理局",
         "text": "Financial Information · 銀行同業匯率中間價 · 澳門元隔夜平均指數(MONIA) · 澳門銀行同業拆息(MAIBOR) · 澳門金融管理局基本利率 · 財務報告 ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       }
     ]
   },
@@ -20,21 +38,68 @@
     "topic": "statistics",
     "entries": [
       {
-        "url": "https://www.amcm.gov.mo/en/research-statistics/research-and-publications/macao-monetary-research-bulletin?slug=total-2015-37",
+        "url": "https://www.amcm.gov.mo/pt/research-statistics/research-and-publications/macao-monetary-research-bulletin",
         "title": "Research Bulletin｜AMCM - 澳門金融管理局",
-        "text": "The Macao Monetary Research Bulletin contains research articles prepared by academics in the fields of economics and finance, ...",
-        "listing_probability": 0.05
+        "text": "The Macao Monetary Research Bulletin contains research articles prepared by academics in the fields of economics and finance, invited specialists and staff ...",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.amcm.gov.mo/en/research-statistics/statistics-page/statistic-insurance",
-        "title": "Insurance sector and private pension funds statistics - 澳門金融管理局",
-        "text": "Observations, Year-on-year change in latest data, More information. Date of latest data, Latest data, Data for previous period ...",
+        "url": "https://www.amcm.gov.mo/en/research-statistics/statistics",
+        "title": "AMCM - 澳門金融管理局",
+        "text": "The Monetary Authority of Macau has launched a new website. If you try to browse our website but this page is displayed, your browser may be displaying the ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/research-statistics/research-and-publications/macao-monetary-research-bulletin?slug=total-2016-38",
+        "title": "Research Bulletin｜AMCM - 澳門金融管理局",
+        "text": "The Macao Monetary Research Bulletin contains research articles prepared by academics in the fields of economics and finance, invited specialists and staff ...",
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.amcm.gov.mo/en/research-statistics/statistics-page/monetary-and-financial-statistics-time-series",
         "title": "Monetary and Financial Statistics Time Series｜AMCM - 澳門金融管理局",
         "text": "Statistics ; SECTION 1 : MONEY ; SECTION 2 : RESIDENT DEPOSITS AND DOMESTIC CREDIT ; SECTION 3: BANKING ; SECTION 4: DOMESTIC INTERBANK MARKET ; SECTION 5: EXTERNAL ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/insurance-sector/statistics",
+        "title": "Statistics｜AMCM - 澳門金融管理局",
+        "text": "Statistics · 保險業務- 年報 · 保險業務– 季報(臨時統計數字) · 私人退休基金- 年報 · 私人退休基金–季報(臨時統計數字) ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.amcm.gov.mo/pt/bank/bank-regulatory-guidelines",
+        "title": "Regulamentos e Linhas de Orientação｜AMCM - 澳門金融管理局",
+        "text": "Main Regulations, Chinesa, Português, Inglesa. Financial System Act. (Law no. 13/2023). Merger and Division of Financial and Insurance Institutions.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/insurance-sector/regulatory-guidelines",
+        "title": "法則及指引｜AMCM - 澳門金融管理局",
+        "text": "法則及指引 ; (Lei n.º 13/2023) ; Regime jurídico da actividade seguradora ; (Decreto-Lei n.º 27/97/M, de 30 de Junho, alterado pela Lei n.º 21/2020 e republicado ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/bank/bank-regulatory-guidelines?type=main-legislation",
+        "title": "Regulamentos e Linhas de Orientação｜AMCM - 澳門金融管理局",
+        "text": "Regulamentos e Linhas de Orientação ; (Decreto-Lei n.º 16/95/M, de 13 de Abril) ; Regime Cambial ; (Decreto-Lei n.º 39/97/M, de 15 de Setembro) ; Conservação dos ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/insurance-sector/regulatory-guidelines?type=compulsory-insurances-motor-vehicles-insurances",
+        "title": "法則及指引｜AMCM - 澳門金融管理局",
+        "text": "法則及指引 ; Establishment of the general conditions and schedule of motor vehicle insurance.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.amcm.gov.mo/zh-hant/law-regulations-coins",
+        "title": "法律法規 - 澳門金融管理局",
+        "text": "硬幣 ; 流通硬幣, 中文, 葡文 ; 第14/2007號行政法規. 提高面額為澳門幣一角及一元的硬幣的發行限量 ; 第34/98/M號法令. 許可鑄造面額為澳門幣貳圓之新硬幣 ; 第49/96/M號法令.",
         "listing_probability": 0.95
       }
     ]
@@ -43,10 +108,51 @@
     "topic": "news",
     "entries": [
       {
+        "url": "https://www.amcm.gov.mo/en/news-notice",
+        "title": "AMCM - 澳門金融管理局",
+        "text": "News and Announcements · News │Statistics│ Announcements · graphic-package · Promotional Videos · Mediation scheme for financial disputes · Easy Transfer · Investment ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/news-notice/statement",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "The Monetary Authority of Macao congratulates the successful issuance of sovereign bonds and expresses sincere gratitude to the Ministry of Finance for its long ...",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=gee/2024",
         "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
         "text": "Press Releases · Statistics Releases · Notices and Announcements · Other Related News About AMCM · Foreign exchange reserves and nominal effective exchange rate ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=gap/2024",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "The grace period for four previously issued Zodiac Banknotes (including the Rat, Ox, Tiger and Rabbit Zodiac Banknotes) will end on 19 December 2024 (Thursday).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/news-notice/emop",
+        "title": "數字澳門元 - 澳門金融管理局",
+        "text": "數字澳門元（簡稱“e-MOP”）屬於數字型態的法定貨幣，即國際社會通稱的央行數字貨幣（“CBDC”），與包括紙幣及硬幣的實物澳門元，具有相同的法律地位和貨幣 ...",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.amcm.gov.mo/pt/news-notice/statement",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "The Ministry of Finance of the People's Republic of China issued RMB 6 billion sovereign bonds successfully in Macao. 16 de julho de 2025.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=gee/2024",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "The Monetary Authority of Macao announced today (13 December) that the preliminary estimate of Macao SAR's foreign exchange reserves amounted to MOP232.6 ...",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=notice%2F2025",
@@ -57,8 +163,31 @@
       {
         "url": "https://www.amcm.gov.mo/en/news-notice/statement?slug=gap/2024",
         "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
-        "text": "The grace period for four previously issued Zodiac Banknotes (including the Rat, Ox, Tiger and Rabbit Zodiac Banknotes) will end on 19 December 2024 (Thursday).",
+        "text": "澳門金融管理局近日分別與安哥拉國家銀行及佛得角銀行舉行了雙邊會議，交流有關支付結算基建系統的構建和運行經驗。 雙邊會議分別於2024年12月12日及13日在澳門舉行。",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.amcm.gov.mo/pt/news-notice/statement?slug=notice/2024",
+        "title": "News Statistics Announcements｜AMCM - 澳門金融管理局",
+        "text": "按澳門金融管理局的要求，友邦保險（國際）有限公司已於其網頁（www.aia.com.hk）及流動應用程式發出告示，提醒市民警惕假冒該公司的網站及釣魚詐騙信息，以免受騙及遭受不必要的 ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.amcm.gov.mo/pt/insurance-sector/continuing-professional-development-programme-for-the-insurance-intermediaries/notices-and-circulars",
+        "title": "通告及傳閱文件- 保險中介人持續專業培訓計劃 - 澳門金融管理局",
+        "text": "保險中介人持續專業培訓計劃 ; 於2018年被評核/認可為《保險中介人持續專業培訓計劃》合資格培訓活動(第038/B/2018-DSG/AMCM傳閱文件) ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.amcm.gov.mo/en/insurance-sector/regulatory-guidelines?type=notices-in-force-from-amcm",
+        "title": "法則及指引｜AMCM - 澳門金融管理局",
+        "text": "通告及傳閱文件, Chinese, Portuguese, English. 拒絕接受或續保勞工意外及職業病保險合約. (一九九六年四月第006/1996 - AMCM 通告). 開放式退休基金的個別或集體加入.",
+        "listing_probability": 0.95
       }
     ]
   }

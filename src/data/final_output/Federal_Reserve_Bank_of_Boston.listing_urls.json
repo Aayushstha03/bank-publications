@@ -6,18 +6,30 @@
         "url": "https://www.bostonfed.org/publications-and-data.aspx",
         "title": "Publications & Data - Federal Reserve Bank of Boston",
         "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.bostonfed.org/publications/sra/",
         "title": "Publications & Data - Federal Reserve Bank of Boston",
         "text": "Publications & Data · Technology Providers and Financial Stability: Overview of Risks and Regulatory Frameworks Includes Data · Technology Providers and Financial ...",
-        "listing_probability": 0.9
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/research-reports",
+        "title": "Research Reports - Federal Reserve Bank of Boston",
+        "text": "Banking Structure in New England 2001-2004 Banking Structure in New England 2001-2004. Banking Structure in New England 1999-2001 Banking Structure in New ...",
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.bostonfed.org/publications/special-reports.aspx",
         "title": "Special Reports - Federal Reserve Bank of Boston",
         "text": "In-depth reports on topics of special interest are produced from time to time by the Bank's Research Department. What Is the Balance of Payments?",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/annual-reports.aspx",
+        "title": "Annual Reports - Federal Reserve Bank of Boston",
+        "text": "Annual Reports · 2024 Financial Statements · Boston Fed releases 2023 financials, spotlights notable work during the year · Boston Fed releases 2022 financials, ...",
         "listing_probability": 0.98
       }
     ]
@@ -26,22 +38,34 @@
     "topic": "statistics",
     "entries": [
       {
+        "url": "https://www.bostonfed.org/in-the-region/economic.aspx",
+        "title": "Regional Economic Data & Conditions - Federal Reserve Bank of Boston",
+        "text": "We monitor the region's economy in real time and provide data and presentations about regional economic conditions.",
+        "listing_probability": 0.8
+      },
+      {
+        "url": "https://www.bostonfed.org/data/data-tools/national-economic-data-summary.aspx",
+        "title": "Summary of National Economic Data - Federal Reserve Bank of Boston",
+        "text": "FRED includes a Macro Snapshot tool that provides data on employment, inflation, GDP, and other important macroeconomic indicators.",
+        "listing_probability": 0.1
+      },
+      {
         "url": "https://www.bostonfed.org/publications-and-data.aspx",
         "title": "Publications & Data - Federal Reserve Bank of Boston",
         "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bostonfed.org/data/data-tools/national-economic-data-summary.aspx",
-        "title": "Summary of National Economic Data - Federal Reserve Bank of Boston",
-        "text": "FRED includes a Macro Snapshot tool that provides data on employment, inflation, GDP, and other important macroeconomic indicators.",
-        "listing_probability": 0.05
+        "url": "https://www.bostonfed.org/data/data-tools/new-england-economic-indicators.aspx",
+        "title": "New England Economic Indicators - Federal Reserve Bank of Boston",
+        "text": "A data resource that provides current and historical economic data for each of the region's six states, New England as a whole, and the United States.",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.bostonfed.org/data/data-tools/new-england-city-data.aspx",
-        "title": "New England City Data - Federal Reserve Bank of Boston",
-        "text": "The Boston Fed's New England City Data tool has been retired as of November 2020. For quality data about the US economy and people, we recommend the Census ...",
-        "listing_probability": 0.05
+        "url": "https://www.bostonfed.org/publications/research-data-report.aspx",
+        "title": "Research Data Reports - Federal Reserve Bank of Boston",
+        "text": "Research Data Reports · The 2017 Diary of Consumer Payment Choice · The 2016 and 2017 Surveys of Consumer Payment Choice: Summary Results · The 2015 and 2016 ...",
+        "listing_probability": 1.0
       }
     ]
   },
@@ -61,10 +85,16 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bostonfed.org/news-and-events/speeches/2019/financial-stability-and-regulatory-policy-in-a-low-interest-rate-environment.aspx",
-        "title": "Financial Stability and Regulatory Policy in a Low Interest Rate ...",
-        "text": "Takeaway: One effect of the low interest rate environment is that monetary policy buffers are diminished. For instance, in the event of a ...",
+        "url": "https://www.bostonfed.org/news-and-events/speeches/making-monetary-policy-during-a-financial-crisis.aspx",
+        "title": "Making Monetary Policy During a Financial Crisis",
+        "text": "The Federal Reserve has moved with commendable speed in lowering the interest rate target to address problems in financial markets and the real ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bostonfed.org/news-and-events/speeches/2024/perspectives-on-the-economy-and-policy.aspx",
+        "title": "Perspectives on the Economy and Policy",
+        "text": "We connect journalists with Boston Fed economists, researchers, and leadership and a variety of other resources.",
+        "listing_probability": 0.05
       }
     ]
   },
@@ -84,10 +114,22 @@
         "listing_probability": 0.98
       },
       {
-        "url": "https://www.bostonfed.org/news-and-events/press-releases.aspx",
-        "title": "Press Releases - Federal Reserve Bank of Boston",
-        "text": "Boston Fed Announces 2025 Board of Directors. January 13, 2025. up down 2024. Boston Federal Reserve Bank Mourns Passing of Jackie Palladino.",
-        "listing_probability": 0.98
+        "url": "https://www.bostonfed.org/news-and-events/speeches/2025/using-data-in-monetary-policymaking.aspx",
+        "title": "Using Data in Monetary Policymaking: A View from the Fed",
+        "text": "Sign up for Boston Fed news and insights. Speeches, Press Releases, News and Perspectives Speeches, Press Releases, News and Perspectives ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bostonfed.org/news-and-events/speeches/2025/economic-perspectives-in-ma.aspx",
+        "title": "Perspectives on the Economy from Susan M. Collins - Federal Reserve ...",
+        "text": "The data show an economy that remains solid overall. Labor market conditions point to a modest deceleration in activity, but are generally healthy.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bostonfed.org/workingplaces/news.aspx",
+        "title": "Insights & News - Federal Reserve Bank of Boston",
+        "text": "Can refugee resettlement bolster Vermont's aging workforce? Vermont Working Places team aims to help refugees fill open jobs, improve local public services.",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -97,19 +139,82 @@
       {
         "url": "https://www.bostonfed.org/publications/research-department-working-paper.aspx",
         "title": "Research Department Working Papers",
-        "text": "The working papers disseminate research to advance economic knowledge, present research-in-progress, and are preliminary, published to stimulate discussion.",
+        "text": "The papers present research-in-progress and often include conclusions that are preliminary. They are published to stimulate discussion and invite critical ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/risk-and-policy-analysis.aspx",
+        "title": "Supervisory Research and Analysis Working Papers",
+        "text": "Supervisory Research and Analysis Working Papers: Technology Providers and Financial Stability: Overview of Risks and Regulatory Frameworks.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/new-england-public-policy-center-working-paper.aspx",
+        "title": "New England Public Policy Center Working Papers",
+        "text": "New England Public Policy Center Working Papers · Designing Formulas for Distributing Reductions in State Aid · Childhood Lead and Academic Performance in ...",
         "listing_probability": 0.98
       },
       {
         "url": "https://www.bostonfed.org/monetary-policy-and-economic-research/economic-research.aspx",
         "title": "Economic Research - Federal Reserve Bank of Boston",
         "text": "Research Department Working Papers. Papers that disseminate empirical and theoretical research with the aim of advancing knowledge of economic matters.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/publications/new-england-economic-updates.aspx",
+        "title": "New England Economic Updates - Federal Reserve Bank of Boston",
+        "text": "Public presentations and insights about the regional economy. Sign up for new research and data on the New England economy.",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.bostonfed.org/monetary-policy-and-economic-research.aspx",
-        "title": "Monetary Policy & Economic Research",
-        "text": "Our research economists provide forecasts, analysis, research and informed perspectives to support our Bank President and Board of Directors in monetary ...",
+        "url": "https://www.bostonfed.org/payments-innovation/email/payments-studies-strategies-updates.aspx",
+        "title": "Payments Studies & Strategies Updates",
+        "text": "Sign up for the latest updates on our Payments Innovation work. Latest research and information on payment studies and innovations",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/public-policy-brief/2013/domestic-and-foreign-announcements-on-unconventional-monetary-policy-and-exchange-rates.aspx",
+        "title": "Domestic and Foreign Announcements on Unconventional ...",
+        "text": "This brief studies the effects that announcements about unconventional monetary policies (large-scale asset purchases, refinancing operations, and forward ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bostonfed.org/news-and-events/news/2022/08/regulators-propose-major-updates-to-law-that-encourages-banks-to-invest-in-lower-income-communities.aspx",
+        "title": "Regulators propose major updates to law that encourages banks to invest ...",
+        "text": "Three federal agencies are proposing major changes to the Community Reinvestment Act, a law that encourages banks to meet the needs of the ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/WebForms/e-mail-alerts-subscribe.aspx",
+        "title": "Subscribe - Federal Reserve Bank of Boston",
+        "text": "Sign up for email alerts and stay up-to-date on what's happening at the Federal Reserve Bank of Boston. Select the email lists you wish to subscribe to.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bostonfed.org/publications/research-department-working-paper/2017/fomc-communication-and-interest-rate-sensitivity-to-news.aspx",
+        "title": "FOMC Communication and Interest Rate Sensitivity to News",
+        "text": "Central bank communications involving forward guidance have received the most attention, because, many studies have shown, they can stimulate demand when ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bostonfed.org/publications/communities-and-banking/2016/spring/the-underutilized-potential-of-teacher-parent-communication.aspx",
+        "title": "The Underutilized Potential of Teacher-Parent Communication",
+        "text": "Three primary factors are contributing to the low rate of teacher-parent communication: implementation barriers, time costs, and the absence of schoolwide ...",
         "listing_probability": 0.1
       }
     ]

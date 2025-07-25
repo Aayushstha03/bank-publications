@@ -1,4 +1,66 @@
 {
   "Bank Name": "The Central Bank of the Islamic Republic of Iran",
-  "search_results": []
+  "search_results": [
+    {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "http://www.cbi.ir/publications/PDF/etno38.pdf",
+                "title": "etno38.pdf",
+                "source": "Cbi.ir",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAwFBMVEVHcEyVlZQAAADs7ewAAAAAAAD8/f4AAAAAAAAEBATQ0tIKCQfs7e3MzM2EhIShoZ8AAABlZmVISEgAAAD6+voAAAAAAACzs7aqqakAAABcX2D6+fmVlZEAAAAAAABDRkTS0tGXl461tKza2tq1tbV8g4EAAAD///8fIR7h4uCPkI5NUE+EhoNCQ0E0NjXy8/Jzc3OWl5TX1tUpLCsHDAjm5umvsK9hZGShoaBYW1q+xsQVFhaoqKWbn5u6ubeOkJSE+arSAAAAKnRSTlMAhwn2hRD6/gJ1/T/C/nl7WGJ9H+WkYv2HvLXQnqvynbPRz+Kg4f////5xLSMEAAABnklEQVQokW2S6VbjMAyFnZ40ytqhCy0MzM7IS+zsS5N0ef+3wmnBKRzuj5zYnyxdSybkKpeQFe0z+uKSLzQLwgKxeVrOPxMdHmx81Gqc1WVpFNi254U+AgyAaeh5tn03e4d2fTr7OQLKPGYsl93R+W6S23LfMkToBStVWcaxlI8ThDLR5bhzFPtjV1VY4f2UFkSJmNLm0POU6zgW3xtPHkjEmlejW1bQGFGF1xu5I8xiWuCbIqrPCmc5woeF94iqrtGodkrAw2axJsQZ03ROO8GE8gGgcO4IEXmCcK6rCeKeCwDcaagXkDTRDcM4OuvvTw21Ech2/i3Mig4ga7aEPP8dNB0LGxU7QOX8CvRVtrxFSNOJHagERa1Lj+beHx1IubFDecL+r9Zvk/NOF/9XdqICq2rqrZcLxJbSRshjSjMcTqWBrg1KT4xlMhd+qrsR5fjjZmTGTD8WVXgDV/uOjQSg7RDzflDSvATXohcdEBgk1//f5mRgWd+0nvRd1cZaLCzrYWncvo/V7zB9/rA7ab79F41D/FqzcLP+8KJfAYoXSNCbbJyMAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbi.ir/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "http://www.cbi.ir/statistics/",
+                "source": "Cbi.ir",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAwFBMVEVHcEyVlZQAAADs7ewAAAAAAAD8/f4AAAAAAAAEBATQ0tIKCQfs7e3MzM2EhIShoZ8AAABlZmVISEgAAAD6+voAAAAAAACzs7aqqakAAABcX2D6+fmVlZEAAAAAAABDRkTS0tGXl461tKza2tq1tbV8g4EAAAD///8fIR7h4uCPkI5NUE+EhoNCQ0E0NjXy8/Jzc3OWl5TX1tUpLCsHDAjm5umvsK9hZGShoaBYW1q+xsQVFhaoqKWbn5u6ubeOkJSE+arSAAAAKnRSTlMAhwn2hRD6/gJ1/T/C/nl7WGJ9H+WkYv2HvLXQnqvynbPRz+Kg4f////5xLSMEAAABnklEQVQokW2S6VbjMAyFnZ40ytqhCy0MzM7IS+zsS5N0ef+3wmnBKRzuj5zYnyxdSybkKpeQFe0z+uKSLzQLwgKxeVrOPxMdHmx81Gqc1WVpFNi254U+AgyAaeh5tn03e4d2fTr7OQLKPGYsl93R+W6S23LfMkToBStVWcaxlI8ThDLR5bhzFPtjV1VY4f2UFkSJmNLm0POU6zgW3xtPHkjEmlejW1bQGFGF1xu5I8xiWuCbIqrPCmc5woeF94iqrtGodkrAw2axJsQZ03ROO8GE8gGgcO4IEXmCcK6rCeKeCwDcaagXkDTRDcM4OuvvTw21Ech2/i3Mig4ga7aEPP8dNB0LGxU7QOX8CvRVtrxFSNOJHagERa1Lj+beHx1IubFDecL+r9Zvk/NOF/9XdqICq2rqrZcLxJbSRshjSjMcTqWBrg1KT4xlMhd+qrsR5fjjZmTGTD8WVXgDV/uOjQSg7RDzflDSvATXohcdEBgk1//f5mRgWd+0nvRd1cZaLCzrYWncvo/V7zB9/rA7ab79F41D/FqzcLP+8KJfAYoXSNCbbJyMAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbi.ir/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "news",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.cbi.ir/category/News.aspx",
+                "source": "Cbi.ir",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAwFBMVEVHcEyVlZQAAADs7ewAAAAAAAD8/f4AAAAAAAAEBATQ0tIKCQfs7e3MzM2EhIShoZ8AAABlZmVISEgAAAD6+voAAAAAAACzs7aqqakAAABcX2D6+fmVlZEAAAAAAABDRkTS0tGXl461tKza2tq1tbV8g4EAAAD///8fIR7h4uCPkI5NUE+EhoNCQ0E0NjXy8/Jzc3OWl5TX1tUpLCsHDAjm5umvsK9hZGShoaBYW1q+xsQVFhaoqKWbn5u6ubeOkJSE+arSAAAAKnRSTlMAhwn2hRD6/gJ1/T/C/nl7WGJ9H+WkYv2HvLXQnqvynbPRz+Kg4f////5xLSMEAAABnklEQVQokW2S6VbjMAyFnZ40ytqhCy0MzM7IS+zsS5N0ef+3wmnBKRzuj5zYnyxdSybkKpeQFe0z+uKSLzQLwgKxeVrOPxMdHmx81Gqc1WVpFNi254U+AgyAaeh5tn03e4d2fTr7OQLKPGYsl93R+W6S23LfMkToBStVWcaxlI8ThDLR5bhzFPtjV1VY4f2UFkSJmNLm0POU6zgW3xtPHkjEmlejW1bQGFGF1xu5I8xiWuCbIqrPCmc5woeF94iqrtGodkrAw2axJsQZ03ROO8GE8gGgcO4IEXmCcK6rCeKeCwDcaagXkDTRDcM4OuvvTw21Ech2/i3Mig4ga7aEPP8dNB0LGxU7QOX8CvRVtrxFSNOJHagERa1Lj+beHx1IubFDecL+r9Zvk/NOF/9XdqICq2rqrZcLxJbSRshjSjMcTqWBrg1KT4xlMhd+qrsR5fjjZmTGTD8WVXgDV/uOjQSg7RDzflDSvATXohcdEBgk1//f5mRgWd+0nvRd1cZaLCzrYWncvo/V7zB9/rA7ab79F41D/FqzcLP+8KJfAYoXSNCbbJyMAAAAAElFTkSuQmCC",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://www.cbi.ir/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
+          }
+        }
+      ]
+    }
+  ]
 }

@@ -16,20 +16,36 @@
                 "position": 1
               },
               {
-                "url": "https://cp.nbp.pl/en/publications/",
-                "title": "Publications",
-                "source": "Centrum Pieniądza NBP - Narodowy Bank Polski",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cp.nbp.pl&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://cp.nbp.pl/wp-content/uploads/2024/04/eng-bankoteka-27.png",
+                "url": "https://nbp.pl/en/publications/cyclical-materials/real-estate-market/quarterly-report/",
+                "title": "Real estate market – Quarterly report | Publications - NBP",
+                "text": "The Report describes in a synthetic way the main developments in the housing and commercial real estate markets in the major cities.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://cp.nbp.pl/en/publications/",
-                "title": "Publications",
-                "source": "Centrum Pieniądza NBP - Narodowy Bank Polski",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cp.nbp.pl&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://cp.nbp.pl/wp-content/uploads/2024/04/eng-bankoteka-25.png",
+                "url": "https://nbp.pl/en/publications/other/migration/",
+                "title": "Publications about migration inflows and outflows - NBP",
+                "text": "This report presents selected results of a survey of emigrants from Poland to Great Britain, Germany and the Netherlands conducted at the turn of 2022 and 2023.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://nbp.pl/en/publications/cyclical-materials/economic-climate/",
+                "title": "Economic climate | Publications - NBP",
+                "text": "The report presents economic climate in the sector of polish enterprises. This report has been prepared on the basis of business survey data for information ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://nbp.pl/en/publications/nbp-activity/annual-report/",
+                "title": "NBP Annual Report",
+                "text": "This annual publication contains information on overall economic and financial performance in Poland and on the development of the banking sector, together with ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
@@ -38,7 +54,7 @@
             "Publications reports publications reports 2021"
           ],
           "query": {
-            "q": "site:https://nbp.pl/en/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:https://nbp.pl/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
           }
         }
       ]
@@ -50,12 +66,36 @@
           "results": {
             "web": [
               {
+                "url": "https://nbp.pl/en/statistic-and-financial-reporting/",
+                "title": "Statistics - NBP",
+                "text": "Narodowy Bank Polski publishes a broad range of statistical data on a regular basis. It also submits reports to international institutions, in particular, the ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
                 "url": "https://nbp.pl/en/payment-system/statistical-data/",
                 "title": "Statistical data | Payment system - NBP",
                 "text": "Statistical data | Payment system. Analyses and studies | Payment cards | Assessment of the Polish payment system functioning | Polish Payment System ...",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
-                "position": 1
+                "position": 2
+              },
+              {
+                "url": "https://nbp.pl/en/about-nbp/structure/department/statistics/",
+                "title": "Department of Statistics | Narodowy Bank Polski - NBP",
+                "text": "The Department of Statistics performs tasks related to gathering, processing and making available information, and reviewing it on an ongoing basis, regarding ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 3
+              },
+              {
+                "url": "https://nbp.pl/en/statistic-and-financial-reporting/monetary-and-financial-statistics/",
+                "title": "Monetary and financial statistics | NBP",
+                "text": "Monetary and financial statistics · Monetary aggregates · M3 and counterparts – balance sheet format · Banknotes and coins: structure of banknotes and coins in ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 4
               },
               {
                 "url": "https://nbp.pl/en/publications/information-bulletin/",
@@ -63,15 +103,7 @@
                 "text": "A monthly publication containing basic information on overall economic and financial performance in Poland and on the policies of the central bank.",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
-                "position": 2
-              },
-              {
-                "url": "https://nbp.pl/en/statistic-and-financial-reporting/monetary-and-financial-statistics/banking-sector-financial-data/",
-                "title": "Banking sector financial data - NBP",
-                "text": "The tables include monthly aggregated banking sector information (banks and branches of credit institutions) based on solo financial reporting, ...",
-                "source": "Narodowy Bank Polski",
-                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 5
               }
             ]
           },
@@ -80,7 +112,7 @@
             "Statistics bulletin data statistics data bulletin 2021"
           ],
           "query": {
-            "q": "site:https://nbp.pl/en/ (inurl:statistics | inurl:bulletin | inurl:data) (intitle:statistics | intitle:data | intitle:bulletin)"
+            "q": "site:https://nbp.pl/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
           }
         }
       ]
@@ -100,29 +132,46 @@
                 "position": 1
               },
               {
-                "url": "https://nbp.pl/en/payment-system/regulations/",
-                "title": "Payment system in Poland - Regulations - NBP",
-                "text": "Regulation of the Governor of Narodowy Bank Polski on the manner of performing interbank clearing and interbank settlements.",
+                "url": "https://nbp.pl/wp-content/uploads/2023/09/Monetary-Policy-Guidelines-for-2024.pdf",
+                "title": "Monetary Policy Guidelines for 2024 | NBP",
+                "text": "NBP will continue to pursue the strategy of a medium-term inflation target at 2.5%, with a symmetric band for deviations of +/-1 percentage point.",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
                 "position": 2
               },
               {
-                "url": "https://nbp.pl/en/monetary-policy/mpc-documents/monetary-policy-guidelines/",
-                "title": "Monetary Policy Guidelines | Narodowy Bank Polski",
-                "text": "This publication presents the monetary policy guidelines approved annually by the Monetary Policy Council and subsequently submitted to the Sejm for its ...",
+                "url": "https://nbp.pl/wp-content/uploads/2022/10/en_zal2022a.pdf",
+                "title": "Monetary Policy Guidelines for 2022 - NBP",
+                "text": "NBP will continue to pursue the strategy of a medium-term inflation target at 2.5%, with a symmetric band for deviations of +/-1 percentage point.",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
                 "position": 3
+              },
+              {
+                "url": "https://nbp.pl/wp-content/uploads/2022/10/en_zal2005a.pdf",
+                "title": "Monetary Policy Guidelines - NBP",
+                "text": "According to the Art. 227 para. 1 of the Constitution of the Republic of Poland “the National. Bank of Poland shall be responsible for the value of Polish ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
+                "url": "https://nbp.pl/wp-content/uploads/2024/09/Zalozenia-polityki-pienieznej-na-rok-2025-ANG.pdf",
+                "title": "Monetary Policy Guidelines for 2025 - NBP",
+                "text": "NBP will continue to pursue the strategy of a medium-term inflation target at 2.5%, with a symmetric band for deviations of +/-1 percentage point.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 5
               }
             ]
           },
           "related": [
+            "Policy regulations guidelines policy regulations pdf",
             "Policy regulations guidelines policy regulations 2021",
             "Policy regulations guidelines policy regulations 2022"
           ],
           "query": {
-            "q": "site:https://nbp.pl/en/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://nbp.pl/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -142,13 +191,21 @@
                 "position": 1
               },
               {
+                "url": "https://nbp.pl/en/monetary-policy/mpc-decisions/mpc-press-conferences/",
+                "title": "MPC press conferences | Narodowy Bank Polski",
+                "text": "MPC press conferences · Videocast from the press conference following the meeting of the MPC held on 3-4 March 2020 · Videocast from the press conference ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
                 "url": "https://nbp.pl/en/press-release-of-the-financial-stability-committee-after-its-meeting-on-macroprudential-supervision-6/",
                 "title": "Press release of the Financial Stability Committee after its meeting on ...",
                 "text": "The meeting of the Financial Stability Committee on 27 June 2025 was attended by: Artur Soboń, Member of the Management Board of Narodowy Bank ...",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
                 "published_time": "2025-06-27T00:00:00",
-                "position": 2
+                "position": 3
               },
               {
                 "url": "https://nbp.pl/en/about-nbp/contact/media-relations/press-release-2/",
@@ -156,7 +213,16 @@
                 "text": "The NBP Management Board welcomes banks' initiatives aimed at reducing the legal risk of FX housing loans via agreements with borrowers. In this context, the ...",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
-                "position": 3
+                "position": 4
+              },
+              {
+                "url": "https://nbp.pl/en/press-releases-opinions-publications/",
+                "title": "Press releases, opinions, publications | Narodowy Bank Polski - NBP",
+                "text": "Statements regarding the Tribunal of State for the Governor of NBP can have a negative impact on the economy – Reuters (29.11.2023 r.).",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "published_time": "2024-01-20T00:00:00",
+                "position": 5
               }
             ]
           },
@@ -166,7 +232,7 @@
             "News speeches press news speeches press 2021"
           ],
           "query": {
-            "q": "site:https://nbp.pl/en/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://nbp.pl/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -186,9 +252,62 @@
                 "position": 1
               },
               {
+                "url": "https://nbp.pl/wp-content/uploads/2023/01/unemployment.pdf",
+                "title": "Unemployment in an Estimated New Keynesian Model - e-Repositori UPF",
+                "text": "Abstract. We reformulate the Smets-Wouters (2007) framework by embed- ding the theory of unemployment proposed in Galí (2011a,b). We.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 2
+              },
+              {
+                "url": "https://static.nbp.pl/publikacje/materialy-i-studia/108_en.pdf",
+                "title": "NATIONAL BANK OF POLAND WORKING PAPER No. 108 - Nbp",
+                "text": "In particular it is able to document the accommodative stance of monetary policy after the financial crisis. The rest of the paper is structured as follows.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=static.nbp.pl",
+                "position": 3
+              },
+              {
+                "url": "https://nbp.pl/wp-content/uploads/2023/01/holmsen_qvigstad_roisland_solbergjohansen.pdf",
+                "title": "Working Paper - NBP",
+                "text": "Working papers from 1999 onwards are available on www.norges-bank.no. Norges Bank's working papers present research projects and reports (not ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 4
+              },
+              {
                 "url": "https://nbp.pl/en/publications/research-papers/",
                 "title": "Research Papers | Publications - NBP",
                 "text": "Research Papers. Publications | NBP working Papers | Publications of the NBP staff in the ISI Master Journal List | Bank and Credit.",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://nbp.pl/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/wp-content/uploads/2023/01/stoltenberg_leptyuk.pdf",
+                "title": "Policy Announcements and Welfare",
+                "text": "Abstract. In the presence of idiosyncratic risk, the public revelation of information about un- certain aggregate outcomes such as policy choices can be ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://nbp.pl/en/kategoria/news/nbp-announcements/",
+                "title": "Archiwa NBP announcements - Internetowy Serwis Informacyjny",
+                "text": "Komunikat w sprawie wyniku finansowego NBP za 2023 r. Data publikacji: 24 kwietnia, 2024. Nawiązując do komentarzy prasowych dotyczących wyniku finansowego NBP ...",
                 "source": "Narodowy Bank Polski",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
                 "position": 2
@@ -196,7 +315,45 @@
             ]
           },
           "query": {
-            "q": "site:https://nbp.pl/en/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://nbp.pl/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://nbp.pl/wp-content/uploads/2023/01/ehrmann_fratzscher.pdf",
+                "title": "Communication and decision-making by central bank committees",
+                "text": "Also the reaction of financial markets to communication essentially confirms our hypotheses.",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 1
+              },
+              {
+                "url": "https://nbp.pl/en/multimedia-in-communication-of-central-banks-preparation-post-production-and-video-streaming/",
+                "title": "Multimedia in communication of central banks: preparation, post ...",
+                "text": "The webinar Multimedia in communication of central banks: preparation, post-production and video streaming – organized by the International ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "published_time": "2021-05-21T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://nbp.pl/wp-content/uploads/2023/01/czogala_kot_sawicka.pdf",
+                "title": "Inflation expectations of Polish entrepreneurs. Does the central ...",
+                "text": "The widespread increase in the central banks' transparency is driven by the be- lief that it can improve monetary policy effectiveness, primarily through ...",
+                "source": "Narodowy Bank Polski",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEUVLlIKKVEAJlAPK1ESLFJoaWSDfWpFTlsjN1V9eWlAS1t3dmlIUV0xQFfKt4G2qHvGtIBjZWMAIE+TjHGtoHkAH0+flnWmm3cAG06+rn4AHk8AC0y7rH2Lhm8XM1UAFU15eGpZX2JSWV+akXM2RFltbGUqPFbNrL6AAAAAtElEQVR4Ae2MhQGEIABFaZsGu2P/DS/MJXw0P8DBC0T4tyOM0Q8MyHGcGmUBBGEUxyxiSYoyFkVRig4RZ1yEMJNKG24spy7iPufRqRIpfZGVqkp4DZq2orzrfVOdIm/l0JXKDTIxZYYoJ50Q7hLHhNPmL7K2NAWVUjYTvETV+/Kf5H09y19tvAAITrhCoZB/cVobW1AeQnAjRggnO+rVWms2pMRGHlH/jPi3Ia01IgDqR3v5An7qC/ptQ008AAAAAElFTkSuQmCC",
+                "position": 3
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://nbp.pl/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

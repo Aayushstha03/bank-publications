@@ -5,20 +5,32 @@
       {
         "url": "https://www.federalreserve.gov/publications.htm",
         "title": "Publications - Federal Reserve Board",
-        "text": "View the latest Federal Reserve Publications by category below or search, filter, or browse by A-Z publication title. Search Submit Button.",
-        "listing_probability": 0.95
+        "text": "View the latest Federal Reserve Publications by category below or search, filter, or browse by A-Z publication title. Search ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.federalreserve.gov/publications/azindex.htm",
+        "title": "Publications A-Z index - Federal Reserve Board",
+        "text": "Publications A-Z · Fair Credit Reporting Act Dispute Process · Feasibility and Desirability of Mandatory Subordinated Debt (PDF) · Feature Publications · Fed ...",
+        "listing_probability": 0.98
       },
       {
         "url": "https://www.federalreserve.gov/consumerscommunities/community-development-publications.htm",
         "title": "Research Publications & Data Analysis - Federal Reserve Board",
         "text": "The survey of more than 11,000 adults was conducted in October 2023.and the report discusses findings related to financial well-being, income, employment, ...",
-        "listing_probability": 0.2
+        "listing_probability": 0.15
       },
       {
-        "url": "https://www.federalreserve.gov/publications/other-reports.htm",
-        "title": "The Fed - Other Reports - Federal Reserve Board",
-        "text": "All federal agencies must submit an annual report to Congress detailing acquisitions of materials or goods that are manufactured outside of the US.",
-        "listing_probability": 0.2
+        "url": "https://www.federalreserve.gov/publications/reports-to-congress-in-response-to-covid-19.htm",
+        "title": "2025 Reports to Congress Pursuant to Section 13(3) of the Federal ...",
+        "text": "The Federal Reserve filed these reports with Congress pursuant to section 13(3) of the Federal Reserve Act concerning the lending facilities established by the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm",
+        "title": "The Fed - Monetary Policy Report - Federal Reserve Board",
+        "text": "This report⁠—called the Monetary Policy Report⁠—is submitted semiannually to the Senate Committee on Banking, Housing, and Urban Affairs and to ...",
+        "listing_probability": 0.15
       }
     ]
   },
@@ -29,18 +41,30 @@
         "url": "https://www.federalreserve.gov/data.htm",
         "title": "Data - Federal Reserve Board",
         "text": "Data · Bank Assets and Liabilities · Bank Structure Data · Business Finance · Dealer Financing Terms · Exchange Rates and International Data · Financial Accounts.",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.federalreserve.gov/apps/mdrm/data-dictionary",
-        "title": "Data Dictionary - The Fed - Micro Data Reference Manual",
-        "text": "Download MDRM Data Dictionary. Search For Search By Item Number (Example: 2170) Item Name (Example: Total Assets)",
-        "listing_probability": 0.1
+        "url": "https://www.federalreserve.gov/pubs/supplement/default.htm",
+        "title": "FRB: Statistical Supplement to the Federal Reserve Bulletin",
+        "text": "The Statistical Supplement to the Federal Reserve Bulletin is published monthly under the direction of the staff publications committee.",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.federalreserve.gov/publications/bulletin.htm",
         "title": "The Fed - Federal Reserve Bulletin",
         "text": "The Federal Reserve Bulletin ceased publication in 2022. Content formerly included in the Bulletin can be found in other Board publications and throughout our ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.federalreserve.gov/paymentsystems/coin_data.htm",
+        "title": "Data - Federal Reserve Board",
+        "text": "The data below begin with 2004. Currency in Circulation: Value Currency in Circulation: Volume Calendar-Year Print Order: Volume and Value",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15",
+        "title": "H15 - Data Download Program - Choose - Federal Reserve Board",
+        "text": "The Board and the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) are adding more options for the Board's Data Download Program (DDP) ...",
         "listing_probability": 0.9
       }
     ]
@@ -49,22 +73,22 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.federalreserve.gov/publications/2023-ar-record-of-policy-actions-of-the-board-of-governors.htm",
-        "title": "The Fed - Record of Policy Actions of the Board of Governors",
-        "text": "This appendix provides a summary of policy actions in 2023. Policy actions were implemented through (1) rules and regulations, (2) policy statements and other ...",
+        "url": "https://www.federalreserve.gov/supervisionreg/regabout.htm",
+        "title": "The Fed - About Regulations - Federal Reserve Board",
+        "text": "On the All Regulations page above, you will find a brief description of each of the Board's regulations, with a link to the full text of the regulation.",
         "listing_probability": 0.1
       },
       {
-        "url": "https://www.federalreserve.gov/paymentsystems/other-regulations.htm",
-        "title": "Other Regulations and Statutes - Federal Reserve Board",
-        "text": "Reg J Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers through the Fedwire Funds Service and the FedNow Service",
-        "listing_probability": 0.9
+        "url": "https://www.federalreserve.gov/monetarypolicy/policytools.htm",
+        "title": "Policy Tools - Federal Reserve Board",
+        "text": "The Federal Reserve has a variety of policy tools that it uses in order to implement monetary policy.",
+        "listing_probability": 0.05
       },
       {
-        "url": "https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm",
-        "title": "Policy Normalization - Federal Reserve Board",
-        "text": "The Committee intends to reduce the Federal Reserve's securities holdings over time in a predictable manner primarily by adjusting the amounts reinvested of ...",
-        "listing_probability": 0.1
+        "url": "https://www.federalreserve.gov/supervisionreg/reglisting.htm",
+        "title": "The Fed - Regulations - Federal Reserve Board",
+        "text": "To establish criteria for the Federal Reserve Bank of New York to determine the eligibility of credit rating agencies and the ratings they issue for use in the ...",
+        "listing_probability": 0.95
       }
     ]
   },
@@ -75,19 +99,31 @@
         "url": "https://www.federalreserve.gov/newsevents/speeches.htm",
         "title": "Speeches of Federal Reserve Officials",
         "text": "At \"Unleashing a Financially Inclusive Future,\" the second annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C.. 7/15/ ...",
-        "listing_probability": 0.99
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speech/powell20250722a.htm",
+        "title": "Opening remarks by Chair Powell at the Integrated Review of the Capital ...",
+        "text": "Good morning, and welcome to the Federal Reserve Board. I am pleased, though not surprised, to see such great interest in the topic of today's ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents.htm",
+        "title": "News & Events - Federal Reserve Board",
+        "text": "News & Events ; Press Releases · 7/21/2025. Agencies issue joint proposal to rescind 2023 Community Reinvestment Act final rule ; Speeches · Chair Jerome H. Powell.",
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.federalreserve.gov/newsevents/speech/2025-speeches.htm",
         "title": "2025 Speeches - Federal Reserve Board",
         "text": "Watch live Governor Michael S. Barr at the Policy Summit 2025: Building Strong and Sustainable Communities, hosted by the Federal Reserve Bank of Cleveland.",
-        "listing_probability": 0.99
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.federalreserve.gov/newsevents/speeches.htm?speaker=Michael%20S.%20Barr",
         "title": "Speeches of Federal Reserve Officials",
         "text": "Opening Remarks. Governor Michael S. Barr. At the 2025 Northeast / Mid-Atlantic Small Business Credit Symposium, Federal Reserve Bank of New York, New York, ...",
-        "listing_probability": 0.99
+        "listing_probability": 0.95
       }
     ]
   },
@@ -95,22 +131,103 @@
     "topic": "research",
     "entries": [
       {
-        "url": "https://www.federalreserve.gov/consumerscommunities/shed-working-papers-notes.htm",
-        "title": "The Fed - Working Papers and Notes - Federal Reserve Board",
-        "text": "Working Papers and Notes, Last Update: May 21, 2024, Board of Governors of the Federal Reserve System, Tools and Information, Stay Connected.",
+        "url": "https://www.federalreserve.gov/econres/scf_workingpapers.htm",
+        "title": "Working Papers - Federal Reserve Board",
+        "text": "Working Papers. Estimating Top Income and Wealth Shares: Sensitivity to Data and Methods Jesse Bricker, Alice Henriques, Jacob Krimmel, ...",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.federalreserve.gov/econres/us-documentation-papers.htm",
-        "title": "The Fed - Documentation and Research Papers",
-        "text": "This page provides links to otherwise unpublished documentation of the FRB/US model as well as to research articles that use the FRB/US model.",
-        "listing_probability": 0.98
+        "url": "https://www.federalreserve.gov/consumerscommunities/shed-working-papers-notes.htm",
+        "title": "The Fed - Working Papers and Notes - Federal Reserve Board",
+        "text": "Working Papers and Notes, Last Update: May 21, 2024, Board of Governors of the Federal Reserve System, Tools and Information, Stay Connected.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/regreform/discount-window-announcements.htm",
+        "title": "The Fed - Discount Window Announcements",
+        "text": "Discount Window Announcements. December 31, 2024. Incorrect primary credit rate applied. On December 14, 2022, six primary credit loans were charged an ...",
+        "listing_probability": 0.9
       },
       {
-        "url": "https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-federal-reserve-research.htm",
-        "title": "Federal Reserve Research",
-        "text": "This section lists research papers authored or co-authored by Federal Reserve staff that address topics of relevance to the Federal Reserve's review.",
-        "listing_probability": 0.97
+        "url": "https://www.federalreserve.gov/apps/h2a/h2a.aspx?mode=pending",
+        "title": "Federal Reserve Release H.2A - Updates to current release",
+        "text": "H.2A Notice of Formation and Mergers of, and Acquisitions by, Bank Holding Companies or Savings and Loan Holding Companies; Change in Bank Control.",
+        "listing_probability": 0.2
+      },
+      {
+        "url": "https://www.federalreserve.gov/econres/scf-announcements.htm",
+        "title": "Announcements - Federal Reserve Board",
+        "text": "The 2022 Survey of Consumer Finances will introduce new questions on families' experiences during the COVID-19 pandemic, use of buy now, pay later lenders, and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20240308a.htm",
+        "title": "Press Releases - Federal Reserve Board",
+        "text": "The Federal Reserve Board on Friday announced a final rule that updates risk management requirements for certain systemically important financial market ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240131c.htm",
+        "title": "Federal Open Market Committee announces updates that further ...",
+        "text": "The Federal Open Market Committee on Wednesday announced updates that further enhance its policy on investment and trading.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/paymentsystems/psr_press.htm",
+        "title": "Press Releases and Notices - Federal Reserve Board",
+        "text": "The Federal Reserve Board issues press releases and notices regarding intraday credit, payment system risk, and related policy updates.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.federalreserve.gov/system-of-records-notices.htm",
+        "title": "System of Records Notices (SORNs) - Federal Reserve Board",
+        "text": "The notice, known as System of Records Notice (SORN), informs the public of the purpose of the system, authority for maintaining the system, and the types of ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.federalreserve.gov/supervisionreg/afi/regionalinfo.htm",
+        "title": "Newspaper Notices - Federal Reserve Board",
+        "text": "Federal regulations require notice of certain proposals be published in a newspaper of general circulation in affected communities, allowing ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.federalreserve.gov/paymentsystems/designated_fmu_press.htm",
+        "title": "Press Releases and Notices - Federal Reserve Board",
+        "text": "The Federal Reserve Board issues press releases and notices regarding risk management for systemically important financial market utilities (FMUs).",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.federalreserve.gov/paymentsystems/fednow_press.htm",
+        "title": "The Fed - Press Releases and Notices - Federal Reserve Board",
+        "text": "The Fed announced pricing for payment services, the launch of the FedNow instant payment system, and a 24/7 interbank settlement service.",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm",
+        "title": "Speech by Vice Chair Jefferson on central bank communication",
+        "text": "Today, I will talk about central bank communications and the use of textual analysis tools. These tools help process ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speech/mishkin20071129a.htm",
+        "title": "The Federal Reserve's Enhanced Communication Strategy and the ...",
+        "text": "The modern science of monetary policy provides a strong rationale for the Federal Reserve's new communication policy.",
+        "listing_probability": 0.05
       }
     ]
   }

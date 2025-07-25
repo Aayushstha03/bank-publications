@@ -1,24 +1,116 @@
 [
   {
-    "topic": "news",
+    "topic": "publications",
     "entries": [
       {
-        "url": "https://www.cbbh.ba/press/ShowNews/882",
-        "title": "Invitation to a Regular Press Conference",
-        "text": "The Central Bank of Bosnia and Herzegovina (CBBH) organizes its regular annual press conference. The topic will be the operations of the ...",
-        "listing_probability": 0.1
+        "url": "https://www.cbbh.ba/Content/Read/1242",
+        "title": "Reports and statistics - The Central Bank of Bosnia and Herzegovina",
+        "text": "Reports and statistics · Statistics RTGS and GC · Annual reports - Payment Systems in BH · Annual reports - Card Operations in BH.",
+        "listing_probability": 0.98
       },
       {
-        "url": "https://www.cbbh.ba/press/ShowNews/952",
-        "title": "Press release - The Central Bank of Bosnia and Herzegovina",
-        "text": "Press release · Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation ...",
+        "url": "https://www.cbbh.ba/press/ShowNews/1637",
+        "title": "CBBH has expanded the list of flagship analytical reports with the ...",
+        "text": "CBBH has expanded the list of flagship analytical reports with the Macroeconomic Imbalances Report · Speeches and Presentations · International ...",
+        "listing_probability": 0.15
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.cbbh.ba/content/read/915",
+        "title": "Statistics web portal CBBH",
+        "text": "Advanced Release Calendar · Data Access - Statistics web portal · Data according to earlier methodologies · Data Compilation Forms · Methodological Explanations.",
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.cbbh.ba/press/ShowNews/535",
-        "title": "Press Release - The Central Bank of Bosnia and Herzegovina",
-        "text": "Regarding the statement which was made by the Republika Srpska (RS) Prime Minister Milorad Dodik on the startup of the constitutional suit ...",
+        "url": "https://www.cbbh.ba/content/read/480",
+        "title": "Forms for BoP Statistics Data Collection",
+        "text": "Forms for BoP Statistics Data Collection: Statistics, Single Registry of Legal Entities Accounts, Central Registry of Credits, Statistics, Web portal of the ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.cbbh.ba/content/read/935",
+        "title": "Data according to earlier methodologies",
+        "text": "Dear User, on this link you can find the old presentation archive of the statistics, published by the Central Bank of Bosnia and Herzegovina.",
+        "listing_probability": 0.75
+      },
+      {
+        "url": "https://www.cbbh.ba/content/read/1105",
+        "title": "Forms for BOP Statistics Data Collection",
+        "text": "Forms for BOP Statistics Data Collection: BoP Form 3 - Post Office and Telecommunication Services, BoP Form 4 - Services of International Transactions on ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.cbbh.ba/press/readfaq/1",
+        "title": "Monetary policy in Bosnia and Herzegovina",
+        "text": "1. What is currency board? · 2. Which are the features of the currency board in BH? · 3. Does the currency board represent an obstacle for BH ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.cbbh.ba/press/ShowNews/1561",
+        "title": "A Successful Investment Policy of the CBBH in the Period of Crisis",
+        "text": "Vice Governor said that the CBBH has been carefully following up with all the existing risks which may result in inflation higher than expected, ...",
         "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbbh.ba/press/ShowNews/297",
+        "title": "New RR Regulations to Take Effect From June 1",
+        "text": "The amendments to Article 36 of the Law had four elements. The first is related to an extension of the reserve base to include foreign currency ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.cbbh.ba/content/read/1167?lang=en",
+        "title": "Speeches and presentations",
+        "text": "Presentations · Presentation available in local languages only · Personal Finance Management Skills - Basic Things You Need to Know (Available in Local Languages ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.cbbh.ba/press/",
+        "title": "Public Announcements - The Central Bank of Bosnia and Herzegovina",
+        "text": "Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation of the Law on Freedom of Access ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.cbbh.ba/press/read",
+        "title": "The Central Bank of Bosnia and Herzegovina",
+        "text": "Here you can find speeches and presentations of the CBBH officials, domestic and international experts on the issues in the area of monetary policy and finance.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.cbbh.ba/press/edukacija/673?lang=en",
+        "title": "Capital Markets - The Central Bank of Bosnia and Herzegovina",
+        "text": "The BiH financial market has a capital market, but not a developed money market. The financial market instruments are relatively underdeveloped.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.cbbh.ba/press/audio/",
+        "title": "Multimedia - The Central Bank of Bosnia and Herzegovina",
+        "text": "Speeches and Presentations · International Conference \"The Future of Cash\" · CBBH Newsletters · Annual Report on the Implementation of the Law on Freedom of Access ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.cbbh.ba/press/ShowNews/1258",
+        "title": "CBBH improved existing and launched new communication ...",
+        "text": "The CBBH has decided to take this step in order to improve the transparency of the institution, facilitate access to the information on its ...",
+        "listing_probability": 0.05
       }
     ]
   }

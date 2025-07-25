@@ -3,15 +3,27 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.nrb.org.np/category/reports/",
-        "title": "Reports Archives - the official site of the Central Bank of Nepal",
-        "text": "Monetary Operation Summary FY-2082-083 upto 2082.04.04. July 20, 2025 26.70 kb ; Monetary Operation Summary FY-2082-083 upto 2082.04.01. July 17, 2025 26.84 kb.",
-        "listing_probability": 1.0
-      },
-      {
         "url": "https://www.nrb.org.np/category/annual-reports/",
         "title": "Annual Reports Archives - the official site of the Central Bank of Nepal",
         "text": "Annual Report 2023-24 (English). July 3, 2025 10.13 mb ; FIU-Nepal: Annual Report 2080/81 (2023/24). March 30, 2025 33.34 mb ; Annual Bank Supervision Report 2024.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nrb.org.np/category/reports/pdm-publications/",
+        "title": "Study Report & Publication Archives - the official site of the Central Bank ...",
+        "text": "Study Report & Publication. Home » Reports » Study Report & Publication. वैदेशिक रोजगार बचतपत्रको स्थिति र प्रवर्द्धनका उपाय सम्बन्धी अध्ययन प्रतिवेदन. July 29, 2024 526.54 kb.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nrb.org.np/category/anniversary-publications/",
+        "title": "Anniversary Publications Archives - the official site of the Central Bank ...",
+        "text": "नेपाल राष्ट्र बैंक समाचार ७० औं वार्षिकोत्सव विशेषाङ्क · नेपाल राष्ट्र बैंक समाचार ६९ औँ वार्षिकोत्सव विशेषाङ्क · नेपाल राष्ट्र बैंक समाचार, ६८औं वार्षिकोत्सव विशेषाङ्क, २०८० · नेपाल राष्ट्र बैंक समाचार, ६७औं वार्षिकोत्सव विशेषाङ्क, २०७९.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nrb.org.np/category/reports/",
+        "title": "Reports Archives - the official site of the Central Bank of Nepal",
+        "text": "Monetary Operation Summary FY-2082-083 upto 2082.04.08. July 24, 2025 26.84 kb ; Monetary Operation Summary FY-2082-083 upto 2082.04.07. July 23, 2025 30.91 kb.",
         "listing_probability": 1.0
       },
       {
@@ -29,19 +41,19 @@
         "url": "https://www.nrb.org.np/category/monthly-statistics/",
         "title": "Monthly Statistics Archives - the official site of the Central Bank of Nepal",
         "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक ; 2082-02(Mid June, 2025) · July 11, 2025 3.67 mb · 847.45 kb ; 2082-01(Mid May, 2025) · June 12, 2025 3.66 mb · 845.55 kb ; 2081-12(Mid ...",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.nrb.org.np/category/economic-bulletin/",
         "title": "Economic Bulletin Archives - the official site of the Central Bank of ...",
         "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक ; Economic Bulletin-2025-04 (Mid April) · July 16, 2025 7.93 mb ; Economic Bulletin-2025-01 (Mid January). May 16, 2025 7.88 mb.",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.nrb.org.np/category/banking-and-financial-statistics/",
         "title": "Banking and Financial Statistics Archives - the official site of the ...",
         "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक ; No 61 July 2015 · 2.67 mb ; No 59 July 2013 · 2.14 mb ; No 58 July 2012 · 1.62 mb ; No 57 July 2011 · 2.03 mb ; No 56 Jan 2011 · 3.64 mb.",
-        "listing_probability": 0.99
+        "listing_probability": 1.0
       }
     ]
   },
@@ -49,21 +61,33 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.nrb.org.np/category/manual-guidelines/policy/",
-        "title": "Policy Archives - the official site of the Central Bank of Nepal",
-        "text": "Skip to content. Nepal Rastra Bank नेपाल राष्ट्र बैंक. About. Introduction. About NRB · Board of Directors · Principal Officers · Information Officers · Organogram.",
+        "url": "https://www.nrb.org.np/category/policies-guidelines/",
+        "title": "Policies, Guidelines Archives - the official site of the Central Bank of ...",
+        "text": "भुक्तानीसम्बन्धी कार्य गर्न अनुमतिपत्रप्राप्त संस्था (बैंक तथा वित्तीय संस्था बाहेक) का लागि लाभांश वितरणसम्बन्धी मार्गदर्शन, २०८२ जारी गरिएको सम्बन्धमा New. July 20, 2025 456.98 kb.",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.nrb.org.np/category/policies-guidelines/?department=psd;",
+        "title": "Policies, Guidelines Archives - the official site of the Central Bank of ...",
+        "text": "Skip to content. Nepal Rastra Bank नेपाल राष्ट्र बैंक. About. Introduction. About NRB · Board of Directors · Principal Officers · Information Officers · Organogram.",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.nrb.org.np/psd/nepalqr-standardization-framework-and-guidelines/",
+        "title": "NepalQR Standardization Framework and Guidelines February 2021",
+        "text": "This section outlines the procedures for settlement, a process by which a central network/any other such nominated entity, as the settlement agency, would ...",
+        "listing_probability": 0.05
       },
       {
         "url": "https://www.nrb.org.np/category/monetary-policy/",
         "title": "Monetary Policy Archives - the official site of the Central Bank of Nepal",
         "text": "Monetary Policy 2080-81 3rd Quarter Review May 17, 2024 265.64 kb Monetary Policy 2080-81 Midterm Review February 12, 2024 222.18 kb",
-        "listing_probability": 1.0
+        "listing_probability": 0.98
       },
       {
-        "url": "https://www.nrb.org.np/psd/a-study-report-on-the-ussd-based-payment-system-and-its-regulations-suggestions-for-nepal/",
-        "title": "A Study Report on the USSD-based Payment System and its Regulations",
-        "text": "This report evaluates the feasibility of a USSD-based payment system in Nepal, reviews global systems, and provides policy recommendations.",
+        "url": "https://www.nrb.org.np/bsd/risk-management-guidelines-2010/",
+        "title": "Nepal Rastra Bank Risk Management Guidelines",
+        "text": "Managing Credit Risk. 4-14. 2.1 Overview. 4. 2.2 Board and Senior Management's Oversight. 4. 2.2.1 Board Oversight. 4. 2.2.2 Senior Management Oversight.",
         "listing_probability": 0.05
       }
     ]
@@ -72,22 +96,127 @@
     "topic": "news",
     "entries": [
       {
-        "url": "https://www.nrb.org.np/category/press-releases/page/6/",
-        "title": "Press Releases Archives - Page 6 of 23 - Nepal Rastra Bank",
-        "text": "IMF AML Mission meets Governor · 86.95 kb ; IFC Vice Precident meets Governor Khatiwada 20691122 · 96.03 kb ; IFC Regional Director meets Governor · 77.29 kb ; H&B ...",
+        "url": "https://www.nrb.org.np/category/governors-speech/",
+        "title": "Governor's Speeches Archives - the official site of ... - Nepal Rastra Bank",
+        "text": "नेपाल राष्ट्र बैंकको ६९ औँ वार्षिकोत्सवको उपलक्ष्यमा गभर्नर श्री महा प्रसाद अधिकारीले प्रस्तुत गर्नुुभएको वक्तव्यको पूर्ण विवरण । April 26, 2024 926.65 kb. Maha ...",
         "listing_probability": 0.98
       },
       {
         "url": "https://www.nrb.org.np/category/nepal-rastra-bank-news/",
         "title": "NRB Quarterly News Archives - the official site of the Central Bank of ...",
         "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक ; NRB News Year 19 Issue III April 2025. May 2, 2025 6.14 mb ; NRB News Year 19 Issue II (January, 2025). January 24, 2025 5.26 mb.",
-        "listing_probability": 0.98
+        "listing_probability": 0.99
+      },
+      {
+        "url": "https://www.nrb.org.np/category/governors-speech/page/9/",
+        "title": "Governor's Speeches Archives - Page 9 of 9 - Nepal Rastra Bank",
+        "text": "Speech by Governor Dr. Chiranjibi Nepal on the Occasion of Bank's 61st Anniversary · 414.97 kb ; Key Note remarks for National Conference on Financial Inclusion ...",
+        "listing_probability": 1.0
       },
       {
         "url": "https://www.nrb.org.np/category/public-notice-and-press-releases/",
         "title": "Public Notice and Press Releases Archives - Nepal Rastra Bank",
         "text": "Public Notice and Press Releases. Home » Public Notice and Press Releases. मंसिर १७ गते रु.५० अर्बको २८ दिने निक्षेप संकलनको बोलकबोल सम्बन्धी सूचना । December 1, 2020 131.70 kb.",
-        "listing_probability": 0.95
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nrb.org.np/category/press-releases/",
+        "title": "Press Releases Archives - the official site of the Central Bank of Nepal",
+        "text": "Press Releases. Home » Press Releases. मध्यमाञ्चल ग्रामीण विकास बैंक लि.लाई नियन्त्रणमा लिएको बारे विज्ञप्ति. January 12, 2020 25.24 kb. आर्थिक बर्ष २०६८।६९ मा निरीक्षण सम्पन्न गरिएका वित्त ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.nrb.org.np/category/nrb-working-paper/",
+        "title": "NRB Working Paper Archives - the official site of the Central Bank of ...",
+        "text": "Annual Reports · Economic Review · Economic Bulletin & Indicators · NRB Working Papers · Study Reports · Economic Activities Study Reports · Current Macro- ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.nrb.org.np/red/nrb-wp-06/",
+        "title": "NRB Working Paper",
+        "text": "The main objective of this paper is, therefore, to re-estimate money demand function in. Nepal employing Johansen (Johansen, 1988) cointegrating method for the ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.nrb.org.np/red/nrb-wp-18/",
+        "title": "NRB Working Paper",
+        "text": "This paper compares the level of economic development in South Asia and East Asia, and explores the features of East Asian Development experiences and ...",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.nrb.org.np/red/nrb-wp-14/",
+        "title": "NRB Working Paper",
+        "text": "\"Macroeconomic Analysis of Causes and Effect of Remittances: A. Panel Model of the SEE Countries and a Case Study of Serbia.\" The Wiiw Balkan Observatoryu.",
+        "listing_probability": 0.0
+      },
+      {
+        "url": "https://www.nrb.org.np/category/nrb-working-paper/page/2/",
+        "title": "NRB Working Paper Archives - Page 2 of 6 - the official site of the Central ...",
+        "text": "NRB-WP-47- Price and Wage Rigidity in Nepal December 31, 2019 1.15 mb NRB-WP-46- Relationship between Money Supply, Income and Price Level in Nepal",
+        "listing_probability": 1.0
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.nrb.org.np/category/notices/",
+        "title": "Notices Archives - the official site of the Central Bank of Nepal",
+        "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक ... साउन ७ गते रु.८० अर्बको ५६ दिने निक्षेप संकलन बोलकबोल सम्बन्धी सूचना । ... साउन ४ गते रु.५० अर्बको ४२ दिने निक्षेप संकलन बोलकबोल सम्बन्धी सूचना । ... परिपत्र नं.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nrb.org.np/category/notices/?department=cmd",
+        "title": "Notices Archives - the official site of the Central Bank of Nepal",
+        "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक · रुपैयाँ १० दरकाे नाेट प्रचलनमा ल्याउने बारेकाे सूचना · रुपैयाँ ५ दरकाे नाेट प्रचलनमा ल्याउने बारेकाे सूचना.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nrb.org.np/category/notices/?department=nbfisd",
+        "title": "Notices Archives - the official site of the Central Bank of Nepal",
+        "text": "Notices Home» Non-Bank Financial Institutions Supervision Department » Notices इजाजतपत्रप्राप्त विप्रेषण कम्पनीहरुको लागि Reporting Format सम्बन्धी जारी गरिएको सूचना",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nrb.org.np/category/rtgs-notices/page/11/",
+        "title": "RTGS Notices Archives - Page 11 of 17 - Nepal Rastra Bank",
+        "text": "Nepal Rastra Bank नेपाल राष्ट्र बैंक · RTGS प्रणाली सुचारू रहने सम्बन्धी सूचना (२०७९/०३/१७) · RTGS प्रणाली सुचारू रहने सम्बन्धी सूचना (२०७९/०३/१०) · RTGS प्रणालीको समय सीमा सम्बन्धी सूचना । · RTGS प्रणाली सुचारू ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.nrb.org.np/category/notices/?department=mint",
+        "title": "Notices Archives - the official site of the Central Bank of Nepal",
+        "text": "Bid Cancellation Notice for the Procurement of Supply, Delivery, Installation, Testing and Training of Precision Weighing Machine 64 Kg Capacity-1 set · बोलपत्र ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.nrb.org.np/2022/09/nfc-near-field-communication-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1-%E0%A4%AD%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A5%87-%E0%A4%B9%E0%A5%8B/",
+        "title": "NFC (Near Field Communication) कार्ड भनेको के हो - Nepal Rastra Bank",
+        "text": "NFC (Near Field Communication) कार्ड भनेको के हो ? NFC (Near Field Communication) कार्ड भनेको सानो रकमको भुक्तानीको लागि PIN Code वा OTP Code प्रविष्टि नगरी भुक्तानी गर्न प्रयोगमा ल्याइएको कार्ड हो ।",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nrb.org.np/lgd/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2-%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE/",
+        "title": "बैंक - सूचना तथा सञ्चार नीति, २०७७",
+        "text": "वाञ्छनीय भएकोले नेपाल राष्ट्र बैंक ऐन, २०५८ को दफा २९ को खण्ड (घ) ले दिएको अधिकार. प्रयोग गरी नेपाल राष्ट्र बैंक, सञ्चालक समितिले यो नीति जारी गरेको छ। १. २. परिच्छेद - १. प्रारम्भिक.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.nrb.org.np/red/powerpoint_presentation_on_pre-budget_interation_program/",
+        "title": "वर्तमान आर्थिक स्थिति, सरकारी बजेट र अन्तरक्रिया कार्यक्रमको औचित्य",
+        "text": "आर्थिक वृद्धिदर न्यून रहँदै आएको आ.व. २०७१/७२ मा ३.४. कृषि क्षेत्र व्यवसायीकरण हुन नसकेको,. • हाल उर्जा संकट रहेको,. विप्रेषण आय आश्रित अर्थतन्त्र आ.व. २०७१/७२ मा ६१७ अर्ब,. • बचत तथा लगानी:.",
+        "listing_probability": 0.1
       }
     ]
   }

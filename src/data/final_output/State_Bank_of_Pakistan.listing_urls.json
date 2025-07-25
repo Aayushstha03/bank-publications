@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.sbp.org.pk/publications/index2.asp",
+        "title": "Publications - State Bank of Pakistan",
+        "text": "The State Bank of Pakistan publishes weekly, monthly, quarterly, bi-annual, and annual publications, including reports on the economy, finance, and banking.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.sbp.org.pk/reports/annual/index.htm",
+        "title": "SBP Annual Reports - State Bank of Pakistan",
+        "text": "SBP annual reports include 'Annual Report (State of the Economy)' and 'Statistical Supplement' reports, available in both English and Urdu versions.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.sbp.org.pk/psd/reports/index.htm",
+        "title": "Payment Systems Review - State Bank of Pakistan",
+        "text": "The State Bank of Pakistan provides quarterly payment system reviews and reports, including the 3rd quarter of 2024-25.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.sbp.org.pk/reports/annual/arFY17/Vol-1/anul-index-eng.htm",
+        "title": "Publications / Annual Reports - State Bank of Pakistan",
+        "text": "Download Complete Report (7,872 MB) · Title (Size in pdf 379 KB) · Letter of Transmittal (Size in pdf 167 KB) · The Team (Size in pdf 156 KB) · Contents (Size in ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.sbp.org.pk/reports/annual/arfy08/index.htm",
+        "title": "Publications / Annual Reports - State Bank of Pakistan",
+        "text": "1, Economic Outlook (Size in pdf 525 KB) ; 2, Economic Growth, Savings and Investment (Size in pdf 1.11 MB) ; 3, Prices (Size in pdf 642 KB) ; 5, Public Finance ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.sbp.org.pk/reports/stat_reviews/Bulletin/index.htm",
+        "title": "Monthly Statistical Bulletin - State Bank of Pakistan",
+        "text": "Annual. Research & Paper Series. Research & Paper Series. Occasional. Occasional. All. All. Publications / Monthly. Statistical Bulletin. 2025.",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.sbp.org.pk/guidelines/index2.asp",
+        "title": "Guidelines - State Bank of Pakistan",
+        "text": "Licensing Guidelines ; Guidelines and Criteria for Setting Up a Commercial Bank ; Licensing Requirements and Guidelines for Setting Up Microfinance Banks ; Policy ...",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.sbp.org.pk/press/releases.asp",
+        "title": "Press Releases - State Bank of Pakistan",
+        "text": "Press Releases. Press Releases ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.sbp.org.pk/ibd/speeches.htm",
+        "title": "Islamic Banking Department - State Bank of Pakistan",
+        "text": "What's New? Speeches · Online Tenders · Web Links · Educational Resources · Regulatory Returns · Library · Rupey ko Pehchano · Events · Zahid Husain Memorial ...",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.sbp.org.pk/finance/press.asp",
+        "title": "Press Releases - State Bank of Pakistan",
+        "text": "31-08-2017, SBP issues fresh banknotes worth Rs. 168 billion on Eid Ul Azha 2017 (31.08.2017) · Click Here ; 23-06-2017, Fresh Note Issuance on Eid-ul-Fitr 2017 ...",
+        "listing_probability": 0.97
+      },
+      {
+        "url": "https://www.sbp.org.pk/press/2024/index2.asp",
+        "title": "2024 - State Bank of Pakistan",
+        "text": "The future of banking in Pakistan will be driven by innovation, transparency, and an unwavering commitment to customer satisfaction: Governor SBP(30-11-2024).",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.sbp.org.pk/press/2025/index2.asp",
+        "title": "2025 - State Bank of Pakistan",
+        "text": "Governor SBP stresses sound Macroeconomic Policies and Financial Inclusion as pillars for Pakistan's Economy at Women Entrepreneurs Finance Code Launch ...",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.sbp.org.pk/rtgs/presentations/ppt.asp",
+        "title": "Latest Updates for Banks - State Bank of Pakistan",
+        "text": "Presentations ; Centralized Netting Presentation ; Provision of Consolidated Nets. (Size in PDF 201 KB) ; NIFT Clearing and Settlement Proposal for Banks. (Size in ...",
+        "listing_probability": 0.95
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.sbp.org.pk/sbp_bsc/PB-Notices-FAQs.asp",
+        "title": "Notices/FAQs - State Bank of Pakistan",
+        "text": "Instructions to Banks ; Extension in Last Date for Encashment/Conversion/Redemption of Rs.40,000/-, Rs.25,000/-, Rs.15,000/- & Rs.7,500/- Denomination National ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.sbp.org.pk/sbp_bsc/PPB-Notices-FAQs.asp",
+        "title": "Notices/FAQs - State Bank of Pakistan",
+        "text": "National Saving Schemes Customer Facilitation Portal. Premium Prize Bonds (Registered) Notices/FAQs. Prize Bonds Draw Schedule CY 2024.",
+        "listing_probability": 0.85
+      }
+    ]
+  }
+]

@@ -6,19 +6,31 @@
         "url": "https://www.pma.ps/en/Publications/AnnualReports",
         "title": "PMA > Annual Reports",
         "text": "PMA Annual Reports, Financial Stability Reports, Economic Forecast Reports, Foreign Investment Report",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
       },
       {
         "url": "https://www.pma.ps/en/Publications/QuarterlyReports",
         "title": "PMA > Quarterly Reports",
         "text": "Quarterly Reports, Inflation Reports, Economic Monitors, Quarterly Statistical Bulletin, Global Markets (Arabic Only), Monetary Developments (Arabic Only)",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.pma.ps/en/Publications",
+        "title": "Publications",
+        "text": "Publications and Prints, Annual Reports, Quarterly Reports, Working Papers/ Studies, Financial Anchor, Other publications, Media, Press Releases, Press Corner, ...",
         "listing_probability": 0.98
       },
       {
         "url": "https://www.pma.ps/en/Publications/Publications-and-Prints/Other-publications",
         "title": "Other publications",
         "text": "Other publications · PMA Achievement Reports · Payment Systems Oversight Report · Public Finance Sustainability Reports · Public Debt Sustainability Reports.",
-        "listing_probability": 0.98
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.pma.ps/en/Media/Press-Releases/PageID/5/PgrID/793/PID/793/CategoryID/12/CategoryName/Publications",
+        "title": "Publications - Palestine Monetary Authority",
+        "text": "The PMA Business Cycle Index (PMABCI) – September 2021 An improvement in both the West Bank and Gaza Strip / Tuesday, October 12, 2021",
+        "listing_probability": 0.1
       }
     ]
   },
@@ -29,7 +41,7 @@
         "url": "https://www.pma.ps/en/Statistics",
         "title": "PMA > Statistics",
         "text": "This section provides important information that includes monthly statistical publication, cumulative data, settlement and clearing data and Special Data ...",
-        "listing_probability": 0.95
+        "listing_probability": 0.9
       },
       {
         "url": "https://www.pma.ps/en/Statistics/QuarterlyStatisticalBulletin",
@@ -42,6 +54,18 @@
         "title": "PMA > Monthly and Quarterly Data",
         "text": "A monthly and quarterly data highlighting the most important indicators of the Palestinian economy and keeping pace with the latest developments.",
         "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.pma.ps/en/Statistics/TimeSeriesData",
+        "title": "PMA > Time Series Data",
+        "text": "Time Series Data · Main Economic Indicators · Banking Data · Public Finance · External Sector · National Accounts · Financial Non-Banking Data · Labor Force · Price ...",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.pma.ps/en/Statistics//ClearingandSettlementData",
+        "title": "PMA > Clearing and Settlement Data",
+        "text": "Clearing and Settlement Data. Address: Al-Irsal Street, Ramallah & Al Bireh Governorate, P.O Box 452, Palestine. Postal code: P6160675.",
+        "listing_probability": 0.3
       }
     ]
   },
@@ -55,10 +79,22 @@
         "listing_probability": 0.95
       },
       {
+        "url": "https://www.pma.ps/en/Anti-Money-Laundering/Guidelines",
+        "title": "Guidelines",
+        "text": "Anti-Money Laundering / Guidelines Guidelines Includes manuals and guidelines issued for the financial institutions supervised by PMA.",
+        "listing_probability": 0.95
+      },
+      {
         "url": "https://www.pma.ps/en/Media/Press-Releases/announcing-the-adoption-of-gender-policy-at-the-microfinance-union-sharaka-and-five-microfinance-institutions",
         "title": "Announcing the Adoption of Gender Policy At the Microfinance Union ...",
-        "text": "Announcing the Adoption of Gender Policy At the Microfinance Union (Sharaka) and Five Microfinance Institutions ... Under the auspices of and ...",
+        "text": "Announcing the Adoption of Gender Policy At the Microfinance Union (Sharaka) and Five Microfinance Institutions.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.pma.ps/en/PrivacyPolicy",
+        "title": "PMA > Privacy Policy",
+        "text": "PMA does not intend to commercially use personal information it obtains from the website visitors/users such as names, addresses and/or other.",
+        "listing_probability": 0.01
       }
     ]
   },
@@ -69,13 +105,71 @@
         "url": "https://www.pma.ps/en/Media/Press-Releases",
         "title": "PMA > Press Releases",
         "text": "Press Releases · PMA Postpones Loan Installment Collection in Gaza Strip · Launch of E-Payment Service for Land Authority Transaction Fees via the E-SADAD ...",
-        "listing_probability": 0.98
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.pma.ps/en/Media//PressCorner",
+        "title": "PMA > Press Corner",
+        "text": "Press Corner: Contact Information, Public Relations and Communications Department, Pictures, Logos, Site Map, Careers, Tenders, Related Links",
+        "listing_probability": 0.1
       },
       {
         "url": "https://www.pma.ps/en/Media//Press-Releases/PageID/28/PgrID/793/ArticleID/872",
         "title": "PMA > Press Releases",
         "text": "Press Releases · The Residential Property Price Index in Palestine (RPPI)– Fourth Quarter 2021 · A Tour of the Governor of the Palestine Monetary Authority in ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.pma.ps/en/Media//Press-Releases/PageID/79/PgrID/793/artmid/793",
+        "title": "PMA > Press Releases",
+        "text": "Press Releases · Dr. · Press Statement · Governor of Palestine Monetary Authority Meets Minister of General Authority of Civil Affairs · The extended PMA Business ...",
+        "listing_probability": 0.9
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.pma.ps/en/Publications//WorkingPapers",
+        "title": "PMA > Working Papers/ Studies",
+        "text": "Working Papers describe research in progress by the author(s) and are published to elicit comments and to further debate.",
+        "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.pma.ps/en/Media/Press-Releases/category/announcements-1",
+        "title": "Announcements - Palestine Monetary Authority",
+        "text": "The PMA continues its efforts to assess the damages caused by the war on the banking sector in the Gaza Strip.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.pma.ps/Default.aspx?tabid=205&PageID=8&PgrID=793&PID=793&CategoryID=20&CategoryName=Announcements&language=en-US",
+        "title": "Announcements - Palestine Monetary Authority",
+        "text": "Palestine Monetary Authority Governor Affirms Soundness and Safety of the Banking Sector and its Extraordinary Role in Economic Development",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.pma.ps/Default.aspx?tabid=205&PageID=11&PgrID=793&PID=793&CategoryID=20&CategoryName=Announcements&language=en-US",
+        "title": "Announcements - Palestine Monetary Authority - سلطة النقد الفلسطينية",
+        "text": "Press Releases · The extended PMA Business Cycle Index (extended PMABCI) – January 2018 · PMA Governor Announces Major Advance in International Ranking of PMA ...",
         "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.pma.ps/en/Media//Press-Releases/PageID/12/PgrID/793/PID/793/CategoryID/20/CategoryName=Announcements",
+        "title": "Announcements - Palestine Monetary Authority - سلطة النقد الفلسطينية",
+        "text": "The Council of Governors of the Arab Central Banks and Monetary Authorities Approves Recommendation to Endorse the Credit Registry System ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.pma.ps/Default.aspx?tabid=205&PageID=7&PgrID=793&PID=793&CategoryID=20&CategoryName=Announcements&language=en-US",
+        "title": "Announcements - Palestine Monetary Authority",
+        "text": "The extended PMA Business Cycle Index (extended PMABCI) – April 2019. Significant decline in the West Bank and stability in Gaza Strip.",
+        "listing_probability": 0.9
       }
     ]
   }

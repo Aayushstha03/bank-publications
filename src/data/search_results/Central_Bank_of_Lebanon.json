@@ -8,33 +8,229 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Annual%20Report_3_Ar%C2%A72914_1.pdf",
-                "title": "Template for BDL Reports",
-                "source": "www.bdl.gov.lb",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bdl.gov.lb&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///185ecf9cedd78a2b19bea1a2fef4c26af46dd2e7cb694053059d8f97a11d51ba",
+                "url": "https://www.bdl.gov.lb/publications.php",
+                "title": "Publications - Banque Du Liban",
+                "text": "Annual Report · Monthly Bulletin · Quarterly Bulletin · Monetary Overview.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
                 "position": 1
               },
               {
-                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Guide_20_Ar%C2%A76790_1.pdf",
-                "title": "Template for BDL Reports",
-                "source": "www.bdl.gov.lb",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bdl.gov.lb&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "x-raw-image:///2e54b2dcf2a9facf09b73ee7c7b2418fbb05aea9cb43e2decbb6cccddbb1bdf9",
+                "url": "https://www.bdl.gov.lb/intermediatecirculars.php?searchTxt=Statistics%20Reports",
+                "title": "intermediate circulars - Banque Du Liban",
+                "text": "Bank branches, bank certificates, bank facilities risks, banking identity/IBAN, banking regulations, banking secrecy, basic nutritional needs.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
                 "position": 2
               },
               {
-                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Annual%20Report_2_Ar%C2%A71969_1.pdf",
-                "title": "ماعلا يداصتقالا دهشملا",
-                "text": "ةلاح ًامقافت عضولا داز امك .ةيبرعلا لودلا يف ءاقشألا نم رخآ فيض فلأ ٥٠٠ ىلإ ًةفاضإ ،نانبل. اذه سكعنا .نيماع نم رثكأل سيئر الب دالبلا تقبأ يتلا ةيروتسدلا ...",
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Annual%20Report_2024_En%C2%A710530_3.pdf",
+                "title": "Balance of Payments and International Investment Position",
+                "text": "The External Sector Division (ESD) at the Statistics and Economic Research Department (SERD) of the Banque du Liban (BdL) is responsible for ...",
                 "source": "Banque Du Liban",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "published_time": "2025-05-19T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Guide_16_En%C2%A71242_3.pdf",
+                "title": "Report by Banque du Liban in reply to mistakes stated in a recently ...",
+                "text": "In view of the damaging publicity and media coverage that has been created by a Policy Paper dated. August 2017 entitled Financial Crisis in Lebanon, ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/MBE251APR2015.pdf",
+                "title": "MONTHLY BULLETIN - Banque Du Liban",
+                "text": "HIGHLIGHTS (Percentages refer to year-on-year variations unless otherwise specified). The BDL coincident indicator reached 288.2 in April 2015, ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports list"
+          ],
           "query": {
-            "q": "site:http://www.bdl.gov.lb/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://www.bdl.gov.lb/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Monthly%C2%A0Bulletin_342_En%C2%A76590_3.pdf",
+                "title": "MONTHLY BULLETIN - Banque Du Liban",
+                "text": "THE BDL COINCIDENT INDICATOR The BDL coincident indicator stood at 112.5 in August 2022, down from 121.7 in the previous month and 133.3 in August 2021, ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bdl.gov.lb/bulletin.php",
+                "text": "Quarterly Bulletin 3rd Quarter 2024 # 182 · Monthly Bulletin # 362 · Quarterly Bulletin 2nd Quarter 2024 # 181 · Quarterly Bulletin 1st Quarter 2024 # 180.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/MBE251APR2015.pdf",
+                "title": "MONTHLY BULLETIN - Banque Du Liban",
+                "text": "Power production rose slightly by 0.9% and reached 1,048.3 million kWh during the month.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Monthly%C2%A0Bulletin_318_En%C2%A74351_3.pdf",
+                "title": "MONTHLY BULLETIN - Banque Du Liban",
+                "text": "Power production increased slightly by 0.3% to 1,129.4 million kWh during the month.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "published_time": "2020-11-03T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Publications/Publications/Guide_13_En%C2%A7845_3.pdf",
+                "title": "External Sector Statistics Methodology - Banque Du Liban",
+                "text": "1- Introduction. Balance of payments (BOP) statistical reports summarize in a methodical way all the economic transactions that take place.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:http://www.bdl.gov.lb/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bdl.gov.lb/intermediatecirculars.php?searchTxt=Regulations%20on%20the%20Control%20of%20Financial%20and%20Banking%20Operations%20for%20Fighting%20Money%20Laundering%20and%20Terrorist%20Financing",
+                "title": "laws & regulations - Banque Du Liban",
+                "text": "The Banque Du Liban has regulations on the control of financial and banking operations for fighting money laundering and terrorist financing, and conditions of ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Laws%20And%20Regulations/Laws/Law_3956_EN%C2%A72_3.pdf",
+                "title": "Law Of 3 SEPTEMBER 1956 - Banque Du Liban",
+                "text": "The law requires banks to maintain professional secrecy, binding employees and those with access to customer data, with exceptions for certain civil servants.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Laws%20And%20Regulations/Basic%20Circulars/Decision_7776_EN%C2%A770_3.pdf",
+                "title": "BANQUE DU LIBAN",
+                "text": "Banque du Liban requires prior approval for credit, investments, and stock operations, and prohibits unlimited stock acquisitions and stock concentration ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Laws%20And%20Regulations/Basic%20Circulars/95_en.pdf",
+                "title": "Basic Circular No 95 addressed to Banks - Banque Du Liban",
+                "text": "Such provisions should clearly show the compliance of the bank, in all its transactions and operations, with the Shari'a provisions and principles that are ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Laws%20And%20Regulations/Laws/Law_44_EN.pdf",
+                "title": "Law No 44 of November 24, 2015 Fighting Money Laundering and ...",
+                "text": "Law No 44 targets illicit funds from offenses like drug trafficking and terrorism. Money laundering is concealing the source of these funds. Customer due ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bdl.gov.lb/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bdl.gov.lb/announcements.php",
+                "title": "Financial Announcements - Banque Du Liban",
+                "text": "Institutions regulated by Banque du Liban: Banks, Collective Investment Schemes, Credit and Debit Card Issuers, Detailed list of Exchange Institutions.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 1
+              },
+              {
+                "url": "https://www.bdl.gov.lb/announcements.php?searchTxt=Calculating%20interests,%20expenditures,%20commissions,%20expenses%20and%20charges%20of%20any%20kind",
+                "title": "announcement - Banque Du Liban",
+                "text": "HOME > LAWS & REGULATIONS > ANNOUNCEMENT · Addressed to · All other Institutions regulated by Banque du Liban · Banks · Collective Investment Schemes · Credit and ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 2
+              },
+              {
+                "url": "https://www.bdl.gov.lb/announcements.php?searchTxt=Gradual%20withdrawal%20of%20deposits%20in%20foreign%20currencies%20contracts",
+                "title": "laws & regulations - Banque Du Liban",
+                "text": "HOME > LAWS & REGULATIONS > ANNOUNCEMENT · Addressed to · All other Institutions regulated by Banque du Liban · Banks · Collective Investment Schemes · Credit and ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 3
+              },
+              {
+                "url": "https://www.bdl.gov.lb/announcements.php?searchTxt=Commissions%20and%20fees%20on%20formalities%20and%20requests%20submitted%20to%20BDL",
+                "title": "laws & regulations - Banque Du Liban",
+                "text": "DATE, ANNOUNCEMENT Nb, ANNOUNCEMENT TITLE, VIEW IN, Addressed to, Status. 2024-09-24, 960, استيفاء نفقات وعمولات بالليرة اللبنانية على معاملات وطلبات محددة ...",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 4
+              },
+              {
+                "url": "https://www.bdl.gov.lb/CB%20Com/Laws%20And%20Regulations/Announcements/957_10-01-2024_Ar%C2%A79091_1.pdf",
+                "title": "اﻋﻼم ﺻﺎدر ﻋن ﺣﺎﮐم ﻣﺻرف ﻟﺑﻧﺎن ﺑﺎﻻﻧﺎﺑﺔ ٩٥٧ رﻗم ﻣوﺟﮫ ﻟﻟﻣﺻ",
+                "text": "وﺑﻣﺎ. ﮫأﻧ. ﺳﯾﺗم. ﻓﺗﺢ اﻟﺑﺎب أﻣﺎم. اﻟﻣﺷﺗرﮐﯾن ﻓﻲ اﻟﻣﻧﺻﺔ. ﻟﻟﻌﻣل ﮐﺻ. ﻧّ. ﺎع ﺳوق (. Market Makers. ) ﻋﺑر. اﻟ. ﺗدﺧل. ﺷﺎ. رﯾ. ن أو ﺑﺎﺋﻌﯾن ﻟﻣﺻﻟﺣﺔ زﺑﺎﺋﻧﮭم وﻓﻘﺎً.",
+                "source": "Banque Du Liban",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWOIiIj6jwvfv3+f6+nTp3jVgCULC4ufNTU1H0LHDx484AAZgE2urq7+JNyAtWvXTQUpJAXfuHFDligDjp842UKWAefOX8ifO3/RfxgmyYBz586DNaPjJ0+eEGcAusYDBw8tB9FXr13zwjDgzp07Mg8fPhRANwAU0ugGLVy89BtMDdA1zCC9IAYjstOw2QzCGzdtvbps+aoP6OEB9sKkSZOnIjQTxiC1R48eCwbpRTEAhG/duuUMohG2IzQBvSoFonEagI7xRCNhA3A5nbABhDGmAeXllWeWLl3WjI4fPXrEClKMTW7KlKmrQXopzs4A8+GMda8p22oAAAAASUVORK5CYII=",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Announcements updates announcements updates today",
+            "Announcements updates announcements updates 2021",
+            "Announcements updates announcements updates 2022"
+          ],
+          "query": {
+            "q": "site:http://www.bdl.gov.lb/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
           }
         }
       ]

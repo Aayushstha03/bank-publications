@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "topic": "publications",
+    "entries": [
+      {
+        "url": "https://www.bde.es/wbe/en/publicaciones/",
+        "title": "Publications - Banco de España",
+        "text": "Descubre los estudios y publicaciones del Banco de España donde recopila toda la información mediante documentos, informes y memoria.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/sobre-banco/transparencia/informacion-juridica/memorias-aplicaciones-guias/",
+        "title": "Reports, technical applications and guidelines - Banco de España",
+        "text": "The Banco de España produces a series of documents, reports, guidelines and technical applications.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/areas-actuacion/politica-monetaria/contribucion-analisis-politica-monetaria/informes-publicaciones/",
+        "title": "Reports and publications - Banco de España",
+        "text": "Reports and publications · The ECB and its monetary policy strategy · The role of the Banco de España · What are the ECB's monetary policy instruments? · ECB ...",
+        "listing_probability": 0.88
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/areas-actuacion/central-balances/informes-productos-estadisticos/informes-nacionales/",
+        "title": "National reports - Banco de España",
+        "text": "Aggregated information on of available consolidated accounts of Spanish listed non-financial corporations. Data come from the National Securities Market ...",
+        "listing_probability": 0.85
+      }
+    ]
+  },
+  {
+    "topic": "statistics",
+    "entries": [
+      {
+        "url": "https://www.bde.es/wbe/en/publicaciones/informacion-estadistica/boletin-estadistico/",
+        "title": "Statistical Bulletin - Banco de España",
+        "text": "The Statistical Bulletin is a monthly electronic publication. It contains statistics compiled by the Banco de España on the credit system, other financial ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/boletin-estadistico.html",
+        "title": "Statistics by publication - Statistical Bulletin- BdE - Banco de España",
+        "text": "The bulletin includes Euro area and Spanish statistics, financial accounts, general government, non-financial corporations, households, international, and ...",
+        "listing_probability": 0.85
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/estadisticas/",
+        "title": "Statistics - Banco de España",
+        "text": "The Banco de España compiles, prepares and publishes a broad set of economic and financial statistics, as part of the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-11.html",
+        "title": "Bank of Spain - Statistical Bulletin - Chapter 11 - Banco de España",
+        "text": "11. General government · A) GENERAL GOVERNMENT. Early monthly infomation. 11.a - Net lending (+)/net borrowing (-) · B) PUBLIC ENTERPRISES. 11.15 - Debt of public ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-23.html",
+        "title": "Bank of Spain - Statistical Bulletin - Chapter 23 - Banco de España",
+        "text": "23.b - Spanish National Accounts. Current prices. Demand components. Seasonally and calendar adjusted data. Download data Download PDF Table in PDF format ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "monetary_policy",
+    "entries": [
+      {
+        "url": "https://www.bde.es/wbe/en/areas-actuacion/politica-monetaria/",
+        "title": "Monetary policy - Banco de España",
+        "text": "The European Central Bank (ECB) manages monetary policy, through which it aims to influence the cost and availability of money in the economy.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/areas-actuacion/politica-monetaria/politica-monetaria-area-euro/cuales-son-los-instrumentos-de-politica-monetaria-del-bce/",
+        "title": "What are the ECB's monetary policy instruments? - Banco de España",
+        "text": "The main instrument is the set of key interest rates, which it steers through open market operations, standing facilities and minimum reserve requirements.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "news",
+    "entries": [
+      {
+        "url": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/intervenciones-publicas/?theme=19d9c18b428a0810VgnVCM100000a4785a0aRCRD",
+        "title": "Speeches - Banco de España",
+        "text": "Descubre las intervenciones públicas de la Alta Administración del Banco de España por temas, perfiles y fechas.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/intervenciones-publicas/",
+        "title": "Speeches - Banco de España",
+        "text": "Descubre las intervenciones públicas de la Alta Administración del Banco de España por temas, perfiles y fechas.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/noticias-eventos/",
+        "title": "News and events - Banco de España",
+        "text": "Conoce las noticias, eventos y recursos informativos que ofrece el Banco de España para mantenerte siempre informado.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/publicaciones/analisis-economico-investigacion/documentos-trabajo/perceiving-central-bank-communications-through-press-coverage.html",
+        "title": "Perceiving central bank communications through press ...",
+        "text": "We present evidence suggesting that a simple measure of central bank communication tone, as perceived and interpreted by the media, correlates ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/intervenciones-publicas/gobernador-elkargi-el-futuro-del-sistema-financiero-europeo2.html",
+        "title": "Governor. Elkargi. 'The future of the European financial system'",
+        "text": "Home · News and events · Banco de España news · Speeches · Governor. Elkargi. \"The future of the European financial system\".",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "research",
+    "entries": [
+      {
+        "url": "https://www.bde.es/wbe/en/publicaciones/analisis-economico-investigacion/documentos-trabajo/",
+        "title": "Working Papers - Banco de España",
+        "text": "The aim of the Working Papers series is to disseminate research papers on economics and finances by Banco de España researchers.",
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/publicaciones/analisis-economico-investigacion/documentos-trabajo/sovereign-default--domestic-banks-and-exclusion-from-international-capital-markets.html",
+        "title": "Sovereign default, domestic banks and exclusion from international ...",
+        "text": "Sovereign default, domestic banks and exclusion from international capital markets ... Series: Working Papers. 1824. Author: Dominik Thaler.",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bde.es/wbe/en/para-ciudadano/servicios/belab/otros/novedades-belab/novedades-para-investigadores-del-belab-microdatos-de-empresas-individuales-cbi-y-microdatos-de-emisiones-de-valores-representativos-de-deuda-bev-actualizado-el-ano-2023-en-cbi-y-2024-en-bev-con-nuevas-variables-como-la-clasificacion-prudencial-o-el-cupon-mensual.html",
+        "title": "Updated 2023 for CBI and in 2024 for BEV with new variables such as the ...",
+        "text": "Updates of Microdata on individual enterprises (CBI) and on debt securities issuers (BEV): Updated 2023 for CBI and in 2024 for BEV with new ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bde.es/investigador/en/Canal_Oculto/Publication_Upda/",
+        "title": "Economic Research Portal - Publication Updates",
+        "text": "Publication Updates ; Trust and accountability in times of crisis. Economica ·, v.92, issue 365, January 2025, pp. 230-258 ; House prices and misallocation : the ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/entidades-profesionales/operativa-gestiones/sistemas-pago-infraestructuras/target-banco-espana/contenido/historial-actualizaciones/",
+        "title": "History of updates - Banco de España",
+        "text": "History of updates ; 07/07/2025. Updates year 2025 ; 30/09/2024. Updates year 2024 ; 04/05/2023. Updates year 2023 ; 04/05/2022. Updates year 2022.",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.bde.es/wbe/en/para-ciudadano/servicios/belab/otros/novedades-belab/novedades-para-investigadores-del-belab-microdatos-de-la-encuesta-sobre-la-actividad-empresarial-ebae-microdatos-disponible-hasta-el-primer-trimestre-de-2025.html",
+        "title": "Updates of Microdata from Survey on Business Activity (EBAE)",
+        "text": "Updates of Microdata from Survey on Business Activity (EBAE): microdata available until the first quarter of 2025.",
+        "listing_probability": 0.1
+      }
+    ]
+  }
+]

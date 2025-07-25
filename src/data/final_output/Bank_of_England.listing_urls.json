@@ -3,9 +3,33 @@
     "topic": "publications",
     "entries": [
       {
-        "url": "https://www.bankofengland.co.uk/archive/archive-publications",
-        "title": "Archive publications | Bank of England",
-        "text": null,
+        "url": "https://www.bankofengland.co.uk/news/publications",
+        "title": "Publications | Bank of England",
+        "text": "Quarterly Bulletin, Research, Working Paper, Weekly report, Monetary policy, Inflation, Agents' Summary of Business Conditions, Financial stability",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/news/prudential-regulation",
+        "title": "Prudential regulation news and publications | Bank of England",
+        "text": "Prudential regulation news and publications can be viewed on this page. Related links. Related links. RSS feeds · Subscribe to emails · Prudential and ...",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/news",
+        "title": "News, publications and events | Bank of England",
+        "text": "News, publications and events. Latest and upcoming releases from the Bank of England. Categories: Filter by type.",
+        "listing_probability": 1.0
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/annual-report/annual-reports-2025",
+        "title": "Annual Reports 2025 | Bank of England",
+        "text": "We publish separate annual reports and accounts. The reports provide information on our activities and finances for the preceding year.",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/financial-stability-report/financial-stability-reports",
+        "title": "Financial Stability Reports | Bank of England",
+        "text": "The Financial Stability Report sets out our Financial Policy Committee's view on the stability of the UK financial system and what it is doing to remove or ...",
         "listing_probability": 0.95
       }
     ]
@@ -20,9 +44,27 @@
         "listing_probability": 0.9
       },
       {
-        "url": "https://www.bankofengland.co.uk/prudential-regulation/transforming-data-collection",
-        "title": "Transforming data collection | Bank of England",
-        "text": "The Transformation Plan sets out our vision and approach to delivering improvements in data collection over the next decade.",
+        "url": "https://www.bankofengland.co.uk/news/statistics",
+        "title": "Statistical releases | Bank of England",
+        "text": "Statistical releases contain our latest data and, in some cases, accompanying analysis and commentary. Related links. Related links.",
+        "listing_probability": 0.95
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/statistics/data-collection/statistical-reporting",
+        "title": "Statistical Reporting | Bank of England",
+        "text": "Returns are submitted once a year, twice a year, every quarter or every month. For the BT, BG, C1, ELS and PL returns, there are 2 reporting cycles.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/statistics/tables",
+        "title": "Bankstats tables | Bank of England",
+        "text": "This data consists of: money and lending; monetary financial institutions' balance sheets; further analyses of deposits and ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/statistics/data-collection/beeds",
+        "title": "BEEDS | Bank of England",
+        "text": "The Bank of England Electronic Data Submission (BEEDS) portal is an online application that manages formal regulatory and statistical data submissions.",
         "listing_probability": 0.1
       }
     ]
@@ -31,22 +73,34 @@
     "topic": "monetary_policy",
     "entries": [
       {
-        "url": "https://www.bankofengland.co.uk/prudential-regulation/low-impact-amendments-to-pra-rules-and-policy-material",
-        "title": "Low impact amendments to PRA rules and policy material - Bank of England",
-        "text": "The Prudential Regulation Authority (PRA) makes minor and low impact amendments to its rules and policy materials from time to time to keep ...",
-        "listing_probability": 0.1
-      },
-      {
         "url": "https://www.bankofengland.co.uk/prudential-regulation/policy",
         "title": "Policy | Bank of England",
         "text": "Find out how the Prudential Regulation Authority (PRA) makes and communicates policy and engages with global policymaking.",
-        "listing_probability": 0.9
+        "listing_probability": 0.85
       },
       {
         "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/february/pra-approach-to-policy-policy-statement",
         "title": "PS3/25 – The Prudential Regulation Authority's approach to policy",
         "text": "Our approach to policy is evolving because we are taking on wider rule making responsibilities and enhanced accountability requirements.",
         "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/low-impact-amendments-to-pra-rules-and-policy-material",
+        "title": "Low impact amendments to PRA rules and policy material - Bank of England",
+        "text": "The Prudential Regulation Authority (PRA) makes minor and low impact amendments to its rules and policy materials from time to time to keep ...",
+        "listing_probability": 0.7
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/updates-to-the-uk-policy-framework-for-capital-buffers-policy-statement",
+        "title": "PS8/25 – Updates to the UK policy framework for capital buffers",
+        "text": "This Prudential Regulation Authority's (PRA) policy statement (PS) provides the PRA's final policy in relation to amendments being made to the UK framework on ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/policy-and-tools",
+        "title": "Policy and tools | Bank of England",
+        "text": "We supervise FMIs within a legal and regulatory context that is set at UK and international levels.",
+        "listing_probability": 0.85
       }
     ]
   },
@@ -60,16 +114,22 @@
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bankofengland.co.uk/news",
-        "title": "News, publications and events | Bank of England",
-        "text": "News, publications and events. Latest and upcoming releases from the Bank of England. Categories: Filter by type.",
-        "listing_probability": 0.98
-      },
-      {
         "url": "https://www.bankofengland.co.uk/news/latest-and-upcoming",
         "title": "Latest and upcoming events, publications and speeches",
         "text": "Latest and upcoming events, publications and speeches. Latest flagship publications (MPR, FSR, Annual Reports). Publication // Financial Stability Report ...",
-        "listing_probability": 0.97
+        "listing_probability": 0.98
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/speech/2025/july/andrew-bailey-speech-at-the-annual-financial-and-professional-services-dinner-mansion-house",
+        "title": "The future of the multilateral economic system, and some news on the UK ...",
+        "text": "In this speech, Andrew Bailey reflects on developments in the global economy and emphasises the important role a reformed multilateral ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/news/latest-from-the-governor",
+        "title": "Latest from the Governor | Bank of England",
+        "text": "The latest news, speeches and press conferences from the Governor. Event // Treasury Select Committee (TSC). 22 July 2025 ...",
+        "listing_probability": 0.9
       }
     ]
   },
@@ -81,17 +141,92 @@
         "title": "Staff working papers | Bank of England",
         "text": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
         "listing_probability": 0.98
+      }
+    ]
+  },
+  {
+    "topic": "announcements",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/may/international-firms-upates-to-ss521-policy-statement",
+        "title": "PS6/25 – International firms: Updates to SS5/21 and branch reporting",
+        "text": "The PRA is making targeted changes to its expectations of international and UK trading banks in line with its continued approach of responsible openness.",
+        "listing_probability": 0.1
       },
       {
-        "url": "https://www.bankofengland.co.uk/research",
-        "title": "Research | Bank of England",
-        "text": "Our Staff Working papers. We share our work externally to encourage comments and debate. Our new research is released in our 'Staff Working papers' series.",
+        "url": "https://www.bankofengland.co.uk/news/2025/may/updates-to-the-pras-approach-of-responsible-openness-to-international-banks",
+        "title": "Updates to the PRA's approach of responsible openness to ...",
+        "text": "The PRA has today clarified its expectations around business conducted within branches of international banks operating in the UK.",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/financial-stability/resolution/policies-consultations-and-updates-for-firms",
+        "title": "Policies, consultations and updates for firms - Bank of England",
+        "text": "Updates for firms. 15 July 2025: The Bank and PRA have published updates to the UK's resolution framework: CP15/25 – Resolution planning: Amendments to MREL ...",
+        "listing_probability": 0.9
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/updates-to-the-uk-policy-framework-for-capital-buffers-policy-statement",
+        "title": "PS8/25 – Updates to the UK policy framework for capital buffers",
+        "text": "This Prudential Regulation Authority's (PRA) policy statement (PS) provides the PRA's final policy in relation to amendments being made to the UK framework on ...",
+        "listing_probability": 0.1
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/working-paper/2024/the-effects-of-macroprudential-policy-announcements-on-systemic-risk",
+        "title": "The effects of macroprudential policy announcements on systemic risk",
+        "text": "We find that tighter than expected macroprudential policy announcements contribute to a substantial reduction in perceived systemic risk in the short run.",
+        "listing_probability": 0.1
+      }
+    ]
+  },
+  {
+    "topic": "notices",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/statistics/data-collection/statistical-notices",
+        "title": "Statistical notices | Bank of England",
+        "text": "Statistical notices are issued to update the definitions and guidance contained within the Banking Statistics Yellow Folder.",
         "listing_probability": 0.95
       },
       {
-        "url": "https://www.bankofengland.co.uk/bank-overground/2019/how-do-we-measure-the-diversity-of-our-research-agenda",
-        "title": "How do we measure the diversity of our research agenda ...",
-        "text": null,
+        "url": "https://www.bankofengland.co.uk/markets/market-notices/2022/august/explanatory-note-on-operational-implications-of-apf-unwind",
+        "title": "Explanatory Note: Managing the operational implications of APF ...",
+        "text": "This Explanatory Note summarises the implications of the MPC's decisions in three key areas: (1) the mechanics of APF asset sales; (2) ensuring short-term ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/markets/market-notices/2025/june/recalibration-of-the-iltr-operation-market-notice-11-june-2025",
+        "title": "Recalibration of the Indexed Long-Term Repo Operation",
+        "text": "This Market Notice confirms the recalibrated parameters of the Indexed Long-Term Repo (ILTR) operation. In line with the Bank's transition ...",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/markets/market-notices/2022/october/gilt-market-operations-market-notice-10-october-2022",
+        "title": "Gilt Market Operations – Market Notice 10 October 2022 | Bank of England",
+        "text": "The Bank has carried out 8 daily auctions, offering to buy up to £40bn, and has made around £5bn of bond purchases.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/markets/market-notices/2014/market-notice-170614",
+        "title": "Extension to the schedule of 7-day US dollar repo operations",
+        "text": "3. Weekly 7-day US dollar repo operations will continue unchanged. An indicative schedule of weekly operations is on the Bank's website. 4. The full range of ...",
+        "listing_probability": 0.05
+      }
+    ]
+  },
+  {
+    "topic": "communication",
+    "entries": [
+      {
+        "url": "https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review",
+        "title": "Forecasting for monetary policy making and communication at the ...",
+        "text": "A thorough assessment of the Bank's current forecasting approach, and the relationship between the forecast, monetary policy decisions, and their communication.",
+        "listing_probability": 0.05
+      },
+      {
+        "url": "https://www.bankofengland.co.uk/working-paper/2020/the-3-es-of-central-bank-communication-with-the-public",
+        "title": "The 3 E's of central bank communication with the public",
+        "text": "In this paper we explore both theoretical and empirical evidence on communication with the general public.",
         "listing_probability": 0.05
       }
     ]

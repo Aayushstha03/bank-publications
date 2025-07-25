@@ -10,31 +10,200 @@
               {
                 "url": "https://www.richmondfed.org/publications/research",
                 "title": "Research Publications | Richmond Fed",
-                "text": "Econ Focus is the economics magazine of the Richmond Fed. This publication covers economic issues affecting the Fifth Federal Reserve District and the nation.",
+                "text": "Econ Focus is the economics magazine of the Richmond Fed. This publication covers economic issues affecting ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "sublinks": [
+                  {
+                    "title": "Conference Publications",
+                    "url": "https://www.richmondfed.org/publications/research/conference_publications"
+                  },
+                  {
+                    "title": "Econ Focus",
+                    "url": "https://www.richmondfed.org/publications/research/econ_focus"
+                  },
+                  {
+                    "title": "Economic Brief",
+                    "url": "https://www.richmondfed.org/publications/research/economic_brief"
+                  },
+                  {
+                    "title": "Working Papers",
+                    "url": "https://www.richmondfed.org/publications/research/working_papers"
+                  },
+                  {
+                    "title": "Economic Quarterly",
+                    "url": "https://www.richmondfed.org/publications/research/economic_quarterly"
+                  },
+                  {
+                    "title": "Annual Report",
+                    "url": "https://www.richmondfed.org/publications/research/annual_report"
+                  },
+                  {
+                    "title": "Economic Impact of COVID-19",
+                    "url": "https://www.richmondfed.org/publications/research/coronavirus"
+                  }
+                ],
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/working_papers",
+                "title": "Working Papers | Richmond Fed",
+                "text": "Papers written by Richmond Fed economists representing work prepared for later publication or presentation to professional meetings.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_brief",
+                "title": "Economic Brief | Richmond Fed",
+                "text": "Based on staff economists' research, this non-technical series of articles covers current economic issues and trends every month.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/econ_focus",
+                "title": "Econ Focus | Richmond Fed",
+                "text": "Econ Focus is the economics magazine of the Richmond Fed. The latest issue explores new interest in nuclear energy, community colleges in the criminal ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_quarterly",
+                "title": "Economic Quarterly - Federal Reserve Bank of Richmond",
+                "text": "Published from 1993 to 2020, this journal contained articles on monetary theory and policy, banking and finance, and the payment system.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Publications reports publications reports pdf",
+            "Publications reports publications reports examples",
+            "Publications reports publications reports 2022"
+          ],
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/research/data_analysis",
+                "title": "Data and Analysis | Richmond Fed",
+                "text": "These posts examine local, regional and national data that matter to the Fifth District economy and our communities.",
                 "source": "Federal Reserve Bank of Richmond",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
                 "position": 1
               },
               {
-                "url": "https://www.richmondfed.org/publications/research",
-                "title": "Research Publications | Richmond Fed",
+                "url": "https://www.richmondfed.org/region_communities/regional_data_analysis",
+                "title": "Regional Data & Analysis - Federal Reserve Bank of Richmond",
+                "text": "Our blog examines local, regional and national data that matter to the Fifth District economy and our communities.",
                 "source": "Federal Reserve Bank of Richmond",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.richmondfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.richmondfed.org/-/media/RichmondFedOrg/assets/images/publications/research/econ_focus/2025_q3/container_ship_sailing.JPG",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.richmondfed.org/publications/print_subscription",
-                "title": "Publications Order Form | Richmond Fed",
+                "url": "https://www.richmondfed.org/publications/research/econ_focus/2025/q1-q2_federal_reserve",
+                "title": "Good Data is Hard to Find | Richmond Fed",
+                "text": "New challenges have emerged to the production of economic statistics. How are Fed researchers and policymakers adjusting?",
                 "source": "Federal Reserve Bank of Richmond",
-                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.richmondfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                "image": "https://www.richmondfed.org/-/media/RichmondFedOrg/assets/images/promo/Publications/commdev_publications_subscription_pisi.jpg",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.richmondfed.org/research/national_economy/cfo_survey/data_and_results",
+                "title": "Data & Results | Richmond Fed",
+                "text": "View full results, download current and historical data, Excel file, view current and historical special questions, Excel file, key results summary.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2025/barkin_speech_20250626",
+                "title": "Forecasting Beyond Today's Data | Tom Barkin | Richmond Fed",
+                "text": "President Tom Barkin discusses what he's seeing in the data, hearing from businesses and expecting in the months to come.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-26T00:00:00",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Statistics bulletin data statistics data bulletin today",
+            "Statistics bulletin data statistics data bulletin excel"
+          ],
           "query": {
-            "q": "site:http://richmondfed.org/ (inurl:publications | inurl:reports) (intitle:publications | intitle:reports)"
+            "q": "site:http://richmondfed.org/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "monetary_policy",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_review/1988/er740301",
+                "title": "Financial Deregulation, Monetary Policy, and Central Banking",
+                "text": "The paper analyzes the need for financial regulations in the implementation of central bank policy. It emphasizes that a central bank serves two functions.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_review/1987/er730502",
+                "title": "The Case for Rules in the Conduct of Monetary Policy: A Concrete Example",
+                "text": "A policy rule can be activist; the distinction between rules and discretion depends on the stage at which optimization calculations enter the policy process ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/press_room/speeches/jeffrey_m_lacker/2015/lacker_speech_20151112",
+                "title": "What Monetary Policy Can and Can't Do | Richmond Fed",
+                "text": "The central bank should be cautious about using monetary policy in an attempt to affect real economic activity. It should be even more cautious ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "published_time": "2015-11-12T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.richmondfed.org/~/media/richmondfedorg/publications/research/economic_quarterly/2008/summer/pdf/ennis.pdf",
+                "title": "Understanding Monetary Policy Implementation",
+                "text": "Over the last two decades, central banks around the world have adopted a common approach to monetary policy that involves targeting the.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_brief/2011/eb_11-07",
+                "title": "Monetary Policy with Unknown Natural Rates | Richmond Fed",
+                "text": "A policy rule that responds to the rate of change in the actual unemployment rate rather than to the implied unemployment gap.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "Policy regulations guidelines policy regulations examples"
+          ],
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -54,25 +223,42 @@
                 "position": 1
               },
               {
-                "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus/archive",
-                "title": "Archive: Former President Al Broaddus' Speeches | Richmond Fed",
-                "text": "As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook — as others see ...",
+                "url": "https://www.richmondfed.org/press_room",
+                "title": "News | Richmond Fed",
+                "text": "Receive email alerts for speeches, press releases, and news. Subscribe to Email Alerts. Email Address. Subscribe.",
                 "source": "Federal Reserve Bank of Richmond",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
                 "position": 2
               },
               {
-                "url": "https://www.richmondfed.org/press_room/speeches/j_alfred_broaddus",
-                "title": "Former President J. Alfred Broaddus- Speeches | Richmond Fed",
-                "text": "June 16, 2004 As usual I'll begin with a recap of recent developments in the economy to put the outlook in perspective. Then I'll comment on the outlook.",
+                "url": "https://www.richmondfed.org/press_room/press_releases",
+                "title": "Press Releases - Federal Reserve Bank of Richmond",
+                "text": "News Releases. July 16, 2025. Beige Book. June 25, 2025. Record Concern about Tariffs Expected to Increase Costs and Prices, Reduce Hiring and Investment.",
                 "source": "Federal Reserve Bank of Richmond",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
                 "position": 3
+              },
+              {
+                "url": "https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2025/barkin_speech_20250626",
+                "title": "Forecasting Beyond Today's Data | Tom Barkin | Richmond Fed",
+                "text": "President Tom Barkin discusses what he's seeing in the data, hearing from businesses and expecting in the months to come.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "published_time": "2025-06-26T00:00:00",
+                "position": 4
+              },
+              {
+                "url": "https://www.richmondfed.org/press_room/contacts",
+                "title": "Contacts - Press Room | Richmond Fed",
+                "text": "The Richmond Fed's media relations team connects journalists with our experts in economics, banking, community development, payments services and other subjects ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:http://richmondfed.org/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:http://richmondfed.org/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -90,6 +276,22 @@
                 "source": "Federal Reserve Bank of Richmond",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
                 "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/working_papers/2024",
+                "title": "Working Papers - Federal Reserve Bank of Richmond",
+                "text": "This paper offers novel insights on modern bank runs using confidential data on wholesale and retail payments to detail the bank runs of March 2023.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-06",
+                "title": "How Do Banks Choose Where to Place Branches? | Richmond Fed",
+                "text": "We study the impact of geographic deregulation on where banks choose to locate. We find that the resulting patterns balance two forces for sorting in space: ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 3
               },
               {
                 "url": "https://www.richmondfed.org/publications/research",
@@ -127,25 +329,135 @@
                     "url": "https://www.richmondfed.org/publications/research/goodfriend"
                   }
                 ],
-                "position": 2
+                "position": 4
               },
               {
-                "url": "https://www.richmondfed.org/publications/research/working_papers/archive",
-                "title": "Working Papers Archives - Federal Reserve Bank of Richmond",
-                "text": "Elijah Broadbent, Huberto M. Ennis, Tyler J. Pike and Horacio Sapriza. August 2024, No. 24-06. Bank Competition and Strategic Adaptation to Climate Change.",
+                "url": "https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-16",
+                "title": "How Well Do Firms Retain Customers After Price Increases?",
+                "text": "An increase in demand elasticity leads to firms reducing markups, amplifying the effect of demand shocks on consumption. Samira Gholami is a research associate ...",
                 "source": "Federal Reserve Bank of Richmond",
                 "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
-                "position": 3
+                "position": 5
               }
             ]
           },
           "related": [
             "Research working papers papers research working papers ') pdf",
-            "Research working papers papers research working papers ') 2022",
-            "Research working papers papers research working papers ') 2020"
+            "Research working papers papers research working papers ') 2022"
           ],
           "query": {
-            "q": "site:http://richmondfed.org/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:http://richmondfed.org/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-15",
+                "title": "Tariff Update: Incorporating the April 9 Announcements | Richmond Fed",
+                "text": "In this article, we updated the AETR to include the April 9 proposals that largely center around increased tariffs on China and a pause on many tariffs on ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "published_time": "2025-04-09T00:00:00",
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-13",
+                "title": "Tariffs Update: Potential Effects of the April 2 Announcements | Richmond ...",
+                "text": "The 2025 announcements increase the AETR from 2.3 percent in 2024 to 22.2 percent, representing a 15-fold increase and the most significant tariff shock in ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "published_time": "2025-04-02T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/-/media/richmondfedorg/banking/qsr-people/qsr_events/opriskconference2018/1a_ashby_presentation_reputationmediatone.pdf",
+                "title": "The Reputational Effects of Textual Information in Operational Risk ...",
+                "text": "Last week, the select committee published a presentation produced by IBM days after it was brought in to help with the IT problems, which suggested TSB had ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.richmondfed.org/banking/banker_resources/reporting_resources/latest_updates",
+                "title": "Latest Updates - Reporting Forms for Financial Institutions | Richmond Fed",
+                "text": "Latest Updates: Bank Receive the latest changes on report forms and instructions and other announcements.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-13",
+                "title": "Tariffs Update: Potential Effects of the April 2 ...",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.richmondfed.org&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.richmondfed.org/-/media/RichmondFedOrg/assets/images/publications/research/economic_brief/2025/eb_25-13_fig4a.png",
+                "published_time": "2025-04-02T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.richmondfed.org/publications/research/working_papers/2000/wp_00-11",
+                "title": "Incentives, Communication, and Payment Instruments | Richmond Fed",
+                "text": "Alternative payment instruments are studied in an economy with private information, delayed communication, and limited commitment.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 1
+              },
+              {
+                "url": "https://www.richmondfed.org/~/media/richmondfedorg/publications/research/working_papers/2000/pdf/wp00-11.pdf",
+                "title": "Incentives, Communication, and Payment Instruments",
+                "text": "Alternative payment instruments are studied in an economy with private infor- mation, delayed communication, and limited commitment. Attention is restricted.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 2
+              },
+              {
+                "url": "https://www.richmondfed.org/publications/research/economic_review/1982/er680202",
+                "title": "The Federal Reserve's Role in the Payments Mechanism and It's ...",
+                "text": "The Federal Reserve's Role in the Payments Mechanism and It's Communication Patterns. By Theordore E. Allison. Economic Review. Mar/Apr, 1982.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 3
+              },
+              {
+                "url": "https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_review/1982/pdf/er680202.pdf",
+                "title": "The Federal Reserve's Role in the Payments Mechanism and Its ...",
+                "text": "Introduction. I am pleased to be able to discuss with your Subcommittee the role of the Federal. Reserve in the provision of payments mechanism.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 4
+              },
+              {
+                "url": "https://www.richmondfed.org/-/media/richmondfedorg/publications/research/econ_focus/2007/spring/pdf/feature5.pdf",
+                "title": "From The Yield Curve - Federal Reserve Bank of Richmond",
+                "text": "Bank supervisors get paid to worry — even when there may be little to worry about. Historically, when the yield curve inverts — that is, when short-.",
+                "source": "Federal Reserve Bank of Richmond",
+                "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX///+9ydVJaovV3eRNcJAFNWK9x9RbdZQYPWknRXDIztpneps0TnhBV4Di5OxNYIh7i6ertcdCWIBZapFUZo2QnLVecJRldZlygKGhqsCnr8Tm6e7x8vWLl7O0u86bpb17iKi7wtK6wNLO09/Y2uYIOcoFAAAAdklEQVR4AVXIhQGAMAwAweDubvX9V8RpyldzYGTZzm90Pc8APwjPHByjuxfiJD3LzpM/UGRXZVVnLzRFUbRlB3H/wtA04zR3AMv6wDhsFZkp6NhYEVJNCNvGOSczQkdjzgVBmEjsn4RAYillLBFidYeg8rtnOADAHwjPUDWg+wAAAABJRU5ErkJggg==",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:http://richmondfed.org/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]

@@ -2,23 +2,175 @@
   "Bank Name": "Bangladesh Bank",
   "search_results": [
     {
+      "topic": "publications",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jul-sep2012/bbquarterly.php",
+                "title": "Publications - Bangladesh Bank",
+                "text": "Bangladesh Bank Quarterly Editor : Dr. Hassan Zaman Chief Economist Coordinator: Begum Sultana Razia General Manager Research Department Team Members",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/apr-jun2011/bbquarterly.php",
+                "title": "Publications - Bangladesh Bank",
+                "text": "Bangladesh Bank Quarterly Editor : Dr. Md Akhtaruzzaman Economic Adviser Co-editor: Md. Shahidul Alam General Manager Research Department",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 2
+              },
+              {
+                "url": "https://www.bb.org.bd/smespd_portal/publications.html",
+                "title": "Publications - | SME & Special Programmes Department",
+                "text": "Small and Medium Enterprise (SME) Credit Policies & Programmes, Bangla · English ; Bangladesh Bank Initiatives for Women Entrepreneurship Development, Bangla.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 3
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jul-sep2017/bbquarterly.php",
+                "title": "Publications",
+                "source": "Bangladesh Bank",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bb.org.bd&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jul-sep2017/cover.jpg",
+                "position": 4
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/monthly/econtrds/nov19/econtrds.php",
+                "title": "Publications",
+                "source": "Bangladesh Bank",
+                "favicon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bb.org.bd&client=IMAGE_SEARCH&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "image": "https://www.bb.org.bd/pub/monthly/econtrds/nov19/cover.png",
+                "position": 5
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:publications OR inurl:reports) OR (intitle:publications OR intitle:reports)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "statistics",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/aboutus/dept/stat/surveyforms.php",
+                "title": "Statistics Department - Bangladesh Bank",
+                "text": "The basic objective of this statistical survey is to identify the sources through which Foreign Direct Investment (FDI) come into Bangladesh and vice versa.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/monthly/remittance/01_compressed.pdf",
+                "title": "Statistics Department Bangladesh Bank",
+                "text": "Statistics Department, Bangladesh Bank also provides these data to different ministries, other government, non-government and international ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2024-12-01T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bb.org.bd/aboutus/regulationguideline/sbs_5thedition.pdf",
+                "title": "SBS-1, SBS-2 & SBS-3 (Fifth edition) - Bangladesh Bank",
+                "text": "In the light of current economic activities and experiences thereof, the fifth edition of the revised directory on compilation of Banking Statistics.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 3
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/annual/saarc/saarc%20finance%20report_2025.pdf",
+                "title": "FY 2023-24 SAARC Finance Database Cell Statistics ...",
+                "text": "Contents. Page no. 1. Introduction………………………………………………………………………... 1. 2. The overall export earnings, import payments, remittances and Foreign Direct.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 4
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/monthly/remittance/01%20(1).pdf",
+                "title": "Statistics Department Bangladesh Bank",
+                "text": "Statistics Department, Bangladesh Bank also provide these data to different ministries, other government, non-government and international ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2024-10-01T00:00:00",
+                "position": 5
+              }
+            ]
+          },
+          "related": [
+            "Statistics bulletin data statistics data bulletin pdf",
+            "Statistics bulletin data statistics data bulletin 2022",
+            "Statistics bulletin data statistics data bulletin 2021"
+          ],
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:statistics OR inurl:bulletin OR inurl:data) OR (intitle:statistics OR intitle:data OR intitle:bulletin)"
+          }
+        }
+      ]
+    },
+    {
       "topic": "monetary_policy",
       "search_result": [
         {
           "results": {
             "web": [
               {
-                "url": "https://www.bb.org.bd/pub/halfyearly/monetaryprev/monetary%20policy%20review%202023-24.pdf",
-                "title": "Monetary Policy Review 2023-24 | Bangladesh Bank",
-                "text": "Bangladesh Bank used a hawkish approach to monetary policy in 2023, with contractionary stance for H2FY24, to mitigate inflation and restore exchange rate ...",
+                "url": "https://www.bb.org.bd/mediaroom/circulars/brpd/oct272013brpdle18new.pdf",
+                "title": "Banking Regulation & Policy Department Bangladesh Bank ...",
+                "text": "The issue of good governance is very important in bank management. In order to strengthen the financial base of the bank and obtain confidence of the ...",
                 "source": "Bangladesh Bank",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
                 "position": 1
+              },
+              {
+                "url": "https://www.bb.org.bd/aboutus/regulationguideline/aml/aml-cft-guidelines.pdf",
+                "title": "guidelines on prevention of - money laundering & combating financing ...",
+                "text": "This Guideline titled \"Guidelines on prevention of money laundering & combating financing of terrorism for capital market intermediaries (referred herein as ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 2
+              },
+              {
+                "url": "https://www.bb.org.bd/aboutus/regulationguideline/psd/agentbanking_banks_v13.pdf",
+                "title": "Guidelines on Agent Banking for the Banks - Bangladesh Bank",
+                "text": "7.0 Regulatory Issues\n\n1. Without having approval from Bangladesh Bank no bank shall be allowed to undertake agent banking business.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 3
+              },
+              {
+                "url": "https://www.bb.org.bd/aboutus/regulationguideline/islamicbanking/guideislamicbnk.pdf",
+                "title": "Guidelines for Conducting Islamic Banking",
+                "text": "f) Accounting aspects, such as accounting policies to be followed, the principles and mechanism of profit / loss sharing / distribution. g) Undertaking for ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 4
+              },
+              {
+                "url": "https://www.bb.org.bd/mediaroom/baselii/dec212014basel3_rbca.pdf",
+                "title": "Guidelines on Risk Based Capital Adequacy - Bangladesh Bank",
+                "text": "To cope up with the international best practices and to make the bank's capital shock absorbent 'Guidelines on Risk Based Capital Adequacy (RBCA) for banks' ( ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "Policy regulations guidelines policy regulations pdf",
+            "List of policy regulations guidelines policy regulations",
+            "Policy regulations guidelines policy regulations 2022"
+          ],
           "query": {
-            "q": "site:https://www.bb.org.bd/ (inurl:policy | inurl:regulations | inurl:guidelines) (intitle:policy | intitle:regulations)"
+            "q": "site:https://www.bb.org.bd/ (inurl:policy OR inurl:regulations OR inurl:guidelines) OR (intitle:policy OR intitle:regulations)"
           }
         }
       ]
@@ -30,9 +182,9 @@
           "results": {
             "web": [
               {
-                "url": "https://www.bb.org.bd/mediaroom/press_release/press/may042011tkwrtavd.pdf",
-                "title": "BANGLADESH BANK PRESS RELEASE",
-                "text": "Page 1. BANGLADESH BANK PRESS RELEASE.",
+                "url": "https://www.bb.org.bd/recentupcoming/governormsg.php",
+                "title": "Governor's speeches and addresses - Bangladesh Bank",
+                "text": "Date, Governor's Speeches and Addresses in Recent Events (link). 29/07/21, BB Governor's Address at Monetary Policy Statement announcement for FY2021-22 ...",
                 "source": "Bangladesh Bank",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
                 "position": 1
@@ -52,11 +204,31 @@
                 "source": "Bangladesh Bank",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
                 "position": 3
+              },
+              {
+                "url": "https://www.bb.org.bd/mediaroom/circulars/aml/sep0702aml01.html",
+                "title": "Press Release-Circulars-AML - Bangladesh Bank",
+                "text": "Economic Data · Economic Trends · Annual Report · Other Links · Home | About Bangladesh Bank | Economic Data | Convertibility of Taka | Financial System ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 4
+              },
+              {
+                "url": "https://www.bb.org.bd/museum/taka_mus.php",
+                "title": "Donor's news - Bangladesh Bank",
+                "text": "Bangladesh Bank Received Ancient Coin for Taka Jadughar from M.A. Kasem(12/06/2013) details.. Bangladesh Bank Received Ancient Coin for Taka Jadughar from Engr.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 5
               }
             ]
           },
+          "related": [
+            "News speeches press news speeches press today",
+            "News speeches press news speeches press pdf"
+          ],
           "query": {
-            "q": "site:https://www.bb.org.bd/ (inurl:news | inurl:speeches | inurl:press) (intitle:news | intitle:speeches | intitle:press)"
+            "q": "site:https://www.bb.org.bd/ (inurl:news OR inurl:speeches OR inurl:press) OR (intitle:news OR intitle:speeches OR intitle:press)"
           }
         }
       ]
@@ -76,25 +248,136 @@
                 "position": 1
               },
               {
-                "url": "https://www.bb.org.bd/pub/research/workingpaper/wp0709.pdf",
-                "title": "Working Paper Series: WP 0709 Non-Bank Financial Institutions in ...",
-                "text": "These papers reflect research in progress, and as such comments are most welcome. It is anticipated that a majority of these papers will eventually be ...",
+                "url": "https://www.bb.org.bd/pub/research/sp_research_work/srw1902.pdf",
+                "title": "A Survey Report on Loans for Expatriates- Its Uses and Impact",
+                "text": "The survey finds that 69 percent of the total. (107) expatriates could not repay their loan because of irregularity of their jobs, unexpected work condition, ...",
                 "source": "Bangladesh Bank",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
                 "position": 2
               },
               {
-                "url": "https://www.bb.org.bd/pub/research/workingpaper/wp0712.pdf",
-                "title": "Working Paper Series: WP 0712 Policy Analysis Unit (PAU)",
-                "text": "Abstract. This paper attempts to find out the relationship between FDI, trade liberalization and economic growth for 5 South Asian countries during the ...",
+                "url": "https://www.bb.org.bd/pub/research/sp_research_work/srw1904.pdf",
+                "title": "Liquidity Management Instruments for the Islamic Banks in Bangladesh",
+                "text": "The paper also touched on the institutional arrangements for interbank market operations and the design of effective central bank credit ...",
                 "source": "Bangladesh Bank",
                 "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2019-09-30T00:00:00",
                 "position": 3
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/research/sp_research_work/srw2001.pdf",
+                "title": "SRW 2001 An Impact Assessment Study on Special Agricultural Credit ...",
+                "text": "Many studies have explored the relationship between financial access and economic productivity in different sectors. In the agriculture sector, credit access to ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 4
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/research/workingpaper/wp0807.pdf",
+                "title": "Policy Analysis Unit (PAU) - Bangladesh Bank",
+                "text": "prepares and publishes Working Papers on macroeconomic issues as a part of its routine activities. These papers reflect research in progress, and as such ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 5
               }
             ]
           },
           "query": {
-            "q": "site:https://www.bb.org.bd/ (inurl:research | inurl:working-papers | inurl:papers) (intitle:research | intitle:'working papers')"
+            "q": "site:https://www.bb.org.bd/ (inurl:research OR inurl:working-papers OR inurl:papers) OR (intitle:research OR intitle:'working papers')"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "announcements",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/financial_inclution_report/jun2020.pdf",
+                "title": "Quarterly updates on no-frill accounts opened under financial inclusion ...",
+                "text": "This report provides quarterly update of the No-Frill Accounts opened with an initial deposit of Tk. 10/50/100 in the bank in favour of various ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jul-sep2012/boxes.pdf",
+                "title": "July-September, 2012 - Bangladesh Bank",
+                "text": "Referring to FID Circular No. 02, dated 27 March, 2001, it has been observed that some of the financial institutions are.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2012-09-30T00:00:00",
+                "position": 2
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/jan-mar2013/boxes.pdf",
+                "title": "January-March, 2013 - Bangladesh Bank",
+                "text": "Attention of the Authorized Dealers (ADs) is invited regarding repatriation of commission earnings of 'foreign stock brokerage firms' abroad.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2013-03-05T00:00:00",
+                "position": 3
+              },
+              {
+                "url": "https://www.bb.org.bd/pub/quaterly/bbquarterly/apr-jun2012/boxes.pdf",
+                "title": "April – June 2012 BRPD Circular Letter No.04 17 ... - Bangladesh Bank",
+                "text": "It has been clarified that non-authorized dealer bank branches and non-bank financial institutions may provide term loans in Taka ...",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2012-06-14T00:00:00",
+                "position": 4
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:announcements OR inurl:updates) OR (intitle:announcements OR intitle:updates)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "notices",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/recentupcoming/news/dec212015newse1329.pdf",
+                "title": "PM alerts BGB on mutiny-like incident - Bangladesh Bank",
+                "text": "Prime Minister Sheikh Hasina looks on as BB Governor Dr Atiur Rahman hands over the letter of intent of the.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "published_time": "2015-12-21T00:00:00",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:notices OR inurl:alerts) OR (intitle:notices OR intitle:alerts)"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "communication",
+      "search_result": [
+        {
+          "results": {
+            "web": [
+              {
+                "url": "https://www.bb.org.bd/mediaroom/circulars/brpd/guideline_ict_sb.pdf",
+                "title": "Guideline on Information & Communication Technology for ...",
+                "text": "The banking industry has changed in the way they provide service to their customers and process information in recent years. Information Technology.",
+                "source": "Bangladesh Bank",
+                "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=bb.org.bd",
+                "position": 1
+              }
+            ]
+          },
+          "query": {
+            "q": "site:https://www.bb.org.bd/ (inurl:communication OR inurl:messages) OR (intitle:communication OR intitle:messages)"
           }
         }
       ]
