@@ -6,7 +6,7 @@ import time
 import re
 
 API_URL = "https://laterical.com/api/call/"
-BANKS_PATH = os.path.join(os.path.dirname(__file__), 'websites_deduped.csv')
+BANKS_PATH = os.path.join(os.path.dirname(__file__), 'websites.csv')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), 'data')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OBJECTS_DIR = os.path.join(OUTPUT_DIR, 'search_results')
